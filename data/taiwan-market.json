@@ -1,0 +1,13 @@
+{
+  "module": "taiwan",
+  "updated": "2025-01-01T00:00:00Z",
+  "items": [
+    {
+      "title": "資料尚未抓取，請設定 GitHub Actions 後執行首次同步",
+      "summary": "請依照 README 設定 NEWSAPI_KEY，並手動觸發 GitHub Actions workflow 以抓取真實資料。",
+      "source": "系統提示",
+      "date": "2025-01-01",
+      "url": ""
+    }
+  ]
+}

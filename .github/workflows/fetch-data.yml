@@ -1,0 +1,36 @@
+name: 抓取再生醫療情報資料
+
+on:
+  schedule:
+    # 每天台灣時間 07:00（UTC 23:00 前一天）和 19:00（UTC 11:00）
+    - cron: '0 23 * * *'
+    - cron: '0 11 * * *'
+  workflow_dispatch:  # 允許手動觸發
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 執行資料抓取腳本
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        run: python scripts/fetch_all.py
+
+      - name: 提交更新後的資料
+        run: |
+          git config user.name "Regen Intel Bot"
+          git config user.email "bot@regen-intel.local"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: 自動更新情報資料 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

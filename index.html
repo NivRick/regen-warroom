@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>再生醫療戰情室</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- 密碼入口 -->
+<div id="login-screen">
+  <div class="login-box">
+    <div class="login-logo">⚕</div>
+    <h1 class="login-title">REGEN INTEL</h1>
+    <p class="login-sub">再生醫療情報系統 v2.0</p>
+    <div class="login-form">
+      <input type="password" id="pwd-input" placeholder="輸入存取密碼" autocomplete="current-password" />
+      <button id="pwd-btn" onclick="checkPassword()">進入系統</button>
+    </div>
+    <p id="login-error" class="login-error"></p>
+    <p class="login-hint">預設密碼：regen2025</p>
+  </div>
+</div>
+
+<!-- 主介面 -->
+<div id="main-app" class="hidden">
+
+  <!-- 頂部導覽 -->
+  <header class="top-bar">
+    <div class="top-bar-left">
+      <span class="logo-icon">⚕</span>
+      <span class="logo-text">REGEN INTEL</span>
+    </div>
+    <div class="top-bar-right">
+      <span id="last-update" class="update-time">載入中...</span>
+      <button class="logout-btn" onclick="logout()">登出</button>
+    </div>
+  </header>
+
+  <!-- 狀態列 -->
+  <div class="status-bar">
+    <div class="status-item">
+      <span class="status-dot pulse"></span>
+      <span>即時監控</span>
+    </div>
+    <div class="status-item">
+      <span id="total-items">--</span> 條情報
+    </div>
+    <div class="status-item" id="data-date">--</div>
+  </div>
+
+  <!-- 快速篩選 tabs -->
+  <nav class="module-tabs">
+    <button class="tab-btn active" data-module="all" onclick="filterModule('all', this)">全部</button>
+    <button class="tab-btn" data-module="taiwan" onclick="filterModule('taiwan', this)">台灣市場</button>
+    <button class="tab-btn" data-module="research" onclick="filterModule('research', this)">臨床突破</button>
+    <button class="tab-btn" data-module="apac" onclick="filterModule('apac', this)">亞太合作</button>
+    <button class="tab-btn" data-module="regulation" onclick="filterModule('regulation', this)">法規</button>
+    <button class="tab-btn" data-module="funding" onclick="filterModule('funding', this)">資金</button>
+    <button class="tab-btn" data-module="tourism" onclick="filterModule('tourism', this)">醫療旅遊</button>
+  </nav>
+
+  <!-- 情報卡片容器 -->
+  <main class="cards-container" id="cards-container">
+    <div class="loading-spinner">
+      <div class="spinner"></div>
+      <p>載入情報資料...</p>
+    </div>
+  </main>
+
+  <!-- 底部 -->
+  <footer class="footer">
+    <p>資料來源：TWSE MOPS · PubMed · FDA · 公開新聞 RSS</p>
+    <p>每日自動更新 · 僅供研究參考</p>
+  </footer>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
