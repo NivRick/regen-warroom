@@ -1,13 +1,76 @@
 {
   "module": "taiwan",
-  "updated": "2025-01-01T00:00:00Z",
+  "updated": "2026-06-02T10:13:12.533232+00:00",
   "items": [
     {
-      "title": "資料尚未抓取，請設定 GitHub Actions 後執行首次同步",
-      "summary": "請依照 README 設定 NEWSAPI_KEY，並手動觸發 GitHub Actions workflow 以抓取真實資料。",
-      "source": "系統提示",
-      "date": "2025-01-01",
-      "url": ""
+      "title": "再生醫療產品 拚2026年上市 - 經濟日報",
+      "summary": "再生醫療產品 拚2026年上市&nbsp;&nbsp;經濟日報",
+      "source": "Google News",
+      "date": "2026-02-24",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zaWFIcGZtck9GeFVIN0tqMnRwLTNyTWhuMjVBd1RUNVBEb0ZzTFNGaGpHRUxmNlBrNUZOTmpaVEdRX3pCOTYxU0RkQUdlWUtjSXRydHRlMEtiZ9IBX0FVX3lxTE5fNU5hcnVXVnhrOEVLNkRXS0xwSkVIbzBBTTAzYU1HZG84Qk5jRVFLN1lsY1hMQkl2cjk3MzZVR1hNeHlmSFlKM2JEdVRJZzVudUxVYVBhakxxWkRWRmNN?oc=5"
+    },
+    {
+      "title": "食藥署長姜至剛：台灣要走在世界前面 再生醫療產品審查加速，台廠「掛號」申請輔導 - 財訊",
+      "summary": "食藥署長姜至剛：台灣要走在世界前面 再生醫療產品審查加速，台廠「掛號」申請輔導&nbsp;&nbsp;財訊",
+      "source": "Google News",
+      "date": "2026-03-25",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HcnVieWo5VHFYeXBPczNRRkpEVWdvNzloZnFOcEhxTDg4ay1xLVpOX2sxUXhuNHhLWEdmdlk0NmJYT2NLQ0RfWE1jQkxHcXlXYU4weExXNThKdnhTTFJUZUV4UkZpZDVZN0U4MHRaOGxSaWdQRldBalpCTQ?oc=5"
+    },
+    {
+      "title": "再生醫療雙法正式上路 生技廠搶搭順風車搶攻商機 - news.cnyes.com",
+      "summary": "再生醫療雙法正式上路 生技廠搶搭順風車搶攻商機&nbsp;&nbsp;news.cnyes.com",
+      "source": "Google News",
+      "date": "2026-01-01",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Jc2dnbnRib1FqY2prQnEwWGptSTA4QzB1OVpkU2F6NEN5eFpxcUtjWnFzaFBQYzNVb0Zwb3loQXRfbjhkTFBxVWRqR2J1T2c?oc=5"
+    },
+    {
+      "title": "向榮(6794)再生醫療佈局加速起跑， 預計10月中轉上市 承銷價50.8元(9/22日股價95元) - genetinfo.com",
+      "summary": "向榮(6794)再生醫療佈局加速起跑， 預計10月中轉上市 承銷價50.8元(9/22日股價95元)&nbsp;&nbsp;genetinfo.com",
+      "source": "Google News",
+      "date": "2025-09-22",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kYUMwS1hYcWplYTBRVDJxdjBHNC1WR2FpdmlSV2RuWlJTVDkxM25CWVVLS2ZHajhJc2twWHhPLWZmWVo1d0k3bFVlelJYXy0ycTZZS3N2TWF5RHpJaWMxcERoNmgwWXI5UVAyQWp3?oc=5"
+    },
+    {
+      "title": "【北美智權報395期】再生醫療雙法2026正式上路，外泌體產業高速成長是商機還是亂象？ | 2026 年 1 月 1 日 - 北美智權",
+      "summary": "【北美智權報395期】再生醫療雙法2026正式上路，外泌體產業高速成長是商機還是亂象？ | 2026 年 1 月 1 日&nbsp;&nbsp;北美智權",
+      "source": "Google News",
+      "date": "2026-01-01",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BUElyS1hUNkRYN1R3ei1ia3libDlncFo0Z3JnMVlucW1ha05oZUg3U3NQTVczdXJwbDBzbG05OVZFbGl2Wm1CMw?oc=5"
+    },
+    {
+      "title": "石崇良：施政展望首推組改 專案輔導再生醫療產品上市 - rti.org.tw",
+      "summary": "石崇良：施政展望首推組改 專案輔導再生醫療產品上市&nbsp;&nbsp;rti.org.tw",
+      "source": "Google News",
+      "date": "2026-02-03",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91Q0tYREdPQkhFRWlFcWpxdXNIZ3FxM1NxT2JZWXpyMGxjaTlvVmlKcGFLS2VqaVlaODU0d2FURmw2VlBfOHhsNU82SDFXOVZuQUFCemtlVQ?oc=5"
+    },
+    {
+      "title": "向榮生技10月16日改列一般板上市 - 今周刊",
+      "summary": "向榮生技10月16日改列一般板上市&nbsp;&nbsp;今周刊",
+      "source": "Google News",
+      "date": "2025-10-14",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWFRrVHpydW5MSFNFamFtaV9vYXZFR01HdlBQMW01SmZuc0tTX25XUzJ2R3QwQkJvRTEwbmxMMkxTaGpJTUkzek1ybGZGTVNPQVdvLThZZE15MTZ5cVliVDFtVWp4LVlDUUxDTEI4dFFvWWNrcmM5MzdBWVE3MllHcA?oc=5"
+    },
+    {
+      "title": "再生醫療雙法正式上路 生技廠搶搭順風車搶攻商機 - 優分析UAnalyze",
+      "summary": "再生醫療雙法正式上路 生技廠搶搭順風車搶攻商機&nbsp;&nbsp;優分析UAnalyze",
+      "source": "Google News",
+      "date": "2026-01-01",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mdy0wUnlPQXEwYzRLMklqcDB4YmZGYTF5QjZoN3cxQVI2dE83Z0hkMEdXcFh0R2RqV1dlcVZheUJJX2RKY21ONE1ULUN2YXJSend0NWh3?oc=5"
+    },
+    {
+      "title": "再生雙法 2026 正式上路 三大關鍵變革 重新定義台灣再生醫療產業 - 理財周刊",
+      "summary": "再生雙法 2026 正式上路 三大關鍵變革 重新定義台灣再生醫療產業&nbsp;&nbsp;理財周刊",
+      "source": "Google News",
+      "date": "2026-01-06",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTTC1jOUtZcXlkeUxseGs2WHAtWXh3T3dvLTQ2TE9TZXlfRlo1LU56d0tnbUxGZ3FCZVNtZmk5Mml2aktDOVlBTm5aM0JmeldLT1BBUE42b1ZGX3RDUlphcEhnN2ExRTc1TmZzbUF3dw?oc=5"
+    },
+    {
+      "title": "誰是1號神祕台廠？再生醫療力拚上市 食藥署爆已有企業「掛號」了 - 中時新聞網",
+      "summary": "誰是1號神祕台廠？再生醫療力拚上市 食藥署爆已有企業「掛號」了&nbsp;&nbsp;中時新聞網",
+      "source": "Google News",
+      "date": "2026-04-05",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ObGVXcmpkQVJXSlJCdVFPWHZGQUxna2VXeTljNkxEekhHcFNGalVUUGVxc2dtVjdyYWlYSjFQTDBHNnV0eDlFZ2EyZ21UZk5EYjJBT3YtdGRVbmZsaEsyNWhPUkRJSWFNUGI4V0pn?oc=5"
     }
   ]
 }
