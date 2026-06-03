@@ -1,6 +1,6 @@
 // ── 密碼驗證 ──
 // SHA-256("regen2025")
-const PASS_HASH = '0ba4070b7679f2eb2e7db3dfa6951c26df25cdc7d324d2f6a6ec3d1b5bed1956';
+const PASS_HASH = '74a148789560c4870dfac86e2b8915e03920db298ead51272ff2f8d0de59d951';
 
 async function sha256(str) {
   const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
