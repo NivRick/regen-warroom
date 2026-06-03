@@ -638,11 +638,24 @@ mark {
 .stock-chip.down .stock-chg { color: #10b981; }
 .stock-chip.flat .stock-chg { color: var(--text-dim); }
 
+.ticker-sep {
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--text-dim);
+  letter-spacing: 0.5px;
+  flex-shrink: 0;
+  padding: 0 4px;
+  border-left: 1px solid var(--border);
+  margin-left: 4px;
+}
+
 .ticker-date {
   font-size: 10px;
   color: var(--text-dim);
   flex-shrink: 0;
   margin-left: 4px;
+  border-left: 1px solid var(--border);
+  padding-left: 6px;
 }
 
 /* ── #9 Controls Bar（排序 / 摘要 / 關注 / 統計 / 匯出）── */

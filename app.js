@@ -155,24 +155,44 @@ async function loadStocks() {
 
 function renderStockTicker(data) {
   const ticker = document.getElementById('stock-ticker');
-  if (!ticker) return;
+  if (!ticker || !data.stocks?.length) return;
 
-  const chips = data.stocks.map(s => {
-    const isUp   = s.change_pct > 0;
-    const isDown = s.change_pct < 0;
-    const cls    = isUp ? 'up' : isDown ? 'down' : 'flat';
-    const arrow  = isUp ? '▲' : isDown ? '▼' : '─';
-    const pct    = Math.abs(s.change_pct).toFixed(2);
-    const url    = `https://tw.stock.yahoo.com/quote/${s.code}.TW`;
-    return `<a class="stock-chip ${cls}" href="${url}" target="_blank" rel="noopener" title="${s.name} (${s.code})">
-      <span class="stock-name">${escHtml(s.name)}</span>
-      <span class="stock-price">${s.close}</span>
-      <span class="stock-chg">${arrow}${pct}%</span>
-    </a>`;
-  }).join('');
+  // 依上中下游分組
+  const TIERS = ['上游', '中游', '下游'];
+  const grouped = {};
+  TIERS.forEach(t => grouped[t] = []);
+  data.stocks.forEach(s => {
+    if (grouped[s.tier]) grouped[s.tier].push(s);
+    else grouped['上游']?.push(s); // 未知 tier 歸上游
+  });
 
-  const dateLabel = data.stocks[0]?.date ? `<span class="ticker-date">${data.stocks[0].date}</span>` : '';
-  ticker.innerHTML = `<span class="ticker-label">📈 台股</span>${chips}${dateLabel}`;
+  const TIER_ICONS = { '上游': '🔵', '中游': '🟡', '下游': '🔴' };
+
+  let html = `<span class="ticker-label">📈 台股</span>`;
+
+  TIERS.forEach(tier => {
+    const stocks = grouped[tier];
+    if (!stocks?.length) return;
+    html += `<span class="ticker-sep">${TIER_ICONS[tier]}${tier}</span>`;
+    html += stocks.map(s => {
+      const isUp  = s.change_pct > 0;
+      const isDown = s.change_pct < 0;
+      const cls   = isUp ? 'up' : isDown ? 'down' : 'flat';
+      const arrow = isUp ? '▲' : isDown ? '▼' : '─';
+      const pct   = Math.abs(s.change_pct).toFixed(2);
+      const url   = `https://tw.stock.yahoo.com/quote/${s.code}.TW`;
+      return `<a class="stock-chip ${cls}" href="${url}" target="_blank" rel="noopener"
+        title="${s.name}（${s.code}）${tier}">
+        <span class="stock-name">${escHtml(s.name)}</span>
+        <span class="stock-price">${s.close}</span>
+        <span class="stock-chg">${arrow}${pct}%</span>
+      </a>`;
+    }).join('');
+  });
+
+  const dateLabel = data.stocks[0]?.date
+    ? `<span class="ticker-date">${data.stocks[0].date}</span>` : '';
+  ticker.innerHTML = html + dateLabel;
   ticker.classList.remove('hidden');
 }
 

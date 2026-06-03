@@ -903,17 +903,38 @@ def fetch_competitors():
 
 
 # ════════════════════════════════════════════════
-# 8. 台灣生技股票（TWSE 收盤資料）
+# 8. 台灣再生醫療股票（TWSE + OTC 收盤資料）
+#    來源：statementdog.com/taiex/29-regenerative-medicine-industry
+#    格式：(股票代碼, 公司名稱, 產業層級)
 # ════════════════════════════════════════════════
 STOCK_WATCHLIST = [
-    ("1784", "訊聯生技"),
-    ("6712", "長聖國際"),
-    ("6794", "醣基生醫"),
-    ("6579", "亞果生醫"),
-    ("4726", "宣捷生技"),
-    ("4130", "健亞生技"),
-    ("6550", "北極星藥"),
-    ("4707", "磐亞"),
+    # ── 上游：幹細胞收集儲存 ──
+    ("1784", "訊聯",     "上游"),
+    ("4170", "鑫品生醫", "上游"),
+    ("4186", "尖端醫",   "上游"),
+    ("6461", "益得",     "上游"),
+    ("6712", "長聖",     "上游"),
+    ("6794", "向榮生技", "上游"),
+    ("6838", "台新藥",   "上游"),
+    ("6891", "樂迦再生", "上游"),
+    ("6892", "台寶生醫", "上游"),
+    ("6704", "國璽幹細胞","上游"),
+    ("4724", "宣捷",     "上游"),
+    ("6973", "永立榮",   "上游"),
+    ("6986", "和迅",     "上游"),
+    # ── 中游：幹細胞開發 ──
+    ("6748", "亞果生醫", "中游"),
+    ("6879", "大江基因", "中游"),
+    ("6976", "育世博",   "中游"),
+    ("6949", "沛爾生醫", "中游"),
+    # ── 下游：臨床/移植/治療 ──
+    ("3118", "進階",     "下游"),
+    ("3224", "三顧",     "下游"),
+    ("6550", "北極星藥", "下游"),
+    ("6662", "樂斯科",   "下游"),
+    ("6814", "路迦生醫", "下游"),
+    ("6939", "啟弘生技", "下游"),
+    # 7xxx 興櫃不列入（TWSE/OTC API 不支援）
 ]
 
 
@@ -925,50 +946,88 @@ def _prev_month(date_str):
     return f"{y}{m-1:02d}01"
 
 
+def _to_roc_month(date_str):
+    """YYYYMMDD → 民國年/MM/DD (TPEX OTC API 格式)"""
+    y = int(date_str[:4]) - 1911
+    return f"{y}/{date_str[4:6]}/{date_str[6:8]}"
+
+
+def _parse_price_row(row):
+    """解析 TWSE/OTC 共用格式列 → (close_str, change_str)
+    欄位順序：日期,成交股數,成交金額,開盤,最高,最低,收盤,漲跌,筆數"""
+    return row[6].replace(",", "").strip(), row[7].replace(",", "").strip()
+
+
+def _twse_price(code, date_str):
+    """TWSE 上市收盤價（YYYYMMDD）"""
+    url = (
+        "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY"
+        f"?date={date_str}&stockNo={code}&response=json"
+    )
+    data = json.loads(fetch_url(url))
+    if data.get("stat") == "OK" and data.get("data"):
+        return _parse_price_row(data["data"][-1]), data["data"][-1][0]
+    return None, None
+
+
+def _otc_price(code, roc_date):
+    """OTC 上櫃收盤價（民國年/MM/DD）"""
+    url = (
+        "https://www.tpex.org.tw/web/stock/aftertrading/daily_trading_info/st43_result.php"
+        f"?l=zh-tw&d={roc_date}&stkno={code}"
+    )
+    data = json.loads(fetch_url(url))
+    if data.get("aaData"):
+        return _parse_price_row(data["aaData"][-1]), data["aaData"][-1][0]
+    return None, None
+
+
 def fetch_stocks():
-    print("📈 台灣生技股票...")
+    print("📈 台灣再生醫療股票...")
     results = []
     date_str = TODAY.replace("-", "")
+    prev_str = _prev_month(date_str)
 
-    for code, name in STOCK_WATCHLIST:
+    for code, name, tier in STOCK_WATCHLIST:
         got = False
-        for attempt in [date_str, _prev_month(date_str)]:
-            try:
-                url = (
-                    "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY"
-                    f"?date={attempt}&stockNo={code}&response=json"
-                )
-                raw = fetch_url(url)
-                data = json.loads(raw)
-                if data.get("stat") != "OK" or not data.get("data"):
-                    continue
-                last = data["data"][-1]
-                # fields: 日期,成交股數,成交金額,開盤價,最高價,最低價,收盤價,漲跌價差,成交筆數
-                close_str  = last[6].replace(",", "").strip()
-                change_str = last[7].replace(",", "").strip()
+        for ds in [date_str, prev_str]:
+            roc = _to_roc_month(ds)
+            price_row, row_date = None, None
+
+            # 先試 TWSE，再試 OTC（上市/上櫃自動偵測）
+            for fetch_fn, arg in [(_twse_price, ds), (_otc_price, roc)]:
+                try:
+                    price_row, row_date = fetch_fn(code, arg)
+                    if price_row:
+                        break
+                except Exception:
+                    pass
+
+            if price_row:
+                close_str, change_str = price_row
                 try:
                     close_f  = float(close_str)
                     change_f = float(change_str)
-                    prev     = close_f - change_f
-                    pct      = round(change_f / prev * 100, 2) if prev else 0
+                    prev_p   = close_f - change_f
+                    pct      = round(change_f / prev_p * 100, 2) if prev_p else 0
                 except ValueError:
                     close_f, change_f, pct = 0.0, 0.0, 0.0
 
                 results.append({
                     "code":       code,
                     "name":       name,
+                    "tier":       tier,
                     "close":      close_str,
                     "change":     f"+{change_str}" if change_f > 0 else change_str,
                     "change_pct": pct,
-                    "date":       last[0],   # 民國年格式 115/06/03
+                    "date":       row_date or roc,
                 })
                 got = True
-                time.sleep(0.4)
+                time.sleep(0.35)
                 break
-            except Exception as e:
-                print(f"  股價 {code} ({attempt}): {e}")
+
         if not got:
-            print(f"  股價 {code} 取得失敗，略過")
+            print(f"  ⚠ {code} {name}：無資料（興櫃/停牌/新上市）")
 
     path = DATA_DIR / "stocks.json"
     path.write_text(
@@ -976,7 +1035,7 @@ def fetch_stocks():
                    ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
-    print(f"  ✓ stocks.json: {len(results)} 支")
+    print(f"  ✓ stocks.json: {len(results)}/{len(STOCK_WATCHLIST)} 支成功")
 
 
 # ════════════════════════════════════════════════
