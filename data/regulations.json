@@ -1,6 +1,6 @@
 {
   "module": "regulation",
-  "updated": "2026-06-03T05:31:19.305713+00:00",
+  "updated": "2026-06-03T05:47:53.727170+00:00",
   "items": [
     {
       "title": "生物製品的新動態",
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "IDELVION",
+      "title": "愛迪維恩",
       "summary": "產品核准資訊適用於患有 B 型血友病（先天性因子 IX 缺乏症）的兒童和成人： 1) 按需控制和預防出血事件；2） 圍手術期出血處理；3) 常規預防",
       "source": "FDA Biologics",
       "date": "2026-06-01",
@@ -65,13 +65,6 @@
       "date": "2026-05-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
       "lang": "zh-TW"
-    },
-    {
-      "title": "再生醫療雙法上路 天明製藥聚焦品質管理與產業布局",
-      "summary": "",
-      "source": "商傳媒",
-      "date": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQVjcyOXRWalNRNWhLSWJJTEoydTlJSXR4bHFiRGViLXNwaVYwNWZHNlBjS1pRWWhvVkxoaU5Xb0psNGVaU1UtcG41ekFFTjM3TjlaaHdSU1ZJTjZrbnR1UnpXMFl5TVZXZlFhQ1liZUhBbDU1M3hERWdBUnJkbEdKSEtseXRLMk11UmtQR3UwMm8wV0lZcmFzQ2pBcEFRdkg2MmFXQnZvWXlZbjF6anFYcFlGY1ZZQzNJN1pMT21zNnc2YktiNFU5anl2QUdvYV80VlJWSWl5WHdJZldrNVJGN2p1d0F3Q1FyNkQzT2hMdFB1ajRVQS1BblJkcTFQTm1uaUtTbXVrQ2E1eXdIbGFiT3ZGcFlSRW1mQ2dvQmdUNDE5MGZESDhPTDlnc0pnNFVobGdYWDREWXpxUDhqcDgzVDQ0XzhBVDd3MEx0ZkxYbU1GV1R2LXpYWkx5WDUtQ1ExQnVvd0I0bDhIc3pwWFNv?oc=5"
     },
     {
       "title": "CHMP 2026 年 5 月的成果標誌著歐洲藥物開發的結構性轉變——申辦者現在應該注意",
