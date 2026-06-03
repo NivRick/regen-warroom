@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-06-03T07:33:53.294829+00:00",
+  "updated": "2026-06-03T07:52:13.370317+00:00",
   "items": [
     {
-      "title": "腸道菌群與代謝物驅動的免疫細胞時空動態對腫瘤的影響",
-      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除腫瘤細胞方面扮演關鍵角色，近年來也越來越受到重視。",
+      "title": "腸道菌群與代謝物如何驅動免疫細胞時空動態變化，進而影響腫瘤發展",
+      "summary": "癌症對人類健康構成重大威脅，而免疫反應在清除腫瘤細胞中扮演關鍵角色，其機制正日益受到關注。",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42207498/",
       "lang": "zh-TW"
     },
     {
-      "title": "運用原位類器官模型研究大腸直",
+      "title": "運用原位類器官",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-03",
@@ -75,7 +75,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "烏梅丸透過調節TGF",
+      "title": "烏梅丸透過調節TGF-β",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-03",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "全反式維甲酸與蘭索拉唑增強NKG2D-嵌合抗原受體T細胞（NKG2D-CAR T）治療乳癌的療效",
-      "summary": "在實體腫瘤治療中，腫瘤微環境（TME）因其緻密的物理屏障和免疫抑制",
+      "title": "全反式視黃酸和蘭索拉唑增強了 NKG2D-CAR-T細胞療法 對乳癌的治療。",
+      "summary": "在實體腫瘤中，腫瘤微環境（TME）由於其緻密的物理屏障、異常代謝和免疫抑制因素，對嵌合抗原受體（CAR）T細胞治療提出了重大挑戰。這項研究使用涉及全TR的協同方法解決了這些局限性...",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42161056/",
@@ -267,8 +267,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "中樞神經系統（CNS）腫瘤新興療法：2026年美國臨床腫瘤學會（ASCO）年會",
-      "summary": "",
+      "title": "2026年美國臨床腫瘤醫學會（ASCO）年會：中樞神經系統（CNS）腫瘤新興療法的關鍵臨床試驗進展",
+      "summary": "聚焦2026年ASCO年會，中樞神經系統腫瘤新興療法的臨床試驗最新進展值得",
       "source": "Yahoo",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVJ4VWpDb281NWZCNzMzNTFRLVBUay16Tl80X0QtdFlJTDRFMndlVy1jUERrQXJyMXpOb1Q2T3RLU05sNU9ya2syeDU4cG5lbi1HYzV5X18wSTQ5NjgyZEJiTjhDMTN2UlF4RTNUZlRpUjVfSnVZclA3MERIZzF6NEVBQ2E1SDh0aXQ3UU5DMUFDZ0JvLUxzaw?oc=5",
@@ -307,8 +307,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "二期臨床試驗：Nemtabrutinib、Bortezomib與Rituximab治療巨球蛋白血症（WM）",
-      "summary": "狀態：尚未開始收案｜主辦單位：首爾大學醫院｜這是一項二期（分兩部分）、開放標籤、單臂、多中心臨床試驗，旨在評",
+      "title": "[PHASE2] Nemtabrutinib, Bortezomib, and Rituximab for WM",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：首爾國立大學醫院｜這是一項 II 期（2 個部分）、開放標籤、單臂、多中心研究，旨在評估 nemtabrutinib 聯合硼替佐米和利妥昔單抗的療效和安全性",
       "source": "ClinicalTrials.gov｜South Korea",
       "date": "2026-06-01",
       "url": "https://clinicaltrials.gov/study/NCT07464210",
@@ -371,8 +371,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[二期臨床] AI驅動治療策略對比Pola-R-CHP用於未經治療的晚期B細胞淋巴瘤（LBCL）",
-      "summary": "瑞金醫院將啟動一項二期臨床試驗，比較AI驅動療法與Pola-R-CHP治療未經治療的晚期B",
+      "title": "[二期臨床] AI驅動治療策略對比Pola-R-CHP用於初治大B細胞淋巴瘤（LBCL）",
+      "summary": "狀態：尚未招募｜主辦：瑞金醫院｜這是一項針對先前未治療受試者的前瞻性、開放標籤、多中心、隨",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-05-06",
       "url": "https://clinicaltrials.gov/study/NCT07594899",
