@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-06-03T04:22:52.747216+00:00",
+  "updated": "2026-06-03T04:31:00.327909+00:00",
   "items": [
     {
-      "title": "同種異體 CD19 CAR-NK自然殺手細胞療法 細胞治療系統性紅斑狼瘡的療效和安全性：中國病例係列。",
-      "summary": "最近，針對自體CD19的嵌合抗原受體（CAR）T細胞在治療自體免疫疾病方面顯示出優異的療效，但存在很大的安全性問題，例如感染。在這項研究中，我們旨在評估同種異體 CD19 CAR 天然 k 的安全性、耐受性和有效性。",
+      "title": "** 異體CD19嵌合",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41240964/",
       "lang": "zh-TW"
     },
     {
-      "title": "AGT103-T 細胞和基因治療對完整 HIV 病毒庫的影響。",
-      "summary": "評估 AGT103-T（一種自體 CD4 + T 細胞和基因療法）對 HIV 前病毒 DNA 庫的影響。",
+      "title": "AGT103-T細胞與基因療法對",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41670418/",
@@ -20,7 +20,7 @@
     },
     {
       "title": "[第三階段]低危險群髓母細胞瘤兩種標準治療方案的神經認知結果比較",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Nationwide Children's Hospital｜This is a trial to compare neurocognitive outcomes in the intent-to-treat population 2.5 years after diagnosis between patients with newly diagnosed, non-metastatic, SHH-activated, TP53-wt, non-MYC amplified MF randomized to the interventional arms A",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：全國兒童醫院｜這是一項比較意向治療人群診斷後 2.5 年神經認知結果的試驗，其中新診斷的、非轉移性、SHH 激活、TP53-wt、非 MYC 擴增 MF 患者隨機分配到干預組 A",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-03",
       "url": "https://clinicaltrials.gov/study/NCT07291102",
@@ -35,32 +35,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "膠質母細胞瘤的腫瘤靶向幹擾素-α 基因治療：一項 1 期試驗。",
-      "summary": "膠質母細胞瘤（GBM）是一種免疫冷腦腫瘤，預後較差，其特徵是髓系驅動的免疫抑制微環境。在此，我們報告了一項首次人體 1/2a 期劑量遞增研究的中期分析，該研究評估了 Temferon（一種基因工程自體幹細胞）...",
+      "title": "腫瘤靶向介白素-α基因療法治療",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42225991/",
       "lang": "zh-TW"
     },
     {
-      "title": "多發性硬化症治療的研究方法。",
-      "summary": "多發性硬化症（MS）研究正進入一個新的治療時代。除了降低復發率之外，預防殘疾進展，甚至理想情況下，甚至避免疾病發展現在也被制定為新的治療目標。這篇綜述總結了新興的治療策略...",
+      "title": "多發性硬化症（MS）",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42051236/",
       "lang": "zh-TW"
     },
     {
-      "title": "一項首次人體 I 期臨床試驗，研究除化療和免疫療法外，重複給藥 MSCTRAIL 細胞療法對晚期肺癌患者的安全性和有效性。",
-      "summary": "儘管最近取得了進展，但晚期非小細胞肺癌（NSCLC）的生存結果較差，因此需要開發新的療法。 TNF 相關凋亡誘導配體 (TRAIL) 選擇性誘導癌細胞死亡，並可透過間質基質細胞 (MSC) 遞送至腫瘤...",
+      "title": "針對晚期肺癌病患，首次人",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41932044/",
       "lang": "zh-TW"
     },
     {
-      "title": "五年追蹤：串聯 CD19/CD20 CAR-T細胞療法 療法對難治性/復發性非何杰金氏淋巴瘤的持久影響。",
-      "summary": "在這項單臂、單中心、註冊 2 期試驗中，串聯 CD19/CD20 嵌合抗原受體 (CAR) T 細胞 (TanCAR7) 療法在復發/難治性非何杰金氏淋巴瘤 (r/r NHL) 患者中顯示出良好的療效和安全性。在這裡，我們報告 5 年的追蹤結果，包括...",
+      "title": "五年追蹤報告：串聯式CD1",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41804087/",
@@ -76,7 +76,7 @@
     },
     {
       "title": "腺相關病毒載體血清型 2 神經營養因子基因治療帕金森氏症的雙側殼核對流可能為尾狀核提供神經營養因子轉基因表達：血管周圍和其他低阻滲漏途徑的潛在作用。",
-      "summary": "在一項涉及晚期帕金森氏症參與者的 I 期臨床試驗中，對直接殼核輸注含有人類膠質細胞源性神經營養因子轉基因的腺相關病毒載體血清型 2 (AAV2) 和钆特醇示踪劑進行了研究。",
+      "summary": "Direct putaminal infusion of an adeno-associated virus vector serotype 2 (AAV2) containing the human glial cell line-derived neurotrophic factor transgene with gadoteridol tracer was investigated in a 第一期試驗 臨床試驗 involving participants with advanced Parkinson disease.",
       "source": "PubMed",
       "date": "2026-06-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/40932279/",
@@ -99,8 +99,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "帕金森氏症患者開放標籤 1/2 期多巴胺基因治療試驗 (OXB-102/Axo-Lenti-PD) 的觀察結果。",
-      "summary": "SUNRISE-PD 是一項劑量遞增的 1/2 期研究，研究第二代慢病毒載體基因療法，傳遞多巴胺合成基因 (OXB-102) 以治療帕金森氏症 (PD)。由於申辦者破產，試驗提前終止。",
+      "title": "巴金森氏症多巴胺基因療法",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-05-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42206679/",
@@ -132,7 +132,7 @@
     },
     {
       "title": "自體巨噬細胞療法可提高肝硬化患者的無移植存活率：2 期臨床試驗的長期追蹤。",
-      "summary": "肝硬化是全球發病率和死亡率的一個主要原因，移植仍然是末期疾病的唯一治療方法。臨床前研究表明，巨噬細胞注射可以減輕發炎、解決纖維化並刺激肝臟再生。 1/2相巨噬細胞T...",
+      "summary": "肝硬化是全球發病率和死亡率的主要原因，移植仍然是末期疾病的唯一治療方法。臨床前研究表明，巨噬細胞注射可以減輕發炎、解決纖維化並刺激肝臟再生。 1/2相巨噬細胞T...",
       "source": "PubMed",
       "date": "2026-05-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42184827/",
@@ -147,7 +147,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Anti-BCMA/GPRC5D CAR-T細胞療法 in relapsed or refractory multiple myeloma patients with extraosseous extramedullary disease.",
+      "title": "抗 BCMA/GPRC5D CAR-T細胞療法 用於患有骨外髓外疾病的復發性或難治性多發性骨髓瘤患者。",
       "summary": "患有骨外髓外疾病（EMD）的復發或難治性多發性骨髓瘤（RRMM）患者的預後較差，並且缺乏有效的治療方法。我們開發了抗 BCMA/GPRC5D 雙特異性嵌合抗原受體 (CAR)，以研究患者體內 CAR-T細胞療法 細胞的活性和安全性...",
       "source": "PubMed",
       "date": "2026-05-01",
@@ -164,7 +164,7 @@
     },
     {
       "title": "工程設計功能優化的全人 B7-H3 CAR-T細胞療法 細胞，用於增強實體腫瘤治療。",
-      "summary": "B7-H3 是一種在許多實體瘤中過度表現的細胞表面蛋白，也是嵌合抗原受體 (CAR) T 細胞治療的一個有吸引力的標靶。临床上最先进的 B7-H3 CAR 源自鼠单克隆抗体 (mAb) 376.96 和 MGA271，目前正在进行 1/2 期试验。然而，非人類...",
+      "summary": "B7-H3 是一種在許多實體瘤中過度表現的細胞表面蛋白，也是嵌合抗原受體 (CAR) T 細胞治療的一個有吸引力的標靶。臨床上最先進的 B7-H3 CAR 源自於鼠單株抗體 (mAb) 376.96 和 MGA271，目前正在進行 1/2 期試驗。然而，非人類...",
       "source": "PubMed",
       "date": "2026-05-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42061408/",
@@ -179,8 +179,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[N/A] CHOICE：EGFR-TKI 在中國 IV 期 NSCLC 的決定因素",
-      "summary": "狀態：招募中｜主辦單位：阿斯特捷利康｜這項非介入性橫斷面研究旨在透過一項調查（主要包括 DCE 方法）來調查具有 1L EGFR-TKI 治療 IV 期 NSCLC 經驗的醫生和患者樣本的治療偏好。",
+      "title": "CHOICE：中國第四期非小細胞肺癌患者",
+      "summary": "",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-03-02",
       "url": "https://clinicaltrials.gov/study/NCT07413757",
@@ -197,7 +197,7 @@
     {
       "title": "[第一階段] JNJ-90301900 合併放化療治療局部晚期頭頸鱗狀細胞癌的研究",
       "summary": "狀態：招募中｜主辦單位：Johnson & Johnson Enterprise Innovation Inc.｜這項全球性、開放標籤、單臂、1b 期研究旨在更多地了解一種名為 JNJ-90301900 的治療方法在直接注射到腫瘤中，並與標準化療和放療一起注射到腫瘤中是否安全有效。",
-      "source": "ClinicalTrials.gov｜Japan, France, United States",
+      "source": "ClinicalTrials.gov｜United States, Japan, France",
       "date": "2026-01-26",
       "url": "https://clinicaltrials.gov/study/NCT07219212",
       "lang": "zh-TW"
@@ -227,7 +227,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[NA] 使用小量口服脈衝類固醇療法與非培養表皮細胞懸浮液 (NCES) 治療穩定抗藥性白斑的價值",
+      "title": "[NA] 使用微量口服脈衝類固醇療法與非培養表皮細胞懸浮液 (NCES) 一起治療穩定抗藥性白斑的價值",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：開羅大學｜評估小劑量口服類固醇衝擊療法在肢端手術治療和難治白斑症部位的附加價值",
       "source": "ClinicalTrials.gov｜Egypt",
       "date": "2025-05-12",
@@ -237,7 +237,7 @@
     {
       "title": "[第 3 階段] Sacituzumab Tirumotecan（Sac-TMT，MK-2870）作為單一療法以及與 Pembrolizumab（MK-3475）聯合治療三陰性乳癌（MK-2870-011/TroFuse-011）受試者的研究",
       "summary": "狀態：招募中｜主辦單位：Merck Sharp & Dohme LLC｜研究人員想知道 sacituzumab tirumotecan 單獨給藥或與 pembrolizumab 聯合給藥是否可以治療三陰性乳癌 (TNBC)。本研究的主要目標是了解患者是否單獨接受 sacituzumab tirumotecan 治療或接受 pembrolizumab l 治療",
-      "source": "ClinicalTrials.gov｜New Zealand, Italy, Australia",
+      "source": "ClinicalTrials.gov｜Spain, Greece, Argentina",
       "date": "2025-03-16",
       "url": "https://clinicaltrials.gov/study/NCT06841354",
       "lang": "zh-TW"
