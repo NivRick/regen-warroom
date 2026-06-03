@@ -938,96 +938,86 @@ STOCK_WATCHLIST = [
 ]
 
 
-def _prev_month(date_str):
-    """YYYYMMDD → 上個月1日 YYYYMMDD"""
-    y, m = int(date_str[:4]), int(date_str[4:6])
-    if m == 1:
-        return f"{y-1}1201"
-    return f"{y}{m-1:02d}01"
-
-
-def _to_roc_month(date_str):
-    """YYYYMMDD → 民國年/MM/DD (TPEX OTC API 格式)"""
-    y = int(date_str[:4]) - 1911
-    return f"{y}/{date_str[4:6]}/{date_str[6:8]}"
-
-
-def _parse_price_row(row):
-    """解析 TWSE/OTC 共用格式列 → (close_str, change_str)
-    欄位順序：日期,成交股數,成交金額,開盤,最高,最低,收盤,漲跌,筆數"""
-    return row[6].replace(",", "").strip(), row[7].replace(",", "").strip()
-
-
-def _twse_price(code, date_str):
-    """TWSE 上市收盤價（YYYYMMDD）"""
-    url = (
-        "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY"
-        f"?date={date_str}&stockNo={code}&response=json"
-    )
-    data = json.loads(fetch_url(url))
-    if data.get("stat") == "OK" and data.get("data"):
-        return _parse_price_row(data["data"][-1]), data["data"][-1][0]
-    return None, None
-
-
-def _otc_price(code, roc_date):
-    """OTC 上櫃收盤價（民國年/MM/DD）"""
-    url = (
-        "https://www.tpex.org.tw/web/stock/aftertrading/daily_trading_info/st43_result.php"
-        f"?l=zh-tw&d={roc_date}&stkno={code}"
-    )
-    data = json.loads(fetch_url(url))
-    if data.get("aaData"):
-        return _parse_price_row(data["aaData"][-1]), data["aaData"][-1][0]
-    return None, None
-
-
 def fetch_stocks():
-    print("📈 台灣再生醫療股票...")
+    """
+    一次抓取 TWSE（上市）與 OTC（上櫃）全量收盤報價，
+    比逐支查詢快 10 倍，也不會因舊 API 失效而漏股。
+    """
+    print("📈 台灣再生醫療股票（TWSE + OTC 全量）...")
+
+    # ── 抓取全市場報價 ──
+    twse_map: dict = {}
+    otc_map:  dict = {}
+
+    try:
+        rows = json.loads(fetch_url(
+            "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"
+        ))
+        for s in rows:
+            code = s.get("Code", "").strip()
+            if code:
+                twse_map[code] = s
+        print(f"  TWSE 全量: {len(twse_map)} 支")
+    except Exception as e:
+        print(f"  TWSE 全量 API 失敗: {e}")
+
+    try:
+        rows = json.loads(fetch_url(
+            "https://www.tpex.org.tw/openapi/v1/tpex_mainboard_quotes"
+        ))
+        for s in rows:
+            code = s.get("SecuritiesCompanyCode", "").strip()
+            if code:
+                otc_map[code] = s
+        print(f"  OTC 全量:  {len(otc_map)} 支")
+    except Exception as e:
+        print(f"  OTC 全量 API 失敗: {e}")
+
+    # ── 逐支對照 watchlist ──
     results = []
-    date_str = TODAY.replace("-", "")
-    prev_str = _prev_month(date_str)
-
     for code, name, tier in STOCK_WATCHLIST:
-        got = False
-        for ds in [date_str, prev_str]:
-            roc = _to_roc_month(ds)
-            price_row, row_date = None, None
+        entry = twse_map.get(code) or otc_map.get(code)
+        if not entry:
+            print(f"  ⚠ {code} {name}：查無資料（興櫃/停牌）")
+            continue
 
-            # 先試 TWSE，再試 OTC（上市/上櫃自動偵測）
-            for fetch_fn, arg in [(_twse_price, ds), (_otc_price, roc)]:
-                try:
-                    price_row, row_date = fetch_fn(code, arg)
-                    if price_row:
-                        break
-                except Exception:
-                    pass
+        is_twse = code in twse_map
+        if is_twse:
+            # TWSE 格式：ClosingPrice / Change / Date("1150603")
+            close_str  = str(entry.get("ClosingPrice", "")).replace(",", "").strip()
+            change_raw = str(entry.get("Change", "0")).replace(",", "").strip()
+            raw_date   = str(entry.get("Date", ""))
+            # "1150603" → "115/06/03"
+            if len(raw_date) == 7:
+                date_disp = f"{raw_date[:3]}/{raw_date[3:5]}/{raw_date[5:7]}"
+            else:
+                date_disp = raw_date
+        else:
+            # OTC 格式：Close / Change("+0.24" or "-0.19") / 無日期欄
+            close_str  = str(entry.get("Close", "")).replace(",", "").strip()
+            change_raw = str(entry.get("Change", "0")).replace(",", "").strip()
+            # 民國年換算
+            y = int(TODAY[:4]) - 1911
+            date_disp = f"{y}/{TODAY[5:7]}/{TODAY[8:10]}"
 
-            if price_row:
-                close_str, change_str = price_row
-                try:
-                    close_f  = float(close_str)
-                    change_f = float(change_str)
-                    prev_p   = close_f - change_f
-                    pct      = round(change_f / prev_p * 100, 2) if prev_p else 0
-                except ValueError:
-                    close_f, change_f, pct = 0.0, 0.0, 0.0
+        try:
+            close_f  = float(close_str)
+            change_f = float(change_raw)          # "+0.24" / "-0.19" Python 都能解析
+            prev_p   = close_f - change_f
+            pct      = round(change_f / prev_p * 100, 2) if prev_p else 0.0
+        except (ValueError, ZeroDivisionError):
+            close_f = change_f = pct = 0.0
 
-                results.append({
-                    "code":       code,
-                    "name":       name,
-                    "tier":       tier,
-                    "close":      close_str,
-                    "change":     f"+{change_str}" if change_f > 0 else change_str,
-                    "change_pct": pct,
-                    "date":       row_date or roc,
-                })
-                got = True
-                time.sleep(0.35)
-                break
-
-        if not got:
-            print(f"  ⚠ {code} {name}：無資料（興櫃/停牌/新上市）")
+        results.append({
+            "code":       code,
+            "name":       name,
+            "tier":       tier,
+            "close":      close_str,
+            "change":     f"+{change_f:.2f}" if change_f > 0 else f"{change_f:.2f}",
+            "change_pct": pct,
+            "date":       date_disp,
+            "market":     "TWSE" if is_twse else "OTC",
+        })
 
     path = DATA_DIR / "stocks.json"
     path.write_text(
