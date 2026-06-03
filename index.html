@@ -50,6 +50,22 @@
     <div class="status-item" id="data-date">--</div>
   </div>
 
+  <!-- 搜尋列 -->
+  <div class="search-bar-wrap">
+    <div class="search-bar">
+      <span class="search-icon">🔍</span>
+      <input
+        type="search"
+        id="search-input"
+        placeholder="搜尋關鍵字，例如：CAR-T、外泌體、FDA..."
+        autocomplete="off"
+        oninput="onSearch(this.value)"
+      />
+      <button id="search-clear" class="search-clear hidden" onclick="clearSearch()">✕</button>
+    </div>
+    <div id="search-hint" class="search-hint hidden"></div>
+  </div>
+
   <!-- 快速篩選 tabs -->
   <nav class="module-tabs">
     <button class="tab-btn active" data-module="all" onclick="filterModule('all', this)">全部</button>

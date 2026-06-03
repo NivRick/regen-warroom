@@ -50,6 +50,8 @@ const MODULES = [
 
 let allCards = [];
 let currentModule = 'all';
+let searchQuery = '';          // 目前搜尋關鍵字
+let searchTimer = null;        // debounce timer
 // #25 已讀標記 — 從 localStorage 讀取
 const READ_KEY = 'regen_read_ids';
 let readIds = new Set(JSON.parse(localStorage.getItem(READ_KEY) || '[]'));
@@ -131,7 +133,7 @@ function showErrorBanner(msg) {
 }
 
 // ── 渲染 ──
-function renderCards(cards) {
+function renderCards(cards, query = '') {
   const container = document.getElementById('cards-container');
 
   if (cards.length === 0) {
@@ -153,18 +155,21 @@ function renderCards(cards) {
         <span class="module-title">${m.label}</span>
         <span class="module-count">${items.length}</span>
       </div>`;
-      html += items.slice(0, 5).map(c => cardHTML(c, m)).join('');
+      html += items.slice(0, 5).map(c => cardHTML(c, m, query)).join('');
     });
     container.innerHTML = html;
   } else {
     const mod = MODULES.find(m => m.id === currentModule);
-    container.innerHTML = cards.map(c => cardHTML(c, mod)).join('');
+    container.innerHTML = cards.map(c => cardHTML(c, mod, query)).join('');
   }
 }
 
-function cardHTML(item, mod) {
-  const safeTitle   = escHtml(decodeEntities(item.title || '無標題'));
-  const safeSummary = escHtml(decodeEntities(item.summary || ''));
+function cardHTML(item, mod, query = '') {
+  const rawTitle   = decodeEntities(item.title || '無標題');
+  const rawSummary = decodeEntities(item.summary || '');
+  // 有搜尋關鍵字時，高亮顯示
+  const safeTitle   = query ? highlight(rawTitle, query)   : escHtml(rawTitle);
+  const safeSummary = query ? highlight(rawSummary, query) : escHtml(rawSummary);
   const safeSource  = escHtml(item.source || mod?.label || '');
   const moduleId    = mod?.id || item.moduleId;
   const moduleLabel = mod?.label || item.moduleLabel;
@@ -201,17 +206,73 @@ function cardHTML(item, mod) {
   </div>`;
 }
 
+// ── 搜尋功能 ──
+
+function onSearch(val) {
+  // debounce：停止輸入 300ms 後才觸發
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    searchQuery = val.trim();
+    const clearBtn = document.getElementById('search-clear');
+    clearBtn.classList.toggle('hidden', !searchQuery);
+    applyFilters();
+  }, 300);
+}
+
+function clearSearch() {
+  const input = document.getElementById('search-input');
+  input.value = '';
+  searchQuery = '';
+  document.getElementById('search-clear').classList.add('hidden');
+  document.getElementById('search-hint').classList.add('hidden');
+  applyFilters();
+  input.focus();
+}
+
+function applyFilters() {
+  // 先依模組過濾
+  let cards = currentModule === 'all'
+    ? allCards
+    : allCards.filter(c => c.moduleId === currentModule);
+
+  // 再依關鍵字過濾
+  if (searchQuery) {
+    const keywords = searchQuery.toLowerCase().split(/\s+/).filter(Boolean);
+    cards = cards.filter(card => {
+      const haystack = [
+        card.title   || '',
+        card.summary || '',
+        card.source  || '',
+        card.moduleLabel || '',
+      ].join(' ').toLowerCase();
+      // 每個關鍵字都要出現（AND 搜尋）
+      return keywords.every(kw => haystack.includes(kw));
+    });
+
+    // 更新搜尋提示
+    const hint = document.getElementById('search-hint');
+    hint.classList.remove('hidden');
+    if (cards.length === 0) {
+      hint.innerHTML = `🔍 找不到「<strong>${escHtml(searchQuery)}</strong>」相關情報`;
+      hint.className = 'search-hint search-hint-empty';
+    } else {
+      hint.innerHTML = `找到 <strong>${cards.length}</strong> 筆「<strong>${escHtml(searchQuery)}</strong>」相關情報`;
+      hint.className = 'search-hint search-hint-found';
+    }
+  } else {
+    document.getElementById('search-hint').classList.add('hidden');
+  }
+
+  renderCards(cards, searchQuery);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
 // #4 Tab 切換：修正跳位問題
 function filterModule(moduleId, btn) {
   currentModule = moduleId;
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
-
-  const filtered = moduleId === 'all' ? allCards : allCards.filter(c => c.moduleId === moduleId);
-  renderCards(filtered);
-
-  // 捲回頂部（修正 Tab 跳位）
-  window.scrollTo({ top: 0, behavior: 'smooth' });
+  applyFilters();
 }
 
 // #25 標記已讀
@@ -285,6 +346,22 @@ function formatDate(dateStr) {
     const d = new Date(dateStr);
     return d.toLocaleDateString('zh-TW', { year: 'numeric', month: 'numeric', day: 'numeric' });
   } catch { return dateStr.slice(0, 10); }
+}
+
+// 關鍵字高亮（先 escHtml，再包 <mark>）
+function highlight(text, query) {
+  if (!query || !text) return escHtml(text);
+  const escaped = escHtml(text);
+  const keywords = query.trim().split(/\s+/).filter(Boolean);
+  let result = escaped;
+  keywords.forEach(kw => {
+    const safe = kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    result = result.replace(
+      new RegExp(`(${safe})`, 'gi'),
+      '<mark>$1</mark>'
+    );
+  });
+  return result;
 }
 
 function escHtml(str) {
