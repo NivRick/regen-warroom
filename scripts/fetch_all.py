@@ -25,10 +25,22 @@ def fetch_url(url, timeout=15):
 
 
 def save_json(filename, module_id, items):
+    # 過濾：移除超過 2 年的舊資料，修正未來日期
+    cleaned = []
+    for item in items:
+        fixed_date = clamp_date(item.get("date", ""))
+        if fixed_date is None:
+            continue  # 超過 2 年，丟棄
+        item["date"] = fixed_date
+        cleaned.append(item)
+
+    # 依日期排序（新到舊），最多保留 30 筆
+    cleaned.sort(key=lambda x: x.get("date", ""), reverse=True)
+
     data = {
         "module": module_id,
         "updated": datetime.now(timezone.utc).isoformat(),
-        "items": items[:30],  # 最多 30 筆
+        "items": cleaned[:30],
     }
     path = DATA_DIR / filename
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -352,16 +364,32 @@ def split_google_title(title, fallback_source):
 
 
 def parse_rfc_date(s):
-    """解析 RFC 2822 日期字串，回傳 YYYY-MM-DD"""
+    """解析 RFC 2822 日期字串，回傳 YYYY-MM-DD，並過濾未來日期"""
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     if not s:
-        return datetime.now().strftime("%Y-%m-%d")
+        return today
     months = {"Jan":"01","Feb":"02","Mar":"03","Apr":"04","May":"05","Jun":"06",
                "Jul":"07","Aug":"08","Sep":"09","Oct":"10","Nov":"11","Dec":"12"}
     m = re.search(r"(\d{1,2})\s+(\w{3})\s+(\d{4})", s)
     if m:
         day, mon, year = m.group(1).zfill(2), months.get(m.group(2), "01"), m.group(3)
-        return f"{year}-{mon}-{day}"
-    return datetime.now().strftime("%Y-%m-%d")
+        date_str = f"{year}-{mon}-{day}"
+        # 未來日期 → 改用今天；超過 18 個月的舊資料 → 保留但標記
+        if date_str > today:
+            return today
+        return date_str
+    return today
+
+
+def clamp_date(date_str):
+    """將超出合理範圍的日期修正：未來日期→今天，超過2年→放棄該筆"""
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    cutoff = f"{int(today[:4])-2}{today[4:]}"  # 2年前
+    if date_str > today:
+        return today
+    if date_str < cutoff:
+        return None  # 回傳 None 表示此筆應過濾掉
+    return date_str
 
 
 def strip_html(text):
