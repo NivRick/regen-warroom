@@ -1,29 +1,37 @@
 {
   "module": "apac",
-  "updated": "2026-06-03T10:38:44.770537+00:00",
+  "updated": "2026-06-03T15:27:10.975788+00:00",
   "items": [
+    {
+      "title": "眾議院法案旨在打擊中國生物技術交易",
+      "summary": "在涉及輝瑞（Pfizer）和百時美施貴寶（Bristol Myers）的兩筆大交易之後，美國擔心中國的製藥進展可能威脅國家安全，因此提議將生物技術納入《硬幣法案》。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-03",
+      "url": "https://www.biopharmadive.com/news/binsa-china-biotech-deals-house-moolenaar-dingell/821841/",
+      "lang": "zh-TW"
+    },
     {
       "title": "亞太地區 CDMO 和 ATMP 成長強勁",
       "summary": "",
       "source": "BioSpectrum Asia",
       "date": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSElKWjhjWTgyOGFlVEhzc1BiNXlPUUhQQ21wSEJTUm92R1FiSy1weWhHTk9mSktoTUJuejIxVW1aaENWRHB1SFcyamwwREJqQXJwM281ZXA5bkZKOGg5T2FKbGg2ZUNBaERWSTMwYno1SXQ2djAzb0M5eWxJaXBzdkRhZnVwSzJZT3RxWXA4WVVXQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR3JtUEJweVJlcmtkM1huYlFVOXJmcUI0TkpvR3N4d0QxTzFqY0hVeG56OGhLYTMtUmpvNm9BZVhlNjRCMHBiY29hbVNxMzNJSHVfcUZXRFkxeDM3d21ieWY1a2kxcWZrYzYybGRLTDlFOHRPWlFsZ3AwUWM0amtfZXY4WjltMDMxdXh1SzVrdFZZUQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "康方生物和 Summit 藥物在密切關注的肺癌試驗中延長了患者的生存期",
-      "summary": "儘管在中國的一項研究中，與化療相比，ivonescimab 將死亡風險降低了三分之一，但四個月的總生存獲益引發了爭論，並對公司股價造成壓力。",
-      "source": "BioPharma Dive",
-      "date": "2026-05-31",
-      "url": "https://www.biopharmadive.com/news/akeso-summit-ivonescimab-asco-2026-harmoni6/821559/",
+      "title": "CGBIO簽署NOVOSIS在美國、加拿大和澳洲的全球臨床和獨家商業化協議",
+      "summary": "NOVOSIS 在美國、加拿大和澳洲的商業化協議",
+      "source": "Taiwan News",
+      "date": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BcGdBam1rc3R6dWo3dWhDcE53b2E4eGluZ1JydXRsQ2JzOFBKcm9CRWs0NjJocElYUEVYZFh2Q1NUMWpJa3BlQUxOaFNtNW5NYy0yZmhYZTE?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "《新創動態》仲恩生醫攜手Terumo導入智慧細胞擴增製程 布局長期商業規模化量產",
+      "title": "仲恩生醫攜Terumo 導入智慧細胞擴增製程/布局規模化- 新聞",
       "summary": "",
-      "source": "國家新創獎",
-      "date": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmRXcWZqckRNY3cwUTN5TVJhVXR2WTJFZk1iODliUW1BQThLcDdXanRNdWludWk3emQwTGlETzZYdTZNRnE0YWJLckdBY3dHQXZkNXFRTHJkT1ppTkpQX3FGM0NsQlJGV2JLNnp5eXk0MS1NdDlzYTZYZkpfZXp4TFU1cUgxUTRmTWpPckxJRi1oaTg1WGl6Szk2RzZsNzBObElnM1BHWGdidjQzc2F3aQ?oc=5"
+      "source": "MoneyDJ",
+      "date": "2026-05-13",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbW5FYnFQWnE1dTMxWkxJdnN2MHhLZVhUalA3TDE4XzhCeDNkQXZjOVNJNE5xZXRGVmhxNXRwSGNTejdtdmpUUmpSUU5YRnE1NUhMQ3Q3TkpzRGFBYjIwQ0lMWjRCU2dQejE2OUsxbDduczJRbUZNNmh1amdPNFcyakNWc3JjVzIzWGhXYTRsTGc2QQ?oc=5"
     },
     {
       "title": "細胞與基因治療市場規模、分享| 2034 年成長報告",

@@ -1,7 +1,23 @@
 {
   "module": "regulation",
-  "updated": "2026-06-03T10:38:55.743601+00:00",
+  "updated": "2026-06-03T15:27:24.203334+00:00",
   "items": [
+    {
+      "title": "CBER 使用真實世界證據的生物產品批准",
+      "summary": "美國食品藥物管理局 (美國食藥局（FDA）) 使用真實世界數據 (RWD) 和真實世界證據 (RWE) 支持醫療產品整個生命週期的監管決策，包括上市前評估和上市後安全性和有效性監測",
+      "source": "FDA Biologics",
+      "date": "2026-06-03",
+      "url": "http://www.fda.gov/science-research/real-world-evidence/cber-biological-product-approvals-used-real-world-evidence",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
+      "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
+      "source": "FDA Biologics",
+      "date": "2026-06-03",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
+      "lang": "zh-TW"
+    },
     {
       "title": "生物製品的新動態",
       "summary": "生物製品評估與研究中心的最新消息",
@@ -19,14 +35,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
-      "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
-      "source": "FDA Biologics",
-      "date": "2026-06-02",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Fulcrum 停止 SCD 候選藥物 Pociredir 的開發，並進行策略審查",
       "summary": "美國食藥局（FDA） 的擔憂是該機構在最近的階段末會議上向 Fulcrum 高層提出的，源自於另一種 PRC2 抑制劑 Ipsen 的 Tazverik®（tazemetostat）出現意外高的繼發性血癌發生率。",
       "source": "GEN News",
@@ -40,30 +48,6 @@
       "source": "FDA Biologics",
       "date": "2026-06-01",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/idelvion",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "貝尼菲克斯",
-      "summary": "產品核准資訊適用於常規預防，以預防或減少 B 型血友病（先天性因子 IX 缺乏症或聖誕病）患者出血事件的頻率",
-      "source": "FDA Biologics",
-      "date": "2026-06-01",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/benefix",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "DG 凝膠卡 125445、125449、125450",
-      "summary": "產品核准資訊適用於：\n•DG Gel 8 AB (x4) 卡片用於測定四個獨立血液樣本中紅血球表面的人類 A 和 B 抗原。與 DG 凝膠系統搭配使用。用於體外診斷用途。\n•DG 凝膠 8 A/B",
-      "source": "125457",
-      "date": "2026-05-29",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/dg-gel-card-125445-125449-125450-125457",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "冠狀病毒 (COVID-19) | CBER 監管的生物製品",
-      "summary": "本頁面和相關連結提供與治療或預防 COVID-19 療法開發相關的指導和建議信息，以及尋求其他資訊或幫助的開發人員的聯絡資訊。",
-      "source": "FDA Biologics",
-      "date": "2026-05-29",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
       "lang": "zh-TW"
     },
     {

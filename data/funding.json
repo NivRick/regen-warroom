@@ -1,13 +1,53 @@
 {
   "module": "funding",
-  "updated": "2026-06-03T10:38:58.643163+00:00",
+  "updated": "2026-06-03T15:27:38.836512+00:00",
   "items": [
+    {
+      "title": "STAT+：傳奇生物成為罕見的市場贏家",
+      "summary": "基因療法開發商的新指南、禮來公司的腎臟藥物交易以及來自 The Readout 的更多生物技術新聞",
+      "source": "STAT News",
+      "date": "2026-06-03",
+      "url": "https://www.statnews.com/2026/06/03/biotech-news-legend-biotech-emerges-as-rare-market-winner/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關 GLP-1 藥物和膝蓋、美國食藥局（FDA） 細胞和基因治療指南等的信息",
+      "summary": "一項新研究發現，服用減肥藥至少三年可以避免每年數千例膝關節置換手術",
+      "source": "STAT News",
+      "date": "2026-06-03",
+      "url": "https://www.statnews.com/pharmalot/2026/06/03/weight-loss-drugs-knee-replacements-fda-cell-gene-therapy/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
     {
       "title": "觀點：軍隊如何助長男性飲食失調",
       "summary": "「川普政府的大部分言論、形象和政策訊息都以極端男性理想為中心，」《第一意見》作者寫道。",
       "source": "STAT News",
       "date": "2026-06-03",
       "url": "https://www.statnews.com/2026/06/03/eating-disorders-men-military-troops-veterans/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "眾議院法案旨在打擊中國生物技術交易",
+      "summary": "在涉及輝瑞（Pfizer）和百時美施貴寶（Bristol Myers）的兩筆大交易之後，美國擔心中國的製藥進展可能威脅國家安全，因此提議將生物技術納入《硬幣法案》。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-03",
+      "url": "https://www.biopharmadive.com/news/binsa-china-biotech-deals-house-moolenaar-dingell/821841/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "NewLimit 的 4.35 億美元巨額投資；禮來公司忙碌的交易週",
+      "summary": "這家抗衰老生物技術公司已獲得今年最大的風險投資之一，將其第一種藥物投入測試。其他方面，禮來公司 (Lilly) 獲得了一種「GLP-2」減肥藥物，Praxis 股價暴跌。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-03",
+      "url": "https://www.biopharmadive.com/news/newlimit-lilly-hanmi-haisco-praxis-cytomx-regeneron/821624/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "禮來 (Lilly) 與 Ascidian 簽署 RNA 外顯子編輯協議",
+      "summary": "該交易價值高達 19 億美元，指導 Ascidian 幫助禮來公司尋找治療遺傳性腎臟疾病的潛在藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-03",
+      "url": "https://www.biopharmadive.com/news/ascidian-lilly-kidney-deal-rna-exon-editing/821749/",
       "lang": "zh-TW"
     },
     {
@@ -48,14 +88,6 @@
       "source": "BioPharma Dive",
       "date": "2026-06-01",
       "url": "https://www.biopharmadive.com/news/avenzo-rallybio-reverse-merger-cancer-drugs/821613/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "施維雅 (Servier) 斥資 2.7B 美元收購肌肉營養不良症公司",
-      "summary": "這家法國製藥商已同意從 Edgewise Therapeutics 購買一款實驗性片劑，一些樂觀的分析師表示，該片劑最終可能會達到超過 20 億美元的峰值銷售額。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-01",
-      "url": "https://www.biopharmadive.com/news/servier-edgewise-muscular-dystrophy-deal-acquisition-neuroscience-neurology/821605/",
       "lang": "zh-TW"
     },
     {
