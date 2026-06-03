@@ -96,7 +96,7 @@ function applyPersonaFilter(personaId) {
   controls?.classList.add('hidden');
 
   if (personaId === 'investor') {
-    stockTicker?.classList.remove('hidden');
+    stockTicker?.classList.add('hidden'); // 投資人用專屬股票區塊，隱藏舊 ticker
     renderDashboardInvestor();
   } else if (personaId === 'researcher') {
     stockTicker?.classList.add('hidden');
@@ -139,7 +139,12 @@ function renderDashboardInvestor() {
     </div>`;
   };
 
+  // 股票卡片區（非同步載入後插入）
+  const stockSectionId = 'investor-stock-section';
   container.innerHTML = `
+    <div id="${stockSectionId}" class="investor-stock-section">
+      <div class="investor-stock-loading">載入台股收盤資料...</div>
+    </div>
     ${kpiHtml}
     <div class="dash-grid-3">
       ${col('資金動向', '💰', funding, 'funding')}
@@ -148,6 +153,66 @@ function renderDashboardInvestor() {
     </div>`;
 
   currentCards = [...funding, ...taiwan, ...competitor];
+
+  // 非同步渲染股票卡片
+  fetch(`data/stocks.json?t=${Date.now()}`)
+    .then(r => r.ok ? r.json() : null)
+    .then(data => {
+      const section = document.getElementById(stockSectionId);
+      if (!section) return;
+      if (!data?.stocks?.length) { section.remove(); return; }
+      section.innerHTML = renderInvestorStocks(data);
+    })
+    .catch(() => {
+      const section = document.getElementById(stockSectionId);
+      if (section) section.remove();
+    });
+}
+
+function renderInvestorStocks(data) {
+  const TIERS = ['上游', '中游', '下游'];
+  const TIER_COLORS = { '上游': '#3b82f6', '中游': '#f59e0b', '下游': '#ef4444' };
+  const grouped = {};
+  TIERS.forEach(t => grouped[t] = []);
+  data.stocks.forEach(s => {
+    if (grouped[s.tier]) grouped[s.tier].push(s);
+    else grouped['上游'].push(s);
+  });
+
+  const dateStr = data.stocks[0]?.date || '';
+
+  let tierHtml = TIERS.map(tier => {
+    const stocks = grouped[tier];
+    if (!stocks.length) return '';
+    const color = TIER_COLORS[tier];
+    const stockCards = stocks.map(s => {
+      const isUp   = s.change_pct > 0;
+      const isDown = s.change_pct < 0;
+      const cls    = isUp ? 'up' : isDown ? 'down' : 'flat';
+      const arrow  = isUp ? '▲' : isDown ? '▼' : '─';
+      const pct    = Math.abs(s.change_pct).toFixed(2);
+      const url    = `https://tw.stock.yahoo.com/quote/${s.code}.TW`;
+      return `<a class="stock-card ${cls}" href="${url}" target="_blank" rel="noopener">
+        <div class="stock-card-name">${escHtml(s.name)}</div>
+        <div class="stock-card-code">${escHtml(s.code)}</div>
+        <div class="stock-card-price">${s.close}</div>
+        <div class="stock-card-chg ${cls}">${arrow} ${pct}%</div>
+      </a>`;
+    }).join('');
+
+    return `<div class="stock-tier-group">
+      <div class="stock-tier-label" style="color:${color}">${tier}</div>
+      <div class="stock-tier-cards">${stockCards}</div>
+    </div>`;
+  }).join('');
+
+  return `
+    <div class="investor-stock-header">
+      <span class="investor-stock-title">📈 再生醫療台股</span>
+      <span class="investor-stock-note">每日收盤價 · 非即時</span>
+      <span class="investor-stock-date">${escHtml(dateStr)}</span>
+    </div>
+    <div class="investor-stock-tiers">${tierHtml}</div>`;
 }
 
 // ── 研究/醫療 Dashboard ──
