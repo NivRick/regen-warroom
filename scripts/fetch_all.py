@@ -114,10 +114,53 @@ def google_translate(text, target="zh-TW"):
         return text   # 失敗保留原文
 
 
+# 依序嘗試的 Gemini 模型（舊的被淘汰時自動換下一個）
+GEMINI_MODELS = [
+    "gemini-2.0-flash",
+    "gemini-2.5-flash",
+    "gemini-1.5-flash",
+    "gemini-2.0-flash-lite",
+]
+_gemini_model = None   # 快取已確認可用的模型
+
+
+def _find_gemini_model():
+    """找到第一個可用的 Gemini 模型"""
+    global _gemini_model
+    if _gemini_model:
+        return _gemini_model
+    for model in GEMINI_MODELS:
+        try:
+            url = (
+                f"https://generativelanguage.googleapis.com/v1beta/"
+                f"models/{model}:generateContent?key={GEMINI_API_KEY}"
+            )
+            payload = json.dumps({
+                "contents": [{"parts": [{"text": "Hi"}]}],
+                "generationConfig": {"maxOutputTokens": 5},
+            }).encode()
+            req = urllib.request.Request(
+                url, data=payload, headers={"Content-Type": "application/json"}
+            )
+            with urllib.request.urlopen(req, timeout=10) as r:
+                r.read()
+            _gemini_model = model
+            print(f"    Gemini 模型確認：{model}")
+            return model
+        except Exception:
+            continue
+    return None
+
+
 def gemini_translate(title, summary):
-    """Gemini 1.5 Flash：翻譯 + 白話化（需 GEMINI_API_KEY）"""
+    """Gemini：翻譯 + 白話化（自動選用可用模型）"""
     if not GEMINI_API_KEY:
         return None, None
+
+    model = _find_gemini_model()
+    if not model:
+        return None, None
+
     prompt = f"""你是台灣資深生醫產業分析師，請將以下英文生醫新聞翻譯成繁體中文。
 
 規則：
@@ -137,18 +180,19 @@ def gemini_translate(title, summary):
     try:
         url = (
             f"https://generativelanguage.googleapis.com/v1beta/"
-            f"models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+            f"models/{model}:generateContent?key={GEMINI_API_KEY}"
         )
         payload = json.dumps({
             "contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {"temperature": 0.2, "maxOutputTokens": 400},
         }).encode()
-        req = urllib.request.Request(url, data=payload, headers={"Content-Type": "application/json"})
+        req = urllib.request.Request(
+            url, data=payload, headers={"Content-Type": "application/json"}
+        )
         with urllib.request.urlopen(req, timeout=20) as r:
             result = json.loads(r.read())
         raw = result["candidates"][0]["content"]["parts"][0]["text"].strip()
 
-        # 解析輸出格式
         title_zh, summary_zh = "", ""
         for line in raw.splitlines():
             if line.startswith("標題翻譯："):
