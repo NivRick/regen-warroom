@@ -13,8 +13,14 @@ async function checkPassword() {
   if (hash === PASS_HASH) {
     sessionStorage.setItem('regen_auth', '1');
     document.getElementById('login-screen').classList.add('hidden');
-    document.getElementById('main-app').classList.remove('hidden');
-    loadAllData();
+    const savedPersona = localStorage.getItem(PERSONA_KEY);
+    if (savedPersona) {
+      document.getElementById('main-app').classList.remove('hidden');
+      updatePersonaBtn(savedPersona);
+      loadAllData().then(() => applyPersonaFilter(savedPersona));
+    } else {
+      showPersonaScreen();
+    }
   } else {
     const err = document.getElementById('login-error');
     err.textContent = '密碼錯誤，請重試';
@@ -34,7 +40,56 @@ document.getElementById('pwd-input')?.addEventListener('keydown', e => {
 
 if (sessionStorage.getItem('regen_auth') === '1') {
   document.getElementById('login-screen').classList.add('hidden');
+  const savedPersona = localStorage.getItem(PERSONA_KEY);
+  if (savedPersona) {
+    document.getElementById('main-app').classList.remove('hidden');
+    updatePersonaBtn(savedPersona);
+  } else {
+    showPersonaScreen();
+  }
+}
+
+// ── 角色分流 ──
+const PERSONA_KEY = 'regen_persona';
+
+const PERSONAS = {
+  investor:   { label: '投資人',      icon: '💰', modules: ['funding', 'taiwan', 'competitor'] },
+  researcher: { label: '研究 / 醫療', icon: '🔬', modules: ['research', 'regulation'] },
+  industry:   { label: '產業觀察',    icon: '🌏', modules: ['apac', 'tourism', 'competitor'] },
+  all:        { label: '全部瀏覽',    icon: '📡', modules: [] },
+};
+
+function showPersonaScreen() {
+  document.getElementById('persona-screen').classList.remove('hidden');
+}
+
+function selectPersona(personaId) {
+  localStorage.setItem(PERSONA_KEY, personaId);
+  document.getElementById('persona-screen').classList.add('hidden');
   document.getElementById('main-app').classList.remove('hidden');
+  updatePersonaBtn(personaId);
+  loadAllData().then(() => applyPersonaFilter(personaId));
+}
+
+function applyPersonaFilter(personaId) {
+  const persona = PERSONAS[personaId];
+  if (!persona || persona.modules.length === 0) return; // 全部瀏覽不篩選
+  // 預設切到第一個對應模組 tab
+  const firstModule = persona.modules[0];
+  const btn = document.querySelector(`.tab-btn[data-module="${firstModule}"]`);
+  if (btn) filterModule(firstModule, btn);
+}
+
+function updatePersonaBtn(personaId) {
+  const persona = PERSONAS[personaId] || PERSONAS.all;
+  const btn = document.getElementById('persona-reset-btn');
+  if (btn) btn.textContent = `${persona.icon} ${persona.label}`;
+}
+
+function resetPersona() {
+  localStorage.removeItem(PERSONA_KEY);
+  document.getElementById('main-app').classList.add('hidden');
+  document.getElementById('persona-screen').classList.remove('hidden');
 }
 
 // ── 模組定義 ──

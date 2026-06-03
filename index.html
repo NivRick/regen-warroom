@@ -23,6 +23,51 @@
   </div>
 </div>
 
+<!-- 角色分流畫面 -->
+<div id="persona-screen" class="hidden">
+  <div class="persona-box">
+    <div class="persona-header">
+      <div class="persona-logo">⚕</div>
+      <h2 class="persona-title">你今天想關注什麼？</h2>
+      <p class="persona-sub">選擇你的關注方向，系統將優先顯示對你最有價值的情報</p>
+    </div>
+    <div class="persona-cards">
+      <button class="persona-card" onclick="selectPersona('investor')">
+        <div class="persona-card-icon">💰</div>
+        <div class="persona-card-label">投資人</div>
+        <div class="persona-card-desc">資金動向、台股快訊<br>上市公司動態、競爭佈局</div>
+        <div class="persona-card-tags">
+          <span>資金</span><span>台灣市場</span><span>競爭動態</span>
+        </div>
+      </button>
+      <button class="persona-card" onclick="selectPersona('researcher')">
+        <div class="persona-card-icon">🔬</div>
+        <div class="persona-card-label">研究 / 醫療</div>
+        <div class="persona-card-desc">最新臨床試驗、療法突破<br>FDA 法規、學術進展</div>
+        <div class="persona-card-tags">
+          <span>臨床突破</span><span>法規</span>
+        </div>
+      </button>
+      <button class="persona-card" onclick="selectPersona('industry')">
+        <div class="persona-card-icon">🌏</div>
+        <div class="persona-card-label">產業觀察</div>
+        <div class="persona-card-desc">亞太合作、醫療旅遊<br>跨國佈局、產業鏈動態</div>
+        <div class="persona-card-tags">
+          <span>亞太合作</span><span>醫療旅遊</span><span>競爭動態</span>
+        </div>
+      </button>
+      <button class="persona-card persona-card-all" onclick="selectPersona('all')">
+        <div class="persona-card-icon">📡</div>
+        <div class="persona-card-label">全部瀏覽</div>
+        <div class="persona-card-desc">顯示所有模組情報<br>不做任何篩選</div>
+        <div class="persona-card-tags">
+          <span>所有模組</span>
+        </div>
+      </button>
+    </div>
+  </div>
+</div>
+
 <!-- 主介面 -->
 <div id="main-app" class="hidden">
 
@@ -34,6 +79,7 @@
     </div>
     <div class="top-bar-right">
       <span id="last-update" class="update-time">載入中...</span>
+      <button class="persona-reset-btn" id="persona-reset-btn" onclick="resetPersona()" title="切換關注方向"></button>
       <button class="logout-btn" onclick="logout()">登出</button>
     </div>
   </header>
