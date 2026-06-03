@@ -1,8 +1,12 @@
 """
-再生醫療戰情室 — 資料抓取腳本
-執行方式：python scripts/fetch_all.py
-需要環境變數：NEWSAPI_KEY（可選，有更好）
-免費資料來源：PubMed、FDA RSS、Google News RSS、TWSE MOPS
+再生醫療戰情室 — 資料抓取腳本 v2
+資料來源：
+  台灣市場   → TWSE MOPS RSS、Google News、NewsAPI
+  臨床突破   → PubMed、ClinicalTrials.gov API v2、GEN News、Nature Biotechnology
+  亞太合作   → Google News、BioPharma Dive、FierceBiotech（過濾）
+  法規動態   → FDA RSS、Google News（法規關鍵字）
+  資金動向   → STAT News、FierceBiotech、BioPharma Dive、Google News
+  醫療旅遊   → Google News RSS
 """
 
 import json
@@ -16,25 +20,45 @@ from pathlib import Path
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY", "")
+TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+CUTOFF = f"{int(TODAY[:4]) - 2}{TODAY[4:]}"   # 2 年前作為最舊門檻
 
 
-def fetch_url(url, timeout=15):
-    req = urllib.request.Request(url, headers={"User-Agent": "RegenIntel/1.0"})
+# ════════════════════════════════════════════════
+# 基礎工具
+# ════════════════════════════════════════════════
+
+def fetch_url(url, timeout=20):
+    headers = {
+        "User-Agent": "RegenIntel/2.0 (research aggregator; contact: research@regen-intel.local)",
+        "Accept": "application/json, application/xml, text/xml, */*",
+    }
+    req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read().decode("utf-8", errors="replace")
+        raw = r.read()
+        # 嘗試 UTF-8，失敗則 latin-1
+        try:
+            return raw.decode("utf-8")
+        except UnicodeDecodeError:
+            return raw.decode("latin-1", errors="replace")
 
 
 def save_json(filename, module_id, items):
-    # 過濾：移除超過 2 年的舊資料，修正未來日期
+    """清理日期、去重、排序後儲存"""
+    seen_titles = set()
     cleaned = []
     for item in items:
-        fixed_date = clamp_date(item.get("date", ""))
-        if fixed_date is None:
-            continue  # 超過 2 年，丟棄
-        item["date"] = fixed_date
+        title_key = (item.get("title") or "")[:60].lower().strip()
+        if not title_key or title_key in seen_titles:
+            continue
+        seen_titles.add(title_key)
+
+        fixed = clamp_date(item.get("date", ""))
+        if fixed is None:
+            continue
+        item["date"] = fixed
         cleaned.append(item)
 
-    # 依日期排序（新到舊），最多保留 30 筆
     cleaned.sort(key=lambda x: x.get("date", ""), reverse=True)
 
     data = {
@@ -44,309 +68,91 @@ def save_json(filename, module_id, items):
     }
     path = DATA_DIR / filename
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"  ✓ {filename}: {len(items)} 筆")
+    print(f"  ✓ {filename}: {len(cleaned)} 筆（上限 30）")
 
 
-# ────────────────────────────────────────────
-# 1. 台灣市場 — TWSE MOPS 重大訊息
-# ────────────────────────────────────────────
-def fetch_taiwan_market():
-    print("台灣市場（TWSE MOPS）...")
-    items = []
-    keywords = ["再生醫療", "細胞治療", "幹細胞", "基因治療", "CAR-T"]
-
-    try:
-        # MOPS 重大訊息 RSS
-        url = "https://mops.twse.com.tw/mops/rss/news_rss.xml"
-        xml = fetch_url(url)
-        root = ET.fromstring(xml)
-        for item in root.iter("item"):
-            title = (item.findtext("title") or "").strip()
-            desc = (item.findtext("description") or "").strip()
-            link = (item.findtext("link") or "").strip()
-            pub = (item.findtext("pubDate") or "").strip()
-
-            full_text = title + desc
-            if any(kw in full_text for kw in keywords):
-                date_str = parse_rfc_date(pub)
-                items.append({
-                    "title": title,
-                    "summary": desc[:200] if desc else "",
-                    "source": "TWSE MOPS 重大訊息",
-                    "date": date_str,
-                    "url": link,
-                })
-    except Exception as e:
-        print(f"    MOPS RSS 失敗: {e}")
-
-    # 補充：NewsAPI（若有金鑰）
-    if NEWSAPI_KEY and len(items) < 10:
-        try:
-            q = urllib.parse.quote("再生醫療 OR 細胞治療 台灣")
-            url = f"https://newsapi.org/v2/everything?q={q}&language=zh&sortBy=publishedAt&pageSize=20&apiKey={NEWSAPI_KEY}"
-            data = json.loads(fetch_url(url))
-            for a in data.get("articles", []):
-                items.append({
-                    "title": a.get("title", ""),
-                    "summary": a.get("description", "") or "",
-                    "source": a.get("source", {}).get("name", "新聞"),
-                    "date": (a.get("publishedAt", "") or "")[:10],
-                    "url": a.get("url", ""),
-                })
-        except Exception as e:
-            print(f"    NewsAPI 失敗: {e}")
-
-    # Google News RSS 備用
-    if len(items) < 5:
-        try:
-            q = urllib.parse.quote("再生醫療 台灣 上市")
-            url = f"https://news.google.com/rss/search?q={q}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-            items += parse_google_rss(url, "Google News", 10)
-        except Exception as e:
-            print(f"    Google News 失敗: {e}")
-
-    save_json("taiwan-market.json", "taiwan", items)
+def clamp_date(date_str):
+    if not date_str:
+        return TODAY
+    if date_str > TODAY:
+        return TODAY        # 未來日期 → 今天
+    if date_str < CUTOFF:
+        return None         # 超過 2 年 → 丟棄
+    return date_str
 
 
-# ────────────────────────────────────────────
-# 2. 全球臨床突破 — PubMed API
-# ────────────────────────────────────────────
-def fetch_global_research():
-    print("全球臨床突破（PubMed）...")
-    items = []
-    query = urllib.parse.quote(
-        '(regenerative medicine[Title/Abstract] OR cell therapy[Title/Abstract] OR '
-        'stem cell therapy[Title/Abstract] OR CAR-T[Title/Abstract] OR '
-        'gene therapy[Title/Abstract]) AND ("clinical trial"[PT] OR "clinical study"[PT])'
-    )
-    try:
-        # esearch
-        search_url = (
-            f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
-            f"?db=pubmed&term={query}&retmax=20&sort=pub+date&retmode=json"
-        )
-        search_data = json.loads(fetch_url(search_url))
-        ids = search_data.get("esearchresult", {}).get("idlist", [])
-
-        if ids:
-            # efetch
-            id_str = ",".join(ids[:15])
-            fetch_url2 = (
-                f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
-                f"?db=pubmed&id={id_str}&retmode=xml&rettype=abstract"
-            )
-            xml = fetch_url(fetch_url2)
-            root = ET.fromstring(xml)
-
-            for article in root.findall(".//PubmedArticle"):
-                title_el = article.find(".//ArticleTitle")
-                abstract_el = article.find(".//AbstractText")
-                pmid_el = article.find(".//PMID")
-                year_el = article.find(".//PubDate/Year")
-                month_el = article.find(".//PubDate/Month")
-
-                title = (title_el.text or "") if title_el is not None else ""
-                abstract = (abstract_el.text or "") if abstract_el is not None else ""
-                pmid = (pmid_el.text or "") if pmid_el is not None else ""
-                year = (year_el.text or "2025") if year_el is not None else "2025"
-                month = (month_el.text or "01") if month_el is not None else "01"
-                # 月份文字轉數字
-                month_map = {"Jan":"01","Feb":"02","Mar":"03","Apr":"04","May":"05","Jun":"06",
-                             "Jul":"07","Aug":"08","Sep":"09","Oct":"10","Nov":"11","Dec":"12"}
-                month_num = month_map.get(month, month.zfill(2) if month.isdigit() else "01")
-
-                items.append({
-                    "title": clean_text(title),
-                    "summary": clean_text(abstract[:300] + "..." if len(abstract) > 300 else abstract),
-                    "source": "PubMed",
-                    "date": f"{year}-{month_num}-01",
-                    "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/" if pmid else "",
-                })
-    except Exception as e:
-        print(f"    PubMed 失敗: {e}")
-
-    # Google Scholar RSS 備用
-    if len(items) < 5:
-        try:
-            q = urllib.parse.quote("regenerative medicine clinical trial 2025")
-            url = f"https://news.google.com/rss/search?q={q}&hl=en&gl=US&ceid=US:en"
-            items += parse_google_rss(url, "Google News", 10)
-        except Exception as e:
-            print(f"    備用 RSS 失敗: {e}")
-
-    save_json("global-research.json", "research", items)
+def parse_rfc_date(s):
+    """RFC 2822 → YYYY-MM-DD"""
+    if not s:
+        return TODAY
+    months = {
+        "Jan": "01", "Feb": "02", "Mar": "03", "Apr": "04",
+        "May": "05", "Jun": "06", "Jul": "07", "Aug": "08",
+        "Sep": "09", "Oct": "10", "Nov": "11", "Dec": "12",
+    }
+    m = re.search(r"(\d{1,2})\s+(\w{3})\s+(\d{4})", s)
+    if m:
+        day = m.group(1).zfill(2)
+        mon = months.get(m.group(2), "01")
+        year = m.group(3)
+        return f"{year}-{mon}-{day}"
+    return TODAY
 
 
-# ────────────────────────────────────────────
-# 3. 海外機構亞太合作 — Google News RSS
-# ────────────────────────────────────────────
-def fetch_asia_pacific():
-    print("亞太合作動態（Google News RSS）...")
-    items = []
-    queries = [
-        "regenerative medicine Asia Pacific collaboration 2025",
-        "cell therapy Japan Korea Singapore clinical",
-        "再生醫療 亞太 合作 日本 韓國",
-    ]
-    for q in queries:
-        try:
-            encoded = urllib.parse.quote(q)
-            url = f"https://news.google.com/rss/search?q={encoded}&hl=en&gl=US&ceid=US:en"
-            items += parse_google_rss(url, "Google News", 8)
-        except Exception as e:
-            print(f"    查詢失敗 ({q[:30]}...): {e}")
-
-    # 去重
-    seen = set()
-    unique = []
-    for item in items:
-        key = item["title"][:50]
-        if key not in seen:
-            seen.add(key)
-            unique.append(item)
-
-    save_json("asia-pacific.json", "apac", unique)
+def strip_html(text):
+    text = re.sub(r"<[^>]+>", "", text)
+    for ent, ch in [("&nbsp;", " "), ("&amp;", "&"), ("&lt;", "<"),
+                    ("&gt;", ">"), ("&quot;", '"'), ("&#39;", "'")]:
+        text = text.replace(ent, ch)
+    text = re.sub(r"&#\d+;", "", text)
+    return re.sub(r"\s{2,}", " ", text).strip()
 
 
-# ────────────────────────────────────────────
-# 4. 法規動態 — FDA RSS + WHO + 台灣衛福部
-# ────────────────────────────────────────────
-def fetch_regulations():
-    print("法規動態（FDA / WHO / 台灣）...")
-    items = []
-
-    # FDA 新聞 RSS
-    fda_feeds = [
-        ("https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml", "FDA Biologics"),
-        ("https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/pressreleases/rss.xml", "FDA Press"),
-    ]
-    for feed_url, source in fda_feeds:
-        try:
-            xml = fetch_url(feed_url)
-            root = ET.fromstring(xml)
-            regen_kw = ["cell therapy", "gene therapy", "regenerative", "CAR-T", "stem cell", "tissue"]
-            for item in root.iter("item"):
-                title = (item.findtext("title") or "").strip()
-                desc = (item.findtext("description") or "").strip()
-                link = (item.findtext("link") or "").strip()
-                pub = (item.findtext("pubDate") or "").strip()
-                if any(kw in (title + desc).lower() for kw in regen_kw):
-                    items.append({
-                        "title": title,
-                        "summary": strip_html(desc[:250]),
-                        "source": source,
-                        "date": parse_rfc_date(pub),
-                        "url": link,
-                    })
-        except Exception as e:
-            print(f"    {source} 失敗: {e}")
-
-    # Google News — 台灣法規
-    try:
-        q = urllib.parse.quote("再生醫療法 台灣 衛福部 細胞治療 法規")
-        url = f"https://news.google.com/rss/search?q={q}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-        items += parse_google_rss(url, "台灣法規新聞", 8)
-    except Exception as e:
-        print(f"    台灣法規 RSS 失敗: {e}")
-
-    # Google News — 日本 PMDA
-    try:
-        q = urllib.parse.quote("PMDA Japan regenerative medicine approval 2025")
-        url = f"https://news.google.com/rss/search?q={q}&hl=en&gl=JP&ceid=JP:en"
-        items += parse_google_rss(url, "日本 PMDA", 5)
-    except Exception as e:
-        print(f"    PMDA RSS 失敗: {e}")
-
-    save_json("regulations.json", "regulation", items)
+def clean_text(text):
+    return re.sub(r"\s+", " ", str(text)).strip()
 
 
-# ────────────────────────────────────────────
-# 5. 市場資金動向 — Google News RSS
-# ────────────────────────────────────────────
-def fetch_funding():
-    print("市場資金動向（Google News RSS）...")
-    items = []
-    queries = [
-        "regenerative medicine funding investment 2025 million",
-        "cell therapy biotech IPO Series funding 2025",
-        "gene therapy venture capital deal 2025",
-        "再生醫療 投資 募資 上市",
-    ]
-    for q in queries:
-        try:
-            encoded = urllib.parse.quote(q)
-            url = f"https://news.google.com/rss/search?q={encoded}&hl=en&gl=US&ceid=US:en"
-            items += parse_google_rss(url, "Google News", 7)
-        except Exception as e:
-            print(f"    查詢失敗: {e}")
-
-    seen = set()
-    unique = []
-    for item in items:
-        key = item["title"][:50]
-        if key not in seen:
-            seen.add(key)
-            unique.append(item)
-
-    save_json("funding.json", "funding", unique)
+def split_google_title(title, fallback_source):
+    """「新聞標題 - 媒體名稱」→ (title, source)"""
+    parts = title.rsplit(" - ", 1)
+    if len(parts) == 2 and 2 <= len(parts[1]) <= 45:
+        return parts[0].strip(), parts[1].strip()
+    return title.strip(), fallback_source
 
 
-# ────────────────────────────────────────────
-# 6. 醫療旅遊 — Google News RSS
-# ────────────────────────────────────────────
-def fetch_medical_tourism():
-    print("國際再生醫療旅遊（Google News RSS）...")
-    items = []
-    queries = [
-        "medical tourism regenerative medicine stem cell treatment 2025",
-        "cell therapy medical travel Asia Japan Korea Thailand",
-        "再生醫療 醫療旅遊 幹細胞 治療 海外",
-    ]
-    for q in queries:
-        try:
-            encoded = urllib.parse.quote(q)
-            url = f"https://news.google.com/rss/search?q={encoded}&hl=en&gl=US&ceid=US:en"
-            items += parse_google_rss(url, "Google News", 7)
-        except Exception as e:
-            print(f"    查詢失敗: {e}")
-
-    seen = set()
-    unique = []
-    for item in items:
-        key = item["title"][:50]
-        if key not in seen:
-            seen.add(key)
-            unique.append(item)
-
-    save_json("medical-tourism.json", "tourism", unique)
-
-
-# ────────────────────────────────────────────
-# 工具函數
-# ────────────────────────────────────────────
-def parse_google_rss(url, source_name, limit=10):
+def parse_rss_feed(url, source_name, limit=12, kw_filter=None):
+    """通用 RSS 解析器，支援關鍵字過濾"""
     xml = fetch_url(url)
     root = ET.fromstring(xml)
     results = []
-    for item in list(root.iter("item"))[:limit]:
+    for item in list(root.iter("item"))[:limit * 3]:   # 多抓再過濾
+        if len(results) >= limit:
+            break
         raw_title = (item.findtext("title") or "").strip()
         desc = strip_html((item.findtext("description") or "").strip())
         link = (item.findtext("link") or "").strip()
         pub = (item.findtext("pubDate") or "").strip()
 
-        # Google News title 格式：「新聞標題 - 媒體名稱」，拆出乾淨標題與真實來源
         title, real_source = split_google_title(raw_title, source_name)
 
-        # Google News description 通常重複 title，去除後無實質內容，留空即可
-        clean_desc = desc.replace(raw_title, "").strip(" -–—\xa0")
-        # 若描述和標題幾乎相同就清空
-        if len(clean_desc) < 20 or clean_desc.lower() in title.lower():
+        # 關鍵字過濾
+        if kw_filter:
+            combined = (title + desc).lower()
+            if not any(kw.lower() in combined for kw in kw_filter):
+                continue
+
+        # 清理 description（Google News 常常是 title 的重複）
+        clean_desc = desc
+        if title.lower()[:40] in clean_desc.lower():
+            clean_desc = re.sub(re.escape(title[:40]), "", clean_desc, flags=re.IGNORECASE)
+        clean_desc = clean_desc.strip(" -–—\xa0")
+        if len(clean_desc) < 25:
             clean_desc = ""
 
         if title:
             results.append({
                 "title": title,
-                "summary": clean_desc[:200],
+                "summary": clean_desc[:250],
                 "source": real_source,
                 "date": parse_rfc_date(pub),
                 "url": link,
@@ -354,63 +160,387 @@ def parse_google_rss(url, source_name, limit=10):
     return results
 
 
-def split_google_title(title, fallback_source):
-    """拆解 Google News 標題格式：'新聞標題 - 媒體名稱'"""
-    # 從最後一個 ' - ' 切開
-    parts = title.rsplit(" - ", 1)
-    if len(parts) == 2 and len(parts[1]) < 40:
-        return parts[0].strip(), parts[1].strip()
-    return title.strip(), fallback_source
+def google_news_rss(query, lang="en", country="US", limit=8):
+    encoded = urllib.parse.quote(query)
+    ceid = f"{country}:{lang}"
+    url = f"https://news.google.com/rss/search?q={encoded}&hl={lang}&gl={country}&ceid={ceid}"
+    return parse_rss_feed(url, "Google News", limit)
 
 
-def parse_rfc_date(s):
-    """解析 RFC 2822 日期字串，回傳 YYYY-MM-DD，並過濾未來日期"""
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    if not s:
-        return today
-    months = {"Jan":"01","Feb":"02","Mar":"03","Apr":"04","May":"05","Jun":"06",
-               "Jul":"07","Aug":"08","Sep":"09","Oct":"10","Nov":"11","Dec":"12"}
-    m = re.search(r"(\d{1,2})\s+(\w{3})\s+(\d{4})", s)
-    if m:
-        day, mon, year = m.group(1).zfill(2), months.get(m.group(2), "01"), m.group(3)
-        date_str = f"{year}-{mon}-{day}"
-        # 未來日期 → 改用今天；超過 18 個月的舊資料 → 保留但標記
-        if date_str > today:
-            return today
-        return date_str
-    return today
+def dedup(items):
+    seen, out = set(), []
+    for item in items:
+        key = (item.get("title") or "")[:55].lower()
+        if key and key not in seen:
+            seen.add(key)
+            out.append(item)
+    return out
 
 
-def clamp_date(date_str):
-    """將超出合理範圍的日期修正：未來日期→今天，超過2年→放棄該筆"""
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    cutoff = f"{int(today[:4])-2}{today[4:]}"  # 2年前
-    if date_str > today:
-        return today
-    if date_str < cutoff:
-        return None  # 回傳 None 表示此筆應過濾掉
-    return date_str
+# ════════════════════════════════════════════════
+# 1. 台灣市場
+# ════════════════════════════════════════════════
+def fetch_taiwan_market():
+    print("📍 台灣市場...")
+    items = []
+    kw = ["再生醫療", "細胞治療", "幹細胞", "基因治療", "CAR-T", "外泌體", "iPSC"]
+
+    # TWSE MOPS
+    try:
+        xml = fetch_url("https://mops.twse.com.tw/mops/rss/news_rss.xml")
+        root = ET.fromstring(xml)
+        for it in root.iter("item"):
+            title = (it.findtext("title") or "").strip()
+            desc  = strip_html((it.findtext("description") or ""))
+            if any(k in title + desc for k in kw):
+                items.append({
+                    "title": title, "summary": desc[:200],
+                    "source": "TWSE MOPS",
+                    "date": parse_rfc_date(it.findtext("pubDate") or ""),
+                    "url": (it.findtext("link") or ""),
+                })
+    except Exception as e:
+        print(f"  MOPS: {e}")
+
+    # NewsAPI（若有金鑰）
+    if NEWSAPI_KEY and len(items) < 8:
+        try:
+            q = urllib.parse.quote("再生醫療 OR 細胞治療 台灣")
+            url = (f"https://newsapi.org/v2/everything?q={q}&language=zh"
+                   f"&sortBy=publishedAt&pageSize=15&apiKey={NEWSAPI_KEY}")
+            data = json.loads(fetch_url(url))
+            for a in data.get("articles", []):
+                items.append({
+                    "title": a.get("title", ""),
+                    "summary": a.get("description") or "",
+                    "source": a.get("source", {}).get("name", "NewsAPI"),
+                    "date": (a.get("publishedAt") or "")[:10],
+                    "url": a.get("url", ""),
+                })
+        except Exception as e:
+            print(f"  NewsAPI: {e}")
+
+    # Google News 中文台灣
+    for q in ["再生醫療 台灣 生技", "細胞治療 台灣 臨床", "基因治療 台灣 上市"]:
+        try:
+            items += google_news_rss(q, lang="zh-TW", country="TW", limit=6)
+        except Exception as e:
+            print(f"  GNews TW: {e}")
+
+    save_json("taiwan-market.json", "taiwan", dedup(items))
 
 
-def strip_html(text):
-    text = re.sub(r"<[^>]+>", "", text)
-    # 解碼常見 HTML entities
-    text = text.replace("&nbsp;", " ").replace("&amp;", "&")
-    text = text.replace("&lt;", "<").replace("&gt;", ">").replace("&quot;", '"')
-    text = re.sub(r"&#\d+;", "", text)   # 移除數字 entity
-    return re.sub(r"\s{2,}", " ", text).strip()
+# ════════════════════════════════════════════════
+# 2. 全球臨床突破
+#    來源：PubMed + ClinicalTrials.gov + GEN News + Nature Biotechnology
+# ════════════════════════════════════════════════
+def fetch_global_research():
+    print("🔬 全球臨床突破...")
+    items = []
+
+    # ── PubMed ──
+    try:
+        query = urllib.parse.quote(
+            "(regenerative medicine[Title/Abstract] OR cell therapy[Title/Abstract] OR "
+            "stem cell therapy[Title/Abstract] OR CAR-T[Title/Abstract] OR "
+            "gene therapy[Title/Abstract] OR exosome therapy[Title/Abstract]) "
+            "AND (\"clinical trial\"[PT] OR \"phase 1\"[Title/Abstract] OR "
+            "\"phase 2\"[Title/Abstract] OR \"phase 3\"[Title/Abstract])"
+        )
+        search_url = (
+            "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
+            f"?db=pubmed&term={query}&retmax=25&sort=pub+date&retmode=json"
+        )
+        ids = json.loads(fetch_url(search_url)).get("esearchresult", {}).get("idlist", [])
+
+        if ids:
+            id_str = ",".join(ids[:20])
+            xml = fetch_url(
+                "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
+                f"?db=pubmed&id={id_str}&retmode=xml&rettype=abstract"
+            )
+            root = ET.fromstring(xml)
+            month_map = {
+                "Jan": "01", "Feb": "02", "Mar": "03", "Apr": "04",
+                "May": "05", "Jun": "06", "Jul": "07", "Aug": "08",
+                "Sep": "09", "Oct": "10", "Nov": "11", "Dec": "12",
+            }
+            for art in root.findall(".//PubmedArticle"):
+                def txt(path):
+                    el = art.find(path)
+                    return (el.text or "") if el is not None else ""
+                title    = clean_text(txt(".//ArticleTitle"))
+                abstract = clean_text(txt(".//AbstractText"))
+                pmid     = txt(".//PMID")
+                year     = txt(".//PubDate/Year") or TODAY[:4]
+                month    = txt(".//PubDate/Month")
+                mon_num  = month_map.get(month, month.zfill(2) if month.isdigit() else "01")
+                items.append({
+                    "title": title,
+                    "summary": abstract[:300] + ("..." if len(abstract) > 300 else ""),
+                    "source": "PubMed",
+                    "date": f"{year}-{mon_num}-01",
+                    "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/" if pmid else "",
+                })
+    except Exception as e:
+        print(f"  PubMed: {e}")
+
+    # ── ClinicalTrials.gov API v2 ──
+    try:
+        params = urllib.parse.urlencode({
+            "query.cond": "regenerative medicine OR cell therapy OR gene therapy OR CAR-T OR stem cell",
+            "filter.advanced": "AREA[StartDate]RANGE[2024-01-01,MAX]",
+            "pageSize": 15,
+            "format": "json",
+            "fields": "NCTId,BriefTitle,OverallStatus,StartDate,LeadSponsorName,LocationCountry,Phase,BriefSummary",
+        })
+        ct_data = json.loads(fetch_url(f"https://clinicaltrials.gov/api/v2/studies?{params}"))
+        for study in ct_data.get("studies", []):
+            proto = study.get("protocolSection", {})
+            ident = proto.get("identificationModule", {})
+            status = proto.get("statusModule", {})
+            desc = proto.get("descriptionModule", {})
+            sponsor = proto.get("sponsorCollaboratorsModule", {})
+            design = proto.get("designModule", {})
+
+            nct_id = ident.get("nctId", "")
+            title  = ident.get("briefTitle", "")
+            phase  = ", ".join(design.get("phases", [])) or "N/A"
+            overall_status = status.get("overallStatus", "")
+            start_date = status.get("startDateStruct", {}).get("date", "")[:10] or TODAY
+            summary = desc.get("briefSummary", "")[:250]
+            lead_sponsor = sponsor.get("leadSponsor", {}).get("name", "")
+            countries = proto.get("contactsLocationsModule", {})
+            country_list = list({
+                loc.get("country", "")
+                for loc in countries.get("locations", [])
+                if loc.get("country")
+            })[:3]
+
+            items.append({
+                "title": f"[{phase}] {title}",
+                "summary": f"狀態：{overall_status}｜主辦：{lead_sponsor}｜{summary}",
+                "source": f"ClinicalTrials.gov｜{', '.join(country_list) or 'Global'}",
+                "date": start_date,
+                "url": f"https://clinicaltrials.gov/study/{nct_id}" if nct_id else "",
+            })
+    except Exception as e:
+        print(f"  ClinicalTrials.gov: {e}")
+
+    # ── GEN (Genetic Engineering & Biotechnology News) ──
+    REGEN_KW = [
+        "cell therapy", "gene therapy", "regenerative", "CAR-T", "stem cell",
+        "exosome", "mRNA therapy", "CRISPR", "clinical trial", "iPSC",
+        "tissue engineering", "scaffold", "organoid",
+    ]
+    try:
+        items += parse_rss_feed(
+            "https://www.genengnews.com/feed/",
+            "GEN News", limit=10, kw_filter=REGEN_KW
+        )
+    except Exception as e:
+        print(f"  GEN News: {e}")
+
+    # ── Nature Biotechnology ──
+    try:
+        items += parse_rss_feed(
+            "https://www.nature.com/nbt.rss",
+            "Nature Biotechnology", limit=8, kw_filter=REGEN_KW
+        )
+    except Exception as e:
+        print(f"  Nature Biotech: {e}")
+
+    save_json("global-research.json", "research", dedup(items))
 
 
-def clean_text(text):
-    return re.sub(r"\s+", " ", text).strip()
+# ════════════════════════════════════════════════
+# 3. 海外機構亞太合作
+#    來源：Google News + BioPharma Dive + FierceBiotech（過濾）
+# ════════════════════════════════════════════════
+def fetch_asia_pacific():
+    print("🌏 亞太合作...")
+    items = []
+    APAC_KW = [
+        "Asia", "Japan", "Korea", "Singapore", "Taiwan", "China", "APAC",
+        "Asia Pacific", "東南亞", "亞太", "日本", "韓國",
+    ]
+
+    # Google News 英文
+    for q in [
+        "regenerative medicine Asia Pacific collaboration 2025 2026",
+        "cell therapy Japan Korea Singapore clinical partnership",
+        "gene therapy APAC investment deal",
+    ]:
+        try:
+            items += google_news_rss(q, limit=8)
+        except Exception as e:
+            print(f"  GNews APAC: {e}")
+
+    # Google News 中文
+    for q in ["再生醫療 亞太 合作 日本 韓國", "細胞治療 海外 合作 台灣"]:
+        try:
+            items += google_news_rss(q, lang="zh-TW", country="TW", limit=6)
+        except Exception as e:
+            print(f"  GNews TW APAC: {e}")
+
+    # BioPharma Dive（APAC 過濾）
+    try:
+        items += parse_rss_feed(
+            "https://www.biopharmadive.com/feeds/news/",
+            "BioPharma Dive", limit=8, kw_filter=APAC_KW
+        )
+    except Exception as e:
+        print(f"  BioPharma Dive: {e}")
+
+    # FierceBiotech（APAC 過濾）
+    try:
+        items += parse_rss_feed(
+            "https://www.fiercebiotech.com/rss/xml",
+            "FierceBiotech", limit=8, kw_filter=APAC_KW
+        )
+    except Exception as e:
+        print(f"  FierceBiotech: {e}")
+
+    save_json("asia-pacific.json", "apac", dedup(items))
 
 
-# ────────────────────────────────────────────
+# ════════════════════════════════════════════════
+# 4. 法規動態
+#    來源：FDA RSS + Google News（台灣、日本 PMDA、EMA）
+# ════════════════════════════════════════════════
+def fetch_regulations():
+    print("⚖️  法規動態...")
+    items = []
+    REGEN_KW = [
+        "cell therapy", "gene therapy", "regenerative", "CAR-T", "stem cell",
+        "tissue engineering", "biologics", "ATMP", "approval", "clearance",
+        "再生醫療", "細胞治療", "基因治療", "核准", "法規",
+    ]
+
+    # FDA RSS feeds
+    for feed_url, source in [
+        ("https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml", "FDA Biologics"),
+        ("https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/pressreleases/rss.xml", "FDA Press Releases"),
+        ("https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/fda-approvals-safety-alerts/rss.xml", "FDA Approvals"),
+    ]:
+        try:
+            items += parse_rss_feed(feed_url, source, limit=8, kw_filter=REGEN_KW)
+        except Exception as e:
+            print(f"  {source}: {e}")
+
+    # Google News — 台灣法規
+    for q in ["再生醫療法 台灣 衛福部 食藥署", "細胞治療 台灣 法規 核准"]:
+        try:
+            items += google_news_rss(q, lang="zh-TW", country="TW", limit=6)
+        except Exception as e:
+            print(f"  GNews TW 法規: {e}")
+
+    # Google News — 日本 PMDA / EMA
+    for q in [
+        "PMDA Japan regenerative medicine approval 2025 2026",
+        "EMA cell gene therapy approval 2025 2026",
+    ]:
+        try:
+            items += google_news_rss(q, limit=6)
+        except Exception as e:
+            print(f"  GNews 法規 Intl: {e}")
+
+    # GEN News（法規過濾）
+    try:
+        items += parse_rss_feed(
+            "https://www.genengnews.com/feed/",
+            "GEN News", limit=6,
+            kw_filter=["FDA", "EMA", "PMDA", "approved", "approval", "regulatory", "clearance"]
+        )
+    except Exception as e:
+        print(f"  GEN News 法規: {e}")
+
+    save_json("regulations.json", "regulation", dedup(items))
+
+
+# ════════════════════════════════════════════════
+# 5. 市場資金動向
+#    來源：STAT News + FierceBiotech + BioPharma Dive + Google News
+# ════════════════════════════════════════════════
+def fetch_funding():
+    print("💰 資金動向...")
+    items = []
+    FUNDING_KW = [
+        "raises", "funding", "Series A", "Series B", "Series C", "IPO",
+        "merger", "acquisition", "deal", "investment", "venture", "million",
+        "billion", "募資", "投資", "上市", "合併", "收購",
+        "cell therapy", "gene therapy", "regenerative", "CAR-T", "stem cell",
+    ]
+
+    # STAT News（科學+商業）
+    try:
+        items += parse_rss_feed(
+            "https://www.statnews.com/feed/",
+            "STAT News", limit=12, kw_filter=FUNDING_KW
+        )
+    except Exception as e:
+        print(f"  STAT News: {e}")
+
+    # FierceBiotech
+    try:
+        items += parse_rss_feed(
+            "https://www.fiercebiotech.com/rss/xml",
+            "FierceBiotech", limit=12, kw_filter=FUNDING_KW
+        )
+    except Exception as e:
+        print(f"  FierceBiotech: {e}")
+
+    # BioPharma Dive
+    try:
+        items += parse_rss_feed(
+            "https://www.biopharmadive.com/feeds/news/",
+            "BioPharma Dive", limit=10, kw_filter=FUNDING_KW
+        )
+    except Exception as e:
+        print(f"  BioPharma Dive: {e}")
+
+    # Google News
+    for q in [
+        "regenerative medicine biotech funding raises million 2025 2026",
+        "cell therapy gene therapy IPO Series funding",
+        "再生醫療 生技 投資 募資 上市",
+    ]:
+        try:
+            items += google_news_rss(q, limit=6)
+        except Exception as e:
+            print(f"  GNews 資金: {e}")
+
+    save_json("funding.json", "funding", dedup(items))
+
+
+# ════════════════════════════════════════════════
+# 6. 醫療旅遊
+#    來源：Google News RSS
+# ════════════════════════════════════════════════
+def fetch_medical_tourism():
+    print("✈️  醫療旅遊...")
+    items = []
+
+    for q in [
+        "medical tourism regenerative medicine stem cell treatment clinic 2025 2026",
+        "cell therapy medical travel Japan Korea Thailand Taiwan",
+        "longevity clinic stem cell anti-aging treatment abroad",
+        "再生醫療 醫療旅遊 幹細胞 治療 海外 日本 泰國",
+    ]:
+        try:
+            items += google_news_rss(q, limit=7)
+        except Exception as e:
+            print(f"  GNews 旅遊: {e}")
+
+    save_json("medical-tourism.json", "tourism", dedup(items))
+
+
+# ════════════════════════════════════════════════
 # 主程式
-# ────────────────────────────────────────────
+# ════════════════════════════════════════════════
 if __name__ == "__main__":
     DATA_DIR.mkdir(exist_ok=True)
-    print("=== 再生醫療戰情室 資料更新開始 ===\n")
+    print(f"=== 再生醫療戰情室 資料更新開始 ({TODAY}) ===\n")
 
     fetch_taiwan_market()
     fetch_global_research()
@@ -419,5 +549,4 @@ if __name__ == "__main__":
     fetch_funding()
     fetch_medical_tourism()
 
-    print("\n=== 更新完成 ===")
-    print(f"時間：{datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
+    print(f"\n=== 更新完成 {datetime.now(timezone.utc).strftime('%H:%M UTC')} ===")
