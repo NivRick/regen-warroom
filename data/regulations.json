@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-06-03T05:47:53.727170+00:00",
+  "updated": "2026-06-03T07:34:34.945453+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-06-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞和基因治療指南",
-      "summary": "此頁麵包含細胞和基因治療指南的清單。",
+      "title": "細胞與基因療法指引",
+      "summary": "本頁面彙整了細胞與基因療法的相關指引文件。",
       "source": "FDA Biologics",
       "date": "2026-06-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
@@ -27,8 +27,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Fulcrum 停止 SCD 候選藥物 Pociredir 的開發，並進行策略審查",
-      "summary": "美國食藥局（FDA） 的擔憂是該機構在最近的階段末會議上向 Fulcrum 高層提出的，源自於另一種 PRC2 抑制劑 Ipsen 的 Tazverik®（tazemetostat）出現意外高的繼發性血癌發生率。",
+      "title": "Fulcrum公司中止鐮狀細胞疾病（SCD）候選藥物Pociredir開發，啟動策略性審查",
+      "summary": "美國食品藥物管理局（FDA）在近期一場臨床試驗階段結束會議上，向Fulcrum高層表達疑慮，主因是觀察到出乎意料高的次級...",
       "source": "GEN News",
       "date": "2026-06-02",
       "url": "https://www.genengnews.com/topics/translational-medicine/fulcrum-halts-development-of-scd-candidate-pociredir-sets-strategic-review/",
@@ -67,24 +67,31 @@
       "lang": "zh-TW"
     },
     {
-      "title": "CHMP 2026 年 5 月的成果標誌著歐洲藥物開發的結構性轉變——申辦者現在應該注意",
-      "summary": "歐洲藥物開發的結構轉變－申辦者現在應該注意了臨床試驗先鋒",
+      "title": "再生醫療雙法上路 天明製藥聚焦品質管理與產業布局",
+      "summary": "",
+      "source": "商傳媒",
+      "date": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQVjcyOXRWalNRNWhLSWJJTEoydTlJSXR4bHFiRGViLXNwaVYwNWZHNlBjS1pRWWhvVkxoaU5Xb0psNGVaU1UtcG41ekFFTjM3TjlaaHdSU1ZJTjZrbnR1UnpXMFl5TVZXZlFhQ1liZUhBbDU1M3hERWdBUnJkbEdKSEtseXRLMk11UmtQR3UwMm8wV0lZcmFzQ2pBcEFRdkg2MmFXQnZvWXlZbjF6anFYcFlGY1ZZQzNJN1pMT21zNnc2YktiNFU5anl2QUdvYV80VlJWSWl5WHdJZldrNVJGN2p1d0F3Q1FyNkQzT2hMdFB1ajRVQS1BblJkcTFQTm1uaUtTbXVrQ2E1eXdIbGFiT3ZGcFlSRW1mQ2dvQmdUNDE5MGZESDhPTDlnc0pnNFVobGdYWDREWXpxUDhqcDgzVDQ0XzhBVDd3MEx0ZkxYbU1GV1R2LXpYWkx5WDUtQ1ExQnVvd0I0bDhIc3pwWFNv?oc=5"
+    },
+    {
+      "title": "歐洲藥品管理局人用藥品委員會（CHMP）2026年5月審查結果，預示歐洲藥物開發結構性轉變，藥廠應立即關注",
+      "summary": "歐洲藥品管理局人用藥品委員會（CHMP）2026年5月的審查結果，將對歐洲藥物開發帶來結構性影響，藥廠需提早因應。",
       "source": "The Clinical Trial Vanguard",
       "date": "2026-05-24",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQk9vMEFxYk12aDNMRWkzbC1pMHdkbmFIMWN6OVhERjJUbDVaYkk5enR5QWlELS01SWVkV2Fiak9NVTNCbkx0T2lSNkpQWm5EQ0IxeUtleVpnZUl1Uzdhd2FacklraWdaUUJvWk85YjhvOFA2Z1lQMTVDUDMyNGtLWEh2V3NBQUp1UWlScWs1TjFxZHhXWWYyVElJRDk0N29rRDR3VTVUS05qY05xQ2tEWGpGWEp4dHgxMDRCYzNOclpZWnNXdHo2QnQ3WUZOYUR1QWswRVE2Z1A0VzJrcTgyZFk0SXlLTkRNRGFib0JyM0w?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
-      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "title": "歐洲生技公司積極開發次世代細胞與基因療法製造技術",
+      "summary": "歐洲生技業者正投入研發新一代細胞與基因療法的生產製造技術。",
       "source": "PharmTech.com",
       "date": "2026-05-22",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "日本監管機構：心臟細胞療法數據可能足以獲得批准",
-      "summary": "可能足以獲得批准股票泰坦",
+      "title": "日本主管機關：心臟細胞治療數據有望獲核准",
+      "summary": "日本藥監單位認為，心臟細胞治療的臨床數據可能已達核准標準。",
       "source": "Stock Titan",
       "date": "2026-05-15",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHU2a2w0QjVxMHI1bVA0RmxHYTNJbmRPX0lEUXFXRVVHekZMenFXNFo5OHhESzBFelFGamoyRlY1V0hQMm8zUG5pY2loMXgyV24wdW1vTjAxZ1pKZkRIRndnWE9qT2txNHhySVJVZzFUdDFEa0xXQzZVMExXenZpWkhHaHVqb2pkRUVZajJmQ0t2OW5YNG56am1vMzc5bU4tZGdlTEZCSHhQQ1FrbGdMUDF3dEJIMG8?oc=5",

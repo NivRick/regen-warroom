@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-06-03T05:47:37.283258+00:00",
+  "updated": "2026-06-03T07:33:53.294829+00:00",
   "items": [
     {
-      "title": "腸道微生物群和代謝物驅動的免疫細胞時空動態對腫瘤的影響。",
-      "summary": "癌症對人類健康構成重大威脅。免疫反應在腫瘤細胞消除中發揮關鍵作用，人們越來越關注免疫細胞在時間、空間和功能維度上的時空動態。腸道微生物群構成了大部分...",
+      "title": "腸道菌群與代謝物驅動的免疫細胞時空動態對腫瘤的影響",
+      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除腫瘤細胞方面扮演關鍵角色，近年來也越來越受到重視。",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42207498/",
       "lang": "zh-TW"
     },
     {
-      "title": "一種基於原位類器官的模型，用於研究大腸直腸癌的早期 CD8⁺ T 細胞功能障礙和免疫治療反應。",
-      "summary": "大腸直腸癌 (CRC) 治療是一項重大的臨床挑戰，免疫療法僅對少數患者提供持久的緩解。更深入了解 CD8⁺ T 細胞耗竭及其對免疫檢查點抑制劑 (ICI) 反應性的貢獻對於開發...",
+      "title": "運用原位類器官模型研究大腸直",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42141809/",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "交流電刺激促進人類牙周膜幹/基質細胞的成骨分化。",
-      "summary": "電刺激（ES）在多種組織工程（TE）策略中顯示出增強人類幹細胞成骨分化的前景。然而，ES 對人類牙周膜幹/基質細胞 (hPDLSC) 的影響仍未被探索。這項研究代表了第一項調查...",
+      "title": "交流電刺激促進人類牙周韌帶幹細胞/基質細胞的成骨分化",
+      "summary": "電刺激（ES）在多種組織工程（TE）策略中，已展現出增強人類幹細胞成骨分化的潛力。",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42156198/",
       "lang": "zh-TW"
     },
     {
-      "title": "烏梅丸透過調節 TGF-β/Smad 訊號恢復結腸黏液屏障，促進潰瘍性結腸炎杯狀細胞分化。",
-      "summary": "烏梅丸（WMW）是一種中藥配方，最早記載於《傷寒論》（東漢），最初用於治療慢性腹瀉或痢疾。當代藥理研究進一步證實其對潰瘍性結腸炎（UC...",
+      "title": "烏梅丸透過調節TGF",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42140533/",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "全反式視黃酸和蘭索拉唑增強了 NKG2D-CAR-T細胞療法 對乳癌的治療。",
-      "summary": "在實體腫瘤中，腫瘤微環境（TME）由於其緻密的物理屏障、異常代謝和免疫抑制因素，對嵌合抗原受體（CAR）T細胞治療提出了重大挑戰。這項研究使用涉及全TR的協同方法解決了這些局限性...",
+      "title": "全反式維甲酸與蘭索拉唑增強NKG2D-嵌合抗原受體T細胞（NKG2D-CAR T）治療乳癌的療效",
+      "summary": "在實體腫瘤治療中，腫瘤微環境（TME）因其緻密的物理屏障和免疫抑制",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42161056/",
@@ -173,7 +173,7 @@
     {
       "title": "[第 3 期] 西沃他單抗合併泊馬度胺和地塞米松與先前治療過的多發性骨髓瘤參與者的標準護理",
       "summary": "狀態：招募｜主辦：Hoffmann-La Roche｜本研究的目的是評估頭孢他單抗合併泊馬度胺和地塞米松 (CevosPd) 與標準護理 (SOC) 相比，對既往接受過 1 至 3 次治療的多發性骨髓瘤 (MM) 參與者的療效和安全性",
-      "source": "ClinicalTrials.gov｜United States, Puerto Rico",
+      "source": "ClinicalTrials.gov｜Puerto Rico, United States",
       "date": "2026-06-03",
       "url": "https://clinicaltrials.gov/study/NCT07555938",
       "lang": "zh-TW"
@@ -205,7 +205,7 @@
     {
       "title": "[不適用] MUSE 幹細胞療法對腦外傷患者的安全性和結果",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Healing Hope International｜這項前瞻性觀察性研究評估了 6 至 75 歲慢性創傷性腦損傷 (TBI) 患者與 MUSE（多系分化壓力耐受）幹細胞療法相關的安全性和患者報告的結果",
-      "source": "ClinicalTrials.gov｜United States, Mexico",
+      "source": "ClinicalTrials.gov｜Mexico, United States",
       "date": "2026-06-03",
       "url": "https://clinicaltrials.gov/study/NCT07326059",
       "lang": "zh-TW"
@@ -267,8 +267,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "CNS 腫瘤的新興療法：ASCO 2026 值得關注的關鍵臨床試驗更新",
-      "summary": "ASCO 2026 上值得關注的臨床試驗更新 Yahoo",
+      "title": "中樞神經系統（CNS）腫瘤新興療法：2026年美國臨床腫瘤學會（ASCO）年會",
+      "summary": "",
       "source": "Yahoo",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVJ4VWpDb281NWZCNzMzNTFRLVBUay16Tl80X0QtdFlJTDRFMndlVy1jUERrQXJyMXpOb1Q2T3RLU05sNU9ya2syeDU4cG5lbi1HYzV5X18wSTQ5NjgyZEJiTjhDMTN2UlF4RTNUZlRpUjVfSnVZclA3MERIZzF6NEVBQ2E1SDh0aXQ3UU5DMUFDZ0JvLUxzaw?oc=5",
@@ -307,8 +307,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 階段] Nemtabrutinib、硼替佐米和利妥昔單抗治療 WM",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：首爾國立大學醫院｜這是一項 II 期（2 個部分）、開放標籤、單臂、多中心研究，旨在評估 nemtabrutinib 聯合硼替佐米和利妥昔單抗的療效和安全性",
+      "title": "二期臨床試驗：Nemtabrutinib、Bortezomib與Rituximab治療巨球蛋白血症（WM）",
+      "summary": "狀態：尚未開始收案｜主辦單位：首爾大學醫院｜這是一項二期（分兩部分）、開放標籤、單臂、多中心臨床試驗，旨在評",
       "source": "ClinicalTrials.gov｜South Korea",
       "date": "2026-06-01",
       "url": "https://clinicaltrials.gov/study/NCT07464210",
@@ -320,14 +320,6 @@
       "source": "NYU Langone Health",
       "date": "2026-06-01",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSE0zMkkzNW9VNkhrNGlyYVk1OWYya01wQUlBRWxsRFpKUV9xV0Q5R0dsM1BpblpiMk1oSEhIUC1zM0k1bUhPaGhoX1Y0bi1pWDdMWDlqdFpuZ05IN1htbjFXbF9COUdabjJkVFA4aU1lX1RxWEwyY25ybDd3YmJZLXJWaGcyTVVwbFRKUHhYRUpwc3BvOWNNbjdyVy1YOWdQd3hhNnZqMndjZDd2QUQ2aUJwSQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "衰弱評分顯示新型癌症療法與毒性和死亡風險的關聯",
-      "summary": "新型癌症療法的現實風險 腫瘤學護理新聞",
-      "source": "Oncology Nursing News",
-      "date": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUxTcVYyM3VnTEhaZHBIQ3VaRjc3NUhidDFzRTNlYW1FbDc2dzJxTFB4U3U1bWN3X0pISnNsMkFaSDlIZ1l6Z0pMRnhlMExqUFRWdzVxMDk5Znp1eC1lcE1PT2s3MWVNNHpaa2kzT2c5MkpKRUl0bzlzMm9rZE14U21ON0NtY1M0cTE5S212c0FRLW85R0x0MUdaQm5RU3diQ1k3VmtUMndibGhYeVlWR0M1U001QQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -347,6 +339,22 @@
       "lang": "zh-TW"
     },
     {
+      "title": "明天在 ASCO 2026 上：羅斯威爾公園專家展示識別臨床試驗「沙漠」的數據圖",
+      "summary": "rts 展示數據圖識別臨床試驗「沙漠」羅斯威爾公園綜合癌症中心",
+      "source": "Roswell Park Comprehensive Cancer Center",
+      "date": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGlhY1JYUlRKNXdGcHNobktna3ZuUEQxTEF4N3V4M212QU9rcWhid0N1Yi1LMEdPdEZ5S28yODB1ZERxR3huQ0tGLUFJMkt3dEJVdUFZaFpuR3lCMnp0ZEY4UzRkNHJrNng0Y2FPRXNhR1k3RkdoU0t3cjBEVXJwTDNhd2JyQjhsZkxMbi10VGZOT215MTZsZjRwUENiSDF4d0RvRDBQTDFrdWYtdnFJRjlFNGVBT0NHWVc4VlpOTQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "這款廣受歡迎的護膚成分是肌膚年輕、容光煥發的秘訣嗎？真皮的權重",
+      "summary": "想要擁有年輕、容光煥發的肌膚嗎？ NBC 新聞中的真皮重量",
+      "source": "NBC News",
+      "date": "2026-05-17",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQ1VHZFFyMWxMSklxWG5ra2JDNWlmMG9rWGlvellZX1JBNFdnZktZUFNULWFZSmxvbi1kN3RTN2FnXy1iejlGMWljV3lTYWRXSmczaUpfM3U2YjZfbXZCYnM3OC1FX2dRS25pTTFiNVVNRTNUdXNsaQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "[第 2 期] 人類間質幹細胞和單株抗體治療輕度認知障礙或早期阿茲海默症。",
       "summary": "狀態：招募｜主辦單位：Bernard (Barry) Baumel｜本研究的目的是測試在標準護理 (SOC) 單株抗體 (mAb) 治療中添加一劑（人類間質幹細胞）hMSC 輸注是否能夠穩定與 m 相關的認知和功能下降的速度",
       "source": "ClinicalTrials.gov｜United States",
@@ -363,8 +371,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 階段] AI 驅動的治療策略與 Pola-R-CHP 在未經治療的 LBCL 中的比較",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：瑞金醫院｜這是一項前瞻性、開放標籤、多中心、隨機對照研究，受試者為既往未經治療的大 B 細胞淋巴瘤患者。將使用基於人工智慧的多模式模型將參與者分為不同的風險群。那些分類",
+      "title": "[二期臨床] AI驅動治療策略對比Pola-R-CHP用於未經治療的晚期B細胞淋巴瘤（LBCL）",
+      "summary": "瑞金醫院將啟動一項二期臨床試驗，比較AI驅動療法與Pola-R-CHP治療未經治療的晚期B",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-05-06",
       "url": "https://clinicaltrials.gov/study/NCT07594899",
