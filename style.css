@@ -348,24 +348,77 @@ body {
 .tag-funding { background: rgba(139,92,246,0.12); color: #8b5cf6; }
 .tag-tourism { background: rgba(236,72,153,0.12); color: #ec4899; }
 
+/* card-top 右側區塊（新鮮度 + 日期 + 分享） */
+.card-top-right {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
 .card-date {
   font-size: 11px;
   color: var(--text-dim);
   flex-shrink: 0;
 }
 
+/* #12 新鮮度標籤 */
+.fresh-tag {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+  flex-shrink: 0;
+}
+.fresh-today { background: rgba(16,185,129,0.2); color: #10b981; }
+.fresh-new   { background: rgba(0,212,255,0.15); color: var(--accent); }
+.fresh-week  { background: rgba(245,158,11,0.12); color: #f59e0b; }
+.fresh-old   { background: rgba(100,116,139,0.1); color: var(--text-dim); }
+
+/* #24 分享按鈕 */
+.share-btn {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  cursor: pointer;
+  font-size: 14px;
+  padding: 2px 4px;
+  border-radius: 4px;
+  line-height: 1;
+  transition: color 0.2s, background 0.2s;
+}
+.share-btn:hover { color: var(--accent); background: rgba(0,212,255,0.08); }
+
+/* #25 已讀狀態 */
+.intel-card.is-read {
+  opacity: 0.55;
+}
+.intel-card.is-read .card-title {
+  color: var(--text-muted);
+}
+.intel-card.is-read::after {
+  content: '✓';
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 10px;
+  color: var(--green);
+  opacity: 0.7;
+}
+
 .card-title {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 600;
   color: var(--text);
-  line-height: 1.45;
-  margin-bottom: 6px;
+  line-height: 1.5;
+  margin-bottom: 8px;
 }
 
 .card-summary {
-  font-size: 13px;
+  font-size: 14px;
   color: var(--text-muted);
-  line-height: 1.6;
+  line-height: 1.65;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
@@ -438,6 +491,35 @@ body {
   font-size: 13px;
   padding: 12px 16px;
   text-align: center;
+}
+
+/* ── Toast 提示 ── */
+.toast {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  background: #1e293b;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  color: var(--text);
+  font-size: 13px;
+  padding: 10px 20px;
+  opacity: 0;
+  transition: opacity 0.25s, transform 0.25s;
+  z-index: 999;
+  white-space: nowrap;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+}
+.toast.toast-show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+/* ── 錯誤橫幅 ── */
+#error-banner {
+  margin: 8px 16px 0;
+  border-radius: var(--radius-sm);
 }
 
 /* ── Footer ── */
