@@ -1,5 +1,5 @@
 """
-再生醫療戰情室 — 資料抓取腳本 v2
+再生醫療戰情室 — 資料抓取腳本 v3
 資料來源：
   台灣市場   → TWSE MOPS RSS、Google News、NewsAPI
   臨床突破   → PubMed、ClinicalTrials.gov API v2、GEN News、Nature Biotechnology
@@ -7,11 +7,15 @@
   法規動態   → FDA RSS、Google News（法規關鍵字）
   資金動向   → STAT News、FierceBiotech、BioPharma Dive、Google News
   醫療旅遊   → Google News RSS
+翻譯策略：
+  預設       → Google Translate 非官方 API（免費、不需 Key）
+  升級版     → Gemini 1.5 Flash（免費額度 1500次/天，設定 GEMINI_API_KEY 環境變數）
 """
 
 import json
 import os
 import re
+import time
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
@@ -19,9 +23,187 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 DATA_DIR = Path(__file__).parent.parent / "data"
-NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY", "")
+NEWSAPI_KEY   = os.environ.get("NEWSAPI_KEY", "")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+
+# ── 醫療術語白話對照表（確保翻譯一致性）──
+GLOSSARY = {
+    r"\bCAR[-\s]?T\b":            "CAR-T細胞療法",
+    r"\bCAR NK\b":                 "CAR-NK自然殺手細胞療法",
+    r"\bstem cell(?:s)?\b":       "幹細胞",
+    r"\bgene therapy\b":          "基因療法",
+    r"\bcell therapy\b":          "細胞治療",
+    r"\bregenerative medicine\b": "再生醫療",
+    r"\bclinical trial(?:s)?\b":  "臨床試驗",
+    r"\bphase (?:I|1)\b":         "第一期試驗",
+    r"\bphase (?:II|2)\b":        "第二期試驗",
+    r"\bphase (?:III|3)\b":       "第三期試驗",
+    r"\bFDA\b":                   "美國食藥局（FDA）",
+    r"\bEMA\b":                   "歐洲藥品管理局（EMA）",
+    r"\bPMDA\b":                  "日本藥品局（PMDA）",
+    r"\biPSC(?:s)?\b":            "誘導型多能幹細胞（iPSC）",
+    r"\bexosome(?:s)?\b":         "外泌體",
+    r"\bmRNA\b":                  "信使RNA（mRNA）",
+    r"\bCRISPR\b":                "基因剪輯技術（CRISPR）",
+    r"\borganoid(?:s)?\b":        "類器官",
+    r"\btissue engineering\b":    "組織工程",
+    r"\bscaffold(?:s)?\b":        "生物支架",
+    r"\bautologous\b":            "自體（取自患者本人）",
+    r"\ballogeneic\b":            "異體（取自捐贈者）",
+    r"\bin vivo\b":               "體內實驗",
+    r"\bin vitro\b":              "體外實驗",
+    r"\bplacebo\b":               "安慰劑",
+    r"\bbiomarker(?:s)?\b":       "生物標記",
+    r"\bimmunotherapy\b":         "免疫療法",
+    r"\bchimeric antigen receptor\b": "嵌合抗原受體",
+    r"\bSeriesA\b":               "A輪融資",
+    r"\bSeries A\b":              "A輪融資",
+    r"\bSeries B\b":              "B輪融資",
+    r"\bSeries C\b":              "C輪融資",
+    r"\bIPO\b":                   "首次公開上市（IPO）",
+    r"\bventure capital\b":       "創投資金",
+}
 TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 CUTOFF = f"{int(TODAY[:4]) - 2}{TODAY[4:]}"   # 2 年前作為最舊門檻
+
+
+# ════════════════════════════════════════════════
+# 翻譯模組
+# ════════════════════════════════════════════════
+
+def is_english(text):
+    """判斷文字是否主要為英文（ASCII 字母佔比 > 65%）"""
+    if not text:
+        return False
+    alpha = [c for c in text if c.isalpha()]
+    if not alpha:
+        return False
+    ascii_alpha = [c for c in alpha if ord(c) < 128]
+    return (len(ascii_alpha) / len(alpha)) > 0.65
+
+
+def apply_glossary(text):
+    """套用術語對照表，讓翻譯結果更一致"""
+    for pattern, replacement in GLOSSARY.items():
+        text = re.sub(pattern, replacement, text, flags=re.IGNORECASE)
+    return text
+
+
+def google_translate(text, target="zh-TW"):
+    """Google Translate 非官方 API（免費）"""
+    if not text or len(text.strip()) < 3:
+        return text
+    try:
+        text = text[:600]
+        encoded = urllib.parse.quote(text)
+        url = (
+            f"https://translate.googleapis.com/translate_a/single"
+            f"?client=gtx&sl=auto&tl={target}&dt=t&q={encoded}"
+        )
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://translate.google.com",
+        })
+        with urllib.request.urlopen(req, timeout=12) as r:
+            result = json.loads(r.read())
+        translated = "".join(
+            seg[0] for seg in result[0] if seg and seg[0]
+        )
+        return translated.strip()
+    except Exception:
+        return text   # 失敗保留原文
+
+
+def gemini_translate(title, summary):
+    """Gemini 1.5 Flash：翻譯 + 白話化（需 GEMINI_API_KEY）"""
+    if not GEMINI_API_KEY:
+        return None, None
+    prompt = f"""你是台灣資深生醫產業分析師，請將以下英文生醫新聞翻譯成繁體中文。
+
+規則：
+1. 使用台灣慣用術語（細胞治療、基因療法、幹細胞、臨床試驗、核准、募資）
+2. 專有名詞保留英文縮寫並加括號，例如：嵌合抗原受體T細胞療法（CAR-T）
+3. 把艱澀學術句改寫成台灣商業媒體的口語風格
+4. 金額單位改為「億美元」「萬美元」等台灣讀者習慣的說法
+5. 只輸出翻譯，不要加任何說明或標題
+
+【標題】{title}
+【摘要】{summary if summary else "（無）"}
+
+請依序輸出：
+標題翻譯：（一行）
+摘要翻譯：（若無摘要則輸出空行）"""
+
+    try:
+        url = (
+            f"https://generativelanguage.googleapis.com/v1beta/"
+            f"models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+        )
+        payload = json.dumps({
+            "contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {"temperature": 0.2, "maxOutputTokens": 400},
+        }).encode()
+        req = urllib.request.Request(url, data=payload, headers={"Content-Type": "application/json"})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            result = json.loads(r.read())
+        raw = result["candidates"][0]["content"]["parts"][0]["text"].strip()
+
+        # 解析輸出格式
+        title_zh, summary_zh = "", ""
+        for line in raw.splitlines():
+            if line.startswith("標題翻譯："):
+                title_zh = line.replace("標題翻譯：", "").strip()
+            elif line.startswith("摘要翻譯："):
+                summary_zh = line.replace("摘要翻譯：", "").strip()
+        return title_zh or None, summary_zh or None
+    except Exception as e:
+        print(f"    Gemini 翻譯失敗: {e}")
+        return None, None
+
+
+def translate_items(items, module_label=""):
+    """翻譯整個模組的 items，英文 → 繁體中文白話"""
+    total = sum(1 for it in items if is_english(it.get("title", "")))
+    if total == 0:
+        return items
+
+    print(f"    翻譯 {total} 筆英文內容 ({'Gemini' if GEMINI_API_KEY else 'Google Translate'})...")
+
+    translated = []
+    for item in items:
+        title   = item.get("title", "")
+        summary = item.get("summary", "")
+
+        if not is_english(title):
+            translated.append(item)
+            continue
+
+        if GEMINI_API_KEY:
+            # Gemini：翻譯 + 白話化（一次搞定）
+            t_title, t_summary = gemini_translate(title, summary)
+            if t_title:
+                item["title"]   = t_title
+                item["summary"] = t_summary or ""
+                item["lang"]    = "zh-TW"
+            else:
+                # Gemini 失敗 → 降級 Google Translate
+                item["title"]   = apply_glossary(google_translate(title))
+                if summary and is_english(summary):
+                    item["summary"] = apply_glossary(google_translate(summary))
+                item["lang"] = "zh-TW"
+            time.sleep(0.5)   # Gemini rate limit
+        else:
+            # Google Translate：翻譯後套用術語表
+            item["title"] = apply_glossary(google_translate(title))
+            if summary and is_english(summary):
+                time.sleep(0.15)
+                item["summary"] = apply_glossary(google_translate(summary))
+            item["lang"] = "zh-TW"
+            time.sleep(0.15)
+
+        translated.append(item)
+
+    return translated
 
 
 # ════════════════════════════════════════════════
@@ -44,7 +226,8 @@ def fetch_url(url, timeout=20):
 
 
 def save_json(filename, module_id, items):
-    """清理日期、去重、排序後儲存"""
+    """去重 → 過濾日期 → 翻譯 → 排序 → 儲存"""
+    # 1. 去重 + 日期過濾
     seen_titles = set()
     cleaned = []
     for item in items:
@@ -52,13 +235,16 @@ def save_json(filename, module_id, items):
         if not title_key or title_key in seen_titles:
             continue
         seen_titles.add(title_key)
-
         fixed = clamp_date(item.get("date", ""))
         if fixed is None:
             continue
         item["date"] = fixed
         cleaned.append(item)
 
+    # 2. 翻譯英文內容 → 繁體中文白話
+    cleaned = translate_items(cleaned, module_id)
+
+    # 3. 排序（新到舊）、取前 30 筆
     cleaned.sort(key=lambda x: x.get("date", ""), reverse=True)
 
     data = {

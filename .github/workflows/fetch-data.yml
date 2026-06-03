@@ -29,6 +29,7 @@ jobs:
       - name: 執行資料抓取腳本
         env:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/fetch_all.py
 
       - name: 提交更新後的資料
