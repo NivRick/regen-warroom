@@ -1,6 +1,6 @@
 {
   "module": "regulation",
-  "updated": "2026-06-03T08:02:56.986438+00:00",
+  "updated": "2026-06-03T08:09:58.535599+00:00",
   "items": [
     {
       "title": "生物製品的新動態",
@@ -35,8 +35,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "愛迪維恩",
-      "summary": "產品核准資訊適用於患有 B 型血友病（先天性因子 IX 缺乏症）的兒童和成人： 1) 按需控制和預防出血事件； 2） 圍手術期出血處理；3) 常規預防",
+      "title": "艾迪維恩",
+      "summary": "產品核准資訊適用於患有 B 型血友病（先天性因子 IX 缺乏症）的兒童和成人： 1) 按需控制和預防出血事件；2） 圍手術期出血處理；3) 常規預防",
       "source": "FDA Biologics",
       "date": "2026-06-01",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/idelvion",

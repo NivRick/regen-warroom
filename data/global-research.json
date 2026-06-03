@@ -1,9 +1,9 @@
 {
   "module": "research",
-  "updated": "2026-06-03T08:02:42.468768+00:00",
+  "updated": "2026-06-03T08:08:54.499368+00:00",
   "items": [
     {
-      "title": "The impact of gut microbiota and metabolite-driven immune cell spatiotemporal dynamics on tumors.",
+      "title": "腸道微生物群和代謝物驅動的免疫細胞時空動態對腫瘤的影響。",
       "summary": "癌症對人類健康構成重大威脅。免疫反應在腫瘤細胞消除中發揮關鍵作用，人們越來越關注免疫細胞在時間、空間和功能維度上的時空動態。腸道微生物群構成了大部分...",
       "source": "PubMed",
       "date": "2026-06-03",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "交流電刺激能促進人類牙周韌帶幹細胞/間質細胞的成骨分化",
-      "summary": "電刺激（ES）在多種組織工程（TE）策略中，已展現能有效提升人類幹細胞成骨分化的潛力。",
+      "title": "交流電刺激促進人類牙周膜幹/基質細胞的成骨分化。",
+      "summary": "電刺激（ES）在多種組織工程（TE）策略中顯示出增強人類幹細胞成骨分化的前景。然而，ES 對人類牙周膜幹/基質細胞 (hPDLSC) 的影響仍未被探索。這項研究代表了第一項調查...",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42156198/",
       "lang": "zh-TW"
     },
     {
-      "title": "烏梅丸透過調節",
-      "summary": "",
+      "title": "烏梅丸透過調節 TGF-β/Smad 訊號恢復結腸黏液屏障，促進潰瘍性結腸炎杯狀細胞分化。",
+      "summary": "烏梅丸（WMW）是一種中藥配方，最早記載於《傷寒論》（東漢），最初用於治療慢性腹瀉或痢疾。當代藥理研究進一步證實其對潰瘍性結腸炎（UC...",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42140533/",
@@ -84,7 +84,7 @@
     },
     {
       "title": "大戟 (Euphorbia humifusa Willd)。透過 ACSL4/COX-2 軸抑制脂質過氧化來緩解潰瘍性結腸炎。",
-      "summary": "大戟（Euphorbia humifusa Willd.，EH），學名地錦草，是一種用於治療痢疾和腸炎的傳統中草藥，具有治療潰瘍性結腸炎（UC）的潛力，但其機制尚不清楚。",
+      "summary": "大戟（Euphorbia humifusa Willd.，EH），學名地金草，是一種用於治療痢疾和腸炎的傳統中草藥，具有治療潰瘍性結腸炎（UC）的潛力，但其機制尚不清楚。",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42106018/",
@@ -205,7 +205,7 @@
     {
       "title": "[不適用] MUSE 幹細胞療法對腦外傷患者的安全性和結果",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Healing Hope International｜這項前瞻性觀察性研究評估了 6 至 75 歲慢性創傷性腦損傷 (TBI) 患者與 MUSE（多系分化壓力耐受）幹細胞療法相關的安全性和患者報告的結果",
-      "source": "ClinicalTrials.gov｜United States, Mexico",
+      "source": "ClinicalTrials.gov｜Mexico, United States",
       "date": "2026-06-03",
       "url": "https://clinicaltrials.gov/study/NCT07326059",
       "lang": "zh-TW"
@@ -283,16 +283,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "早期淋巴瘤試驗：一次性 CAR-T細胞療法 觀察到所有高劑量患者均有反應",
-      "summary": "所有高劑量患者均對 Stock Titan 產生反應",
-      "source": "Stock Titan",
-      "date": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeGVtYUpneGlxNlZQNjIxdFRHZFVoOHRYdDBFd1haUDQ2WXVvVTJLNU1iVkNmVFNORlJQYUlqN20wV001cThLNkt3a0JMTUlxbm94Vy1FNG5lZVpPeHJDc0FPM2pCblVZWnZEZS11YUVMeDdYZlVpaHJ6MklWUVNSaVRGajZRUWF2LURhSHZBUUZOQUlucHo0YlJkOTJiRUNWc3U0THRYb3lQa3Z5Ny1fLXFPOVc5NVBEQVVpR2JGZzk?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "[EARLY_PHASE1]阿札胞苷、西達本胺合併PD-1單株抗體治療難治/復發週邊T細胞淋巴瘤的開放標籤、單臂、多中心II期臨床研究。",
-      "summary": "狀態：招募中｜主辦：蘇州大學第二附屬醫院｜評估阿扎胞苷、西達本胺和PD-1單株抗體治療難治性/復發性週邊T細胞淋巴瘤療效的開放標籤、單臂、多中心II期臨床研究。",
+      "summary": "狀態：招募｜主辦：蘇州大學第二附屬醫院｜評估阿扎胞苷、西達本胺和PD-1單株抗體治療難治性/復發性週邊T細胞淋巴瘤療效的開放標籤、單臂、多中心II期臨床研究。",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-06-01",
       "url": "https://clinicaltrials.gov/study/NCT07598578",
@@ -331,7 +323,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "ASCO：禮來公司高層指出，體內實驗 CAR-T細胞療法 的「瘋狂」100% 回應率證明 Kelonia 收購是合理的",
+      "title": "ASCO：禮來公司高層指出，體內實驗 CAR-T細胞療法 的「瘋狂」100% 回應率證明了 Kelonia 收購的合理性",
       "summary": "體內 CAR-T細胞療法 的回應率證明 Kelonia 收購 Fierce Biotech 是合理的",
       "source": "Fierce Biotech",
       "date": "2026-05-31",
@@ -339,16 +331,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "明天在 ASCO 2026 上：羅斯威爾公園專家展示識別臨床試驗「沙漠」的數據圖",
-      "summary": "rts 展示數據圖識別臨床試驗「沙漠」羅斯威爾公園綜合癌症中心",
-      "source": "Roswell Park Comprehensive Cancer Center",
-      "date": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGlhY1JYUlRKNXdGcHNobktna3ZuUEQxTEF4N3V4M212QU9rcWhid0N1Yi1LMEdPdEZ5S28yODB1ZERxR3huQ0tGLUFJMkt3dEJVdUFZaFpuR3lCMnp0ZEY4UzRkNHJrNng0Y2FPRXNhR1k3RkdoU0t3cjBEVXJwTDNhd2JyQjhsZkxMbi10VGZOT215MTZsZjRwUENiSDF4d0RvRDBQTDFrdWYtdnFJRjlFNGVBT0NHWVc4VlpOTQ?oc=5",
+      "title": "ASCO 2026：第一個專題研究引入了潛在的新標準",
+      "summary": "uce 潛在的新標準 腫瘤學新聞中心",
+      "source": "Oncology News Central",
+      "date": "2026-05-30",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTl9BR2ZIckExTXVjTm9GRUdDdzFuSWJaQmdsY2ZNYWpyZmw5YTQweXp2cjVZOVNWRldDWlE4M2dxc05RM1NEZ0doYXRMVWliaUtjaGxhN0p2TVFBcnIxZmw5ZUpVUTh2Z29IZTBteWJEZWdsbzdyelg3eU13VDhpaE50cDVMV0tQTVhIaVlvbHBNQmx0TFlGaXExckZwb0ZmbDd6bm1GY1AtQjlkckdFUg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "這款廣受歡迎的護膚成分是肌膚年輕、容光煥發的秘訣嗎？真皮的權重",
-      "summary": "想要擁有年輕、容光煥發的肌膚嗎？ NBC 新聞中的真皮重量",
+      "title": "明天在 ASCO 2026 上：羅斯威爾公園專家展示識別臨床試驗“沙漠”的數據圖表 |新聞智慧",
+      "summary": "rts 呈現資料圖辨識臨床試驗「沙漠」|新聞資訊 新聞資訊",
+      "source": "Newswise",
+      "date": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeF9YTFVyOEhuREZZVnpCbUExTnN2ejNCcEJSbzdCYUotVzlfYmxqUUMtX3VyRVJWWW5mTUh5OHhXTExjNWg0c3ZqNmhseXZvMGU3aXMtZ1o5enlVbWU1XzZhbThTMUpOSEdTTS1lQl9HZXFnZEJxVW1MdWlFY0Z4OUNlMmR0SjlNTXNOUVdpcU1qTDFpWTc2SXpqTVRveTNhZFN6NEFjZ0ZhQjgyR2UtZ2FuVUt6VVlSbnhnWVJKS0htcjRwX1U1Q9IByAFBVV95cUxQeF9YTFVyOEhuREZZVnpCbUExTnN2ejNCcEJSbzdCYUotVzlfYmxqUUMtX3VyRVJWWW5mTUh5OHhXTExjNWg0c3ZqNmhseXZvMGU3aXMtZ1o5enlVbWU1XzZhbThTMUpOSEdTTS1lQl9HZXFnZEJxVW1MdWlFY0Z4OUNlMmR0SjlNTXNOUVdpcU1qTDFpWTc2SXpqTVRveTNhZFN6NEFjZ0ZhQjgyR2UtZ2FuVUt6VVlSbnhnWVJKS0htcjRwX1U1Qw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "這款廣受歡迎的護膚成分是肌膚年輕、容光煥發的秘訣嗎？真皮的重量",
+      "summary": "cret to youthful, glowing skin? Derms weigh in NBC News",
       "source": "NBC News",
       "date": "2026-05-17",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQ1VHZFFyMWxMSklxWG5ra2JDNWlmMG9rWGlvellZX1JBNFdnZktZUFNULWFZSmxvbi1kN3RTN2FnXy1iejlGMWljV3lTYWRXSmczaUpfM3U2YjZfbXZCYnM3OC1FX2dRS25pTTFiNVVNRTNUdXNsaQ?oc=5",
@@ -372,7 +372,7 @@
     },
     {
       "title": "[第 2 階段] AI 驅動的治療策略與 Pola-R-CHP 在未經治療的 LBCL 中的比較",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：瑞金醫院｜這是一項前瞻性、開放標籤、多中心、隨機對照研究，受試者為既往未經治療的大 B 細胞淋巴瘤受試者。將使用基於人工智慧的多模式模型將參與者分為不同的風險群。那些分类",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：瑞金醫院｜這是一項前瞻性、開放標籤、多中心、隨機對照研究，受試者為既往未經治療的大 B 細胞淋巴瘤受試者。將使用基於人工智慧的多模式模型將參與者分為不同的風險群。那些分類",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-05-06",
       "url": "https://clinicaltrials.gov/study/NCT07594899",
