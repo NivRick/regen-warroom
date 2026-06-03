@@ -1,146 +1,166 @@
 {
   "module": "funding",
-  "updated": "2026-06-03T03:45:41.171425+00:00",
+  "updated": "2026-06-03T04:25:56.715443+00:00",
   "items": [
     {
-      "title": "STAT+: Longevity startup NewLimit raises $435 million ahead of first clinical trial",
-      "summary": "Longevity startup NewLimit plans to launch its first clinical trial of a liver medicine after raising a staggering $435 million in new funding.",
+      "title": "STAT+：長壽新創公司 NewLimit 在首次臨床試驗前籌集了 4.35 億美元",
+      "summary": "長壽新創公司 NewLimit 計劃在籌集了驚人的 4.35 億美元新資金後啟動其首次肝臟藥物臨床試驗。",
       "source": "STAT News",
       "date": "2026-06-02",
-      "url": "https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/?utm_campaign=rss"
+      "url": "https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/?utm_campaign=rss",
+      "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Pharmalittle: We’re reading about a Lilly threat to 340B hospitals, Ebola vaccine funding, and more",
-      "summary": "Lilly gave hospitals participating in a federal drug discount program five days to submit claims data or it will stop the price breaks",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關禮來公司對 340B 醫院的威脅、伊波拉疫苗資金等的信息",
+      "summary": "禮來公司給參與聯邦藥品折扣計劃的醫院五天時間提交索賠數據，否則將停止價格優惠",
       "source": "STAT News",
       "date": "2026-06-02",
-      "url": "https://www.statnews.com/pharmalot/2026/06/02/lilly-threat-to-340b-hospitals-ebola-vaccine-funding/?utm_campaign=rss"
+      "url": "https://www.statnews.com/pharmalot/2026/06/02/lilly-threat-to-340b-hospitals-ebola-vaccine-funding/?utm_campaign=rss",
+      "lang": "zh-TW"
     },
     {
-      "title": "How one state’s medical meal program lowered health care costs",
-      "summary": "Medicaid work requirements, fast-tracked funding for experimental Ebola vaccines, and more health news from Morning Rounds",
+      "title": "一個州的醫療膳食計劃如何降低醫療成本",
+      "summary": "醫療補助工作要求、實驗性伊波拉疫苗的快速資助以及早晨查房的更多健康新聞",
       "source": "STAT News",
       "date": "2026-06-02",
-      "url": "https://www.statnews.com/2026/06/02/health-news-testing-one-state-medical-meal-progra/?utm_campaign=rss"
+      "url": "https://www.statnews.com/2026/06/02/health-news-testing-one-state-medical-meal-progra/?utm_campaign=rss",
+      "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Global coalition to fast-track three vaccines targeting Ebola outbreak with $62 million in funding",
-      "summary": "With no licensed vaccines available to protect against the Ebola virus currently spreading in the Congo, efforts are underway to fast-track development of at least three vaccines.",
+      "title": "STAT+：全球聯盟將提供 6,200 萬美元資金，快速開發三種針對伊波拉疫情的疫苗",
+      "summary": "由於沒有獲得許可的疫苗可以預防目前在剛果傳播的伊波拉病毒，因此正在努力快速開發至少三種疫苗。",
       "source": "STAT News",
       "date": "2026-06-01",
-      "url": "https://www.statnews.com/2026/06/01/ebola-bundibugyo-vaccine-studies-cepi-62-million-funding/?utm_campaign=rss"
+      "url": "https://www.statnews.com/2026/06/01/ebola-bundibugyo-vaccine-studies-cepi-62-million-funding/?utm_campaign=rss",
+      "lang": "zh-TW"
     },
     {
-      "title": "STAT+: A turning point for pancreatic cancer patients",
-      "summary": "Eli Lilly announces two China deals, Akeso's lung cancer bispecific payoff, and more biotech news from The Readout",
+      "title": "STAT+：胰臟癌患者的轉折點",
+      "summary": "禮來公司 (Eli Lilly) 宣布兩項中國交易、康方生物 (Akeso) 的肺癌雙特異性藥物回報，以及來自 The Readout 的更多生物技術新聞",
       "source": "STAT News",
       "date": "2026-06-01",
-      "url": "https://www.statnews.com/2026/06/01/biotech-news-turning-point-for-pancreatic-cancer-revmed/?utm_campaign=rss"
+      "url": "https://www.statnews.com/2026/06/01/biotech-news-turning-point-for-pancreatic-cancer-revmed/?utm_campaign=rss",
+      "lang": "zh-TW"
     },
     {
-      "title": "CDC says containing the spread of Ebola is top priority",
-      "summary": "The Trump administration disregards infectious disease playbook, CEPI offers vaccine funding, and other health news from Morning Rounds",
+      "title": "CDC表示遏制伊波拉病毒傳播是首要任務",
+      "summary": "川普政府無視傳染病劇本、CEPI 提供疫苗資金以及早晨查房的其他健康新聞",
       "source": "STAT News",
       "date": "2026-06-01",
-      "url": "https://www.statnews.com/2026/06/01/health-news-cdc-says-containing-ebola-spread-is-top-priority/?utm_campaign=rss"
+      "url": "https://www.statnews.com/2026/06/01/health-news-cdc-says-containing-ebola-spread-is-top-priority/?utm_campaign=rss",
+      "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Servier to buy Edgewise Therapeutics’ muscular dystrophy drug",
-      "summary": "The French pharma firm Servier is buying an experimental muscular dystrophy drug from Edgewise Therapeutics for $1.55 billion upfront.",
+      "title": "STAT+：施維雅收購 Edgewise Therapeutics 的肌肉萎縮症藥物",
+      "summary": "法國製藥公司施維雅 (Servier) 正以 15.5 億美元預付款從 Edgewise Therapeutics 購買一種實驗性肌肉營養不良藥物。",
       "source": "STAT News",
       "date": "2026-06-01",
-      "url": "https://www.statnews.com/2026/06/01/servier-edgewise-therapeutics-muscular-dystrophy-drug-sevasemten/?utm_campaign=rss"
+      "url": "https://www.statnews.com/2026/06/01/servier-edgewise-therapeutics-muscular-dystrophy-drug-sevasemten/?utm_campaign=rss",
+      "lang": "zh-TW"
     },
     {
-      "title": "RallyBio tries again for reverse merger, this time with Avenzo",
-      "summary": "It's the second attempt for the rare disease company, which initially announced plans to merge with Candid Therapeutics before the immune drug developer was bought by UCB.",
+      "title": "RallyBio 再次嘗試反向合併，這次是與 Avenzo",
+      "summary": "這是這家罕見疾病公司的第二次嘗試，在免疫藥物開發商 Candid Therapeutics 被 UCB 收購之前，該公司最初宣布了與 Candid Therapeutics 合併的計劃。",
       "source": "BioPharma Dive",
       "date": "2026-06-01",
-      "url": "https://www.biopharmadive.com/news/avenzo-rallybio-reverse-merger-cancer-drugs/821613/"
+      "url": "https://www.biopharmadive.com/news/avenzo-rallybio-reverse-merger-cancer-drugs/821613/",
+      "lang": "zh-TW"
     },
     {
-      "title": "Servier buys into muscular dystrophy with potentially $2.7B deal",
-      "summary": "The French drugmaker has agreed to acquire an experimental tablet from Edgewise Therapeutics that some bullish analysts say could eventually hit peak sales of over $2 billion.",
+      "title": "施維雅 (Servier) 斥資 2.7B 美元收購肌肉營養不良症公司",
+      "summary": "這家法國製藥商已同意從 Edgewise Therapeutics 購買一款實驗性片劑，一些樂觀的分析師表示，該片劑最終可能會達到超過 20 億美元的峰值銷售額。",
       "source": "BioPharma Dive",
       "date": "2026-06-01",
-      "url": "https://www.biopharmadive.com/news/servier-edgewise-muscular-dystrophy-deal-acquisition-neuroscience-neurology/821605/"
+      "url": "https://www.biopharmadive.com/news/servier-edgewise-muscular-dystrophy-deal-acquisition-neuroscience-neurology/821605/",
+      "lang": "zh-TW"
     },
     {
-      "title": "European Biotechs Developing Next-Generation Cell and Gene Therapy Manufacturing Technologies",
-      "summary": "tion Cell and Gene Therapy Manufacturing Technologies PharmTech.com",
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
       "source": "PharmTech.com",
       "date": "2026-05-22",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "CAR-T細胞療法 開發商 Oricell 完成 1.1 億美元的 首次公開上市（IPO） 前融資",
+      "summary": "FirstWord Pharma 融資 1.1 億美元",
+      "source": "FirstWord Pharma",
+      "date": "2026-04-10",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kYmRTcV9aaDB6OEoxNUtQSnZUbnN6ZHBzZXVOWTNTYTBwMTY1Tks3VE8tYVJ4WWdpeUNQcjA0V0pfbDgzTk5RbDV1VkswanZCMXhN?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "Longeveron Announces 2025 Full Year Financial Results and Provides Business Update",
-      "summary": "ncial Results and Provides Business Update GlobeNewswire",
+      "summary": "最新業績並提供業務更新 GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-03-17",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMTVLVlhUcm1talE0MlZTdjBQX01BMGNWenA5SzBYUkFBcWRYT24yV2FfajJ6ZDJQMWNibGZBcnJtbk9MZGF6T0huWVhQM284a3NtejB2d0xFSzhmTnROaGtqYjVocmtuUTRoYmh0NS1iOEgwbXJrVHJJMXowdmpaTUVCdWJfNEVBQ2tmQzlNSWVabUNtN09nWkUtMThqVUF5azA2cS1sZUFsSHJOV0dRUmdmenI3T2lEbjFCNnJqWlNLTGtHZndqZHFtOG50ZGI1QzRNRW5GeDJkNnNXOF9HOThrQWY4Qy0xMEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMTVLVlhUcm1talE0MlZTdjBQX01BMGNWenA5SzBYUkFBcWRYT24yV2FfajJ6ZDJQMWNibGZBcnJtbk9MZGF6T0huWVhQM284a3NtejB2d0xFSzhmTnROaGtqYjVocmtuUTRoYmh0NS1iOEgwbXJrVHJJMXowdmpaTUVCdWJfNEVBQ2tmQzlNSWVabUNtN09nWkUtMThqVUF5azA2cS1sZUFsSHJOV0dRUmdmenI3T2lEbjFCNnJqWlNLTGtHZndqZHFtOG50ZGI1QzRNRW5GeDJkNnNXOF9HOThrQWY4Qy0xMEE?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "BreezeBio banks $60M to make more precise genetic medicines",
-      "summary": "e genetic medicines BioPharma Dive",
+      "title": "BreezeBio 籌集 6000 萬美元用於製造更精確的基因藥物",
+      "summary": "電子遺傳藥物 BioPharma Dive",
       "source": "BioPharma Dive",
       "date": "2026-02-25",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN05Fd211OEY1QWxnem5WOURDMjNJTG9oRmhqUU1sdE5OQmNlbHpoOFNwTVlHcUROSzFoLVBzTUZrb3M4UDVSR0FJRWMtaWFGOFBXaGdzV1h6MEtCZlJQUkJnZ2xJOGF2Mk1xOS1ZZGFOOEQ5YlVNYmNTQlZ2Ym55NV9HUmh2R0lOb3lYT3FER3NUVE0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN05Fd211OEY1QWxnem5WOURDMjNJTG9oRmhqUU1sdE5OQmNlbHpoOFNwTVlHcUROSzFoLVBzTUZrb3M4UDVSR0FJRWMtaWFGOFBXaGdzV1h6MEtCZlJQUkJnZ2xJOGF2Mk1xOS1ZZGFOOEQ5YlVNYmNTQlZ2Ym55NV9HUmh2R0lOb3lYT3FER3NUVE0?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Innovacell 在東京 首次公開上市（IPO） 融資 9,100 萬美元，為失禁細胞療法提供資金",
+      "summary": "生命細胞療法 BioWorld 新聞",
+      "source": "BioWorld News",
+      "date": "2026-02-24",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc1Q0ZENwUkozRU91dDVYV1pLSEN2b2w5VE80R1Y1MlFoZHJsX2FMSnc3WVZOZHlIamVYMTQxTlFqTDBvWl94dWdTd2xtckZJcE54Ml9oVXcyRTdqV01LeHJ3VDhveHdqLWtwSzB3MDNkZ1RwdjFmZDMwZDF4ekx2Ynl6YXFlejdlVUNlWDB6UHNVSHpfQU9wSmhTdG9LUG1ZenZTTQ?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "UK retains Europe’s top biotech VC spot despite 2025 slowdown",
-      "summary": "despite 2025 slowdown European Biotechnology Magazine",
+      "summary": "儘管 2025 年經濟放緩 歐洲生物技術雜誌",
       "source": "European Biotechnology Magazine",
       "date": "2026-01-26",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzdUZlR0a2ZwX1BEQmtrMm5mWS1fQzViMFlHbnJmbGlTSlVlVXJ0eUlUQ3BkaDFONzVvNzRGMVpPM1RjN19lV3AxMHcteFA0UDZzcFoxU3IzOXEzNHRaVWJFb1NIa0d6SUM1VXZhR0RudDNoVGpUaUlUS09IQjdyQXZKWE0yZkJfMmJfYW9NTE5nMGdYdk13dnBXT3NUQl9LblJNag?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzdUZlR0a2ZwX1BEQmtrMm5mWS1fQzViMFlHbnJmbGlTSlVlVXJ0eUlUQ3BkaDFONzVvNzRGMVpPM1RjN19lV3AxMHcteFA0UDZzcFoxU3IzOXEzNHRaVWJFb1NIa0d6SUM1VXZhR0RudDNoVGpUaUlUS09IQjdyQXZKWE0yZkJfMmJfYW9NTE5nMGdYdk13dnBXT3NUQl9LblJNag?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "Parabilis, chasing ‘undruggable’ targets, nabs $305M amid VC funding blitz",
-      "summary": ", nabs $305M amid VC funding blitz BioPharma Dive",
+      "title": "摩根大通交易回顧：波士頓科學公司收購、Parabilis、Enodia 等公司的一輪大型融資",
+      "summary": "sition、Parabilis 的大型融資、Enodia 的出現及更多 MedCity 新聞",
+      "source": "MedCity News",
+      "date": "2026-01-19",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlRyRlB5Yl9yai1GeTJSUWFLTzVob29UREgxdVkyd214b0J4NWFFMjNGN1d0ZWNQU2M3Q2JmTV91bkJORHRFUVZJdnJ1RXBfckUtUmVFYWQwODJwR0p2aU5YTnVWZ3FaNFhGa2Z1amJJRTVHNXp6aEhtUDgtYzlSVUczRUxWd3NSRUtHeFlCbkxRX0w3RVRhQ0lNNGV2QXp3NnpBanM4R2xSdl9mTGlVd2d0Q3BQUmJGc291X1VjX2VkcUE?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Parabilis 追逐「不可成藥」的目標，在風投熱潮中獲得 3.05 億美元",
+      "summary": "，在創投閃電戰中獲得 3.05 億美元",
       "source": "BioPharma Dive",
       "date": "2026-01-08",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnZqX1kzUmdxUGxFcHAwbldvd2s0Y0RqRmpkcXlWUkZvdzlTNUZldmlnUmw3czl2ZmEwNTRaVnRfRnY5Qlo1NXhrcE93bWpTR2hnMHlXaTdjZExheWVOYmlGclNLNXJFSE1NNUE1S3I0a2NTdzBYOVlaVU1yWnNuZ2lZVHl1aW1LckFORG9DVzBxQmJQSmMxemNVZlB2dy1HQ1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnZqX1kzUmdxUGxFcHAwbldvd2s0Y0RqRmpkcXlWUkZvdzlTNUZldmlnUmw3czl2ZmEwNTRaVnRfRnY5Qlo1NXhrcE93bWpTR2hnMHlXaTdjZExheWVOYmlGclNLNXJFSE1NNUE1S3I0a2NTdzBYOVlaVU1yWnNuZ2lZVHl1aW1LckFORG9DVzBxQmJQSmMxemNVZlB2dy1HQ1E?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "STRM.BIO Raises $8 Million in Series Seed 2 Financing to Advance Non-Viral Gene Delivery Platform for In Vivo Cell Engineering and Gene Therapy",
-      "summary": "d 2 Financing to Advance Non-Viral Gene Delivery Platform for In Vivo Cell Engineering and Gene Therapy BioSpace",
+      "title": "Vyriad 獲得最後 2,500 萬美元 B 輪融資，將 體內實驗 CAR-T細胞療法 候選藥物推進臨床",
+      "summary": "他將體內 CAR-T細胞療法 候選藥物推進臨床應用",
       "source": "BioSpace",
-      "date": "2026-01-08",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSVQzcDJRVXo2X01WSHlFVHJVZ2hMUTNQSXdSd1BvcE9fZVdqdEZiRkY5MWRaU09CZmtKUXdXZEpRWmxETmhwYzhKSmUwUmowbmhuYy1fbVdLdjQwVGxSdU5xOTlYeW1HOTNnS1Z1MEs1ZTNwS1prWHFBY2RFUk8wZWFMTmRKcjl3Yk9IWElaeE9wWHdMbkhHSkZWbGVBak1EaXVCRi1HY0t3aTdKOE9EUG9Hc2hZVGcyMkwxWEJRNG1OZGtEalNRWjdxV1o4U3lDQUFOWDFBbGpkakJxaHA0eko1U0kzLWIyVm9SeFJybVFBbUw2ZUdpbmEyRE9Kd3FOMjhGZkkzbFJZMU1odVM4?oc=5"
-    },
-    {
-      "title": "Top startups in Cell Therapy in Europe (Jan, 2026)",
-      "summary": "",
-      "source": "Tracxn",
-      "date": "2026-01-08",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRU5seUpqUmxGbWZIazAydVF0cm1iSFRXSlZnVFB6U0VzTDVpYkxHaExHVzJXUVJvX1NwZTNLWEU5NlBwRHNVejVZZEMwdkxQV2Q3VEpQRzI3YjE1Mk94NVV6dVBGcGVMcnA1XzRaRzBsYXR5Rkc5RENUT204SGxPajZ4bW9hU3JITGZ4WTNmWXdyeHJWZVhlVndXbzc0d1RMLWUtRzh6UkI3aWVFTVl5ZVoxYWpoNEk?oc=5"
+      "date": "2025-12-24",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ1lvM1RFWFg4eTk0WkVYNlN6bEljS3M1RDVuSXNUUVg4SEFBaktiVS1XOGpvYWZza04wT2h5S1RXSlItTHUzVl9EQncyYS1QYmhXYUVFWDdLREp5S2otRDBOWTRZWVJ1SFl2YjFnNldyVWJkcjBfa2JLbHFSQUxHSnNFLU1vQlNPTHI4MTRCcUFPYXlEREdSUEpFWlZDdmpYNk5mejBFUVU4cktQZHBfdTAwQ3l2d3lLck10Rnd1VFdnbDdoRnNz?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "Fierce Biotech Fundraising Tracker '25: Atavistik adds $120M; Syneron Bio secures new funds",
-      "summary": "Atavistik adds $120M; Syneron Bio secures new funds Fierce Biotech",
+      "summary": "Atavistik 增資 1.2 億美元； Syneron Bio獲得新資金 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2025-12-19",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQkxmbk12TjRSRXhEVnFZTGotcy1sUlZsYXdPSTNBeV9BTk40QnJraDBzeHppNGpuR0JLVmk3TV82a0drdXhTdUpGOTgzMk5DbVdlclZYMTQzSzlfelE1eTdwYXpGVXBNMzV6eW05ZjBPLTFTMHF5TUNscEVlTkhqWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQkxmbk12TjRSRXhEVnFZTGotcy1sUlZsYXdPSTNBeV9BTk40QnJraDBzeHppNGpuR0JLVmk3TV82a0drdXhTdUpGOTgzMk5DbVdlclZYMTQzSzlfelE1eTdwYXpGVXBNMzV6eW05ZjBPLTFTMHF5TUNscEVlTkhqWQ?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "Aspen raises $115M for a Parkinson’s stem cell treatment",
-      "summary": "m cell treatment BioPharma Dive",
-      "source": "BioPharma Dive",
-      "date": "2025-11-20",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVJjSHp5LUVGdFVwbHRwOThuVEd1alA5Q1hnU2JkX3owcjlYSkYwdFhvVXFjMTJTOVRMT3hDNnB1NWwzVHRpVXI3eW41cU56TnBDVG1fcWtCSFlNQ3JVREF3Zjk4TjFhWGdMQW9TcGx5a3RLaWl6MHRJbll6YnM2NVdpeE8tc1JacWVFWUxJSERzSjJHR21HdXJBbHEwX3ZK?oc=5"
-    },
-    {
-      "title": "Roundup: Capital Flows into Pharma with Funding Rounds and Loan Facilities",
+      "title": "綜述：資本透過融資輪次和貸款便利流入製藥業",
       "summary": "Funding Rounds and Loan Facilities Pharmaceutical Executive",
       "source": "Pharmaceutical Executive",
       "date": "2025-10-15",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1l6WDVhS09LRkFaSXhOUWZEaGUxdkFZVDdsRl9QLXlXOWZSRUtoRkpvTmtweV8wRklDYlRFSlNkNWlLNUVzRXJhdl9LX3lSS2FCcjJmNmFTNkhGekt1Tk40RmVWSlM0cURjTl94c3dpSzFVNXgxd0xsN1RnWE9qQkdNZ2kyVnhVSVhYOEdBOXNXUEJp?oc=5"
-    },
-    {
-      "title": "Biopharma megarounds: Kriya and Odyssey raise over half a billion in venture financings",
-      "summary": "raise over half a billion in venture financings FirstWord Pharma",
-      "source": "FirstWord Pharma",
-      "date": "2025-09-10",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53MEJRRVg1QXQwU2RNOXJYT1E4ZEZ5cUpmcjhJUHNlZXFvblRsb0pRdlZmV0g3QlNuaDRYTXFiWEg2ZE5BWFpMRC1XWnVVWlA2Q2hj?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1l6WDVhS09LRkFaSXhOUWZEaGUxdkFZVDdsRl9QLXlXOWZSRUtoRkpvTmtweV8wRklDYlRFSlNkNWlLNUVzRXJhdl9LX3lSS2FCcjJmNmFTNkhGekt1Tk40RmVWSlM0cURjTl94c3dpSzFVNXgxd0xsN1RnWE9qQkdNZ2kyVnhVSVhYOEdBOXNXUEJp?oc=5",
+      "lang": "zh-TW"
     }
   ]
 }

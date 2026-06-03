@@ -1,62 +1,70 @@
 {
   "module": "regulation",
-  "updated": "2026-06-03T03:45:39.325339+00:00",
+  "updated": "2026-06-03T04:25:01.952436+00:00",
   "items": [
     {
-      "title": "What’s New for Biologics",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-06-02",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics"
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
     },
     {
-      "title": "Cellular & Gene Therapy Guidances",
-      "summary": "This page contains a listing of cellular and gene therapy guidances.",
+      "title": "細胞和基因治療指南",
+      "summary": "此頁麵包含細胞和基因治療指南的清單。",
       "source": "FDA Biologics",
       "date": "2026-06-02",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances"
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
+      "lang": "zh-TW"
     },
     {
-      "title": "Leveraging Prior Knowledge in the Development of Human Gene Therapy Products Incorporating Genome Editing",
-      "summary": "This is the Draft Guidance for Industry, pment of Human Gene Therapy Products Incorporating Genome Editing",
+      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
+      "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
       "source": "FDA Biologics",
       "date": "2026-06-02",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing"
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
+      "lang": "zh-TW"
     },
     {
-      "title": "Fulcrum Halts Development of SCD Candidate Pociredir, Sets Strategic Review",
-      "summary": "The FDA's concerns, which the agency raised with Fulcrum executives at a recent end-of-phase meeting, stemmed from an unexpectedly high rate of secondary blood cancers seen with another PRC2 inhibitor—Ipsen’s Tazverik® (tazemetostat), indicated to tr",
+      "title": "Fulcrum 停止 SCD 候選藥物 Pociredir 的開發，並進行策略審查",
+      "summary": "美國食藥局（FDA） 的擔憂是該機構在最近的階段末會議上向 Fulcrum 高層提出的，源自於另一種 PRC2 抑制劑 Ipsen 的 Tazverik®（tazemetostat）出現意外高的繼發性血癌發生率。",
       "source": "GEN News",
       "date": "2026-06-02",
-      "url": "https://www.genengnews.com/topics/translational-medicine/fulcrum-halts-development-of-scd-candidate-pociredir-sets-strategic-review/"
+      "url": "https://www.genengnews.com/topics/translational-medicine/fulcrum-halts-development-of-scd-candidate-pociredir-sets-strategic-review/",
+      "lang": "zh-TW"
     },
     {
       "title": "IDELVION",
-      "summary": "Product approval information is indicated for children and adults with hemophilia B (congenital Factor IX deficiency) for 1) On-demand control and prevention of bleeding episodes; 2) Perioperative management of bleeding; 3) Routine prophylaxis to pre",
+      "summary": "產品核准資訊適用於患有 B 型血友病（先天性因子 IX 缺乏症）的兒童和成人： 1) 按需控制和預防出血事件；2） 圍手術期出血處理；3) 常規預防",
       "source": "FDA Biologics",
       "date": "2026-06-01",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/idelvion"
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/idelvion",
+      "lang": "zh-TW"
     },
     {
-      "title": "BeneFIX",
-      "summary": "Product approval information is indicated for routine prophylaxis to prevent or reduce the frequency of bleeding episodes in patients with hemophilia B (congenital factor IX deficiency or Christmas disease)",
+      "title": "貝尼菲克斯",
+      "summary": "產品核准資訊適用於常規預防，以預防或減少 B 型血友病（先天性因子 IX 缺乏症或聖誕病）患者出血事件的頻率",
       "source": "FDA Biologics",
       "date": "2026-06-01",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/benefix"
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/benefix",
+      "lang": "zh-TW"
     },
     {
-      "title": "DG Gel Card 125445, 125449, 125450",
-      "summary": "Product approval information is for:\n•DG Gel 8 AB (x4) card is for the determination of human A and B antigen on the surface of red blood cells in four separate blood samples. For use with the DG Gel System. For in vitro diagnostic use.\n•DG Gel 8 A/B",
+      "title": "DG 凝膠卡 125445、125449、125450",
+      "summary": "產品核准資訊適用於：\n•DG Gel 8 AB (x4) 卡片用於測定四個獨立血液樣本中紅血球表面的人類 A 和 B 抗原。與 DG 凝膠系統搭配使用。用於體外診斷用途。\n•DG 凝膠 8 A/B",
       "source": "125457",
       "date": "2026-05-29",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/dg-gel-card-125445-125449-125450-125457"
+      "url": "http://www.fda.gov/vaccines-blood-biologics/dg-gel-card-125445-125449-125450-125457",
+      "lang": "zh-TW"
     },
     {
-      "title": "Coronavirus (COVID-19) | CBER-Regulated Biologics",
-      "summary": "This page and the associated links provide information on guidance and advice relevant to the development of therapies to treat or prevent COVID-19, and contact information for developers seeking additional information or assistance.",
+      "title": "冠狀病毒 (COVID-19) | CBER 監管的生物製品",
+      "summary": "本頁面和相關連結提供與治療或預防 COVID-19 療法開發相關的指導和建議信息，以及尋求其他資訊或幫助的開發人員的聯絡資訊。",
       "source": "FDA Biologics",
       "date": "2026-05-29",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics"
+      "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
+      "lang": "zh-TW"
     },
     {
       "title": "再生醫療雙法上路 天明製藥聚焦品質管理與產業布局",
@@ -66,18 +74,36 @@
       "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQVjcyOXRWalNRNWhLSWJJTEoydTlJSXR4bHFiRGViLXNwaVYwNWZHNlBjS1pRWWhvVkxoaU5Xb0psNGVaU1UtcG41ekFFTjM3TjlaaHdSU1ZJTjZrbnR1UnpXMFl5TVZXZlFhQ1liZUhBbDU1M3hERWdBUnJkbEdKSEtseXRLMk11UmtQR3UwMm8wV0lZcmFzQ2pBcEFRdkg2MmFXQnZvWXlZbjF6anFYcFlGY1ZZQzNJN1pMT21zNnc2YktiNFU5anl2QUdvYV80VlJWSWl5WHdJZldrNVJGN2p1d0F3Q1FyNkQzT2hMdFB1ajRVQS1BblJkcTFQTm1uaUtTbXVrQ2E1eXdIbGFiT3ZGcFlSRW1mQ2dvQmdUNDE5MGZESDhPTDlnc0pnNFVobGdYWDREWXpxUDhqcDgzVDQ0XzhBVDd3MEx0ZkxYbU1GV1R2LXpYWkx5WDUtQ1ExQnVvd0I0bDhIc3pwWFNv?oc=5"
     },
     {
-      "title": "The CHMP’s May 2026 Output Signals a Structural Shift in European Drug Development — Sponsors Should Take Notes Now",
-      "summary": "uctural Shift in European Drug Development — Sponsors Should Take Notes Now The Clinical Trial Vanguard",
+      "title": "CHMP 2026 年 5 月的成果標誌著歐洲藥物開發的結構性轉變——申辦者現在應該注意",
+      "summary": "歐洲藥物開發的結構轉變－申辦者現在應該注意了臨床試驗先鋒",
       "source": "The Clinical Trial Vanguard",
       "date": "2026-05-24",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQk9vMEFxYk12aDNMRWkzbC1pMHdkbmFIMWN6OVhERjJUbDVaYkk5enR5QWlELS01SWVkV2Fiak9NVTNCbkx0T2lSNkpQWm5EQ0IxeUtleVpnZUl1Uzdhd2FacklraWdaUUJvWk85YjhvOFA2Z1lQMTVDUDMyNGtLWEh2V3NBQUp1UWlScWs1TjFxZHhXWWYyVElJRDk0N29rRDR3VTVUS05qY05xQ2tEWGpGWEp4dHgxMDRCYzNOclpZWnNXdHo2QnQ3WUZOYUR1QWswRVE2Z1A0VzJrcTgyZFk0SXlLTkRNRGFib0JyM0w?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQk9vMEFxYk12aDNMRWkzbC1pMHdkbmFIMWN6OVhERjJUbDVaYkk5enR5QWlELS01SWVkV2Fiak9NVTNCbkx0T2lSNkpQWm5EQ0IxeUtleVpnZUl1Uzdhd2FacklraWdaUUJvWk85YjhvOFA2Z1lQMTVDUDMyNGtLWEh2V3NBQUp1UWlScWs1TjFxZHhXWWYyVElJRDk0N29rRDR3VTVUS05qY05xQ2tEWGpGWEp4dHgxMDRCYzNOclpZWnNXdHo2QnQ3WUZOYUR1QWswRVE2Z1A0VzJrcTgyZFk0SXlLTkRNRGFib0JyM0w?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "European Biotechs Developing Next-Generation Cell and Gene Therapy Manufacturing Technologies",
-      "summary": "tion Cell and Gene Therapy Manufacturing Technologies PharmTech.com",
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
       "source": "PharmTech.com",
       "date": "2026-05-22",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "日本監管機構：心臟細胞療法數據可能足以獲得批准",
+      "summary": "可能足以獲得批准股票泰坦",
+      "source": "Stock Titan",
+      "date": "2026-05-15",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHU2a2w0QjVxMHI1bVA0RmxHYTNJbmRPX0lEUXFXRVVHekZMenFXNFo5OHhESzBFelFGamoyRlY1V0hQMm8zUG5pY2loMXgyV24wdW1vTjAxZ1pKZkRIRndnWE9qT2txNHhySVJVZzFUdDFEa0xXQzZVMExXenZpWkhHaHVqb2pkRUVZajJmQ0t2OW5YNG56am1vMzc5bU4tZGdlTEZCSHhQQ1FrbGdMUDF3dEJIMG8?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "GC Cell 獲得日本細胞療法生產設施認證",
+      "summary": "細胞療法製造工廠 koreabiomed.com",
+      "source": "koreabiomed.com",
+      "date": "2026-05-06",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QbmlxMWlnUEtSODJZY0o0XzZGZmNReXlHQ21vbkNJRzJkRVJ2UnAwT0dGclNCQ3Z0QjdYVThQNzREMy1YVl9FT3JSLXprWHYxRnl5NTR4WHRJZ1NBOXo0emItQnEyS0JaNlM5M3dB0gFyQVVfeXFMTUdSVl8yUW5iNGkzX241OXBSLVdWV1U3TVdPRFEtT1JzcmtnbW5GcW41QjNhbkZWWDBOaTJHY3FkZjJRMWVwT0ZPb3lwWFNYNjBTZ2Z6UlRDckZtU085bW1CLUpOTHRlbkxoSTh6dXJoR2lR?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "專家蘇嘉瑞：讓政府推一把！剖析再生醫療製劑輔導專案如何影響生技產業",
@@ -94,53 +120,59 @@
       "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQdWNPSHNXalJHUjhmMGRUdWpHVk84czQtOG9sZzBPWjRiMk1Ndm8wNTNScDd4djBwZGEyNXNZTm5FdjAwTUt6dE5EVjZEblRvREZ6Z3dFZlMzc2pwNEJoWTNPNjR4VjBhMFR3dHpRZ1VORnVWTlJRMURZV3ExcHJCMjdId2FTdlhMZUZDbExaQW5Pd2hQdEFrbEQ0TTBqWk96RzFyUjUwc0I1WVRMS1JFbk5TWnAwTjJLTzE2dzdFXzBZbVRlbnlxLU9jUV9NMTVCZndQOTZEYVhOYW5lcmhJV0N6WkVZM3poRW01c2ZIb21vajVoRXhadlg2ZEdqQjlEY0xNbTVKa1hoenBlYmpGYmgxTXJQMmlJR0lVQkFRUDJ5LWxXVU1TTEJxR09ja0xBZ3lKVFdDTkJ3VlJWbk1fQXYwUGFSNzJMeHFvMnlXSUZqV0JUWDdxUUthR0Zua0NiSG1xdTl1WVpXNHJvbnJYQkQxVEIwQXh5QU5sTV84eS11b0s0dzhRNW9HZW9Kb2dpV2FMWmdiQVBSQkVzWDRtWmlncjNoT0pfT2pEV09JeHUyeDR5RjNvYklrM1BJOXpIMXJSNlpVcw?oc=5"
     },
     {
-      "title": "FDA first to global follow-on: alignment in expedited oncology approvals across EMA, TGA, and PMDA",
-      "summary": "in expedited oncology approvals across EMA, TGA, and PMDA Frontiers",
+      "title": "美國食藥局（FDA） 率先向全球跟進：在 歐洲藥品管理局（EMA）、TGA 和 日本藥品局（PMDA） 之間加快腫瘤學審批的一致性",
+      "summary": "在 歐洲藥品管理局（EMA）、TGA 和 日本藥品局（PMDA） Frontiers 加速腫瘤學審批",
       "source": "Frontiers",
       "date": "2026-04-20",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTEZJSWZZSFRsaVhMZFpjRXZjNFRGWHVtTTFqU3lESXpxbU1ramRCTDdRSkhPMzdnZDllRlNqZ3RPUzAxNFJ0aWtCbE81WWhKWW81YnJOekNDTFhIbDBueklrSzNkN3puR0FXdjctbHZmQ0hKNmsxQTQyekZacmMxUWI2Vi1FQnpoNzU5LUw4U0JKUzVn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTEZJSWZZSFRsaVhMZFpjRXZjNFRGWHVtTTFqU3lESXpxbU1ramRCTDdRSkhPMzdnZDllRlNqZ3RPUzAxNFJ0aWtCbE81WWhKWW81YnJOekNDTFhIbDBueklrSzNkN3puR0FXdjctbHZmQ0hKNmsxQTQyekZacmMxUWI2Vi1FQnpoNzU5LUw4U0JKUzVn?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "Roche plots route to EMA approval for DMD gene therapy",
-      "summary": "D gene therapy BioWorld News",
+      "title": "羅氏 (Roche) 計劃獲得 歐洲藥品管理局（EMA） 批准 DMD 基因治療",
+      "summary": "D 基因治療 BioWorld 新聞",
       "source": "BioWorld News",
       "date": "2026-04-17",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQTlNU01IUGRfU3VSeHdMYV9vQ05LdHRGaWpBUzlWLVVRT1kwb0g2T2dMQ1NjZnl5UERvMjhJX0gzVTRDNVcwYWpqUEVacWhmRkxkRXV4OXY0MkFHMlctZXAteHNyc3dIb0dEdkRYQ3liWnZ2NHBBSUVEN3pvV2c2UWtxVlRNdXc5T0pobWhLRlVrMUlxcHFEQldJVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQTlNU01IUGRfU3VSeHdMYV9vQ05LdHRGaWpBUzlWLVVRT1kwb0g2T2dMQ1NjZnl5UERvMjhJX0gzVTRDNVcwYWpqUEVacWhmRkxkRXV4OXY0MkFHMlctZXAteHNyc3dIb0dEdkRYQ3liWnZ2NHBBSUVEN3pvV2c2UWtxVlRNdXc5T0pobWhLRlVrMUlxcHFEQldJVQ?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "What's Driving the Stem Cell Therapy Market to USD 59.70 Bn? AI, iPSC & Chronic Disease Demand",
-      "summary": "ket to USD 59.70 Bn? AI, iPSC & Chronic Disease Demand BioSpace",
+      "title": "是什麼推動幹細胞治療市場達到 597 億美元？人工智慧、誘導型多能幹細胞（iPSC） 和慢性病需求",
+      "summary": "到 597 億美元？人工智慧、誘導型多能幹細胞（iPSC） 和慢性病需求",
       "source": "BioSpace",
       "date": "2026-04-16",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQl95Y01VaEI4Qkl4TGgzVHE1YlJYNklsN01hVzdpUko2WjdMUXU0bHlqYnV1aG5CdDhBajI4NTJUdjJkRFUtZGVXUThhempITHhyWHM3c0pVaXFDa1pPekVIRkF3YndVZ0NWby1vYW94cW5aeUZwemw5U09FeWJmTVpmMklNTHI1OG5kdy1zQU11c2RoRHV4aWpMcURhN0tfeE5ob1ZTQWY1NXJYN1dpSzh3dnFxMkxfQVhweklGWW1pMS1NV1pPMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQl95Y01VaEI4Qkl4TGgzVHE1YlJYNklsN01hVzdpUko2WjdMUXU0bHlqYnV1aG5CdDhBajI4NTJUdjJkRFUtZGVXUThhempITHhyWHM3c0pVaXFDa1pPekVIRkF3YndVZ0NWby1vYW94cW5aeUZwemw5U09FeWJmTVpmMklNTHI1OG5kdy1zQU11c2RoRHV4aWpMcURhN0tfeE5ob1ZTQWY1NXJYN1dpSzh3dnFxMkxfQVhweklGWW1pMS1NV1pPMA?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2026",
-      "summary": "r Medicinal Products for Human Use (CHMP) 23-26 March 2026 European Medicines Agency (EMA)",
+      "title": "Aurion Biotech 開始針對 CED 的同種異體細胞療法 3 期試驗進行給藥",
+      "summary": "CED 同種異體細胞療法試驗 Eyes On Eyecare",
+      "source": "Eyes On Eyecare",
+      "date": "2026-04-13",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQlBMeWtHYnZMUWd6ZU95a2RYdm5HYTFhMTlXLW1Tc3hpSnRITldZSDFmcUI5VnpQNEl3SnUyWjNsM1hWeWZkbFNkY29tbDlxQzZ4ZXp5VUwzRTU2UE1YTHQxZXpQQkp4Y1lhWWxESHZLWEszZ0FtUk1YcnFMaVBjWVl6dTdsYnJpdEI5aWV5aENEbDRSMW5ab2pFYVgzOTdmY1E1VUtQM3FSVFB6N0gySC1iUXd1QXgwRjdDaTdYYzRGbFBZeDhRbW52YVlrQQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "再生醫療產品審查加速，台廠「掛號」申請輔導，食藥署長姜至剛：台灣要走在世界前面",
+      "summary": "",
+      "source": "TechNews 科技新報",
+      "date": "2026-04-05",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRW5BbW9sZHhNa2NQd1l1UGNhT1FfU2NYbmhtMFNIMHVxU0ZYWnRSZ2Exb2lOYk51bUpFYzlMSEtEdGp5TGpfbVNUWE9LdjZVdDhQUzU4MGZnRXNsMjJIb3BFd0ZrbFhSb3haR09vQXdyclk5ZTVJbnZDTlZuWmZEQmRXVEVHU1pCdlVDajdhU1c4QUgwbmMybXo0TXAwdW9Ob3JaaUlHS1VpZlNZVzdRNVVnYVpnbnFCanc1bEhEM0VrVGN4WXlNWTZHdUR3MldETVhIMF9tZnVlazhK?oc=5"
+    },
+    {
+      "title": "人用醫藥產品委員會 (CHMP) 2026 年 3 月 23 日至 26 日的會議要點",
+      "summary": "r 人用藥品 (CHMP) 2026 年 3 月 23-26 日 歐洲藥品管理局 (歐洲藥品管理局（EMA）)",
       "source": "European Medicines Agency (EMA)",
       "date": "2026-03-27",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaF9YZzNrbUZaT21uazUwVHFmOWdSNFg1YnlUMVpkejhwRnpkaGtMdzIxb1pTbWN2SENxR3daOUZBc2ItaVZyZFJuR0dqeWxVOHVvRjhXRW9KS1R6WmlLUEdqZHVSaURwY2E0VEswbENSQWNhUmFKOW1jMEdYd2F2V1pZMUJKRHBVSlJuc2FJaDR3dGEwcWVKYmk0SWlna054Ry1BS3BrNzk2U2owOEhPM3FtSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaF9YZzNrbUZaT21uazUwVHFmOWdSNFg1YnlUMVpkejhwRnpkaGtMdzIxb1pTbWN2SENxR3daOUZBc2ItaVZyZFJuR0dqeWxVOHVvRjhXRW9KS1R6WmlLUEdqZHVSaURwY2E0VEswbENSQWNhUmFKOW1jMEdYd2F2V1pZMUJKRHBVSlJuc2FJaDR3dGEwcWVKYmk0SWlna054Ry1BS3BrNzk2U2owOEhPM3FtSQ?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "食藥署長姜至剛：台灣要走在世界前面 再生醫療產品審查加速，台廠「掛號」申請輔導",
-      "summary": "",
-      "source": "財訊",
-      "date": "2026-03-25",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HcnVieWo5VHFYeXBPczNRRkpEVWdvNzloZnFOcEhxTDg4ay1xLVpOX2sxUXhuNHhLWEdmdlk0NmJYT2NLQ0RfWE1jQkxHcXlXYU4weExXNThKdnhTTFJUZUV4UkZpZDVZN0U4MHRaOGxSaWdQRldBalpCTQ?oc=5"
-    },
-    {
-      "title": "The Pipeline for iPSC-Derived Cell Therapeutics in 2026",
-      "summary": "peutics in 2026 BioInformant",
+      "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
+      "summary": "2026 年生物資訊學",
       "source": "BioInformant",
       "date": "2026-03-05",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5"
-    },
-    {
-      "title": "Insmed Reports Fourth-Quarter and Full-Year 2025 Financial Results and Provides Business Update",
-      "summary": "ear 2025 Financial Results and Provides Business Update Insmed Incorporated Investor Relations",
-      "source": "Insmed Incorporated Investor Relations",
-      "date": "2026-02-19",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2stTG12LURxR19jX2dXY1NFQlduaTVxQUxzb2pGa2lrNDhHX1hFaG1ZT3NKWUIyZVlHZVhIZFpScEFHSUNFNU0ydm84b09TYUJpeXl1TEhtU2pna09SYmZ6U050LVNKVUU4T19MRGVUQlBHTVlNYlJIWlBEX1dIbDR4WUxDWVhZblZRU1VzNVJBZEh2UGhlRVRSTERCTmp6ZjlFQ1VaSmRfeEVfYzFCMFNrZHdtam8wRnhSZWE0UGpKa2tSbmlwdHd4dkZIM0U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "再生醫療雙法上路！醫事司：4案外泌體醫美廣告涉違法調查中",
@@ -150,25 +182,20 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIZmtnaDhManhNZGJxV0ZHbjU4SFVIclZyQW45ZFZDQ0g1UmRCU0QwSXJ2WGFOakNmR0N6R3VqSjRNRzl6Vm8xS1BfakFxR2t2TWtvMEpWTm5ZUkJxNmJOQTFsYWnSAWpBVV95cUxPMWwtUFhiS0N4M3IyUzNKY3lrOGZCVEtWWWZDNEdFSGd6ZGdITUhTcEE3ZHB1b21aNjNxVHlGUXZ4OUlxLWlIdmN5UUxoMTJ5R25kMHNkVV9hdnAxbnJ6SmpRR3U5clBwX2hn?oc=5"
     },
     {
-      "title": "法律頻道／再生醫療雙法 終結外泌體之亂",
-      "summary": "",
-      "source": "經濟日報",
-      "date": "2026-01-20",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ScWJUMjFpa1FGVzZNTFF1N0JPaTNFMHBMbEVnemdZNHBCZlRDM1hSbGxmSFdPdkxqbWQyaVBsTDU3WVE4VG5aZFVoRmZBdnRNeUdXQ0x5cUxyeXVH0gFiQVVfeXFMUE1TV21BWFRqdFJmZE9FMkg0bDBoX19OYXBhVlBBSjk0OVdjTEZKYk1DUzA0UW51V2trMW40LUlMQ1ozazJTU1RhbmFKWjhWS0ZBYTQ3R0xfZEdVWHZBb1BaMmc?oc=5"
-    },
-    {
-      "title": "Fondazione Telethon receives european marketing authorisation for Waskyra™ (etuvetidigene autotemcel), a gene therapy for the treatment of Wiskott-Aldrich syndrome",
-      "summary": "rketing authorisation for Waskyra™ (etuvetidigene autotemcel), a gene therapy for the treatment of Wiskott-Aldrich syndrome Ricerca Malattie Genetiche Rare",
+      "title": "Fondazione Telethon 獲得 Waskyra™ (etuvetidigene autotemcel) 的歐洲行銷授權，這是一種治療 Wiskott-Aldrich 綜合徵的基因療法",
+      "summary": "Waskyra™ (etuvetidigene autotemcel) 獲得上市授權，這是一種治療 Wiskott-Aldrich 症候群的基因療法 Ricerca Malattie Genetiche Rare",
       "source": "Ricerca Malattie Genetiche Rare",
       "date": "2026-01-16",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNdlo3VUEyelRtYzJWX1FBR19zTnB6VGFKejdIT0p0eENVX3RfWnhRcHZLRThlRndyQTNjaTJCZUxwaDZJd0VtSnZ6M2xCaURTbWxGWHVxd2VKbTJKMkcxVG40RFhQSkVJanZIVzNqZUw4QnZBRUhRY3NGX05BaGhLS253MHV4eXBmOFFKTTlLMElyVmVfQWlseklDcFpKVXMzV3pSR252YXJrWnI3cUlTZl80c3VKb2xDVnQ1aEZUM2diQ2JGTEZ1dDUtNWw0XzBhcnI5QklzTGV1bk1oMExHV3NCYThGYVZveEZRZHZXdWpNaW8zZ2lqV1dPbmEwRWUyV2ZVcEtJaTdBdGVPdElUX1dCUktycmxIOU5WLWlmR3Y1amdtNml3X3h3ckNvcExpT1BRUzdxazRuSnhaTVluNmdzOENDUU41T25TRjR4dFpwVHB1a1pWZUNmamExVm8xc0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNdlo3VUEyelRtYzJWX1FBR19zTnB6VGFKejdIT0p0eENVX3RfWnhRcHZLRThlRndyQTNjaTJCZUxwaDZJd0VtSnZ6M2xCaURTbWxGWHVxd2VKbTJKMkcxVG40RFhQSkVJanZIVzNqZUw4QnZBRUhRY3NGX05BaGhLS253MHV4eXBmOFFKTTlLMElyVmVfQWlseklDcFpKVXMzV3pSR252YXJrWnI3cUlTZl80c3VKb2xDVnQ1aEZUM2diQ2JGTEZ1dDUtNWw0XzBhcnI5QklzTGV1bk1oMExHV3NCYThGYVZveEZRZHZXdWpNaW8zZ2lqV1dPbmEwRWUyV2ZVcEtJaTdBdGVPdElUX1dCUktycmxIOU5WLWlmR3Y1amdtNml3X3h3ckNvcExpT1BRUzdxazRuSnhaTVluNmdzOENDUU41T25TRjR4dFpwVHB1a1pWZUNmamExVm8xc0E?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "Leveraging Japan’s Appetite for U.S. Investment and Partnership in Pharmaceuticals and Biotechnology - CSIS | Center for Strategic and International Studies",
-      "summary": "estment and Partnership in Pharmaceuticals and Biotechnology CSIS | Center for Strategic and International Studies",
+      "title": "利用日本對美國在製藥和生物技術領域的投資和合作的興趣 - CSIS |戰略與國際研究中心",
+      "summary": "製藥和生物技術 CSIS 的評估和合作 |戰略與國際研究中心",
       "source": "Google News",
       "date": "2026-01-13",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemJDNnlUMlBfbDlaaDlYVE1tak93UWtLRnRsaVNNeGxFd2ZiSnQwMUxTb3VPajg3RkNwQV84aGdxcUlBSHF6eWNiQk5EZXA0bnZCYTZRSEJQczMtb2wtVlRtZDVYdmlkNUJJNk1GckJhRkxMWWtnYmZmcWg1eC1HMklOeTE1blhzMjFTQmZmUWZvWUZ2QTdwMU9NT0hvTHJPd1ZRMmFzU3dpTHdZR2l4RnFLMEpGTFRfLVJrLQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemJDNnlUMlBfbDlaaDlYVE1tak93UWtLRnRsaVNNeGxFd2ZiSnQwMUxTb3VPajg3RkNwQV84aGdxcUlBSHF6eWNiQk5EZXA0bnZCYTZRSEJQczMtb2wtVlRtZDVYdmlkNUJJNk1GckJhRkxMWWtnYmZmcWg1eC1HMklOeTE1blhzMjFTQmZmUWZvWUZ2QTdwMU9NT0hvTHJPd1ZRMmFzU3dpTHdZR2l4RnFLMEpGTFRfLVJrLQ?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "【北美智權報395期】再生醫療雙法2026正式上路，外泌體產業高速成長是商機還是亂象？ | 2026 年 1 月 1 日",
@@ -199,18 +226,11 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByTUtzR0huODA5ZUpEV0R5N2YxQmFQbFNxR2RGRUxjR2wydUt6NzlkWTRUdHctcjRWVlFZMlhTaFlFWGNCRHlsd0ZPVUExX2VJRzdwT1ZKUDVWTENRV1lKdDdVeVZkVFJ5?oc=5"
     },
     {
-      "title": "BioCardia Reveals Plans to Request Meeting With FDA Regarding CardiAMP Heart Failure Cell Therapy",
-      "summary": "ng With FDA Regarding CardiAMP Heart Failure Cell Therapy CGTLive®",
-      "source": "CGTLive®",
-      "date": "2025-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXREWmhwZTdIMEQ0S1RFOHZVeTllNU9kSXNOZjNJTm1VUjhqMmlvQXRaNzUtQTVtczZPbW9IWXpGNVRuTkVhZ08xalB0Z1lXR1hqcXJLS3NtT09hckl3eS1Zc090VjFXVlR5c3BrV2ZQWWVtMGhrR3F2amw2Qm9UNHM2YVpPbXhLakZsRUE4NW81UFdyNGFZT2RmUmYzVkVnTHQ5NjUtcGM1bElqVmNvVnZIMnBqMDlCdWc?oc=5"
-    },
-    {
-      "title": "再生醫療雙法明年1/1上路　衛福部示警「外泌體治療」國內未核准",
+      "title": "再生醫療雙法明年上路 衛福部籲民眾別信外泌體療效",
       "summary": "",
-      "source": "ETtoday健康雲",
+      "source": "UDN",
       "date": "2025-08-02",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TZG1URHZwVDBlaVJaYVM1bXR4WUVzUkFBSGNYVzRTcXdKb1F2cmFHbHRoWm1Ha2duVXpSc1dSRVQwajBkdVluN2Z5YThBRGZR0gFsQVVfeXFMTy1mYXg1TF9WcHlQdEtwdUVTb1JFSmpoOHNjRlh2OUNtVkp4Q3o4cEtubXkxWXIyRno5Z0U4YWRtZXBmQ1pISU5OR3JlbFBBWWlvLUVBVVRvMnRoYjhsb1RLNmptQ1dnc3RZelNt?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0ySHBKQXA2aG5xZGR6OTg0WVkyTm9ndGFnN0oydlVmcWpkWnU4bjB5aWtrMEp5ekxDVHMycHZDRFBUY3MzbDZCYk5KOXpUV01G0gFWQVVfeXFMTThrdklWZ3J5MHpPcHZkWkd6Qm5DaW84eFhfNzg0LWNGbGd5X3lGdDVpb2JFWUpNcHJUTlM2TXZ4d0FmQWtwcElBUkQtUWM4MGpXb1MwQlE?oc=5"
     }
   ]
 }

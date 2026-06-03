@@ -1,20 +1,14 @@
 {
   "module": "apac",
-  "updated": "2026-06-03T03:45:37.061159+00:00",
+  "updated": "2026-06-03T04:23:57.220160+00:00",
   "items": [
     {
-      "title": "Akeso, Summit drug extends survival in closely watched lung cancer trial",
-      "summary": "Though ivonescimab reduced the risk of death by one-third compared to chemotherapy in a China-based study, the total survival benefit of four months stirred debate and pressured company shares.",
+      "title": "康方生物和 Summit 藥物在密切關注的肺癌試驗中延長了患者的生存期",
+      "summary": "儘管在中國的一項研究中，與化療相比，ivonescimab 將死亡風險降低了三分之一，但四個月的總生存獲益引發了爭論，並對公司股價造成壓力。",
       "source": "BioPharma Dive",
       "date": "2026-05-31",
-      "url": "https://www.biopharmadive.com/news/akeso-summit-ivonescimab-asco-2026-harmoni6/821559/"
-    },
-    {
-      "title": "CGBIO Signs Global Clinical and Exclusive Commercialization Agreement for NOVOSIS in the U.S., Canada and Australia",
-      "summary": "e Commercialization Agreement for NOVOSIS in the U.S., Canada and Australia Taiwan News",
-      "source": "Taiwan News",
-      "date": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BcGdBam1rc3R6dWo3dWhDcE53b2E4eGluZ1JydXRsQ2JzOFBKcm9CRWs0NjJocElYUEVYZFh2Q1NUMWpJa3BlQUxOaFNtNW5NYy0yZmhYZTE?oc=5"
+      "url": "https://www.biopharmadive.com/news/akeso-summit-ivonescimab-asco-2026-harmoni6/821559/",
+      "lang": "zh-TW"
     },
     {
       "title": "《新創動態》仲恩生醫攜手Terumo導入智慧細胞擴增製程 布局長期商業規模化量產",
@@ -24,32 +18,60 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmRXcWZqckRNY3cwUTN5TVJhVXR2WTJFZk1iODliUW1BQThLcDdXanRNdWludWk3emQwTGlETzZYdTZNRnE0YWJLckdBY3dHQXZkNXFRTHJkT1ppTkpQX3FGM0NsQlJGV2JLNnp5eXk0MS1NdDlzYTZYZkpfZXp4TFU1cUgxUTRmTWpPckxJRi1oaTg1WGl6Szk2RzZsNzBObElnM1BHWGdidjQzc2F3aQ?oc=5"
     },
     {
-      "title": "Cell and Gene Therapy Market Size, Share | Growth Report 2034",
-      "summary": "| Growth Report 2034 Fortune Business Insights",
+      "title": "細胞與基因治療市場規模、分享| 2034 年成長報告",
+      "summary": "| 2034 年成長報告《財星》商業洞察",
       "source": "Fortune Business Insights",
       "date": "2026-05-11",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjd6aFlfQzVpQjcwOF9xTUxnbENhcjAxOTh1UmlsbDhfeVFfaEVBbVNiWklOQ2JfTVZTZTRjSW5VMF94V0dUOFQxWlVsRUpieHhjc0M1aGJiR2JmU1E2ZXkydHpxNjlyVW81ZlRSbmNDTFJSSGVOM3FGYTVhUFNGTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjd6aFlfQzVpQjcwOF9xTUxnbENhcjAxOTh1UmlsbDhfeVFfaEVBbVNiWklOQ2JfTVZTZTRjSW5VMF94V0dUOFQxWlVsRUpieHhjc0M1aGJiR2JmU1E2ZXkydHpxNjlyVW81ZlRSbmNDTFJSSGVOM3FGYTVhUFNGTQ?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "Singapore and Japan deepen collaboration to enhance access to health products",
-      "summary": "to enhance access to health products BioSpectrum Asia",
+      "title": "新加坡和日本深化合作以提高保健產品的可近性",
+      "summary": "增加保健產品的取得 BioSpectrum Asia",
       "source": "BioSpectrum Asia",
       "date": "2026-04-23",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXZMVmhJZmZIZU9lLVRNQ1NIOVBpUUw0WFJONGFzV3N0ei03alJNN2h3eGw2aEVCcDVUZDllUno3TFdmZE55THFVZEliZUFkaFVYRUlFRnRSXzhVTmI3Qllidk56UG9RR1dLbFF2eG1jNVU0V3R4emJCQkh0Qkt3STN5YUlGM2tXeGNTZ3FnckJ5b2VSYUNJajNtczBySVJ6Mmh3bUhIc0JOMnFfdlE0Ul9UU3Y0dnhVZEZOQ1FlVm1tOTJ4Si04?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXZMVmhJZmZIZU9lLVRNQ1NIOVBpUUw0WFJONGFzV3N0ei03alJNN2h3eGw2aEVCcDVUZDllUno3TFdmZE55THFVZEliZUFkaFVYRUlFRnRSXzhVTmI3Qllidk56UG9RR1dLbFF2eG1jNVU0V3R4emJCQkh0Qkt3STN5YUlGM2tXeGNTZ3FnckJ5b2VSYUNJajNtczBySVJ6Mmh3bUhIc0JOMnFfdlE0Ul9UU3Y0dnhVZEZOQ1FlVm1tOTJ4Si04?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "Bridging Cell & Gene Therapy's Critical Skills Void",
-      "summary": "Skills Void BioSpectrum Asia",
+      "title": "CGT 首爾峰會：韓國的細胞和基因療法轉向製造、獲取和現實世界交付",
+      "summary": "基因治療轉向製造、取得和現實世界交付geneonline.com",
+      "source": "geneonline.com",
+      "date": "2026-04-10",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNGVNMzYySXF6cS12bEs4Ym5ySzZ2eEhwRjJabllYb3BSVVVrU2dBM0p0dFJUQXZpdmpkRGRRaGtZM0RuTFlBSGZLMjBnLTMyRmRpUTVxR3F2eXlfb2hYMVNQTjdwclNNakZvcDBDUEJlN3c5VHZMN19Ya2YxSEMybnhFVHRKOTVqdTNZUTB6STdvaHB5MmoxTmJPYzNyQVczNzBycE5MLW0waGhTMFJaekhhQ2hHR2diZE1jWHFjVmhiSFlOWm1SUV82U1BqUHBJRGd0bw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "橋接細胞和基因治療的關鍵技能無效",
+      "summary": "技能無效 BioSpectrum Asia",
       "source": "BioSpectrum Asia",
       "date": "2026-04-01",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWkRyWE5PWHNKcVV0SExaejN3SGhSTVFsTTdSbDhnalk0NTJMeXNBazFxcVRhMlZQRjZZV3dlSG9sTHkzcVpjMUVnU3p3VURIZ3l4WVM4QVNzckRfc04wMi1NMnpsdnhaY3E1WVJlQXZ4QTZHNTExYmVmLWRxUU5VTzE5REJIeGkxSTFQblBDc01MSHY5SElQUElBTUNKd09LUnFlbkZB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWkRyWE5PWHNKcVV0SExaejN3SGhSTVFsTTdSbDhnalk0NTJMeXNBazFxcVRhMlZQRjZZV3dlSG9sTHkzcVpjMUVnU3p3VURIZ3l4WVM4QVNzckRfc04wMi1NMnpsdnhaY3E1WVJlQXZ4QTZHNTExYmVmLWRxUU5VTzE5REJIeGkxSTFQblBDc01MSHY5SElQUElBTUNKd09LUnFlbkZB?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "Regenerative Medicine Market Size, Share, Growth, Analysis, 2034",
-      "summary": ", Growth, Analysis, 2034 Straits Research",
+      "title": "再生醫學市場規模、份額、成長、分析，2034 年",
+      "summary": ", 成長, 分析, 2034 海峽研究",
       "source": "Straits Research",
       "date": "2026-03-23",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZQzhDSUdqRjhEaFJNUWkxRWtCdl9rZ21BZXJoZjREUXZscUZ5ckhaWmFqX3BsdUdVOEhIcjYzaTI1Z1R5ZHE0VVVwdWpPNnRWMHUtUWNQeTNYWlAwSlAxV19INVRxdkhSZzF3UHBaaEQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZQzhDSUdqRjhEaFJNUWkxRWtCdl9rZ21BZXJoZjREUXZscUZ5ckhaWmFqX3BsdUdVOEhIcjYzaTI1Z1R5ZHE0VVVwdWpPNnRWMHUtUWNQeTNYWlAwSlAxV19INVRxdkhSZzF3UHBaaEQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "細胞和基因治療市場規模、份額、成長、分析，2034 年",
+      "summary": ", 成長, 分析, 2034 海峽研究",
+      "source": "Straits Research",
+      "date": "2026-03-23",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94eXZtQmNISDdVSjVoSUJ6ZG9BLTZXUTZ5X1NGSlV0WDRlSmFUbDc1bWhXa1B6Wkd4ZVFWUzU5THFaM1RqS0ZvV3FrVWFQRUo0UHZwS25xWU1hTUFvNWk1ZF9YVGpyS0RTZ0ZjeE1rakY?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "台灣強化在亞洲下一階段生物加工成長中的地位",
+      "summary": "生物製程成長的下一階段 BioPharma APAC",
+      "source": "BioPharma APAC",
+      "date": "2026-03-20",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTJXcWlCMHdEMVgtOHNtMG1PU1VUdWxTVEw5c0VLWE5rODJsVFlCNkl4VC04c1VIZkIySERmYzRJQ0ZDYmtEcndEZzM0NGh5MkZvVjI2R052blU4cGJNMm5hUEM1SG80S3pYRUJtWmJOMFpNTmJaeGtXSTA0YkFhVTJCbVcxZVRXellxcnp2aE1lelBjbnBfM2tCSjdVLXM1V2RVOGlFTGhMbW5nR1ZPeHN0RU95NC0yTl96TjRLaEc?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "樂迦結盟美國CRO龍頭！簽MOU搶攻亞太細胞製造 再生醫療布局再升級",
@@ -59,13 +81,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxUTZudXdmXzVxUUZpVVRqTnh2M3dmajRad29UdmhUMG1ldk5GVDBJNXlKYkhEcVZTSHZscDdvbUwyRTZaZjJRYkdjWQ?oc=5"
     },
     {
-      "title": "Cell therapy weekly: initiative to expand APAC cell and gene therapy development",
-      "summary": "d APAC cell and gene therapy development RegMedNet",
-      "source": "RegMedNet",
-      "date": "2026-03-12",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM004QzdhUDg1VU01Uno2Q3I5bUpwNGU5MkotWWJESzFXU2o3VmxDTjhsMVdRT3NTTHU2M09QZW1iLTh1eTZaS1A4RjluMHZORTlCUGdRc0FvQkljUVBKTjE4d2M3T05ISHliQXd6TFVRRUMyQ09OLVRneDh3V09QVFJ2WmtFQ3NBeXRHTTJnMFdqdHBhRndEYndTVDFRYURDUnR2TFhqZlFYdw?oc=5"
-    },
-    {
       "title": "永笙與美國保險經紀服務商簽訂MOU 公庫保險服務進軍美國",
       "summary": "",
       "source": "news.cnyes.com",
@@ -73,25 +88,12 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yQzQwVlZVdTdybzB1SUhPS0dzT01JU3d2dVIteVUxYzlRbEQ5WE9CeG5uX3F1b2tDSmpQNW8tTHBWR0YxNnRLYkxJNC1QWms?oc=5"
     },
     {
-      "title": "Asia Pacific Sports Medicine Market Size & Share, 2034",
-      "summary": "& Share, 2034 Market Data Forecast",
+      "title": "亞太地區運動醫學市場規模及份額，2034 年",
+      "summary": "& 分享，2034年市場數據預測",
       "source": "Market Data Forecast",
       "date": "2026-02-02",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWRPVTNveTZvaUNWeVEtUF9icHcxV3FSRDBRYUM5TWJPblJFcWQ1ajRGc1NPZVEwOXZocHVENXBfVzJuSEZtbmE2dFVrZ2lVTjVQM3pxZWk3RktxQXYyMWpTRk1PUkEtLWw5bGs1TTYydjhBOXNwVkVTTFNwMU9lR19Ta1R5dklLaURXOEtR?oc=5"
-    },
-    {
-      "title": "Stem Cell Manufacturing Market to Reach USD 41.67 Billion by 2034, Growing at an 11.35% CAGR",
-      "summary": "USD 41.67 Billion by 2034, Growing at an 11.35% CAGR GlobeNewswire",
-      "source": "GlobeNewswire",
-      "date": "2026-01-29",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSHp6SXlRRnZSd2dtXzhVWjRrSGMzdW16R24wdFNlbHRTelJObUVhYnYwT1d4MFd3Tmg1OTdIYTZqaXpZUnhhNjRaM1VSTFJxRXhIWTEzMF9ZdVdPOHlzd1FaRVVHYUtpZDJVanBpUEhfd0IyNUI2VkdGcEJrSUV0VzZ0LUZlOGlsQ0JuQXdHUUpVYmZjc1FIakFZX09GLVM4TXhZUGdSVkowYjZLLVVzM3BRaWc0ZGJvbXpYUlduQXBCQUJEM09FN2NCR0E3SHk4NS1ySXhLYTRIVHo5QjI4dUxzaWpGaEdDbk1IODFwbDdzNW1L?oc=5"
-    },
-    {
-      "title": "Exosome Therapy Market Size to Hit USD 307.04 Billion by 2035",
-      "summary": "07.04 Billion by 2035 Precedence Research",
-      "source": "Precedence Research",
-      "date": "2026-01-16",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LOTIxamdCdktVX0dRay14aF9xYUFDdVM2SnQ3N29rWk43TFo3MzFCYXdzcVBBaVZtOEZvRFBkaXowdW9pUG1LZklKQl9BSkFGRlhRRWs3enhJaDZGVWlrdVN3dHlMMWdo?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWRPVTNveTZvaUNWeVEtUF9icHcxV3FSRDBRYUM5TWJPblJFcWQ1ajRGc1NPZVEwOXZocHVENXBfVzJuSEZtbmE2dFVrZ2lVTjVQM3pxZWk3RktxQXYyMWpTRk1PUkEtLWw5bGs1TTYydjhBOXNwVkVTTFNwMU9lR19Ta1R5dklLaURXOEtR?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "宇越生醫攜手韓國夥伴簽署MOU 共同建置CAR-T技術平台與製程能力- 商情",
@@ -115,18 +117,20 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiQ1BPb3NBcU5VdWw3dUpOd1E5OVRIU2NWRXFvMXRrNUljMDdaT0YzU3h3VnhIVHRnTlB2LVA1YlVoT2llQUxJb0JJRkI3bnZNSWc?oc=5"
     },
     {
-      "title": "JP Morgan banker: Global pharma is hunting Asia -- partnerships now decide winners",
-      "summary": "ng Asia -- partnerships now decide winners koreabiomed.com",
-      "source": "koreabiomed.com",
-      "date": "2026-01-07",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VU1RIb0szUUVvTzcwMlRHTF81ZmwwUV9pclF2SXJXNDBQRjg2ZFFKVzlvTnBQTXRtdi1lM3JKVEhKdHc0bVlBNGhHYWJGWXRQYm1KRXBLMDNCa0NCWlhNbFBmaThNaFVtLUdrelVn0gFyQVVfeXFMTjVMQmkxVjlZSXZxcG9vTkVWOW0xN1J2UGtKRWthMkZsNVVIZTh5cjlwbkZjejc0THFNTkw1bFRCTlhFM0RxREFEbkI5ZDlHMFhOOXBSa3AzWEQ0YVBuNzZObVdSREtKbnVkQ19ZMnBFLVdn?oc=5"
+      "title": "2026 年塑造生物技術與生命科學的 26 個主要趨勢",
+      "summary": "2026 年亞太地區生物製藥",
+      "source": "BioPharma APAC",
+      "date": "2026-01-05",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdFZZSWtIclU1a29yV2Qxc05LWDZmcG85UUdCdG9EVGh2VTZVNVFHUTRGQXhZUzVXUTZBSXZaZjVWdUR6SFdYbDE2eVF1OHk2bmdJbVU0QkF3U3BRU295RTZxb0pmNXN0cm9oWVhkVTRnNUNxNm92OWlDWjhZYlhhVENGa0I1eHl1enhZS0RXcFEzZFl5UUdiTXZ6UmdEOV9Y?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "APAC Biopharma Review 2025: Innovation, Investment, and Influence on the Global Stage",
-      "summary": "Investment, and Influence on the Global Stage BioPharma APAC",
+      "title": "2025 年亞太地區生物製藥評論：全球舞台上的創新、投資和影響力",
+      "summary": "全球生物製藥亞太區的投資與影響力",
       "source": "BioPharma APAC",
       "date": "2025-12-15",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdThZM2dIaTVZWjBRWjlmd3FpQjdoWkJSZGJpRW9UUTNqMnhOd0JqdjBrV3JDWFNHbjZKTkt0a19yalJOcG1hLUc0cW0ybkpkR2ZkcHdFRXZjOEg5QUJuWDhSZXYxRDQzRWtLX2VTRkpFUS1aWnJyY1NqM0hEYmlRMU5wOWU3VDF5TF90clBSeGZJSjhZeFY4UGNZd3VzNWRpR1YwQ05ZUnpqT2NhVjdzVjVfem9MY2w0NlJiTktQandUTlFWYzRB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdThZM2dIaTVZWjBRWjlmd3FpQjdoWkJSZGJpRW9UUTNqMnhOd0JqdjBrV3JDWFNHbjZKTkt0a19yalJOcG1hLUc0cW0ybkpkR2ZkcHdFRXZjOEg5QUJuWDhSZXYxRDQzRWtLX2VTRkpFUS1aWnJyY1NqM0hEYmlRMU5wOWU3VDF5TF90clBSeGZJSjhZeFY4UGNZd3VzNWRpR1YwQ05ZUnpqT2NhVjdzVjVfem9MY2w0NlJiTktQandUTlFWYzRB?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "從血糖機到細胞治療！亞家生物科技總經理吳坤烈的的踏實創業路- 職場新聞- PChome Online 新聞",
@@ -136,25 +140,28 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVlg5NG1yclRoMmpwbUpjbEZMQklyQ2drblhlMkVpR1lVaGRncmdxWGlBN0lYcGhmU3diMm43Mk9pWjlIU1dDa3FJMDVzaGZ1bmFfMFV6aENpYU84RVAwUERadFBhMGl6eW9MUWQyNDVyRG1BaTZRMmdpd1IxM0g3UnpDVDlkNjFkMFRrZg?oc=5"
     },
     {
-      "title": "Cell & Gene Therapy Clinical Trials Market Size, Share, Report, 2034",
-      "summary": "et Size, Share, Report, 2034 Straits Research",
+      "title": "細胞和基因治療臨床試驗市場規模、份額、報告，2034 年",
+      "summary": "et 規模、分享、報告，2034 海峽研究",
       "source": "Straits Research",
       "date": "2025-12-11",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN1ZOUlRSYnJyNXJ6ck5aSEJRMEQ1NGpRMkNXWkt5NU5lWHV1Qkh3Z0YtR08zUVYzRXZhZkVycHVrMF9pUkhZdlp2cVp2b0R2aFJONVZ1NXRoRmY3SVl5R1kyemdJLWFaOElrWGhoTS1qZkRqcVlVNmtwQWhOdi1zVA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN1ZOUlRSYnJyNXJ6ck5aSEJRMEQ1NGpRMkNXWkt5NU5lWHV1Qkh3Z0YtR08zUVYzRXZhZkVycHVrMF9pUkhZdlp2cVp2b0R2aFJONVZ1NXRoRmY3SVl5R1kyemdJLWFaOElrWGhoTS1qZkRqcVlVNmtwQWhOdi1zVA?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "Cell And Gene Therapy Clinical Trials Market Accelerates from USD 12.47 Billion in 2025 to USD 45.31 Billion by 2034",
-      "summary": "rket Accelerates from USD 12.47 Billion in 2025 to USD 45.31 Billion by 2034 BioSpace",
+      "title": "細胞與基因療法臨床試驗市場將從 2025 年的 124.7 億美元加速到 2034 年的 453.1 億美元",
+      "summary": "市場規模將從 2025 年的 124.7 億美元加速到 2034 年的 453.1 億美元",
       "source": "BioSpace",
       "date": "2025-12-03",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaUZSYXYtSHplVHhBOU01N05fM3lQcmNNc0RWVlFFVDhOYWhpbnNUQmRuNk5RUlNSWnNpNkluTDEwNk5JbnhzeWU3YmU4NHZZckR5cTZnb01pNXcycHNlRHprVHM4V3pIbTdDeEp2UzB6Z3hQVDlWODJxRnEwcWRKYlJhNGJscTctbklrRkZxT3ptNGhsdkhkaVkxV3FpMk5kN0JHUlFiMnU1OWZZTGw3WFk3aTYtWWpmMzlUbS03WnNmeU1Tdi05blVjUUt0T2lxTXFraEY2RjhRa2E2Z2hxSVc1c2FadkRMZ0pBeA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaUZSYXYtSHplVHhBOU01N05fM3lQcmNNc0RWVlFFVDhOYWhpbnNUQmRuNk5RUlNSWnNpNkluTDEwNk5JbnhzeWU3YmU4NHZZckR5cTZnb01pNXcycHNlRHprVHM4V3pIbTdDeEp2UzB6Z3hQVDlWODJxRnEwcWRKYlJhNGJscTctbklrRkZxT3ptNGhsdkhkaVkxV3FpMk5kN0JHUlFiMnU1OWZZTGw3WFk3aTYtWWpmMzlUbS03WnNmeU1Tdi05blVjUUt0T2lxTXFraEY2RjhRa2E2Z2hxSVc1c2FadkRMZ0pBeA?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "Life Sciences Trends 2026: From Regulatory Agility, AI and Investments to Digital Health Transformation",
-      "summary": "ry Agility, AI and Investments to Digital Health Transformation BioSpectrum Asia",
+      "title": "2026 年生命科學趨勢：從監管敏捷性、人工智慧和投資到數位健康轉型",
+      "summary": "數位健康轉型的敏捷性、人工智慧和投資 BioSpectrum Asia",
       "source": "BioSpectrum Asia",
       "date": "2025-12-01",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLXNlbmRjOUttQjBKSzlaOU5uV2xoOVNHbTJMTUt1TVkzSW5WaWxnVFE1aTBhbDBudjEtRU1oNlluOWVhMHVPVXo1UHRRUWtOWi1WN3RLRkpVdVBtYmFYSW54THd3V05fU1c4UktybGVaalFXQW9MODlIUjU1VVd2dnJqbUdqY0ZmOEZFZTZaN0hoTGhZSDVmSHExY3lOb1dNOTdLX3hFRTBUOVoyN2lRRmpIenIyeUdHX08wendTb0x0S0Y3MWg0TnJ0RllLWms0WXJ0QmtWTlZjdHE3cE9oNWJOVy1INDhlSHZBWg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLXNlbmRjOUttQjBKSzlaOU5uV2xoOVNHbTJMTUt1TVkzSW5WaWxnVFE1aTBhbDBudjEtRU1oNlluOWVhMHVPVXo1UHRRUWtOWi1WN3RLRkpVdVBtYmFYSW54THd3V05fU1c4UktybGVaalFXQW9MODlIUjU1VVd2dnJqbUdqY0ZmOEZFZTZaN0hoTGhZSDVmSHExY3lOb1dNOTdLX3hFRTBUOVoyN2lRRmpIenIyeUdHX08wendTb0x0S0Y3MWg0TnJ0RllLWms0WXJ0QmtWTlZjdHE3cE9oNWJOVy1INDhlSHZBWg?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "臺灣企業以解決方案加上在地服務 以多元整合拓銷模式搶攻亞太新興市場 | 熱門亮點 | 商情",
@@ -164,18 +171,20 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pLXEwWVQwY09DVG1zRkN0OWhtNnlEeEtUeTFoeGpwdmNDZ21ORVR3SkRVc0o3YVp0UDBLaThCblBXWDc4YS1OMWxGekt2NmVZdVQ4RHFaN2FsQQ?oc=5"
     },
     {
-      "title": "4DMT eyes $420M deal from Otsuka, with cash aimed at retinal gene therapy's phase 3 plans",
-      "summary": "ash aimed at retinal gene therapy's phase 3 plans Fierce Biotech",
+      "title": "4DMT 計劃與大塚達成 4.2 億美元的交易，現金用於視網膜基因治療的第三階段計劃",
+      "summary": "ash 針對視網膜基因治療的第三階段計劃 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2025-10-31",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3JBZkpHV3ljREZFSzF2c1ZEMm9VR0JGcHh5S21DQnBONW1uM09DTlR6azhvcDJrRGVOb2ZkczBTT3FGYTQyZXJ4eVhKaWwwbHhZRHZaemFuU29aRWxqRU04MEM0RUhLZEtPRG1lSnd3VnB5Mm1kUjBMNVF4Y2FwWkxXaUxQdVdMRXFrb2lNc0lnUVM4Zk54ZmhISmNZdFl2aWs3SHJxSEJHT2s3dTdYRA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3JBZkpHV3ljREZFSzF2c1ZEMm9VR0JGcHh5S21DQnBONW1uM09DTlR6azhvcDJrRGVOb2ZkczBTT3FGYTQyZXJ4eVhKaWwwbHhZRHZaemFuU29aRWxqRU04MEM0RUhLZEtPRG1lSnd3VnB5Mm1kUjBMNVF4Y2FwWkxXaUxQdVdMRXFrb2lNc0lnUVM4Zk54ZmhISmNZdFl2aWs3SHJxSEJHT2s3dTdYRA?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "Why the world’s most innovative biotechs are choosing to expand in Asia-Pacific",
-      "summary": "are choosing to expand in Asia-Pacific Singapore Economic Development Board (EDB)",
+      "title": "為什麼世界上最具創新性的生技公司選擇在亞太地區擴張",
+      "summary": "選擇在亞太地區擴張 新加坡經濟發展局 (EDB)",
       "source": "Singapore Economic Development Board (EDB)",
       "date": "2025-10-17",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUm9Od0RKdGRTSUw4Vl9hejctc3BMT2dWZ2JVNzN3UndHYVVpeXhNanBYV2I2NnU4M21Md3ZnZXpvTWFSSEZOaG9EOXBUTUlGQkt1WTQtQ0hpVEJyTkVIcjZMRk5rT3dFaXJFSE0xMlpBS1RlWnZyeUtpMGEzcC1GWXdUcTlDbzBSY3VzNndrTGpDcmM4cXZzdkN4RHdXT0ZwTU11NHk1bW85cDRienRiNVBSdS1ybTk3TzNvcXAyWkRscnd4eGo0SWZJcEctTDE2MUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUm9Od0RKdGRTSUw4Vl9hejctc3BMT2dWZ2JVNzN3UndHYVVpeXhNanBYV2I2NnU4M21Md3ZnZXpvTWFSSEZOaG9EOXBUTUlGQkt1WTQtQ0hpVEJyTkVIcjZMRk5rT3dFaXJFSE0xMlpBS1RlWnZyeUtpMGEzcC1GWXdUcTlDbzBSY3VzNndrTGpDcmM4cXZzdkN4RHdXT0ZwTU11NHk1bW85cDRienRiNVBSdS1ybTk3TzNvcXAyWkRscnd4eGo0SWZJcEctTDE2MUE?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "【產業新聞】再生醫學產業下一個成長引擎：智齒幹細胞(二)",
@@ -185,6 +194,14 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qWEQ3Wk5qWkhLWS1QdmtlTEdFRXVvNUNaTW10aUFUZVhQTEwwMWpRXzJpRDF1cXJ1REtCNlI2a0RjVHNVRzUwaGFfcWdiVDloZTdlV1d5UG9fWGlvV3ZvMzNzSlVPSDBVY2hzSg?oc=5"
     },
     {
+      "title": "到 2034 年，外泌體治療市場規模將達到 402.075 萬美元",
+      "summary": "到 2034 年，將達到 4,020,750 美元 優先研究",
+      "source": "Precedence Research",
+      "date": "2025-10-06",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVUFGaFRhTWtBRnIyYXlkVFFXU1BKSk9JVzlZNk5rQWRhcmozbXQzb2hNMnlHd3FwSFpveWgtaE1Rb05Xd200MTJ3MFg4czIyemxEZGlXNUlmZ2I5V2VoQi14X1lmSXdrWWRfVEtGZw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "臺灣參與 APEC 高階會議，分享 AI 醫療與成人免疫經驗",
       "summary": "",
       "source": "GeneOnline News",
@@ -192,25 +209,28 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xSHZMOVBPLWs2NUwtZUV3d2Z5ZFkzYWYxSzZ6WnZ3UXpBWXk2d29TU1lsU1NKZ0NmQld2SE12SGFpT1hqdEdmcENycWdNT3dYUUNLSVNvTUwyLUp1NlBLNg?oc=5"
     },
     {
-      "title": "Drugging the undruggable: How biotech innovation is creating opportunities for investors",
-      "summary": "novation is creating opportunities for investors T. Rowe Price",
-      "source": "T. Rowe Price",
-      "date": "2025-08-29",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDJ2b0xMVVlYWTVyYVFLYlF3V3UxanhDUzUxTTlDdkExdjg0eW1NSVBmb1ItLU9ndTV0cTRQd0twcklpbjlZRGZUQ3Y5anBPSXZEU1ctMFBLTU1zcDBHTlhvdVg4M2xLQ0NaTVZ4cS1MeUdVQVRpd0lmWklzcjh1aHVqcEVLVm9Hcy1Id3NwNGhFM3ZSelR4U2RCcnpqR0U0dmNtOUVkdkIwVVE?oc=5"
-    },
-    {
-      "title": "Investors Favor Asia-Pacific Markets as Biotech Destinations Amid US-China Tensions",
-      "summary": "Biotech Destinations Amid US-China Tensions Bain & Company",
+      "title": "在中美緊張局勢中，投資人青睞亞太市場作為生技目的地",
+      "summary": "中美緊張局勢中的生物技術目的地 貝恩公司",
       "source": "Bain & Company",
       "date": "2025-07-31",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkxxZmhYNUtMT2FVQVRZS0Fia1pZYWZaY0FCeWVGd0xIbmx3eTJQbFZLUzQwWk5pRWN3U2JLVTZIdjNiTzZMbXVtNVBUVlVFNHlqT2RvT21ELWVNak9WcUszX0FUQUlkRW9aMVVDSDl1NnBTcVZfQXhwc00wVmZseTk2ZVNvVjZ4ZHZMbg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkxxZmhYNUtMT2FVQVRZS0Fia1pZYWZaY0FCeWVGd0xIbmx3eTJQbFZLUzQwWk5pRWN3U2JLVTZIdjNiTzZMbXVtNVBUVlVFNHlqT2RvT21ELWVNak9WcUszX0FUQUlkRW9aMVVDSDl1NnBTcVZfQXhwc00wVmZseTk2ZVNvVjZ4ZHZMbg?oc=5",
+      "lang": "zh-TW"
     },
     {
-      "title": "Empowering Biotech Innovation in Asia-Pacific",
+      "title": "賦能亞太地區生物技術創新",
       "summary": "",
       "source": "Bain & Company",
       "date": "2025-07-30",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOanRRaXM2TkxObmtBTHZRdXJLcjNhcU5OS2JwVG1nQTNSVktpaG10akFpUFRmSTdUYUlPTDRObkVNeDA5cmItS0JTdmM4X1Z5Q1JoZ1ZISTNOV01BRmQwYjhZOWYzS3dSa2hHQzJVLXQwRjZ5R1N0ODNkdm43R3RlaGJR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOanRRaXM2TkxObmtBTHZRdXJLcjNhcU5OS2JwVG1nQTNSVktpaG10akFpUFRmSTdUYUlPTDRObkVNeDA5cmItS0JTdmM4X1Z5Q1JoZ1ZISTNOV01BRmQwYjhZOWYzS3dSa2hHQzJVLXQwRjZ5R1N0ODNkdm43R3RlaGJR?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Steminent 以幹細胞數據登上全球舞台，推動日本監管備案和國際合作",
+      "summary": "ymal 數據，推動日本監管備案和國際合作夥伴關係geneonline.com",
+      "source": "geneonline.com",
+      "date": "2025-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2NQRXUxR1F6bEtKa0taYS1rM1BxdXdMcV9wN0tyY2xMMmhEbW0xdUQxdXFBa29RU1MwZkx4alBwSEYzYjljVGdxdi1yTzA3c0tTSWNnTmRrMFFqWmNsSmRjcjNDdTJ6bVRxclhvZEZka0JELXJXMjNUaGdDQzRUZ2lsSmNIS2xBWENJVnducy1nTlFscmxmZzNMVW5iaXNoNlV1Q1ptaGl1QnV1LUQwbUlPR2s0Qk14VnEydU5rX2ZUWldWQk92eGEySE5XZ3FsRDdZbA?oc=5",
+      "lang": "zh-TW"
     }
   ]
 }
