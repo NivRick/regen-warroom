@@ -1,7 +1,15 @@
 {
   "module": "funding",
-  "updated": "2026-06-03T08:10:30.392322+00:00",
+  "updated": "2026-06-03T08:42:07.365314+00:00",
   "items": [
+    {
+      "title": "觀點：軍隊如何助長男性飲食失調",
+      "summary": "「川普政府的大部分言論、形象和政策訊息都以極端男性理想為中心，」《第一意見》作者寫道。",
+      "source": "STAT News",
+      "date": "2026-06-03",
+      "url": "https://www.statnews.com/2026/06/03/eating-disorders-men-military-troops-veterans/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：長壽新創公司 NewLimit 在首次臨床試驗前籌集了 4.35 億美元",
       "summary": "長壽新創公司 NewLimit 計劃在籌集了驚人的 4.35 億美元新資金後啟動其首次肝臟藥物臨床試驗。",
@@ -32,30 +40,6 @@
       "source": "STAT News",
       "date": "2026-06-01",
       "url": "https://www.statnews.com/2026/06/01/ebola-bundibugyo-vaccine-studies-cepi-62-million-funding/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：胰臟癌患者的轉折點",
-      "summary": "禮來公司 (Eli Lilly) 宣布兩項中國交易、康方生物 (Akeso) 的肺癌雙特異性藥物回報，以及來自 The Readout 的更多生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-06-01",
-      "url": "https://www.statnews.com/2026/06/01/biotech-news-turning-point-for-pancreatic-cancer-revmed/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CDC表示遏制伊波拉病毒傳播是首要任務",
-      "summary": "川普政府無視傳染病劇本、CEPI 提供疫苗資金以及早晨查房的其他健康新聞",
-      "source": "STAT News",
-      "date": "2026-06-01",
-      "url": "https://www.statnews.com/2026/06/01/health-news-cdc-says-containing-ebola-spread-is-top-priority/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：施維雅收購 Edgewise Therapeutics 的肌肉萎縮症藥物",
-      "summary": "法國製藥公司施維雅 (Servier) 正以 15.5 億美元預付款從 Edgewise Therapeutics 購買一種實驗性肌肉營養不良藥物。",
-      "source": "STAT News",
-      "date": "2026-06-01",
-      "url": "https://www.statnews.com/2026/06/01/servier-edgewise-therapeutics-muscular-dystrophy-drug-sevasemten/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
