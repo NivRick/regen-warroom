@@ -50,6 +50,9 @@
     <div class="status-item" id="data-date">--</div>
   </div>
 
+  <!-- 股票快訊列 -->
+  <div id="stock-ticker" class="stock-ticker hidden"></div>
+
   <!-- 搜尋列 -->
   <div class="search-bar-wrap">
     <div class="search-bar">
@@ -66,7 +69,7 @@
     <div id="search-hint" class="search-hint hidden"></div>
   </div>
 
-  <!-- 控制列：排序 / 摘要模式 / 我的關注 -->
+  <!-- 控制列：排序 / 摘要模式 / 我的關注 / 統計 / 匯出 -->
   <div class="controls-bar">
     <select id="sort-select" class="ctrl-select" onchange="applyFilters()">
       <option value="date-desc">最新優先</option>
@@ -75,6 +78,17 @@
     </select>
     <button id="digest-btn" class="ctrl-btn" onclick="toggleDigest()" title="一頁摘要模式">📋 摘要</button>
     <button id="watch-btn" class="ctrl-btn" onclick="toggleWatchPanel()" title="我的關注">⭐ 關注</button>
+    <button id="chart-btn" class="ctrl-btn" onclick="toggleChart()" title="數據統計圖">📊 統計</button>
+    <div class="export-group">
+      <button class="ctrl-btn export-btn" onclick="exportCSV()" title="匯出 CSV">⬇ CSV</button>
+      <button class="ctrl-btn export-btn" onclick="printPage()" title="列印 / 存 PDF">🖨 列印</button>
+    </div>
+  </div>
+
+  <!-- 統計圖表面板 -->
+  <div id="chart-panel" class="chart-panel hidden">
+    <div class="chart-title">各模組情報數量</div>
+    <canvas id="module-chart" height="200"></canvas>
   </div>
 
   <!-- 我的關注面板（底部滑出） -->

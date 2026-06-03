@@ -592,13 +592,81 @@ mark {
 .tag-competitor { background: rgba(251,146,60,0.12); color: #fb923c; }
 .intel-card[data-module="competitor"]::before { background: #fb923c; }
 
-/* ── #9 Controls Bar（排序 / 摘要 / 關注）── */
+/* ── #15 股票快訊 ── */
+.stock-ticker {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 16px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  overflow-x: auto;
+  scrollbar-width: none;
+  white-space: nowrap;
+}
+.stock-ticker::-webkit-scrollbar { display: none; }
+
+.ticker-label {
+  font-size: 11px;
+  color: var(--text-dim);
+  font-weight: 700;
+  letter-spacing: 1px;
+  flex-shrink: 0;
+}
+
+.stock-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  text-decoration: none;
+  font-size: 12px;
+  flex-shrink: 0;
+  transition: border-color 0.2s;
+}
+.stock-chip:hover { border-color: var(--accent); }
+.stock-chip.up   { border-color: rgba(239,68,68,0.4); }
+.stock-chip.down { border-color: rgba(16,185,129,0.4); }
+
+.stock-name  { color: var(--text-muted); font-size: 11px; }
+.stock-price { color: var(--text); font-weight: 700; font-size: 12px; }
+.stock-chg   { font-size: 11px; font-weight: 700; }
+.stock-chip.up   .stock-chg { color: #ef4444; }
+.stock-chip.down .stock-chg { color: #10b981; }
+.stock-chip.flat .stock-chg { color: var(--text-dim); }
+
+.ticker-date {
+  font-size: 10px;
+  color: var(--text-dim);
+  flex-shrink: 0;
+  margin-left: 4px;
+}
+
+/* ── #9 Controls Bar（排序 / 摘要 / 關注 / 統計 / 匯出）── */
 .controls-bar {
   display: flex;
   align-items: center;
   gap: 8px;
   padding: 8px 16px 0;
   background: var(--bg);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.controls-bar::-webkit-scrollbar { display: none; }
+
+.export-group {
+  display: flex;
+  gap: 4px;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+
+.export-btn {
+  font-size: 12px !important;
+  padding: 6px 9px !important;
 }
 
 .ctrl-select {
@@ -804,6 +872,90 @@ mark {
 .show-more-btn:hover {
   background: rgba(0,212,255,0.06);
   border-color: var(--accent);
+}
+
+/* ── #31 圖表面板 ── */
+.chart-panel {
+  margin: 8px 16px 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+}
+
+.chart-title {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-dim);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+/* ── #17 列印樣式 ── */
+@media print {
+  /* 隱藏互動元件 */
+  #login-screen, .top-bar-right, .status-bar, .stock-ticker,
+  .controls-bar, .watch-panel, #chart-panel, .module-tabs,
+  .search-bar-wrap, .show-more-btn, .share-btn, #error-banner,
+  .fresh-tag, footer { display: none !important; }
+
+  /* 重設背景色 */
+  body, .cards-container, .intel-card, .module-header {
+    background: #fff !important;
+    color: #111 !important;
+    box-shadow: none !important;
+    border-color: #ddd !important;
+  }
+
+  /* 頂部留存，顯示標題 + 列印時間 */
+  .top-bar {
+    position: static !important;
+    background: #fff !important;
+    border-bottom: 2px solid #111 !important;
+    padding: 8px 16px !important;
+    backdrop-filter: none !important;
+  }
+  .logo-text {
+    color: #111 !important;
+    -webkit-text-fill-color: #111 !important;
+    background: none !important;
+    -webkit-background-clip: unset !important;
+    background-clip: unset !important;
+  }
+  .top-bar::after {
+    content: "列印時間：" attr(data-print-date);
+    display: block;
+    font-size: 10pt;
+    color: #666;
+    margin-top: 2px;
+  }
+
+  /* 卡片排版 */
+  .intel-card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    margin-bottom: 6px !important;
+    padding: 10px 12px !important;
+  }
+  .intel-card::before { background: #999 !important; }
+  .card-title  { color: #111 !important; font-size: 13pt !important; }
+  .card-summary { color: #444 !important; font-size: 10pt !important; }
+  .card-source, .card-date { color: #777 !important; }
+  .card-link {
+    color: #005a9c !important;
+    border-color: #005a9c !important;
+  }
+
+  /* 模組標題 */
+  .module-header { page-break-after: avoid; }
+  .module-title  { color: #555 !important; }
+  .module-count  { color: #777 !important; background: #eee !important; border-color: #ccc !important; }
+
+  /* 已讀卡片列印時恢復正常 */
+  .intel-card.is-read { opacity: 1 !important; }
+  .intel-card.is-read .card-title { color: #111 !important; }
+  .intel-card.is-read::after { display: none; }
 }
 
 /* ── Footer ── */

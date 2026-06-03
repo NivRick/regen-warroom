@@ -903,6 +903,83 @@ def fetch_competitors():
 
 
 # ════════════════════════════════════════════════
+# 8. 台灣生技股票（TWSE 收盤資料）
+# ════════════════════════════════════════════════
+STOCK_WATCHLIST = [
+    ("1784", "訊聯生技"),
+    ("6712", "長聖國際"),
+    ("6794", "醣基生醫"),
+    ("6579", "亞果生醫"),
+    ("4726", "宣捷生技"),
+    ("4130", "健亞生技"),
+    ("6550", "北極星藥"),
+    ("4707", "磐亞"),
+]
+
+
+def _prev_month(date_str):
+    """YYYYMMDD → 上個月1日 YYYYMMDD"""
+    y, m = int(date_str[:4]), int(date_str[4:6])
+    if m == 1:
+        return f"{y-1}1201"
+    return f"{y}{m-1:02d}01"
+
+
+def fetch_stocks():
+    print("📈 台灣生技股票...")
+    results = []
+    date_str = TODAY.replace("-", "")
+
+    for code, name in STOCK_WATCHLIST:
+        got = False
+        for attempt in [date_str, _prev_month(date_str)]:
+            try:
+                url = (
+                    "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY"
+                    f"?date={attempt}&stockNo={code}&response=json"
+                )
+                raw = fetch_url(url)
+                data = json.loads(raw)
+                if data.get("stat") != "OK" or not data.get("data"):
+                    continue
+                last = data["data"][-1]
+                # fields: 日期,成交股數,成交金額,開盤價,最高價,最低價,收盤價,漲跌價差,成交筆數
+                close_str  = last[6].replace(",", "").strip()
+                change_str = last[7].replace(",", "").strip()
+                try:
+                    close_f  = float(close_str)
+                    change_f = float(change_str)
+                    prev     = close_f - change_f
+                    pct      = round(change_f / prev * 100, 2) if prev else 0
+                except ValueError:
+                    close_f, change_f, pct = 0.0, 0.0, 0.0
+
+                results.append({
+                    "code":       code,
+                    "name":       name,
+                    "close":      close_str,
+                    "change":     f"+{change_str}" if change_f > 0 else change_str,
+                    "change_pct": pct,
+                    "date":       last[0],   # 民國年格式 115/06/03
+                })
+                got = True
+                time.sleep(0.4)
+                break
+            except Exception as e:
+                print(f"  股價 {code} ({attempt}): {e}")
+        if not got:
+            print(f"  股價 {code} 取得失敗，略過")
+
+    path = DATA_DIR / "stocks.json"
+    path.write_text(
+        json.dumps({"updated": datetime.now(timezone.utc).isoformat(), "stocks": results},
+                   ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
+    print(f"  ✓ stocks.json: {len(results)} 支")
+
+
+# ════════════════════════════════════════════════
 # 主程式
 # ════════════════════════════════════════════════
 if __name__ == "__main__":
@@ -916,5 +993,6 @@ if __name__ == "__main__":
     fetch_funding()
     fetch_medical_tourism()
     fetch_competitors()
+    fetch_stocks()
 
     print(f"\n=== 更新完成 {datetime.now(timezone.utc).strftime('%H:%M UTC')} ===")

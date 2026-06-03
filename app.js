@@ -49,14 +49,15 @@ const MODULES = [
 ];
 
 // ── 全域狀態 ──
-let allCards = [];
+let allCards     = [];
+let currentCards = [];          // 目前顯示的卡片（供匯出用）
 let currentModule = 'all';
 let searchQuery   = '';
 let searchTimer   = null;
-let digestMode    = false;         // #30 一頁摘要模式
-
-// #9 排序（date-desc / date-asc / module）
-let sortMode = 'date-desc';
+let digestMode    = false;
+let chartVisible  = false;
+let sortMode      = 'date-desc';
+let _chartInstance = null;
 
 // #11 我的關注
 const WATCH_KEY = 'regen_watchlist';
@@ -109,6 +110,7 @@ async function loadAllData() {
   });
 
   allCards.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  currentCards = allCards;
 
   document.getElementById('total-items').textContent = allCards.length;
   document.getElementById('last-update').textContent = `更新：${latestDate ? formatDate(latestDate) : '未知'}`;
@@ -120,6 +122,9 @@ async function loadAllData() {
 
   updateWatchBtn();
   renderCards(allCards);
+
+  // #15 股票快訊（非同步，不阻塞主畫面）
+  loadStocks();
 }
 
 async function fetchModule(mod) {
@@ -136,6 +141,39 @@ function showErrorBanner(msg) {
   banner.className = 'error-banner';
   banner.innerHTML = `${msg} <button onclick="this.parentElement.remove()" style="margin-left:8px;background:none;border:none;color:inherit;cursor:pointer;font-size:14px;">✕</button>`;
   document.getElementById('cards-container').insertAdjacentElement('beforebegin', banner);
+}
+
+// ── #15 股票快訊 ──
+async function loadStocks() {
+  try {
+    const res = await fetch(`data/stocks.json?t=${Date.now()}`);
+    if (!res.ok) return;
+    const data = await res.json();
+    if (data.stocks?.length) renderStockTicker(data);
+  } catch { /* 靜默失敗，股票非核心功能 */ }
+}
+
+function renderStockTicker(data) {
+  const ticker = document.getElementById('stock-ticker');
+  if (!ticker) return;
+
+  const chips = data.stocks.map(s => {
+    const isUp   = s.change_pct > 0;
+    const isDown = s.change_pct < 0;
+    const cls    = isUp ? 'up' : isDown ? 'down' : 'flat';
+    const arrow  = isUp ? '▲' : isDown ? '▼' : '─';
+    const pct    = Math.abs(s.change_pct).toFixed(2);
+    const url    = `https://tw.stock.yahoo.com/quote/${s.code}.TW`;
+    return `<a class="stock-chip ${cls}" href="${url}" target="_blank" rel="noopener" title="${s.name} (${s.code})">
+      <span class="stock-name">${escHtml(s.name)}</span>
+      <span class="stock-price">${s.close}</span>
+      <span class="stock-chg">${arrow}${pct}%</span>
+    </a>`;
+  }).join('');
+
+  const dateLabel = data.stocks[0]?.date ? `<span class="ticker-date">${data.stocks[0].date}</span>` : '';
+  ticker.innerHTML = `<span class="ticker-label">📈 台股</span>${chips}${dateLabel}`;
+  ticker.classList.remove('hidden');
 }
 
 // ── 渲染 ──
@@ -190,14 +228,14 @@ function renderCards(cards, query = '') {
   }
 }
 
-// #30 摘要列（一行一則）
+// #30 摘要列
 function digestRow(item, query = '') {
-  const mod  = MODULES.find(m => m.id === item.moduleId);
-  const raw  = decodeEntities(item.title || '無標題');
+  const mod   = MODULES.find(m => m.id === item.moduleId);
+  const raw   = decodeEntities(item.title || '無標題');
   const title = query ? highlight(raw, query) : escHtml(raw);
-  const url  = item.url ? escHtml(item.url) : '#';
-  const meta = `${escHtml(item.source || mod?.label || '')} · ${formatDateShort(item.date)}`;
-  return `<a class="digest-row" href="${url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">
+  const url   = item.url ? escHtml(item.url) : '#';
+  const meta  = `${escHtml(item.source || mod?.label || '')} · ${formatDateShort(item.date)}`;
+  return `<a class="digest-row" href="${url}" target="_blank" rel="noopener">
     <span class="digest-icon">${mod?.icon || '📄'}</span>
     <span class="digest-title">${title}</span>
     <span class="digest-meta">${meta}</span>
@@ -209,7 +247,6 @@ function cardHTML(item, mod, query = '') {
   const rawSummary = decodeEntities(item.summary || '');
   const safeTitle   = query ? highlight(rawTitle, query)   : escHtml(rawTitle);
   const safeSummary = query ? highlight(rawSummary, query) : escHtml(rawSummary);
-  const safeSource  = escHtml(item.source || mod?.label || '');
   const moduleId    = mod?.id || item.moduleId;
   const moduleLabel = mod?.label || item.moduleLabel;
   const modTag      = mod?.tag || 'tag-research';
@@ -217,9 +254,9 @@ function cardHTML(item, mod, query = '') {
   const cardId = btoa(encodeURIComponent((item.title || '') + (item.date || ''))).slice(0, 20);
   const isRead = readIds.has(cardId);
 
-  // #22 顯示來源域名而非 Google 長網址
-  const displaySource = item.source && item.source !== 'Google News'
-    ? safeSource
+  // #22 顯示乾淨域名而非 Google 重導址
+  const displaySource = (item.source && item.source !== 'Google News')
+    ? escHtml(item.source)
     : escHtml(getDisplayDomain(item.url) || item.source || mod?.label || '');
 
   const shareBtn = item.title
@@ -245,7 +282,7 @@ function cardHTML(item, mod, query = '') {
   </div>`;
 }
 
-// ── #9 排序 + #11 關注 + 搜尋 三合一過濾 ──
+// ── 三合一過濾（#9排序 + #11關注 + 搜尋）──
 function applyFilters() {
   let cards = currentModule === 'all'
     ? allCards
@@ -263,8 +300,8 @@ function applyFilters() {
   if (searchQuery) {
     const keywords = searchQuery.toLowerCase().split(/\s+/).filter(Boolean);
     cards = cards.filter(card => {
-      const haystack = [card.title, card.summary, card.source, card.moduleLabel].join(' ').toLowerCase();
-      return keywords.every(kw => haystack.includes(kw));
+      const hay = [card.title, card.summary, card.source, card.moduleLabel].join(' ').toLowerCase();
+      return keywords.every(kw => hay.includes(kw));
     });
 
     const hint = document.getElementById('search-hint');
@@ -287,8 +324,8 @@ function applyFilters() {
   } else if (sortMode === 'module') {
     cards = [...cards].sort((a, b) => a.moduleId.localeCompare(b.moduleId));
   }
-  // date-desc 已是預設順序，不額外排序
 
+  currentCards = cards; // 供 CSV 匯出用
   renderCards(cards, searchQuery);
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
@@ -321,7 +358,6 @@ function filterModule(moduleId, btn) {
   applyFilters();
 }
 
-// 從「看更多」按鈕切換到對應 tab
 function switchToModule(moduleId) {
   const btn = document.querySelector(`.tab-btn[data-module="${moduleId}"]`);
   if (btn) filterModule(moduleId, btn);
@@ -348,7 +384,9 @@ function shareCard(event, cardId) {
   if (navigator.share) {
     navigator.share({ title, text, url: link }).catch(() => {});
   } else {
-    navigator.clipboard?.writeText(`${text}\n${link}`).then(() => showToast('已複製到剪貼簿')).catch(() => showToast('請手動複製連結'));
+    navigator.clipboard?.writeText(`${text}\n${link}`)
+      .then(() => showToast('已複製到剪貼簿'))
+      .catch(() => showToast('請手動複製連結'));
   }
 }
 
@@ -357,6 +395,114 @@ function toggleDigest() {
   digestMode = !digestMode;
   document.getElementById('digest-btn')?.classList.toggle('active', digestMode);
   applyFilters();
+}
+
+// ── #31 統計圖表 ──
+async function toggleChart() {
+  chartVisible = !chartVisible;
+  document.getElementById('chart-btn')?.classList.toggle('active', chartVisible);
+  const panel = document.getElementById('chart-panel');
+
+  if (!chartVisible) {
+    panel.classList.add('hidden');
+    return;
+  }
+  panel.classList.remove('hidden');
+
+  // 惰性載入 Chart.js
+  if (!window.Chart) {
+    try {
+      await new Promise((resolve, reject) => {
+        const s = document.createElement('script');
+        s.src = 'https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js';
+        s.onload = resolve;
+        s.onerror = reject;
+        document.head.appendChild(s);
+      });
+    } catch {
+      showToast('圖表載入失敗，請確認網路連線');
+      chartVisible = false;
+      panel.classList.add('hidden');
+      return;
+    }
+  }
+
+  renderModuleChart();
+}
+
+function renderModuleChart() {
+  const canvas = document.getElementById('module-chart');
+  if (!canvas || !window.Chart) return;
+
+  // 計算各模組數量（使用 allCards 而非 currentCards，顯示全貌）
+  const counts = {};
+  MODULES.forEach(m => { counts[m.id] = 0; });
+  allCards.forEach(c => { if (counts[c.moduleId] !== undefined) counts[c.moduleId]++; });
+
+  const labels = MODULES.map(m => `${m.icon} ${m.label}`);
+  const data   = MODULES.map(m => counts[m.id]);
+  const COLORS = ['#f59e0b', '#00d4ff', '#10b981', '#ef4444', '#8b5cf6', '#ec4899', '#fb923c'];
+
+  if (_chartInstance) _chartInstance.destroy();
+  _chartInstance = new Chart(canvas, {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [{
+        data,
+        backgroundColor: COLORS.map(c => c + 'aa'),
+        borderColor: COLORS,
+        borderWidth: 1,
+        borderRadius: 6,
+      }],
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: { label: ctx => ` ${ctx.raw} 則情報` } },
+      },
+      scales: {
+        x: {
+          grid: { color: 'rgba(255,255,255,0.05)' },
+          ticks: { color: '#64748b', font: { size: 11 } },
+        },
+        y: {
+          grid: { display: false },
+          ticks: { color: '#94a3b8', font: { size: 12 } },
+        },
+      },
+    },
+  });
+}
+
+// ── #17 匯出 ──
+function exportCSV() {
+  if (!currentCards.length) { showToast('目前沒有資料可匯出'); return; }
+  const headers = ['標題', '摘要', '來源', '模組', '日期', '連結'];
+  const rows = currentCards.map(c =>
+    [c.title, c.summary, c.source, c.moduleLabel, c.date, c.url]
+      .map(v => `"${String(v || '').replace(/"/g, '""')}"`)
+  );
+  const csv  = [headers.join(','), ...rows.map(r => r.join(','))].join('\n');
+  const blob = new Blob(['﻿' + csv], { type: 'text/csv;charset=utf-8' });
+  const a    = document.createElement('a');
+  a.href     = URL.createObjectURL(blob);
+  a.download = `regen-intel-${new Date().toISOString().slice(0, 10)}.csv`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(a.href);
+  showToast(`已匯出 ${currentCards.length} 筆，可用 Excel 開啟`);
+}
+
+function printPage() {
+  // 列印前在 top-bar 上標記時間（CSS ::after 讀取）
+  document.querySelector('.top-bar')?.setAttribute('data-print-date',
+    new Date().toLocaleString('zh-TW', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })
+  );
+  window.print();
 }
 
 // ── #11 我的關注 ──
@@ -400,13 +546,11 @@ function toggleWatchFilter() {
 function renderWatchChips() {
   const container = document.getElementById('watch-chips');
   if (!container) return;
-  if (watchlist.length === 0) {
-    container.innerHTML = `<span style="font-size:13px;color:var(--text-dim)">尚未新增任何關注關鍵字</span>`;
-  } else {
-    container.innerHTML = watchlist.map((kw, i) =>
-      `<span class="watch-chip">${escHtml(kw)}<button onclick="removeWatchword(${i})">×</button></span>`
-    ).join('');
-  }
+  container.innerHTML = watchlist.length === 0
+    ? `<span style="font-size:13px;color:var(--text-dim)">尚未新增任何關注關鍵字</span>`
+    : watchlist.map((kw, i) =>
+        `<span class="watch-chip">${escHtml(kw)}<button onclick="removeWatchword(${i})">×</button></span>`
+      ).join('');
   document.getElementById('watch-filter-btn')?.classList.toggle('active', watchFilterActive);
 }
 
@@ -417,7 +561,6 @@ function updateWatchBtn() {
   btn.classList.toggle('active', watchFilterActive);
 }
 
-// 關注面板 Enter 快捷鍵
 document.getElementById('watch-input')?.addEventListener('keydown', e => {
   if (e.key === 'Enter') addWatchword();
 });
@@ -429,7 +572,7 @@ function showToast(msg) {
   t.textContent = msg;
   document.body.appendChild(t);
   setTimeout(() => t.classList.add('toast-show'), 10);
-  setTimeout(() => { t.classList.remove('toast-show'); setTimeout(() => t.remove(), 300); }, 2500);
+  setTimeout(() => { t.classList.remove('toast-show'); setTimeout(() => t.remove(), 300); }, 2800);
 }
 
 // ── 工具函數 ──
@@ -447,20 +590,18 @@ function freshnessTag(dateStr) {
 function formatDateShort(dateStr) {
   if (!dateStr) return '';
   try {
-    const d = new Date(dateStr);
-    return d.toLocaleDateString('zh-TW', { month: 'numeric', day: 'numeric' });
+    return new Date(dateStr).toLocaleDateString('zh-TW', { month: 'numeric', day: 'numeric' });
   } catch { return dateStr.slice(5, 10); }
 }
 
 function formatDate(dateStr) {
   if (!dateStr) return '';
   try {
-    const d = new Date(dateStr);
-    return d.toLocaleDateString('zh-TW', { year: 'numeric', month: 'numeric', day: 'numeric' });
+    return new Date(dateStr).toLocaleDateString('zh-TW', { year: 'numeric', month: 'numeric', day: 'numeric' });
   } catch { return dateStr.slice(0, 10); }
 }
 
-// #22 從 URL 取得乾淨域名
+// #22 取乾淨域名
 function getDisplayDomain(url) {
   if (!url) return '';
   try { return new URL(url).hostname.replace(/^www\./, ''); }
@@ -469,7 +610,7 @@ function getDisplayDomain(url) {
 
 function highlight(text, query) {
   if (!query || !text) return escHtml(text);
-  const escaped = escHtml(text);
+  const escaped  = escHtml(text);
   const keywords = query.trim().split(/\s+/).filter(Boolean);
   let result = escaped;
   keywords.forEach(kw => {
