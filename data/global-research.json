@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-06-03T07:52:13.370317+00:00",
+  "updated": "2026-06-03T08:02:42.468768+00:00",
   "items": [
     {
-      "title": "腸道菌群與代謝物如何驅動免疫細胞時空動態變化，進而影響腫瘤發展",
-      "summary": "癌症對人類健康構成重大威脅，而免疫反應在清除腫瘤細胞中扮演關鍵角色，其機制正日益受到關注。",
+      "title": "The impact of gut microbiota and metabolite-driven immune cell spatiotemporal dynamics on tumors.",
+      "summary": "癌症對人類健康構成重大威脅。免疫反應在腫瘤細胞消除中發揮關鍵作用，人們越來越關注免疫細胞在時間、空間和功能維度上的時空動態。腸道微生物群構成了大部分...",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42207498/",
       "lang": "zh-TW"
     },
     {
-      "title": "運用原位類器官",
-      "summary": "",
+      "title": "一種基於原位類器官的模型，用於研究大腸直腸癌的早期 CD8⁺ T 細胞功能障礙和免疫治療反應。",
+      "summary": "大腸直腸癌 (CRC) 治療是一項重大的臨床挑戰，免疫療法僅對少數患者提供持久的緩解。更深入了解 CD8⁺ T 細胞耗竭及其對免疫檢查點抑制劑 (ICI) 反應性的貢獻對於開發...",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42141809/",
@@ -67,15 +67,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "交流電刺激促進人類牙周韌帶幹細胞/基質細胞的成骨分化",
-      "summary": "電刺激（ES）在多種組織工程（TE）策略中，已展現出增強人類幹細胞成骨分化的潛力。",
+      "title": "交流電刺激能促進人類牙周韌帶幹細胞/間質細胞的成骨分化",
+      "summary": "電刺激（ES）在多種組織工程（TE）策略中，已展現能有效提升人類幹細胞成骨分化的潛力。",
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42156198/",
       "lang": "zh-TW"
     },
     {
-      "title": "烏梅丸透過調節TGF-β",
+      "title": "烏梅丸透過調節",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-03",
@@ -205,7 +205,7 @@
     {
       "title": "[不適用] MUSE 幹細胞療法對腦外傷患者的安全性和結果",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Healing Hope International｜這項前瞻性觀察性研究評估了 6 至 75 歲慢性創傷性腦損傷 (TBI) 患者與 MUSE（多系分化壓力耐受）幹細胞療法相關的安全性和患者報告的結果",
-      "source": "ClinicalTrials.gov｜Mexico, United States",
+      "source": "ClinicalTrials.gov｜United States, Mexico",
       "date": "2026-06-03",
       "url": "https://clinicaltrials.gov/study/NCT07326059",
       "lang": "zh-TW"
@@ -267,8 +267,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026年美國臨床腫瘤醫學會（ASCO）年會：中樞神經系統（CNS）腫瘤新興療法的關鍵臨床試驗進展",
-      "summary": "聚焦2026年ASCO年會，中樞神經系統腫瘤新興療法的臨床試驗最新進展值得",
+      "title": "CNS 腫瘤的新興療法：ASCO 2026 值得關注的關鍵臨床試驗更新",
+      "summary": "ASCO 2026 上值得關注的臨床試驗更新 Yahoo",
       "source": "Yahoo",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVJ4VWpDb281NWZCNzMzNTFRLVBUay16Tl80X0QtdFlJTDRFMndlVy1jUERrQXJyMXpOb1Q2T3RLU05sNU9ya2syeDU4cG5lbi1HYzV5X18wSTQ5NjgyZEJiTjhDMTN2UlF4RTNUZlRpUjVfSnVZclA3MERIZzF6NEVBQ2E1SDh0aXQ3UU5DMUFDZ0JvLUxzaw?oc=5",
@@ -307,7 +307,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE2] Nemtabrutinib, Bortezomib, and Rituximab for WM",
+      "title": "[第 2 階段] Nemtabrutinib、硼替佐米和利妥昔單抗治療 WM",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：首爾國立大學醫院｜這是一項 II 期（2 個部分）、開放標籤、單臂、多中心研究，旨在評估 nemtabrutinib 聯合硼替佐米和利妥昔單抗的療效和安全性",
       "source": "ClinicalTrials.gov｜South Korea",
       "date": "2026-06-01",
@@ -371,8 +371,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[二期臨床] AI驅動治療策略對比Pola-R-CHP用於初治大B細胞淋巴瘤（LBCL）",
-      "summary": "狀態：尚未招募｜主辦：瑞金醫院｜這是一項針對先前未治療受試者的前瞻性、開放標籤、多中心、隨",
+      "title": "[第 2 階段] AI 驅動的治療策略與 Pola-R-CHP 在未經治療的 LBCL 中的比較",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：瑞金醫院｜這是一項前瞻性、開放標籤、多中心、隨機對照研究，受試者為既往未經治療的大 B 細胞淋巴瘤受試者。將使用基於人工智慧的多模式模型將參與者分為不同的風險群。那些分类",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-05-06",
       "url": "https://clinicaltrials.gov/study/NCT07594899",

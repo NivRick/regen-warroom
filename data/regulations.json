@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-06-03T07:52:36.505252+00:00",
+  "updated": "2026-06-03T08:02:56.986438+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-06-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞與基因療法指導原則",
-      "summary": "本頁面列出了細胞與基因療法的相關指導原則。",
+      "title": "細胞和基因治療指南",
+      "summary": "此頁麵包含細胞和基因治療指南的清單。",
       "source": "FDA Biologics",
       "date": "2026-06-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
