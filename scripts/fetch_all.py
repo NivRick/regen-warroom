@@ -439,9 +439,23 @@ def dedup(items):
 def fetch_taiwan_market():
     print("📍 台灣市場...")
     items = []
-    kw = ["再生醫療", "細胞治療", "幹細胞", "基因治療", "CAR-T", "外泌體", "iPSC"]
+    kw = [
+        "再生醫療", "細胞治療", "幹細胞", "基因治療", "CAR-T", "外泌體", "iPSC",
+        "生技", "訊聯", "長聖", "北極星", "亞果", "宣捷", "尖端醫",
+        "臍帶血", "免疫細胞", "異體", "自體",
+    ]
 
-    # TWSE MOPS
+    # ── GeneOnline 台灣生技專業媒體（繁體中文，最重要來源）──
+    try:
+        items += parse_rss_feed(
+            "https://geneonline.news/feed/",
+            "GeneOnline", limit=20, kw_filter=kw
+        )
+        print(f"    GeneOnline: {len(items)} 筆")
+    except Exception as e:
+        print(f"  GeneOnline: {e}")
+
+    # ── TWSE MOPS 重大訊息 ──
     try:
         xml = fetch_url("https://mops.twse.com.tw/mops/rss/news_rss.xml")
         root = ET.fromstring(xml)
@@ -458,12 +472,73 @@ def fetch_taiwan_market():
     except Exception as e:
         print(f"  MOPS: {e}")
 
-    # NewsAPI（若有金鑰）
-    if NEWSAPI_KEY and len(items) < 8:
+    # ── 鉅亨網生技醫療 ──
+    try:
+        items += parse_rss_feed(
+            "https://www.cnyes.com/rss/cat/tw_stock_news",
+            "鉅亨網", limit=15, kw_filter=kw
+        )
+    except Exception as e:
+        print(f"  鉅亨網: {e}")
+
+    # ── 工商時報生技 ──
+    try:
+        items += parse_rss_feed(
+            "https://ctee.com.tw/feed",
+            "工商時報", limit=15, kw_filter=kw
+        )
+    except Exception as e:
+        print(f"  工商時報: {e}")
+
+    # ── 經濟日報 ──
+    try:
+        items += parse_rss_feed(
+            "https://money.udn.com/rssfeed/news/1/5612?ch=money",
+            "經濟日報", limit=15, kw_filter=kw
+        )
+    except Exception as e:
+        print(f"  經濟日報: {e}")
+
+    # ── 中央社生技健康 ──
+    try:
+        items += parse_rss_feed(
+            "https://feeds.feedburner.com/cna/Zozw",
+            "中央社", limit=15, kw_filter=kw
+        )
+    except Exception as e:
+        print(f"  中央社: {e}")
+
+    # ── 生技中心 (DCB) 新聞 ──
+    try:
+        items += parse_rss_feed(
+            "https://www.dcb.org.tw/news/rss",
+            "生技中心", limit=10, kw_filter=kw
+        )
+    except Exception as e:
+        print(f"  生技中心: {e}")
+
+    # ── Google News 台灣中文（多組關鍵字廣撒）──
+    for q in [
+        "再生醫療 台灣",
+        "細胞治療 台灣 臨床",
+        "幹細胞 台灣 生技",
+        "基因治療 台灣 衛福部",
+        "CAR-T 台灣",
+        "訊聯 長聖 亞果 宣捷",
+        "生技股 再生醫療 上市",
+        "台灣 免疫細胞 治療 核准",
+    ]:
+        try:
+            items += google_news_rss(q, lang="zh-TW", country="TW", limit=8)
+        except Exception as e:
+            print(f"  GNews TW ({q[:10]}): {e}")
+
+    # ── NewsAPI（若有金鑰）──
+    if NEWSAPI_KEY:
         try:
             q = urllib.parse.quote("再生醫療 OR 細胞治療 台灣")
             url = (f"https://newsapi.org/v2/everything?q={q}&language=zh"
-                   f"&sortBy=publishedAt&pageSize=15&apiKey={NEWSAPI_KEY}")
+                   f"&sortBy=publishedAt&pageSize=20&apiKey={NEWSAPI_KEY}")
             data = json.loads(fetch_url(url))
             for a in data.get("articles", []):
                 items.append({
@@ -475,13 +550,6 @@ def fetch_taiwan_market():
                 })
         except Exception as e:
             print(f"  NewsAPI: {e}")
-
-    # Google News 中文台灣
-    for q in ["再生醫療 台灣 生技", "細胞治療 台灣 臨床", "基因治療 台灣 上市"]:
-        try:
-            items += google_news_rss(q, lang="zh-TW", country="TW", limit=6)
-        except Exception as e:
-            print(f"  GNews TW: {e}")
 
     save_json("taiwan-market.json", "taiwan", dedup(items))
 
