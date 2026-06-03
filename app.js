@@ -68,16 +68,182 @@ function selectPersona(personaId) {
   document.getElementById('persona-screen').classList.add('hidden');
   document.getElementById('main-app').classList.remove('hidden');
   updatePersonaBtn(personaId);
-  loadAllData().then(() => applyPersonaFilter(personaId));
+  loadAllData().then(() => {
+    applyPersonaFilter(personaId);
+    // 全部瀏覽確保 tabs/controls 顯示
+    if (personaId === 'all') {
+      document.querySelector('.module-tabs')?.classList.remove('hidden');
+      document.querySelector('.controls-bar')?.classList.remove('hidden');
+    }
+  });
 }
 
 function applyPersonaFilter(personaId) {
-  const persona = PERSONAS[personaId];
-  if (!persona || persona.modules.length === 0) return; // 全部瀏覽不篩選
-  // 預設切到第一個對應模組 tab
-  const firstModule = persona.modules[0];
-  const btn = document.querySelector(`.tab-btn[data-module="${firstModule}"]`);
-  if (btn) filterModule(firstModule, btn);
+  // 依角色切換 UI 模式
+  const tabs = document.querySelector('.module-tabs');
+  const controls = document.querySelector('.controls-bar');
+  const stockTicker = document.getElementById('stock-ticker');
+
+  if (personaId === 'all') {
+    tabs?.classList.remove('hidden');
+    controls?.classList.remove('hidden');
+    renderCards(allCards);
+    return;
+  }
+
+  // 各角色專屬 dashboard，隱藏通用 tabs
+  tabs?.classList.add('hidden');
+  controls?.classList.add('hidden');
+
+  if (personaId === 'investor') {
+    stockTicker?.classList.remove('hidden');
+    renderDashboardInvestor();
+  } else if (personaId === 'researcher') {
+    stockTicker?.classList.add('hidden');
+    renderDashboardResearcher();
+  } else if (personaId === 'industry') {
+    stockTicker?.classList.add('hidden');
+    renderDashboardIndustry();
+  }
+}
+
+// ── 投資人 Dashboard ──
+function renderDashboardInvestor() {
+  const funding    = allCards.filter(c => c.moduleId === 'funding');
+  const taiwan     = allCards.filter(c => c.moduleId === 'taiwan');
+  const competitor = allCards.filter(c => c.moduleId === 'competitor');
+  const container  = document.getElementById('cards-container');
+
+  const kpiHtml = `
+    <div class="dash-kpi-bar">
+      <div class="dash-kpi">
+        <span class="dash-kpi-num">${funding.length}</span>
+        <span class="dash-kpi-label">💰 資金動向</span>
+      </div>
+      <div class="dash-kpi">
+        <span class="dash-kpi-num">${taiwan.length}</span>
+        <span class="dash-kpi-label">🇹🇼 台灣市場</span>
+      </div>
+      <div class="dash-kpi">
+        <span class="dash-kpi-num">${competitor.length}</span>
+        <span class="dash-kpi-label">🎯 競爭動態</span>
+      </div>
+    </div>`;
+
+  const col = (title, icon, items, modId) => {
+    const mod = MODULES.find(m => m.id === modId);
+    const cards = items.slice(0, 6).map(c => cardHTML(c, mod, '')).join('');
+    return `<div class="dash-col">
+      <div class="dash-col-header"><span>${icon}</span><span>${title}</span><span class="dash-col-count">${items.length}</span></div>
+      ${cards}
+    </div>`;
+  };
+
+  container.innerHTML = `
+    ${kpiHtml}
+    <div class="dash-grid-3">
+      ${col('資金動向', '💰', funding, 'funding')}
+      ${col('台灣市場', '🇹🇼', taiwan, 'taiwan')}
+      ${col('競爭動態', '🎯', competitor, 'competitor')}
+    </div>`;
+
+  currentCards = [...funding, ...taiwan, ...competitor];
+}
+
+// ── 研究/醫療 Dashboard ──
+function renderDashboardResearcher() {
+  const research   = allCards.filter(c => c.moduleId === 'research');
+  const regulation = allCards.filter(c => c.moduleId === 'regulation');
+  const container  = document.getElementById('cards-container');
+
+  const latestResearch = research[0];
+  const heroHtml = latestResearch ? `
+    <div class="dash-hero">
+      <div class="dash-hero-label">🔬 最新臨床突破</div>
+      <div class="dash-hero-title">${escHtml(decodeEntities(latestResearch.title || ''))}</div>
+      <div class="dash-hero-meta">${escHtml(latestResearch.source || '')} · ${formatDateShort(latestResearch.date)}</div>
+      ${latestResearch.url ? `<a class="dash-hero-link" href="${escHtml(latestResearch.url)}" target="_blank" rel="noopener">查看原文 →</a>` : ''}
+    </div>` : '';
+
+  const kpiHtml = `
+    <div class="dash-kpi-bar">
+      <div class="dash-kpi">
+        <span class="dash-kpi-num">${research.length}</span>
+        <span class="dash-kpi-label">🔬 臨床突破</span>
+      </div>
+      <div class="dash-kpi">
+        <span class="dash-kpi-num">${regulation.length}</span>
+        <span class="dash-kpi-label">⚖️ 法規動態</span>
+      </div>
+    </div>`;
+
+  const researchMod   = MODULES.find(m => m.id === 'research');
+  const regulationMod = MODULES.find(m => m.id === 'regulation');
+
+  container.innerHTML = `
+    ${heroHtml}
+    ${kpiHtml}
+    <div class="dash-grid-2 dash-grid-7-3">
+      <div class="dash-col">
+        <div class="dash-col-header"><span>🔬</span><span>臨床突破</span><span class="dash-col-count">${research.length}</span></div>
+        ${research.slice(0, 10).map(c => cardHTML(c, researchMod, '')).join('')}
+      </div>
+      <div class="dash-col">
+        <div class="dash-col-header"><span>⚖️</span><span>法規動態</span><span class="dash-col-count">${regulation.length}</span></div>
+        ${regulation.slice(0, 8).map(c => cardHTML(c, regulationMod, '')).join('')}
+      </div>
+    </div>`;
+
+  currentCards = [...research, ...regulation];
+}
+
+// ── 產業觀察 Dashboard ──
+function renderDashboardIndustry() {
+  const apac       = allCards.filter(c => c.moduleId === 'apac');
+  const tourism    = allCards.filter(c => c.moduleId === 'tourism');
+  const competitor = allCards.filter(c => c.moduleId === 'competitor');
+  const container  = document.getElementById('cards-container');
+
+  const kpiHtml = `
+    <div class="dash-kpi-bar">
+      <div class="dash-kpi">
+        <span class="dash-kpi-num">${apac.length}</span>
+        <span class="dash-kpi-label">🌏 亞太合作</span>
+      </div>
+      <div class="dash-kpi">
+        <span class="dash-kpi-num">${tourism.length}</span>
+        <span class="dash-kpi-label">✈️ 醫療旅遊</span>
+      </div>
+      <div class="dash-kpi">
+        <span class="dash-kpi-num">${competitor.length}</span>
+        <span class="dash-kpi-label">🎯 競爭動態</span>
+      </div>
+    </div>`;
+
+  const apacMod      = MODULES.find(m => m.id === 'apac');
+  const tourismMod   = MODULES.find(m => m.id === 'tourism');
+  const competitorMod = MODULES.find(m => m.id === 'competitor');
+
+  container.innerHTML = `
+    ${kpiHtml}
+    <div class="dash-grid-2 dash-grid-6-4">
+      <div class="dash-col">
+        <div class="dash-col-header"><span>🌏</span><span>亞太合作</span><span class="dash-col-count">${apac.length}</span></div>
+        ${apac.slice(0, 8).map(c => cardHTML(c, apacMod, '')).join('')}
+      </div>
+      <div class="dash-col dash-col-stack">
+        <div>
+          <div class="dash-col-header"><span>✈️</span><span>醫療旅遊</span><span class="dash-col-count">${tourism.length}</span></div>
+          ${tourism.slice(0, 4).map(c => cardHTML(c, tourismMod, '')).join('')}
+        </div>
+        <div>
+          <div class="dash-col-header"><span>🎯</span><span>競爭動態</span><span class="dash-col-count">${competitor.length}</span></div>
+          ${competitor.slice(0, 4).map(c => cardHTML(c, competitorMod, '')).join('')}
+        </div>
+      </div>
+    </div>`;
+
+  currentCards = [...apac, ...tourism, ...competitor];
 }
 
 function updatePersonaBtn(personaId) {
