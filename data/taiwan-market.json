@@ -1,28 +1,7 @@
 {
   "module": "taiwan",
-  "updated": "2026-06-03T02:38:20.680908+00:00",
+  "updated": "2026-06-03T03:36:21.967676+00:00",
   "items": [
-    {
-      "title": "食藥署長姜至剛：台灣要走在世界前面 再生醫療產品審查加速，台廠「掛號」申請輔導",
-      "summary": "食藥署長姜至剛：台灣要走在世界前面 再生醫療產品審查加速，台廠「掛號」申請輔導 財訊",
-      "source": "財訊",
-      "date": "2026-03-25",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HcnVieWo5VHFYeXBPczNRRkpEVWdvNzloZnFOcEhxTDg4ay1xLVpOX2sxUXhuNHhLWEdmdlk0NmJYT2NLQ0RfWE1jQkxHcXlXYU4weExXNThKdnhTTFJUZUV4UkZpZDVZN0U4MHRaOGxSaWdQRldBalpCTQ?oc=5"
-    },
-    {
-      "title": "再生醫療雙法正式上路 生技廠搶搭順風車搶攻商機",
-      "summary": "再生醫療雙法正式上路 生技廠搶搭順風車搶攻商機 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "date": "2026-01-01",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Jc2dnbnRib1FqY2prQnEwWGptSTA4QzB1OVpkU2F6NEN5eFpxcUtjWnFzaFBQYzNVb0Zwb3loQXRfbjhkTFBxVWRqR2J1T2c?oc=5"
-    },
-    {
-      "title": "石崇良：施政展望首推組改 專案輔導再生醫療產品上市",
-      "summary": "石崇良：施政展望首推組改 專案輔導再生醫療產品上市 rti.org.tw",
-      "source": "rti.org.tw",
-      "date": "2026-02-03",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91Q0tYREdPQkhFRWlFcWpxdXNIZ3FxM1NxT2JZWXpyMGxjaTlvVmlKcGFLS2VqaVlaODU0d2FURmw2VlBfOHhsNU82SDFXOVZuQUFCemtlVQ?oc=5"
-    },
     {
       "title": "誰是1號神祕台廠？再生醫療力拚上市 食藥署爆已有企業「掛號」了",
       "summary": "誰是1號神祕台廠？再生醫療力拚上市 食藥署爆已有企業「掛號」了 中時新聞網",
@@ -31,11 +10,25 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ObGVXcmpkQVJXSlJCdVFPWHZGQUxna2VXeTljNkxEekhHcFNGalVUUGVxc2dtVjdyYWlYSjFQTDBHNnV0eDlFZ2EyZ21UZk5EYjJBT3YtdGRVbmZsaEsyNWhPUkRJSWFNUGI4V0pn?oc=5"
     },
     {
-      "title": "【北美智權報395期】再生醫療雙法2026正式上路，外泌體產業高速成長是商機還是亂象？ | 2026 年 1 月 1 日",
-      "summary": "【北美智權報395期】再生醫療雙法2026正式上路，外泌體產業高速成長是商機還是亂象？ | 2026 年 1 月 1 日 北美智權",
-      "source": "北美智權",
-      "date": "2026-01-01",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BUElyS1hUNkRYN1R3ei1ia3libDlncFo0Z3JnMVlucW1ha05oZUg3U3NQTVczdXJwbDBzbG05OVZFbGl2Wm1CMw?oc=5"
+      "title": "食藥署長姜至剛：台灣要走在世界前面 再生醫療產品審查加速，台廠「掛號」申請輔導",
+      "summary": "食藥署長姜至剛：台灣要走在世界前面 再生醫療產品審查加速，台廠「掛號」申請輔導 財訊",
+      "source": "財訊",
+      "date": "2026-03-25",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HcnVieWo5VHFYeXBPczNRRkpEVWdvNzloZnFOcEhxTDg4ay1xLVpOX2sxUXhuNHhLWEdmdlk0NmJYT2NLQ0RfWE1jQkxHcXlXYU4weExXNThKdnhTTFJUZUV4UkZpZDVZN0U4MHRaOGxSaWdQRldBalpCTQ?oc=5"
+    },
+    {
+      "title": "搶救心臟衰竭與帕金森氏症，全球首批「iPS 細胞」再生醫療產品日本獲准上市",
+      "summary": "搶救心臟衰竭與帕金森氏症，全球首批「iPS 細胞」再生醫療產品日本獲准上市 TechNews 科技新報",
+      "source": "TechNews 科技新報",
+      "date": "2026-03-18",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc2dpZmx6N0xiSWhodWZlbmtja3ItMC1IVzFzclFxRWpURXVid2FXbThqTWZkcGQ0ZUlnN2VrM01LVlFLTlB3NlY4RGo4UUFJeFU5RVRyWEcxMHpBQktHX3RQa2x6dVJ1MXBBMFJKRGs1WXBsNG1UYV84RmNDb3VmTnZGYmNmUm5pejJVT2pMVFczV28?oc=5"
+    },
+    {
+      "title": "石崇良：施政展望首推組改 專案輔導再生醫療產品上市",
+      "summary": "石崇良：施政展望首推組改 專案輔導再生醫療產品上市 rti.org.tw",
+      "source": "rti.org.tw",
+      "date": "2026-02-03",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91Q0tYREdPQkhFRWlFcWpxdXNIZ3FxM1NxT2JZWXpyMGxjaTlvVmlKcGFLS2VqaVlaODU0d2FURmw2VlBfOHhsNU82SDFXOVZuQUFCemtlVQ?oc=5"
     },
     {
       "title": "衛福部長石崇良拋組織改造藍圖 再生醫療產品拚今年上市",
@@ -52,18 +45,18 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTTC1jOUtZcXlkeUxseGs2WHAtWXh3T3dvLTQ2TE9TZXlfRlo1LU56d0tnbUxGZ3FCZVNtZmk5Mml2aktDOVlBTm5aM0JmeldLT1BBUE42b1ZGX3RDUlphcEhnN2ExRTc1TmZzbUF3dw?oc=5"
     },
     {
-      "title": "搶救心臟衰竭與帕金森氏症，全球首批「iPS 細胞」再生醫療產品日本獲准上市",
-      "summary": "搶救心臟衰竭與帕金森氏症，全球首批「iPS 細胞」再生醫療產品日本獲准上市 TechNews 科技新報",
-      "source": "TechNews 科技新報",
-      "date": "2026-03-18",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc2dpZmx6N0xiSWhodWZlbmtja3ItMC1IVzFzclFxRWpURXVid2FXbThqTWZkcGQ0ZUlnN2VrM01LVlFLTlB3NlY4RGo4UUFJeFU5RVRyWEcxMHpBQktHX3RQa2x6dVJ1MXBBMFJKRGs1WXBsNG1UYV84RmNDb3VmTnZGYmNmUm5pejJVT2pMVFczV28?oc=5"
+      "title": "再生醫療雙法正式上路 生技廠搶搭順風車搶攻商機",
+      "summary": "再生醫療雙法正式上路 生技廠搶搭順風車搶攻商機 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "date": "2026-01-01",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Jc2dnbnRib1FqY2prQnEwWGptSTA4QzB1OVpkU2F6NEN5eFpxcUtjWnFzaFBQYzNVb0Zwb3loQXRfbjhkTFBxVWRqR2J1T2c?oc=5"
     },
     {
-      "title": "拚台灣第一個出海的細胞新藥！仲恩生醫明年首季申請幹細胞新藥日本臨時藥證",
-      "summary": "拚台灣第一個出海的細胞新藥！仲恩生醫明年首季申請幹細胞新藥日本臨時藥證 自由財經",
-      "source": "自由財經",
-      "date": "2025-12-30",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05UUlYZlVMeHN2dXJDOTFPeGVWTE50R1BHRVhMOEg1QTR6TDlMZkJsOFZlelRITmJIT3FMUWJsTEVpODZiMU5BcUtmdno2dWxGS1R2TzJMR0NBUWtqUDhn0gFkQVVfeXFMUDd0UXFuUEhGLXp3bndOUmZqZVNRWDc5QVNWVE1BRlZVczVNRG9SMXYzR2JFMjlOQ0RrVy1yYjdfTUdTV0I4Q21uRVNTRk4wZXRCN3NzcjczckVjU2lZdjJDdTdJRA?oc=5"
+      "title": "【北美智權報395期】再生醫療雙法2026正式上路，外泌體產業高速成長是商機還是亂象？ | 2026 年 1 月 1 日",
+      "summary": "【北美智權報395期】再生醫療雙法2026正式上路，外泌體產業高速成長是商機還是亂象？ | 2026 年 1 月 1 日 北美智權",
+      "source": "北美智權",
+      "date": "2026-01-01",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BUElyS1hUNkRYN1R3ei1ia3libDlncFo0Z3JnMVlucW1ha05oZUg3U3NQTVczdXJwbDBzbG05OVZFbGl2Wm1CMw?oc=5"
     },
     {
       "title": "看好生醫前景 三顧私募近4億",
@@ -71,6 +64,13 @@
       "source": "旺得富理財網",
       "date": "2026-01-01",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZjl4TGlleU9vb3JhY2I2R2xnSG5tYUN2dGpuVEFvaWhCY1pab0pFYTVTTHJFZGx0RnpVVjU0My1sdUE2dkhkaU9HOV9TSEV4b0xEcXMyX01xeW5uRWRfUUtrNi1qbGpWUmc?oc=5"
+    },
+    {
+      "title": "拚台灣第一個出海的細胞新藥！仲恩生醫明年首季申請幹細胞新藥日本臨時藥證",
+      "summary": "拚台灣第一個出海的細胞新藥！仲恩生醫明年首季申請幹細胞新藥日本臨時藥證 自由財經",
+      "source": "自由財經",
+      "date": "2025-12-30",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05UUlYZlVMeHN2dXJDOTFPeGVWTE50R1BHRVhMOEg1QTR6TDlMZkJsOFZlelRITmJIT3FMUWJsTEVpODZiMU5BcUtmdno2dWxGS1R2TzJMR0NBUWtqUDhn0gFkQVVfeXFMUDd0UXFuUEhGLXp3bndOUmZqZVNRWDc5QVNWVE1BRlZVczVNRG9SMXYzR2JFMjlOQ0RrVy1yYjdfTUdTV0I4Q21uRVNTRk4wZXRCN3NzcjczckVjU2lZdjJDdTdJRA?oc=5"
     }
   ]
 }

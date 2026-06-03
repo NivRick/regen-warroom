@@ -1,19 +1,19 @@
 {
   "module": "research",
-  "updated": "2026-06-03T02:38:21.056324+00:00",
+  "updated": "2026-06-03T03:36:22.617400+00:00",
   "items": [
     {
       "title": "Efficacy and safety of allogeneic CD19 CAR NK-cell therapy in systemic lupus erythematosus: a case series in China.",
       "summary": "Lately, autologous CD19-targeting chimeric antigen receptor (CAR) T cells have shown excellent efficacy in treatment of autoimmune diseases, but with great safety concerns, such as infections. In this study, we aimed to evaluate the safety, tolerability, and efficacy of allogeneic CD19 CAR natural k...",
       "source": "PubMed",
-      "date": "2026-12-01",
+      "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41240964/"
     },
     {
       "title": "Impact of AGT103-T cell and gene therapy on intact HIV proviral reservoirs.",
       "summary": "To assess the impact of AGT103-T, an autologous CD4 + T-cell and gene therapy, on HIV proviral DNA reservoir.",
       "source": "PubMed",
-      "date": "2026-07-01",
+      "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41670418/"
     },
     {
@@ -73,13 +73,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41779003/"
     },
     {
-      "title": "CMV-specific T-cell receptor-engineered T-cell therapy as first-line treatment for CMV reactivation after haploidentical hematopoietic stem cell transplantation: a phase 2 trial.",
-      "summary": "Cytomegalovirus (CMV) reactivation is a major cause of mortality following haploidentical hematopoietic stem cell transplantation (haplo-HSCT). The application of conventional therapies is limited by hematologic and renal toxicities (ganciclovir and foscarnet) or time-consuming preparation (CMV-spec...",
-      "source": "PubMed",
-      "date": "2026-01-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42220477/"
-    },
-    {
       "title": "Long-term efficacy and safety results of betibeglogene autotemcel gene therapy for transfusion-dependent β-thalassemia.",
       "summary": "Betibeglogene autotemcel (beti-cel) gene therapy for transfusion-dependent β-thalassemia (TDT) involves autologous transplantation of hematopoietic stem and progenitor cells transduced with a modified β-globin gene to produce functional adult hemoglobin (Hb) containing βA-T87Q-globin (HbAT87Q). Sixt...",
       "source": "PubMed",
@@ -94,18 +87,25 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41693207/"
     },
     {
-      "title": "MesenSistem-EB: systemic haploidentical mesenchymal stem cell therapy in recessive dystrophic epidermolysis bullosa associated with clinical benefits and correlated with MCP1 and sCD40L dynamics.",
-      "summary": "Recessive dystrophic epidermolysis bullosa (RDEB) is a devastating genodermatosis caused by biallelic",
-      "source": "PubMed",
-      "date": "2026-01-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42164509/"
-    },
-    {
       "title": "Changes in Circulating Biomarkers in Patients With Ischemic Heart Failure After Treatment With Autologous Mesenchymal Stromal Cells and c-Kit-Positive Cardiac Cells, Alone or in Combination: Results From the Cardiovascular Cell Therapy Research Network CONCERT-HF Clinical Trial.",
       "summary": "In ischemic heart failure, the biological mechanisms underlying the benefits of mesenchymal stromal cells (MSCs) and c-kit-positive cardiac progenitor cells (CPCs) remain incompletely understood.",
       "source": "PubMed",
       "date": "2026-05-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42003602/"
+    },
+    {
+      "title": "CMV-specific T-cell receptor-engineered T-cell therapy as first-line treatment for CMV reactivation after haploidentical hematopoietic stem cell transplantation: a phase 2 trial.",
+      "summary": "Cytomegalovirus (CMV) reactivation is a major cause of mortality following haploidentical hematopoietic stem cell transplantation (haplo-HSCT). The application of conventional therapies is limited by hematologic and renal toxicities (ganciclovir and foscarnet) or time-consuming preparation (CMV-spec...",
+      "source": "PubMed",
+      "date": "2026-01-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42220477/"
+    },
+    {
+      "title": "MesenSistem-EB: systemic haploidentical mesenchymal stem cell therapy in recessive dystrophic epidermolysis bullosa associated with clinical benefits and correlated with MCP1 and sCD40L dynamics.",
+      "summary": "Recessive dystrophic epidermolysis bullosa (RDEB) is a devastating genodermatosis caused by biallelic",
+      "source": "PubMed",
+      "date": "2026-01-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42164509/"
     }
   ]
 }
