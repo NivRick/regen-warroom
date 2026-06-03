@@ -1,6 +1,6 @@
 {
   "module": "research",
-  "updated": "2026-06-03T03:36:22.617400+00:00",
+  "updated": "2026-06-03T03:45:34.328801+00:00",
   "items": [
     {
       "title": "Efficacy and safety of allogeneic CD19 CAR NK-cell therapy in systemic lupus erythematosus: a case series in China.",
@@ -15,6 +15,34 @@
       "source": "PubMed",
       "date": "2026-06-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41670418/"
+    },
+    {
+      "title": "[PHASE3] Comparison of Neurocognitive Outcome in Two Standard Regimen for Treatment of Low-risk Medulloblastoma",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Nationwide Children's Hospital｜This is a trial to compare neurocognitive outcomes in the intent-to-treat population 2.5 years after diagnosis between patients with newly diagnosed, non-metastatic, SHH-activated, TP53-wt, non-MYC amplified MF randomized to the interventional arms A",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-06-03",
+      "url": "https://clinicaltrials.gov/study/NCT07291102"
+    },
+    {
+      "title": "Circio and GenAssist Collaborate on Gene Therapy for Muscle Disease and In Vivo Cell Therapy",
+      "summary": "An official at Circio says that by integrating Circio's and GenAssist's complementary technologies, the parties aim to focus on the development of a joint next generation of AAV gene therapy candidates.\nThe post  Therapy for Muscle Disease and <i>In ",
+      "source": "GEN News",
+      "date": "2026-06-02",
+      "url": "https://www.genengnews.com/topics/omics/circio-and-genassist-collaborate-on-gene-therapy-for-muscle-disease-and-in-vivo-cell-therapy/"
+    },
+    {
+      "title": "Tumor-targeted interferon-α gene therapy for glioblastoma: a phase 1 trial.",
+      "summary": "Glioblastoma (GBM) is an immunologically cold brain tumor with poor outcome, characterized by a myeloid-driven immunosuppressive microenvironment. Here we report an interim analysis of a first-in-human phase 1/2a dose-escalation study evaluating Temferon-a genetically engineered autologous stem cell...",
+      "source": "PubMed",
+      "date": "2026-06-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42225991/"
+    },
+    {
+      "title": "Investigational approaches to multiple sclerosis therapy.",
+      "summary": "Multiple sclerosis (MS) research is entering a new therapeutic era. Beyond relapse rate reduction, the prevention of disability progression and, ideally, even the avoidance of disease development are now being formulated as new therapeutic goals. This review summarizes emerging treatment strategies ...",
+      "source": "PubMed",
+      "date": "2026-06-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42051236/"
     },
     {
       "title": "A first-in-human phase I clinical trial investigating the safety and efficacy of repeat dosing MSCTRAIL cell therapy in addition to chemotherapy and immunotherapy in patients with advanced lung cancer.",
@@ -45,6 +73,27 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/40932279/"
     },
     {
+      "title": "Results of a Phase 1 Open-Label, Dose-Escalation Study of Gene Therapy With AAV2-hAQP1 for Grade 2 and 3 Radiation-Induced Late Xerostomia and Parotid Gland Hypofunction.",
+      "summary": "Grade 2 and 3 late xerostomia is a chronic, debilitating complication of radiation therapy for head and neck cancers. We assessed the safety and efficacy of AAV2-hAQP1 gene therapy as a treatment for this condition.",
+      "source": "PubMed",
+      "date": "2026-05-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42216935/"
+    },
+    {
+      "title": "Intrathecal Allogeneic B7-H3-targeted CAR γδ T Cells for Leptomeningeal Metastasis from Solid Tumors: Safety, Efficacy, and Immunological Dynamics in a Phase 1 Trial.",
+      "summary": "To evaluate intrathecal QH104, an allogeneic B7 homolog 3 (B7-H3)-targeted chimeric antigen receptor (CAR) γδ T-cell therapy, in patients with leptomeningeal metastasis (LM).",
+      "source": "PubMed",
+      "date": "2026-05-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42207176/"
+    },
+    {
+      "title": "Observations on an Open-Label Phase 1/2 Dopamine Gene Therapy Trial (OXB-102/Axo-Lenti-PD) in People with Parkinson's Disease.",
+      "summary": "SUNRISE-PD was a dose-escalating, phase 1/2 study investigating a second-generation lentiviral vector gene therapy delivering the genes for dopamine synthesis (OXB-102) to treat Parkinson's disease (PD). The trial was prematurely terminated due to insolvency of the sponsor.",
+      "source": "PubMed",
+      "date": "2026-05-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42206679/"
+    },
+    {
       "title": "Efficacy and safety of durcabtagene autoleucel in a phase 1 trial for patients with relapsed/refractory multiple myeloma.",
       "summary": "Traditional manufacturing of B cell maturation antigen (BCMA)-targeted chimeric antigen receptor (CAR) T cell therapies is prolonged, leading to reduced patient access, T cell exhaustion, and consequently limiting therapeutic efficacy. To address this issue, we developed durcabtagene autoleucel, a B...",
       "source": "PubMed",
@@ -52,60 +101,116 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42202046/"
     },
     {
-      "title": "Protocol for a phase I single-centre dose escalation trial of autologous thymus derived regulatory T cells in paediatric heart transplant recipients to prevent cardiac allograft vasculopathy (ATT-Heart).",
-      "summary": "Cardiac allograft vasculopathy (CAV) is a critical predictor of the long-term success of heart transplantation and once it is established, progression to graft dysfunction and loss is inevitable, despite adherence to immunosuppression and medications that ameliorate cardiac risk factors. Regulatory ...",
+      "title": "Optimisation of a parallel CAR for B-cell lymphoma via ITAM attenuation and target specificity validation.",
+      "summary": "Second generation CAR T-cells have transformed the management of B-cell malignancy. However, in vivo functional persistence is often limiting, highlighting a key mechanism of treatment failure.",
       "source": "PubMed",
       "date": "2026-05-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42167954/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42200445/"
     },
     {
-      "title": "Clinical outcomes and spatial transcriptomic profiles of CD19/20 CAR-T therapy in relapsed or refractory B-cell non-Hodgkin's lymphoma.",
-      "summary": "Relapsed or refractory (R/R) B-cell non-Hodgkin's lymphoma (B-NHL) remains a major therapeutic challenge despite CD19-directed chimeric antigen receptor (CAR) T-cell therapies, with treatment failure often driven by antigen escape and limited CAR-T persistence. Dual targeting of CD19 and CD20 may mi...",
+      "title": "Parkinson's disease drug therapies in the clinical trial pipeline: 2015-2024.",
+      "summary": "BackgroundThere is an urgent need to find more effective treatments for motor and non-motor symptoms of Parkinson's disease (PD) and to ultimately discover therapies to slow, stop or reverse the condition.ObjectiveTo provide an overview of PD drug therapies in Phase 1-3 clinical trials between 2015-...",
       "source": "PubMed",
       "date": "2026-05-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42144261/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42187233/"
     },
     {
-      "title": "Allogeneic B7-H3-Targeted CAR Vδ1T-cell Therapy in Advanced Solid Tumors: A Phase I Study.",
-      "summary": "The aim of the study was to evaluate the safety, pharmacokinetics, and preliminary clinical activity of UTAA06, an \"off-the-shelf\" allogeneic B7-H3-targeted chimeric antigen receptor (CAR) Vδ1T-cell therapy, in patients with pretreated, advanced B7-H3-positive solid tumors.",
+      "title": "Autologous macrophage therapy increases transplant-free survival in cirrhosis: Long-term follow-up of a phase 2 clinical trial.",
+      "summary": "Liver cirrhosis is a major contributor to global morbidity and mortality, and transplantation remains the only cure for end-stage disease. Preclinical studies have indicated that macrophage injections reduce inflammation, resolve fibrosis, and stimulate liver regeneration. The phase 1/2 Macrophage T...",
       "source": "PubMed",
       "date": "2026-05-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41779003/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42184827/"
     },
     {
-      "title": "Long-term efficacy and safety results of betibeglogene autotemcel gene therapy for transfusion-dependent β-thalassemia.",
-      "summary": "Betibeglogene autotemcel (beti-cel) gene therapy for transfusion-dependent β-thalassemia (TDT) involves autologous transplantation of hematopoietic stem and progenitor cells transduced with a modified β-globin gene to produce functional adult hemoglobin (Hb) containing βA-T87Q-globin (HbAT87Q). Sixt...",
+      "title": "Autologous T Cell Antigen Coupler Targeting HER2 (TAC01-HER2) in Advanced or Metastatic Solid Tumors.",
+      "summary": "The T cell antigen coupler (TAC) is a novel genetically engineered receptor that recruits the native T cell receptor upon recognition of an antigen. The downstream activation of TAC T cells has been effective against tumors in preclinical models and safer than chimeric antigen receptor T cells. Huma...",
       "source": "PubMed",
       "date": "2026-05-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41525466/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42177028/"
     },
     {
-      "title": "Safety and efficacy of hemobeglogene autotemcel(hemo-cel) gene therapy in five patients with transfusion-dependent β-thalassemia.",
-      "summary": "Lentiviral vector-mediated hematopoietic stem cell gene therapy (HSC-GT) has emerged as a curative alternative to allogeneic transplantation for patients with transfusion-dependent β-thalassemia (TDT). However, challenges such as delayed platelet engraftment, variable transgene expression, and limit...",
+      "title": "Anti-BCMA/GPRC5D CAR T in relapsed or refractory multiple myeloma patients with extraosseous extramedullary disease.",
+      "summary": "Relapsed or refractory multiple myeloma (RRMM) patients with extraosseous extramedullary disease (EMD) have inferior outcomes and lack effective therapies. We developed anti-BCMA/GPRC5D bispecific chimeric antigen receptors (CARs) to investigate the activity and safety of the CAR T cells in patients...",
       "source": "PubMed",
       "date": "2026-05-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41693207/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42166352/"
     },
     {
-      "title": "Changes in Circulating Biomarkers in Patients With Ischemic Heart Failure After Treatment With Autologous Mesenchymal Stromal Cells and c-Kit-Positive Cardiac Cells, Alone or in Combination: Results From the Cardiovascular Cell Therapy Research Network CONCERT-HF Clinical Trial.",
-      "summary": "In ischemic heart failure, the biological mechanisms underlying the benefits of mesenchymal stromal cells (MSCs) and c-kit-positive cardiac progenitor cells (CPCs) remain incompletely understood.",
+      "title": "Standard-of-care ciltacabtagene autoleucel in earlier versus later lines of therapy for relapsed or refractory multiple myeloma: a nationwide registry analysis.",
+      "summary": "Ciltacabtagene autoleucel (cilta-cel) is a BCMA-directed chimeric antigen receptor (CAR) T-cell therapy approved for relapsed or refractory multiple myeloma (RRMM). Following the CARTITUDE-1 results in heavily pretreated patients, the randomized phase 3 CARTITUDE-4 trial demonstrated superior progre...",
       "source": "PubMed",
       "date": "2026-05-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42003602/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42163304/"
     },
     {
-      "title": "CMV-specific T-cell receptor-engineered T-cell therapy as first-line treatment for CMV reactivation after haploidentical hematopoietic stem cell transplantation: a phase 2 trial.",
-      "summary": "Cytomegalovirus (CMV) reactivation is a major cause of mortality following haploidentical hematopoietic stem cell transplantation (haplo-HSCT). The application of conventional therapies is limited by hematologic and renal toxicities (ganciclovir and foscarnet) or time-consuming preparation (CMV-spec...",
+      "title": "Engineering functionality-optimized fully human B7-H3 CAR T cells for enhanced solid tumor therapy.",
+      "summary": "B7-H3 is a cell surface protein overexpressed in many solid tumors and an attractive target for chimeric antigen receptor (CAR) T cell therapy. The most clinically advanced B7-H3 CARs derive from murine monoclonal antibodies (mAbs) 376.96 and MGA271 and are now in phase 1/2 trials. However, non-huma...",
       "source": "PubMed",
+      "date": "2026-05-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42061408/"
+    },
+    {
+      "title": "IND-enabling safety and efficacy of RPESC-RPE-4W, an adult RPE progenitor cell therapy for dry age-related macular degeneration.",
+      "summary": "Dry age-related macular degeneration (AMD) is a prevalent blinding disorder characterized by loss of retinal pigment epithelium (RPE) cells and resulting central vision impairment. Here, we describe preclinical studies supporting an investigational new drug (IND) application for adult RPE stem cell-...",
+      "source": "PubMed",
+      "date": "2026-05-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42055007/"
+    },
+    {
+      "title": "[N/A] CHOICE:Decision Factor of EGFR-TKI in Chinese IV NSCLC",
+      "summary": "狀態：RECRUITING｜主辦：AstraZeneca｜This non-interventional, cross-sectional study aims to investigate treatment preferences from a sample of physicians and patients with experience of 1L EGFR-TKI for stage IV NSCLC by administering a survey, which primarily includes a DCE approach.",
+      "source": "ClinicalTrials.gov｜China",
+      "date": "2026-03-02",
+      "url": "https://clinicaltrials.gov/study/NCT07413757"
+    },
+    {
+      "title": "[PHASE1, PHASE2] Lung Functional Avoidance Radiotherapy Using Hyperpolarized Xenon MRI",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Xemed LLC｜Cancer radiation treatment plans that employ lung functional avoidance methods require 3D maps that differentiate regions of healthy lung function from regions of functional compromised tissue to deliver sufficient dose to the tumor while preserving ",
+      "source": "ClinicalTrials.gov｜Global",
+      "date": "2026-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT07355231"
+    },
+    {
+      "title": "[PHASE1] A Study of JNJ-90301900 in Combination With Chemoradiation Therapy in Participants With Locally Advanced Head and Neck Squamous Cell Carcinoma",
+      "summary": "狀態：RECRUITING｜主辦：Johnson & Johnson Enterprise Innovation Inc.｜This global, open-label, single arm, phase 1b study aims to learn more about whether a treatment called JNJ-90301900 is safe and effective when injected directly into tumors, along with standard chemotherapy and radiation therapy, for participants wi",
+      "source": "ClinicalTrials.gov｜United States, Japan, France",
+      "date": "2026-01-26",
+      "url": "https://clinicaltrials.gov/study/NCT07219212"
+    },
+    {
+      "title": "[NA] Zanubrutinib, Rituximab, and Lenalidomide in the First-Line Treatment of Marginal Zone Lymphoma",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Zhengzhou University｜The goal of this clinical trial is to learn if Zanubrutinib, Rituximab, and Lenalidomide works to treat marginal zone lymphoma as the first-line therapy. It will also learn about the safety of the treatment. The main questions it aims to answer are D",
+      "source": "ClinicalTrials.gov｜Global",
       "date": "2026-01-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42220477/"
+      "url": "https://clinicaltrials.gov/study/NCT07299331"
     },
     {
-      "title": "MesenSistem-EB: systemic haploidentical mesenchymal stem cell therapy in recessive dystrophic epidermolysis bullosa associated with clinical benefits and correlated with MCP1 and sCD40L dynamics.",
-      "summary": "Recessive dystrophic epidermolysis bullosa (RDEB) is a devastating genodermatosis caused by biallelic",
-      "source": "PubMed",
-      "date": "2026-01-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42164509/"
+      "title": "[PHASE2] Preconditioning With a Combination of Thiotepa, Cyclophosphamide, and Busulfan for Allogeneic Hematopoietic Stem Cell Transplantation in the Treatment of NK/T-Cell Lymphoma",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine｜Evaluation of the efficacy and safety of Thiotepa combined with Cyclophosphamide and Busulfan as conditioning regimen before allo-HSCT for the treatment of NK/T cell lymphoma",
+      "source": "ClinicalTrials.gov｜Global",
+      "date": "2025-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT07276737"
+    },
+    {
+      "title": "[PHASE2] Amping up With PemJAK",
+      "summary": "狀態：RECRUITING｜主辦：Seda S. Tolu｜The purpose of this study is to understand and determine if ruxolitinib added to pembrolizumab is safe and effective for the treatment of relapsed or refractory Hodgkin and non-Hodgkin lymphomas.",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2025-12-03",
+      "url": "https://clinicaltrials.gov/study/NCT07283822"
+    },
+    {
+      "title": "[NA] The Value of Using Mini-oral Pulse Steroid Therapy Along With Non Cultured Epidermal Cell Suspension (NCES) in Stable Resistant Vitiligo",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Cairo University｜Assessing the additive value of mini-oral pulse steroid therapy in surgical treatment of acral and difficult to treat sites of vitiligo",
+      "source": "ClinicalTrials.gov｜Egypt",
+      "date": "2025-05-12",
+      "url": "https://clinicaltrials.gov/study/NCT06974669"
+    },
+    {
+      "title": "[PHASE3] A Study of Sacituzumab Tirumotecan (Sac-TMT, MK-2870) as Monotherapy and in Combination With Pembrolizumab (MK-3475) in Participants With Triple-Negative Breast Cancer (MK-2870-011/TroFuse-011)",
+      "summary": "狀態：RECRUITING｜主辦：Merck Sharp & Dohme LLC｜Researchers want to know if sacituzumab tirumotecan given alone or with pembrolizumab can treat triple negative breast cancer (TNBC). The main goal of this study is to learn if people treated with sacituzumab tirumotecan alone or with pembrolizumab l",
+      "source": "ClinicalTrials.gov｜China, Germany, Denmark",
+      "date": "2025-03-16",
+      "url": "https://clinicaltrials.gov/study/NCT06841354"
     }
   ]
 }
