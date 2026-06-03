@@ -1,15 +1,17 @@
 """
-再生醫療戰情室 — 資料抓取腳本 v3
+再生醫療戰情室 — 資料抓取腳本 v4
 資料來源：
   台灣市場   → TWSE MOPS RSS、Google News、NewsAPI
   臨床突破   → PubMed、ClinicalTrials.gov API v2、GEN News、Nature Biotechnology
   亞太合作   → Google News、BioPharma Dive、FierceBiotech（過濾）
   法規動態   → FDA RSS、Google News（法規關鍵字）
-  資金動向   → STAT News、FierceBiotech、BioPharma Dive、Google News
+  資金動向   → STAT News、FierceBiotech、BioPharma Dive、EndPoints News、Google News
   醫療旅遊   → Google News RSS
 翻譯策略：
   預設       → Google Translate 非官方 API（免費、不需 Key）
-  升級版     → Gemini 1.5 Flash（免費額度 1500次/天，設定 GEMINI_API_KEY 環境變數）
+  升級版     → Gemini Flash（免費額度 1500次/天，設定 GEMINI_API_KEY 環境變數）
+過濾策略：
+  只保留 30 天內的資料（超過 30 天自動丟棄）
 """
 
 import json
@@ -19,7 +21,7 @@ import time
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 DATA_DIR = Path(__file__).parent.parent / "data"
@@ -63,8 +65,8 @@ GLOSSARY = {
     r"\bIPO\b":                   "首次公開上市（IPO）",
     r"\bventure capital\b":       "創投資金",
 }
-TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-CUTOFF = f"{int(TODAY[:4]) - 2}{TODAY[4:]}"   # 2 年前作為最舊門檻
+TODAY  = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+CUTOFF = (datetime.now(timezone.utc) - timedelta(days=30)).strftime("%Y-%m-%d")  # 30 天前
 
 
 # ════════════════════════════════════════════════
@@ -309,17 +311,17 @@ def save_json(filename, module_id, items):
     # 2. 翻譯英文內容 → 繁體中文白話
     cleaned = translate_items(cleaned, module_id)
 
-    # 3. 排序（新到舊）、取前 30 筆
+    # 3. 排序（新到舊）、取前 50 筆
     cleaned.sort(key=lambda x: x.get("date", ""), reverse=True)
 
     data = {
         "module": module_id,
         "updated": datetime.now(timezone.utc).isoformat(),
-        "items": cleaned[:30],
+        "items": cleaned[:50],
     }
     path = DATA_DIR / filename
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"  ✓ {filename}: {len(cleaned)} 筆（上限 30）")
+    print(f"  ✓ {filename}: {len(cleaned)} 筆（上限 50，30天內）")
 
 
 def clamp_date(date_str):
@@ -494,13 +496,16 @@ def fetch_global_research():
         query = urllib.parse.quote(
             "(regenerative medicine[Title/Abstract] OR cell therapy[Title/Abstract] OR "
             "stem cell therapy[Title/Abstract] OR CAR-T[Title/Abstract] OR "
-            "gene therapy[Title/Abstract] OR exosome therapy[Title/Abstract]) "
-            "AND (\"clinical trial\"[PT] OR \"phase 1\"[Title/Abstract] OR "
-            "\"phase 2\"[Title/Abstract] OR \"phase 3\"[Title/Abstract])"
+            "gene therapy[Title/Abstract] OR exosome therapy[Title/Abstract] OR "
+            "iPSC[Title/Abstract] OR organoid[Title/Abstract] OR "
+            "tissue engineering[Title/Abstract])"
         )
+        mindate = CUTOFF.replace("-", "/")
+        maxdate = TODAY.replace("-", "/")
         search_url = (
             "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
-            f"?db=pubmed&term={query}&retmax=25&sort=pub+date&retmode=json"
+            f"?db=pubmed&term={query}&retmax=40&sort=pub+date&retmode=json"
+            f"&datetype=pdat&mindate={mindate}&maxdate={maxdate}"
         )
         ids = json.loads(fetch_url(search_url)).get("esearchresult", {}).get("idlist", [])
 
@@ -539,9 +544,9 @@ def fetch_global_research():
     # ── ClinicalTrials.gov API v2 ──
     try:
         params = urllib.parse.urlencode({
-            "query.cond": "regenerative medicine OR cell therapy OR gene therapy OR CAR-T OR stem cell",
-            "filter.advanced": "AREA[StartDate]RANGE[2024-01-01,MAX]",
-            "pageSize": 15,
+            "query.cond": "regenerative medicine OR cell therapy OR gene therapy OR CAR-T OR stem cell OR iPSC OR exosome",
+            "filter.advanced": f"AREA[StartDate]RANGE[{CUTOFF},MAX]",
+            "pageSize": 20,
             "format": "json",
             "fields": "NCTId,BriefTitle,OverallStatus,StartDate,LeadSponsorName,LocationCountry,Phase,BriefSummary",
         })
@@ -600,6 +605,35 @@ def fetch_global_research():
         )
     except Exception as e:
         print(f"  Nature Biotech: {e}")
+
+    # ── BioSpace ──
+    try:
+        items += parse_rss_feed(
+            "https://www.biospace.com/news/feed/",
+            "BioSpace", limit=10, kw_filter=REGEN_KW
+        )
+    except Exception as e:
+        print(f"  BioSpace: {e}")
+
+    # ── EndPoints News ──
+    try:
+        items += parse_rss_feed(
+            "https://endpts.com/feed/",
+            "EndPoints News", limit=10, kw_filter=REGEN_KW
+        )
+    except Exception as e:
+        print(f"  EndPoints News: {e}")
+
+    # ── Google News 補充（近期研究）──
+    for q in [
+        "cell therapy clinical trial results 2026",
+        "gene therapy breakthrough FDA approval 2026",
+        "CAR-T stem cell exosome research 2026",
+    ]:
+        try:
+            items += google_news_rss(q, limit=6)
+        except Exception as e:
+            print(f"  GNews research: {e}")
 
     save_json("global-research.json", "research", dedup(items))
 
@@ -749,6 +783,24 @@ def fetch_funding():
         )
     except Exception as e:
         print(f"  BioPharma Dive: {e}")
+
+    # EndPoints News（資金/交易）
+    try:
+        items += parse_rss_feed(
+            "https://endpts.com/feed/",
+            "EndPoints News", limit=10, kw_filter=FUNDING_KW
+        )
+    except Exception as e:
+        print(f"  EndPoints News 資金: {e}")
+
+    # BioSpace（募資新聞）
+    try:
+        items += parse_rss_feed(
+            "https://www.biospace.com/news/feed/",
+            "BioSpace", limit=8, kw_filter=FUNDING_KW
+        )
+    except Exception as e:
+        print(f"  BioSpace 資金: {e}")
 
     # Google News
     for q in [

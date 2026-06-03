@@ -150,12 +150,28 @@ function renderCards(cards, query = '') {
     MODULES.forEach(m => {
       const items = grouped[m.id];
       if (!items.length) return;
+
+      // 落後指標警示：最新資料距今超過 7 天
+      const latestDate = items[0]?.date;
+      const daysSince = latestDate
+        ? Math.floor((Date.now() - new Date(latestDate).getTime()) / 86400000)
+        : null;
+      const staleWarning = (daysSince !== null && daysSince > 7)
+        ? `<span class="stale-badge">⚠ 最新資料 ${daysSince} 天前</span>`
+        : '';
+
       html += `<div class="module-header">
         <span class="module-icon">${m.icon}</span>
         <span class="module-title">${m.label}</span>
+        ${staleWarning}
         <span class="module-count">${items.length}</span>
       </div>`;
-      html += items.slice(0, 5).map(c => cardHTML(c, m, query)).join('');
+      html += items.slice(0, 8).map(c => cardHTML(c, m, query)).join('');
+      if (items.length > 8) {
+        html += `<button class="show-more-btn" onclick="filterModule('${m.id}', document.querySelector('[data-module=\\'${m.id}\\']'))">
+          查看全部 ${items.length} 則 ${m.label} →
+        </button>`;
+      }
     });
     container.innerHTML = html;
   } else {

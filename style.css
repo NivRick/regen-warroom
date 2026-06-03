@@ -88,7 +88,7 @@ body {
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
   color: var(--text);
-  font-size: 15px;
+  font-size: 16px; /* ≥16px 避免 iOS Safari 聚焦時自動縮放 */
   padding: 14px 16px;
   text-align: center;
   letter-spacing: 3px;
@@ -245,7 +245,7 @@ body {
   background: none;
   border: none;
   color: var(--text);
-  font-size: 15px;
+  font-size: 16px; /* ≥16px 避免 iOS Safari 聚焦時自動縮放 */
   outline: none;
   min-width: 0;
 }
@@ -586,6 +586,38 @@ mark {
 #error-banner {
   margin: 8px 16px 0;
   border-radius: var(--radius-sm);
+}
+
+/* ── 落後指標警示 ── */
+.stale-badge {
+  font-size: 10px;
+  color: #f59e0b;
+  background: rgba(245,158,11,0.12);
+  border: 1px solid rgba(245,158,11,0.3);
+  border-radius: 4px;
+  padding: 2px 6px;
+  margin-left: auto;
+  margin-right: 6px;
+  white-space: nowrap;
+}
+
+/* ── 看更多按鈕 ── */
+.show-more-btn {
+  display: block;
+  width: 100%;
+  background: var(--surface);
+  border: 1px dashed var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--accent);
+  font-size: 13px;
+  padding: 10px;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+  margin-bottom: 4px;
+}
+.show-more-btn:hover {
+  background: rgba(0,212,255,0.06);
+  border-color: var(--accent);
 }
 
 /* ── Footer ── */
