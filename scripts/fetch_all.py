@@ -317,19 +317,38 @@ def parse_google_rss(url, source_name, limit=10):
     root = ET.fromstring(xml)
     results = []
     for item in list(root.iter("item"))[:limit]:
-        title = (item.findtext("title") or "").strip()
+        raw_title = (item.findtext("title") or "").strip()
         desc = strip_html((item.findtext("description") or "").strip())
         link = (item.findtext("link") or "").strip()
         pub = (item.findtext("pubDate") or "").strip()
+
+        # Google News title 格式：「新聞標題 - 媒體名稱」，拆出乾淨標題與真實來源
+        title, real_source = split_google_title(raw_title, source_name)
+
+        # Google News description 通常重複 title，去除後無實質內容，留空即可
+        clean_desc = desc.replace(raw_title, "").strip(" -–—\xa0")
+        # 若描述和標題幾乎相同就清空
+        if len(clean_desc) < 20 or clean_desc.lower() in title.lower():
+            clean_desc = ""
+
         if title:
             results.append({
                 "title": title,
-                "summary": desc[:200] if desc else "",
-                "source": source_name,
+                "summary": clean_desc[:200],
+                "source": real_source,
                 "date": parse_rfc_date(pub),
                 "url": link,
             })
     return results
+
+
+def split_google_title(title, fallback_source):
+    """拆解 Google News 標題格式：'新聞標題 - 媒體名稱'"""
+    # 從最後一個 ' - ' 切開
+    parts = title.rsplit(" - ", 1)
+    if len(parts) == 2 and len(parts[1]) < 40:
+        return parts[0].strip(), parts[1].strip()
+    return title.strip(), fallback_source
 
 
 def parse_rfc_date(s):
@@ -346,7 +365,12 @@ def parse_rfc_date(s):
 
 
 def strip_html(text):
-    return re.sub(r"<[^>]+>", "", text).strip()
+    text = re.sub(r"<[^>]+>", "", text)
+    # 解碼常見 HTML entities
+    text = text.replace("&nbsp;", " ").replace("&amp;", "&")
+    text = text.replace("&lt;", "<").replace("&gt;", ">").replace("&quot;", '"')
+    text = re.sub(r"&#\d+;", "", text)   # 移除數字 entity
+    return re.sub(r"\s{2,}", " ", text).strip()
 
 
 def clean_text(text):

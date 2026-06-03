@@ -121,8 +121,8 @@ function renderCards(cards) {
 }
 
 function cardHTML(item, mod) {
-  const safeTitle = escHtml(item.title || '無標題');
-  const safeSummary = escHtml(item.summary || '');
+  const safeTitle = escHtml(decodeEntities(item.title || '無標題'));
+  const safeSummary = escHtml(decodeEntities(item.summary || ''));
   const safeSource = escHtml(item.source || mod?.label || '');
   const dateStr = formatDate(item.date || '');
 
@@ -164,6 +164,19 @@ function escHtml(str) {
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;');
+}
+
+// 解碼 HTML entities（來自 RSS 的殘留 &nbsp; 等）
+function decodeEntities(str) {
+  return String(str)
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#\d+;/g, '')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
 }
 
 // ── 自動載入 ──
