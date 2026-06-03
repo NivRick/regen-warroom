@@ -1,6 +1,6 @@
 {
   "module": "research",
-  "updated": "2026-06-02T10:13:13.369144+00:00",
+  "updated": "2026-06-03T00:22:33.910864+00:00",
   "items": [
     {
       "title": "Efficacy and safety of allogeneic CD19 CAR NK-cell therapy in systemic lupus erythematosus: a case series in China.",
@@ -80,18 +80,18 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42220477/"
     },
     {
+      "title": "Long-term efficacy and safety results of betibeglogene autotemcel gene therapy for transfusion-dependent β-thalassemia.",
+      "summary": "Betibeglogene autotemcel (beti-cel) gene therapy for transfusion-dependent β-thalassemia (TDT) involves autologous transplantation of hematopoietic stem and progenitor cells transduced with a modified β-globin gene to produce functional adult hemoglobin (Hb) containing βA-T87Q-globin (HbAT87Q). Sixt...",
+      "source": "PubMed",
+      "date": "2026-05-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41525466/"
+    },
+    {
       "title": "Safety and efficacy of hemobeglogene autotemcel(hemo-cel) gene therapy in five patients with transfusion-dependent β-thalassemia.",
       "summary": "Lentiviral vector-mediated hematopoietic stem cell gene therapy (HSC-GT) has emerged as a curative alternative to allogeneic transplantation for patients with transfusion-dependent β-thalassemia (TDT). However, challenges such as delayed platelet engraftment, variable transgene expression, and limit...",
       "source": "PubMed",
       "date": "2026-05-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41693207/"
-    },
-    {
-      "title": "Phase 1 study of autologous T cells bearing fully human chimeric antigen receptors targeting mesothelin in mesothelin-expressing cancers.",
-      "summary": "This phase 1 study evaluated the safety and feasibility of fully human anti-mesothelin chimeric antigen receptor-T cells (huCART-meso) in patients with lung adenocarcinoma, ovarian cancer, and mesothelioma. huCART-meso cells were administered intravenously, intrapleurally, and/or intraperitoneally w...",
-      "source": "PubMed",
-      "date": "2026-05-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41566776/"
     },
     {
       "title": "MesenSistem-EB: systemic haploidentical mesenchymal stem cell therapy in recessive dystrophic epidermolysis bullosa associated with clinical benefits and correlated with MCP1 and sCD40L dynamics.",
