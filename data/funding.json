@@ -1,6 +1,6 @@
 {
   "module": "funding",
-  "updated": "2026-06-03T04:33:17.044702+00:00",
+  "updated": "2026-06-03T04:38:33.286009+00:00",
   "items": [
     {
       "title": "STAT+：長壽新創公司 NewLimit 在首次臨床試驗前籌集了 4.35 億美元",
@@ -83,22 +83,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Top 3 Canadian Biotech Stocks in 2026",
-      "summary": "",
-      "source": "Investing News Network",
-      "date": "2026-04-22",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1JDS1FVQU1ZZEJQT3h6dmFUaDdELWdyX2FWX1VKWWVDYUFadHdPN29sZlpwNlZYM1FhX0JmUDczREZwMHBuZUprczAxQWRMWl83MDhXN2hXMGJxZEkzcUExSkhWRUlRZEVEbnBOWTNRNHQweWJmc3ZWNVgtYVpkdGloRDdxcnVRWE5aN09oY1ZYX0NQNjJWVmg4N3liY3U1dS1F?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CAR-T細胞療法 開發商 Oricell 完成 1.1 億美元的 首次公開上市（IPO） 前融資",
-      "summary": "FirstWord Pharma 融資 1.1 億美元",
-      "source": "FirstWord Pharma",
-      "date": "2026-04-10",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kYmRTcV9aaDB6OEoxNUtQSnZUbnN6ZHBzZXVOWTNTYTBwMTY1Tks3VE8tYVJ4WWdpeUNQcjA0V0pfbDgzTk5RbDV1VkswanZCMXhN?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Longeveron 公佈 2025 年全年財務表現並提供業務更新",
       "summary": "最新業績並提供業務更新 GlobeNewswire",
       "source": "GlobeNewswire",
@@ -107,19 +91,27 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026年值得關注的13家抗老生技公司",
-      "summary": "",
-      "source": "Labiotech.eu",
-      "date": "2026-03-16",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zMjVrdVpqQU40Z1p6Tm5vMUctWXNuMTU4V2loV2IzMXVzZWNQRDY1UlMzVlp4VGJtaDVHdVUzRWxpeXZWVTA0UWRycHlpa1ZHS0dRTUNBTEpoamM5RGctLU05WEtZY0VaU0QtNWRXX3pweXUyQnc?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "BreezeBio 籌集 6000 萬美元用於製造更精確的基因藥物",
       "summary": "電子遺傳藥物 BioPharma Dive",
       "source": "BioPharma Dive",
       "date": "2026-02-25",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN05Fd211OEY1QWxnem5WOURDMjNJTG9oRmhqUU1sdE5OQmNlbHpoOFNwTVlHcUROSzFoLVBzTUZrb3M4UDVSR0FJRWMtaWFGOFBXaGdzV1h6MEtCZlJQUkJnZ2xJOGF2Mk1xOS1ZZGFOOEQ5YlVNYmNTQlZ2Ym55NV9HUmh2R0lOb3lYT3FER3NUVE0?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "儘管 2025 年經濟放緩，英國仍保住歐洲第一大生技創投席位",
+      "summary": "儘管 2025 年經濟放緩 歐洲生物技術雜誌",
+      "source": "European Biotechnology Magazine",
+      "date": "2026-01-26",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzdUZlR0a2ZwX1BEQmtrMm5mWS1fQzViMFlHbnJmbGlTSlVlVXJ0eUlUQ3BkaDFONzVvNzRGMVpPM1RjN19lV3AxMHcteFA0UDZzcFoxU3IzOXEzNHRaVWJFb1NIa0d6SUM1VXZhR0RudDNoVGpUaUlUS09IQjdyQXZKWE0yZkJfMmJfYW9NTE5nMGdYdk13dnBXT3NUQl9LblJNag?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Parabilis 追逐「不可成藥」的目標，在風投熱潮中獲得 3.05 億美元",
+      "summary": "，在創投閃電戰中獲得 3.05 億美元",
+      "source": "BioPharma Dive",
+      "date": "2026-01-08",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnZqX1kzUmdxUGxFcHAwbldvd2s0Y0RqRmpkcXlWUkZvdzlTNUZldmlnUmw3czl2ZmEwNTRaVnRfRnY5Qlo1NXhrcE93bWpTR2hnMHlXaTdjZExheWVOYmlGclNLNXJFSE1NNUE1S3I0a2NTdzBYOVlaVU1yWnNuZ2lZVHl1aW1LckFORG9DVzBxQmJQSmMxemNVZlB2dy1HQ1E?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -139,14 +131,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech 籌款追蹤 '26：Accro 籌集了 5000 萬美元的 C 輪資金；創建畜欄 1.22 億美元",
-      "summary": "Accro 獲得 5,000 萬美元的 C 輪融資；創建畜欄 1.22 億美元 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-01-07",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Fierce Biotech 籌款追蹤器 '25：Atavistik 增加 1.2 億美元； Syneron Bio獲得新資金",
       "summary": "Atavistik 增資 1.2 億美元； Syneron Bio獲得新資金 Fierce Biotech",
       "source": "Fierce Biotech",
@@ -160,6 +144,22 @@
       "source": "BioPharma Dive",
       "date": "2025-11-20",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVJjSHp5LUVGdFVwbHRwOThuVEd1alA5Q1hnU2JkX3owcjlYSkYwdFhvVXFjMTJTOVRMT3hDNnB1NWwzVHRpVXI3eW41cU56TnBDVG1fcWtCSFlNQ3JVREF3Zjk4TjFhWGdMQW9TcGx5a3RLaWl6MHRJbll6YnM2NVdpeE8tc1JacWVFWUxJSERzSjJHR21HdXJBbHEwX3ZK?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "綜述：資本透過融資輪次和貸款便利流入製藥業",
+      "summary": "融資輪次與貸款便利 製藥主管",
+      "source": "Pharmaceutical Executive",
+      "date": "2025-10-15",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1l6WDVhS09LRkFaSXhOUWZEaGUxdkFZVDdsRl9QLXlXOWZSRUtoRkpvTmtweV8wRklDYlRFSlNkNWlLNUVzRXJhdl9LX3lSS2FCcjJmNmFTNkhGekt1Tk40RmVWSlM0cURjTl94c3dpSzFVNXgxd0xsN1RnWE9qQkdNZ2kyVnhVSVhYOEdBOXNXUEJp?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製藥巨頭：Kriya 和 Odyssey 籌集了超過 5 億美元的風險融資",
+      "summary": "FirstWord Pharma 籌集了超過 5 億美元的風險融資",
+      "source": "FirstWord Pharma",
+      "date": "2025-09-10",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53MEJRRVg1QXQwU2RNOXJYT1E4ZEZ5cUpmcjhJUHNlZXFvblRsb0pRdlZmV0g3QlNuaDRYTXFiWEg2ZE5BWFpMRC1XWnVVWlA2Q2hj?oc=5",
       "lang": "zh-TW"
     }
   ]
