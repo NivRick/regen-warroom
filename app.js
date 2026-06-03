@@ -132,10 +132,10 @@ function renderDashboardInvestor() {
 
   const col = (title, icon, items, modId) => {
     const mod = MODULES.find(m => m.id === modId);
-    const cards = items.slice(0, 6).map(c => cardHTML(c, mod, '')).join('');
+    const rows = items.slice(0, 8).map(c => compactRowHTML(c, mod)).join('');
     return `<div class="dash-col">
       <div class="dash-col-header"><span>${icon}</span><span>${title}</span><span class="dash-col-count">${items.length}</span></div>
-      ${cards}
+      ${rows}
     </div>`;
   };
 
@@ -479,7 +479,11 @@ function renderStockTicker(data) {
   const dateLabel = data.stocks[0]?.date
     ? `<span class="ticker-date">${data.stocks[0].date}</span>` : '';
   ticker.innerHTML = html + dateLabel;
-  ticker.classList.remove('hidden');
+  // 投資人 persona 有專屬股票卡片區，不顯示舊 ticker
+  const currentPersona = localStorage.getItem(PERSONA_KEY);
+  if (currentPersona !== 'investor') {
+    ticker.classList.remove('hidden');
+  }
 }
 
 // ── 渲染 ──
@@ -546,6 +550,30 @@ function digestRow(item, query = '') {
     <span class="digest-title">${title}</span>
     <span class="digest-meta">${meta}</span>
   </a>`;
+}
+
+// 輕量行列式卡片（用於各角色 dashboard 欄位）
+function compactRowHTML(item, mod) {
+  const title = escHtml(decodeEntities(item.title || '無標題'));
+  const url   = item.url ? escHtml(item.url) : '#';
+  const date  = formatDateShort(item.date || '');
+  const source = escHtml(item.source && item.source !== 'Google News'
+    ? item.source
+    : (getDisplayDomain(item.url) || item.source || ''));
+  const freshnessHtml = freshnessTag(item.date);
+  const cardId = btoa(encodeURIComponent((item.title || '') + (item.date || ''))).slice(0, 20);
+  const isRead = readIds.has(cardId);
+
+  return `<div class="compact-row${isRead ? ' is-read' : ''}" data-card-id="${cardId}"
+    onclick="markRead('${cardId}', this)">
+    <div class="compact-row-top">
+      ${freshnessHtml}
+      <span class="compact-row-date">${date}</span>
+    </div>
+    <a class="compact-row-title" href="${url}" target="_blank" rel="noopener"
+      onclick="event.stopPropagation()">${title}</a>
+    <div class="compact-row-source">${source}</div>
+  </div>`;
 }
 
 function cardHTML(item, mod, query = '') {

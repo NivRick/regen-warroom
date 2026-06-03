@@ -515,6 +515,48 @@ body {
   .stock-tier-label { padding-top: 0; }
 }
 
+/* ── Compact Row (Dashboard columns) ── */
+.compact-row {
+  padding: 10px 4px;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.compact-row:last-child { border-bottom: none; }
+.compact-row:hover { background: rgba(255,255,255,0.02); border-radius: 6px; }
+.compact-row.is-read { opacity: 0.5; }
+
+.compact-row-top {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 4px;
+}
+
+.compact-row-date {
+  font-size: 11px;
+  color: var(--text-dim);
+  margin-left: auto;
+}
+
+.compact-row-title {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.5;
+  text-decoration: none;
+  margin-bottom: 4px;
+}
+
+.compact-row-title:hover { color: var(--accent); }
+
+.compact-row-source {
+  font-size: 11px;
+  color: var(--text-dim);
+}
+
 /* ── Top Bar ── */
 .top-bar {
   position: sticky;
