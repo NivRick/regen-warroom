@@ -152,30 +152,41 @@ def _find_gemini_model():
     return None
 
 
-def gemini_translate(title, summary):
-    """Gemini：翻譯 + 白話化（自動選用可用模型）"""
-    if not GEMINI_API_KEY:
-        return None, None
+BATCH_SIZE  = 8   # 每次 Gemini API 翻譯幾筆（8筆≈800 tokens，安全範圍）
+BATCH_DELAY = 7   # 批次間隔秒數（10 RPM → 每 6 秒一次，7秒保守）
 
+
+def gemini_translate_batch(pairs):
+    """批次翻譯 [(title, summary), ...] → [(zh_title, zh_summary), ...]
+    一次 API call 翻多筆，大幅減少請求次數。"""
     model = _find_gemini_model()
     if not model:
-        return None, None
+        return [(None, None)] * len(pairs)
 
-    prompt = f"""你是台灣資深生醫產業分析師，請將以下英文生醫新聞翻譯成繁體中文。
+    # 組合輸入
+    lines = []
+    for i, (t, s) in enumerate(pairs, 1):
+        lines.append(f"[{i}] 標題：{t[:200]}")
+        if s and s.strip():
+            lines.append(f"    摘要：{s[:150]}")
 
-規則：
+    prompt = f"""你是台灣資深生醫產業分析師。請將以下英文生醫新聞翻譯成繁體中文白話。
+
+翻譯規則：
 1. 使用台灣慣用術語（細胞治療、基因療法、幹細胞、臨床試驗、核准、募資）
-2. 專有名詞保留英文縮寫並加括號，例如：嵌合抗原受體T細胞療法（CAR-T）
-3. 把艱澀學術句改寫成台灣商業媒體的口語風格
-4. 金額單位改為「億美元」「萬美元」等台灣讀者習慣的說法
-5. 只輸出翻譯，不要加任何說明或標題
+2. 英文縮寫保留並加括號說明，例如：嵌合抗原受體T細胞療法（CAR-T）
+3. 用台灣商業媒體的口語風格，避免艱澀學術語句
+4. 金額改為「億美元」「萬美元」
+5. 嚴格按照輸出格式，不要加任何說明
 
-【標題】{title}
-【摘要】{summary if summary else "（無）"}
+輸出格式（必須完全遵守）：
+[1] 標題：xxx
+    摘要：xxx
+[2] 標題：xxx
+    摘要：xxx
 
-請依序輸出：
-標題翻譯：（一行）
-摘要翻譯：（若無摘要則輸出空行）"""
+待翻譯內容：
+{chr(10).join(lines)}"""
 
     try:
         url = (
@@ -184,70 +195,80 @@ def gemini_translate(title, summary):
         )
         payload = json.dumps({
             "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.2, "maxOutputTokens": 400},
+            "generationConfig": {"temperature": 0.1, "maxOutputTokens": 2000},
         }).encode()
         req = urllib.request.Request(
             url, data=payload, headers={"Content-Type": "application/json"}
         )
-        with urllib.request.urlopen(req, timeout=20) as r:
+        with urllib.request.urlopen(req, timeout=40) as r:
             result = json.loads(r.read())
         raw = result["candidates"][0]["content"]["parts"][0]["text"].strip()
 
-        title_zh, summary_zh = "", ""
+        # 解析輸出
+        outputs = [(None, None)] * len(pairs)
+        cur_idx, cur_title, cur_summary = None, None, ""
         for line in raw.splitlines():
-            if line.startswith("標題翻譯："):
-                title_zh = line.replace("標題翻譯：", "").strip()
-            elif line.startswith("摘要翻譯："):
-                summary_zh = line.replace("摘要翻譯：", "").strip()
-        return title_zh or None, summary_zh or None
+            m = re.match(r'\[(\d+)\]\s*標題[：:]\s*(.+)', line)
+            if m:
+                if cur_idx is not None:
+                    outputs[cur_idx] = (cur_title, cur_summary.strip())
+                cur_idx    = int(m.group(1)) - 1
+                cur_title  = m.group(2).strip()
+                cur_summary = ""
+            elif re.match(r'\s*摘要[：:]\s*', line) and cur_idx is not None:
+                cur_summary = re.sub(r'^\s*摘要[：:]\s*', '', line).strip()
+        if cur_idx is not None:
+            outputs[cur_idx] = (cur_title, cur_summary.strip())
+
+        return outputs
     except Exception as e:
-        print(f"    Gemini 翻譯失敗: {e}")
-        return None, None
+        print(f"    Gemini 批次翻譯失敗: {e}")
+        return [(None, None)] * len(pairs)
 
 
 def translate_items(items, module_label=""):
-    """翻譯整個模組的 items，英文 → 繁體中文白話"""
-    total = sum(1 for it in items if is_english(it.get("title", "")))
-    if total == 0:
+    """翻譯整個模組，英文 → 繁體中文白話"""
+    eng_indices = [(i, it) for i, it in enumerate(items) if is_english(it.get("title", ""))]
+    if not eng_indices:
         return items
 
-    print(f"    翻譯 {total} 筆英文內容 ({'Gemini' if GEMINI_API_KEY else 'Google Translate'})...")
+    mode = "Gemini 批次" if GEMINI_API_KEY else "Google Translate"
+    print(f"    翻譯 {len(eng_indices)} 筆英文內容 ({mode})...")
 
-    translated = []
-    for item in items:
-        title   = item.get("title", "")
-        summary = item.get("summary", "")
+    if GEMINI_API_KEY:
+        # ── Gemini 批次翻譯 ──
+        for batch_start in range(0, len(eng_indices), BATCH_SIZE):
+            batch = eng_indices[batch_start:batch_start + BATCH_SIZE]
+            pairs = [(it.get("title",""), it.get("summary","")) for _, it in batch]
+            results = gemini_translate_batch(pairs)
 
-        if not is_english(title):
-            translated.append(item)
-            continue
+            for (orig_i, item), (zh_title, zh_summary) in zip(batch, results):
+                if zh_title:
+                    items[orig_i]["title"]   = zh_title
+                    items[orig_i]["summary"] = zh_summary or ""
+                    items[orig_i]["lang"]    = "zh-TW"
+                else:
+                    # 單筆降級到 Google Translate
+                    items[orig_i]["title"] = apply_glossary(google_translate(item["title"]))
+                    if item.get("summary") and is_english(item["summary"]):
+                        items[orig_i]["summary"] = apply_glossary(google_translate(item["summary"]))
+                    items[orig_i]["lang"] = "zh-TW"
 
-        if GEMINI_API_KEY:
-            # Gemini：翻譯 + 白話化（一次搞定）
-            t_title, t_summary = gemini_translate(title, summary)
-            if t_title:
-                item["title"]   = t_title
-                item["summary"] = t_summary or ""
-                item["lang"]    = "zh-TW"
-            else:
-                # Gemini 失敗 → 降級 Google Translate
-                item["title"]   = apply_glossary(google_translate(title))
-                if summary and is_english(summary):
-                    item["summary"] = apply_glossary(google_translate(summary))
-                item["lang"] = "zh-TW"
-            time.sleep(0.5)   # Gemini rate limit
-        else:
-            # Google Translate：翻譯後套用術語表
-            item["title"] = apply_glossary(google_translate(title))
-            if summary and is_english(summary):
+            remaining = len(eng_indices) - batch_start - BATCH_SIZE
+            if remaining > 0:
+                print(f"      還剩 {remaining} 筆，等待 {BATCH_DELAY} 秒...")
+                time.sleep(BATCH_DELAY)
+    else:
+        # ── Google Translate 逐筆翻譯 ──
+        for orig_i, item in eng_indices:
+            items[orig_i]["title"] = apply_glossary(google_translate(item.get("title","")))
+            if item.get("summary") and is_english(item["summary"]):
                 time.sleep(0.15)
-                item["summary"] = apply_glossary(google_translate(summary))
-            item["lang"] = "zh-TW"
+                items[orig_i]["summary"] = apply_glossary(google_translate(item["summary"]))
+            items[orig_i]["lang"] = "zh-TW"
             time.sleep(0.15)
 
-        translated.append(item)
-
-    return translated
+    return items
 
 
 # ════════════════════════════════════════════════
