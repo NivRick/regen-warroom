@@ -165,12 +165,14 @@ def gemini_translate_batch(pairs):
     if not model:
         return [(None, None)] * len(pairs)
 
-    # 組合輸入
+    # 組合輸入（摘要為空時，標記請自動生成）
     lines = []
     for i, (t, s) in enumerate(pairs, 1):
         lines.append(f"[{i}] 標題：{t[:200]}")
         if s and s.strip():
             lines.append(f"    摘要：{s[:150]}")
+        else:
+            lines.append(f"    摘要：（空白，請根據標題自動生成50字以內的繁體中文白話摘要）")
 
     prompt = f"""你是台灣資深生醫產業分析師。請將以下英文生醫新聞翻譯成繁體中文白話。
 
@@ -179,7 +181,8 @@ def gemini_translate_batch(pairs):
 2. 英文縮寫保留並加括號說明，例如：嵌合抗原受體T細胞療法（CAR-T）
 3. 用台灣商業媒體的口語風格，避免艱澀學術語句
 4. 金額改為「億美元」「萬美元」
-5. 嚴格按照輸出格式，不要加任何說明
+5. 摘要標記為「空白，請自動生成」時，根據標題自行撰寫50字以內的重點摘要
+6. 嚴格按照輸出格式，不要加任何說明
 
 輸出格式（必須完全遵守）：
 [1] 標題：xxx
@@ -839,6 +842,67 @@ def fetch_medical_tourism():
 
 
 # ════════════════════════════════════════════════
+# 7. 競爭動態
+#    追蹤全球大廠與台灣競爭者的最新動態
+# ════════════════════════════════════════════════
+def fetch_competitors():
+    print("🎯 競爭動態...")
+    items = []
+
+    # 全球主要競爭者（CAR-T / 基因治療 / 再生醫療大廠）
+    GLOBAL_QUERIES = [
+        "Novartis Kymriah CAR-T cell therapy",
+        "Gilead Kite Yescarta cell therapy approval",
+        "Bristol Myers Squibb Breyanzi Lisocabtagene",
+        "Legend Biotech Ciltacel BCMA myeloma",
+        "bluebird bio gene therapy FDA",
+        "Fate Therapeutics iPSC NK cell",
+        "Intellia Therapeutics CRISPR in vivo",
+        "Vertex Editas CRISPR sickle cell thalassemia",
+        "Regeneron gene therapy ocular",
+        "Johnson Johnson Janssen cell therapy",
+    ]
+    for q in GLOBAL_QUERIES:
+        try:
+            items += google_news_rss(q, limit=4)
+        except Exception as e:
+            print(f"  GNews 全球對手: {e}")
+
+    # 台灣競爭者
+    TW_QUERIES = [
+        "震泰生技 細胞治療 臨床",
+        "訊聯生物科技 幹細胞 CAR-T",
+        "長聖國際生技 臨床試驗 核准",
+        "醣基生醫 糖鏈工程",
+        "亞果生醫 軟骨 幹細胞",
+        "宣捷生技 臍帶血 幹細胞",
+        "震泰 訊聯 長聖 再生醫療 台灣",
+    ]
+    for q in TW_QUERIES:
+        try:
+            items += google_news_rss(q, lang="zh-TW", country="TW", limit=4)
+        except Exception as e:
+            print(f"  GNews TW 對手: {e}")
+
+    # 競爭動態英文資訊（BioSpace / EndPoints）
+    COMP_KW = [
+        "Novartis", "Gilead", "Kite", "Bristol Myers", "Legend Biotech",
+        "bluebird", "Fate Therapeutics", "Intellia", "Editas", "Vertex",
+        "CAR-T", "cell therapy approval", "gene therapy IND",
+    ]
+    for feed_url, src in [
+        ("https://endpts.com/feed/", "EndPoints News"),
+        ("https://www.biospace.com/news/feed/", "BioSpace"),
+    ]:
+        try:
+            items += parse_rss_feed(feed_url, src, limit=8, kw_filter=COMP_KW)
+        except Exception as e:
+            print(f"  {src} 競爭: {e}")
+
+    save_json("competitors.json", "competitor", dedup(items))
+
+
+# ════════════════════════════════════════════════
 # 主程式
 # ════════════════════════════════════════════════
 if __name__ == "__main__":
@@ -851,5 +915,6 @@ if __name__ == "__main__":
     fetch_regulations()
     fetch_funding()
     fetch_medical_tourism()
+    fetch_competitors()
 
     print(f"\n=== 更新完成 {datetime.now(timezone.utc).strftime('%H:%M UTC')} ===")

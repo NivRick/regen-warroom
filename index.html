@@ -13,7 +13,7 @@
   <div class="login-box">
     <div class="login-logo">⚕</div>
     <h1 class="login-title">REGEN INTEL</h1>
-    <p class="login-sub">再生醫療情報系統 v2.0</p>
+    <p class="login-sub">再生醫療情報系統 v3.0</p>
     <div class="login-form">
       <input type="password" id="pwd-input" placeholder="輸入存取密碼" autocomplete="current-password" />
       <button id="pwd-btn" onclick="checkPassword()">進入系統</button>
@@ -66,6 +66,31 @@
     <div id="search-hint" class="search-hint hidden"></div>
   </div>
 
+  <!-- 控制列：排序 / 摘要模式 / 我的關注 -->
+  <div class="controls-bar">
+    <select id="sort-select" class="ctrl-select" onchange="applyFilters()">
+      <option value="date-desc">最新優先</option>
+      <option value="date-asc">最舊優先</option>
+      <option value="module">依模組</option>
+    </select>
+    <button id="digest-btn" class="ctrl-btn" onclick="toggleDigest()" title="一頁摘要模式">📋 摘要</button>
+    <button id="watch-btn" class="ctrl-btn" onclick="toggleWatchPanel()" title="我的關注">⭐ 關注</button>
+  </div>
+
+  <!-- 我的關注面板（底部滑出） -->
+  <div id="watch-panel" class="watch-panel hidden">
+    <div class="watch-panel-header">
+      <span>⭐ 我的關注關鍵字</span>
+      <button class="watch-close" onclick="toggleWatchPanel()">✕</button>
+    </div>
+    <div class="watch-input-row">
+      <input type="text" id="watch-input" class="watch-input" placeholder="新增關鍵字，例如：CAR-T、訊聯" />
+      <button class="watch-add-btn" onclick="addWatchword()">新增</button>
+    </div>
+    <div id="watch-chips" class="watch-chips"></div>
+    <button id="watch-filter-btn" class="watch-filter-btn" onclick="toggleWatchFilter()">套用關注篩選</button>
+  </div>
+
   <!-- 快速篩選 tabs -->
   <nav class="module-tabs">
     <button class="tab-btn active" data-module="all" onclick="filterModule('all', this)">全部</button>
@@ -75,6 +100,7 @@
     <button class="tab-btn" data-module="regulation" onclick="filterModule('regulation', this)">法規</button>
     <button class="tab-btn" data-module="funding" onclick="filterModule('funding', this)">資金</button>
     <button class="tab-btn" data-module="tourism" onclick="filterModule('tourism', this)">醫療旅遊</button>
+    <button class="tab-btn" data-module="competitor" onclick="filterModule('competitor', this)">🎯 競爭動態</button>
   </nav>
 
   <!-- 情報卡片容器 -->
