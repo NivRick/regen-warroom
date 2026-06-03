@@ -934,21 +934,20 @@ STOCK_WATCHLIST = [
     ("6662", "樂斯科",   "下游"),
     ("6814", "路迦生醫", "下游"),
     ("6939", "啟弘生技", "下游"),
-    # 7xxx 興櫃不列入（TWSE/OTC API 不支援）
+    # 7xxx 興櫃（光晟/通用/仲恩/富禾/思必瑞特/訊聯智藥/海昌/寶泰/宇越）另有 ESB API 支援
 ]
 
 
 def fetch_stocks():
     """
-    一次抓取 TWSE（上市）與 OTC（上櫃）全量收盤報價，
-    比逐支查詢快 10 倍，也不會因舊 API 失效而漏股。
+    三市場全覆蓋：TWSE 上市 + OTC 上櫃 + 興櫃 ESB
+    只需 3 個 API call，涵蓋再生醫療族群所有掛牌公司。
     """
-    print("📈 台灣再生醫療股票（TWSE + OTC 全量）...")
+    print("📈 台灣再生醫療股票（TWSE + OTC + 興櫃 全量）...")
+    roc_today = f"{int(TODAY[:4])-1911}/{TODAY[5:7]}/{TODAY[8:10]}"
 
-    # ── 抓取全市場報價 ──
+    # ── 1. TWSE 上市全量 ──
     twse_map: dict = {}
-    otc_map:  dict = {}
-
     try:
         rows = json.loads(fetch_url(
             "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"
@@ -957,10 +956,12 @@ def fetch_stocks():
             code = s.get("Code", "").strip()
             if code:
                 twse_map[code] = s
-        print(f"  TWSE 全量: {len(twse_map)} 支")
+        print(f"  TWSE 上市: {len(twse_map)} 支")
     except Exception as e:
-        print(f"  TWSE 全量 API 失敗: {e}")
+        print(f"  TWSE API 失敗: {e}")
 
+    # ── 2. OTC 上櫃全量 ──
+    otc_map: dict = {}
     try:
         rows = json.loads(fetch_url(
             "https://www.tpex.org.tw/openapi/v1/tpex_mainboard_quotes"
@@ -969,40 +970,72 @@ def fetch_stocks():
             code = s.get("SecuritiesCompanyCode", "").strip()
             if code:
                 otc_map[code] = s
-        print(f"  OTC 全量:  {len(otc_map)} 支")
+        print(f"  OTC 上櫃:  {len(otc_map)} 支")
     except Exception as e:
-        print(f"  OTC 全量 API 失敗: {e}")
+        print(f"  OTC API 失敗: {e}")
+
+    # ── 3. 興櫃 ESB 全量 ──
+    # API: SecuritiesCompanyCode / CompanyName / LatestPrice / PreviousAveragePrice
+    esb_map: dict = {}
+    try:
+        rows = json.loads(fetch_url(
+            "https://www.tpex.org.tw/openapi/v1/tpex_esb_latest_statistics"
+        ))
+        seen = set()
+        for s in rows:
+            code = s.get("SecuritiesCompanyCode", "").strip()
+            if code and code not in seen:
+                esb_map[code] = s
+                seen.add(code)
+        print(f"  興櫃 ESB:  {len(esb_map)} 支")
+    except Exception as e:
+        print(f"  ESB API 失敗: {e}")
 
     # ── 逐支對照 watchlist ──
     results = []
     for code, name, tier in STOCK_WATCHLIST:
-        entry = twse_map.get(code) or otc_map.get(code)
+        market = None
+        entry  = None
+        if code in twse_map:
+            market, entry = "TWSE", twse_map[code]
+        elif code in otc_map:
+            market, entry = "OTC", otc_map[code]
+        elif code in esb_map:
+            market, entry = "ESB", esb_map[code]
+
         if not entry:
-            print(f"  ⚠ {code} {name}：查無資料（興櫃/停牌）")
+            print(f"  ⚠ {code} {name}：三市場均查無資料（停牌/未上市）")
             continue
 
-        is_twse = code in twse_map
-        if is_twse:
-            # TWSE 格式：ClosingPrice / Change / Date("1150603")
-            close_str  = str(entry.get("ClosingPrice", "")).replace(",", "").strip()
+        # ── 解析各市場格式 ──
+        if market == "TWSE":
+            # ClosingPrice / Change / Date("1150603")
+            close_str  = str(entry.get("ClosingPrice", "0")).replace(",", "").strip()
             change_raw = str(entry.get("Change", "0")).replace(",", "").strip()
             raw_date   = str(entry.get("Date", ""))
-            # "1150603" → "115/06/03"
-            if len(raw_date) == 7:
-                date_disp = f"{raw_date[:3]}/{raw_date[3:5]}/{raw_date[5:7]}"
-            else:
-                date_disp = raw_date
-        else:
-            # OTC 格式：Close / Change("+0.24" or "-0.19") / 無日期欄
-            close_str  = str(entry.get("Close", "")).replace(",", "").strip()
+            date_disp  = (f"{raw_date[:3]}/{raw_date[3:5]}/{raw_date[5:7]}"
+                          if len(raw_date) == 7 else raw_date)
+
+        elif market == "OTC":
+            # Close / Change("+0.24" / "-0.19")
+            close_str  = str(entry.get("Close", "0")).replace(",", "").strip()
             change_raw = str(entry.get("Change", "0")).replace(",", "").strip()
-            # 民國年換算
-            y = int(TODAY[:4]) - 1911
-            date_disp = f"{y}/{TODAY[5:7]}/{TODAY[8:10]}"
+            date_disp  = roc_today
+
+        else:  # ESB 興櫃
+            # LatestPrice / PreviousAveragePrice（純數字）
+            latest = float(entry.get("LatestPrice", 0) or 0)
+            prev   = float(entry.get("PreviousAveragePrice", 0) or 0)
+            # 當日無成交（LatestPrice=0）→ 用前日均價顯示，漲跌=0
+            if latest == 0:
+                latest = prev
+            close_str  = f"{latest:.2f}"
+            change_raw = f"{latest - prev:.2f}"
+            date_disp  = roc_today
 
         try:
             close_f  = float(close_str)
-            change_f = float(change_raw)          # "+0.24" / "-0.19" Python 都能解析
+            change_f = float(change_raw)   # "+0.24"/"-0.19"/"-0.11" Python 均可解析
             prev_p   = close_f - change_f
             pct      = round(change_f / prev_p * 100, 2) if prev_p else 0.0
         except (ValueError, ZeroDivisionError):
@@ -1016,7 +1049,7 @@ def fetch_stocks():
             "change":     f"+{change_f:.2f}" if change_f > 0 else f"{change_f:.2f}",
             "change_pct": pct,
             "date":       date_disp,
-            "market":     "TWSE" if is_twse else "OTC",
+            "market":     market,
         })
 
     path = DATA_DIR / "stocks.json"
