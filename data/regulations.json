@@ -1,7 +1,15 @@
 {
   "module": "regulation",
-  "updated": "2026-06-03T15:27:24.203334+00:00",
+  "updated": "2026-06-04T00:27:07.922462+00:00",
   "items": [
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-06-03",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
     {
       "title": "CBER 使用真實世界證據的生物產品批准",
       "summary": "美國食品藥物管理局 (美國食藥局（FDA）) 使用真實世界數據 (RWD) 和真實世界證據 (RWE) 支持醫療產品整個生命週期的監管決策，包括上市前評估和上市後安全性和有效性監測",
@@ -19,11 +27,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-06-02",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "title": "Cellares 和 TScan 同意評估自動化製造 TSC-101 對血液惡性腫瘤患者的療效",
+      "summary": "隨著 TSC-101 進入關鍵試驗（預計將於今年稍後開始），Cellares 的製造平台正在被評估為滿足未來需求的可擴展且經濟的途徑。\n用於患有以下疾病的患者的後期製造 TSC-101",
+      "source": "GEN News",
+      "date": "2026-06-03",
+      "url": "https://www.genengnews.com/topics/cancer/cellares-and-tscan-agree-to-evaluate-automated-manufacturing-tsc-101-for-patients-with-hematologic-malignancies/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "更溫和的細胞分離方法獲得動力",
+      "summary": "隨著細胞療法開發商推動商業規模生產，生物加工專家重新思考如何分離造血幹細胞。新興的基於浮力的技術有望實現更高的產量、更溫和的處理以及可擴展的工作流程，",
+      "source": "GEN News",
+      "date": "2026-06-03",
+      "url": "https://www.genengnews.com/topics/bioprocessing/gentler-cell-separation-gains-momentum/",
       "lang": "zh-TW"
     },
     {
@@ -32,22 +48,6 @@
       "source": "FDA Biologics",
       "date": "2026-06-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fulcrum 停止 SCD 候選藥物 Pociredir 的開發，並進行策略審查",
-      "summary": "美國食藥局（FDA） 的擔憂是該機構在最近的階段末會議上向 Fulcrum 高層提出的，源自於另一種 PRC2 抑制劑 Ipsen 的 Tazverik®（tazemetostat）出現意外高的繼發性血癌發生率。",
-      "source": "GEN News",
-      "date": "2026-06-02",
-      "url": "https://www.genengnews.com/topics/translational-medicine/fulcrum-halts-development-of-scd-candidate-pociredir-sets-strategic-review/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "愛迪維恩",
-      "summary": "產品核准資訊適用於患有 B 型血友病（先天性因子 IX 缺乏症）的兒童和成人： 1) 按需控制和預防出血事件； 2） 圍手術期出血處理；3) 常規預防",
-      "source": "FDA Biologics",
-      "date": "2026-06-01",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/idelvion",
       "lang": "zh-TW"
     },
     {

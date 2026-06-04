@@ -1,7 +1,15 @@
 {
   "module": "funding",
-  "updated": "2026-06-03T15:27:38.836512+00:00",
+  "updated": "2026-06-04T00:27:38.368803+00:00",
   "items": [
+    {
+      "title": "STAT+：Alnylam 與 Inceptive Nucleics 合作開發 RNAi 療法的 AI 基礎模型",
+      "summary": "Alnylam 宣布與 Inceptive 達成為期三年的協議，價值​​高達 20 億美元，其中 3,000 萬美元是該新創公司的預付現金和股權。",
+      "source": "STAT News",
+      "date": "2026-06-03",
+      "url": "https://www.statnews.com/2026/06/03/alnylam-partner-with-inceptive-nucleics-ai-foundation-models/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：傳奇生物成為罕見的市場贏家",
       "summary": "基因療法開發商的新指南、禮來公司的腎臟藥物交易以及來自 The Readout 的更多生物技術新聞",
@@ -24,6 +32,14 @@
       "source": "STAT News",
       "date": "2026-06-03",
       "url": "https://www.statnews.com/2026/06/03/eating-disorders-men-military-troops-veterans/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "「體內」淋巴瘤細胞療法的早期數據傳奇激增",
+      "summary": "初步研究結果表明，該療法減少或消除了所有接受者的疾病症狀，引發了人們的希望，即該療法可能與諾華公司的 Kymriah 等「體外」藥物競爭。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-03",
+      "url": "https://www.biopharmadive.com/news/legend-in-vivo-car-t-LB2501-lymphoma-data-eha/821882/",
       "lang": "zh-TW"
     },
     {
@@ -72,22 +88,6 @@
       "source": "STAT News",
       "date": "2026-06-02",
       "url": "https://www.statnews.com/2026/06/02/health-news-testing-one-state-medical-meal-progra/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：全球聯盟將提供 6,200 萬美元資金，快速開發三種針對伊波拉疫情的疫苗",
-      "summary": "由於沒有獲得許可的疫苗可以預防目前在剛果傳播的伊波拉病毒，因此正在努力快速開發至少三種疫苗。",
-      "source": "STAT News",
-      "date": "2026-06-01",
-      "url": "https://www.statnews.com/2026/06/01/ebola-bundibugyo-vaccine-studies-cepi-62-million-funding/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "RallyBio 再次嘗試反向合併，這次是與 Avenzo",
-      "summary": "這是這家罕見疾病公司的第二次嘗試，在免疫藥物開發商 Candid Therapeutics 被 UCB 收購之前，該公司最初宣布了與 Candid Therapeutics 合併的計劃。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-01",
-      "url": "https://www.biopharmadive.com/news/avenzo-rallybio-reverse-merger-cancer-drugs/821613/",
       "lang": "zh-TW"
     },
     {
