@@ -1,50 +1,50 @@
 {
   "module": "regulation",
-  "updated": "2026-06-04T00:27:07.922462+00:00",
+  "updated": "2026-06-04T13:56:04.436649+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑最新動態",
+      "summary": "來自美國食品藥物管理局（FDA）生物製劑評估與研究中心的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-06-03",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 使用真實世界證據的生物產品批准",
-      "summary": "美國食品藥物管理局 (美國食藥局（FDA）) 使用真實世界數據 (RWD) 和真實世界證據 (RWE) 支持醫療產品整個生命週期的監管決策，包括上市前評估和上市後安全性和有效性監測",
+      "title": "美國食品藥物管理局（FDA）生物製劑評估與研究中心採用真實世界證據核准的生物製劑",
+      "summary": "美國食品藥物管理局（FDA）運用真實世界數據（RWD）與真實世界證據（RWE），來協助產品生命週期中的法規決策。",
       "source": "FDA Biologics",
       "date": "2026-06-03",
       "url": "http://www.fda.gov/science-research/real-world-evidence/cber-biological-product-approvals-used-real-world-evidence",
       "lang": "zh-TW"
     },
     {
-      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
-      "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
+      "title": "在結合基因編輯技術的人類基因療法產品開發中，如何運用既有知識",
+      "summary": "這是關於結合基因編輯技術的人類基因療法產品開發的產業指引草案。",
       "source": "FDA Biologics",
       "date": "2026-06-03",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
       "lang": "zh-TW"
     },
     {
-      "title": "Cellares 和 TScan 同意評估自動化製造 TSC-101 對血液惡性腫瘤患者的療效",
-      "summary": "隨著 TSC-101 進入關鍵試驗（預計將於今年稍後開始），Cellares 的製造平台正在被評估為滿足未來需求的可擴展且經濟的途徑。\n用於患有以下疾病的患者的後期製造 TSC-101",
+      "title": "Cellares與TScan將評估自動化生產TSC-101，用於血液惡性腫瘤患者",
+      "summary": "Cellares與TScan合作評估TSC-101的自動化生產，以支援該產品預計今年稍晚啟動的關鍵性臨床試驗。",
       "source": "GEN News",
       "date": "2026-06-03",
       "url": "https://www.genengnews.com/topics/cancer/cellares-and-tscan-agree-to-evaluate-automated-manufacturing-tsc-101-for-patients-with-hematologic-malignancies/",
       "lang": "zh-TW"
     },
     {
-      "title": "更溫和的細胞分離方法獲得動力",
-      "summary": "隨著細胞療法開發商推動商業規模生產，生物加工專家重新思考如何分離造血幹細胞。新興的基於浮力的技術有望實現更高的產量、更溫和的處理以及可擴展的工作流程，",
+      "title": "更溫和的細胞分離技術日益受到重視",
+      "summary": "隨著細胞治療邁向商業化生產，生物製程專家正重新思考更溫和的造血幹細胞分離方法。",
       "source": "GEN News",
       "date": "2026-06-03",
       "url": "https://www.genengnews.com/topics/bioprocessing/gentler-cell-separation-gains-momentum/",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞和基因治療指南",
-      "summary": "此頁麵包含細胞和基因治療指南的清單。",
+      "title": "細胞與基因療法相關指引",
+      "summary": "本頁面列出所有細胞與基因療法相關的指引文件。",
       "source": "FDA Biologics",
       "date": "2026-06-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
@@ -82,8 +82,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "GC Cell 獲得日本細胞療法生產設施認證",
-      "summary": "細胞療法製造工廠 koreabiomed.com",
+      "title": "GC Cell 細胞治療生產設施取得日本認證",
+      "summary": "GC Cell的細胞治療生產設施獲得日本官方認證，有助於其在日本市場的發展。",
       "source": "koreabiomed.com",
       "date": "2026-05-06",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QbmlxMWlnUEtSODJZY0o0XzZGZmNReXlHQ21vbkNJRzJkRVJ2UnAwT0dGclNCQ3Z0QjdYVThQNzREMy1YVl9FT3JSLXprWHYxRnl5NTR4WHRJZ1NBOXo0emItQnEyS0JaNlM5M3dB0gFyQVVfeXFMTUdSVl8yUW5iNGkzX241OXBSLVdWV1U3TVdPRFEtT1JzcmtnbW5GcW41QjNhbkZWWDBOaTJHY3FkZjJRMWVwT0ZPb3lwWFNYNjBTZ2Z6UlRDckZtU085bW1CLUpOTHRlbkxoSTh6dXJoR2lR?oc=5",
