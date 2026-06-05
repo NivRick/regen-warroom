@@ -1,10 +1,10 @@
 {
   "module": "research",
-  "updated": "2026-06-04T13:55:22.537642+00:00",
+  "updated": "2026-06-05T00:01:20.072363+00:00",
   "items": [
     {
-      "title": "腸道菌群與代謝物如何驅動免疫細胞時空動態影響腫瘤發展",
-      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除腫瘤細胞方面扮演關鍵角色，越來越受到重視。",
+      "title": "腸道菌群與代謝物驅動的免疫細胞時空動態對腫瘤的影響",
+      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除腫瘤細胞方面扮演關鍵角色，越來越受到關注。",
       "source": "PubMed",
       "date": "2026-06-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42207498/",
@@ -20,7 +20,7 @@
     },
     {
       "title": "藥物傳輸中的生物基奈米材料：最新評論。",
-      "summary": "生物基奈米材料因其生物相容性、生物降解性和增強治療性能的能力而成為有前景的藥物傳輸平台。傳統的藥物輸送系統往往受到藥物溶解度差、降解快、生物利用度低和非特異性等限制。",
+      "summary": "生物基奈米材料因其生物相容性、生物降解性和增強治療性能的能力而成為有前景的藥物傳輸平台。傳統的藥物傳遞系統往往受到藥物溶解度差、降解快、生物利用度低和非特異性等限制。",
       "source": "PubMed",
       "date": "2026-06-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42232345/",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "模組化活體組裝骨骼類器官，並引導其體內血管化",
-      "summary": "類器官已成為重現組織結構與功能的重要策略，為再生醫學開闢新途徑。然而，如何有效組裝並引導其血管化，是其應用於再生醫學的關鍵挑戰",
+      "title": "模組化活體骨類器官組裝與原位引導血管化",
+      "summary": "類器官已成為一種強大的策略，能重現組織結構與功能，為再生醫學開闢了新途徑。然而",
       "source": "PubMed",
       "date": "2026-06-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42199385/",
       "lang": "zh-TW"
     },
     {
-      "title": "使用工程心臟組織模擬遺傳性長 QT 症候群的室性心搏過速。",
-      "summary": "先天性長 QT 症候群 (LQTS) 使患者容易發生惡性室性心搏過速，但目前仍存在這種情況",
+      "title": "利用工程化心臟組織模擬遺傳性長QT",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42164997/",
@@ -108,7 +108,7 @@
     },
     {
       "title": "大戟 (Euphorbia humifusa Willd)。透過 ACSL4/COX-2 軸抑制脂質過氧化來緩解潰瘍性結腸炎。",
-      "summary": "大戟（Euphorbia humifusa Willd.，EH），學名地金草，是一種用於治療痢疾和腸炎的傳統中草藥，具有治療潰瘍性結腸炎（UC）的潛力，但其機制尚不清楚。",
+      "summary": "大戟（Euphorbia humifusa Willd.，EH），學名地錦草，是一種用於治療痢疾和腸炎的傳統中草藥，具有治療潰瘍性結腸炎（UC）的潛力，但其機制尚不清楚。",
       "source": "PubMed",
       "date": "2026-06-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42106018/",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "結合鍶鋅共取代介孔二氧化矽奈米粒子的生物模擬水凝膠，具骨骼免疫調節與血管新生功能，用於高階骨骼再生",
-      "summary": "大尺寸骨缺損的重建一直是臨床上的一大挑戰，尤其當其併發細菌感染時，情況更為複雜。",
+      "title": "結合鍶鋅共取代介孔二氧化矽奈米粒子的生物模擬水凝膠，具骨骼免疫調節與血管新生功能，用於進階骨骼再生",
+      "summary": "關鍵尺寸骨缺損的重建，在臨床上仍是一大挑戰，尤其當其併發細菌感染及宿主...",
       "source": "PubMed",
       "date": "2026-06-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42134206/",
@@ -211,8 +211,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "運用虛擬實境（VR）教導偏頭痛患者正念療法",
-      "summary": "狀態：尚未開始招募｜主辦單位：布萊根婦女醫院｜這項臨床試驗旨在探討偏頭痛患者是否能透過生物行為療法學習正念。",
+      "title": "[NA] 使用虛擬實境向偏頭痛患者教授正念",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：布萊根婦女醫院｜這項臨床試驗的目的是了解偏頭痛患者是否可以透過使用虛擬實境耳機來學習一種稱為接受與承諾療法（ACT）的生物行為療法。研究人員正在研究這種正念是否有效",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-04",
       "url": "https://clinicaltrials.gov/study/NCT07599228",
@@ -228,22 +228,30 @@
     },
     {
       "title": "[PHASE2] 國家肝臟再生醫學合作中心 (NC-CHRM)：評估間質幹細胞治療在非病毒急性慢性肝衰竭 (ACLF) 患者中的 II 期試驗",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：印度肝臟與膽道科學研究所｜肝臟疾病死亡人數正在上升，但印度的移植手術仍然稀缺。每年需要超過 10 萬例，但僅進行了約 2,500 例，因此迫切需要非移植選擇。再生療法，尤其是間質幹細胞，顯示出希望，但缺乏驗證",
+      "summary": "状态：NOT_YET_RECRUITING｜主办单位：印度肝脏与胆道科学研究所｜肝病死亡人数正在上升，但印度的移植手术仍然稀缺。每年需要超過 10 萬例，但僅進行了約 2,500 例，因此迫切需要非移植選擇。再生療法，尤其是間質幹細胞，顯示出希望，但缺乏驗證",
       "source": "ClinicalTrials.gov｜India",
       "date": "2026-06-04",
       "url": "https://clinicaltrials.gov/study/NCT07131306",
       "lang": "zh-TW"
     },
     {
-      "title": "Longeveron 將出席 2026 年 BIO 國際大會",
-      "summary": "2026 年國際大會 馬尼拉時報",
-      "source": "The Manila Times",
+      "title": "Lyell Immunopharma 將在 EHA 2026 大會上展示 Rondecabtagene Autoleucel 的 1/2 期臨床試驗數據",
+      "summary": "EHA 2026 大會上 Rondecabtagene Autoleucel 的臨床試驗資料 Quiver 定量",
+      "source": "Quiver Quantitative",
       "date": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeE9GdkFSNW1iNThKOUxYU0RyWGJJTTVKS2RETHdJUHBrZ1JwaGFseGQ1a19mbDE4aW5EYnFiSmhIdW0wNjVEUVZNT2s1OWxxb2pqbkJMcXE0aWJ6dEl0ZXlMeDR1UHBCTXdoSE1uMWhtNFVpM1lDV25YcndaOWN1ODZaWnh2N3JTRVA4QzVzWW1OY1J4amowbjVxSHNCcW45eWRGWjV2STgzUkdTMzh3bVNXTlB1cnNRVkFxelEyLWF5TjNZa2NkZ2RWNEvSAdIBQVVfeXFMUFJLX1FNNElfZS1RbFpwQkZaTml5YlNBVHBnbmlrRkZMa0ZvLW9WVnUxS21pbFdmcGotS2g5UjFXdFlEWFZVbWNuVGF2SFdGN3h2V0VPSTBoRm9Vb1lHbktNMlk1ZUw5MjIyWklWUWJmVjFFdXk4a2JPT0RwNTFCcDRpLWNnRW44by0zSGdTZnZJbV9NVTRQYUxjZTBaTlFFemxfOWo1NS15eEZPTUhOYTE4SERtazJJbWdzU2M4SjZBaV9scWNxNGF5dDhCWU9oYXBB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM1Zod2l6ZnNKREhKN0xKU0ozXzdlMmNtbUZWX19fckNNdmtPSndpMmFKbEJ0aVctR1FvM3BiVzI2LWhwNG5UbXYxbEZGdHZQMFRWa3JWUWZ6cUN4TW9FemdWWU1KbFhpdGxaa1R0THdTcVRDVV9jMGdHVHhJY1lxZTNsZkNHZzRReWFVbkhDMVdIVEtQaHVPQkYwWTZlVTlQTnF5dnlsVHprTFhxS1hvVWJxcG44RGRFTXJZbXc0ZXYteWRsRkVJRU5WSHVKRERweHVLTDg1VGNKNXcx?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "更溫和的細胞分離方法獲得動力",
+      "title": "Lyell CAR-T細胞療法 研究報告淋巴瘤的低度副作用",
+      "summary": "對淋巴瘤的影響 Stock Titan",
+      "source": "Stock Titan",
+      "date": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzBOaWxRR1pXS0ZFb3k3Ym5YanlGYVVzM2ZZNWpMMS1Yak5uMzRha21PVWFZVG9KcHJFZVRxeTRYZkxfelQzWlVlQkVrT0U5UVAwQ1B1VGI0bFROd3JRNGlyTTB0SGdrSGZ6cjJua1E2enZyem83UjgxWWIyMTk1NVZ0dUxvTkcwMEFPQ2RUR1BSSjRGeVN4SmxCQWpVeFpNRk1uT05PX3YwLWZyeU9kOHhnYWpHRWxhRG9F?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Gentler Cell Separation Methods Gain Momentum",
       "summary": "隨著細胞療法開發商推動商業規模生產，生物加工專家重新思考如何分離造血幹細胞。新興的基於浮力的技術有望實現更高的產量、更溫和的處理以及可擴展的工作流程，",
       "source": "GEN News",
       "date": "2026-06-03",
@@ -251,8 +259,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026年美國臨床腫瘤學會（",
-      "summary": "",
+      "title": "CNS 腫瘤的新興療法：ASCO 2026 值得關注的關鍵臨床試驗更新",
+      "summary": "ASCO 2026 上值得關注的臨床試驗更新 Yahoo",
       "source": "Yahoo",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVJ4VWpDb281NWZCNzMzNTFRLVBUay16Tl80X0QtdFlJTDRFMndlVy1jUERrQXJyMXpOb1Q2T3RLU05sNU9ya2syeDU4cG5lbi1HYzV5X18wSTQ5NjgyZEJiTjhDMTN2UlF4RTNUZlRpUjVfSnVZclA3MERIZzF6NEVBQ2E1SDh0aXQ3UU5DMUFDZ0JvLUxzaw?oc=5",
@@ -267,19 +275,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "珀爾穆特癌症中心研究人員將於2026年美國臨床腫瘤學會（ASCO）年會發表最新研究成果",
-      "summary": "珀爾穆特癌症中心將在2026年ASCO年會上，分享其在癌症研究領域的最新發現。",
+      "title": "Perlmutter 癌症中心的研究人員在 2026 年 ASCO 年會上展示最新發現",
+      "summary": "r 在 2026 年 ASCO 年會上展示最新研究結果 NYU Langone Health",
       "source": "NYU Langone Health",
       "date": "2026-06-01",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSE0zMkkzNW9VNkhrNGlyYVk1OWYya01wQUlBRWxsRFpKUV9xV0Q5R0dsM1BpblpiMk1oSEhIUC1zM0k1bUhPaGhoX1Y0bi1pWDdMWDlqdFpuZ05IN1htbjFXbF9COUdabjJkVFA4aU1lX1RxWEwyY25ybDd3YmJZLXJWaGcyTVVwbFRKUHhYRUpwc3BvOWNNbjdyVy1YOWdQd3hhNnZqMndjZDd2QUQ2aUJwSQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "試驗顯示，剝離癌細胞「隱形斗篷」的智慧藥物可使腫瘤縮小 30%",
-      "summary": "《衛報》試驗顯示「隱形斗篷」可使腫瘤縮小 30%",
-      "source": "The Guardian",
-      "date": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVMxdmFLbnBxX1hpSlpDUDN3bGZMNDhyOTBZYkxwSHpiM3c4N1hORDI4akJLSERhZU5BdFNXSWpDckRGZW5xdzlYQVdQbV82SHVIVnkxUExKUjY2M2ZJdEY5bkNHbDYwcW5JY2s3bzBRam1qckFpTzJfRWtzYXA4R1NHR3NwMVZ1N1BfVlZuVHFwdEtRYmJxLXNjV1cxX2ZvbC1iQjMwaF9IcXExb3dUdQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -292,7 +292,7 @@
     },
     {
       "title": "[NA] 使用單細胞 RNA 定序評估音樂療法對鐮狀細胞疾病青少年的分子機制和效果",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：埃默里大學｜這項臨床試驗的目標是評估為期 4 週的音樂療法 (MT) 幹預是否可以減輕鐮狀細胞疾病 (SCD) 青少年的慢性疼痛并改善心理社會結果。\n\n它旨在回答的主要問題是：\n\n* MT 是否",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：埃默里大學｜這項臨床試驗的目標是評估為期 4 週的音樂療法 (MT) 幹預是否可以減輕鐮狀細胞疾病 (SCD) 青少年的慢性疼痛并改善心理社會結果。\n\n它旨在回答的主要問題是：\n\n* MT 是否",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06",
       "url": "https://clinicaltrials.gov/study/NCT07562451",
@@ -307,11 +307,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "ASCO 2026：第一個專題研究引入了潛在的新標準",
-      "summary": "uce 潛在的新標準 腫瘤學新聞中心",
-      "source": "Oncology News Central",
-      "date": "2026-05-30",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTl9BR2ZIckExTXVjTm9GRUdDdzFuSWJaQmdsY2ZNYWpyZmw5YTQweXp2cjVZOVNWRldDWlE4M2dxc05RM1NEZ0doYXRMVWliaUtjaGxhN0p2TVFBcnIxZmw5ZUpVUTh2Z29IZTBteWJEZWdsbzdyelg3eU13VDhpaE50cDVMV0tQTVhIaVlvbHBNQmx0TFlGaXExckZwb0ZmbDd6bm1GY1AtQjlkckdFUg?oc=5",
+      "title": "ASCO：禮來公司高層指出，體內實驗 CAR-T細胞療法 的「瘋狂」100% 回應率證明 Kelonia 收購是合理的",
+      "summary": "體內 CAR-T細胞療法 的回應率證明 Kelonia 收購 Fierce Biotech 是合理的",
+      "source": "Fierce Biotech",
+      "date": "2026-05-31",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3hMQnVkSG5tbkFJdFNMR0pQMlRucXlRZGtPV1llY2FQMWRoU09IRk9ZbmxUaTRUSXY1UURjTkRLN2F0VFBBTGFsdWhzUGNDeVNYTjFKNEpvc19TU1hoel9ZMkZkSzRlUDlfUEYtTTg2Q1duQmtoQkp6OWgzSWpEVjhOM3pEMUt6NmN3TFA2NlV1UG10YTdjZHZyc01OZ2dKT0FmWHZ4S1liR3ZC?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -323,8 +323,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "UX",
-      "summary": "",
+      "title": "【PHASE1】UX-GIP001治療抗藥性單側內側顳葉癲癇I期臨床試驗",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：上海優賽爾生物科技有限公司｜這是一項I期研究（方案：UX-GIP001-102），研究UX-GIP001注射液，一種由人類GABA能中間神經元祖細胞（GIP）組成的新型細胞治療產品，用於治療單側體溫",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-05-20",
       "url": "https://clinicaltrials.gov/study/NCT07572812",
@@ -347,16 +347,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "這款廣受歡迎的護膚成分是肌膚年輕、容光煥發的秘訣嗎？真皮的重量",
-      "summary": "想要擁有年輕、容光煥發的肌膚嗎？ NBC 新聞中的真皮重量",
-      "source": "NBC News",
-      "date": "2026-05-17",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQ1VHZFFyMWxMSklxWG5ra2JDNWlmMG9rWGlvellZX1JBNFdnZktZUFNULWFZSmxvbi1kN3RTN2FnXy1iejlGMWljV3lTYWRXSmczaUpfM3U2YjZfbXZCYnM3OC1FX2dRS25pTTFiNVVNRTNUdXNsaQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE2] ASP-1929與Cemiplimab光免疫療法治療難治、無法手術及轉移性III B-IV期非小細胞肺癌",
-      "summary": "這項二期臨床試驗將評估ASP-1929結合Cemiplimab的光免疫療法（PIT），在治療",
+      "title": "[二期臨床] ASP-1929光免疫療法結合Cemiplimab治療頑固性、無法手術及轉移性III B-IV期非小細胞肺癌",
+      "summary": "狀態：尚未招募｜主辦：羅斯威爾公園癌症中心｜這項二期臨床試驗旨在評",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-05-15",
       "url": "https://clinicaltrials.gov/study/NCT06943664",

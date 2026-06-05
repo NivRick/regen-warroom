@@ -1,37 +1,29 @@
 {
   "module": "funding",
-  "updated": "2026-06-04T13:56:32.167801+00:00",
+  "updated": "2026-06-05T00:02:20.653785+00:00",
   "items": [
     {
-      "title": "STAT+：藥廠小道消息：德國藥廠投資減少、美國裁員增加等",
-      "summary": "禮來（Eli Lilly）因應德國的成本撙節法案，將其原定在德國生產減重注射劑的投資砍半。",
+      "title": "STAT+: Pharmalittle: We’re reading about fewer pharma investments in Germany, growing U.S. layoffs, and more",
+      "summary": "為了回應成本削減法，禮來公司將原計劃在德國生產減肥注射器的投資減半",
       "source": "STAT News",
       "date": "2026-06-04",
       "url": "https://www.statnews.com/pharmalot/2026/06/04/fewer-pharma-investments-in-germany-growing-layoffs-in-us/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Alnyl",
-      "summary": "",
+      "title": "Alnylam 與 Inceptive 墨水人工智慧交易可能價值 20 億美元",
+      "summary": "這家專注於 RNA 的製藥商表示，Inceptive 的工具將有助於確定最佳開發方案的優先順序，並加快研究進程。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-04",
+      "url": "https://www.biopharmadive.com/news/alnylam-inceptive-ai-drug-discovery-rna-deal-artificial-intelligence/822008/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Alnylam 與 Inceptive Nucleics 合作開發 RNAi 療法的 AI 基礎模型",
+      "summary": "Alnylam 宣布與 Inceptive 達成為期三年的協議，價值​​高達 20 億美元，其中 3,000 萬美元是該新創公司的預付現金和股權。",
       "source": "STAT News",
       "date": "2026-06-03",
       "url": "https://www.statnews.com/2026/06/03/alnylam-partner-with-inceptive-nucleics-ai-foundation-models/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：傳奇生物成為罕見的市場贏家",
-      "summary": "基因療法開發商的新指南、禮來公司的腎臟藥物交易以及來自 The Readout 的更多生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-06-03",
-      "url": "https://www.statnews.com/2026/06/03/biotech-news-legend-biotech-emerges-as-rare-market-winner/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關 GLP-1 藥物和膝蓋、美國食藥局（FDA） 細胞和基因治療指南等的信息",
-      "summary": "一項新研究發現，服用減肥藥至少三年可以避免每年數千例膝關節置換手術",
-      "source": "STAT News",
-      "date": "2026-06-03",
-      "url": "https://www.statnews.com/pharmalot/2026/06/03/weight-loss-drugs-knee-replacements-fda-cell-gene-therapy/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -51,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "NewLimit 的 4.35 億美元巨額投資；禮來公司忙碌的交易週",
+      "title": "NewLimit 的 4.35 億美元巨額融資；禮來公司忙碌的交易週",
       "summary": "這家抗衰老生物技術公司已獲得今年最大的風險投資之一，將其第一種藥物投入測試。其他方面，禮來公司 (Lilly) 獲得了一種「GLP-2」減肥藥物，Praxis 股價暴跌。",
       "source": "BioPharma Dive",
       "date": "2026-06-03",
@@ -67,11 +59,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026年Fierce生技募資追蹤報告：NewLimit募得4.35億美元，Accro完成5000萬美元C輪募資",
-      "summary": "NewLimit公司成功募得4.35億美元，而Accro也順利完成5000萬美元的C輪募資。",
+      "title": "Fierce Biotech 籌款追蹤器 '26：NewLimit 籌集 4.35 億美元； Accro 獲得 5000 萬美元 C 輪融資",
+      "summary": "NewLimit 獲得 4.35 億美元； Accro 獲得 5,000 萬美元 C 輪融資 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "source": "PharmTech.com",
+      "date": "2026-05-22",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     }
   ]
