@@ -1,29 +1,21 @@
 {
   "module": "funding",
-  "updated": "2026-06-05T00:02:20.653785+00:00",
+  "updated": "2026-06-05T13:51:57.439432+00:00",
   "items": [
     {
-      "title": "STAT+: Pharmalittle: We’re reading about fewer pharma investments in Germany, growing U.S. layoffs, and more",
-      "summary": "為了回應成本削減法，禮來公司將原計劃在德國生產減肥注射器的投資減半",
+      "title": "STAT+：藥業快訊：德國藥廠投資縮手、美國裁員潮起，還有更多",
+      "summary": "禮來（Eli Lilly）因應德國一項成本削減法案，將其在德國生產減重注射劑的原定投資砍半。",
       "source": "STAT News",
       "date": "2026-06-04",
       "url": "https://www.statnews.com/pharmalot/2026/06/04/fewer-pharma-investments-in-germany-growing-layoffs-in-us/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Alnylam 與 Inceptive 墨水人工智慧交易可能價值 20 億美元",
-      "summary": "這家專注於 RNA 的製藥商表示，Inceptive 的工具將有助於確定最佳開發方案的優先順序，並加快研究進程。",
+      "title": "Alnylam、In",
+      "summary": "",
       "source": "BioPharma Dive",
       "date": "2026-06-04",
       "url": "https://www.biopharmadive.com/news/alnylam-inceptive-ai-drug-discovery-rna-deal-artificial-intelligence/822008/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Alnylam 與 Inceptive Nucleics 合作開發 RNAi 療法的 AI 基礎模型",
-      "summary": "Alnylam 宣布與 Inceptive 達成為期三年的協議，價值​​高達 20 億美元，其中 3,000 萬美元是該新創公司的預付現金和股權。",
-      "source": "STAT News",
-      "date": "2026-06-03",
-      "url": "https://www.statnews.com/2026/06/03/alnylam-partner-with-inceptive-nucleics-ai-foundation-models/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -59,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech 籌款追蹤器 '26：NewLimit 籌集 4.35 億美元； Accro 獲得 5000 萬美元 C 輪融資",
-      "summary": "NewLimit 獲得 4.35 億美元； Accro 獲得 5,000 萬美元 C 輪融資 Fierce Biotech",
+      "title": "Fierce Biotech 籌款追蹤 '26：Ona 籌集 8,660 萬美元； Contraline B 輪融資 9,250 萬美元",
+      "summary": "Ona 土地價值 8,660 萬美元； Contraline B 輪融資 9,250 萬美元 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
