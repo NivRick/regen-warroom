@@ -1,6 +1,6 @@
 {
   "module": "regulation",
-  "updated": "2026-06-05T13:51:40.708486+00:00",
+  "updated": "2026-06-06T00:01:38.355795+00:00",
   "items": [
     {
       "title": "生物製品的新動態",
@@ -8,6 +8,22 @@
       "source": "FDA Biologics",
       "date": "2026-06-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "傳染源捐贈者篩檢試驗和 HIV 診斷試驗的完整列表",
+      "summary": "不同類型供體篩選測定的連結。每個測定的表格都提供了詳細信息，例如商品名、傳染原、格式、樣本、用途、製造商、批准日期和 STN。",
+      "source": "FDA Biologics",
+      "date": "2026-06-05",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/complete-list-donor-screening-assays-infectious-agents-and-hiv-diagnostic-assays",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
+      "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
+      "source": "FDA Biologics",
+      "date": "2026-06-05",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
       "lang": "zh-TW"
     },
     {
@@ -27,47 +43,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
-      "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
-      "source": "FDA Biologics",
-      "date": "2026-06-03",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Cellares 與 TScan 攜手評估自動化生產 TSC-101，鎖定血液惡性腫瘤病患",
-      "summary": "Cellares 與 TScan 宣布合作，將評估 Cellares 的自動化生產平台，用於 TScan 治療血液惡性腫瘤的細胞療法 TSC-101。此舉旨在為後續關鍵性臨床試驗做準備。",
-      "source": "GEN News",
-      "date": "2026-06-03",
-      "url": "https://www.genengnews.com/topics/cancer/cellares-and-tscan-agree-to-evaluate-automated-manufacturing-tsc-101-for-patients-with-hematologic-malignancies/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "細胞和基因治療指南",
-      "summary": "此頁麵包含細胞和基因治療指南的清單。",
-      "source": "FDA Biologics",
-      "date": "2026-06-02",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "再生醫療雙法上路 天明製藥聚焦品質管理與產業布局",
-      "summary": "",
-      "source": "獨家報導",
-      "date": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOWlhaLVoxWEJja3h1MDA3Z2NNaFhNUXhPTWRhY1pzWXVRajJlNWZYVGJoV0NyTXI0eVU0RXA1Z1gyd1MxLXo3Nks5OUZLU0c3RWxCakYzSExMQXNucGNHRzFpYjNWd0ZjZGNhR3otdGFLaVhRanNuNklydXdXNWR1OVYxamIzMFRBQUc1STFaMmtHdFdTRGVRTnBlaXIwU1lFSDZvNEZmME05c0xhNU92N3RwbkVJUVZLckJZUVdDVlpfNWdMcTdwREp6dUtsbHZNUHRJT1l5N2FJbTZodEZWWTEzc19EdElYT3BFbjJUcF80YnVyRnFURl94Z1IzZU12RXNTeUVDcTlBRVMxOWplSlotOUdXLUpLQms5WHJ3Q3ZKOEZRSS1pY25QWUdqc3cwcmZpUGNRWGlCdXpXbFhPMmh6cmhJWFREbW9LVWtRT01KN3FjbG16RXRJNzA?oc=5"
-    },
-    {
-      "title": "The CHMP’s May 2026 Output Signals a Structural Shift in European Drug Development — Sponsors Should Take Notes Now",
-      "summary": "歐洲藥物開發的結構轉變－申辦者現在應該注意了臨床試驗先鋒",
-      "source": "The Clinical Trial Vanguard",
-      "date": "2026-05-24",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQk9vMEFxYk12aDNMRWkzbC1pMHdkbmFIMWN6OVhERjJUbDVaYkk5enR5QWlELS01SWVkV2Fiak9NVTNCbkx0T2lSNkpQWm5EQ0IxeUtleVpnZUl1Uzdhd2FacklraWdaUUJvWk85YjhvOFA2Z1lQMTVDUDMyNGtLWEh2V3NBQUp1UWlScWs1TjFxZHhXWWYyVElJRDk0N29rRDR3VTVUS05qY05xQ2tEWGpGWEp4dHgxMDRCYzNOclpZWnNXdHo2QnQ3WUZOYUR1QWswRVE2Z1A0VzJrcTgyZFk0SXlLTkRNRGFib0JyM0w?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
-      "summary": "tion Cell and 基因療法 Manufacturing Technologies PharmTech.com",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
       "source": "PharmTech.com",
       "date": "2026-05-22",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",

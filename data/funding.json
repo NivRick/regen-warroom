@@ -1,21 +1,21 @@
 {
   "module": "funding",
-  "updated": "2026-06-05T13:51:57.439432+00:00",
+  "updated": "2026-06-06T00:01:55.415941+00:00",
   "items": [
     {
-      "title": "STAT+：藥業快訊：德國藥廠投資縮手、美國裁員潮起，還有更多",
-      "summary": "禮來（Eli Lilly）因應德國一項成本削減法案，將其在德國生產減重注射劑的原定投資砍半。",
-      "source": "STAT News",
-      "date": "2026-06-04",
-      "url": "https://www.statnews.com/pharmalot/2026/06/04/fewer-pharma-investments-in-germany-growing-layoffs-in-us/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Alnylam、In",
-      "summary": "",
+      "title": "Alnylam 與 Inceptive 墨水人工智慧交易可能價值 20 億美元",
+      "summary": "這家專注於 RNA 的製藥商表示，Inceptive 的工具將有助於確定最佳開發方案的優先順序，並加快研究進程。",
       "source": "BioPharma Dive",
       "date": "2026-06-04",
       "url": "https://www.biopharmadive.com/news/alnylam-inceptive-ai-drug-discovery-rna-deal-artificial-intelligence/822008/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Otsuka showcases kidney drug data; Pfizer cuts an AI deal",
+      "summary": "Voyxact 有助於保護腎功能，但為 Vera 和 Vertex 的 IgAN 競爭藥物留下了空間。在其他地方，武田 (Takeda) 與信達生物 (Innovent) 的聯盟帶來了早期紅利，Axsome 也擊退了仿製藥競爭對手。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-04",
+      "url": "https://www.biopharmadive.com/news/otsuka-voyxact-pfizer-chai-takeda-innovent-axsome/821990/",
       "lang": "zh-TW"
     },
     {
@@ -35,19 +35,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "NewLimit 的 4.35 億美元巨額融資；禮來公司忙碌的交易週",
+      "title": "NewLimit 的 4.35 億美元巨額投資；禮來公司忙碌的交易週",
       "summary": "這家抗衰老生物技術公司已獲得今年最大的風險投資之一，將其第一種藥物投入測試。其他方面，禮來公司 (Lilly) 獲得了一種「GLP-2」減肥藥物，Praxis 股價暴跌。",
       "source": "BioPharma Dive",
       "date": "2026-06-03",
       "url": "https://www.biopharmadive.com/news/newlimit-lilly-hanmi-haisco-praxis-cytomx-regeneron/821624/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "禮來 (Lilly) 與 Ascidian 簽署 RNA 外顯子編輯協議",
-      "summary": "該交易價值高達 19 億美元，指導 Ascidian 幫助禮來公司尋找治療遺傳性腎臟疾病的潛在藥物。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-03",
-      "url": "https://www.biopharmadive.com/news/ascidian-lilly-kidney-deal-rna-exon-editing/821749/",
       "lang": "zh-TW"
     },
     {
