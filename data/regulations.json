@@ -1,61 +1,53 @@
 {
   "module": "regulation",
-  "updated": "2026-06-06T00:01:38.355795+00:00",
+  "updated": "2026-06-06T12:08:08.015428+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-06-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "傳染源捐贈者篩檢試驗和 HIV 診斷試驗的完整列表",
-      "summary": "不同類型供體篩選測定的連結。每個測定的表格都提供了詳細信息，例如商品名、傳染原、格式、樣本、用途、製造商、批准日期和 STN。",
+      "title": "捐贈者傳染病篩檢與愛滋病（HIV）診斷試劑完整清單",
+      "summary": "提供各類捐贈者篩檢試劑的連結，並附上詳細表格，包含商品名稱、傳染病原等資訊。",
       "source": "FDA Biologics",
       "date": "2026-06-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/complete-list-donor-screening-assays-infectious-agents-and-hiv-diagnostic-assays",
       "lang": "zh-TW"
     },
     {
-      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
-      "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
+      "title": "基因編輯人類基因療法產品開發中運用既有知識的指引",
+      "summary": "這份草案指引旨在協助業界開發結合基因編輯技術的人類基因療法產品。",
       "source": "FDA Biologics",
       "date": "2026-06-05",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品程序 (SOPP)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
+      "title": "生物製劑相關作業程序（SOPPs）",
+      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局生物製劑研究與審查中心（CBER）員工執行業務時所使用的規範。",
       "source": "FDA Biologics",
       "date": "2026-06-04",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 使用真實世界證據的生物產品批准",
-      "summary": "美國食品藥物管理局 (美國食藥局（FDA）) 使用真實世界數據 (RWD) 和真實世界證據 (RWE) 支持醫療產品整個生命週期的監管決策，包括上市前評估和上市後安全性和有效性監測",
-      "source": "FDA Biologics",
-      "date": "2026-06-03",
-      "url": "http://www.fda.gov/science-research/real-world-evidence/cber-biological-product-approvals-used-real-world-evidence",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
-      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "title": "歐洲生技公司正開發次世代細胞與基因療法製造技術",
+      "summary": "歐洲生技業者積極投入次世代細胞與基因療法製造技術的研發。",
       "source": "PharmTech.com",
       "date": "2026-05-22",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "GC Cell 獲得日本細胞療法生產設施認證",
-      "summary": "細胞療法製造工廠 koreabiomed.com",
-      "source": "koreabiomed.com",
-      "date": "2026-05-06",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QbmlxMWlnUEtSODJZY0o0XzZGZmNReXlHQ21vbkNJRzJkRVJ2UnAwT0dGclNCQ3Z0QjdYVThQNzREMy1YVl9FT3JSLXprWHYxRnl5NTR4WHRJZ1NBOXo0emItQnEyS0JaNlM5M3dB0gFyQVVfeXFMTUdSVl8yUW5iNGkzX241OXBSLVdWV1U3TVdPRFEtT1JzcmtnbW5GcW41QjNhbkZWWDBOaTJHY3FkZjJRMWVwT0ZPb3lwWFNYNjBTZ2Z6UlRDckZtU085bW1CLUpOTHRlbkxoSTh6dXJoR2lR?oc=5",
+      "title": "日本監管機構：心臟細胞治療數據可能足以獲准上市",
+      "summary": "日本監管單位表示，心臟細胞治療的臨床數據可能已足夠申請上市核准。",
+      "source": "Stock Titan",
+      "date": "2026-05-15",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHU2a2w0QjVxMHI1bVA0RmxHYTNJbmRPX0lEUXFXRVVHekZMenFXNFo5OHhESzBFelFGamoyRlY1V0hQMm8zUG5pY2loMXgyV24wdW1vTjAxZ1pKZkRIRndnWE9qT2txNHhySVJVZzFUdDFEa0xXQzZVMExXenZpWkhHaHVqb2pkRUVZajJmQ0t2OW5YNG56am1vMzc5bU4tZGdlTEZCSHhQQ1FrbGdMUDF3dEJIMG8?oc=5",
       "lang": "zh-TW"
     }
   ]

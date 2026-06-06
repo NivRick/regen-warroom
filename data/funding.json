@@ -1,17 +1,25 @@
 {
   "module": "funding",
-  "updated": "2026-06-06T00:01:55.415941+00:00",
+  "updated": "2026-06-06T12:08:33.925172+00:00",
   "items": [
     {
-      "title": "Alnylam 與 Inceptive 墨水人工智慧交易可能價值 20 億美元",
-      "summary": "這家專注於 RNA 的製藥商表示，Inceptive 的工具將有助於確定最佳開發方案的優先順序，並加快研究進程。",
+      "title": "意見：阿米希人如何看待疫苗、醫療成本及其他議題",
+      "summary": "阿米希人對疫苗、醫療成本等議題的看法，對公衛領域有重要啟示。",
+      "source": "STAT News",
+      "date": "2026-06-06",
+      "url": "https://www.statnews.com/2026/06/06/amish-public-health-vaccines-autism-interview-transcript/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Alnylam、Inceptive簽署AI合作案，潛在價值達20億美元",
+      "summary": "",
       "source": "BioPharma Dive",
       "date": "2026-06-04",
       "url": "https://www.biopharmadive.com/news/alnylam-inceptive-ai-drug-discovery-rna-deal-artificial-intelligence/822008/",
       "lang": "zh-TW"
     },
     {
-      "title": "Otsuka showcases kidney drug data; Pfizer cuts an AI deal",
+      "title": "大塚展示腎臟藥物數據；輝瑞達成人工智慧協議",
       "summary": "Voyxact 有助於保護腎功能，但為 Vera 和 Vertex 的 IgAN 競爭藥物留下了空間。在其他地方，武田 (Takeda) 與信達生物 (Innovent) 的聯盟帶來了早期紅利，Axsome 也擊退了仿製藥競爭對手。",
       "source": "BioPharma Dive",
       "date": "2026-06-04",
@@ -35,19 +43,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "NewLimit 的 4.35 億美元巨額投資；禮來公司忙碌的交易週",
+      "title": "NewLimit 的 4.35 億美元巨輪；禮來公司忙碌的交易週",
       "summary": "這家抗衰老生物技術公司已獲得今年最大的風險投資之一，將其第一種藥物投入測試。其他方面，禮來公司 (Lilly) 獲得了一種「GLP-2」減肥藥物，Praxis 股價暴跌。",
       "source": "BioPharma Dive",
       "date": "2026-06-03",
       "url": "https://www.biopharmadive.com/news/newlimit-lilly-hanmi-haisco-praxis-cytomx-regeneron/821624/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 籌款追蹤 '26：Ona 籌集 8,660 萬美元； Contraline B 輪融資 9,250 萬美元",
-      "summary": "Ona 土地價值 8,660 萬美元； Contraline B 輪融資 9,250 萬美元 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     },
     {
