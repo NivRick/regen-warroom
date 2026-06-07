@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-06-07T12:17:42.946700+00:00",
+  "updated": "2026-06-07T23:58:35.163122+00:00",
   "items": [
     {
-      "title": "腸道菌群與代謝物如何影響免疫細胞的時空動態，進而左右腫瘤發展",
-      "summary": "癌症對人類健康構成重大威脅，而免疫反應在清除腫瘤細胞方面扮演關鍵角色，近年來也越來越受到關注。",
+      "title": "腸道菌群與代謝物如何驅動免疫細胞時空動態，進而影響腫瘤發展",
+      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除腫瘤細胞方面扮演關鍵角色，近年來受到越來越多關注。",
       "source": "PubMed",
       "date": "2026-06-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42207498/",
       "lang": "zh-TW"
     },
     {
-      "title": "運用原位類器官模型",
+      "title": "運用原位類器官模型，探討",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-07",
@@ -20,7 +20,7 @@
     },
     {
       "title": "藥物傳輸中的生物基奈米材料：最新評論。",
-      "summary": "生物基奈米材料因其生物相容性、生物降解性和增強治療性能的能力而成為有前景的藥物傳輸平台。傳統的藥物傳遞系統往往受到藥物溶解度差、降解快、生物利用度低和非特異性等限制。",
+      "summary": "生物基奈米材料因其生物相容性、生物降解性和增強治療性能的能力而成為有前景的藥物傳輸平台。傳統的藥物輸送系統往往受到藥物溶解度差、降解快、生物利用度低和非特異性等限制。",
       "source": "PubMed",
       "date": "2026-06-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42232345/",
@@ -67,15 +67,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "人體血管類器官在去細胞化脾臟基質中分化出動脈和微血管",
-      "summary": "血管類器官在促進心肌梗塞後的血管新生方面展現巨大潛力，但目前的類器官培養方法只能形成微血管。",
+      "title": "利用去細胞化脾臟基質，促進人體血管類器官中動脈與微血管的分化",
+      "summary": "血管類器官在促進心肌梗塞後的血管新生方面極具潛力，但目前的類器官培養方法只能形成微血管。",
       "source": "PubMed",
       "date": "2026-06-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42232747/",
       "lang": "zh-TW"
     },
     {
-      "title": "基於細胞移動性的選擇",
+      "title": "基於細胞移動性的選擇性水凝",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-07",
@@ -107,8 +107,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Patterning bacterial nanocellulose at cell-size scale using UV laser technology to create immunomodulatory interfaces.",
-      "summary": "开发免疫指导生物材料，积极引导宿主免疫反应实现愈合和体内平衡，是推进下一代生物医学植入物和再生医学的关键一步。紫外線雷射技術提供了一種非接觸式、可擴展且多功能的方法...",
+      "title": "使用紫外線雷射技術在細胞尺寸上對細菌奈米纖維素進行圖案化，以創建免疫調節介面。",
+      "summary": "開發免疫指導生物材料，積極引導宿主免疫反應進行癒合和體內平衡，是推動下一代生物醫學植入物和再生醫學的關鍵一步。紫外線雷射技術提供了一種非接觸式、可擴展且多功能的方法...",
       "source": "PubMed",
       "date": "2026-06-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42161016/",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "烏梅丸透過調節TGF-β/Smad訊號傳導路徑，促進杯狀細胞分化，修復潰瘍性結腸炎患者的腸道黏膜屏障",
-      "summary": "烏梅丸（WMW）是一種傳統中藥方劑，最早記載於東漢時期的《傷寒雜病論",
+      "title": "烏梅丸透過調節TGF-β/Smad訊號傳導，促進杯狀細胞分化，修復潰瘍性結腸炎患者的結腸黏膜屏障",
+      "summary": "烏梅丸（WMW）是一種傳統中藥方劑，最早記載於東漢時期的《傷寒論》，最初",
       "source": "PubMed",
       "date": "2026-06-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42140533/",
@@ -164,15 +164,15 @@
     },
     {
       "title": "[第 2 階段] ERASE 研究（一項 MyeloMATCH 治療試驗）測試聯合療法在初始治療後持續性低水平急性髓性白血病患者中的使用情況",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：美國國家癌症研究所 (NCI)｜這項 II 期 MyeloMATCH 治療試驗比較了阿糖胞苷與阿糖胞苷和維奈托克與脂質體封裝的柔紅黴素-阿糖胞苷和維奈托克與阿扎胞苷和維奈托克患者在治療術後殘留疾病的情況。",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：美國國家癌症研究所 (NCI)｜這項 II 期 MyeloMATCH 治療試驗比較了阿糖胞苷與阿糖胞苷和維奈托克與脂質體封裝的柔紅黴素-阿糖胞苷和維奈托克與阿扎胞苷和維奈托克患者在治療術後殘留疾病的結果中的作用。",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06-07",
       "url": "https://clinicaltrials.gov/study/NCT05554419",
       "lang": "zh-TW"
     },
     {
-      "title": "間質細胞療法治療成骨不全症（OI）",
-      "summary": "狀態：尚未招募｜主辦單位：埃默里大學｜這是一項一/二期臨床試驗，旨在評估異體（第三方）骨髓來源間質細胞療法的安全性與療效。",
+      "title": "成骨不全症（OI）的間質細胞療法第一/二期臨床試驗",
+      "summary": "狀態：尚未招募｜主辦：埃默里大學（Emory University）｜這是一項第一/二期臨床試驗，旨在評估異體（第三方）骨髓來源的間質細胞療法治療成骨",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06-07",
       "url": "https://clinicaltrials.gov/study/NCT05559801",
@@ -180,7 +180,7 @@
     },
     {
       "title": "[第 1 期、第 2 期] 新輔助吸入氮雜胞苷合併鉑類化療和 Durvalumab (MEDI4736) - 用於可手術早期非小細胞肺癌 (NSCLC) 的表觀遺傳-免疫聯合療法 (AZA-AEGEAN) 方案",
-      "summary": "狀態：招募｜主辦單位：美國國家癌症研究所（NCI）｜背景：\n\n肺癌是全球癌症相關死亡的主要原因。非小細胞肺癌（NSCLC）是最常見的肺癌類型。手術切除腫瘤是早期診斷患者的標準治療方法",
+      "summary": "狀態：招募中｜主辦單位：美國國家癌症研究所（NCI）｜背景：\n\n肺癌是全球癌症相關死亡的主要原因。非小細胞肺癌（NSCLC）是最常見的肺癌類型。手術切除腫瘤是早期診斷患者的標準治療方法",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-07",
       "url": "https://clinicaltrials.gov/study/NCT06694454",
@@ -189,7 +189,7 @@
     {
       "title": "[第 2 期] 在患有自體免疫性血球減少症的參與者中進行 Zola-cel (BMS-986353) 研究 (Breakfree-AiCE)",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Juno Therapeutics, Inc., a Bristol-Myers Squibb Company｜本研究的目的是評估 Zola-cel (BMS-986353) 在慢性免疫性血小板減少症 (cITP) 和自體免疫性溶血性貧血 (AIHA) 患者中的安全性和自體免疫性溶血性貧血 (AIHA) 患者中的安全性和自體免疫性溶血性貧血 (AIHA) 患者中的安全性和自體免疫性溶血性貧血 (AIHA) 患者中的安全性和自體免疫性溶血性貧血 (AIHA) 患者中的安全性和有效性。",
-      "source": "ClinicalTrials.gov｜Germany, United Kingdom, United States",
+      "source": "ClinicalTrials.gov｜Denmark, United Kingdom, Germany",
       "date": "2026-06-07",
       "url": "https://clinicaltrials.gov/study/NCT07603557",
       "lang": "zh-TW"
@@ -259,43 +259,43 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Longeveron 將在 2026 年 BIO 國際大會上發表演說",
-      "summary": "Longeveron 預計在 2026 年生物產業組織（BIO）國際大會上發表演說，分享公司最新進展。",
+      "title": "ctDNA 導引的結直腸癌治療：ASCO 2026 上的價值和數據",
+      "summary": "cer：ASCO 2026 腫瘤學新聞中心的價值與數據",
+      "source": "Oncology News Central",
+      "date": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd1JMNF9scGw1U29RX0VFYjhsRTFKazM1azVrNHY3RU5STE8wRzZqZDYxWS1ER3pGWHFFVUx3TkRWTzlpblhtckRrZF9EM1JWRC1KbkFHb1ZyaHJvSFNjUHMzX3Z0TzJyWHh2YTJwOFN5QjVUM2pNZTh1Um40eDVCVHZYTlhXR0MzYlh5N01uTEF4VjNzNEpSczk2b2M2M2IwRUR0Mkc3MnJMUlRQTWprbTlKWGRGTmJFTGxaTjVFbGx4MjNRTWFxVGZ3N0kzM2J6Z2RSYWlFbTUxTXA0X0g3aGpB?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Longeveron 將出席 2026 年 BIO 國際大會",
+      "summary": "2026 年國際大會",
       "source": "BioSpace",
       "date": "2026-06-05",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFBpLTRaUVRjby1hNHhqXzUwd3lIbXNNZ1g4dmJBNE9sVXdpQjNXX2hPQ1RHZUE2OHJuMm5NY3ozaThydDVNX0hYNW9CaWlORFJUdmMxNTctSHhfNWZ1R3RlSEtROUNONkNMaEZjakNXZmZwZ3hjcjFkdENLZE1jeWNXb0dzRGZIVHlpdXNyYXQ3Q1VXS1Q4bjBnSnVQVUU?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國 FDA 關注一項心臟衰竭細胞治療試驗，有望幫助百萬病患",
-      "summary": "美國食品藥物管理局（FDA）正密切關注一項心臟衰竭細胞治療試驗，該療法潛力巨大，有望造福百萬病患。",
-      "source": "Stock Titan",
-      "date": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdEF3QVBpY1hIS0lVdTBHd0dGY25PcDZlTllGc25WX0hoMWNkX3NYNXlvMC1jWGlMcklzb3A4cDAxaW91eXNjdU9pbG5GWk5WRUdNVVRQMG9fY0ViYTVqSV9yVzgwTkk1VExNRmNSS0Q2dWNxNWxKZUtldWtrZXpXdDc0bk54dVpWT1dhT2ZFZGd3cGdnNllvZU1sTElSS29xTURLS2NjV2xvLUQyak9RalFiQlRrdVAzU2hUb2toMWk?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Lyell Immunopharma 將在 2026 年 EHA 大會上發表 Rondecabtagene Autoleucel 的第一/二期臨床試驗數據",
-      "summary": "Lyell Immunopharma 將於 2026 年歐洲血液學協會（EHA）大會發表 Rondecabtagene Autoleucel 的一/二期臨床試驗數據。",
-      "source": "Quiver Quantitative",
-      "date": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM1Zod2l6ZnNKREhKN0xKU0ozXzdlMmNtbUZWX19fckNNdmtPSndpMmFKbEJ0aVctR1FvM3BiVzI2LWhwNG5UbXYxbEZGdHZQMFRWa3JWUWZ6cUN4TW9FemdWWU1KbFhpdGxaa1R0THdTcVRDVV9jMGdHVHhJY1lxZTNsZkNHZzRReWFVbkhDMVdIVEtQaHVPQkYwWTZlVTlQTnF5dnlsVHprTFhxS1hvVWJxcG44RGRFTXJZbXc0ZXYteWRsRkVJRU5WSHVKRERweHVLTDg1VGNKNXcx?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "渤健（Biogen）的 Salanersen 獲美國 FDA 授予脊髓性肌肉萎縮症的「突破性療法」認定",
-      "summary": "渤健（Biogen",
+      "title": "百健 (Biogen) 的 Salanersen 獲得 美國食藥局（FDA） 脊髓性肌肉萎縮症突破性療法認定",
+      "summary": "脊髓性肌肉萎縮症的粗略治療指定 Biogen",
       "source": "Biogen",
       "date": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaGx4ZTZ1RzRyVTJIeEZxSk9hdzBndzFxS2ZITzR6U2tVd2tfOUNPRGprNUFTMURKbnB0OHYxNTcyOUs5RVl5cTM5Q3ZGQXlUanA5aHRzdm5fRlp1SDlFQzBsdXpjMHVFc2tiNFNQd0RzUmhuZEJxNkRRUHJXN015VVhJSmlRWEJjbWltQjNmS2JsaFJPZ3ZWcXZxTW9Dd09ZMHpWX0NrRjVIUUdxVHd5WDFnekVBNDNRYnNBTV8tQkN0QXZWekZF?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "CNS 腫瘤的新興療法：ASCO 2026 值得關注的關鍵臨床試驗更新",
-      "summary": "ASCO 2026 製藥技術值得關注的臨床試驗更新",
+      "title": "中樞神經系統腫瘤新興療法：2026年美國臨床腫瘤學會（ASCO）年會上值得關注的關鍵臨床試驗進展",
+      "summary": "藥品科技雜誌報導，2026年美國臨床腫瘤學會（ASCO）年會上，中樞神",
       "source": "Pharmaceutical Technology",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZThSQXFUSWRFd3Zvd3Y4LUVpdW01ODVCX3ctWHRBQ1hXUk1XYTlXOGNkUW9wWFpjZ3JCNGhPclgzTDBqXzRQeGQ0aXhHVnd0LU9jbTE0TGFhRlFEMXZqdDBrcTZ4R05qZFlGY2J3VnBrdEZnZVItMDlobVoyeml5ZGg1RkxIWTQ4cWktV0J1WVFtTFJ3aENBQy1iTWZZZzd3?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026 年開發糖尿病細胞療法的頂尖公司",
+      "summary": "2026 糖尿病飲食 BioInformant",
+      "source": "BioInformant",
+      "date": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBobkpYWGFkcTF3YkdDd0pIYUVnODgwd1RpN3l0Vk5sbmVNekRzMnJUVF96cmlpTzlxc0NUSEhvczNIY3NOTUZSWERsR3g5R0VrZWlkZWJtaGc1bWViZFHSAWNBVV95cUxOMHgwRjRCNGhLd3NvN1dwbTJQNGo2ejl5bmVEZEVWY05xU3RZemJYNXkydHZmSFl5VnNVZE1kRnEwbUpOTDVoOWZTMGF1b3QzN0xGZVJSQnRIY0VwZHJoYXNla1E?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -307,8 +307,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Perlmutter 癌症中心的學者將在 2026 年 ASCO 年會上發表最新研究成果",
-      "summary": "Perlmutter 癌症中心研究員將在 2026 年美國臨床腫瘤學會（ASCO）年會上，分享其最新研究發現。",
+      "title": "Perlmutter 癌症中心的研究人員在 2026 年 ASCO 年會上展示最新發現",
+      "summary": "r 在 2026 年 ASCO 年會上展示最新研究結果 NYU Langone Health",
       "source": "NYU Langone Health",
       "date": "2026-06-01",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSE0zMkkzNW9VNkhrNGlyYVk1OWYya01wQUlBRWxsRFpKUV9xV0Q5R0dsM1BpblpiMk1oSEhIUC1zM0k1bUhPaGhoX1Y0bi1pWDdMWDlqdFpuZ05IN1htbjFXbF9COUdabjJkVFA4aU1lX1RxWEwyY25ybDd3YmJZLXJWaGcyTVVwbFRKUHhYRUpwc3BvOWNNbjdyVy1YOWdQd3hhNnZqMndjZDd2QUQ2aUJwSQ?oc=5",
@@ -339,8 +339,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "【一期臨床】移除Alpha/Beta T細胞的造血幹細胞移植，用於治療兒童及青少年血液疾病（來自親屬或非親屬捐贈者）",
-      "summary": "狀態：尚未招募｜主辦：威斯康辛大學麥迪遜分校｜這項研究將評估移除周邊血液幹",
+      "title": "【第一期】兒童及青少年血液疾病患者，接受來自親屬或非親屬捐贈者之去除Alpha/Beta T細胞造血幹細胞移植",
+      "summary": "狀態：尚未招募｜主辦：威斯康辛大學麥迪遜分校｜這項研究旨在探討研究人員是否能從周邊血液",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06",
       "url": "https://clinicaltrials.gov/study/NCT04806347",
@@ -355,8 +355,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年 ASCO 大會明日登場：Roswell Park 專家將發表數據地圖，揭示臨床試驗「沙漠區」",
-      "summary": "Roswell Park 專家將於 2026 年美國臨床腫瘤學會（ASCO）大會發表數據地圖，指出臨床試驗資源不足的「沙漠區」。",
+      "title": "明天在 ASCO 2026 上：羅斯威爾公園專家展示識別臨床試驗「沙漠」的數據圖",
+      "summary": "rts 展示數據圖識別臨床試驗「沙漠」羅斯威爾公園綜合癌症中心",
       "source": "Roswell Park Comprehensive Cancer Center",
       "date": "2026-05-29",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGlhY1JYUlRKNXdGcHNobktna3ZuUEQxTEF4N3V4M212QU9rcWhid0N1Yi1LMEdPdEZ5S28yODB1ZERxR3huQ0tGLUFJMkt3dEJVdUFZaFpuR3lCMnp0ZEY4UzRkNHJrNng0Y2FPRXNhR1k3RkdoU0t3cjBEVXJwTDNhd2JyQjhsZkxMbi10VGZOT215MTZsZjRwUENiSDF4d0RvRDBQTDFrdWYtdnFJRjlFNGVBT0NHWVc4VlpOTQ?oc=5",

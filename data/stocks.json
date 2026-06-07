@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-07T12:19:11.359785+00:00",
+  "updated": "2026-06-07T23:59:13.551580+00:00",
   "stocks": [
+    {
+      "code": "1784",
+      "name": "訊聯",
+      "tier": "上游",
+      "close": "67.20",
+      "change": "-0.20",
+      "change_pct": -0.3,
+      "date": "115/06/07",
+      "market": "OTC"
+    },
     {
       "code": "4170",
       "name": "鑫品生醫",
@@ -20,6 +30,26 @@
       "change_pct": 1.5,
       "date": "115/06/07",
       "market": "ESB"
+    },
+    {
+      "code": "6461",
+      "name": "益得",
+      "tier": "上游",
+      "close": "16.20",
+      "change": "-0.30",
+      "change_pct": -1.82,
+      "date": "115/06/07",
+      "market": "OTC"
+    },
+    {
+      "code": "6712",
+      "name": "長聖",
+      "tier": "上游",
+      "close": "140.00",
+      "change": "+0.50",
+      "change_pct": 0.36,
+      "date": "115/06/07",
+      "market": "OTC"
     },
     {
       "code": "6794",
@@ -142,6 +172,26 @@
       "market": "TWSE"
     },
     {
+      "code": "3118",
+      "name": "進階",
+      "tier": "下游",
+      "close": "34.10",
+      "change": "+0.55",
+      "change_pct": 1.64,
+      "date": "115/06/07",
+      "market": "OTC"
+    },
+    {
+      "code": "3224",
+      "name": "三顧",
+      "tier": "下游",
+      "close": "38.50",
+      "change": "-0.10",
+      "change_pct": -0.26,
+      "date": "115/06/07",
+      "market": "OTC"
+    },
+    {
       "code": "6550",
       "name": "北極星藥",
       "tier": "下游",
@@ -150,6 +200,16 @@
       "change_pct": 2.29,
       "date": "115/06/05",
       "market": "TWSE"
+    },
+    {
+      "code": "6662",
+      "name": "樂斯科",
+      "tier": "下游",
+      "close": "29.50",
+      "change": "+0.10",
+      "change_pct": 0.34,
+      "date": "115/06/07",
+      "market": "OTC"
     },
     {
       "code": "6814",

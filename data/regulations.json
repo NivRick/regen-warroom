@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-06-07T12:18:19.696921+00:00",
+  "updated": "2026-06-07T23:58:44.280231+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-06-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "傳染性病原體與愛滋病毒（HIV）診斷的捐贈者篩檢試劑完整清單",
-      "summary": "提供各",
+      "title": "傳染源捐贈者篩檢試驗和 HIV 診斷試驗的完整列表",
+      "summary": "不同類型供體篩選測定的連結。每個測定的表格都提供了詳細信息，例如商品名、傳染原、格式、樣本、用途、製造商、批准日期和 STN。",
       "source": "FDA Biologics",
       "date": "2026-06-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/complete-list-donor-screening-assays-infectious-agents-and-hiv-diagnostic-assays",
