@@ -1,18 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-06-06T23:57:33.250800+00:00",
+  "updated": "2026-06-07T12:18:35.758858+00:00",
   "items": [
     {
-      "title": "觀點：亞米希人對疫苗、醫療成本等議題的看法",
-      "summary": "預計到2075年，美國亞米希人口可能接近200萬，這對公共衛生將產生重大影響。",
+      "title": "觀點：阿米甚人如何看待疫苗、醫療保健費用等",
+      "summary": "到 2075 年，美國阿米甚人可能會達到近 200 萬人。這對公共衛生有重大影響。",
       "source": "STAT News",
       "date": "2026-06-06",
       "url": "https://www.statnews.com/2026/06/06/amish-public-health-vaccines-autism-interview-transcript/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Alnylam與Inceptive簽署人工智慧（AI",
-      "summary": "",
+      "title": "Alnylam 與 Inceptive 墨水人工智慧交易可能價值 20 億美元",
+      "summary": "這家專注於 RNA 的製藥商表示，Inceptive 的工具將有助於確定最佳開發方案的優先順序，並加快研究進程。",
       "source": "BioPharma Dive",
       "date": "2026-06-04",
       "url": "https://www.biopharmadive.com/news/alnylam-inceptive-ai-drug-discovery-rna-deal-artificial-intelligence/822008/",
@@ -43,11 +43,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "NewLimit 的 4.35 億美元巨輪；禮來公司忙碌的交易週",
+      "title": "NewLimit 的 4.35 億美元巨額投資；禮來公司忙碌的交易週",
       "summary": "這家抗衰老生物技術公司已獲得今年最大的風險投資之一，將其第一種藥物投入測試。其他方面，禮來公司 (Lilly) 獲得了一種「GLP-2」減肥藥物，Praxis 股價暴跌。",
       "source": "BioPharma Dive",
       "date": "2026-06-03",
       "url": "https://www.biopharmadive.com/news/newlimit-lilly-hanmi-haisco-praxis-cytomx-regeneron/821624/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "source": "PharmTech.com",
+      "date": "2026-05-22",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     }
   ]
