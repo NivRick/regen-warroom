@@ -1,7 +1,47 @@
 {
   "module": "funding",
-  "updated": "2026-06-07T23:58:51.808519+00:00",
+  "updated": "2026-06-08T14:46:14.506168+00:00",
   "items": [
+    {
+      "title": "禮來與輝瑞肥胖症藥物數據、羅氏與嬌生交易等生醫新聞快訊",
+      "summary": "禮來公布新一代肥胖症藥物retatrutide的安全性與耐受性數據。",
+      "source": "STAT News",
+      "date": "2026-06-08",
+      "url": "https://www.statnews.com/pharmalot/2026/06/08/lilly-pfizer-obesity-drug-trial-data-roche-deal/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "嬌生豪擲10億美元，搶進KR",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-06-08",
+      "url": "https://www.statnews.com/2026/06/08/johnson-and-johnson-firefly-cancer-kras-treatment/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "意見：200萬美元的基因療法需要融資模式",
+      "summary": "「我們並不缺乏治療方法。我們缺乏支付和提供這些治療方法的基礎設施，」威廉·帕杜拉寫道。",
+      "source": "STAT News",
+      "date": "2026-06-08",
+      "url": "https://www.statnews.com/2026/06/08/financing-gene-therapies-cures-cost/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Kiran Mazumdar-Shaw 的 Immuneel 在 B 輪融資中籌集了超過 100 盧比",
+      "summary": "B 輪 BW 中斷中的 er Rs 100 Cr",
+      "source": "BW Disrupt",
+      "date": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWU3cmJjOEN2VkhvdDl6dXQ2WGJaU3A0TERoa1NHejBtaGwwWHdHeWhVRURFaC1YV3B1UFI3Vy1wek5wV2doTGpHUWt1YkU2cE9vY2NrUFNPMUx4NlRMTnJFVC1SN2FvNEd4d3RlYlM4NFM4cE9IdGtpNi03SS1YVmNxZkEwTkJJWVZTQy00MjlZcm9PbUpxTHFFWExBQjcyekRWRkpqSDl3VUMxb3NOSQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Immuneel 籌集了超過 10 億盧比的資金，由 Singularity AMC 和 Rainmatter 領投",
+      "summary": "ding 由 Singularity AMC、Rainmatter Moneycontrol.com 領導",
+      "source": "Moneycontrol.com",
+      "date": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPazJGcnZRNmtGTS1VOWVZanZaWkZqN1JUd0pNYXZlTHI3RnFBbTdEZkM4TXk4TlhtZWlXUW1TOFh2REZMS2tuZ1JMd2hrYUs5cy14THNyc3VhRDJqSnZFX1lBdTNKMC1jQ3haaXVmZGdEMW9yMEpBbElnak9mdzZSOWpCRjZIN2ZuQU01TGwwLVRfLVkwQ2xVM1A1YTdjaC1YenpiWGs2V29KWEhvaEY3ZlVpVnpMYzZOa1B5UWFtOFB1QW1nM1FSUmkwOUw4QXZtbGxrNHhB0gHWAUFVX3lxTE9rMkZydlE2a0ZNLVU5ZVlqdlpaRmo3UlR3Sk1hdmVMcjdGcUFtN0RmQzhNeThOWG1laVdRbVM4WHZERkxLa25nUkx3aGthSzlzLXhMc3JzdWFEMmpKdkVfWUF1M0owLWNDeFppdWZkZ0Qxb3IwSkFsSWdqT2Z3NlI5akJGNkg3Zm5BTTVMbDAtVF8tWTBDbFUzUDVhN2NoLVh6emJYazZXb0pYSG9oRjdmVWlWekxjNk5rUHlRYW04UHVBbWczUVJSaTA5TDhBdm1sbGs0eEE?oc=5",
+      "lang": "zh-TW"
+    },
     {
       "title": "觀點：阿米甚人如何看待疫苗、醫療保健費用等",
       "summary": "到 2075 年，美國阿米甚人可能會達到近 200 萬人。這對公共衛生有重大影響。",
@@ -32,22 +72,6 @@
       "source": "BioPharma Dive",
       "date": "2026-06-03",
       "url": "https://www.biopharmadive.com/news/legend-in-vivo-car-t-LB2501-lymphoma-data-eha/821882/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "眾議院法案旨在打擊中國生物技術交易",
-      "summary": "在涉及輝瑞（Pfizer）和百時美施貴寶（Bristol Myers）的兩筆大交易之後，美國擔心中國的製藥進展可能威脅國家安全，因此提議將生物技術納入《硬幣法案》。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-03",
-      "url": "https://www.biopharmadive.com/news/binsa-china-biotech-deals-house-moolenaar-dingell/821841/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "NewLimit 的 4.35 億美元巨輪；禮來公司忙碌的交易週",
-      "summary": "這家抗衰老生物技術公司已獲得今年最大的風險投資之一，將其第一種藥物投入測試。其他方面，禮來公司 (Lilly) 獲得了一種「GLP-2」減肥藥物，Praxis 股價暴跌。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-03",
-      "url": "https://www.biopharmadive.com/news/newlimit-lilly-hanmi-haisco-praxis-cytomx-regeneron/821624/",
       "lang": "zh-TW"
     }
   ]
