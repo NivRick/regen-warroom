@@ -1,7 +1,31 @@
 {
   "module": "funding",
-  "updated": "2026-06-09T00:02:50.927646+00:00",
+  "updated": "2026-06-09T13:40:53.148803+00:00",
   "items": [
+    {
+      "title": "STAT+: 藥廠小道消息：GSK砸106億美元併購案、AstraZeneca肥胖症藥物等最新動態",
+      "summary": "GSK同意以106億美元收購癌症藥物開發商Nuvalent，持續擴大其在腫瘤領域的版圖。",
+      "source": "STAT News",
+      "date": "2026-06-09",
+      "url": "https://www.statnews.com/pharmalot/2026/06/09/gsk-buying-nuvalent-cancer-drug-astrazeneca-obesity-pill-data/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2014 年美國伊波拉應對行動的一位領導人將當時與現在進行了比較",
+      "summary": "當全世界都在應對尚無治癒方法的伊波拉疫情時，蘇珊·賴克爾 (Susan Reichle) 去年與他人共同創立了援助過渡聯盟，以支持前美國國際開發署 (USAID) 專業人員。",
+      "source": "STAT News",
+      "date": "2026-06-09",
+      "url": "https://www.statnews.com/2026/06/09/ebola-outbreak-response-difference-between-2014-today-susan-reichle/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：葛蘭素史克 (GSK) 以 $10.6B 收購標靶癌症藥物製造商 Nuvalent",
+      "summary": "葛蘭素史克 (GSK) 將以 106 億美元的價格收購標靶抗癌藥物製造商 Nuvalent，這是最新一輪生物製藥收購的重要補充。",
+      "source": "STAT News",
+      "date": "2026-06-09",
+      "url": "https://www.statnews.com/2026/06/09/gsk-nuvalent-acquistion-oncology-lung-cancer-zidesamtinib-neladalkib/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：Pharmalittle：我們正在閱讀禮來（Lilly）和輝瑞（Pfizer）肥胖藥物數據、羅氏（Roche）和強生（J&J）交易等",
       "summary": "禮來公司披露的新數據提供了有關其下一代肥胖藥物瑞他魯肽的安全性和耐受性的更多細節",
@@ -48,22 +72,6 @@
       "source": "BW Disrupt",
       "date": "2026-06-08",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWU3cmJjOEN2VkhvdDl6dXQ2WGJaU3A0TERoa1NHejBtaGwwWHdHeWhVRURFaC1YV3B1UFI3Vy1wek5wV2doTGpHUWt1YkU2cE9vY2NrUFNPMUx4NlRMTnJFVC1SN2FvNEd4d3RlYlM4NFM4cE9IdGtpNi03SS1YVmNxZkEwTkJJWVZTQy00MjlZcm9PbUpxTHFFWExBQjcyekRWRkpqSDl3VUMxb3NOSQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Immuneel 籌集了超過 10 億盧比的資金，由 Singularity AMC 和 Rainmatter 領投",
-      "summary": "ding 由 Singularity AMC、Rainmatter Moneycontrol.com 領導",
-      "source": "Moneycontrol.com",
-      "date": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPazJGcnZRNmtGTS1VOWVZanZaWkZqN1JUd0pNYXZlTHI3RnFBbTdEZkM4TXk4TlhtZWlXUW1TOFh2REZMS2tuZ1JMd2hrYUs5cy14THNyc3VhRDJqSnZFX1lBdTNKMC1jQ3haaXVmZGdEMW9yMEpBbElnak9mdzZSOWpCRjZIN2ZuQU01TGwwLVRfLVkwQ2xVM1A1YTdjaC1YenpiWGs2V29KWEhvaEY3ZlVpVnpMYzZOa1B5UWFtOFB1QW1nM1FSUmkwOUw4QXZtbGxrNHhB0gHWAUFVX3lxTE9rMkZydlE2a0ZNLVU5ZVlqdlpaRmo3UlR3Sk1hdmVMcjdGcUFtN0RmQzhNeThOWG1laVdRbVM4WHZERkxLa25nUkx3aGthSzlzLXhMc3JzdWFEMmpKdkVfWUF1M0owLWNDeFppdWZkZ0Qxb3IwSkFsSWdqT2Z3NlI5akJGNkg3Zm5BTTVMbDAtVF8tWTBDbFUzUDVhN2NoLVh6emJYazZXb0pYSG9oRjdmVWlWekxjNk5rUHlRYW04UHVBbWczUVJSaTA5TDhBdm1sbGs0eEE?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "觀點：阿米甚人如何看待疫苗、醫療保健費用等",
-      "summary": "到 2075 年，美國阿米甚人可能會達到近 200 萬人。這對公共衛生有重大影響。",
-      "source": "STAT News",
-      "date": "2026-06-06",
-      "url": "https://www.statnews.com/2026/06/06/amish-public-health-vaccines-autism-interview-transcript/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
