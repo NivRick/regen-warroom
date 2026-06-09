@@ -1,18 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-06-08T14:46:14.506168+00:00",
+  "updated": "2026-06-09T00:02:50.927646+00:00",
   "items": [
     {
-      "title": "禮來與輝瑞肥胖症藥物數據、羅氏與嬌生交易等生醫新聞快訊",
-      "summary": "禮來公布新一代肥胖症藥物retatrutide的安全性與耐受性數據。",
+      "title": "STAT+：Pharmalittle：我們正在閱讀禮來（Lilly）和輝瑞（Pfizer）肥胖藥物數據、羅氏（Roche）和強生（J&J）交易等",
+      "summary": "禮來公司披露的新數據提供了有關其下一代肥胖藥物瑞他魯肽的安全性和耐受性的更多細節",
       "source": "STAT News",
       "date": "2026-06-08",
       "url": "https://www.statnews.com/pharmalot/2026/06/08/lilly-pfizer-obesity-drug-trial-data-roche-deal/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "嬌生豪擲10億美元，搶進KR",
-      "summary": "",
+      "title": "STAT+：強生斥資 10 億美元參加 KRAS 癌症治療競賽",
+      "summary": "強生表示，將以 10 億美元收購新創公司 Firefly Bio，以擴大其在突然熱鬧起來的 KRAS 抑制劑領域的業務。",
       "source": "STAT News",
       "date": "2026-06-08",
       "url": "https://www.statnews.com/2026/06/08/johnson-and-johnson-firefly-cancer-kras-treatment/?utm_campaign=rss",
@@ -24,6 +24,22 @@
       "source": "STAT News",
       "date": "2026-06-08",
       "url": "https://www.statnews.com/2026/06/08/financing-gene-therapies-cures-cost/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "羅氏斥資 7 億美元購買 Nurix 的蛋白質降解藥物",
+      "summary": "此次合作的潛在價值高達 23 億美元，押注的是能夠消除「BTK」酶的藥物將優於阻止其活性的現有藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-08",
+      "url": "https://www.biopharmadive.com/news/roche-nurix-protein-degrader-btk-bexobrutideg-deal/822230/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Incyte 將以 20 億美元的價格收購血液疾病藥物",
+      "summary": "收購 Vega Therapeutics（「中心輻射」生物技術 Star Therapeutics 的分店）將為 Incyte 提供一種處於後期測試階段、旨在控制出血的藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-08",
+      "url": "https://www.biopharmadive.com/news/incyte-vega-acquisition-star-biotech-deal-blood-disorder-vwd/822238/",
       "lang": "zh-TW"
     },
     {
@@ -51,27 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Alnylam 與 Inceptive 墨水人工智慧交易可能價值 20 億美元",
-      "summary": "這家專注於 RNA 的製藥商表示，Inceptive 的工具將有助於確定最佳開發方案的優先順序，並加快研究進程。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-04",
-      "url": "https://www.biopharmadive.com/news/alnylam-inceptive-ai-drug-discovery-rna-deal-artificial-intelligence/822008/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "大塚展示腎臟藥物數據；輝瑞達成人工智慧協議",
-      "summary": "Voyxact 有助於保護腎功能，但為 Vera 和 Vertex 的 IgAN 競爭藥物留下了空間。在其他地方，武田 (Takeda) 與信達生物 (Innovent) 的聯盟帶來了早期紅利，Axsome 也擊退了仿製藥競爭對手。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-04",
-      "url": "https://www.biopharmadive.com/news/otsuka-voyxact-pfizer-chai-takeda-innovent-axsome/821990/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "「體內」淋巴瘤細胞療法的早期數據傳奇激增",
-      "summary": "初步研究結果表明，該療法減少或消除了所有接受者的疾病症狀，引發了人們的希望，即該療法可能與諾華公司的 Kymriah 等「體外」藥物競爭。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-03",
-      "url": "https://www.biopharmadive.com/news/legend-in-vivo-car-t-LB2501-lymphoma-data-eha/821882/",
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "source": "PharmTech.com",
+      "date": "2026-05-22",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     }
   ]
