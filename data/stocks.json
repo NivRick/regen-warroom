@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T13:41:20.295487+00:00",
+  "updated": "2026-06-10T00:07:05.037278+00:00",
   "stocks": [
     {
       "code": "1784",
@@ -8,7 +8,7 @@
       "close": "67.70",
       "change": "-0.10",
       "change_pct": -0.15,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "OTC"
     },
     {
@@ -18,7 +18,7 @@
       "close": "12.95",
       "change": "-0.06",
       "change_pct": -0.46,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     },
     {
@@ -28,7 +28,7 @@
       "close": "10.15",
       "change": "+0.28",
       "change_pct": 2.84,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     },
     {
@@ -38,7 +38,7 @@
       "close": "15.80",
       "change": "0.00",
       "change_pct": 0.0,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "OTC"
     },
     {
@@ -48,27 +48,27 @@
       "close": "136.00",
       "change": "-3.00",
       "change_pct": -2.16,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "OTC"
     },
     {
       "code": "6794",
       "name": "向榮生技",
       "tier": "上游",
-      "close": "81.90",
-      "change": "-0.90",
-      "change_pct": -1.09,
-      "date": "115/06/08",
+      "close": "80.80",
+      "change": "-1.10",
+      "change_pct": -1.34,
+      "date": "115/06/09",
       "market": "TWSE"
     },
     {
       "code": "6838",
       "name": "台新藥",
       "tier": "上游",
-      "close": "25.20",
-      "change": "0.00",
-      "change_pct": 0.0,
-      "date": "115/06/08",
+      "close": "25.00",
+      "change": "-0.20",
+      "change_pct": -0.79,
+      "date": "115/06/09",
       "market": "TWSE"
     },
     {
@@ -78,7 +78,7 @@
       "close": "49.85",
       "change": "+0.70",
       "change_pct": 1.42,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     },
     {
@@ -88,7 +88,7 @@
       "close": "26.20",
       "change": "+1.74",
       "change_pct": 7.11,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     },
     {
@@ -98,7 +98,7 @@
       "close": "20.65",
       "change": "+0.92",
       "change_pct": 4.66,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     },
     {
@@ -108,7 +108,7 @@
       "close": "11.20",
       "change": "+0.05",
       "change_pct": 0.45,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     },
     {
@@ -118,7 +118,7 @@
       "close": "33.90",
       "change": "+2.11",
       "change_pct": 6.64,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     },
     {
@@ -128,7 +128,7 @@
       "close": "64.10",
       "change": "+1.31",
       "change_pct": 2.09,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     },
     {
@@ -138,7 +138,7 @@
       "close": "112.00",
       "change": "-7.69",
       "change_pct": -6.42,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     },
     {
@@ -148,7 +148,7 @@
       "close": "35.90",
       "change": "0.00",
       "change_pct": 0.0,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     },
     {
@@ -158,17 +158,17 @@
       "close": "12.95",
       "change": "+0.19",
       "change_pct": 1.49,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     },
     {
       "code": "6949",
       "name": "沛爾生醫",
       "tier": "中游",
-      "close": "677.00",
-      "change": "+19.00",
-      "change_pct": 2.89,
-      "date": "115/06/08",
+      "close": "704.00",
+      "change": "+27.00",
+      "change_pct": 3.99,
+      "date": "115/06/09",
       "market": "TWSE"
     },
     {
@@ -178,7 +178,7 @@
       "close": "33.70",
       "change": "+0.05",
       "change_pct": 0.15,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "OTC"
     },
     {
@@ -188,7 +188,7 @@
       "close": "37.60",
       "change": "+0.55",
       "change_pct": 1.48,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "OTC"
     },
     {
@@ -196,9 +196,9 @@
       "name": "北極星藥",
       "tier": "下游",
       "close": "13.15",
-      "change": "-0.25",
-      "change_pct": -1.87,
-      "date": "115/06/08",
+      "change": "0.00",
+      "change_pct": 0.0,
+      "date": "115/06/09",
       "market": "TWSE"
     },
     {
@@ -208,7 +208,7 @@
       "close": "29.70",
       "change": "+0.30",
       "change_pct": 1.02,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "OTC"
     },
     {
@@ -218,7 +218,7 @@
       "close": "22.20",
       "change": "+0.42",
       "change_pct": 1.93,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     },
     {
@@ -228,7 +228,7 @@
       "close": "19.98",
       "change": "0.00",
       "change_pct": 0.0,
-      "date": "115/06/09",
+      "date": "115/06/10",
       "market": "ESB"
     }
   ]
