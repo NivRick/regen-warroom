@@ -1,18 +1,34 @@
 {
   "module": "regulation",
-  "updated": "2026-06-10T00:06:24.605274+00:00",
+  "updated": "2026-06-10T14:21:47.362113+00:00",
   "items": [
     {
-      "title": "Incyte 將斥資高達 2B 美元收購 Vega Therapeutics，不斷擴大血液學產品線，並擁有 III 期 VWD 候選藥物",
-      "summary": "Vega 的主要候選藥物 VGA039 如果獲得批准，可能成為第一個皮下預防性治療，與目前需要更頻繁（2-3 倍",
+      "title": "信使RNA（mRNA） 尾部在調節蛋白折疊中發揮關鍵作用",
+      "summary": "雖然 3' UTR 歷來被視為關鍵調節因子，但一項新研究表明，這些高度保守的 信使RNA（mRNA） 尾部促進了本質上無序的蛋白質的折疊。\n實驗室後蛋白質首先出現在 GEN - 基因工程師上",
+      "source": "GEN News",
+      "date": "2026-06-10",
+      "url": "https://www.genengnews.com/topics/drug-discovery/mrna-tails-play-key-role-in-folding-regulatory-proteins/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026年生物製劑檢測產業報告",
+      "summary": "這份2026年生物製劑檢測報告，旨在提供產業討論與決策參考，由GEN合作發布。",
+      "source": "GEN News",
+      "date": "2026-06-10",
+      "url": "https://www.genengnews.com/resources/the-state-of-biologics-testing-2026/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Incyte斥資最高20億美元收購Vega Therapeutics，擴展血液學產品",
+      "summary": "",
       "source": "GEN News",
       "date": "2026-06-09",
       "url": "https://www.genengnews.com/topics/translational-medicine/incyte-to-acquire-vega-therapeutics-for-up-to-2b-growing-hematology-pipeline-with-phase-iii-vwd-candidate/",
       "lang": "zh-TW"
     },
     {
-      "title": "OTP 市政廳會議：細胞與基因療法產品生物製劑許可申請（BLA）的最佳實踐",
-      "summary": "美國FDA的治療產品辦公室（OTP）將舉辦線上會議，討論細胞與基因療法產品的生物製劑許可申請（BLA）準備實務。",
+      "title": "OTP 線上座談會：細胞與基因療法產品生物製劑許可申請（BLA）送件的最佳實務",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的治療產品辦公室（OTP）將於6月4日舉辦下一場線上座談會。",
       "source": "06/04/2026",
       "date": "2026-06-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
@@ -27,8 +43,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物",
-      "summary": "",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-06-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -56,6 +72,14 @@
       "source": "FDA Biologics",
       "date": "2026-06-04",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "source": "PharmTech.com",
+      "date": "2026-05-22",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     }
   ]

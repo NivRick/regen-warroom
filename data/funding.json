@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-06-10T00:06:50.921451+00:00",
+  "updated": "2026-06-10T14:22:33.876709+00:00",
   "items": [
     {
-      "title": "吉利德和默克最新試驗的成功和失敗",
-      "summary": "阿斯特捷利康 (AstraZeneca) 的 GLP-1 藥丸、葛蘭素史克 (GSK) 以 10.6B 美元收購癌症新創公司，以及更多來自 The Readout 的生物技術新聞",
+      "title": "阿斯特捷利康「廣泛」推廣肥胖藥物； 1.25 億美元用於超音波輔助遺傳醫學",
+      "summary": "新發表的數據說服阿斯特捷利康為其 GLP-1 藥物開展一項龐大的後期計劃。此外，Bausch + Lomb 將裁員 119 名員工，而 Cartesian 則增強了其「體內」細胞治療能力。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-10",
+      "url": "https://www.biopharmadive.com/news/astrazeneca-obesity-sonothera-bausch-layoffs-cartesian-alzecure/822398/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Gilead與默沙東最新臨床試驗：有喜有憂",
+      "summary": "阿斯特捷利康的GLP-1口服藥、葛蘭素史克（GSK）以106億美元收購癌症新創公司，以及更多來自The Readout的生技新聞。",
       "source": "STAT News",
       "date": "2026-06-09",
       "url": "https://www.statnews.com/2026/06/09/biotech-news-gilead-and-merck-latest-trial-success-and-flop/?utm_campaign=rss",
@@ -24,14 +32,6 @@
       "source": "STAT News",
       "date": "2026-06-09",
       "url": "https://www.statnews.com/2026/06/09/ebola-outbreak-response-difference-between-2014-today-susan-reichle/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：葛蘭素史克 (GSK) 以 $10.6B 收購標靶癌症藥物製造商 Nuvalent",
-      "summary": "葛蘭素史克 (GSK) 將以 106 億美元的價格收購標靶抗癌藥物製造商 Nuvalent，這是最新一輪生物製藥收購的重要補充。",
-      "source": "STAT News",
-      "date": "2026-06-09",
-      "url": "https://www.statnews.com/2026/06/09/gsk-nuvalent-acquistion-oncology-lung-cancer-zidesamtinib-neladalkib/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -60,31 +60,23 @@
     },
     {
       "title": "Incyte 將以 20 億美元的價格收購血液疾病藥物",
-      "summary": "收購 Vega Therapeutics（「中心輻射」生物技術 Star Therapeutics 的分店）將為 Incyte 提供一種處於後期測試階段、旨在控制出血的藥物。",
+      "summary": "收購 Vega Therapeutics（「中心輻射」生物技術 Star Therapeutics 的分公司）將為 Incyte 提供一種處於後期測試階段、旨在控制出血的藥物。",
       "source": "BioPharma Dive",
       "date": "2026-06-08",
       "url": "https://www.biopharmadive.com/news/incyte-vega-acquisition-star-biotech-deal-blood-disorder-vwd/822238/",
       "lang": "zh-TW"
     },
     {
-      "title": "Kiran Mazumdar-Shaw 創辦的 Immuneel 公司在 B 輪募資中籌得超過 10 億印度盧比",
-      "summary": "Immuneel 公司在 B 輪募資中，成功募得超過 10 億印度盧比。",
+      "title": "Kiran Mazumdar-Shaw旗下Immuneel公司B輪募資",
+      "summary": "",
       "source": "BW Disrupt",
       "date": "2026-06-08",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWU3cmJjOEN2VkhvdDl6dXQ2WGJaU3A0TERoa1NHejBtaGwwWHdHeWhVRURFaC1YV3B1UFI3Vy1wek5wV2doTGpHUWt1YkU2cE9vY2NrUFNPMUx4NlRMTnJFVC1SN2FvNEd4d3RlYlM4NFM4cE9IdGtpNi03SS1YVmNxZkEwTkJJWVZTQy00MjlZcm9PbUpxTHFFWExBQjcyekRWRkpqSDl3VUMxb3NOSQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Immuneel 公司在 Singularity AMC 和 Rainmatter 領投下，募得超過 10 億印度盧比",
-      "summary": "Immuneel 獲 Singularity AMC 與 Rainmatter 領投，募資逾 10 億印度盧比。",
-      "source": "Moneycontrol.com",
-      "date": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPazJGcnZRNmtGTS1VOWVZanZaWkZqN1JUd0pNYXZlTHI3RnFBbTdEZkM4TXk4TlhtZWlXUW1TOFh2REZMS2tuZ1JMd2hrYUs5cy14THNyc3VhRDJqSnZFX1lBdTNKMC1jQ3haaXVmZGdEMW9yMEpBbElnak9mdzZSOWpCRjZIN2ZuQU01TGwwLVRfLVkwQ2xVM1A1YTdjaC1YenpiWGs2V29KWEhvaEY3ZlVpVnpMYzZOa1B5UWFtOFB1QW1nM1FSUmkwOUw4QXZtbGxrNHhB0gHWAUFVX3lxTE9rMkZydlE2a0ZNLVU5ZVlqdlpaRmo3UlR3Sk1hdmVMcjdGcUFtN0RmQzhNeThOWG1laVdRbVM4WHZERkxLa25nUkx3aGthSzlzLXhMc3JzdWFEMmpKdkVfWUF1M0owLWNDeFppdWZkZ0Qxb3IwSkFsSWdqT2Z3NlI5akJGNkg3Zm5BTTVMbDAtVF8tWTBDbFUzUDVhN2NoLVh6emJYazZXb0pYSG9oRjdmVWlWekxjNk5rUHlRYW04UHVBbWczUVJSaTA5TDhBdm1sbGs0eEE?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "歐洲生技公司正開發次世代細胞與基因療法製造技術",
-      "summary": "歐洲生技業者積極投入次世代細胞與基因療法製造技術的研發。",
+      "title": "歐洲生技業者搶攻次世代細胞與基因療法製造技術",
+      "summary": "歐洲生技公司正積極開發次世代細胞與基因療法生產技術，以提升效率並降低成本，搶攻未來市場商機。",
       "source": "PharmTech.com",
       "date": "2026-05-22",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
