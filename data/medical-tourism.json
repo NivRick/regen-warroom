@@ -1,42 +1,50 @@
 {
   "module": "tourism",
-  "updated": "2026-06-11T00:12:19.579088+00:00",
+  "updated": "2026-06-11T14:33:38.977393+00:00",
   "items": [
     {
-      "title": "中國力爭在醫療旅遊市場分得一杯羹",
-      "summary": "",
+      "title": "中國以尖端又便宜的醫療服務吸引外國病患",
+      "summary": "《日本時報》報導，中國正以其尖端且價格實惠的醫療服務，積極吸引國際病患。",
+      "source": "The Japan Times",
+      "date": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTXkzN29XTWlhTGpzQjM3TkpJMXFFZXJ4cWMydGxGUFRTNXlka09sUm00bjFiM2EwZ2IyRWJtdzNsSHBCcmZELXBEYXZ2NExoMUZxMnFXUURXMW53WGVvMmVqN2F0YWtEWmszdk9WZmY2MVVvaXA4WDBqUXZ2S2VYYVNyaGhwSHFRZklZM2lxRkI?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "中國搶攻醫療觀光市場大餅",
+      "summary": "中國積極投入醫療觀光產業，希望在全球市場中分一杯羹，吸引國際病患前往就醫。",
       "source": "ThinkChina",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yLW1WZTU3MjFNVGlMXzYtUnVpNHpjeWNjeWlkYkZlYjc2Y2lwM3hwLW1oVjV4dGI2X3ljZ1Y5bnlkVW5zNlI3aTdPQV9SOFpoc242VER1b29aaFRnWHdYY3NsWlNUcVdpaHRJSEM0X08zSTJwVVNsbjBDWFRKQQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "套細胞淋巴瘤鞏固性治療的演進與對存活率的影響：來自亞",
-      "summary": "",
+      "title": "亞洲太平洋真實世界登錄資料庫揭示，套裝鞏固性療法在套細胞淋巴瘤治療演進與存活率的影響",
+      "summary": "《自然》期刊指出，一項亞太地區的真實世界登錄資料庫研究，深入分析了套細胞淋巴瘤（MCL）鞏固性療法的演進及其對病患存活率的影響。",
       "source": "Nature",
       "date": "2026-05-29",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jZWlnTDVhMG5XbzVkdXdNTXJBdGtCM3hHd3lfa2lsVjRQZWVkbVVwS3pvY1hDNHBHRmQ1YmlrTTR1V2ZoQnFDVllCUnN1OWtJNmhuN05yRlMydDZqNW9n?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年美國最佳長壽診所：費用與服務",
-      "summary": "26：他們的成本和他們提供什麼沃斯堡星電報",
+      "title": "2026年美國最佳抗衰老診所：費用與服務內容大公開",
+      "summary": "《沃斯堡星電報》報導，2026年美國頂尖的抗衰老診所，其服務項目與收費標準已揭露，供民眾參考。",
       "source": "Fort Worth Star-Telegram",
       "date": "2026-05-20",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wVnEtcDF2c1AtNnJRNFFEV1BLbDlpekZ2cVNYTWxZTmQtRUxfRUxJM3EteHpUbGV2bFdmd0stSk44NWN2U1A5TUNkOFBycTYxN2JzbE9PSDZkdnVxQmRmNTk1MGx6S1NSOXhlZWdlR3VzdXRaRjFrMVFCcDLSAXxBVV95cUxNMFZnZENEM2NyQ3BWSjcxd2p4WXhPRXVwTUNySkhWT1BwemlnUzhEU3lIQXNPYW9mNmpjalQwdGN5YWNOcHFLakZNS2kzUUppa0doOGhMOWFuelJ5djRRZmpfRVAtSDU3OC1ZWDRHTTRBU1VYZkpvM1ItQ09w?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Celebrity Longevity Treatments Ranked: Which Wellness Trends Are Worth Exploring for Yourself?",
-      "summary": "有哪些健康趨勢值得您自己去探索？美國週刊",
+      "title": "名人抗衰老療法排行榜：哪些養生趨勢值得你親身體驗？",
+      "summary": "《美國週刊》整理了名人圈流行的抗衰老療法，並分析哪些養生趨勢值得一般民眾嘗試。",
       "source": "Us Weekly",
       "date": "2026-05-19",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRERMclM2YXc2RDJHNzJ3eUpfT3Q3YzFzNHlQQzJ1eWlzanZFb0Z6UTRPTHFiSHpvdnBxSjVRVUtSYjlpd3BiNEc1TE5sMG1OVGlwQkNTSllLdHRJLWxsYTJ0Q0pZTUNqOGFiRUVtRkhYUnVUclNDUU82ZkpwSUNEZ01wTnIxZ3QzT0VjN1EyWFhWUXZDQmRLaVR3STNHZWlXNm5TWmZPdkNQSDY0dkV5SQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "明星變美聖地：2026年名人醫美旅遊目的地",
-      "summary": "《夏洛特觀察報》報導2026年名人醫美旅遊的熱門目的地。",
+      "title": "2026年明星變美秘境：名人美容觀光熱點大公開",
+      "summary": "《夏洛特觀察家報》揭露，2026年名人圈最受歡迎的美容觀光目的地，讓大家一窺明星們如何維持光鮮亮麗。",
       "source": "Charlotte Observer",
       "date": "2026-05-15",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcE9JYWhhN1BNZ3BfRmo5Vl9UMXY5Y0t2bHVDZ0hXRGdOTUdYalJ4b19zNm54bnVSMTV5ZUNpTFdFRG5kTVZ4c2xIZzR1QTNkbmJTcnBVNTZBUEE0bUh2SmZ6UWE2YTJDazB5VnBGQndLOGEzSV9fQ9IBeEFVX3lxTFAyQ2NrVTZjbG4yUmFWSGNiSF9GRjVfTU8wYVJRRDlGWE5OeWt4MldIMWVCczVqQVh3RFVFaExkb19EQlNoRE1rQmpPVnlzU3RhSkRBd3pXcGxKTWNzYWRrakZmMlh0a3NkaFM5WDUybDF1R2JXcXpyOQ?oc=5",
