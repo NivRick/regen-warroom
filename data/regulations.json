@@ -1,82 +1,90 @@
 {
   "module": "regulation",
-  "updated": "2026-06-11T14:32:57.217051+00:00",
+  "updated": "2026-06-12T00:16:35.246559+00:00",
   "items": [
+    {
+      "title": "第二次會議：病患與照護夥伴對罕見疾病基因療法臨床試驗早期參與的觀點",
+      "summary": "基因療法臨床試驗需充分告知風險與效益，以利病患做出知情決策；長期追蹤對於評估安全性與療效持久性至關重要。",
+      "source": "FDA Biologics",
+      "date": "2026-06-11",
+      "url": "http://www.fda.gov/news-events/meeting-2-patient-and-care-partner-perspectives-early-enrollment-gene-therapy-clinical-trials-rare",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "過敏原研究",
+      "summary": "面向消費者的免疫生物化學和生物製品科學研究清單",
+      "source": "FDA Biologics",
+      "date": "2026-06-11",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/allergenics-research",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "會議 1：病人和護理夥伴對已批准的罕見疾病基因療法的安全考慮因素的看法",
+      "summary": "美國食藥局（FDA） CBER 患者聆聽會議：患者和護理合作夥伴對批准的罕見疾病基因治療的安全考慮因素的看法",
+      "source": "09/20/2024",
+      "date": "2026-06-11",
+      "url": "http://www.fda.gov/news-events/2024-cber-patient-and-care-partner-listening-meetings/meeting-1-patient-and-care-partner-perspectives-safety-considerations-approved-gene-therapy",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "冠狀病毒 (COVID-19) | CBER 監管的生物製品",
+      "summary": "本頁面和相關連結提供與治療或預防 COVID-19 療法開發相關的指導和建議信息，以及尋求其他資訊或幫助的開發人員的聯絡資訊。",
+      "source": "FDA Biologics",
+      "date": "2026-06-11",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
+      "lang": "zh-TW"
+    },
     {
       "title": "歐洲藥品管理局（EMA） 將於 2025 年批准 104 種人類藥物",
       "summary": "",
       "source": "PharmTech.com",
       "date": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HWFNQZFNxMHJmSzBiQ2d2cF9oWm4wdGtKYkdzbTZ3TUlRS3BLRTNNc0pEdUc2c0k5MHlkZ0lWTFBscEtHNkpXWDBERjJ0SDU1MWxIb0hqZ1RMaFZqZ2JFMjlFSDFzR1ZxcGxkRnlTTXQ2X3kzejBUZ2VR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-06-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "公開網路研討會：美國FDA針對血液與血漿生物製劑許可申請的審查",
-      "summary": "這場網路研討會旨在向血庫機構及其他利害關係人，說明美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）下屬的血液產品辦公室（OBRR）如何審查生物製劑許可申請。",
+      "title": "公開網路研討會： 美國食藥局（FDA） 對血液和血漿源生物製劑許可申請的審查",
+      "summary": "本次網路研討會旨在向血液機構和其他利害關係人概述 OBRR 審查用於製造血液和血液成分（包括源血漿）的生物製品許可證申請的方法。在這個電動車",
       "source": "05/12/2026",
       "date": "2026-06-10",
       "url": "http://www.fda.gov/news-events/public-webinar-fda-review-biologics-license-applications-blood-and-source-plasma-05122026",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑評估與研究中心（CBER）聯絡資訊",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的聯絡方式列表。",
+      "title": "生物製品評估與研究中心 (CBER) 聯絡人",
+      "summary": "生物製品評估與研究中心 (CBER) 聯絡資訊列表",
       "source": "FDA Biologics",
       "date": "2026-06-10",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/contacts-center-biologics-evaluation-research-cber",
       "lang": "zh-TW"
     },
     {
-      "title": "ODACTRA 生物製劑",
-      "summary": "這是ODACTRA產品的核准資訊，主要用於治療18至65歲成人，針對塵蟎（HDM）引起的過敏性鼻炎，作為一種免疫療法。",
+      "title": "奧達克",
+      "summary": "產品批准訊息，用於 18 至 65 歲成人，作為屋塵蟎 (HDM) 誘發的過敏性鼻炎（伴或不伴結膜炎）的免疫療法，經體外測試 Dermatophagoides fari 的 IgE 抗體證實",
       "source": "FDA Biologics",
       "date": "2026-06-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/allergenics/odactra",
       "lang": "zh-TW"
     },
     {
-      "title": "運用次世代定序技術評估人類基因療法產品的基因編輯安全性",
-      "summary": "這份是針對業界的草案指引，說明如何運用次世代定序技術，評估人類基因療法產品中基因編輯的安全性。",
-      "source": "FDA Biologics",
-      "date": "2026-06-10",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-assessment-genome-editing-human-gene-therapy-products-using-next-generation-sequencing",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "GSK以106億美元收購Nuvalent，強化精準非小細胞肺癌（NSCLC）治療產品線",
-      "summary": "GSK斥資106億美元收購Nuvalent，旨在強化其在精準非小細胞肺癌（NSCLC）治療領域的產品線，擴大癌症藥物布局。",
+      "title": "GSK將以$10.6B收購Nuvalent，透過精準非小細胞肺癌治療促進癌症產品線",
+      "summary": "Nuvalent 的產品線以 ROS1 抑制劑 zidesamtinib (NVL-520) 和 ALK 抑制劑 eladalkib (NVL-655) 為主導，該公司表示，這代表了潛在的同類最佳、下一代、高度選擇性的 NSCLC 治療方法。兩者都是b",
       "source": "GEN News",
       "date": "2026-06-10",
       "url": "https://www.genengnews.com/topics/cancer/gsk-to-acquire-nuvalent-for-10-6b-boosting-cancer-pipeline-with-precision-nsclc-treatments/",
       "lang": "zh-TW"
     },
     {
-      "title": "mRNA尾端在調控蛋白摺疊中扮演關鍵角色",
-      "summary": "傳統上3'非轉譯區（3' UTRs）常被忽略，但一項新研究指出，這些高度保守的mRNA尾端能促進蛋白質摺疊。",
-      "source": "GEN News",
-      "date": "2026-06-10",
-      "url": "https://www.genengnews.com/topics/drug-discovery/mrna-tails-play-key-role-in-folding-regulatory-proteins/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "治療產品辦公室（OTP）線上座談會：細胞與基因療法產品生物製劑許可申請（BLA）的最佳實踐",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）旗下的治療產品辦公室（OTP），將於6月4日舉辦下一場線上座談會。",
-      "source": "06/04/2026",
-      "date": "2026-06-08",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "亞洲細胞儲存管市場：分析、預測、規模、趨勢與洞察",
-      "summary": "這份報告深入分析了亞洲細胞儲存管市場的現況，並提供未來預測、市場規模、最新趨",
+      "title": "亞洲細胞儲存管 - 市場分析、預測、規模、趨勢和見解",
+      "summary": "s、預測、規模、趨勢和見解 IndexBox",
       "source": "IndexBox",
       "date": "2026-06-08",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWtYZmdCR21McEp1c2gyVVBNaUxrMVpWcHBkVEtZSGJQQzNVOVBBdjJlZGxUMUpiODk2U1E1YkxXTkZwWFhNUFJ2WFVERTFOZ242bUZOVm15YW03UWlNandfQnUtQVRmWWpJc1RfeE10WDBVcHhQWjhLem1lOS15Y0NsdDdPblRibVpJbVc2WnBINlptNlMyMXlJS0FmT1ZCTWFUaVFsSQ?oc=5",

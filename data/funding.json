@@ -1,21 +1,45 @@
 {
   "module": "funding",
-  "updated": "2026-06-11T14:33:27.287081+00:00",
+  "updated": "2026-06-12T00:17:15.891703+00:00",
   "items": [
     {
-      "title": "STAT+: 「合成致死」策略有望引發新一波生技併購潮",
-      "summary": "證明「合成致死」策略能有效治療癌症，還需要更多努力，但也可能催生出一些創新的交易模式。",
+      "title": "肥胖藥物深入研究，勝肽成為主流",
+      "summary": "正在開發的新型肥胖藥物能否脫穎而出？哪家公司剛剛打破了 首次公開上市（IPO） 記錄？食品藥物管理局是否允許",
+      "source": "STAT News",
+      "date": "2026-06-11",
+      "url": "https://www.statnews.com/2026/06/11/an-obesity-drug-deep-dive-and-peptides-move-mainstream/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Abridge 與 Nvidia 和 Lilly 達成交易",
+      "summary": "Abridge 宣布與禮來公司 (Eli Lilly) 和英偉達 (Nvidia) 達成新協議，旨在在競爭激烈的市場中獲得優勢。",
+      "source": "STAT News",
+      "date": "2026-06-11",
+      "url": "https://www.statnews.com/2026/06/11/abridge-inks-deals-with-nvidia-and-lilly/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：「合成殺傷力」可能引發新一輪生物技術併購",
+      "summary": "證明「綜合致死」方法可以幫助治療癌症還需要做更多的工作。它还可能引发一些创造性的交易。",
       "source": "STAT News",
       "date": "2026-06-11",
       "url": "https://www.statnews.com/2026/06/11/synthetic-lethality-cancer-tango-revolution/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 肯德爾廣場實驗室市場的曙光",
-      "summary": "",
-      "source": "STAT News",
-      "date": "2026-06-10",
-      "url": "https://www.statnews.com/2026/06/10/biotech-news-hope-for-kendall-squares-lab-market/?utm_campaign=rss",
+      "title": "Sensorion 引用 Regeneron 競爭，將重點轉向不同的聽力損失治療",
+      "summary": "一項策略性審查確定開發環境發生了“顯著變化”，導致 Sensorion 結束了針對 OTOF 相關聽力損失的基因治療工作。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-11",
+      "url": "https://www.biopharmadive.com/news/sensorion-gene-therapy-hearing-loss-otof-gjb2/822609/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "諾華 (Novartis) 在 $12B Avidity 交易中收購的 RNA 藥物取得了審判勝利",
+      "summary": "數據顯示，del-brax（一種正在針對肌肉萎縮疾病進行測試的「反義寡核苷酸綴合物」）在 1/2 期研究中達到了其主要終點。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-11",
+      "url": "https://www.biopharmadive.com/news/novartis-del-brax-avidity-trial-data/822628/",
       "lang": "zh-TW"
     },
     {
@@ -43,32 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "GSK 透過 11B 美元收購 Nuvalent 擴大癌症產品線",
-      "summary": "這家英國製藥商今年的第三次收購使其獲得了兩種正在接受 美國食藥局（FDA） 審查的實驗性肺癌藥物，希望能夠支持其特許經營權。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-09",
-      "url": "https://www.biopharmadive.com/news/gsk-nuvalent-11B-dollar-acquisition-alk-ros1/822340/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "羅氏斥資 7 億美元購買 Nurix 蛋白質降解藥物",
-      "summary": "此次合作的潛在價值高達 23 億美元，押注的是能夠消除「BTK」酶的藥物將優於阻止其活性的現有藥物。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-08",
-      "url": "https://www.biopharmadive.com/news/roche-nurix-protein-degrader-btk-bexobrutideg-deal/822230/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Kiran Mazumdar-Shaw 的 Immuneel 在 B 輪融資中籌集了超過 100 盧比",
-      "summary": "B 輪 BW 中斷中的 er Rs 100 Cr",
+      "title": "Kiran Mazumdar-Shaw旗下的Immuneel在B輪募資中募得超過1200萬美元",
+      "summary": "Immuneel公司在B輪募資中成功募得超過1200萬美元，展現市場對其潛力看好。",
       "source": "BW Disrupt",
       "date": "2026-06-08",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWU3cmJjOEN2VkhvdDl6dXQ2WGJaU3A0TERoa1NHejBtaGwwWHdHeWhVRURFaC1YV3B1UFI3Vy1wek5wV2doTGpHUWt1YkU2cE9vY2NrUFNPMUx4NlRMTnJFVC1SN2FvNEd4d3RlYlM4NFM4cE9IdGtpNi03SS1YVmNxZkEwTkJJWVZTQy00MjlZcm9PbUpxTHFFWExBQjcyekRWRkpqSDl3VUMxb3NOSQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
-      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "title": "歐洲生技業者積極開發次世代細胞與基因療法製造技術",
+      "summary": "歐洲生技公司正投入次世代細胞與基因療法製造技術的研發，以提升產業效率。",
       "source": "PharmTech.com",
       "date": "2026-05-22",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
