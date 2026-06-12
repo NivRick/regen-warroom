@@ -1,6 +1,6 @@
 {
   "module": "funding",
-  "updated": "2026-06-12T00:17:15.891703+00:00",
+  "updated": "2026-06-12T14:01:03.045436+00:00",
   "items": [
     {
       "title": "肥胖藥物深入研究，勝肽成為主流",
@@ -20,7 +20,7 @@
     },
     {
       "title": "STAT+：「合成殺傷力」可能引發新一輪生物技術併購",
-      "summary": "證明「綜合致死」方法可以幫助治療癌症還需要做更多的工作。它还可能引发一些创造性的交易。",
+      "summary": "證明「綜合致死」方法可以幫助治療癌症還需要做更多的工作。它也可能引發一些創造性的交易。",
       "source": "STAT News",
       "date": "2026-06-11",
       "url": "https://www.statnews.com/2026/06/11/synthetic-lethality-cancer-tango-revolution/?utm_campaign=rss",
@@ -59,27 +59,19 @@
       "lang": "zh-TW"
     },
     {
+      "title": "Fierce Biotech 募資追蹤：SonoThera 募得 1.25 億美元；Ethyreal 宣布募資 1.01 億美元",
+      "summary": "SonoThera 募得 1.25 億美元；Ethyreal 募得 1.01 億美元。",
+      "source": "Fierce Biotech",
+      "date": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "隱密新創公司 Treeline 計劃反向併購",
       "summary": "在 Loxo Oncology 前執行長 Josh Bilenker 的領導下，這家新創公司目前擁有三種處於早期測試階段的抗癌藥物，還有更多藥物緊隨其後。",
       "source": "BioPharma Dive",
       "date": "2026-06-09",
       "url": "https://www.biopharmadive.com/news/treeline-reverse-merger-standard-biotools-cancer-drugs/822352/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Kiran Mazumdar-Shaw旗下的Immuneel在B輪募資中募得超過1200萬美元",
-      "summary": "Immuneel公司在B輪募資中成功募得超過1200萬美元，展現市場對其潛力看好。",
-      "source": "BW Disrupt",
-      "date": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWU3cmJjOEN2VkhvdDl6dXQ2WGJaU3A0TERoa1NHejBtaGwwWHdHeWhVRURFaC1YV3B1UFI3Vy1wek5wV2doTGpHUWt1YkU2cE9vY2NrUFNPMUx4NlRMTnJFVC1SN2FvNEd4d3RlYlM4NFM4cE9IdGtpNi03SS1YVmNxZkEwTkJJWVZTQy00MjlZcm9PbUpxTHFFWExBQjcyekRWRkpqSDl3VUMxb3NOSQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "歐洲生技業者積極開發次世代細胞與基因療法製造技術",
-      "summary": "歐洲生技公司正投入次世代細胞與基因療法製造技術的研發，以提升產業效率。",
-      "source": "PharmTech.com",
-      "date": "2026-05-22",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     }
   ]
