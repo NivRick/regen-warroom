@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-06-13T00:15:48.099482+00:00",
+  "updated": "2026-06-13T12:22:05.764125+00:00",
   "items": [
     {
-      "title": "腸道菌相與代謝物驅動的免疫細胞時空動態對腫瘤的影響",
-      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除腫瘤細胞方面扮演關鍵角色，並日益受到關注。",
+      "title": "腸道菌群與代謝物如何影響免疫細胞在腫瘤中的時空動態？",
+      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除癌細胞上扮演關鍵角色，近年來，這個領域越來越受到關注。",
       "source": "PubMed",
       "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42207498/",
       "lang": "zh-TW"
     },
     {
-      "title": "運用原位類器官模型研究大腸直腸癌",
+      "title": "運用原位類器官模型，探討大腸",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-13",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "3D生物列印異質細胞皮瓣組織與彈性可灌注血管",
-      "summary": "儘管生物製造技術進步，但要用3D生物列印做出含異質細胞與血管的大型組織仍是挑戰。",
+      "title": "具有異質細胞和柔性可灌注血管的皮瓣組織的 3D 生物列印。",
+      "summary": "儘管生物製造取得了進步，但用異質細胞製造大規模血管化組織仍然是一項艱鉅的挑戰。為了應對這項挑戰，提出了逆向工程結構化組織（REST）三維（3D）生物列印方法。該策略使...",
       "source": "PubMed",
       "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42281783/",
       "lang": "zh-TW"
     },
     {
-      "title": "纖維蛋白-磷酸鈣（Fibrin-",
-      "summary": "",
+      "title": "轉錄組和蛋白質組分析證明，Fibrin-CaP 支架遞送的 BMP-7 信使RNA（mRNA） 可活化體內成骨程序。",
+      "summary": "兩種重組骨形態發生蛋白（BMP-2 和 BMP-7）已獲得 美國食藥局（FDA） 核准用於骨相關治療。然而，它們的臨床表現受到高成本、需要超生理劑量和不良副作用的限制。在這裡，我們描述了一種化學修飾的 信使RNA（mRNA） (cmRNA) 編碼...",
       "source": "PubMed",
       "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42256891/",
@@ -99,7 +99,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Magnetic RNA building blocks (RBBs)-driven modular spheroid assembly.",
+      "title": "磁性 RNA 建構模組 (RBB) 驅動的模組化球體組裝。",
       "summary": "生理相關的三維 (3D) 細胞培養平台的開發對於推進組織工程、疾病建模和藥物篩選至關重要。然而，傳統的球體製造方法在再現性、結構控制和…方面面臨著持續的挑戰。",
       "source": "PubMed",
       "date": "2026-06-13",
@@ -131,16 +131,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "基於細胞移動的選擇性水凝膠，能快速生成神經修復血栓",
-      "summary": "新型水凝膠利用細胞移動特性，能快速生成用於神經修復的血栓，克服傳統血栓應用限制。",
+      "title": "基於細胞移動性的選擇性水凝膠，可快速生成神經修復血栓",
+      "summary": "富含養分的血栓能促進多種組織修復，但因紅血球相關風險，其在神經修復的應用受限。此研究開發出新型水凝膠，有望克服此限制。",
       "source": "PubMed",
       "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42199387/",
       "lang": "zh-TW"
     },
     {
-      "title": "模組化活體組裝骨類器官，並原",
-      "summary": "",
+      "title": "具有原位引導血管化的骨類器官的模組化活體組裝。",
+      "summary": "類器官已成為重現組織結構和功能的強大策略，為再生醫學開闢了新途徑。然而，臨床轉化受到對異質類器官單元組裝的有限控制以及由此導致的空間組織損失的阻礙...",
       "source": "PubMed",
       "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42199385/",
@@ -188,7 +188,7 @@
     },
     {
       "title": "[二期臨床] RP2與Tivozanib聯用治療免疫療法後惡化的轉移性腎細胞癌",
-      "summary": "這項二期臨床試驗將評估RP2與Tivozanib聯用，治療免疫療法後惡化的轉移性腎細胞癌患者。",
+      "summary": "由City of Hope Medical Center主辦，這項二期臨床試驗將評估RP2與Tivozanib聯用，治療免疫療法後病情惡化的轉移性腎",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07218692",
@@ -259,6 +259,22 @@
       "lang": "zh-TW"
     },
     {
+      "title": "Caribou Biosciences 在 EHA 2026 上報告二線大 B 細胞淋巴瘤的長期 Vispa-cel 數據",
+      "summary": "EHA 2026 投資新聞網絡上二線大 B 細胞淋巴瘤的 spa-cel 數據",
+      "source": "Investing News Network",
+      "date": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHBsb1daN1ZUbkdTTF91b0pNVkxpdUVxcXVGWHc4WjVwc3FmWXo3S0haVEp5eUhhd0YyazJ5Mk8xUFJCd0I0cVBKUW4xODlYMnVIUzVmbGdadnZkbVJKLXItM09hbWtGbHhFd0ItQ2JQMHM2elE4TE90NDVPRTR6QW9HMGc3MWkycmo4OUR4cGxxZmNBQ1FTYmlvTHNabmoxSjBRWkFJbDEycnJ6T2c0dU9rWGd0S095b3ZnYW5YVExoZHJfS0pR?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "英國國家醫療服務體系（NHS）開創性的基因改造療法試驗後，狼瘡患者病情已緩解",
+      "summary": "英國國家醫療服務體系（NHS）對基因改造療法進行開創性試驗後《衛報》",
+      "source": "The Guardian",
+      "date": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "隨著人工智慧、幹細胞療法和 3D 生物列印徹底改變醫療保健，再生醫學市場規模到 2035 年將超過 2,348.5 億美元",
       "summary": "人工智慧、幹細胞療法和 3D 生物列印將徹底改變醫療保健產業，到 2035 年將達到 2,348.5 億美元",
       "source": "BioSpace",
@@ -275,8 +291,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "建立對嵌合抗原受體T細胞療法（CAR-T）的信心：科羅拉多大學安舒茲醫學園區（CU Anschutz）展示Manali Kamdar醫師在2026年美國臨床腫瘤學會（ASCO）的發現",
-      "summary": "安舒茲醫學園區新聞",
+      "title": "提升嵌合抗原受體T細胞療法（CAR-T）信心：科羅拉多大學安舒茲醫學園區發表Manali Kamdar醫師在2026年美國臨床腫瘤醫學會（ASCO）的研究成果",
+      "summary": "科羅拉多大學安舒茲醫學園區新聞室",
       "source": "CU Anschutz newsroom",
       "date": "2026-06-07",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QU29qZ3loSWJ3UUJnczNKY282Sll6Ul9RSXh0aDJiM1BfSVhQTGw2RDVxVzdjYloxMG9tRkV5WHRYMXZIWnBlQVBTOUVCTGNzQkVOckd1SnZfQzBQaU56Unh1eTlVNnZVMlVCUzktNjZSNnR2Q0V5QklZeGlXc2PSAY8BQVVfeXFMT2c3U0FURmk0OHZoOUVXaXlWdEYyYVQzeDZBZWIzSWozSl9qTUROX2IyNVFqX3pOaU9JWEtObmZLYklnNEJvb21QcnFrOElvT0xMcm5mU0ViYjVaakZZZWY2UW9FVjdmQXJZajExeDBnRGFtdGRUb0RFckJPcS00XzNMUnV2RTQ2dHJ2OTdsUms?oc=5",
@@ -307,8 +323,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第一期臨床試驗] 以Thiotepa為基礎的前置治療方案，搭配移植後環磷醯胺減量，用於血液惡性腫瘤的異體幹細胞移植",
-      "summary": "狀態：尚未招募｜主辦：Sawa Ito醫師｜這項第一期臨床試驗將評估Thiotepa",
+      "title": "第一期臨床試驗：以Thiotepa為基礎、降低移植後環磷醯胺劑量的異體幹細胞移植方案，用於治療血液惡性腫瘤",
+      "summary": "狀態：尚未招募｜主辦：Sawa Ito醫師｜這項第一期臨床試驗將評估Thiotepa、Busulfan和Fl",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-01",
       "url": "https://clinicaltrials.gov/study/NCT07565220",
@@ -347,27 +363,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "明天在 ASCO 2026 上：羅斯威爾公園專家展示識別臨床試驗“沙漠”的數據圖表 |新聞智慧",
-      "summary": "rts 呈現資料圖辨識臨床試驗「沙漠」|新聞資訊 新聞資訊",
-      "source": "Newswise",
-      "date": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeF9YTFVyOEhuREZZVnpCbUExTnN2ejNCcEJSbzdCYUotVzlfYmxqUUMtX3VyRVJWWW5mTUh5OHhXTExjNWg0c3ZqNmhseXZvMGU3aXMtZ1o5enlVbWU1XzZhbThTMUpOSEdTTS1lQl9HZXFnZEJxVW1MdWlFY0Z4OUNlMmR0SjlNTXNOUVdpcU1qTDFpWTc2SXpqTVRveTNhZFN6NEFjZ0ZhQjgyR2UtZ2FuVUt6VVlSbnhnWVJKS0htcjRwX1U1Q9IByAFBVV95cUxQeF9YTFVyOEhuREZZVnpCbUExTnN2ejNCcEJSbzdCYUotVzlfYmxqUUMtX3VyRVJWWW5mTUh5OHhXTExjNWg0c3ZqNmhseXZvMGU3aXMtZ1o5enlVbWU1XzZhbThTMUpOSEdTTS1lQl9HZXFnZEJxVW1MdWlFY0Z4OUNlMmR0SjlNTXNOUVdpcU1qTDFpWTc2SXpqTVRveTNhZFN6NEFjZ0ZhQjgyR2UtZ2FuVUt6VVlSbnhnWVJKS0htcjRwX1U1Qw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "[NA] 放化療後新診斷的膠質母細胞瘤的音樂療法 (MELODY-GBM)",
       "summary": "狀態：招募中｜主辦：約翰霍普金斯大學雪梨金梅爾綜合癌症中心｜腦癌計畫與約翰霍普金斯大學音樂和醫學中心合作，將研究音樂療法對於接受標準護理的新診斷 GBM 患者是否可行。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-05-26",
       "url": "https://clinicaltrials.gov/study/NCT07375992",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "接受 Reqorsa® 基因治療的患者生物標記的積極臨床數據在 2026 年 ASCO 年會上發布",
-      "summary": "接受 Reqorsa® 基因治療的患者在 2026 年 ASCO 年會發表美通社",
-      "source": "PR Newswire",
-      "date": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNclVNRnpndGZQUGRCcmFMNURqSlJOcWRXUW9OLUFKTzZZMVV4aGpobXFHdElsMFA3aUJVaGUwdnJFTHVhRjY4TjB0QXFzY0xPVnJGenhXVlpablFyTDFZUDQxcU9uR1lRamR6V04tanVtM2lvNExzSzlKSmFNYWJrcVR2N3dCS2R5dnZ4WDRpdDh4SjlTbTRIeDdaS3lRNmFRQ0JvNWxKOWluQndxb0ZCU1lVbzBybmFkckdmcnZNWURZV3VmUjc3UElRdm9OWGRGV2RFdElOSDZiLWhiaDBKLVFDalRiMUxzVFR5NVpvSEtNeDdhdTNXQWNuVmZMSmJCSlVFdG04UDc?oc=5",
       "lang": "zh-TW"
     },
     {
