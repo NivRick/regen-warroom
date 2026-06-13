@@ -1,26 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-06-13T12:22:51.302619+00:00",
+  "updated": "2026-06-13T23:58:35.471265+00:00",
   "items": [
     {
-      "title": "血液學研究",
-      "summary": "生物製劑相關計畫一覽。",
+      "title": "血液研究",
+      "summary": "生物製劑項目列表",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "ODACTRA",
-      "summary": "",
+      "title": "奧達克",
+      "summary": "產品批准訊息，用於 18 至 65 歲成人，作為屋塵蟎 (HDM) 誘發的過敏性鼻炎（伴或不伴結膜炎）的免疫療法，經體外測試 Dermatophagoides fari 的 IgE 抗體證實",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/vaccines-blood-biologics/allergenics/odactra",
@@ -67,7 +67,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲藥品管理局（EMA）在2025年核准了104種人用藥品",
+      "title": "歐洲藥品管理局（EMA） 將於 2025 年批准 104 種人類藥物",
       "summary": "",
       "source": "PharmTech.com",
       "date": "2026-06-11",
@@ -83,8 +83,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "亞洲細胞儲存管市場分析、預測、規模、趨勢與洞察報告",
-      "summary": "s、預測、規模、趨勢與洞察報告 IndexBox",
+      "title": "亞洲細胞儲存管 - 市場分析、預測、規模、趨勢和見解",
+      "summary": "s、預測、規模、趨勢和見解 IndexBox",
       "source": "IndexBox",
       "date": "2026-06-08",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWtYZmdCR21McEp1c2gyVVBNaUxrMVpWcHBkVEtZSGJQQzNVOVBBdjJlZGxUMUpiODk2U1E1YkxXTkZwWFhNUFJ2WFVERTFOZ242bUZOVm15YW03UWlNandfQnUtQVRmWWpJc1RfeE10WDBVcHhQWjhLem1lOS15Y0NsdDdPblRibVpJbVc2WnBINlptNlMyMXlJS0FmT1ZCTWFUaVFsSQ?oc=5",
