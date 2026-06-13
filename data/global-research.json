@@ -1,12 +1,12 @@
 {
   "module": "research",
-  "updated": "2026-06-12T14:00:04.369807+00:00",
+  "updated": "2026-06-13T00:15:48.099482+00:00",
   "items": [
     {
       "title": "腸道菌相與代謝物驅動的免疫細胞時空動態對腫瘤的影響",
-      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除腫瘤細胞方面扮演關鍵角色，且越來越受到關注。",
+      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除腫瘤細胞方面扮演關鍵角色，並日益受到關注。",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42207498/",
       "lang": "zh-TW"
     },
@@ -14,15 +14,15 @@
       "title": "運用原位類器官模型研究大腸直腸癌",
       "summary": "",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42141809/",
       "lang": "zh-TW"
     },
     {
       "title": "用於傷口癒合的 3D 生物列印技術和基於生物材料的支架：深入了解脫細胞組織衍生的生物墨水。",
-      "summary": "隨著 3D 列印技術的出現，組織工程領域取得了重大進步，特別是在傷口癒合方面。結合脫細胞生物材料的創新 3D 列印支架為增強再生過程提供了一種有前景的方法。脫細胞雙...",
+      "summary": "隨著 3D 列印技術的出現，組織工程領域取得了重大進步，特別是在傷口癒合方面。結合去細胞生物材料的創新 3D 列印支架為增強再生過程提供了一種有前景的方法。脫細胞雙...",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42255493/",
       "lang": "zh-TW"
     },
@@ -30,15 +30,15 @@
       "title": "透過按需高速雷射用熱滅活的細胞外基質蛋白進行微圖案神經誘導。",
       "summary": "培養細胞中的微環境異質性會損害細胞質量，降低實驗重複性，並削弱細胞治療功效的信心。儘管微圖案細胞培養物更均質，但傳統的微圖案方法缺乏靈活性。",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42255491/",
       "lang": "zh-TW"
     },
     {
       "title": "藥物傳輸中的生物基奈米材料：最新評論。",
-      "summary": "生物基奈米材料因其生物相容性、生物降解性和增強治療性能的能力而成為有前景的藥物傳輸平台。傳統的藥物輸送系統往往受到藥物溶解度差、降解快、生物利用度低和非特異性等限制。",
+      "summary": "生物基奈米材料因其生物相容性、生物降解性和增強治療性能的能力而成為有前景的藥物傳輸平台。傳統的藥物傳遞系統往往受到藥物溶解度差、降解快、生物利用度低和非特異性等限制。",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42232345/",
       "lang": "zh-TW"
     },
@@ -46,7 +46,7 @@
       "title": "免疫學驅動的奈米材料用於免疫調節骨再生的新見解：從基礎知識到生物功能。",
       "summary": "奈米材料在再生醫學中越來越受到重視，因為它們的奈米級特徵能夠實現精確的藥物傳輸、細胞調節和靶向組織修復。一個特別令人興奮的機會在於它們在免疫調節骨再生中的應用，其中奈米科學和免疫...",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42206776/",
       "lang": "zh-TW"
     },
@@ -54,7 +54,7 @@
       "title": "生長因子在骨組織工程傳遞系統的應用及協同創新策略。",
       "summary": "儘管骨組織具有固有的癒合能力，但關鍵尺寸缺損的骨再生仍需要策略性介入。作為關鍵的訊號分子，生長因子（GF）協調骨形成和血管生成。然而，它們的臨床應用面臨一些挑戰，包括...",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42145120/",
       "lang": "zh-TW"
     },
@@ -62,23 +62,23 @@
       "title": "去乙醯化酶家族綜述：腎臟纖維化的關鍵調節因子和新興治療標靶。",
       "summary": "腎臟纖維化是慢性腎臟病（CKD）進展的常見病理終點，但有效的治療方法仍然有限。 Sirtuins 家族 (SIRT1-SIRT7)、NAD",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42135894/",
       "lang": "zh-TW"
     },
     {
-      "title": "3D 生物列印異質細胞皮瓣組織與可灌注彈性血管",
-      "summary": "這項技術利用3D生物列印，成功打造出含有多種細胞類型且具備功能性血管的皮瓣組織，克服了大規模組織工程的挑戰。",
+      "title": "3D生物列印異質細胞皮瓣組織與彈性可灌注血管",
+      "summary": "儘管生物製造技術進步，但要用3D生物列印做出含異質細胞與血管的大型組織仍是挑戰。",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42281783/",
       "lang": "zh-TW"
     },
     {
-      "title": "纖維蛋白",
+      "title": "纖維蛋白-磷酸鈣（Fibrin-",
       "summary": "",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42256891/",
       "lang": "zh-TW"
     },
@@ -86,7 +86,7 @@
       "title": "使用仿肝微球進行機械預處理幹細胞治療，進行功能性肝臟修復。",
       "summary": "肝細胞樣細胞（HLC）代表了一種有前景的急性肝衰竭（ALF）治療方法，為供應短缺的原代肝細胞提供了替代方案。鑑於肝臟的黏彈性組織特性以及對生理學和機械線索的日益認識...",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42256889/",
       "lang": "zh-TW"
     },
@@ -94,15 +94,15 @@
       "title": "聲壓電支架透過活化 Ca 促進椎間盤再生",
       "summary": "髓核（NP）細胞的粒線體功能障礙是椎間盤退化（IDD）的關鍵驅動因素，導致代謝失衡和細胞老化。為了解決這個問題，我們開發了一種基於熱敏 P(NIPAM-AAM...",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42155175/",
       "lang": "zh-TW"
     },
     {
-      "title": "磁性 RNA 建構模組 (RBB) 驅動的模組化球體組裝。",
+      "title": "Magnetic RNA building blocks (RBBs)-driven modular spheroid assembly.",
       "summary": "生理相關的三維 (3D) 細胞培養平台的開發對於推進組織工程、疾病建模和藥物篩選至關重要。然而，傳統的球體製造方法在再現性、結構控制和…方面面臨著持續的挑戰。",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42150242/",
       "lang": "zh-TW"
     },
@@ -110,7 +110,7 @@
       "title": "代謝晝夜節律重編程介導大戟毒性及其透過傳統牛奶加工緩解過程中的上皮屏障不穩定。",
       "summary": "大戟 (Euphorbiae ebracteolatae RADIX) (Langdu)，為大戟科植物大戟 (Euphorbia fischeriana Steud) 的乾燥根。 （E. fischeriana）已廣泛用於蒙古醫學和傳統中醫中，用於治療發炎性疾病和惡性腫瘤。然而，其臨床應用受到其胃腸道...",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42142552/",
       "lang": "zh-TW"
     },
@@ -118,7 +118,7 @@
       "title": "開發血管化多類器官晶片來模擬糖尿病心肌病變的心臟-胰島軸。",
       "summary": "胰島和心臟之間的動態串擾在糖尿病性心肌病變 (DCM) 中發揮著至關重要但人們知之甚少的作用。在這裡，我們提出了一個血管化多類器官晶片平台，該平台能夠對人類 誘導型多能幹細胞（iPSC） 衍生的血管化心臟類器官（VC...",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42253918/",
       "lang": "zh-TW"
     },
@@ -126,23 +126,23 @@
       "title": "具有去細胞脾基質的人體血管類器官中小動脈和毛細血管的分化。",
       "summary": "血管類器官在促進心肌梗塞後血管生成方面顯示出巨大的前景，但目前的類器官培養方法只能形成毛細血管",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42232747/",
       "lang": "zh-TW"
     },
     {
-      "title": "基於細胞移動性的選擇性水凝膠，能快速生成神經修復血栓",
-      "summary": "含有養分的血栓能促進多種組織修復，但因紅血球相關風險，其在神經修復的應用受限。",
+      "title": "基於細胞移動的選擇性水凝膠，能快速生成神經修復血栓",
+      "summary": "新型水凝膠利用細胞移動特性，能快速生成用於神經修復的血栓，克服傳統血栓應用限制。",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42199387/",
       "lang": "zh-TW"
     },
     {
-      "title": "模組化活體組裝骨",
+      "title": "模組化活體組裝骨類器官，並原",
       "summary": "",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42199385/",
       "lang": "zh-TW"
     },
@@ -150,7 +150,7 @@
       "title": "強調用於肌腱/韌帶和附著束組織再生的電紡絲束的應變率依賴性振動行為。",
       "summary": "附著點組織工程旨在開發能夠複製肌腱/韌帶-骨界面的機械和結構梯度的支架。在生物製造技術中，靜電紡絲是最有希望製造形態力學相關的附著束啟發支架的技術之一...",
       "source": "PubMed",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42184708/",
       "lang": "zh-TW"
     },
@@ -158,7 +158,7 @@
       "title": "[N/A] 用於預測 NKTCL 治療反應的多模態融合模型和深度學習",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：中山大學｜這是一項多中心前瞻性研究，旨在開發和驗證基於深度學習的多模式模型，用於預測接受一線天冬酰胺酶治療的結外自然殺傷/T細胞淋巴瘤（NKTCL）患者的治療反應",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07409168",
       "lang": "zh-TW"
     },
@@ -166,7 +166,7 @@
       "title": "[第 2 期] Sonrotoclax 加 Zanubrutinib 用於治療計劃進行標準護理 CAR-T細胞療法 細胞治療的複發/難治性套細胞淋巴瘤患者",
       "summary": "狀態：招募中｜主辦單位：加拿大癌症試驗組｜本研究的目的是評估在標準護理嵌合抗原受體（CAR-T細胞療法）細胞療法中添加兩種口服藥物（sonrotoclax 加 zanubrutinib）對套細胞淋巴瘤參與者的效果。",
       "source": "ClinicalTrials.gov｜Canada",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07341191",
       "lang": "zh-TW"
     },
@@ -174,7 +174,7 @@
       "title": "[NA] 使用免疫檢查點抑制劑進行間歇性斷食的初步研究",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：西維吉尼亞大學｜這項單中心、隨機試驗研究將評估間歇性斷食對於在西維吉尼亞大學癌症研究所開始免疫檢查點抑制劑（ICI）治療的晚期實體瘤患者是否可行且安全。參與者將",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07645742",
       "lang": "zh-TW"
     },
@@ -182,15 +182,15 @@
       "title": "[第 4 期] 多發性骨髓瘤患者自行皮下注射 Daratumumab",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：歐登塞大學醫院｜這項開放標籤、第四階段、前瞻性、非隨機、申辦者發起的多中心可行性研究的主要目標是評估多發性骨髓瘤患者皮下（SC）達雷妥尤單抗自我給藥的可行性和安全性",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07191379",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床二期試驗：RP2與Tivozanib聯用治療免疫療法後惡化的轉移性腎細胞癌",
-      "summary": "這項二期臨床試驗將評估RP2與tivozanib聯用，治療免疫療法後病情惡化的轉移性腎細胞癌患者的療效。目前尚未開始招",
+      "title": "[二期臨床] RP2與Tivozanib聯用治療免疫療法後惡化的轉移性腎細胞癌",
+      "summary": "這項二期臨床試驗將評估RP2與Tivozanib聯用，治療免疫療法後惡化的轉移性腎細胞癌患者。",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07218692",
       "lang": "zh-TW"
     },
@@ -198,15 +198,15 @@
       "title": "[第一階段] AAVrh10-PCCA 丙酸血症基因治療",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：梅奧診所｜丙酸血症是一種遺傳代謝性疾病，其特徵為代謝性酸中毒、酮症、嘔吐、嗜睡、認知障礙和死亡風險。它是由於粒線體酵素丙醯輔酶A羧化酶和c的功能喪失所致。",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07643844",
       "lang": "zh-TW"
     },
     {
       "title": "[第一階段] Bmab1800 和 Keytruda® 作為黑色素瘤患者輔助單一療法的藥物動力學、安全性和免疫原性",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Biocon Biologics UK PLC｜研究的目的是在一項針對黑色素瘤切除患者的隨機、雙盲、雙臂、平行比較、多中心研究中，評估 Bmab1800 與參考產品 Keytruda® 的藥物動力學 (PK) 等效性",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Biocon Biologics UK PLC｜該研究的目的是在一項針對黑色素瘤切除患者的隨機、雙盲、雙組、平行比較、多中心研究中評估 Bmab1800 與參考產品 Keytruda® 的藥物動力學 (PK) 等效性",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07581509",
       "lang": "zh-TW"
     },
@@ -214,7 +214,7 @@
       "title": "[PHASE1, PHASE2] SPK-8011QQ 成人重度或中重度 A 型血友病的基因治療研究",
       "summary": "狀態：招募｜主辦：Hoffmann-La Roche｜本研究將評估 SPK-8011QQ 在患有中度至重度血友病 A 的成年男性中的安全性和耐受性。",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07226206",
       "lang": "zh-TW"
     },
@@ -222,7 +222,7 @@
       "title": "[第一階段]局部施用基因工程細胞（EGFR/IL13Rα2 Pool-CAR-T細胞療法 細胞）治療復發性或進行性高惡性度膠質瘤",
       "summary": "狀態：招募中｜主辦單位：希望之城醫療中心｜本一期試驗研究 EGFR/IL13Rα2 池嵌合抗原受體 (CAR) T 細胞透過細柔性管注入大腦（局部給藥）治療高級別膠質瘤患者的副作用和最佳劑量",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07544992",
       "lang": "zh-TW"
     },
@@ -230,7 +230,7 @@
       "title": "[第一階段、第二階段] 胰臟癌患者的 CD318 標靶 CAR-T細胞療法 細胞治療 (ResCPa)",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：圖賓根大學醫院｜胰腺導管腺癌（PDAC）是最致命的癌症之一，治療選擇有限，晚期五年存活率低於 10%。標準治療，例如多藥化療，只能提供邊際存活率",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07153289",
       "lang": "zh-TW"
     },
@@ -238,40 +238,24 @@
       "title": "[第 1 期] PET 顯影劑 (64Cu-DOTA-Pembrolizumab)，用於確定接受 Pembrolizumab 治療的 IV 期非小細胞肺癌患者的治療反應",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：希望之城醫療中心｜這項一期試驗研究了一種名為 64Cu-DOTA-pembrolizumab 的新型正電子發射斷層掃描 (PET) 顯影劑的安全性和副作用，以了解其在確定 IV 期非小細胞肺患者治療反應方面的效果如何",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07619599",
       "lang": "zh-TW"
     },
     {
-      "title": "[EARLY_PHASE1] GC012F 在類風濕關節炎的開放標籤研究。",
+      "title": "[EARLY_PHASE1] GC012F 在類風濕性關節炎的開放標籤研究。",
       "summary": "狀態：撤回｜主辦：中國血液疾病研究所醫院｜這是一項評估 GC012F 在難治性（D2T）類風濕關節炎患者中的安全性和有效性的開放標籤研究。",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "url": "https://clinicaltrials.gov/study/NCT07315503",
       "lang": "zh-TW"
     },
     {
-      "title": "Caribou Biosciences在2026年歐洲血液學協會（EHA）年會上公布Vispa-cel用於二線大B細胞淋巴瘤的長期數據",
-      "summary": "Caribou Biosciences在2026年歐洲血液學協會（EHA）年會上，公布了Vispa-cel用於二",
-      "source": "Investing News Network",
-      "date": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHBsb1daN1ZUbkdTTF91b0pNVkxpdUVxcXVGWHc4WjVwc3FmWXo3S0haVEp5eUhhd0YyazJ5Mk8xUFJCd0I0cVBKUW4xODlYMnVIUzVmbGdadnZkbVJKLXItM09hbWtGbHhFd0ItQ2JQMHM2elE4TE90NDVPRTR6QW9HMGc3MWkycmo4OUR4cGxxZmNBQ1FTYmlvTHNabmoxSjBRWkFJbDEycnJ6T2c0dU9rWGd0S095b3ZnYW5YVExoZHJfS0pR?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "現成的淋巴瘤細胞療法在早期試驗中顯示 82% 的緩解率",
-      "summary": "Stock Titan 在早期試驗的回應率為 82%",
-      "source": "Stock Titan",
-      "date": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFQ1WUlaS1NFeVBfYjVLOGRRaHNUckdBVVNQclM1cTlkajhfZHVNSjBKSjNYWlpEckIxMEJ6eUR5c1FCeVktc0tGQjZ6S1NOZG5wd09Reml6allCUUpIREtxdVE1T3FvYkVvTmp2T2lpMG9DTUJ6Q1RyMUw3alZzSmtTZl9ybmFUMmhvX2lsWUw2cmpVdGNYVkZHT1RSUXN6ZHlpdVcxaXhubVdPUG1FNUZUMTZJOEplbTJMdjBTaw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Cellectis 在 EHA 2026 大會上展示 Lasme-cel 的最終 1 期結果和 Eti-cel 的初步結果",
-      "summary": "Lasme-cel 和 Eti-cel 在 EHA 2026 大會上的初步結果 GlobeNewswire",
+      "title": "Lyell Nutrition 在 2026 年歐洲血液學會大會上展示了 Rondecabtagene Autoleucel (Ronde-Cel) 在大 B 細胞淋巴瘤患者中的最新安全數據和轉化見解",
+      "summary": "Rondecabtagene Autoleucel (Ronde-Cel) 在歐洲血液學協會 2026 年大會上治療大 B 細胞淋巴瘤患者的數據和轉化見解 GlobeNewswire",
       "source": "GlobeNewswire",
-      "date": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPVjV3TXhhNVI5UDRMNERvQlZ2b0Y4SldMYk1XT3djc2o4Y0hUdTlUU2JBcDg0TS1IellKV192Y1R4bkF5Q2pUMW40YzVDeTI3QWJwVjVHN3VDM1hYZ2VodzlHZWN1ZVd5UWpjOF9EWXlmUTJ2RUp6Zjl6UjhmV21lcHV0WDEtV0xQak5uMnVfTXN3dlVucGRBNUdqTE9hTUdNN0htQkItWVdBZm1XV1ZiVExHWWFvYi1PYV91enFvY2NwTzI0TUVleFRxcmFQQTVGSzQzZXoxcGgycEs0Q3dvNm1ONnFhQTdCb05lSklDTS1YbVpac2ZscmlyWWlKWEJqdGJFTFFTMW50RV8yN3c?oc=5",
+      "date": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPYnQxbUNRSnUxaVZkR2VQY1BRVUQyTTdCd1FhWEdfSFFSdXllNFY0SXM0S1BUY29TaDZmZzRuaERsclZDN3l4U2NIbGNEVTNtdExsdXppR3N1bmNzbFJEQVNRVm15c1dpOHdrdFFrc3VfRUsxWDNWeVVtS0t2LVpsbThtZFZmakVlZjVnTmxfVDZUc0Q0REIwXzhZUHhGSlNxTDBXb1JyREJZb0FkMXFQMnFJNGpxRDVxdFBuc1ktcnl4eWwxbDM3RkpYNUtQTlJmNVlZUXBVcFB4ajBpWHZLYTZXTEdxMTc0WWtWeEI3SFI0eFVxWF90a0R4WGRGc3hNT2hZb3h0RWl2U2hwT0dMMkR3SEI3Vm5QM0Zma0NSeVVQN1dxM0pla3ZUOV9KNWFRbjI4YjFZRUhScXdPaF9qSjVLMTRMdVpQSGlGa3JiUXlscDlZRDRmWUViMmpRNkJxREFGbkkwUlNDMnox?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -291,8 +275,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "建立對 CAR-T細胞療法 療法的信心：CU Anschutz 展示 ASCO 2026 醫學博士 Manali Kamdar 的研究結果",
-      "summary": "Anschutz 展示 ASCO 2026 的調查結果 CU Anschutz 新聞室醫學博士 Manali Kamdar",
+      "title": "建立對嵌合抗原受體T細胞療法（CAR-T）的信心：科羅拉多大學安舒茲醫學園區（CU Anschutz）展示Manali Kamdar醫師在2026年美國臨床腫瘤學會（ASCO）的發現",
+      "summary": "安舒茲醫學園區新聞",
       "source": "CU Anschutz newsroom",
       "date": "2026-06-07",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QU29qZ3loSWJ3UUJnczNKY282Sll6Ul9RSXh0aDJiM1BfSVhQTGw2RDVxVzdjYloxMG9tRkV5WHRYMXZIWnBlQVBTOUVCTGNzQkVOckd1SnZfQzBQaU56Unh1eTlVNnZVMlVCUzktNjZSNnR2Q0V5QklZeGlXc2PSAY8BQVVfeXFMT2c3U0FURmk0OHZoOUVXaXlWdEYyYVQzeDZBZWIzSWozSl9qTUROX2IyNVFqX3pOaU9JWEtObmZLYklnNEJvb21QcnFrOElvT0xMcm5mU0ViYjVaakZZZWY2UW9FVjdmQXJZajExeDBnRGFtdGRUb0RFckJPcS00XzNMUnV2RTQ2dHJ2OTdsUms?oc=5",
@@ -323,15 +307,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "臨床一期：以Thiotepa為基礎，搭配移植後環磷醯胺減量的異體幹細胞移植前置治療方案，用於血液惡性腫瘤",
-      "summary": "狀態：尚未招募｜主辦：Sawa Ito醫師｜這項臨床一期試驗將評估Thiotepa、Busulfan和Fl",
+      "title": "[第一期臨床試驗] 以Thiotepa為基礎的前置治療方案，搭配移植後環磷醯胺減量，用於血液惡性腫瘤的異體幹細胞移植",
+      "summary": "狀態：尚未招募｜主辦：Sawa Ito醫師｜這項第一期臨床試驗將評估Thiotepa",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-01",
       "url": "https://clinicaltrials.gov/study/NCT07565220",
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE2] Study of Sacituzumab Govitecan With Atezolizumab/Durvalumab as Maintenance Therapy for Extensive-Stage Small Cell Lung Cancer",
+      "title": "[PHASE2] Sacituzumab Govitecan 合併 Atezolizumab/Durvalumab 作為廣泛性小細胞肺癌維持治療的研究",
       "summary": "狀態：招募｜主辦：Bindu R Potugari｜這項臨床試驗的目的是了解 sacituzumab govetican (SG) 和 atezolizumab/durvalumab 的組合是否能有效控製成人廣泛期小細胞肺癌的癌症腫瘤生長。這些藥物已獲得 美國食藥局（FDA） 批准",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-01",
@@ -363,11 +347,27 @@
       "lang": "zh-TW"
     },
     {
+      "title": "明天在 ASCO 2026 上：羅斯威爾公園專家展示識別臨床試驗“沙漠”的數據圖表 |新聞智慧",
+      "summary": "rts 呈現資料圖辨識臨床試驗「沙漠」|新聞資訊 新聞資訊",
+      "source": "Newswise",
+      "date": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeF9YTFVyOEhuREZZVnpCbUExTnN2ejNCcEJSbzdCYUotVzlfYmxqUUMtX3VyRVJWWW5mTUh5OHhXTExjNWg0c3ZqNmhseXZvMGU3aXMtZ1o5enlVbWU1XzZhbThTMUpOSEdTTS1lQl9HZXFnZEJxVW1MdWlFY0Z4OUNlMmR0SjlNTXNOUVdpcU1qTDFpWTc2SXpqTVRveTNhZFN6NEFjZ0ZhQjgyR2UtZ2FuVUt6VVlSbnhnWVJKS0htcjRwX1U1Q9IByAFBVV95cUxQeF9YTFVyOEhuREZZVnpCbUExTnN2ejNCcEJSbzdCYUotVzlfYmxqUUMtX3VyRVJWWW5mTUh5OHhXTExjNWg0c3ZqNmhseXZvMGU3aXMtZ1o5enlVbWU1XzZhbThTMUpOSEdTTS1lQl9HZXFnZEJxVW1MdWlFY0Z4OUNlMmR0SjlNTXNOUVdpcU1qTDFpWTc2SXpqTVRveTNhZFN6NEFjZ0ZhQjgyR2UtZ2FuVUt6VVlSbnhnWVJKS0htcjRwX1U1Qw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "[NA] 放化療後新診斷的膠質母細胞瘤的音樂療法 (MELODY-GBM)",
-      "summary": "狀態：招募｜主辦：約翰霍普金斯大學雪梨金梅爾綜合癌症中心｜腦癌計畫與約翰霍普金斯大學音樂和醫學中心合作，將研究音樂療法對於接受標準護理的新診斷 GBM 患者是否可行。",
+      "summary": "狀態：招募中｜主辦：約翰霍普金斯大學雪梨金梅爾綜合癌症中心｜腦癌計畫與約翰霍普金斯大學音樂和醫學中心合作，將研究音樂療法對於接受標準護理的新診斷 GBM 患者是否可行。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-05-26",
       "url": "https://clinicaltrials.gov/study/NCT07375992",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "接受 Reqorsa® 基因治療的患者生物標記的積極臨床數據在 2026 年 ASCO 年會上發布",
+      "summary": "接受 Reqorsa® 基因治療的患者在 2026 年 ASCO 年會發表美通社",
+      "source": "PR Newswire",
+      "date": "2026-05-26",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNclVNRnpndGZQUGRCcmFMNURqSlJOcWRXUW9OLUFKTzZZMVV4aGpobXFHdElsMFA3aUJVaGUwdnJFTHVhRjY4TjB0QXFzY0xPVnJGenhXVlpablFyTDFZUDQxcU9uR1lRamR6V04tanVtM2lvNExzSzlKSmFNYWJrcVR2N3dCS2R5dnZ4WDRpdDh4SjlTbTRIeDdaS3lRNmFRQ0JvNWxKOWluQndxb0ZCU1lVbzBybmFkckdmcnZNWURZV3VmUjc3UElRdm9OWGRGV2RFdElOSDZiLWhiaDBKLVFDalRiMUxzVFR5NVpvSEtNeDdhdTNXQWNuVmZMSmJCSlVFdG04UDc?oc=5",
       "lang": "zh-TW"
     },
     {

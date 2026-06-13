@@ -1,7 +1,39 @@
 {
   "module": "regulation",
-  "updated": "2026-06-12T14:00:39.895872+00:00",
+  "updated": "2026-06-13T00:16:48.354616+00:00",
   "items": [
+    {
+      "title": "血液研究",
+      "summary": "生物製劑項目列表",
+      "source": "FDA Biologics",
+      "date": "2026-06-12",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-06-12",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "奧達克",
+      "summary": "產品批准訊息，用於 18 至 65 歲成人，作為屋塵蟎 (HDM) 誘發的過敏性鼻炎（伴或不伴結膜炎）的免疫療法，經體外測試 Dermatophagoides fari 的 IgE 抗體證實",
+      "source": "FDA Biologics",
+      "date": "2026-06-12",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/allergenics/odactra",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "向生物製品評估與研究中心及藥物評估與研究中心提交真實世界證據",
+      "summary": "作為重新授權《處方藥使用者付費法案》(PDUFA VII) 的一部分，美國食藥局（FDA） 承諾向生物製品評估與研究中心 (CBER) 和藥物評估中心報告提交的匯總和匿名訊息",
+      "source": "FDA Biologics",
+      "date": "2026-06-12",
+      "url": "http://www.fda.gov/science-research/real-world-evidence/real-world-evidence-submissions-center-biologics-evaluation-and-research-center-drug-evaluation-and",
+      "lang": "zh-TW"
+    },
     {
       "title": "會議 2：病人和護理夥伴對早期參加罕見疾病基因治療臨床試驗的看法",
       "summary": "基因治療試驗可告知風險和益處，以便做出明智的決策。長期追蹤對於安全性和耐久性評估至關重要。",
@@ -35,43 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲藥品管理局（EMA） 將於 2025 年批准 104 種人類藥物",
+      "title": "歐洲藥品管理局（EMA）在2025年核准了104種",
       "summary": "",
       "source": "PharmTech.com",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-06-10",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "公開網路研討會： 美國食藥局（FDA） 對血液和血漿源生物製劑許可申請的審查",
-      "summary": "本次網路研討會旨在向血液機構和其他利害關係人概述 OBRR 審查用於製造血液和血液成分（包括源血漿）的生物製品許可證申請的方法。在這個電動車",
-      "source": "05/12/2026",
-      "date": "2026-06-10",
-      "url": "http://www.fda.gov/news-events/public-webinar-fda-review-biologics-license-applications-blood-and-source-plasma-05122026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品評估與研究中心 (CBER) 聯絡人",
-      "summary": "生物製品評估與研究中心 (CBER) 聯絡資訊列表",
-      "source": "FDA Biologics",
-      "date": "2026-06-10",
-      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/contacts-center-biologics-evaluation-research-cber",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "奧達克",
-      "summary": "產品批准訊息，用於 18 至 65 歲成人，作為屋塵蟎 (HDM) 誘發的過敏性鼻炎（伴或不伴結膜炎）的免疫療法，經體外測試 Dermatophagoides fari 的 IgE 抗體證實",
-      "source": "FDA Biologics",
-      "date": "2026-06-10",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/allergenics/odactra",
       "lang": "zh-TW"
     },
     {
@@ -83,8 +83,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "亞洲細胞儲存管 - 市場分析、預測、規模、趨勢和見解",
-      "summary": "s、預測、規模、趨勢和見解 IndexBox",
+      "title": "亞洲細胞儲存管市場分析、預測、規模、趨勢與洞察報告",
+      "summary": "IndexBox發布報告，涵蓋市場預測、規模、趨勢與產業洞察。",
       "source": "IndexBox",
       "date": "2026-06-08",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWtYZmdCR21McEp1c2gyVVBNaUxrMVpWcHBkVEtZSGJQQzNVOVBBdjJlZGxUMUpiODk2U1E1YkxXTkZwWFhNUFJ2WFVERTFOZ242bUZOVm15YW03UWlNandfQnUtQVRmWWpJc1RfeE10WDBVcHhQWjhLem1lOS15Y0NsdDdPblRibVpJbVc2WnBINlptNlMyMXlJS0FmT1ZCTWFUaVFsSQ?oc=5",

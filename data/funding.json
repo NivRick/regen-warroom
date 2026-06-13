@@ -1,7 +1,15 @@
 {
   "module": "funding",
-  "updated": "2026-06-12T14:01:03.045436+00:00",
+  "updated": "2026-06-13T00:17:19.646275+00:00",
   "items": [
+    {
+      "title": "STAT+：Prometheus 為人工智慧工程師籌集 120 億美元資金",
+      "summary": "非營利組織 Blood Cancer United 收購抗癌藥物、禮來 (Lilly) 和 Nvidia 投資 Abridge 以及更多生物科技新聞",
+      "source": "STAT News",
+      "date": "2026-06-12",
+      "url": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
     {
       "title": "肥胖藥物深入研究，勝肽成為主流",
       "summary": "正在開發的新型肥胖藥物能否脫穎而出？哪家公司剛剛打破了 首次公開上市（IPO） 記錄？食品藥物管理局是否允許",
@@ -16,14 +24,6 @@
       "source": "STAT News",
       "date": "2026-06-11",
       "url": "https://www.statnews.com/2026/06/11/abridge-inks-deals-with-nvidia-and-lilly/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：「合成殺傷力」可能引發新一輪生物技術併購",
-      "summary": "證明「綜合致死」方法可以幫助治療癌症還需要做更多的工作。它也可能引發一些創造性的交易。",
-      "source": "STAT News",
-      "date": "2026-06-11",
-      "url": "https://www.statnews.com/2026/06/11/synthetic-lethality-cancer-tango-revolution/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "title": "Parabilis 以 6.7 億美元的生物技術 首次公開上市（IPO） 創下紀錄",
-      "summary": "這是創投支持的生技公司有史以來規模最大的新股發行，延續了 2026 年大規模 首次公開上市（IPO） 的勢頭，目前已有 12 家製藥新創公司籌集了超過 41 億美元的資金。",
+      "summary": "這是創投支持的生技公司有史以來最大規模的新股發行，延續了 2026 年大規模 首次公開上市（IPO） 的勢頭，目前已有 12 家製藥新創公司籌集了超過 41 億美元的資金。",
       "source": "BioPharma Dive",
       "date": "2026-06-10",
       "url": "https://www.biopharmadive.com/news/parabilis-biotech-ipo-price-helicon-peptides-cancer-verdine/822397/",
@@ -59,19 +59,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech 募資追蹤：SonoThera 募得 1.25 億美元；Ethyreal 宣布募資 1.01 億美元",
-      "summary": "SonoThera 募得 1.25 億美元；Ethyreal 募得 1.01 億美元。",
+      "title": "Fierce Biotech 籌款追蹤 '26: SonoThera 籌集 1.25 億美元；Ethyreal 銷售額達 1.01 億美元",
+      "summary": "SonoThera 獲得 1.25 億美元； Ethyreal 憑藉價值 1.01 億美元的 Fierce Biotech 脫穎而出",
       "source": "Fierce Biotech",
       "date": "2026-06-10",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "隱密新創公司 Treeline 計劃反向併購",
-      "summary": "在 Loxo Oncology 前執行長 Josh Bilenker 的領導下，這家新創公司目前擁有三種處於早期測試階段的抗癌藥物，還有更多藥物緊隨其後。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-09",
-      "url": "https://www.biopharmadive.com/news/treeline-reverse-merger-standard-biotools-cancer-drugs/822352/",
       "lang": "zh-TW"
     }
   ]
