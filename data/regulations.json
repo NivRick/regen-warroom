@@ -1,50 +1,50 @@
 {
   "module": "regulation",
-  "updated": "2026-06-15T00:01:34.578943+00:00",
+  "updated": "2026-06-15T16:18:09.263406+00:00",
   "items": [
     {
-      "title": "StockWatch: Parabilis Medicines Makes Wall Street History with $770.5M 首次公開上市（IPO）",
-      "summary": "Parabilis’ 首次公開上市（IPO） surpasses the $625 million 首次公開上市（IPO） carried out in April by Kailera Therapeutics, which topped the previous record-high among U.S. biotechs, the $604 million offering of Moderna in December 2018, two years before the messenger RNA (信使RNA（mRNA）) va",
+      "title": "StockWatch：Parabilis Medicines 以 7.705 億美元的 首次公開上市（IPO） 創造華爾街歷史",
+      "summary": "Parabilis 的 首次公開上市（IPO） 超過了 Kailera Therapeutics 於 4 月進行的 6.25 億美元 首次公開上市（IPO），後者創下了美國生物技術公司先前的歷史新高，即 Moderna 於 2018 年 12 月發行的 6.04 億美元，比信使 RNA (信使RNA（mRNA）) 上市早了兩年",
       "source": "GEN News",
       "date": "2026-06-14",
       "url": "https://www.genengnews.com/topics/cancer/stockwatch-parabilis-medicines-makes-wall-street-history-with-770-5m-ipo/",
       "lang": "zh-TW"
     },
     {
-      "title": "血液研究",
-      "summary": "生物製劑項目列表",
+      "title": "血品研究",
+      "summary": "生物製劑相關計畫列表",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑新知",
+      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "奧達克",
-      "summary": "產品批准訊息，用於 18 至 65 歲成人，作為屋塵蟎 (HDM) 誘發的過敏性鼻炎（伴或不伴結膜炎）的免疫療法，經體外測試 Dermatophagoides fari 的 IgE 抗體證實",
+      "title": "ODACTRA",
+      "summary": "這項產品已獲核准，可用於18至65歲成人，作為塵蟎（HDM）引起過敏性鼻炎的免疫療法。",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/vaccines-blood-biologics/allergenics/odactra",
       "lang": "zh-TW"
     },
     {
-      "title": "向生物製品評估與研究中心及藥物評估與研究中心提交真實世界證據",
-      "summary": "作為重新授權《處方藥使用者付費法案》(PDUFA VII) 的一部分，美國食藥局（FDA） 承諾向生物製品評估與研究中心 (CBER) 和藥物評估中心報告提交的匯總和匿名訊息",
+      "title": "提交真實世界證據給生物製劑評估與研究中心（CBER）及藥品評估與研究中心（CDER）",
+      "summary": "隨著《處方藥使用者費用法案》（PDUFA VII）重新授權，美國食品藥物管理局（FDA）承諾將彙報彙總且匿名化的資訊。",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/science-research/real-world-evidence/real-world-evidence-submissions-center-biologics-evaluation-and-research-center-drug-evaluation-and",
       "lang": "zh-TW"
     },
     {
-      "title": "會議 2：病人和護理夥伴對早期參加罕見疾病基因治療臨床試驗的看法",
-      "summary": "基因治療試驗可告知風險和益處，以便做出明智的決策。長期追蹤對於安全性和耐久性評估至關重要。",
+      "title": "第二次會議：病患與照護夥伴對罕見疾病基因療法臨床試驗早期入組的看法",
+      "summary": "基因療法試驗能提供風險與效益資訊，以利做出知情決定。長期追蹤對評估安全性與持久性至關重要。",
       "source": "FDA Biologics",
       "date": "2026-06-11",
       "url": "http://www.fda.gov/news-events/meeting-2-patient-and-care-partner-perspectives-early-enrollment-gene-therapy-clinical-trials-rare",
@@ -52,15 +52,15 @@
     },
     {
       "title": "過敏原研究",
-      "summary": "面向消費者的免疫生物化學和生物製品科學研究清單",
+      "summary": "免疫生物化學與生物製劑科學研究供消費者參考列表。",
       "source": "FDA Biologics",
       "date": "2026-06-11",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/allergenics-research",
       "lang": "zh-TW"
     },
     {
-      "title": "會議 1：病人和護理夥伴對已批准的罕見疾病基因療法的安全考慮因素的看法",
-      "summary": "美國食藥局（FDA） CBER 患者聆聽會議：患者和護理合作夥伴對批准的罕見疾病基因治療的安全考慮因素的看法",
+      "title": "第一次會議：病患與照護夥伴對已核准罕見疾病基因療法安全考量的看法",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（C",
       "source": "09/20/2024",
       "date": "2026-06-11",
       "url": "http://www.fda.gov/news-events/2024-cber-patient-and-care-partner-listening-meetings/meeting-1-patient-and-care-partner-perspectives-safety-considerations-approved-gene-therapy",
@@ -75,8 +75,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲藥品管理局（EMA）",
-      "summary": "",
+      "title": "歐洲藥品管理局（EMA）2025年核准104種人用藥品",
+      "summary": "歐洲藥品管理局（EMA）公布，2025年共核准了104種新的人用藥品上市。這",
       "source": "PharmTech.com",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
@@ -91,8 +91,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "亞洲細胞儲存管市場：分析、預測、規模、趨勢與洞察報告",
-      "summary": "IndexBox發布亞洲細胞儲存管市場報告，內容涵蓋市場分析、未來預測、規模、最新趨勢及深入洞察。",
+      "title": "亞洲細胞儲存管市場分析、預測、規模、趨勢與洞察報告",
+      "summary": "這份報告深入分析了亞洲細胞儲存管市場的最新動態、未來預測、市場規模、發展趨勢與深度洞察。",
       "source": "IndexBox",
       "date": "2026-06-08",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWtYZmdCR21McEp1c2gyVVBNaUxrMVpWcHBkVEtZSGJQQzNVOVBBdjJlZGxUMUpiODk2U1E1YkxXTkZwWFhNUFJ2WFVERTFOZ242bUZOVm15YW03UWlNandfQnUtQVRmWWpJc1RfeE10WDBVcHhQWjhLem1lOS15Y0NsdDdPblRibVpJbVc2WnBINlptNlMyMXlJS0FmT1ZCTWFUaVFsSQ?oc=5",

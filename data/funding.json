@@ -1,29 +1,21 @@
 {
   "module": "funding",
-  "updated": "2026-06-15T00:01:49.504377+00:00",
+  "updated": "2026-06-15T16:18:29.042809+00:00",
   "items": [
     {
-      "title": "STAT+: Prometheus raises $12 billion in capital for artificial engineers",
-      "summary": "非營利組織 Blood Cancer United 收購抗癌藥物、禮來 (Lilly) 和 Nvidia 投資 Abridge 以及更多生物科技新聞",
+      "title": "STAT+：禮來（Lilly）收購Ajax可能物有所值",
+      "summary": "梅毒藥物短缺、賽諾菲（Sanofi）糖尿病藥物獲准上市，以及更多來自The Readout的生技新聞。",
+      "source": "STAT News",
+      "date": "2026-06-15",
+      "url": "https://www.statnews.com/2026/06/15/biotech-news-lilly-ajax-acquisition-may-have-been-worth-it/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：普羅米修斯（Prometheus",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-06-12",
       "url": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: An obesity drug deep-dive, and peptides move mainstream",
-      "summary": "正在開發的新型肥胖藥物能否脫穎而出？哪家公司剛剛打破了 首次公開上市（IPO） 記錄？食品藥物管理局是否允許",
-      "source": "STAT News",
-      "date": "2026-06-11",
-      "url": "https://www.statnews.com/2026/06/11/an-obesity-drug-deep-dive-and-peptides-move-mainstream/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Abridge 與 Nvidia 和 Lilly 達成交易",
-      "summary": "Abridge 宣布與禮來公司 (Eli Lilly) 和英偉達 (Nvidia) 達成新協議，旨在在競爭激烈的市場中獲得優勢。",
-      "source": "STAT News",
-      "date": "2026-06-11",
-      "url": "https://www.statnews.com/2026/06/11/abridge-inks-deals-with-nvidia-and-lilly/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -35,7 +27,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "諾華 (Novartis) 在 $12B Avidity 交易中收購的 RNA 藥物取得了審判勝利",
+      "title": "諾華在 $12B Avidity 交易中收購的 RNA 藥物取得了審判勝利",
       "summary": "數據顯示，del-brax（一種正在針對肌肉萎縮疾病進行測試的「反義寡核苷酸綴合物」）在 1/2 期研究中達到了其主要終點。",
       "source": "BioPharma Dive",
       "date": "2026-06-11",
@@ -43,23 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Parabilis 以 6.7 億美元的生物技術 首次公開上市（IPO） 創下紀錄",
-      "summary": "這是創投支持的生技公司有史以來最大規模的新股發行，延續了 2026 年大規模 首次公開上市（IPO） 的勢頭，目前已有 12 家製藥新創公司籌集了超過 41 億美元的資金。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-10",
-      "url": "https://www.biopharmadive.com/news/parabilis-biotech-ipo-price-helicon-peptides-cancer-verdine/822397/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "阿斯特捷利康「廣泛」推廣肥胖藥物； 1.25 億美元用於超音波輔助遺傳醫學",
-      "summary": "新發表的數據說服阿斯特捷利康為其 GLP-1 藥物開展一項龐大的後期計劃。此外，Bausch + Lomb 將裁員 119 名員工，而 Cartesian 則增強了其「體內」細胞治療能力。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-10",
-      "url": "https://www.biopharmadive.com/news/astrazeneca-obesity-sonothera-bausch-layoffs-cartesian-alzecure/822398/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "European Biotechs Developing Next-Generation Cell and 基因療法 Manufacturing Technologies",
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
       "summary": "細胞與基因治療製造技術 PharmTech.com",
       "source": "PharmTech.com",
       "date": "2026-05-22",
