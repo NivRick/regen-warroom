@@ -1,10 +1,34 @@
 {
   "module": "regulation",
-  "updated": "2026-06-16T00:25:35.816865+00:00",
+  "updated": "2026-06-16T15:52:13.081320+00:00",
   "items": [
     {
-      "title": "股市觀察：Parabilis Medicines以7.705億美元首次公開募股（IPO）創華爾街歷史",
-      "summary": "Parabilis的首次公開募股（IPO）金額超越了Kailera Therapeutics在四月進行的6.25億美元IPO，後者曾是美國生技公司中募資金額的最高紀錄。",
+      "title": "繪製出抗藥性殘留癌細胞依賴性",
+      "summary": "研究人員開發了 ResMap，這是一個社區資源，提供標準化實驗框架和定量數據集，用於系統比較癌症背景下的持久細胞脆弱性。\n出現了映射的後綴",
+      "source": "GEN News",
+      "date": "2026-06-16",
+      "url": "https://www.genengnews.com/topics/drug-discovery/therapy-resistant-residual-cancer-cell-dependencies-mapped/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生技藥品最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "source": "FDA Biologics",
+      "date": "2026-06-15",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "PROCLEIX 西尼羅病毒（WNV）檢測套組",
+      "summary": "此產品核准用於定性檢測",
+      "source": "FDA Biologics",
+      "date": "2026-06-15",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/procleix-wnv-assay",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "StockWatch：Parabilis Medicines 以 7.705 億美元的 首次公開上市（IPO） 創造華爾街歷史",
+      "summary": "Parabilis 的 首次公開上市（IPO） 超過了 Kailera Therapeutics 於 4 月進行的 6.25 億美元 首次公開上市（IPO），後者創下了美國生物技術公司之前的歷史新高，即 Moderna 於 2018 年 12 月發行的 6.04 億美元，比信使 RNA (信使RNA（mRNA）) 上市早了兩年",
       "source": "GEN News",
       "date": "2026-06-14",
       "url": "https://www.genengnews.com/topics/cancer/stockwatch-parabilis-medicines-makes-wall-street-history-with-770-5m-ipo/",
@@ -12,23 +36,15 @@
     },
     {
       "title": "血液研究",
-      "summary": "生物製劑相關計畫列表。",
+      "summary": "生物製劑項目列表",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）的最新消息。",
-      "source": "FDA Biologics",
-      "date": "2026-06-12",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "ODACTRA",
-      "summary": "ODACTRA產品核准",
+      "title": "奧達克",
+      "summary": "產品批准訊息，用於 18 至 65 歲成人，作為屋塵蟎 (HDM) 誘發的過敏性鼻炎（伴或不伴結膜炎）的免疫療法，經體外測試 Dermatophagoides fari 的 IgE 抗體證實",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/vaccines-blood-biologics/allergenics/odactra",
@@ -67,24 +83,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "冠狀病毒 (COVID-19) | CBER 監管的生物製品",
-      "summary": "本頁面和相關連結提供與治療或預防 COVID-19 療法開發相關的指導和建議信息，以及尋求其他資訊或幫助的開發人員的聯絡資訊。",
-      "source": "FDA Biologics",
-      "date": "2026-06-11",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "歐洲藥品管理局（EMA）2025年核准104款人類用藥",
-      "summary": "歐洲藥品管理局（EMA）公布2025年藥品審查成果，共核准104款人類用藥上市。這項數據反映了歐洲新藥研發的活力與監管機構的審查效率，為病患帶來更多治療選擇，也牽動全球生醫產業的發展趨勢。",
+      "title": "EMA 在 2025 年核准了 104 種人類用藥",
+      "summary": "歐洲藥品管理局（EMA）在2025年共核准了104種人類用藥，顯示歐洲藥品市場的活絡與新藥研發的進展。",
       "source": "PharmTech.com",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "近期細胞與基因療法核准案對兒科臨床藥理學的啟示",
-      "summary": "針對兒科的細胞與基因療法核准案，《自然》期刊。",
+      "title": "最近核准的細胞",
+      "summary": "",
       "source": "Nature",
       "date": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",
