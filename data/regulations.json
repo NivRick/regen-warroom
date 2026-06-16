@@ -1,26 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-06-15T16:18:09.263406+00:00",
+  "updated": "2026-06-16T00:25:35.816865+00:00",
   "items": [
     {
-      "title": "StockWatch：Parabilis Medicines 以 7.705 億美元的 首次公開上市（IPO） 創造華爾街歷史",
-      "summary": "Parabilis 的 首次公開上市（IPO） 超過了 Kailera Therapeutics 於 4 月進行的 6.25 億美元 首次公開上市（IPO），後者創下了美國生物技術公司先前的歷史新高，即 Moderna 於 2018 年 12 月發行的 6.04 億美元，比信使 RNA (信使RNA（mRNA）) 上市早了兩年",
+      "title": "股市觀察：Parabilis Medicines以7.705億美元首次公開募股（IPO）創華爾街歷史",
+      "summary": "Parabilis的首次公開募股（IPO）金額超越了Kailera Therapeutics在四月進行的6.25億美元IPO，後者曾是美國生技公司中募資金額的最高紀錄。",
       "source": "GEN News",
       "date": "2026-06-14",
       "url": "https://www.genengnews.com/topics/cancer/stockwatch-parabilis-medicines-makes-wall-street-history-with-770-5m-ipo/",
       "lang": "zh-TW"
     },
     {
-      "title": "血品研究",
-      "summary": "生物製劑相關計畫列表",
+      "title": "血液研究",
+      "summary": "生物製劑相關計畫列表。",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑新知",
-      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -28,23 +28,23 @@
     },
     {
       "title": "ODACTRA",
-      "summary": "這項產品已獲核准，可用於18至65歲成人，作為塵蟎（HDM）引起過敏性鼻炎的免疫療法。",
+      "summary": "ODACTRA產品核准",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/vaccines-blood-biologics/allergenics/odactra",
       "lang": "zh-TW"
     },
     {
-      "title": "提交真實世界證據給生物製劑評估與研究中心（CBER）及藥品評估與研究中心（CDER）",
-      "summary": "隨著《處方藥使用者費用法案》（PDUFA VII）重新授權，美國食品藥物管理局（FDA）承諾將彙報彙總且匿名化的資訊。",
+      "title": "向生物製品評估與研究中心及藥物評估與研究中心提交真實世界證據",
+      "summary": "作為重新授權《處方藥使用者付費法案》(PDUFA VII) 的一部分，美國食藥局（FDA） 承諾向生物製品評估與研究中心 (CBER) 和藥物評估中心報告提交的匯總和匿名訊息",
       "source": "FDA Biologics",
       "date": "2026-06-12",
       "url": "http://www.fda.gov/science-research/real-world-evidence/real-world-evidence-submissions-center-biologics-evaluation-and-research-center-drug-evaluation-and",
       "lang": "zh-TW"
     },
     {
-      "title": "第二次會議：病患與照護夥伴對罕見疾病基因療法臨床試驗早期入組的看法",
-      "summary": "基因療法試驗能提供風險與效益資訊，以利做出知情決定。長期追蹤對評估安全性與持久性至關重要。",
+      "title": "會議 2：病人和護理夥伴對早期參加罕見疾病基因治療臨床試驗的看法",
+      "summary": "基因治療試驗可告知風險和益處，以便做出明智的決策。長期追蹤對於安全性和耐久性評估至關重要。",
       "source": "FDA Biologics",
       "date": "2026-06-11",
       "url": "http://www.fda.gov/news-events/meeting-2-patient-and-care-partner-perspectives-early-enrollment-gene-therapy-clinical-trials-rare",
@@ -52,15 +52,15 @@
     },
     {
       "title": "過敏原研究",
-      "summary": "免疫生物化學與生物製劑科學研究供消費者參考列表。",
+      "summary": "面向消費者的免疫生物化學和生物製品科學研究清單",
       "source": "FDA Biologics",
       "date": "2026-06-11",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/allergenics-research",
       "lang": "zh-TW"
     },
     {
-      "title": "第一次會議：病患與照護夥伴對已核准罕見疾病基因療法安全考量的看法",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（C",
+      "title": "會議 1：病人和護理夥伴對已批准的罕見疾病基因療法的安全考慮因素的看法",
+      "summary": "美國食藥局（FDA） CBER 患者聆聽會議：患者和護理合作夥伴對批准的罕見疾病基因治療的安全考慮因素的看法",
       "source": "09/20/2024",
       "date": "2026-06-11",
       "url": "http://www.fda.gov/news-events/2024-cber-patient-and-care-partner-listening-meetings/meeting-1-patient-and-care-partner-perspectives-safety-considerations-approved-gene-therapy",
@@ -75,32 +75,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲藥品管理局（EMA）2025年核准104種人用藥品",
-      "summary": "歐洲藥品管理局（EMA）公布，2025年共核准了104種新的人用藥品上市。這",
+      "title": "歐洲藥品管理局（EMA）2025年核准104款人類用藥",
+      "summary": "歐洲藥品管理局（EMA）公布2025年藥品審查成果，共核准104款人類用藥上市。這項數據反映了歐洲新藥研發的活力與監管機構的審查效率，為病患帶來更多治療選擇，也牽動全球生醫產業的發展趨勢。",
       "source": "PharmTech.com",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "GSK將以$10.6B收購Nuvalent，透過精準非小細胞肺癌治療促進癌症產品線",
-      "summary": "Nuvalent 的產品線以 ROS1 抑制劑 zidesamtinib (NVL-520) 和 ALK 抑制劑 eladalkib (NVL-655) 為主導，該公司表示，這代表了潛在的同類最佳、下一代、高度選擇性的 NSCLC 治療方法。兩者都是b",
-      "source": "GEN News",
-      "date": "2026-06-10",
-      "url": "https://www.genengnews.com/topics/cancer/gsk-to-acquire-nuvalent-for-10-6b-boosting-cancer-pipeline-with-precision-nsclc-treatments/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "亞洲細胞儲存管市場分析、預測、規模、趨勢與洞察報告",
-      "summary": "這份報告深入分析了亞洲細胞儲存管市場的最新動態、未來預測、市場規模、發展趨勢與深度洞察。",
-      "source": "IndexBox",
-      "date": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWtYZmdCR21McEp1c2gyVVBNaUxrMVpWcHBkVEtZSGJQQzNVOVBBdjJlZGxUMUpiODk2U1E1YkxXTkZwWFhNUFJ2WFVERTFOZ242bUZOVm15YW03UWlNandfQnUtQVRmWWpJc1RfeE10WDBVcHhQWjhLem1lOS15Y0NsdDdPblRibVpJbVc2WnBINlptNlMyMXlJS0FmT1ZCTWFUaVFsSQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "最近與兒科相關的細胞和基因治療批准的臨床藥理學見解",
-      "summary": "與兒科相關的 nt 細胞和基因治療核准 Nature",
+      "title": "近期細胞與基因療法核准案對兒科臨床藥理學的啟示",
+      "summary": "針對兒科的細胞與基因療法核准案，《自然》期刊。",
       "source": "Nature",
       "date": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",
