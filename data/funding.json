@@ -1,10 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-06-17T00:15:03.822510+00:00",
+  "updated": "2026-06-17T14:27:36.063573+00:00",
   "items": [
     {
-      "title": "STAT+：人類細胞圖譜領導者與 10x Genomics 的連結引發了利益衝突問題",
-      "summary": "在人類細胞圖譜計畫迎來十週年之際，一位領導者與一家大型單細胞 RNA 定序公司的關係引發了利益衝突問題。",
+      "title": "STAT+：知名創投為何反對美國限制對中國藥業投資",
+      "summary": "一位知名創投業者闡述她為何反對美國政府限制對中國製藥產業的投資，認為此舉可能阻礙創新與全球合作。",
+      "source": "STAT News",
+      "date": "2026-06-17",
+      "url": "https://www.statnews.com/2026/06/17/china-biotech-pharma-us-venture-capital/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "西湖支持的新生物技術瞄準偏頭痛",
+      "summary": "週三，Vedana Therapeutics 悄悄現身，斥資 4,600 萬美元支持其開發「抗 PACAP」療法的使命，這是一種越來越受歡迎的偏頭痛預防策略。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-17",
+      "url": "https://www.biopharmadive.com/news/vedana-migraine-stealth-launch-biotech-pacap/822960/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：人類細胞圖譜計畫領導",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-06-16",
       "url": "https://www.statnews.com/2026/06/16/human-cell-atlas-consortium-meeting-boston-spatial-biology-next-step/?utm_campaign=rss",
@@ -27,11 +43,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：禮來公司收購 Ajax 可能是值得的",
-      "summary": "梅毒藥物短缺、賽諾菲糖尿病藥物獲批，以及來自 The Readout 的更多生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-06-15",
-      "url": "https://www.statnews.com/2026/06/15/biotech-news-lilly-ajax-acquisition-may-have-been-worth-it/?utm_campaign=rss",
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "source": "PharmTech.com",
+      "date": "2026-05-22",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     }
   ]

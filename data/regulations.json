@@ -1,26 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-06-17T00:14:32.912152+00:00",
+  "updated": "2026-06-17T14:27:21.755780+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "title": "生物製劑最新消息",
+      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）的最新動態。",
       "source": "FDA Biologics",
       "date": "2026-06-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "繪製出抗藥性殘留癌細胞依賴性",
-      "summary": "研究人員開發了 ResMap，這是一個社區資源，提供標準化實驗框架和定量數據集，用於系統比較癌症背景下的持久細胞脆弱性。\n出現了映射的後綴",
+      "title": "繪製抗藥性殘餘癌細胞的依賴性圖譜",
+      "summary": "研究人員開發了ResMap這個社群資源平台，提供標準化的實驗框架與量化數據集，用於系統性比較與分析。",
       "source": "GEN News",
       "date": "2026-06-16",
       "url": "https://www.genengnews.com/topics/drug-discovery/therapy-resistant-residual-cancer-cell-dependencies-mapped/",
       "lang": "zh-TW"
     },
     {
-      "title": "PROCLEIX WNV 檢測",
-      "summary": "產品核准資訊用於定性檢測人類捐贈者個人血漿樣本中的西尼羅河病毒 (WNV) RNA，包括全血和血液成分的志願者捐贈者以及其他活體捐贈者。",
+      "title": "PROCLEIX WNV ASSAY",
+      "summary": "此產品核准資訊指出，該檢測用於定性檢測個別人類捐贈者血",
       "source": "FDA Biologics",
       "date": "2026-06-15",
       "url": "http://www.fda.gov/vaccines-blood-biologics/procleix-wnv-assay",
@@ -64,6 +64,30 @@
       "source": "FDA Biologics",
       "date": "2026-06-11",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/allergenics-research",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "歐洲藥品管理局（EMA） 將於 2025 年批准 104 種人類藥物",
+      "summary": "",
+      "source": "PharmTech.com",
+      "date": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "近期兒科相關細胞與基因療法核准案的臨床藥理學觀點",
+      "summary": "探討近期獲准用於兒科的細胞與基因療法，從臨床藥理學角度分析其應用與發展。",
+      "source": "Nature",
+      "date": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026年細胞治療法規展望：如何讓CMC策略符合美國FDA與歐盟EMA的期待",
+      "summary": "展望2026年細胞治療法規趨勢，探討如何調整CMC (化學製造與管制) 策略以符合美國FDA與歐盟EMA的審查標準。",
+      "source": "Fierce Biotech",
+      "date": "2026-05-21",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82X3ZDVXdvS3lqWXpJZ2hFMUZObG83ZVdmQmZuT1dKS2lYOWZzLWtjUGxtRnFkT3ZsVXJKcl9JR0RUNmtpTEplODMySWdubnFpT0MxTUJWWmV6TUlkaG13ckd3SQ?oc=5",
       "lang": "zh-TW"
     }
   ]
