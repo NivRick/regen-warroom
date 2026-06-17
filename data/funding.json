@@ -1,13 +1,21 @@
 {
   "module": "funding",
-  "updated": "2026-06-16T15:52:32.702835+00:00",
+  "updated": "2026-06-17T00:15:03.822510+00:00",
   "items": [
     {
-      "title": "人類細胞圖譜計畫領導人與10x Genomics的關係引發利益衝突疑慮",
-      "summary": "人類細胞圖譜計畫屆滿十週年之際，一位領導人與一家主要單細胞RNA定序公司的關係，引發了利益衝突的質疑。",
+      "title": "STAT+：人類細胞圖譜領導者與 10x Genomics 的連結引發了利益衝突問題",
+      "summary": "在人類細胞圖譜計畫迎來十週年之際，一位領導者與一家大型單細胞 RNA 定序公司的關係引發了利益衝突問題。",
       "source": "STAT News",
       "date": "2026-06-16",
       "url": "https://www.statnews.com/2026/06/16/human-cell-atlas-consortium-meeting-boston-spatial-biology-next-step/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "禮來公司收購非鴉片類止痛藥製造商 4E",
+      "summary": "這是禮來公司一系列交易中的最新一筆，禮來公司在過去幾年中投入了超過 180 億美元的收購資金。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-16",
+      "url": "https://www.biopharmadive.com/news/lilly-4e-acquisition-non-opioid-pain-drugs/823016/",
       "lang": "zh-TW"
     },
     {
@@ -19,27 +27,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "禮來（L",
-      "summary": "",
+      "title": "STAT+：禮來公司收購 Ajax 可能是值得的",
+      "summary": "梅毒藥物短缺、賽諾菲糖尿病藥物獲批，以及來自 The Readout 的更多生物技術新聞",
       "source": "STAT News",
       "date": "2026-06-15",
       "url": "https://www.statnews.com/2026/06/15/biotech-news-lilly-ajax-acquisition-may-have-been-worth-it/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Sensorion 引用 Regeneron 競爭，將重點轉向不同的聽力損失治療",
-      "summary": "一項策略性審查確定開發環境發生了“顯著變化”，導致 Sensorion 結束了針對 OTOF 相關聽力損失的基因治療工作。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-11",
-      "url": "https://www.biopharmadive.com/news/sensorion-gene-therapy-hearing-loss-otof-gjb2/822609/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
-      "summary": "細胞與基因治療製造技術 PharmTech.com",
-      "source": "PharmTech.com",
-      "date": "2026-05-22",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     }
   ]

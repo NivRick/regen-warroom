@@ -1,7 +1,15 @@
 {
   "module": "regulation",
-  "updated": "2026-06-16T15:52:13.081320+00:00",
+  "updated": "2026-06-17T00:14:32.912152+00:00",
   "items": [
+    {
+      "title": "生物製品的新動態",
+      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "source": "FDA Biologics",
+      "date": "2026-06-16",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
     {
       "title": "繪製出抗藥性殘留癌細胞依賴性",
       "summary": "研究人員開發了 ResMap，這是一個社區資源，提供標準化實驗框架和定量數據集，用於系統比較癌症背景下的持久細胞脆弱性。\n出現了映射的後綴",
@@ -11,27 +19,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生技藥品最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
-      "source": "FDA Biologics",
-      "date": "2026-06-15",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "PROCLEIX 西尼羅病毒（WNV）檢測套組",
-      "summary": "此產品核准用於定性檢測",
+      "title": "PROCLEIX WNV 檢測",
+      "summary": "產品核准資訊用於定性檢測人類捐贈者個人血漿樣本中的西尼羅河病毒 (WNV) RNA，包括全血和血液成分的志願者捐贈者以及其他活體捐贈者。",
       "source": "FDA Biologics",
       "date": "2026-06-15",
       "url": "http://www.fda.gov/vaccines-blood-biologics/procleix-wnv-assay",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "StockWatch：Parabilis Medicines 以 7.705 億美元的 首次公開上市（IPO） 創造華爾街歷史",
-      "summary": "Parabilis 的 首次公開上市（IPO） 超過了 Kailera Therapeutics 於 4 月進行的 6.25 億美元 首次公開上市（IPO），後者創下了美國生物技術公司之前的歷史新高，即 Moderna 於 2018 年 12 月發行的 6.04 億美元，比信使 RNA (信使RNA（mRNA）) 上市早了兩年",
-      "source": "GEN News",
-      "date": "2026-06-14",
-      "url": "https://www.genengnews.com/topics/cancer/stockwatch-parabilis-medicines-makes-wall-street-history-with-770-5m-ipo/",
       "lang": "zh-TW"
     },
     {
@@ -72,30 +64,6 @@
       "source": "FDA Biologics",
       "date": "2026-06-11",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/allergenics-research",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "會議 1：病人和護理夥伴對已批准的罕見疾病基因療法的安全考慮因素的看法",
-      "summary": "美國食藥局（FDA） CBER 患者聆聽會議：患者和護理合作夥伴對批准的罕見疾病基因治療的安全考慮因素的看法",
-      "source": "09/20/2024",
-      "date": "2026-06-11",
-      "url": "http://www.fda.gov/news-events/2024-cber-patient-and-care-partner-listening-meetings/meeting-1-patient-and-care-partner-perspectives-safety-considerations-approved-gene-therapy",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "EMA 在 2025 年核准了 104 種人類用藥",
-      "summary": "歐洲藥品管理局（EMA）在2025年共核准了104種人類用藥，顯示歐洲藥品市場的活絡與新藥研發的進展。",
-      "source": "PharmTech.com",
-      "date": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "最近核准的細胞",
-      "summary": "",
-      "source": "Nature",
-      "date": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",
       "lang": "zh-TW"
     }
   ]
