@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-06-18T00:10:39.114785+00:00",
+  "updated": "2026-06-18T13:59:17.414438+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑新知",
+      "summary": "美國生物製劑評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-06-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "OTP Town Hall：準備細胞和基因治療產品 BLA 提交的最佳實踐",
-      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 6 月 4 日舉辦下一次虛擬市政廳會議。在本次市政廳會議期間，來自 OTP 審查管理和監管審查辦公室 (ORMR) 的專家",
+      "title": "治療產品辦公室（OTP）座談會：細胞與基因治療產品生物製劑許可申請（BLA）送件最佳實務",
+      "summary": "",
       "source": "06/04/2026",
       "date": "2026-06-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
@@ -28,7 +28,7 @@
     },
     {
       "title": "PROCLEIX WNV 檢測",
-      "summary": "產品核准資訊用於定性檢測人類捐贈者（包括全血和血液成分志願者捐贈者以及其他活體捐贈者）血漿樣本中的西尼羅河病毒 (WNV) RNA。",
+      "summary": "產品核准資訊用於定性檢測人類捐贈者個人血漿樣本中的西尼羅河病毒 (WNV) RNA，包括全血和血液成分的志願者捐贈者以及其他活體捐贈者。",
       "source": "FDA Biologics",
       "date": "2026-06-15",
       "url": "http://www.fda.gov/vaccines-blood-biologics/procleix-wnv-assay",
@@ -51,7 +51,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年細胞治療監管格局：使 CMC 策略與 美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 期望保持一致",
+      "title": "The 2026 細胞治療 Regulatory Landscape: Aligning CMC Strategy with 美國食藥局（FDA） and 歐洲藥品管理局（EMA） Expectations",
       "summary": "pe：使 CMC 策略與 美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 期望保持一致 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-05-21",
