@@ -1,69 +1,37 @@
 {
   "module": "regulation",
-  "updated": "2026-06-17T14:27:21.755780+00:00",
+  "updated": "2026-06-18T00:10:39.114785+00:00",
   "items": [
     {
-      "title": "生物製劑最新消息",
-      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）的最新動態。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "繪製抗藥性殘餘癌細胞的依賴性圖譜",
-      "summary": "研究人員開發了ResMap這個社群資源平台，提供標準化的實驗框架與量化數據集，用於系統性比較與分析。",
-      "source": "GEN News",
-      "date": "2026-06-16",
-      "url": "https://www.genengnews.com/topics/drug-discovery/therapy-resistant-residual-cancer-cell-dependencies-mapped/",
+      "title": "OTP Town Hall：準備細胞和基因治療產品 BLA 提交的最佳實踐",
+      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 6 月 4 日舉辦下一次虛擬市政廳會議。在本次市政廳會議期間，來自 OTP 審查管理和監管審查辦公室 (ORMR) 的專家",
+      "source": "06/04/2026",
+      "date": "2026-06-17",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
       "lang": "zh-TW"
     },
     {
-      "title": "PROCLEIX WNV ASSAY",
-      "summary": "此產品核准資訊指出，該檢測用於定性檢測個別人類捐贈者血",
+      "title": "溶劑回收在生物加工領域取得進展",
+      "summary": "隨著生物加工企業面臨溶劑成本上升、供應鏈中斷和不斷增長的永續發展需求，溶劑回收系統正在成為策略性投資，可降低營運費用、增強生產彈性並幫助企業提高競爭力。",
+      "source": "GEN News",
+      "date": "2026-06-17",
+      "url": "https://www.genengnews.com/topics/bioprocessing/solvent-recovery-gains-ground-in-bioprocessing/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "PROCLEIX WNV 檢測",
+      "summary": "產品核准資訊用於定性檢測人類捐贈者（包括全血和血液成分志願者捐贈者以及其他活體捐贈者）血漿樣本中的西尼羅河病毒 (WNV) RNA。",
       "source": "FDA Biologics",
       "date": "2026-06-15",
       "url": "http://www.fda.gov/vaccines-blood-biologics/procleix-wnv-assay",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "血液研究",
-      "summary": "生物製劑項目列表",
-      "source": "FDA Biologics",
-      "date": "2026-06-12",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "奧達克",
-      "summary": "產品批准訊息，用於 18 至 65 歲成人，作為屋塵蟎 (HDM) 誘發的過敏性鼻炎（伴或不伴結膜炎）的免疫療法，經體外測試 Dermatophagoides fari 的 IgE 抗體證實",
-      "source": "FDA Biologics",
-      "date": "2026-06-12",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/allergenics/odactra",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "向生物製品評估與研究中心及藥物評估與研究中心提交真實世界證據",
-      "summary": "作為重新授權《處方藥使用者付費法案》(PDUFA VII) 的一部分，美國食藥局（FDA） 承諾向生物製品評估與研究中心 (CBER) 和藥物評估中心報告提交的匯總和匿名訊息",
-      "source": "FDA Biologics",
-      "date": "2026-06-12",
-      "url": "http://www.fda.gov/science-research/real-world-evidence/real-world-evidence-submissions-center-biologics-evaluation-and-research-center-drug-evaluation-and",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "會議 2：病人和護理夥伴對早期參加罕見疾病基因治療臨床試驗的看法",
-      "summary": "基因治療試驗可告知風險和益處，以便做出明智的決策。長期追蹤對於安全性和耐久性評估至關重要。",
-      "source": "FDA Biologics",
-      "date": "2026-06-11",
-      "url": "http://www.fda.gov/news-events/meeting-2-patient-and-care-partner-perspectives-early-enrollment-gene-therapy-clinical-trials-rare",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "過敏原研究",
-      "summary": "面向消費者的免疫生物化學和生物製品科學研究清單",
-      "source": "FDA Biologics",
-      "date": "2026-06-11",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/allergenics-research",
       "lang": "zh-TW"
     },
     {
@@ -75,16 +43,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "近期兒科相關細胞與基因療法核准案的臨床藥理學觀點",
-      "summary": "探討近期獲准用於兒科的細胞與基因療法，從臨床藥理學角度分析其應用與發展。",
+      "title": "最近與兒科相關的細胞和基因治療批准的臨床藥理學見解",
+      "summary": "與兒科相關的 nt 細胞和基因治療核准 Nature",
       "source": "Nature",
       "date": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "2026年細胞治療法規展望：如何讓CMC策略符合美國FDA與歐盟EMA的期待",
-      "summary": "展望2026年細胞治療法規趨勢，探討如何調整CMC (化學製造與管制) 策略以符合美國FDA與歐盟EMA的審查標準。",
+      "title": "2026 年細胞治療監管格局：使 CMC 策略與 美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 期望保持一致",
+      "summary": "pe：使 CMC 策略與 美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 期望保持一致 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-05-21",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82X3ZDVXdvS3lqWXpJZ2hFMUZObG83ZVdmQmZuT1dKS2lYOWZzLWtjUGxtRnFkT3ZsVXJKcl9JR0RUNmtpTEplODMySWdubnFpT0MxTUJWWmV6TUlkaG13ckd3SQ?oc=5",

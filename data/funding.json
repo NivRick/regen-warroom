@@ -1,13 +1,37 @@
 {
   "module": "funding",
-  "updated": "2026-06-17T14:27:36.063573+00:00",
+  "updated": "2026-06-18T00:11:02.958075+00:00",
   "items": [
     {
-      "title": "STAT+：知名創投為何反對美國限制對中國藥業投資",
-      "summary": "一位知名創投業者闡述她為何反對美國政府限制對中國製藥產業的投資，認為此舉可能阻礙創新與全球合作。",
+      "title": "RFK Jr. 提供 7 億美元的心理健康資助，但專家表示資助並不新鮮",
+      "summary": "RFK Jr. 提供資金旨在解決精神疾病和成癮問題，特別是無家可歸者的問題。",
+      "source": "STAT News",
+      "date": "2026-06-17",
+      "url": "https://www.statnews.com/2026/06/17/rfk-new-mental-health-funding-or-new-use-existing-grants/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：一位著名創投家解釋了她為何反對美國限制對中國製藥業的投資",
+      "summary": "聯邦政府是否應該試圖減緩甚至阻止可能有利於中國的美國生技交易？",
       "source": "STAT News",
       "date": "2026-06-17",
       "url": "https://www.statnews.com/2026/06/17/china-biotech-pharma-us-venture-capital/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "UniQure 將提交基因療法申請批准，反映 美國食藥局（FDA） 的重大轉變",
+      "summary": "這項決定標誌著繼 Marty Makary 和 Vinay Prasad 退出後監管的另一個大轉變，一些分析師認為 美國食藥局（FDA） 目前的領導層在某些情況下可能會更加靈活。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-17",
+      "url": "https://www.biopharmadive.com/news/uniqure-fda-gene-therapy-huntingtons-approval-filing-leadership/823163/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Jazz 與 AbCellera 達成交易，瞄準下一代 T 細胞參與者",
+      "summary": "這項可能耗資 40 億美元的合作是製藥商致力於擴大 T 細胞接合器用途的最新例子，到目前為止，除了某些血癌之外，該技術的成功有限。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-17",
+      "url": "https://www.biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/",
       "lang": "zh-TW"
     },
     {
@@ -16,14 +40,6 @@
       "source": "BioPharma Dive",
       "date": "2026-06-17",
       "url": "https://www.biopharmadive.com/news/vedana-migraine-stealth-launch-biotech-pacap/822960/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：人類細胞圖譜計畫領導",
-      "summary": "",
-      "source": "STAT News",
-      "date": "2026-06-16",
-      "url": "https://www.statnews.com/2026/06/16/human-cell-atlas-consortium-meeting-boston-spatial-biology-next-step/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {

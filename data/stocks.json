@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-17T14:28:19.363453+00:00",
+  "updated": "2026-06-18T00:11:53.451129+00:00",
   "stocks": [
+    {
+      "code": "1784",
+      "name": "訊聯",
+      "tier": "上游",
+      "close": "67.30",
+      "change": "+1.40",
+      "change_pct": 2.12,
+      "date": "115/06/18",
+      "market": "OTC"
+    },
     {
       "code": "4170",
       "name": "鑫品生醫",
@@ -8,7 +18,7 @@
       "close": "12.65",
       "change": "+0.11",
       "change_pct": 0.88,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
     },
     {
@@ -18,8 +28,48 @@
       "close": "10.20",
       "change": "-0.45",
       "change_pct": -4.23,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
+    },
+    {
+      "code": "6461",
+      "name": "益得",
+      "tier": "上游",
+      "close": "15.30",
+      "change": "0.00",
+      "change_pct": 0.0,
+      "date": "115/06/18",
+      "market": "OTC"
+    },
+    {
+      "code": "6712",
+      "name": "長聖",
+      "tier": "上游",
+      "close": "138.00",
+      "change": "-0.50",
+      "change_pct": -0.36,
+      "date": "115/06/18",
+      "market": "OTC"
+    },
+    {
+      "code": "6794",
+      "name": "向榮生技",
+      "tier": "上游",
+      "close": "78.80",
+      "change": "-1.10",
+      "change_pct": -1.38,
+      "date": "115/06/17",
+      "market": "TWSE"
+    },
+    {
+      "code": "6838",
+      "name": "台新藥",
+      "tier": "上游",
+      "close": "24.95",
+      "change": "-0.45",
+      "change_pct": -1.77,
+      "date": "115/06/17",
+      "market": "TWSE"
     },
     {
       "code": "6891",
@@ -28,7 +78,7 @@
       "close": "43.00",
       "change": "-0.47",
       "change_pct": -1.08,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
     },
     {
@@ -38,7 +88,7 @@
       "close": "25.80",
       "change": "+0.06",
       "change_pct": 0.23,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
     },
     {
@@ -48,7 +98,7 @@
       "close": "21.60",
       "change": "+0.25",
       "change_pct": 1.17,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
     },
     {
@@ -58,7 +108,7 @@
       "close": "9.39",
       "change": "-0.46",
       "change_pct": -4.67,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
     },
     {
@@ -68,7 +118,7 @@
       "close": "32.35",
       "change": "-0.02",
       "change_pct": -0.06,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
     },
     {
@@ -78,7 +128,7 @@
       "close": "57.20",
       "change": "-2.73",
       "change_pct": -4.56,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
     },
     {
@@ -88,7 +138,7 @@
       "close": "127.50",
       "change": "-1.45",
       "change_pct": -1.12,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
     },
     {
@@ -98,7 +148,7 @@
       "close": "37.00",
       "change": "+1.67",
       "change_pct": 4.73,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
     },
     {
@@ -108,8 +158,58 @@
       "close": "12.30",
       "change": "+0.27",
       "change_pct": 2.24,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
+    },
+    {
+      "code": "6949",
+      "name": "沛爾生醫",
+      "tier": "中游",
+      "close": "895.00",
+      "change": "+81.00",
+      "change_pct": 9.95,
+      "date": "115/06/17",
+      "market": "TWSE"
+    },
+    {
+      "code": "3118",
+      "name": "進階",
+      "tier": "下游",
+      "close": "31.25",
+      "change": "-0.05",
+      "change_pct": -0.16,
+      "date": "115/06/18",
+      "market": "OTC"
+    },
+    {
+      "code": "3224",
+      "name": "三顧",
+      "tier": "下游",
+      "close": "37.95",
+      "change": "+0.05",
+      "change_pct": 0.13,
+      "date": "115/06/18",
+      "market": "OTC"
+    },
+    {
+      "code": "6550",
+      "name": "北極星藥",
+      "tier": "下游",
+      "close": "13.20",
+      "change": "0.00",
+      "change_pct": 0.0,
+      "date": "115/06/17",
+      "market": "TWSE"
+    },
+    {
+      "code": "6662",
+      "name": "樂斯科",
+      "tier": "下游",
+      "close": "30.35",
+      "change": "+0.45",
+      "change_pct": 1.51,
+      "date": "115/06/18",
+      "market": "OTC"
     },
     {
       "code": "6814",
@@ -118,7 +218,7 @@
       "close": "23.55",
       "change": "+0.01",
       "change_pct": 0.04,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
     },
     {
@@ -128,7 +228,7 @@
       "close": "20.20",
       "change": "+0.20",
       "change_pct": 1.0,
-      "date": "115/06/17",
+      "date": "115/06/18",
       "market": "ESB"
     }
   ]
