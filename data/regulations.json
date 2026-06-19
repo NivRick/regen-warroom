@@ -1,37 +1,45 @@
 {
   "module": "regulation",
-  "updated": "2026-06-18T13:59:17.414438+00:00",
+  "updated": "2026-06-19T00:21:44.460020+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
-      "summary": "美國生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "治療產品辦公室（OTP）座談會：細胞與基因治療產品生物製劑許可申請（BLA）送件最佳實務",
+      "title": "CBER 2026 孤兒批准（新 BLA）",
       "summary": "",
+      "source": "FDA Biologics",
+      "date": "2026-06-18",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "佐爾根斯瑪",
+      "summary": "(onasemnogene abeparvovec-xioi) 是一種基於腺相關病毒載體的基因療法，適用於治療 2 歲以下患有脊髓性肌肉萎縮症 (SMA) 的兒科患者，該患者的存活運動神經元存在雙等位基因突變",
+      "source": "FDA Biologics",
+      "date": "2026-06-18",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/zolgensma",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "IDBS 和 Alchemi 同意加速人工智慧驅動的生物製藥監管備案",
+      "summary": "IDBS 和 Alchemi 合作將 AI 代理與 IDBS Polar 平台中的資料連接起來，創建一個受管理的資料基礎，從而在整個藥物開發過程中實現可靠、合規的代理 AI 使用。\nDriven Biopharma 监管文件出现后",
+      "source": "GEN News",
+      "date": "2026-06-18",
+      "url": "https://www.genengnews.com/topics/translational-medicine/idbs-and-alchemi-agree-to-accelerate-ai-driven-biopharma-regulatory-filings/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "OTP Town Hall：準備細胞和基因治療產品 BLA 提交的最佳實踐",
+      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 6 月 4 日舉辦下一次虛擬市政廳會議。在本次市政廳會議期間，來自 OTP 審查管理和監管審查辦公室 (ORMR) 的專家",
       "source": "06/04/2026",
       "date": "2026-06-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "溶劑回收在生物加工領域取得進展",
-      "summary": "隨著生物加工企業面臨溶劑成本上升、供應鏈中斷和不斷增長的永續發展需求，溶劑回收系統正在成為策略性投資，可降低營運費用、增強生產彈性並幫助企業提高競爭力。",
-      "source": "GEN News",
-      "date": "2026-06-17",
-      "url": "https://www.genengnews.com/topics/bioprocessing/solvent-recovery-gains-ground-in-bioprocessing/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "PROCLEIX WNV 檢測",
-      "summary": "產品核准資訊用於定性檢測人類捐贈者個人血漿樣本中的西尼羅河病毒 (WNV) RNA，包括全血和血液成分的志願者捐贈者以及其他活體捐贈者。",
-      "source": "FDA Biologics",
-      "date": "2026-06-15",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/procleix-wnv-assay",
       "lang": "zh-TW"
     },
     {
@@ -40,22 +48,6 @@
       "source": "PharmTech.com",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "最近與兒科相關的細胞和基因治療批准的臨床藥理學見解",
-      "summary": "與兒科相關的 nt 細胞和基因治療核准 Nature",
-      "source": "Nature",
-      "date": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "The 2026 細胞治療 Regulatory Landscape: Aligning CMC Strategy with 美國食藥局（FDA） and 歐洲藥品管理局（EMA） Expectations",
-      "summary": "pe：使 CMC 策略與 美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 期望保持一致 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-05-21",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82X3ZDVXdvS3lqWXpJZ2hFMUZObG83ZVdmQmZuT1dKS2lYOWZzLWtjUGxtRnFkT3ZsVXJKcl9JR0RUNmtpTEplODMySWdubnFpT0MxTUJWWmV6TUlkaG13ckd3SQ?oc=5",
       "lang": "zh-TW"
     }
   ]

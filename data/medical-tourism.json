@@ -1,6 +1,6 @@
 {
   "module": "tourism",
-  "updated": "2026-06-18T13:59:53.730672+00:00",
+  "updated": "2026-06-19T00:22:41.201842+00:00",
   "items": [
     {
       "title": "三星醫療中心在癌症、呼吸系統和消化系統護理領域中位居亞太地區榜首",
@@ -12,30 +12,38 @@
     },
     {
       "title": "三星首爾醫院在《新聞週刊》的癌症、呼吸系統和胃腸病學領域排名亞太地區第一",
-      "summary": "ia-Pacific for Cancer, Respiratory, and Gastroenterology by Newsweek 아시아경제",
+      "summary": "《亞洲經濟新聞週刊》報導的 ia-Pacific 癌症、呼吸系統和胃腸病學",
       "source": "아시아경제",
       "date": "2026-06-17",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fMTNiZU5DTkFXRVdLSlJTSy1QX082R3l5LXdyZ1FlWWVYYzl4dElaMUppLW0zWHJDdW9JTEUyUWozQjY3ZEI3dmtXNzBtN3YwSzd3bXJDd0NYdlFSelktQ2NPTmE?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "不只中日！生",
-      "summary": "",
+      "title": "中國和日本以外：生物製藥如何擴大亞太地區罕見疾病的治療範圍",
+      "summary": "擴大亞太地區罕見疾病的取得範圍 Fierce Pharma",
       "source": "Fierce Pharma",
       "date": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHRDT2xYdG9XYTZMTXVIcWctd0pfbk13eHMwZ0hkMG1CN3ZjTVREdm1UYjk1dUJxQlZteXA4aE5DUG83OHF2N0ROOUJyMmVTZ2JOSzBFSWxFNEJIb0xLbnl5bWEweDEwNGdHamtLZlI5ZExqbGlmZmtkelpZc1JScHZ6VlVjWXJ3X3dTYVJHN2c4dXg3S1ZpYTR5dTNrX3M5QWdac2dEVHA3VzhjUkV0dXBZdFYtdEFTTFVMVk94bk1HNVk?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "韓國Lydian診所宣布，將以幹細胞技術搶攻拉斯維加斯美容回春市場",
-      "summary": "韓國Lydian診所宣布，將把其幹細胞皮膚回春技術帶到拉斯維加斯，瞄準當地高端美容市場。",
+      "title": "BTS熱潮帶動加州需求，韓國皮膚回春診所宣布進駐",
+      "summary": "韓國皮膚回春診所宣布相關消息。",
+      "source": "FinancialContent",
+      "date": "2026-06-13",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUVqcDNXVmd1allkNGlvNTcyY2UtUzdrYzUtLWljTXhmWEJyd1Zjb1lYV1Q1ZlVrTjNQZ09xcjVnSzNyanZOOGpmcnV6MVBmTzhRY2czc2dqYk5hWGhJNHJwZ21EcEtnMjZDd1dxQ2piWVI4YTE4UjVaeUVuRS1UZHZhcUg2c01jX0FVTXJKZ243NTVnaXZLejEzVDEyWXZPczJBamRHbEVxV29wTGtvelFvUzdfeFZvblVMdlFYQUJlemVQQUtaQXRqZDlNLUJRNngtaS1zYTNldWRhZmc?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "韓國Lydian診所宣布，將以幹細胞皮膚回春技術搶攻拉斯維加斯美容市場",
+      "summary": "Lydian診",
       "source": "FinancialContent",
       "date": "2026-06-13",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVU4yUGhkSHd0MjlWaUg4SXRrRU8yVGYzTklCbmViN0FOcHFoRzM0TGY0Nml3T1doZHNTNUZzNzhaamt2cTVaclRzYldOQkFQWHVMa1ZRekI4X1gyaXV5TEdsTU52Y2dlcFRvX3ZCRkFWUjV6SExwdF9YUEktNjNxWlFURGxuMDI1V0t6QVpqRW1MUTNialBockJ4aE1jX3dpOXVCOVg4ejh5U1I4S2VpbDhhQ2lLVjdEVThXZ2pXSjVUT2lwa0FLSXJjNUNXZGFQa1JSSi1SXzBFZDVQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "中國力爭在醫療旅遊市場分得一杯羹",
+      "title": "中國力求在醫療旅遊市場分得一杯羹",
       "summary": "",
       "source": "ThinkChina",
       "date": "2026-06-01",
@@ -59,11 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞重編程推動抗衰老從實驗室走向臨床 - CHOSUNBIZ",
-      "summary": "g 從實驗室推向診所 - CHOSUNBIZ Chosunbiz",
-      "source": "Chosunbiz",
-      "date": "2026-05-23",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDhYcDRKWGtkcjVTMFVUdjNlWnVwMVdzSkFnR2JZQnc1ZVFkaER6TUtVcWNiVXk5UlNVbjFCRENZLVZ3emZSU2JLUU1pcXFvY1R2WTJoRVl4SXdidHRJTVJ2ZWRxYjhxWmxZdl94cC1aTUx6UjllY09aNUtMOHpNRdIBlAFBVV95cUxOZ1RIUmV1cVhiQjF1NzJwRmhwRF9JMVRJaHp0WFRyUGpFSVhFOS1PTHN5Qk1YTjliU1NwNWdQaHFlUzZybkZoMnAwNmRuV0JSZXp0ZTVwWm5NLUZjazNYYTBWODZ3ZjFwbklSQTRoVjNtVVM2a0xKV052TVIwbmlyRU5leFhic1ZxX2Y4dlRfTi1IZFRE?oc=5",
+      "title": "2026年美國最佳長壽診所：費用與服務內容",
+      "summary": "本報導深入探討2026年美國頂尖長壽診所，揭露其提供的服務項目與相關收費標準。",
+      "source": "Fort Worth Star-Telegram",
+      "date": "2026-05-20",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wVnEtcDF2c1AtNnJRNFFEV1BLbDlpekZ2cVNYTWxZTmQtRUxfRUxJM3EteHpUbGV2bFdmd0stSk44NWN2U1A5TUNkOFBycTYxN2JzbE9PSDZkdnVxQmRmNTk1MGx6S1NSOXhlZWdlR3VzdXRaRjFrMVFCcDLSAXxBVV95cUxNMFZnZENEM2NyQ3BWSjcxd2p4WXhPRXVwTUNySkhWT1BwemlnUzhEU3lIQXNPYW9mNmpjalQwdGN5YWNOcHFLakZNS2kzUUppa0doOGhMOWFuelJ5djRRZmpfRVAtSDU3OC1ZWDRHTTRBU1VYZkpvM1ItQ09w?oc=5",
       "lang": "zh-TW"
     }
   ]

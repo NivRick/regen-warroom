@@ -1,14 +1,21 @@
 {
   "module": "apac",
-  "updated": "2026-06-18T13:58:58.842366+00:00",
+  "updated": "2026-06-19T00:21:27.317466+00:00",
   "items": [
     {
-      "title": "生物共軛投入數十億美元：亞太地區 ADC 產能建設是否正確——還是過多？",
-      "summary": "確定合適的 ADC 容量——還是太多？亞太地區生物製藥",
+      "title": "數十億美元投入生物偶聯技術：亞太地區的抗體藥物複合體（ADC）產能是否適當，還是過剩？",
+      "summary": "BioPharma APAC探討亞太地區在抗體藥物複合體（ADC）產能上的巨額投資，並質疑其是否適當或已過剩。",
       "source": "BioPharma APAC",
       "date": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVg0bzczcU1XcFN5d2hhOXNLSUI4UksyWHlmd2FhcVkyUHVFM3pRT0ZKZWtLOWNEZnBWelN6OEtrR25LY0RmS3ZROS1GM3dEU1hQU2JyUGk3RWh5akdzS1ZKN2FCaG9oNC1BVFA4N0dOUExTQlFmTlhpRVBnWGNQRHJLdG9scnh1aHg3ZmJ4Qmh5aDZJV3ZCZVJtSngxak1UeGhMVkM3bk1CdVkwcU5TTGdXUGprc2lQS1hrcnlWTkpHT0hvd1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQajctRVJWQ1VPc1RWanVNcnlSMzh6cUV4SEFOQ1k4Znk1WEp1SjVNMnRaeUV2c2VLTGlvdVFpOV9hUjdXU3BJVHFmOGpjTWpPQzRFcmRVM200aGJ6VG1nZ3VoWkhMYXRHWmhrSHo3Y1NhcWl6OHV5R29sZXdQY19ibEJtUXNhTDh0R0tRcjZWQzNZNTZwUlZyaWJUUURLRTBQQUs5TWhmSS1LUWFDYXQtZWFmc0Q3NDBiMDVPWm9wRkhkcFZZ?oc=5",
       "lang": "zh-TW"
+    },
+    {
+      "title": "沛爾CAR-T拚年底取藥證tcmc廠啟用攻細胞治療| 產經",
+      "summary": "",
+      "source": "中央社 CNA",
+      "date": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHUTRfOXVtMUtGSl8xRWM1QU1vMkRINjdzWWttU1JJM0hHbjBEeEJ4Y0pjblExd1RvbE5Namc5V1cxdkpfYm0weGI1YWlYX2wzM1VEZWRlVllpZEkwV1E?oc=5"
     },
     {
       "title": "沛爾 CAR-T 拚年底取藥證，tcmc 廠啟用攻細胞治療",
@@ -18,31 +25,24 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQ2dQSDNoNUpCam4yY3ppTndMUXlJYzR4bW5FeW5uRzQwNzJLcE5hc3NXSmVoemVuSHpyWUQtNUFieWtFMVItNVpJOXlPM25tQ09tM0R1MnBlS29rbHpZ?oc=5"
     },
     {
-      "title": "沛爾CAR-T拚年底取藥證 tcmc廠啟用攻細胞治療",
-      "summary": "",
-      "source": "信吉衛視+",
-      "date": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMzJCWE5ranVVdzRyNUI5V2JieWxaYWdzaTZxUzR1Zlk1Z2FFNjhpUUFhZDJqX1NkTGd5Z2c1MUx0ZTRWU2xvSFRmSW91ekE?oc=5"
-    },
-    {
-      "title": "Aphranel® 歡慶一週年：取得歐盟醫療器材法規（EU MDR）認證、Arc™上市，並已出貨逾15萬支針劑",
-      "summary": "Aphranel® 產品上市一週年，已成功取得歐盟醫療器材法規（EU MDR）認證，並推出Arc™，累計",
+      "title": "Aphranel® 慶祝上市一週年，取得歐盟醫療器材法規（EU MDR）認證、推出 Arc™，並已出貨超過15萬支針劑",
+      "summary": "Plataforma Media報導，Aphranel® 取得歐盟醫療器材法規（EU MDR）認證、推出 Arc™，並已出貨超過15萬支針劑。",
       "source": "Plataforma Media",
       "date": "2026-06-05",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdkRpcmZTQ3I0bUhhRWEyYWpVb0xfN2xHNmF0Q1QzZGkxRVd0dW1jczBGTDg4SlZvTnZVTTZZM2hpTkxLZVdWdEFwd2NuQkJ1NXJuMno5WTdQN0dHblFJWU9FX1NOQ0lBaV9RbnZaUXFCUVJZUDVnQlVGb3d4ajJMTXlsZ200YjVxb3ZZOExkZzFvUU5iWHRlTWlUZ2R6S0VJdF84azE4RkdKOFF2S0dkMC1ISVFTcU9WTXlaQ3BjSWxSX0tVTjM3UlZ1UVZtS0FBdzNEVVYyR1QyOUM2ZlROQ1hXa01vUQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "亞太地區合約開發與製造服務公司（CDMOs）與先進治療藥品（ATMP）市場成長動能強勁",
-      "summary": "亞太地區的合約開發與製造服務公司（CDMOs）與先進治療藥品（ATMP）市場正迎來強勁成長，備受業界矚目。",
+      "title": "亞太地區委託開發製造服務公司（CDMO）與先進療法藥品（ATMP）成長動能強勁",
+      "summary": "亞太區委託開發製造服務公司（CDMO）與先進療法藥品（ATMP）產業正迎來強勁成長，商機無限。",
       "source": "BioSpectrum Asia",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSElKWjhjWTgyOGFlVEhzc1BiNXlPUUhQQ21wSEJTUm92R1FiSy1weWhHTk9mSktoTUJuejIxVW1aaENWRHB1SFcyamwwREJqQXJwM281ZXA5bkZKOGg5T2FKbGg2ZUNBaERWSTMwYno1SXQ2djAzb0M5eWxJaXBzdkRhZnVwSzJZT3RxWXA4WVVXQQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞擴增技術市場規模報告，展望2033年",
-      "summary": "根據Grand View Research的報告，幹細胞擴增技術市場規模預計將持續成長至2033年。",
+      "title": "幹細胞擴增技術市場報告規模，2033年",
+      "summary": "Grand View Research發布2033年幹細胞擴增技術市場規模報告，提供產業洞察。",
       "source": "Grand View Research",
       "date": "2026-05-25",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFV0Sm5WNkJobkVPOEJTMzhkMkhZTHIxYXMtaUJfUUh4VFVBZ1FCYUZXSU1ERDlyb1VGaGdnUUs4aU5TZ0FxcEJpZzJhWVlscGJkUWFxZVJMdWg0cjJlMzliTW1zdk5lb0cyWG5kdFo2UFRpRDQyOHdWMWg0TWFucUFqcTRjMXk2MVBxRVBwNlBOMV9weGRWXzV4NGJwbU0?oc=5",

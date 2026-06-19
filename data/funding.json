@@ -1,18 +1,42 @@
 {
   "module": "funding",
-  "updated": "2026-06-18T13:59:34.047868+00:00",
+  "updated": "2026-06-19T00:22:09.494481+00:00",
   "items": [
     {
-      "title": "RFK Jr. 提出 7 億美元精神健康募資，但專家稱這些補助並非新創舉",
-      "summary": "RFK Jr. 提出旨在解決精神疾病和成癮問題的資金，特別是針對無家可歸者。",
+      "title": "STAT+：CMS 再次重新計算 Medicare Advantage 星級評級，增加了計劃的波動性",
+      "summary": "獲得五顆星中的四顆星或以上的 Medicare Advantage 計劃將獲得獎金，今年獎金已飆升至 160 億美元。",
+      "source": "STAT News",
+      "date": "2026-06-18",
+      "url": "https://www.statnews.com/2026/06/18/medicare-advantage-star-ratings-recalculated-volatility-industry-lawsuits/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Biogen 以 10 億美元收購秘密新創公司 RayThera，增加更多免疫藥物",
+      "summary": "儘管 RayThera 獲得的專利提供了重要線索，但兩家公司並沒有具體說明百健（Biogen）在交易中收購的藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-18",
+      "url": "https://www.biopharmadive.com/news/biogen-raythera-deal-acquire-immune-drugs/823241/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "輝瑞財務長辭職； Denali 出售監管快速通行證",
+      "summary": "目前正在尋找戴夫·丹頓的繼任者，戴夫·丹頓在製藥業以外的地方工作。在其他地方，一種新型杜興基因療法得到了創投的支持，葛蘭素史克的交易也帶來了紅利。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-18",
+      "url": "https://www.biopharmadive.com/news/pfizer-cfo-denali-spot-duchenne-novocure-utebzi/823169/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "RFK Jr. 提供 7 億美元的心理健康資助，但專家表示資助並不新鮮",
+      "summary": "RFK Jr. 提供資金旨在解決精神疾病和成癮問題，特別是無家可歸者的問題。",
       "source": "STAT News",
       "date": "2026-06-17",
       "url": "https://www.statnews.com/2026/06/17/rfk-new-mental-health-funding-or-new-use-existing-grants/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Kardigan 募資 4",
-      "summary": "",
+      "title": "卡迪根 (Kardigan) 延續了生技公司大規模 首次公開上市（IPO） 的勢頭，募資 4 億美元",
+      "summary": "根據 BioPharma Dive 的數據，包括心臟藥物開發商的發行在內，四家生物技術公司在 2026 年已籌集了至少 4 億美元的 首次公開上市（IPO） 資金，這是自 2021 年以來的單年最高金額。",
       "source": "BioPharma Dive",
       "date": "2026-06-17",
       "url": "https://www.biopharmadive.com/news/kardigan-ipo-price-biotech-myokardia-heart-drugs/822947/",
@@ -48,14 +72,6 @@
       "source": "BioPharma Dive",
       "date": "2026-06-16",
       "url": "https://www.biopharmadive.com/news/lilly-4e-acquisition-non-opioid-pain-drugs/823016/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Neumora 憂鬱症藥物失敗； EnGene 將裁員 50%",
-      "summary": "Neumora 的失敗是一類曾經很有前途的大腦藥物的最新挫折。在其他地方，一家細胞治療製造專家採取了首次公開募股的措施，強生公司也進行了最新的美國投資。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-16",
-      "url": "https://www.biopharmadive.com/news/neumora-depression-engene-jnj-sensei-faeth-celltaxis-cellares/822929/",
       "lang": "zh-TW"
     },
     {
