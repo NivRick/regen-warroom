@@ -1,49 +1,25 @@
 {
   "module": "tourism",
-  "updated": "2026-06-20T00:00:38.509600+00:00",
+  "updated": "2026-06-20T12:29:20.674807+00:00",
   "items": [
     {
-      "title": "三星醫療中心在癌症、呼吸系統和消化系統護理領域中位居亞太地區榜首",
-      "summary": "rankings in cancer, respiratory and digestive care 동아사이언스",
-      "source": "동아사이언스",
-      "date": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MU0pkVS1oY3FxbHF3TGNyZDJkNW56WjlMVnlLSHk0SU01eG1abi13OEV5cWQwUGFQQWZQdVNMZ0Y1UmNGYjRnY21zMWI1NkZKeF9mcg?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "三星首爾醫院在《新聞週刊》的癌症、呼吸系統和胃腸病學領域排名亞太地區第一",
-      "summary": "《亞洲經濟新聞週刊》報導的 ia-Pacific 癌症、呼吸系統和胃腸病學",
-      "source": "아시아경제",
-      "date": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fMTNiZU5DTkFXRVdLSlJTSy1QX082R3l5LXdyZ1FlWWVYYzl4dElaMUppLW0zWHJDdW9JTEUyUWozQjY3ZEI3dmtXNzBtN3YwSzd3bXJDd0NYdlFSelktQ2NPTmE?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Beyond China and Japan: How biopharma is expanding rare disease access across Asia-Pacific",
-      "summary": "擴大亞太地區罕見疾病的取得範圍 Fierce Pharma",
+      "title": "跳脫中日市場：生技製藥業如何擴",
+      "summary": "",
       "source": "Fierce Pharma",
       "date": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHRDT2xYdG9XYTZMTXVIcWctd0pfbk13eHMwZ0hkMG1CN3ZjTVREdm1UYjk1dUJxQlZteXA4aE5DUG83OHF2N0ROOUJyMmVTZ2JOSzBFSWxFNEJIb0xLbnl5bWEweDEwNGdHamtLZlI5ZExqbGlmZmtkelpZc1JScHZ6VlVjWXJ3X3dTYVJHN2c4dXg3S1ZpYTR5dTNrX3M5QWdac2dEVHA3VzhjUkV0dXBZdFYtdEFTTFVMVk94bk1HNVk?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "California Demand Rises After BTS Boom: Korea Skin Rejuvenation Clinic Announced",
-      "summary": "Korea Skin Rejuvenation Clinic Announced FinancialContent",
-      "source": "FinancialContent",
-      "date": "2026-06-13",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUVqcDNXVmd1allkNGlvNTcyY2UtUzdrYzUtLWljTXhmWEJyd1Zjb1lYV1Q1ZlVrTjNQZ09xcjVnSzNyanZOOGpmcnV6MVBmTzhRY2czc2dqYk5hWGhJNHJwZ21EcEtnMjZDd1dxQ2piWVI4YTE4UjVaeUVuRS1UZHZhcUg2c01jX0FVTXJKZ243NTVnaXZLejEzVDEyWXZPczJBamRHbEVxV29wTGtvelFvUzdfeFZvblVMdlFYQUJlemVQQUtaQXRqZDlNLUJRNngtaS1zYTNldWRhZmc?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Korea 幹細胞 Skin Rejuvenation for Las Vegas Beauty: Lydian Clinic Announced",
-      "summary": "s Vegas Beauty: Lydian Clinic Announced FinancialContent",
+      "title": "韓國幹細胞肌膚回春術進軍拉斯維加斯美容市場：Lydian診所宣布",
+      "summary": "Lydian診所宣布將韓國幹細胞肌膚回春技術引進拉斯維加斯美容市場。",
       "source": "FinancialContent",
       "date": "2026-06-13",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVU4yUGhkSHd0MjlWaUg4SXRrRU8yVGYzTklCbmViN0FOcHFoRzM0TGY0Nml3T1doZHNTNUZzNzhaamt2cTVaclRzYldOQkFQWHVMa1ZRekI4X1gyaXV5TEdsTU52Y2dlcFRvX3ZCRkFWUjV6SExwdF9YUEktNjNxWlFURGxuMDI1V0t6QVpqRW1MUTNialBockJ4aE1jX3dpOXVCOVg4ejh5U1I4S2VpbDhhQ2lLVjdEVThXZ2pXSjVUT2lwa0FLSXJjNUNXZGFQa1JSSi1SXzBFZDVQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "中國力爭在醫療旅遊市場分得一杯羹",
+      "title": "中國力求在醫療旅遊市場分得一杯羹",
       "summary": "",
       "source": "ThinkChina",
       "date": "2026-06-01",
@@ -64,14 +40,6 @@
       "source": "The Daily Beast",
       "date": "2026-05-23",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFRnNjZNQklYU0Z4cUZIQlY0TUZpdFotZmRwNm1yc2gzLU1qdGJYVUVFM0xlWWJBX29yV2JKWm40aTlmMFBCUFg4MnpsR2RLU3M1eXR4N0xQQVZ1WFhNcTZnS1V2S0gwdElsMTF0TjJFWVhDQUJHSVN3Z2huUEpXLS1Uc3lnNzFQT1JZd1BCNk9TR2YwZkp0WDdOV01rSVRNdWc?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "2026 年美國最佳長壽診所：費用與服務",
-      "summary": "26：他們的成本和他們提供什麼沃斯堡星電報",
-      "source": "Fort Worth Star-Telegram",
-      "date": "2026-05-20",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wVnEtcDF2c1AtNnJRNFFEV1BLbDlpekZ2cVNYTWxZTmQtRUxfRUxJM3EteHpUbGV2bFdmd0stSk44NWN2U1A5TUNkOFBycTYxN2JzbE9PSDZkdnVxQmRmNTk1MGx6S1NSOXhlZWdlR3VzdXRaRjFrMVFCcDLSAXxBVV95cUxNMFZnZENEM2NyQ3BWSjcxd2p4WXhPRXVwTUNySkhWT1BwemlnUzhEU3lIQXNPYW9mNmpjalQwdGN5YWNOcHFLakZNS2kzUUppa0doOGhMOWFuelJ5djRRZmpfRVAtSDU3OC1ZWDRHTTRBU1VYZkpvM1ItQ09w?oc=5",
       "lang": "zh-TW"
     }
   ]

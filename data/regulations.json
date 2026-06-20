@@ -1,6 +1,6 @@
 {
   "module": "regulation",
-  "updated": "2026-06-19T23:59:54.785819+00:00",
+  "updated": "2026-06-20T12:28:11.648300+00:00",
   "items": [
     {
       "title": "生物製劑最新動態",
@@ -11,8 +11,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 2026年孤兒藥核准（新生物製劑許可申請）",
-      "summary": "生物製劑",
+      "title": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）2026年孤兒藥核",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-06-18",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
@@ -64,14 +64,6 @@
       "source": "Nature",
       "date": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "2026 年細胞治療監管格局：使 CMC 策略與 美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 期望保持一致",
-      "summary": "pe：使 CMC 策略與 美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 期望保持一致 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-05-21",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82X3ZDVXdvS3lqWXpJZ2hFMUZObG83ZVdmQmZuT1dKS2lYOWZzLWtjUGxtRnFkT3ZsVXJKcl9JR0RUNmtpTEplODMySWdubnFpT0MxTUJWWmV6TUlkaG13ckd3SQ?oc=5",
       "lang": "zh-TW"
     }
   ]
