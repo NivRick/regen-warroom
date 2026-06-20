@@ -1,6 +1,6 @@
 {
   "module": "taiwan",
-  "updated": "2026-06-19T13:58:14.268525+00:00",
+  "updated": "2026-06-19T23:57:43.796983+00:00",
   "items": [
     {
       "title": "【產業短評】T-RMAT 啟動！解析臺灣再生醫療製劑輔導專案機制，與國內細胞新藥進程盤點",
@@ -38,18 +38,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44RWJnMHNCQU1mMmdnYkIxZzl6TEdrcUE0RlZoRGdlVER3VW5raS1jdFUzWEVvNXFUQ2d2bUFsTjFrQ2haTUZ2YVE2cl9ZNFVxVUhkcWtNN2ZIZ9IBX0FVX3lxTE5ad3J2N09GUjFPa2c1SFE2YmtDZXZzUThqT212TzJRd25jSUU3emVwaFR3Nml5Z1E4eVZSQksxaUtPbDlXMnZoRGtEa2dUeEtQTnVIRjMtRlk3WlpKVGtR?oc=5"
     },
     {
+      "title": "再生醫療雙法上路！賴清德：全力支持生醫發展、打造台灣下一座護國神山",
+      "summary": "",
+      "source": "Yahoo新聞",
+      "date": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNT3dJLUtIdW1wU3FFdDhKY2hxMUZjODF4WFd5TnNqUVFHdG4tdm5tb1g0TXQ0UzRSOGlNSXhQc2FwSEJwblF1cE1fR09WTE5wdlVLVFNMRnI1UGRqQVZNbFY4TG9QYVRreVpXc3lEUm4zdjdHSEFIdHVJb1N1eUNoSDFpdmluajZZVzZQU0xzSElWNTJyV0JmUzNqRkFzbjgtdmtpWG1ETlp3bFBFMzQxZXJsT2JMQ29kX3ZRQ0xqejV4dkVoZ1BYVEFVWFFON1VtTmhoSGtxUWI4Q3dCVHNtUHlDZzkwc01hTW1PS1dzRVRtMVltOFR6VlMtU2VWNVJrcU8xYVZGaDF1X00xa3lIbW5wT0NfZnpfYWFDY01ZelFkSU5yOVF3VGFLNm5GM3ctb2ZUcElfeHAzUnlHUTdFcXZKWFJCRjV0OE9CS1FFMEZSMGZ3RGh6M2g1TDlSZzN2VkNkQm1sTWM2YU04dFFaVHNGMXdGMlNXLUdKV3pHMmlkWkRHQ2J2T05faGllQ0ZqTVdSZVdHVW5rVEhueVNsZTlRdlpkbWpPMktSTmtPZHdfMklU?oc=5"
+    },
+    {
       "title": "台北市再生醫療公會籌備啟動預計7/4辦成立大會- 新聞",
       "summary": "",
       "source": "MoneyDJ",
       "date": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOU80NW5YOF9hLVdKZTNwUXR3Y1RnMjdISm1maVFaWG0tZ216eUZxcV8wb3MyaU1XRUtSMktKNS11dENURnpLSzItenVCX0Q4dkE3TlJKWkhxZTNvMDFFV2RoeGcybGd0WnFrSnNFdEsxb3BzLVBHVDZTLWtCcmE0NHQ4WFRnYnNGUlhMME5JWkI3dw?oc=5"
-    },
-    {
-      "title": "政府推再生醫療 提升產業競爭力",
-      "summary": "",
-      "source": "Yahoo新聞",
-      "date": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTzhhcWV1dEZZS2ZHWl9YcXZFSG9uSlFEUzdLMTZCaWduaDlsV051Q2Yzbk44dzdYU3dPV0dNRkZyMnRYdmxjMmpxOVo5QTktQ1lSV3N4b2N5UDQ1YVhxTUgxSEg4MzhDSVB5YTNfa3RiZHZGOGl4UVRwQlV5N1FfWnBjcE5hV1E3ZkVjVmNBbzI4a0tiZ2xZSlZnRlRPRW5TMFVXUFg0VG11Rk9nWkgtZm9FcEJTekdtZUgteVBnUUZlcTRERmpQZ3A1NFZUWmM1ZVF4RXFwQjJEbXg5akJ0NjVrZENXZ1ctNlhpWXhJZHlwRWgyT0QwYjhneGU?oc=5"
     },
     {
       "title": "再生醫療雙法上路 挺生醫產業 賴清德：打造下座護國神山",
@@ -61,7 +61,7 @@
     {
       "title": "沛爾 CAR-T 拚年底取藥證，tcmc 廠啟用攻細胞治療",
       "summary": "",
-      "source": "TechNews 科技新報",
+      "source": "technews.tw",
       "date": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQ2dQSDNoNUpCam4yY3ppTndMUXlJYzR4bW5FeW5uRzQwNzJLcE5hc3NXSmVoemVuSHpyWUQtNUFieWtFMVItNVpJOXlPM25tQ09tM0R1MnBlS29rbHpZ?oc=5"
     },
@@ -113,13 +113,6 @@
       "source": "財訊",
       "date": "2026-05-28",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqTVBzc2hQbmtGMDRFMG9TUE9jSjFPLXR5aGlabHVWYmhONllLcWdpTzhJT1AwRjJzTmxoendzTDNEeTNIVUIxcS1QT2wxaWQ5MkxoZ3pwaHI4VnhraDFXblF4S1NicFhjNHhmMk9oc09aY0tOZ0ZfS0RpZw?oc=5"
-    },
-    {
-      "title": "生技股掛牌潮1》生技股「轉骨」時刻到了！AI、政策催化3大質變 資金回歸基本面",
-      "summary": "",
-      "source": "財訊",
-      "date": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BTmJhUjNZVHhxWlpVVWtBa3JpOVpzSWo1MmNVNUZwakUzNHFtTnBCYWFZX2lQN1pRNDZ2UVhaOWJNQVRrU1NnLUtMbXZpZldlOXBtWFVxUEQ0ZTZLemNKTnN3U1M0OUdzc1Jra0RualVVWkF3WXBBemVQQQ?oc=5"
     }
   ]
 }

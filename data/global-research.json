@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-06-19T14:02:26.596493+00:00",
+  "updated": "2026-06-19T23:59:30.401166+00:00",
   "items": [
     {
-      "title": "腸道菌群與代謝物驅動的免疫細胞時空動態對腫瘤的影響",
-      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除腫瘤細胞方面扮演關鍵角色，近年來受到越來越多關注。",
+      "title": "腸道菌群、代謝物如何影響免疫細胞時空動態，進而左右腫瘤發展",
+      "summary": "癌症是人類健康的一大威脅。免疫反應在清除腫瘤細胞上扮演關鍵角色，近年來也越來越受到重視。",
       "source": "PubMed",
       "date": "2026-06-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42207498/",
       "lang": "zh-TW"
     },
     {
-      "title": "光熱預處理高濃度血小板血漿（",
+      "title": "光熱預處理高濃度血小板",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-19",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "利用控制支架彎曲與含肌肉源細胞的軟骨生成配方進行創新耳廓重建",
-      "summary": "組織工程耳廓在臨床應用上，面臨植入物機械強度不佳、幹細胞/前驅細胞數量不足，以及其他未知因素等挑戰。",
+      "title": "利用控制支架彎曲與含肌肉源細胞的軟骨生成配方，進行非傳統耳廓重建",
+      "summary": "這項研究提出一種新穎的耳廓重建方法，結合控制支架彎曲技術與含有肌肉源細胞的軟骨生成配方，旨在克服傳統",
       "source": "PubMed",
       "date": "2026-06-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42318054/",
       "lang": "zh-TW"
     },
     {
-      "title": "一種調控血管",
-      "summary": "",
+      "title": "調節血管類器官融合發育的黏彈性懸浮培養策略。",
+      "summary": "人類血管類器官（hBVO）在血管藥物開發和組織修復工程方面表現出巨大的潛力。然而，傳統的液體培養方法會導致自發性的細胞融合，並且缺乏明確的機械微環境來支持細胞在初始...",
       "source": "PubMed",
       "date": "2026-06-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42290975/",
@@ -131,16 +131,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "具有去細胞脾基質的人體血管類器官中小動脈和毛細血管的分化。",
-      "summary": "血管類器官在促進心肌梗塞後血管生成方面顯示出巨大的前景，但目前的類器官培養方法只能形成毛細血管",
+      "title": "去細胞化脾臟基質在人體血管類器官中促進動脈與微血管分化",
+      "summary": "血管類器官在心肌梗塞後促進血管新生方面潛力巨大，但目前的類器官培養方法只能形成微血管。",
       "source": "PubMed",
       "date": "2026-06-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42232747/",
       "lang": "zh-TW"
     },
     {
-      "title": "強調用於肌腱/韌帶和附著束組織再生的電紡絲束的應變率依賴性振動行為。",
-      "summary": "附著點組織工程旨在開發能夠複製肌腱/韌帶-骨界面的機械和結構梯度的支架。在生物製造技術中，靜電紡絲是最有希望製造形態力學相關的附著束啟發支架的技術之一...",
+      "title": "強調電紡束的應變率依賴振動",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42184708/",
@@ -195,16 +195,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[NA] my.naviGATE：青少年和年輕人治療後效果指南",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：丹娜法伯癌症研究所｜這項研究旨在為患有癌症的青少年和年輕人（AYA）設計和測試一種新穎的個性化數字幹預措施-my.naviGATE。 my.naviGATE 是一款行動應用程序，可提供個人化的生存教育、存取虛擬同儕導航",
+      "title": "my.naviGATE：青少年及年輕成人治療後遺症指引",
+      "summary": "狀態：尚未招募｜主辦：丹娜法伯癌症研究院｜本研究旨在為青少年及年輕成人設計並測試一套創新的個人化數位介入方案 my.naviGATE。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-19",
       "url": "https://clinicaltrials.gov/study/NCT07516353",
       "lang": "zh-TW"
     },
     {
-      "title": "[第2階段]多系統萎縮症患者的自體幹細胞治療",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Biocells Medical｜這項研究調查了自體幹細胞治療多系統萎縮症（MSA）患者的安全性和有效性，MSA 是一種罕見的進行性神經退化性疾病，以自主神經衰竭、帕金森氏症和小腦性共濟失調為特徵。",
+      "title": "二期臨床試",
+      "summary": "",
       "source": "ClinicalTrials.gov｜Poland",
       "date": "2026-06-19",
       "url": "https://clinicaltrials.gov/study/NCT07465198",
@@ -227,8 +227,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 1 期、第 2 期] 一項評估卵巢癌和其他晚期惡性腫瘤免疫療法治療的研究。",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：芝加哥大學｜這項 I/IIA 期試驗研究了基因修飾 T 細胞在聯合或不聯合地西他濱給藥時的副作用和最佳劑量，並觀察它們在治療表達癌症睪丸抗原的惡性腫瘤患者方面的效果如何。",
+      "title": "[臨床一/二期] 評估卵巢癌及其他晚期惡性腫瘤的免疫療法",
+      "summary": "狀態：尚未招募｜主辦：芝加哥大學｜這項臨床一/二A期試驗，旨在研究基因改造T細胞與其他療法併用時的副作用與最佳劑量。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-19",
       "url": "https://clinicaltrials.gov/study/NCT07389239",
@@ -259,19 +259,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "歷史性的生物技術 首次公開上市（IPO）、默克、Protillion 的人工智慧交易、測試拉沙狂犬病疫苗",
-      "summary": "在這一集 GEN 的 Touching Base 中，編輯們談論了 Parabilis Medicines 突破性的 首次公開上市（IPO） 成績、新的默克合作、首個人類拉沙-狂犬病疫苗數據、基因剪輯技術（CRISPR） 如何攻擊癌細胞，以及用於 DMD 治療的 信使RNA（mRNA） 傳遞。\n釷",
+      "title": "具里程碑意義的生技公司首次公開募股（IPO）、默克藥廠、Protillion的AI合作案，以及拉薩熱與狂犬病疫苗測試",
+      "summary": "在GEN的「觸及基地」節目中，編輯們討論了Parabilis Medicines具突破性的首次公開募股（IPO）表現、默",
       "source": "GEN News",
       "date": "2026-06-18",
       "url": "https://www.genengnews.com/topics/infectious-diseases/historic-biotech-ipo-merck-protillions-ai-deal-testing-a-lassa-rabies-vaccine/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "臨床試驗綜述：2026 年 3 月和 4 月",
-      "summary": "",
-      "source": "pharmaphorum",
-      "date": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ONXp4SjZ5b05NTlJmbGJac1pIRks5VzNDa2JfTU15TGdpOXFQOWlyQV8xM3NIM2lwbkZHdXg4eXR6cGxLZU9rU3RMMEdDYVd4LWszX3pHMnVDalZVUDE1YUFMdS1LNXM3dlBVczdfdmRKRmp6bU5RR2pB?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -280,6 +272,14 @@
       "source": "Stock Titan",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFdiSkNlY1pQdXRPQ0x0NDl2VGYyd19qYVZlR192TjNVbF9QM21LZHBsVUgzVGNyMW5HS0xGZ2RLU1F3bktfRFgtSFFSWmRRWnQ3ekxXMlJLMDBmZllwRTczZEZScXI0cXh5dDU5X0xZSlpFMVdCQXF1dXZJNURJMDRxWllLdzlXMkFKdGlhOU5pZ1BySjNFQ19VVExNc2M0MlJhRmpaQmMwNTdENDZ3eA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "臨床試驗綜述：2026 年 3 月和 4 月",
+      "summary": "",
+      "source": "pharmaphorum",
+      "date": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ONXp4SjZ5b05NTlJmbGJac1pIRks5VzNDa2JfTU15TGdpOXFQOWlyQV8xM3NIM2lwbkZHdXg4eXR6cGxLZU9rU3RMMEdDYVd4LWszX3pHMnVDalZVUDE1YUFMdS1LNXM3dlBVczdfdmRKRmp6bU5RR2pB?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -300,15 +300,15 @@
     },
     {
       "title": "美國食藥局（FDA） 要求對 AMT-130 進行全面試驗後，uniQure 轉向英國監管途徑，計劃於 2026 年第三季提交申請",
-      "summary": ", uniQure pivots to UK regulatory pathway with Q3 2026 filing planned eciks.org",
+      "summary": ", uniQure 轉向英國監管路徑，計劃於 2026 年第三季提交文件 eciks.org",
       "source": "eciks.org",
       "date": "2026-06-17",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tMGp5ZEhPRUN3Rnk1LUFBRG9sMkxhNlFGakVVenpnbVRCTWtOOVhfd29HRGtMbGd2bVROQmYyMjA4dU85bDJUSnA3RE5jVmpfWnBGN0ZTeXJYV051LXJzNnA3dWNVR0o0emhPVU51eXJDbXM?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "World Fetal Bovine Serum 外泌體-Depleted - Market Analysis, Forecast, Size, Trends and Insights",
-      "summary": "d - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
+      "title": "世界胎牛血清外泌體移除 - 市場分析、預測、規模、趨勢與見解",
+      "summary": "d - 市場分析、預測、規模、趨勢和見解 IndexBox",
       "source": "IndexBox",
       "date": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUp2QW0tVFFVNHVyakVsdGdtb2JiNXhHbjVwTFpMTVBONmlSVm4wMFVuZVRfaTJNTm1IRjVhQXBhTFYzUHpLeFlpNnRaV3BfeVZaRkFMeXNyZWdQeC1sdVJucUUwUnZ5VGxHRE50NmxzZU1iaVpnWmVtQmxzWGJhMWxKMzBHUlRaWUFGSjZFX3RoaFhMNnFaMUd1NEpSdVNJS3VXZWQ3Z2hkSUgwdmF3Y2JETUpRZWRPdnlBdzlfY21oMmVWdDE0dWQxcnNHZlpBS0hV?oc=5",
@@ -355,7 +355,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Emerging therapies for CNS tumours: key 臨床試驗 updates to watch at ASCO 2026",
+      "title": "CNS 腫瘤的新興療法：ASCO 2026 值得關注的關鍵臨床試驗更新",
       "summary": "ASCO 2026 製藥技術值得關注的臨床試驗更新",
       "source": "Pharmaceutical Technology",
       "date": "2026-06-02",

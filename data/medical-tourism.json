@@ -1,10 +1,10 @@
 {
   "module": "tourism",
-  "updated": "2026-06-19T14:04:19.187198+00:00",
+  "updated": "2026-06-20T00:00:38.509600+00:00",
   "items": [
     {
-      "title": "三星醫療中心在癌症、呼吸道與消化道照護領域榮登亞太區榜首",
-      "summary": "根據東亞科學報導，三星醫療中心在癌症、呼吸道與消化道疾病照護方面，位居亞太區第一。",
+      "title": "三星醫療中心在癌症、呼吸系統和消化系統護理領域中位居亞太地區榜首",
+      "summary": "rankings in cancer, respiratory and digestive care 동아사이언스",
       "source": "동아사이언스",
       "date": "2026-06-17",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MU0pkVS1oY3FxbHF3TGNyZDJkNW56WjlMVnlLSHk0SU01eG1abi13OEV5cWQwUGFQQWZQdVNMZ0Y1UmNGYjRnY21zMWI1NkZKeF9mcg?oc=5",
@@ -19,19 +19,27 @@
       "lang": "zh-TW"
     },
     {
-      "title": "跳脫中日框架：生技製藥業如何擴大亞太地區罕見疾病治療的可近性",
-      "summary": "生技製藥業者正積極拓展亞太區罕見疾病市場，不再僅限於中國與日本，以提升治療可近性。",
+      "title": "Beyond China and Japan: How biopharma is expanding rare disease access across Asia-Pacific",
+      "summary": "擴大亞太地區罕見疾病的取得範圍 Fierce Pharma",
       "source": "Fierce Pharma",
       "date": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHRDT2xYdG9XYTZMTXVIcWctd0pfbk13eHMwZ0hkMG1CN3ZjTVREdm1UYjk1dUJxQlZteXA4aE5DUG83OHF2N0ROOUJyMmVTZ2JOSzBFSWxFNEJIb0xLbnl5bWEweDEwNGdHamtLZlI5ZExqbGlmZmtkelpZc1JScHZ6VlVjWXJ3X3dTYVJHN2c4dXg3S1ZpYTR5dTNrX3M5QWdac2dEVHA3VzhjUkV0dXBZdFYtdEFTTFVMVk94bk1HNVk?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BTS熱潮帶動加州需求增長：韓國皮膚再生診所宣布進駐",
-      "summary": "韓國皮膚再生診所宣布進駐加州市場，搶攻BTS熱潮帶動的商機。",
+      "title": "California Demand Rises After BTS Boom: Korea Skin Rejuvenation Clinic Announced",
+      "summary": "Korea Skin Rejuvenation Clinic Announced FinancialContent",
       "source": "FinancialContent",
       "date": "2026-06-13",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUVqcDNXVmd1allkNGlvNTcyY2UtUzdrYzUtLWljTXhmWEJyd1Zjb1lYV1Q1ZlVrTjNQZ09xcjVnSzNyanZOOGpmcnV6MVBmTzhRY2czc2dqYk5hWGhJNHJwZ21EcEtnMjZDd1dxQ2piWVI4YTE4UjVaeUVuRS1UZHZhcUg2c01jX0FVTXJKZ243NTVnaXZLejEzVDEyWXZPczJBamRHbEVxV29wTGtvelFvUzdfeFZvblVMdlFYQUJlemVQQUtaQXRqZDlNLUJRNngtaS1zYTNldWRhZmc?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Korea 幹細胞 Skin Rejuvenation for Las Vegas Beauty: Lydian Clinic Announced",
+      "summary": "s Vegas Beauty: Lydian Clinic Announced FinancialContent",
+      "source": "FinancialContent",
+      "date": "2026-06-13",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVU4yUGhkSHd0MjlWaUg4SXRrRU8yVGYzTklCbmViN0FOcHFoRzM0TGY0Nml3T1doZHNTNUZzNzhaamt2cTVaclRzYldOQkFQWHVMa1ZRekI4X1gyaXV5TEdsTU52Y2dlcFRvX3ZCRkFWUjV6SExwdF9YUEktNjNxWlFURGxuMDI1V0t6QVpqRW1MUTNialBockJ4aE1jX3dpOXVCOVg4ejh5U1I4S2VpbDhhQ2lLVjdEVThXZ2pXSjVUT2lwa0FLSXJjNUNXZGFQa1JSSi1SXzBFZDVQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -43,15 +51,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "套細胞淋巴瘤鞏固性療法之治療演進與存活率影響：亞太區真實世界登錄資料的洞察",
-      "summary": "《自然》期刊報導，亞太區真實世界數據揭示套細胞淋巴瘤鞏固性療法的治療進展及其對患者存活率",
+      "title": "套細胞淋巴瘤鞏固療法的治療進展和生存影響：來自亞太地區真實世界登記的見解",
+      "summary": "套細胞淋巴瘤鞏固療法的效果：來自亞太地區真實世界註冊的見解 Nature",
       "source": "Nature",
       "date": "2026-05-29",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jZWlnTDVhMG5XbzVkdXdNTXJBdGtCM3hHd3lfa2lsVjRQZWVkbVVwS3pvY1hDNHBHRmQ1YmlrTTR1V2ZoQnFDVllCUnN1OWtJNmhuN05yRlMydDZqNW9n?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Celebs Are Flying Overseas for This Pricey Anti-Aging Procedure",
+      "title": "明星們紛紛飛往海外接受這種昂貴的抗衰老手術",
       "summary": "ey 抗老程序 The Daily Beast",
       "source": "The Daily Beast",
       "date": "2026-05-23",
