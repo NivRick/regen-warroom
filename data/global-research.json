@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-06-20T12:27:21.903288+00:00",
+  "updated": "2026-06-20T23:59:54.773137+00:00",
   "items": [
     {
-      "title": "腸道菌相與代謝物如何影響免疫細胞在腫瘤中的時空動態",
-      "summary": "癌症是人類健康的一大威脅。免疫反應在清除癌細胞上扮演關鍵角色，這塊領域也越來越受到重視。",
+      "title": "腸道菌相與代謝物驅動的免疫細胞時空動態對腫瘤的影響",
+      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除腫瘤細胞方面扮演關鍵角色，越來越受到關注。",
       "source": "PubMed",
       "date": "2026-06-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42207498/",
       "lang": "zh-TW"
     },
     {
-      "title": "離體光熱預處理高濃度血小板",
+      "title": "光熱預處理高濃度血小板血漿（PRP",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-20",
@@ -67,15 +67,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "創新耳廓重建術：利用可控支架彎曲與含肌肉源細胞的軟骨生成配方",
-      "summary": "組織工程耳廓面臨植入物機械強度不足、幹/前驅細胞量不夠等挑戰。",
+      "title": "利用控制支架彎曲與含肌肉來源細胞的軟骨生成複合配方進行非傳統耳廓重建",
+      "summary": "組織工程耳廓面臨多重挑戰，包括植入物機械強度不佳、幹細胞或前驅細胞數量不足，以及其他尚未釐清的因素。",
       "source": "PubMed",
       "date": "2026-06-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42318054/",
       "lang": "zh-TW"
     },
     {
-      "title": "黏彈性懸浮培養新策略：調控血管",
+      "title": "一種",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-20",
@@ -84,7 +84,7 @@
     },
     {
       "title": "具有異質細胞和柔性可灌注血管的皮瓣組織的 3D 生物列印。",
-      "summary": "尽管生物制造取得了进步，但用异质细胞制造大规模血管化组织仍然是一项艰巨的挑战。为了应对这一挑战，提出了逆向工程结构化组织（REST）三维（3D）生物打印方法。該策略使...",
+      "summary": "儘管生物製造取得了進步，但用異質細胞製造大規模血管化組織仍然是一項艱鉅的挑戰。為了應對這項挑戰，提出了逆向工程結構化組織（REST）三維（3D）生物列印方法。該策略使...",
       "source": "PubMed",
       "date": "2026-06-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42281783/",
@@ -107,7 +107,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "From blueprint to build: Metal ions in peripheral nerve development and engineering regeneration.",
+      "title": "從藍圖到建構：週邊神經發育和工程再生中的金屬離子。",
       "summary": "週邊神經損傷 (PNI) 造成了巨大的全球健康負擔，每年影響超過 2000 萬人，且經常出現恢復不佳和持續殘疾的情況。自體神經移植的固有局限性，例如供體部位發病率和供應有限，強調了臨床...",
       "source": "PubMed",
       "date": "2026-06-20",
@@ -131,15 +131,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "利用去細胞化脾臟基質，在人類血管類器官中分化出小動脈與微血管",
-      "summary": "血管類器官在心肌梗塞後促進血管新生方面展現巨大潛力，但目前培養方法僅能形成微血管。",
+      "title": "人體血管類器官在去細胞化脾臟基質中動脈與微血管的分化研究",
+      "summary": "血管類器官在促進心肌梗塞後的血管新生方面潛力巨大，但現有培養技術僅能形成微血管。",
       "source": "PubMed",
       "date": "2026-06-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42232747/",
       "lang": "zh-TW"
     },
     {
-      "title": "強調電紡束在",
+      "title": "探討電紡纖維束在",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-20",
@@ -195,16 +195,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[未標示期別] my.naviGATE：青少年及年輕成人治療後影響指南",
-      "summary": "狀態：尚未開始招募｜主辦單位：丹娜法伯癌症研究院｜本研究旨在設計並測試一套創新的個人化數位介入方案 my.naviGATE，以協助青少年及年輕成人。",
+      "title": "[NA] my.naviGATE：青少年及年輕成人治療後影響指南",
+      "summary": "狀態：尚未招募｜主辦：丹娜法伯癌症研究院｜本研究旨在為青少年及年輕成人設計並測試一套創新的個人化數位介入方案 my.naviGATE。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-20",
       "url": "https://clinicaltrials.gov/study/NCT07516353",
       "lang": "zh-TW"
     },
     {
-      "title": "[第2階段]多系統萎縮症患者的自體幹細胞治療",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Biocells Medical｜這項研究調查了自體幹細胞治療多系統萎縮症（MSA）患者的安全性和有效性，MSA 是一種罕見的進行性神經退化性疾病，以自主神經衰竭、帕金森氏症和小腦性共濟失調為特徵。",
+      "title": "[PHASE",
+      "summary": "",
       "source": "ClinicalTrials.gov｜Poland",
       "date": "2026-06-20",
       "url": "https://clinicaltrials.gov/study/NCT07465198",
@@ -227,8 +227,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第一/二期臨床試驗：評估卵巢癌及其他晚期惡性腫瘤的免疫療法",
-      "summary": "狀態：尚未開始招募｜主辦：芝加哥大學｜這項第一/二期臨床試驗旨在評估基因改造T細胞與其他療法併用時的副作用和最佳劑量。",
+      "title": "[第一期, 第二期臨床試驗] 評估卵巢癌及其他晚期惡性腫瘤的免疫療法",
+      "summary": "狀態：尚未開始招募｜主辦單位：芝加哥大學｜這項第一/二A期臨床試驗旨在評估基因改造T細胞（gene-modified T cells）與",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-20",
       "url": "https://clinicaltrials.gov/study/NCT07389239",
@@ -259,8 +259,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生技業里程碑式首次公開募股、默克、Protillion的AI合作案，以及拉薩狂犬病疫苗試驗",
-      "summary": "在GEN的Touching Base節目中，編輯們討論了Parabilis Medicines創紀錄的首次公開募股（IPO）成績、默克（Merck）一項新的合作案",
+      "title": "歷史性生技募資案、默克與Protillion人工智慧（AI）合作、拉薩熱與狂犬病疫苗試驗",
+      "summary": "本期GEN節目討論Parabilis藥廠的首次公開募股（IPO）創紀錄、默克新合作、Protillion的人工智慧（AI）交易，以及拉",
       "source": "GEN News",
       "date": "2026-06-18",
       "url": "https://www.genengnews.com/topics/infectious-diseases/historic-biotech-ipo-merck-protillions-ai-deal-testing-a-lassa-rabies-vaccine/",
@@ -275,19 +275,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗綜述：2026 年 3 月和 4 月",
-      "summary": "",
-      "source": "pharmaphorum",
-      "date": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ONXp4SjZ5b05NTlJmbGJac1pIRks5VzNDa2JfTU15TGdpOXFQOWlyQV8xM3NIM2lwbkZHdXg4eXR6cGxLZU9rU3RMMEdDYVd4LWszX3pHMnVDalZVUDE1YUFMdS1LNXM3dlBVczdfdmRKRmp6bU5RR2pB?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Longeveron 獲得 AAIC 阿茲海默症幹細胞數據海報位置",
       "summary": "海默的幹細胞數據 Stock Titan",
       "source": "Stock Titan",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFdiSkNlY1pQdXRPQ0x0NDl2VGYyd19qYVZlR192TjNVbF9QM21LZHBsVUgzVGNyMW5HS0xGZ2RLU1F3bktfRFgtSFFSWmRRWnQ3ekxXMlJLMDBmZllwRTczZEZScXI0cXh5dDU5X0xZSlpFMVdCQXF1dXZJNURJMDRxWllLdzlXMkFKdGlhOU5pZ1BySjNFQ19VVExNc2M0MlJhRmpaQmMwNTdENDZ3eA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "局長國家優先審查憑證（CNPV）試辦計畫",
+      "summary": "美國FDA推出局長國家優先審查憑證（CNPV）試辦計畫。",
+      "source": "fda.gov",
+      "date": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -299,8 +299,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥署（FDA）要求AMT-130進行完整臨床試驗後，uniQure轉向英國法規途徑，預計2026年第三季提交申請",
-      "summary": "因美國食藥署（FDA）要求完整試驗，uniQure將AMT-130轉向英國法規途徑，目標2026年第三季提交申請。",
+      "title": "美國FDA要求AMT-130進行完整臨床試驗後，uniQure轉向英國法規途徑，預計2026年第三季提交申請",
+      "summary": "uniQure因FDA要求AMT-130完整試驗，轉向英國法規途徑，預計2026年Q3提交申請。",
       "source": "eciks.org",
       "date": "2026-06-17",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tMGp5ZEhPRUN3Rnk1LUFBRG9sMkxhNlFGakVVenpnbVRCTWtOOVhfd29HRGtMbGd2bVROQmYyMjA4dU85bDJUSnA3RE5jVmpfWnBGN0ZTeXJYV051LXJzNnA3dWNVR0o0emhPVU51eXJDbXM?oc=5",
@@ -308,7 +308,7 @@
     },
     {
       "title": "全球去外泌體胎牛血清市場分析、預測、規模、趨勢與洞察",
-      "summary": "本報告深入分析全球去外泌體胎牛血清市場，涵蓋規模、趨勢、預測及產業洞察。",
+      "summary": "全球去外泌體胎牛血清市場報告，涵蓋分析、預測、規模與趨勢。",
       "source": "IndexBox",
       "date": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUp2QW0tVFFVNHVyakVsdGdtb2JiNXhHbjVwTFpMTVBONmlSVm4wMFVuZVRfaTJNTm1IRjVhQXBhTFYzUHpLeFlpNnRaV3BfeVZaRkFMeXNyZWdQeC1sdVJucUUwUnZ5VGxHRE50NmxzZU1iaVpnWmVtQmxzWGJhMWxKMzBHUlRaWUFGSjZFX3RoaFhMNnFaMUd1NEpSdVNJS3VXZWQ3Z2hkSUgwdmF3Y2JETUpRZWRPdnlBdzlfY21oMmVWdDE0dWQxcnNHZlpBS0hV?oc=5",
@@ -323,8 +323,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫學市場規模預計2035年將突破234.85億美元，受惠於人工智慧（AI）、幹細胞療法和3D生物列印技術革新醫療保健",
-      "summary": "再生醫學市場規模預計2035年將達234.85億美元，由AI、幹細胞療法及3D生物列印技術推動。",
+      "title": "再生醫學市場規模預計2035年將突破234.85億美元，人工智慧（AI）、幹細胞療法和3D生物列印將革新醫療保健",
+      "summary": "再生醫學市場規模預計2035年將達234.85億美元",
       "source": "BioSpace",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMzViY0hJS2JZVXpONklyNnh2ZzViTHZjSUlaZEhPLWoxNHUwVzhQNXEyYUJNMkR3RGxCa2pnaWxBb2RlYUxiNzR4dHc4U2FLSGpnT1JEY2t1aDRfWmxhaGV2SGUtVl9QTmNXVzYwbGZrLTQzMGZjTlBac1YwRXY0eDBNdUpKeS1wV29zWWwzb004NEViMFJkY2JSelprWl9LN0l0ZGUtckZRVEhwOUd5Y2Y1SDhrRjhSWVFVZjlSaWhlcWVLWFBEajVzUlJicGh1RHp6XzE0V25SVGRWVEY1TDFBRTFDWURnZldtdk05aWoyTnVMSFp2QWI1dXczam1SLTV3M2Z6OEd4MTg?oc=5",
@@ -347,8 +347,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "百健（Biogen）的Salanersen獲美國食藥署（FDA）突破性療法認定，用於治療脊髓性肌肉萎縮症",
-      "summary": "百健（Biogen）的Salanersen新藥，獲美國食藥署（FDA）突破性療法認定，有望加速脊髓性肌肉萎縮症的治療進程。",
+      "title": "渤健（Biogen）的Salanersen獲美國FDA突破性療法認定，用於脊髓性肌肉萎縮症",
+      "summary": "渤健（Biogen）的Salanersen獲美國FDA突破性療法認定，治療脊髓性肌肉萎縮症。",
       "source": "Biogen",
       "date": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaGx4ZTZ1RzRyVTJIeEZxSk9hdzBndzFxS2ZITzR6U2tVd2tfOUNPRGprNUFTMURKbnB0OHYxNTcyOUs5RVl5cTM5Q3ZGQXlUanA5aHRzdm5fRlp1SDlFQzBsdXpjMHVFc2tiNFNQd0RzUmhuZEJxNkRRUHJXN015VVhJSmlRWEJjbWltQjNmS2JsaFJPZ3ZWcXZxTW9Dd09ZMHpWX0NrRjVIUUdxVHd5WDFnekVBNDNRYnNBTV8tQkN0QXZWekZF?oc=5",
@@ -360,6 +360,14 @@
       "source": "Pharmaceutical Technology",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZThSQXFUSWRFd3Zvd3Y4LUVpdW01ODVCX3ctWHRBQ1hXUk1XYTlXOGNkUW9wWFpjZ3JCNGhPclgzTDBqXzRQeGQ0aXhHVnd0LU9jbTE0TGFhRlFEMXZqdDBrcTZ4R05qZFlGY2J3VnBrdEZnZVItMDlobVoyeml5ZGg1RkxIWTQ4cWktV0J1WVFtTFJ3aENBQy1iTWZZZzd3?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "脊髓損傷幹細胞治療註冊臨床試驗的全球概況：橫斷面分析",
+      "summary": "幹細胞療法治療脊髓損傷的試驗：橫斷面分析 Frontiers",
+      "source": "Frontiers",
+      "date": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMUYwTGlOLU9VSDlVdlhUVHpmYWFQRTZDWmkwc09sVFlTX2dRZGJlbTNmNXNsYnZLLUlVWXg3WGl4cVhYdG9Oa3lhUUp6YVZXWjFtRjBhRWg3N3R2N1FsY0J4T1BmLTVKTUpfcElKMGgyTjNIX3lDc2FUdUdvdEZYZi1KME9SNGFxRzlRMFBLVUE?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -381,7 +389,7 @@
     {
       "title": "[第 1 期、第 2 階段] CTX112 在患有復發/難治性血液學自體免疫疾病的成人參與者中的安全性和初步療效",
       "summary": "狀態：招募中｜主辦單位：基因剪輯技術（CRISPR） Therapeutics AG｜這是一項單臂、開放標籤、多中心、劑量遞增的 1/2 期試驗，評估 CTX112 或 Zugocabtagene geleucel (zugo-cel) 在患有復發/難治性原發性免疫性血小板減少症的成年療效",
-      "source": "ClinicalTrials.gov｜United States, Spain",
+      "source": "ClinicalTrials.gov｜Spain, United States",
       "date": "2026-06",
       "url": "https://clinicaltrials.gov/study/NCT07549698",
       "lang": "zh-TW"
@@ -392,14 +400,6 @@
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06",
       "url": "https://clinicaltrials.gov/study/NCT07281924",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[第一階段] 幹細胞動員和血漿分離術治療危及生命的血液疾病",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：St.聖裘德兒童研究醫院｜本研究的目的是調查使用粒細胞集落刺激因子（也稱為非格司亭）聯合普樂沙福對骨髓衰竭綜合徵（BMFS）患者的 HSPC 的動員和收集，以證明其安全性",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-06",
-      "url": "https://clinicaltrials.gov/study/NCT07585136",
       "lang": "zh-TW"
     }
   ]
