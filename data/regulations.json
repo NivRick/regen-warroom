@@ -1,9 +1,17 @@
 {
   "module": "regulation",
-  "updated": "2026-06-21T13:05:23.218883+00:00",
+  "updated": "2026-06-22T00:05:33.688355+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
+      "title": "StockWatch：積極的第三階段數據讓投資人青睞 Intellia",
+      "summary": "這些數據足以讓 Intellia 繼續從 4 月開始的滾動生物製劑許可申請 (BLA) 提交。該公司預計在年底前完成 BLA 備案，並希望獲得 美國食藥局（FDA） 批准並在 2019 年推出 lonvo-z。",
+      "source": "GEN News",
+      "date": "2026-06-21",
+      "url": "https://www.genengnews.com/topics/translational-medicine/stockwatch-positive-phase-iii-data-sells-investors-on-intellia/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑最新動態",
       "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-06-18",
@@ -11,16 +19,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA生物製劑評估與研究中心（CBER）2026年孤兒藥核准（新生物製劑許可申請）",
-      "summary": "",
+      "title": "CBER 2026年孤兒藥核准狀況（新生物製劑許可申請）",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）公布2026年孤兒藥核准清單，重點聚焦於新提交的生物製劑許可申請（BLA），揭示未來罕見疾病治療的發展趨勢。",
       "source": "FDA Biologics",
       "date": "2026-06-18",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
       "lang": "zh-TW"
     },
     {
-      "title": "佐爾根斯瑪",
-      "summary": "(onasemnogene abeparvovec-xioi) 是一種基於腺相關病毒載體的基因療法，適用於治療 2 歲以下患有脊髓性肌肉萎縮症 (SMA) 的兒科患者，該患者的存活運動神經元存在雙等位基因突變",
+      "title": "ZOLGENSMA",
+      "summary": "ZOLGENSMA（onasemnogene abeparvovec-xioi）是一種腺相關病毒載體基因療法，主要用於治療兩歲以下的小兒科病患。",
       "source": "FDA Biologics",
       "date": "2026-06-18",
       "url": "http://www.fda.gov/vaccines-blood-biologics/zolgensma",
@@ -28,7 +36,7 @@
     },
     {
       "title": "BioCardia 致股東關於 2026 年優先事項和策略機會的信函",
-      "summary": "優先事項和戰略機遇 GlobeNewswire",
+      "summary": "Priorities and Strategic Opportunities GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeU4yeTBJUTYxc0NOWk8tbFFyX3ZBNGNCQlJpRGhMS3E3T3Q0MnlQSWxDLWhsWWdxWVlVTG5EdDF2NndKc095NXdta0E4SW1mN2RWMFc3Q3IwY3ZYN1FTQTdPQVBuWnMwXzN1dmNFOUxETGNybXV6TDNwcjBBemxWU0QwTm51VllCX0lEZS1tTFFXNldoVko5MGFjVXVCWEQ1emNvTnBFUGdnV1FNVUZKa2tJdXEwU3l3Q3hwRVh6LXN1emJVcTRvazktVVpKMlB4LUd3OTQ5YTM1Q2Jjc0xHWXQzWjMyQQ?oc=5",
@@ -43,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "OTP Town Hall：準備細胞和基因治療產品 BLA 提交的最佳實踐",
-      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 6 月 4 日舉辦下一次虛擬市政廳會議。在本次市政廳會議期間，來自 OTP 審查管理和監管審查辦公室 (ORMR) 的專家",
+      "title": "OTP線上座談會：細胞與基因療法產品生物製劑許可申請（BLA）的最佳實務",
+      "summary": "美國食品藥物",
       "source": "06/04/2026",
       "date": "2026-06-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
