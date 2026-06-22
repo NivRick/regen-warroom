@@ -1,77 +1,85 @@
 {
   "module": "funding",
-  "updated": "2026-06-22T00:06:03.140675+00:00",
+  "updated": "2026-06-22T15:51:16.547060+00:00",
   "items": [
     {
-      "title": "STAT+：CMS 再次重新計算 Medicare Advantage 星級評級，增加了計劃的波動性",
-      "summary": "獲得五顆星中的四顆星或以上的 Medicare Advantage 計劃將獲得獎金，今年獎金已飆升至 160 億美元。",
+      "title": "STAT+：又一樁大交易，生技產業併購潮回歸的訊號",
+      "summary": "藥廠艾伯維（AbbVie）收購Apogee Therapeutics、迷幻藥（LSD）療法的第三期臨床試驗結果，以及《The Readout》更多生技新聞。",
       "source": "STAT News",
-      "date": "2026-06-18",
-      "url": "https://www.statnews.com/2026/06/18/medicare-advantage-star-ratings-recalculated-volatility-industry-lawsuits/?utm_campaign=rss",
+      "date": "2026-06-22",
+      "url": "https://www.statnews.com/2026/06/22/biotech-news-another-big-deal-another-sign-ma-is-back/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Biogen 以 10 億美元收購秘密新創公司 RayThera，增加更多免疫藥物",
-      "summary": "儘管 RayThera 獲得的專利提供了重要線索，但兩家公司並沒有具體說明百健（Biogen）在交易中收購的藥物。",
+      "title": "STAT+：艾伯維 (AbbVie) 以近 11B 美元的交易收購 Apogee Therapeutics",
+      "summary": "艾伯維 (AbbVie) 以近 11B 美元的價格收購了實驗性異位性皮膚炎藥物的開發商 Apogee Therapeutics，繼續進行一系列製藥收購。",
+      "source": "STAT News",
+      "date": "2026-06-22",
+      "url": "https://www.statnews.com/2026/06/22/abbvie-apogee-acquisition-immunology-zumilokibart/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+： 美國食藥局（FDA） 在拒絕後改變了 Regenxbio 兒童基因治療的進程",
+      "summary": "美國食藥局（FDA） 將重新考慮批准 Regenxbio 的實驗性基因療法，用於治療一種致命且罕見的兒童腦部疾病，而就在四個月前，美國食藥局（FDA） 也拒絕了這項療法。",
+      "source": "STAT News",
+      "date": "2026-06-22",
+      "url": "https://www.statnews.com/2026/06/22/fda-reverses-course-regenxbio-gene-therapy-navsunli-hunter-syndrome/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "健康公平研究人員擔心白宮提案將受到前所未有的審查",
+      "summary": "Health disparities researchers say a new White House proposal could disqualify much of their work from federal funding — perhaps the most serious threat yet to the future of their",
+      "source": "STAT News",
+      "date": "2026-06-22",
+      "url": "https://www.statnews.com/2026/06/22/health-disparity-research-new-dei-rule-threat-nih-grants/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：製藥公司大舉花錢，匆忙搶購生技公司",
+      "summary": "製藥公司渴望達成交易，而且他們的收入比多年來更多。",
+      "source": "STAT News",
+      "date": "2026-06-22",
+      "url": "https://www.statnews.com/2026/06/22/pharma-biotech-ma-boom-2026-deals-total-123-billion/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "隨著 美國食藥局（FDA） 對另一項藥物拒絕的反悔，Regenxbio 將重新提交基因治療",
+      "summary": "該機構又邁出了一步，清理了馬卡里時代積壓的拒絕訂單，這些拒絕訂單似乎與先前與製藥商達成的協議相矛盾。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-22",
+      "url": "https://www.biopharmadive.com/news/regenxbio-fda-resubmit-hunter-syndrome-gene-therapy/823381/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "賽諾菲更換研發負責人；默克公司的普羅米修斯交易帶來了紅利",
+      "summary": "霍曼·阿什拉菲安 (Houman Ashrafian) 即將離開賽諾菲去尋找新的機會。在其他地方，默克公司的一款備受推崇的免疫藥物在一項關鍵研究中取得了成功，迷幻生技公司的股價也隨之飆升。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-22",
+      "url": "https://www.biopharmadive.com/news/sanofi-ashrafian-fontoura-merck-prometheus-definium-nura-bioarctic/823359/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "艾伯維 (AbbVie) 收購 Apogee，斥資近 11B 美元購買長效自體免疫藥物",
+      "summary": "艾伯維 (AbbVie) 五十多年來最大的一筆交易增加了一系列免疫疾病藥物（其中包括 Dupixent 的競爭對手），該公司相信這些藥物具有「超級重磅炸彈」的銷售潛力。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-22",
+      "url": "https://www.biopharmadive.com/news/abbvie-apogee-acquire-zumilokibart-eczema-drugs/823353/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Biogen斥資10億美元收購神秘新創RayThera，擴大免疫藥物版圖",
+      "summary": "儘管兩家公司並未明確指出Biogen在此次交易中取得哪些藥物，但RayThera已取得的專利提供了重要線索。",
       "source": "BioPharma Dive",
       "date": "2026-06-18",
       "url": "https://www.biopharmadive.com/news/biogen-raythera-deal-acquire-immune-drugs/823241/",
       "lang": "zh-TW"
     },
     {
-      "title": "輝瑞財務長辭職； Denali 出售監管快速通行證",
-      "summary": "目前正在尋找戴夫·丹頓的繼任者，戴夫·丹頓在製藥業以外的地方工作。在其他地方，一種新型杜興基因療法得到了創投的支持，葛蘭素史克的交易也帶來了紅利。",
+      "title": "輝瑞（Pfizer）財務長將卸任；Denali出售藥證加速審查權",
+      "summary": "輝瑞（Pfizer）財務長即將離職，而Denali則透過出售藥證加速審查權來獲利。",
       "source": "BioPharma Dive",
       "date": "2026-06-18",
       "url": "https://www.biopharmadive.com/news/pfizer-cfo-denali-spot-duchenne-novocure-utebzi/823169/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "卡迪根 (Kardigan) 延續了生技公司大規模 首次公開上市（IPO） 的勢頭，募資 4 億美元",
-      "summary": "根據 BioPharma Dive 的數據，包括心臟藥物開發商的發行在內，四家生物技術公司在 2026 年已籌集了至少 4 億美元的 首次公開上市（IPO） 資金，這是自 2021 年以來的單年最高金額。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-17",
-      "url": "https://www.biopharmadive.com/news/kardigan-ipo-price-biotech-myokardia-heart-drugs/822947/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "UniQure 將提交基因療法申請批准，反映 美國食藥局（FDA） 的重大轉變",
-      "summary": "這項決定標誌著繼 Marty Makary 和 Vinay Prasad 退出後監管的另一個大轉變，一些分析師認為 美國食藥局（FDA） 目前的領導層在某些情況下可能會更加靈活。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-17",
-      "url": "https://www.biopharmadive.com/news/uniqure-fda-gene-therapy-huntingtons-approval-filing-leadership/823163/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Jazz 與 AbCellera 達成交易，瞄準下一代 T 細胞參與者",
-      "summary": "這項可能耗資 40 億美元的合作是製藥商致力於擴大 T 細胞接合器用途的最新例子，到目前為止，除了某些血癌之外，該技術的成功有限。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-17",
-      "url": "https://www.biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "西湖支持的新生物技術瞄準偏頭痛",
-      "summary": "週三，Vedana Therapeutics 悄悄現身，斥資 4,600 萬美元支持其開發「抗 PACAP」療法的使命，這是一種越來越受歡迎的偏頭痛預防策略。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-17",
-      "url": "https://www.biopharmadive.com/news/vedana-migraine-stealth-launch-biotech-pacap/822960/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 募資追蹤報告 '26：Triveni Bio 募得 6,500萬美元；SonoThera 獲得 1.25億美元",
-      "summary": "Triveni Bio 募得 6,500萬美元，SonoThera 募得 1.25億美元，兩家生技公司近期募資表現亮眼。",
-      "source": "Fierce Biotech",
-      "date": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "禮來公司收購非鴉片類止痛藥製造商 4E",
-      "summary": "這是禮來公司一系列交易中的最新一筆，禮來公司在過去幾年中投入了超過 180 億美元的收購資金。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-16",
-      "url": "https://www.biopharmadive.com/news/lilly-4e-acquisition-non-opioid-pain-drugs/823016/",
       "lang": "zh-TW"
     }
   ]
