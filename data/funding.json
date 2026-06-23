@@ -1,18 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-06-23T13:39:46.050711+00:00",
+  "updated": "2026-06-23T23:48:47.254292+00:00",
   "items": [
     {
-      "title": "OpenEvidence將導入美國FDA核准的AI技術來偵測心臟疾病",
-      "summary": "本期STAT健康科技報導：OpenEvidence導入AI偵測心臟疾病，Cadence募資1億美元，以及更多產業動態。",
+      "title": "司法部宣布對數十億美元的醫療保健詐欺行為提出數百項指控",
+      "summary": "美國司法部指控德州一名醫生參與了價值 8,900 萬美元的醫療保健詐欺計劃，指控他向保險公司收取醫療上不必要的心血管篩檢測試費用。",
+      "source": "STAT News",
+      "date": "2026-06-23",
+      "url": "https://www.statnews.com/2026/06/23/texas-doctor-charged-fraud-case-cms-health-care-crackdown/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：OpenEvidence 將添加經 美國食藥局（FDA） 批准的 AI 來檢測心臟病",
+      "summary": "在本期 STAT Health Tech 中：OpenEvidence 增加了人工智慧來檢測心臟病，Cadence 籌集了 1 億美元等等。",
       "source": "STAT News",
       "date": "2026-06-23",
       "url": "https://www.statnews.com/2026/06/23/openevidence-fda-cleared-heart-disease-ai-health-tech/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Cadence募資1億美元，將以受",
-      "summary": "",
+      "title": "STAT+：Cadence 融資 1 億美元，利用受監管的人工智慧實現慢性病照護自動化",
+      "summary": "數位健康新創公司 Cadence 以 12.3 億美元的估值籌集了 1 億美元，用於擴大其慢性病管理計畫。",
       "source": "STAT News",
       "date": "2026-06-23",
       "url": "https://www.statnews.com/2026/06/23/cadence-100-million-raise-automate-chronic-care-ai/?utm_campaign=rss",
@@ -24,6 +32,22 @@
       "source": "STAT News",
       "date": "2026-06-23",
       "url": "https://www.statnews.com/2026/06/23/gene-editing-startup-serapha-bio-aatd/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Seagen 交易中獲得的輝瑞藥物在肺癌研究中令人失望",
+      "summary": "儘管一些分析師對該藥物在另一項試驗中的機會持樂觀態度，但這一挫折使輝瑞視為未來重要貢獻者的藥物前景黯淡。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-23",
+      "url": "https://www.biopharmadive.com/news/pfizer-sigvotatug-vedotin-lung-cancer-results-seagen/823501/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Cardigan 如何將交易剩餘資金轉化為 4 億美元的 首次公開上市（IPO）",
+      "summary": "執行長 Tassos Gianakakos 表示，MyoKardia 擁有的後期資產和強大的團隊確實引起了投資者的共鳴。 SpaceX 的巨額公開發行也沒有造成影響。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-23",
+      "url": "https://www.biopharmadive.com/news/how-kardigan-spun-deal-leftovers-into-a-400m-ipo/823524/",
       "lang": "zh-TW"
     },
     {
@@ -43,22 +67,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：艾伯維 (AbbVie) 以近 11B 美元的交易收購 Apogee Therapeutics",
-      "summary": "艾伯維 (AbbVie) 以近 11B 美元的價格收購了實驗性異位性皮膚炎藥物的開發商 Apogee Therapeutics，繼續進行一系列製藥收購。",
-      "source": "STAT News",
-      "date": "2026-06-22",
-      "url": "https://www.statnews.com/2026/06/22/abbvie-apogee-acquisition-immunology-zumilokibart/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+： 美國食藥局（FDA） 在拒絕後改變了 Regenxbio 兒童基因治療的進程",
-      "summary": "美國食藥局（FDA） 將重新考慮批准 Regenxbio 的實驗性基因療法，用於治療一種致命且罕見的兒童腦部疾病，而就在四個月前，美國食藥局（FDA） 也拒絕了這項療法。",
-      "source": "STAT News",
-      "date": "2026-06-22",
-      "url": "https://www.statnews.com/2026/06/22/fda-reverses-course-regenxbio-gene-therapy-navsunli-hunter-syndrome/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "隨著 美國食藥局（FDA） 對另一項藥物拒絕的反悔，Regenxbio 將重新提交基因治療",
       "summary": "該機構又邁出了一步，清理了馬卡里時代積壓的拒絕訂單，這些拒絕訂單似乎與先前與製藥商達成的協議相矛盾。",
       "source": "BioPharma Dive",
@@ -67,19 +75,27 @@
       "lang": "zh-TW"
     },
     {
-      "title": "賽諾菲（Sanofi）研發主管異動；默沙東（Merck）併購 Prometheus 案開始見效",
-      "summary": "賽諾菲研發主管 Houman Ashrafian 離職。同時，默沙東旗下的一款免疫藥物在關鍵性臨床試驗中取得成功。",
+      "title": "賽諾菲更換研發負責人；默克公司的普羅米修斯交易帶來了紅利",
+      "summary": "霍曼·阿什拉菲安 (Houman Ashrafian) 即將離開賽諾菲去尋找新的機會。在其他地方，默克公司的一款備受推崇的免疫藥物在一項關鍵研究中取得了成功，迷幻生技公司的股價也隨之飆升。",
       "source": "BioPharma Dive",
       "date": "2026-06-22",
       "url": "https://www.biopharmadive.com/news/sanofi-ashrafian-fontoura-merck-prometheus-definium-nura-bioarctic/823359/",
       "lang": "zh-TW"
     },
     {
-      "title": "艾伯維（AbbVie）將收購 Apogee，豪擲近 110 億美元押寶長效型自體免疫藥物",
-      "summary": "艾伯維將以近 110 億美元收購 Apogee，強化長效型自體免疫藥物產品線，其中包含 Dupixent 的潛在競爭者。",
+      "title": "艾伯維 (AbbVie) 收購 Apogee，斥資近 11B 美元購買長效自體免疫藥物",
+      "summary": "艾伯維 (AbbVie) 五十多年來最大的一筆交易增加了一系列免疫疾病藥物（其中包括 Dupixent 的競爭對手），該公司相信這些藥物具有「超級重磅炸彈」的銷售潛力。",
       "source": "BioPharma Dive",
       "date": "2026-06-22",
       "url": "https://www.biopharmadive.com/news/abbvie-apogee-acquire-zumilokibart-eczema-drugs/823353/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "source": "PharmTech.com",
+      "date": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     }
   ]

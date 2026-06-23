@@ -1,18 +1,26 @@
 {
   "module": "research",
-  "updated": "2026-06-23T13:38:28.679456+00:00",
+  "updated": "2026-06-23T23:47:44.951417+00:00",
   "items": [
     {
-      "title": "腸道菌群與代謝物驅動的免疫細胞時空動態對腫瘤的影響",
-      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除腫瘤細胞方面扮演關鍵角色，近年來受到越來越多關注。",
+      "title": "腸道菌群與代謝物如何驅動免疫細胞時空動態，進而影響腫瘤",
+      "summary": "癌症對人類健康構成重大威脅，而免疫反應在清除腫瘤細胞方面扮演關鍵角色。近年來，腸道菌群在其中扮演的角色日益受到關注。",
       "source": "PubMed",
       "date": "2026-06-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42207498/",
       "lang": "zh-TW"
     },
     {
-      "title": "梔子苷交聯明膠/聚乙烯醇",
+      "title": "奈米",
       "summary": "",
+      "source": "PubMed",
+      "date": "2026-06-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42332952/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "京尼平交聯明膠/PVA 水凝膠的特性和羥基酪醇的軟骨保護作用：體外研究。",
+      "summary": "骨關節炎 (OA) 提出了重大的治療挑戰，需要創新的生物材料策略來減少慢性發炎並促進軟骨再生。本研究開發了一種與京尼平 (GNP) 交聯的混合明膠 (GE)/聚乙烯醇 (PVA) 水凝膠，以有效...",
       "source": "PubMed",
       "date": "2026-06-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42331338/",
@@ -20,7 +28,7 @@
     },
     {
       "title": "SM03 是一種非消耗性抗 CD22 抗體，可調節 B 細胞活化和免疫串擾以減弱自體免疫。",
-      "summary": "To evaluate the disease-modifying potential of SM03, a novel humanized anti-CD22 monoclonal antibody, for B cell-mediated autoimmune diseases by investigating its mechanism for suppressing B cell dysregulation in autoimmune milieu.",
+      "summary": "透過研究 SM03（一種新型人源化抗 CD22 單株抗體）在自體免疫環境中抑制 B 細胞失調的機制，評估 SM03 對 B 細胞介導的自體免疫疾病的疾病緩解潛力。",
       "source": "PubMed",
       "date": "2026-06-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42327873/",
@@ -59,32 +67,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "透過按需高速雷射用熱滅活的細胞外基質蛋白進行微圖案神經誘導。",
-      "summary": "培養細胞中的微環境異質性會損害細胞質量，降低實驗重複性，並削弱細胞治療功效的信心。儘管微圖案細胞培養物更均質，但傳統的微圖案方法缺乏靈活性。",
+      "title": "微圖案化神經誘導：利用按需高速雷射與熱失活細胞外基質蛋白",
+      "summary": "透過微圖案化技術，結合高速雷射與熱失活蛋白，精準誘導神經細胞，提升培養品質與實驗再現性。",
       "source": "PubMed",
       "date": "2026-06-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42255491/",
       "lang": "zh-TW"
     },
     {
-      "title": "免疫學驅動奈米材料在免疫調節骨骼再生上的新見解：從基礎到生物功能",
-      "summary": "奈米材料因其奈米級特性，能精準給藥、調控細胞，在再生醫學領域日益受到重視。",
+      "title": "免疫學驅動",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42206776/",
       "lang": "zh-TW"
     },
     {
-      "title": "Sirt1基因轉殖可改善糖尿病引起的傷口癒合不良",
-      "summary": "糖尿病會嚴重影響傷口癒合，部分原因是持續性發炎、血管新生受損以及細胞反應失調。",
+      "title": "Sirt1 基因轉殖可改善糖尿病受損的傷口癒合。",
+      "summary": "糖尿病嚴重損害傷口癒合，部分原因是持續性發炎、血管生成受損和細胞反應失調。 Sirtuin-1 (Sirt1)，一種 NAD",
       "source": "PubMed",
       "date": "2026-06-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42327495/",
       "lang": "zh-TW"
     },
     {
-      "title": "結合人工智慧的類器官平台，實現生物活性金屬離子的高通量功能評估",
-      "summary": "類器官因能高度保留基因",
+      "title": "人工智慧整合的類器官平台可以對生物活性金屬離子進行高通量功能評估。",
+      "summary": "由於類器官能夠緊密保留原始組織的遺傳和表型特徵，因此已成為醫學研究中最具預測性的臨床前模型之一。儘管如此，在創新醫療器材（尤其是生物製品）系統評價中的應用...",
       "source": "PubMed",
       "date": "2026-06-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42327494/",
@@ -123,24 +131,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "使用仿肝微球進行機械預處理幹細胞治療，進行功能性肝臟修復。",
-      "summary": "肝細胞樣細胞（HLC）代表了一種有前景的急性肝衰竭（ALF）治療方法，為供應短缺的原代肝細胞提供了替代方案。鑑於肝臟的黏彈性組織特性以及對生理學和機械線索的日益認識...",
+      "title": "利用仿生肝臟微球進行機械預處理幹細胞療法，以修復肝臟功能",
+      "summary": "肝細胞樣細胞（HLCs）是治療急性肝衰竭（ALF）的潛力療法，可作為原代肝細胞的替代方案。",
       "source": "PubMed",
       "date": "2026-06-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42256889/",
       "lang": "zh-TW"
     },
     {
-      "title": "從藍圖到實現：金屬離子在周邊神經發育與再生工程的應用",
-      "summary": "周邊神經損傷（PNI）是全球嚴重的健康負擔，每年影響超過2千萬人，且復原狀況往往不盡理想。",
+      "title": "從藍圖到",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42318564/",
       "lang": "zh-TW"
     },
     {
-      "title": "開發血管化多",
-      "summary": "",
+      "title": "開發血管化多類器官晶片來模擬糖尿病心肌病變的心臟-胰島軸。",
+      "summary": "胰島和心臟之間的動態串擾在糖尿病性心肌病變 (DCM) 中發揮著至關重要但人們知之甚少的作用。在這裡，我們提出了一個血管化多類器官晶片平台，該平台能夠對人類 誘導型多能幹細胞（iPSC） 衍生的血管化心臟類器官（VC...",
       "source": "PubMed",
       "date": "2026-06-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42253918/",
@@ -152,14 +160,6 @@
       "source": "PubMed",
       "date": "2026-06-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42250479/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "基因治療的臨床前療效",
-      "summary": "功能喪失變異體",
-      "source": "PubMed",
-      "date": "2026-06-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42292914/",
       "lang": "zh-TW"
     },
     {
@@ -259,6 +259,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "ASCO 2026 小細胞肺癌的主要要點",
+      "summary": "ll 肺癌腫瘤學新聞中心",
+      "source": "Oncology News Central",
+      "date": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeS1nYjh0TERXYUJjdVdiNUloWUJPVVhMZERMQjgzcXVFUEdNUFk3elBjZVFHRmthQkp5dVA0NjV6V0NKRGc1WXMwUnZFSk5EcXNGM0Z2cGpnRjdwRTBKU2k0WWRJaWlrRjRPREJDYlpjN1d0ME5OLUcyU1NDaG5hb0Z2Y0JrcklETXlRMUxxZTVnd3JoNTNIa3EwZw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "INmune Bio 獲得 MHRA 對 2026 年英國罕見疾病申請的支持",
       "summary": "罕見病備案股票泰坦",
       "source": "Stock Titan",
@@ -280,14 +288,6 @@
       "source": "Barchart.com",
       "date": "2026-06-22",
       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOYzdzS2RZRE5aYm5RUTJuZE15dWlnQTg4NEQ3RnJIREdjOU9NNjBKb1Q5c1FnRjhTVDZUY1EzZl9rLXR0aEIzNTMzSWJfSVVVZGNTTDluY3Q2NDdLUXV0MjFPaUNKUGhGQzJSY1hwemRvZ0JkaG0zVkN0cWtuS2dSbmh6MmRDMlJtV054TW9WTGstM205MHp6QWYtLTNzRlFoUy1CVmR4Z2ozZWtBbXlXaGtMMkV5bnVVdnNOeWRHQzJoRk1vNTNPMTJSR2g4Z3ZSWDBHdUpVTFNFZmktV2hvdTA2M2JTRE5lZXJnazNyZ196N2FBYnJyZVcxSGh1amtJZ3FTVEg0bW5LbHVwNFMyUjNwLWNxUUdpR0ZhSGRKdmRNdk9mWks3RUFaaDhLSnZOY00wLVJia0ZKb0tDNzY4X04tem8zQ1FGMElJ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "具里程碑意義的生技公司首次公開募股（IPO）、默克（Merck）、Protillion的AI合作案，以及拉薩熱與狂犬病疫苗測試",
-      "summary": "在GEN的「觸及基地」節目中，編輯們討論了Parabilis Medicines具突破性的首次公開募股（IPO）",
-      "source": "GEN News",
-      "date": "2026-06-18",
-      "url": "https://www.genengnews.com/topics/infectious-diseases/historic-biotech-ipo-merck-protillions-ai-deal-testing-a-lassa-rabies-vaccine/",
       "lang": "zh-TW"
     },
     {
@@ -315,24 +315,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "全球去外泌體胎牛血清市場分析、預測、規模、趨勢與洞察",
-      "summary": "報告深入分析全球去外泌體胎牛血清市場，提供規模、趨勢與未來預測。",
+      "title": "全球去除外泌體胎牛血清市場：分析、預測、規模、趨勢與洞察",
+      "summary": "本報告深入剖析全球去除外泌體胎牛血清市場現況，涵蓋市場規模、未來趨勢與預測，提供產業洞察。",
       "source": "IndexBox",
       "date": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUp2QW0tVFFVNHVyakVsdGdtb2JiNXhHbjVwTFpMTVBONmlSVm4wMFVuZVRfaTJNTm1IRjVhQXBhTFYzUHpLeFlpNnRaV3BfeVZaRkFMeXNyZWdQeC1sdVJucUUwUnZ5VGxHRE50NmxzZU1iaVpnWmVtQmxzWGJhMWxKMzBHUlRaWUFGSjZFX3RoaFhMNnFaMUd1NEpSdVNJS3VXZWQ3Z2hkSUgwdmF3Y2JETUpRZWRPdnlBdzlfY21oMmVWdDE0dWQxcnNHZlpBS0hV?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "免疫活化可能決定雙標靶 CAR-T細胞療法 治療膠質母細胞瘤的成功",
-      "summary": "雙標靶 CAR-T細胞療法 療法治療膠質母細胞瘤的效果 Penn Medicine",
-      "source": "Penn Medicine",
-      "date": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGl6OE54X3NXY19qTEQyX2ZtR2NyelFWcGc4cUhTRkQxLU4yNDZobjBTS1FDeFcwNUtsNm9xUEhuYTZCWFBSNWpjUjgyUjBzek9pRHZGUHNZM3llU0lsZXEzVUtSczBzSkZmMGE2VUdRTGpxRl81RFRnTVdfbzJVM2xnQnAydzl0eGE0YUpCUTNqdmVNcmI1WQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "再生醫學市場規模預計2035年將突破234.85億美元，人工智慧（AI）、幹細胞療法與3D生物列印技術將徹底革新醫療保健",
-      "summary": "再生醫學市場規模預計2035年將突破234.85億美元，人工智慧（AI）、幹細胞療法與3D生物列印是主要成長動能。",
+      "title": "再生醫療 Market Size to Surpass USD 234.85 Billion by 2035 as AI, 幹細胞 Therapy, and 3D Bioprinting Revolutionize Healthcare",
+      "summary": "人工智慧、幹細胞療法和 3D 生物列印將徹底改變醫療保健產業，到 2035 年將達到 2,348.5 億美元",
       "source": "BioSpace",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMzViY0hJS2JZVXpONklyNnh2ZzViTHZjSUlaZEhPLWoxNHUwVzhQNXEyYUJNMkR3RGxCa2pnaWxBb2RlYUxiNzR4dHc4U2FLSGpnT1JEY2t1aDRfWmxhaGV2SGUtVl9QTmNXVzYwbGZrLTQzMGZjTlBac1YwRXY0eDBNdUpKeS1wV29zWWwzb004NEViMFJkY2JSelprWl9LN0l0ZGUtckZRVEhwOUd5Y2Y1SDhrRjhSWVFVZjlSaWhlcWVLWFBEajVzUlJicGh1RHp6XzE0V25SVGRWVEY1TDFBRTFDWURnZldtdk05aWoyTnVMSFp2QWI1dXczam1SLTV3M2Z6OEd4MTg?oc=5",
@@ -347,16 +339,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "必治妥施貴寶（Biogen）的Salanersen獲美國FDA突破性療法認定，用於治療脊髓性肌肉萎縮症",
-      "summary": "必治妥施貴寶的Salanersen治療脊髓性肌肉萎縮症，獲美國食品藥物管理局（FDA）突破性療法認定，有望加速上市。",
-      "source": "Biogen",
-      "date": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaGx4ZTZ1RzRyVTJIeEZxSk9hdzBndzFxS2ZITzR6U2tVd2tfOUNPRGprNUFTMURKbnB0OHYxNTcyOUs5RVl5cTM5Q3ZGQXlUanA5aHRzdm5fRlp1SDlFQzBsdXpjMHVFc2tiNFNQd0RzUmhuZEJxNkRRUHJXN015VVhJSmlRWEJjbWltQjNmS2JsaFJPZ3ZWcXZxTW9Dd09ZMHpWX0NrRjVIUUdxVHd5WDFnekVBNDNRYnNBTV8tQkN0QXZWekZF?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[二期臨床] Ixoberogene Soroparvovec (Ixo-vec) 針對新生血管性老年黃斑部病變患者的對側給藥研究",
-      "summary": "狀態：正在招募中｜主辦：Adverum Biotechnologies, Inc.｜這項研究旨在評估一種基因療法（gene therapy）Ix",
+      "title": "[二期臨床] Ixoberogene Soroparvovec (Ixo-vec) 基因療法用於濕性老年性黃斑部病變病患的對側眼給藥研究",
+      "summary": "這項二期臨床試驗正在招募病患，由Adverum Biotechnologies主辦，旨在評估基因",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-02",
       "url": "https://clinicaltrials.gov/study/NCT07630649",
@@ -373,14 +357,14 @@
     {
       "title": "[第 3 階段] 一項研究 Coagadex 治療與 AL 澱粉樣變性相關的 AFXD",
       "summary": "狀態：招募中｜主辦單位：Kedrion S.p.A.｜本研究的目的是評估 Coagadex 在治療活動性出血以及控制與 AL 澱粉樣變性相關的後天性 X 因子缺乏症參與者的圍手術期出血方面的有效性和安全性。",
-      "source": "ClinicalTrials.gov｜United States, United Kingdom",
+      "source": "ClinicalTrials.gov｜United Kingdom, United States",
       "date": "2026-06",
       "url": "https://clinicaltrials.gov/study/NCT06963216",
       "lang": "zh-TW"
     },
     {
-      "title": "[第一期] DQ1001用於復發或難治型多發性骨髓瘤（RRMM）的探索性臨床試驗",
-      "summary": "狀態：尚未招募受試者｜主辦：復旦大學附屬廈門中山醫院｜這是一項前瞻性、單臂、開放標籤的早期",
+      "title": "DQ1001治療復發或難治型多發性骨髓瘤（RRMM）的探索性臨床試驗（第一期）",
+      "summary": "中山大學附屬廈門中山醫院將啟動DQ1001藥物的第一期臨床試驗，探索其治療復發或難治型多發",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06",
       "url": "https://clinicaltrials.gov/study/NCT07622862",
@@ -400,6 +384,14 @@
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-06",
       "url": "https://clinicaltrials.gov/study/NCT07642024",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[第2階段] SHR2554/AZA + 重疊TBF治療高風險/復發性白血病/MDS",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：蘇州大學附設第一醫院｜本研究為前瞻性、多中心、開放標籤、隨機對照試驗。符合資格的參與者是年齡 15-60 歲的高風險或復發/難治性急性髓細胞白血病 (AML)、急性淋巴細胞白血病 (ALL) 患者",
+      "source": "ClinicalTrials.gov｜China",
+      "date": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT07562568",
       "lang": "zh-TW"
     }
   ]
