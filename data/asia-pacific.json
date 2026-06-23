@@ -1,6 +1,6 @@
 {
   "module": "apac",
-  "updated": "2026-06-22T15:50:02.380806+00:00",
+  "updated": "2026-06-23T00:01:51.238904+00:00",
   "items": [
     {
       "title": "三星醫療中心被《新聞週刊》評為亞太地區最佳癌症、呼吸和消化護理醫院",
@@ -8,6 +8,14 @@
       "source": "뉴스1",
       "date": "2026-06-21",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ja21ZQUVUWk1kYUdydThORHBPZmRJaDlUYXNrRVVIc0pQdlpYdHR4WldFR3hEOGR6bEJuMjVHN2hkOHB4VFo5ZTVjdUxBbXNjSjd2YnBTTzduaGtSWjhDSkZ3?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "基因療法 Market Size to Hit USD 63.52 Billion by 2035",
+      "summary": "到 2035 年將達到 20 億 優先研究",
+      "source": "Precedence Research",
+      "date": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01NklZci11aHpUaEhMVlhnb1FxQWFfYVFYOU5wMHd4WF9pb3Y2cWZaR05fN3ZadWhXOXZUemIxTGczLU1VTUtoTUdFdFdnMVFsSGNqVjJWMXlVU2JCWlQ4b3RSb0s?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -26,19 +34,19 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQ2dQSDNoNUpCam4yY3ppTndMUXlJYzR4bW5FeW5uRzQwNzJLcE5hc3NXSmVoemVuSHpyWUQtNUFieWtFMVItNVpJOXlPM25tQ09tM0R1MnBlS29rbHpZ?oc=5"
     },
     {
+      "title": "沛爾CAR-T拚年底取藥證　tcmc廠啟用攻細胞治療",
+      "summary": "",
+      "source": "經濟日報",
+      "date": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQRDVub0tMVWFSc29sc0luU1JTUWZpSjd2WHNOb204eXRPTk9NTFQzU3Q0VExXNHhoRDNCY3QwV3lVaG0xMkZoLW9qQ2JRYnhwbGJ3cGQ0Wkt6dzTSAWBBVV95cUxQcGsxTEIwZy1CdDlDeGRlUnF4VEhGa2VaTnlLSzQ0UWdkbmlxdWxoZGl6a0dPLVBnMWlTRHAwSXVwNlpUc0lDTUlSeTZOZXFqU0pZZmU0OEVPU1d3YTV6WXk?oc=5"
+    },
+    {
       "title": "Rejuvenate Bio 和默克動物保健公司聯手開發新型動物保健基因治療項目",
       "summary": "共同推動新型動物健康基因治療計畫 BioPharma APAC",
       "source": "BioPharma APAC",
       "date": "2026-06-14",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSkhmS0J1eVlMQ0piSVBzMEFBVnBVNUZ3Q3NCcl9YaXB5cWQ4TzlORmxudDJLQ3Z0SXNKcVFPT2RJODdPOTgzOVd0MU9SenFpd0JSZFF6ZE56WElMSG5JSHB4UnB1dGp4c3FSZmVYSW9oWklNbDROejNFUjdIczNXVkdQQjR0V2FrMXZuSzFOdGxFU05sQWo4SUJvVmV2X19NZ2NWWFBNNnlCd3dwaTVOdlpDd05oc1JfOWJYazMxV3FaMzJjLW5pNHdQMF83WG12VnY5RUYwdw?oc=5",
       "lang": "zh-TW"
-    },
-    {
-      "title": "沛爾CAR-T拚年底取藥證 tcmc廠啟用攻細胞治療",
-      "summary": "",
-      "source": "信吉衛視+",
-      "date": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMzJCWE5ranVVdzRyNUI5V2JieWxaYWdzaTZxUzR1Zlk1Z2FFNjhpUUFhZDJqX1NkTGd5Z2c1MUx0ZTRWU2xvSFRmSW91ekE?oc=5"
     },
     {
       "title": "Aphranel® 透過歐盟 MDR 認證、Arc™ 發布以及交付超過 150,000 支注射器慶祝一週年",
@@ -49,7 +57,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "亞太地區合約開發製造組織（CDMOs）與先進療法藥品（ATMP）成長動能",
+      "title": "亞太地區 CDMO 和 ATMP 成長強勁",
       "summary": "",
       "source": "BioSpectrum Asia",
       "date": "2026-06-02",
@@ -57,8 +65,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞擴增技術市場報告規模，2033年",
-      "summary": "Grand View Research發布報告，預估2033年幹細胞擴增技術市場規模。",
+      "title": "幹細胞 Expansion Technologies Market Report Size, 2033",
+      "summary": "報告大小，2033 年 Grand View Research",
       "source": "Grand View Research",
       "date": "2026-05-25",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFV0Sm5WNkJobkVPOEJTMzhkMkhZTHIxYXMtaUJfUUh4VFVBZ1FCYUZXSU1ERDlyb1VGaGdnUUs4aU5TZ0FxcEJpZzJhWVlscGJkUWFxZVJMdWg0cjJlMzliTW1zdk5lb0cyWG5kdFo2UFRpRDQyOHdWMWg0TWFucUFqcTRjMXk2MVBxRVBwNlBOMV9weGRWXzV4NGJwbU0?oc=5",
