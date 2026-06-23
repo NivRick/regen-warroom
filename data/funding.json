@@ -1,45 +1,61 @@
 {
   "module": "funding",
-  "updated": "2026-06-23T00:03:03.960844+00:00",
+  "updated": "2026-06-23T13:39:46.050711+00:00",
   "items": [
     {
-      "title": "STAT+: Another big deal, another sign biotech M&A is back",
-      "summary": "AbbVie buys Apogee Therapeutics, LSD therapy 第三期試驗 results, and more biotech news from The Readout",
+      "title": "OpenEvidence將導入美國FDA核准的AI技術來偵測心臟疾病",
+      "summary": "本期STAT健康科技報導：OpenEvidence導入AI偵測心臟疾病，Cadence募資1億美元，以及更多產業動態。",
+      "source": "STAT News",
+      "date": "2026-06-23",
+      "url": "https://www.statnews.com/2026/06/23/openevidence-fda-cleared-heart-disease-ai-health-tech/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Cadence募資1億美元，將以受",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-06-23",
+      "url": "https://www.statnews.com/2026/06/23/cadence-100-million-raise-automate-chronic-care-ai/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：基因編輯新創公司斥資 2.3 億美元成立，並達成中國授權協議",
+      "summary": "一家新的基因編輯新創公司與一家中國公司談判了合同，籌集了 2.3 億美元的資金，並與一家現有的生物技術公司進行了反向合併。",
+      "source": "STAT News",
+      "date": "2026-06-23",
+      "url": "https://www.statnews.com/2026/06/23/gene-editing-startup-serapha-bio-aatd/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "「窗口已開啟」：在 BIO，投資者正在評估越來越多的生物技術 首次公開上市（IPO）",
+      "summary": "在 BIO 年會上的訪談和小組討論中，投資者和生命科學銀行家預測今年稍後的發行將會加速，但僅限於符合特定標準的公司。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-23",
+      "url": "https://www.biopharmadive.com/news/bio-2026-ipo-biotech-performance-predictions/823474/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：另一個大交易，生物技術併購回來的另一個跡象",
+      "summary": "艾伯維 (AbbVie) 收購 Apogee Therapeutics、LSD 療法 3 期結果以及更多來自 The Readout 的生物技術新聞",
       "source": "STAT News",
       "date": "2026-06-22",
       "url": "https://www.statnews.com/2026/06/22/biotech-news-another-big-deal-another-sign-ma-is-back/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: AbbVie to buy Apogee Therapeutics in nearly $11B deal",
-      "summary": "AbbVie is buying Apogee Therapeutics, the developer of an experimental atopic dermatitis drug, for nearly $11B, continuing a run of pharma acquisitions.",
+      "title": "STAT+：艾伯維 (AbbVie) 以近 11B 美元的交易收購 Apogee Therapeutics",
+      "summary": "艾伯維 (AbbVie) 以近 11B 美元的價格收購了實驗性異位性皮膚炎藥物的開發商 Apogee Therapeutics，繼續進行一系列製藥收購。",
       "source": "STAT News",
       "date": "2026-06-22",
       "url": "https://www.statnews.com/2026/06/22/abbvie-apogee-acquisition-immunology-zumilokibart/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 美國食藥局（FDA） reverses course on Regenxbio’s childhood 基因療法 after rejection",
+      "title": "STAT+： 美國食藥局（FDA） 在拒絕後改變了 Regenxbio 兒童基因治療的進程",
       "summary": "美國食藥局（FDA） 將重新考慮批准 Regenxbio 的實驗性基因療法，用於治療一種致命且罕見的兒童腦部疾病，而就在四個月前，美國食藥局（FDA） 也拒絕了這項療法。",
       "source": "STAT News",
       "date": "2026-06-22",
       "url": "https://www.statnews.com/2026/06/22/fda-reverses-course-regenxbio-gene-therapy-navsunli-hunter-syndrome/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "健康公平研究人員擔心白宮提案將受到前所未有的審查",
-      "summary": "健康差異研究人員表示，白宮的一項新提案可能會使他們的大部分工作失去聯邦資助的資格——這可能是對他們未來最嚴重的威脅",
-      "source": "STAT News",
-      "date": "2026-06-22",
-      "url": "https://www.statnews.com/2026/06/22/health-disparity-research-new-dei-rule-threat-nih-grants/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Pharma goes on a spending spree, snapping up biotechs in a hurry",
-      "summary": "製藥公司渴望達成交易，而且他們的收入比多年來更多。",
-      "source": "STAT News",
-      "date": "2026-06-22",
-      "url": "https://www.statnews.com/2026/06/22/pharma-biotech-ma-boom-2026-deals-total-123-billion/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -51,35 +67,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "賽諾菲更換研發負責人；默克公司的普羅米修斯交易帶來了紅利",
-      "summary": "霍曼·阿什拉菲安 (Houman Ashrafian) 即将离开赛诺菲去寻找新的机会。在其他地方，默克公司的一款備受推崇的免疫藥物在一項關鍵研究中取得了成功，迷幻生技公司的股價也隨之飆升。",
+      "title": "賽諾菲（Sanofi）研發主管異動；默沙東（Merck）併購 Prometheus 案開始見效",
+      "summary": "賽諾菲研發主管 Houman Ashrafian 離職。同時，默沙東旗下的一款免疫藥物在關鍵性臨床試驗中取得成功。",
       "source": "BioPharma Dive",
       "date": "2026-06-22",
       "url": "https://www.biopharmadive.com/news/sanofi-ashrafian-fontoura-merck-prometheus-definium-nura-bioarctic/823359/",
       "lang": "zh-TW"
     },
     {
-      "title": "艾伯維 (AbbVie) 收購 Apogee，斥資近 11B 美元購買長效自體免疫藥物",
-      "summary": "艾伯維 (AbbVie) 五十多年來最大的一筆交易增加了一系列免疫疾病藥物（其中包括 Dupixent 的競爭對手），該公司相信這些藥物具有「超級重磅炸彈」的銷售潛力。",
+      "title": "艾伯維（AbbVie）將收購 Apogee，豪擲近 110 億美元押寶長效型自體免疫藥物",
+      "summary": "艾伯維將以近 110 億美元收購 Apogee，強化長效型自體免疫藥物產品線，其中包含 Dupixent 的潛在競爭者。",
       "source": "BioPharma Dive",
       "date": "2026-06-22",
       "url": "https://www.biopharmadive.com/news/abbvie-apogee-acquire-zumilokibart-eczema-drugs/823353/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Biogen斥資10億美元收購神秘新創RayThera，擴增免疫藥物產品線",
-      "summary": "儘管Biogen與RayThera並未明確指出此次交易中Biogen將取得哪些藥物，但RayThera已取得的專利提供了重要線索。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-18",
-      "url": "https://www.biopharmadive.com/news/biogen-raythera-deal-acquire-immune-drugs/823241/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "輝瑞（Pfizer）財務長將卸任；Denali出售監管快速通關權",
-      "summary": "輝瑞財務長將離職，公司啟動接班人尋找。Denali出售杜氏肌肉失養症（DMD）基因療法的快速審查權。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-18",
-      "url": "https://www.biopharmadive.com/news/pfizer-cfo-denali-spot-duchenne-novocure-utebzi/823169/",
       "lang": "zh-TW"
     }
   ]

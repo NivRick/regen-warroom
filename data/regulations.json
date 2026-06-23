@@ -1,17 +1,33 @@
 {
   "module": "regulation",
-  "updated": "2026-06-23T00:02:28.114181+00:00",
+  "updated": "2026-06-23T13:39:14.692248+00:00",
   "items": [
     {
-      "title": "Blood & Blood Products",
-      "summary": "生物製品評估和研究中心 (CBER) 負責監管用於輸血或用於製造源自血液和血液成分的藥物（例如凝血因子）的血液和血液成分的採集，並建立",
+      "title": "4U Health - 720527",
+      "summary": "上市前核准/品質不符",
+      "source": "06/16/2026",
+      "date": "2026-06-23",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/4u-health-720527-06162026",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "長距離基因網路發現 641 個新的精神分裂症相關基因",
+      "summary": "一個整合了順式和反式調節效應的新基因網絡建模框架識別了 6 個大腦區域的 766 個精神分裂症相關基因（之前遺漏了 641 個基因）。\n後精神分裂症相關基因首先出現在 GEN - Genetic 上",
+      "source": "GEN News",
+      "date": "2026-06-23",
+      "url": "https://www.genengnews.com/topics/translational-medicine/long%e2%80%91range-gene-networks-uncover-641-new-schizophrenia%e2%80%91associated-genes/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "血液與血液製品",
+      "summary": "生物製品評估與研究中心（CBER）負責規範用於輸血或製造的血液及血液成分採集。",
       "source": "FDA Biologics",
       "date": "2026-06-22",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cber-biologics-effectiveness-and-safety-best-system/blood-blood-products",
       "lang": "zh-TW"
     },
     {
-      "title": "Vaccines & Allergenics",
+      "title": "疫苗和過敏原",
       "summary": "生物製品評估與研究中心 (CBER) 負責監管疫苗產品。其中許多是兒童疫苗，有助於顯著減少疫苗可預防的疾病。",
       "source": "FDA Biologics",
       "date": "2026-06-22",
@@ -19,56 +35,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA）’s Survey of Health and Patient Experience SHAPE Platform",
-      "summary": "美國食藥局（FDA） 健康與病患體驗調查 (SHAPE) 平台是 美國食藥局（FDA） CBER 生物製品有效性和安全性 (BEST) 創新方法 (IM) 計畫的一部分。 SHAPE is a versatile and scalable platform designed to support the",
+      "title": "美國食藥局（FDA） 健康與病患體驗調查 SHAPE 平台",
+      "summary": "美國食藥局（FDA） 健康與病患體驗調查 (SHAPE) 平台是 美國食藥局（FDA） CBER 生物製品有效性和安全性 (BEST) 創新方法 (IM) 計畫的一部分。 SHAPE 是一個多功能且可擴展的平台，旨在支援",
       "source": "FDA Biologics",
       "date": "2026-06-22",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cber-biologics-effectiveness-and-safety-best-system/fdas-survey-health-and-patient-experience-shape-platform",
       "lang": "zh-TW"
     },
     {
-      "title": "合作者",
-      "summary": "Biologics Effectiveness and Safety (BEST) Collaborating Institutions",
-      "source": "FDA Biologics",
-      "date": "2026-06-22",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cber-biologics-effectiveness-and-safety-best-system/collaborators",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CBER 生物製品效能與安全性 (BEST) 系統",
-      "summary": "生物製品有效性和安全性 (BEST) 計劃是生物製品評估和研究中心 (CBER) 監測計劃的一部分，旨在滿足 2007 年 美國食藥局（FDA） 修正案的要求。",
-      "source": "FDA Biologics",
-      "date": "2026-06-22",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/cber-biologics-effectiveness-and-safety-best-system",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Safety & Availability (Biologics)",
-      "summary": "Important information about the safety and availability of biological products.",
-      "source": "FDA Biologics",
-      "date": "2026-06-22",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "What’s New for Biologics",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-06-22",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "胸腺球蛋白",
-      "summary": "Product approval information is indicated for the prophylaxis and treatment of acute rejection in patients receiving a kidney transplant. Use in conjunction with concomitant immunosuppression.",
-      "source": "FDA Biologics",
-      "date": "2026-06-22",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/thymoglobulin",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "StockWatch：積極的第三階段數據讓投資人青睞 Intellia",
-      "summary": "The data was strong enough for Intellia to continue the rolling Biologics License Application (BLA) submission that it began in April. The company expects to complete the BLA filing by year’s end and hopes to gain 美國食藥局（FDA） approval and launch lonvo-z in t",
+      "title": "股海觀察：三期臨床數據報喜，Intellia獲投資人青睞",
+      "summary": "Intellia公布強勁的三期臨床數據，讓公司能持續推進四月啟動的生物製劑藥證申請（BLA），成功吸引投資人目光。",
       "source": "GEN News",
       "date": "2026-06-21",
       "url": "https://www.genengnews.com/topics/translational-medicine/stockwatch-positive-phase-iii-data-sells-investors-on-intellia/",
@@ -83,8 +59,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "IDBS 和 Alchemi 同意加速人工智慧驅動的生物製藥監管備案",
-      "summary": "IDBS 和 Alchemi 合作將 AI 代理與 IDBS Polar 平台中的資料連接起來，創建一個受管理的資料基礎，從而在整個藥物開發過程中實現可靠、合規的代理 AI 使用。\nDriven Biopharma 監管文件出現後",
+      "title": "IDBS與Alchemi攜手加速AI驅動的生技製藥法規申請",
+      "summary": "IDBS與Alchemi合作，將AI代理與IDBS Polar平台數據連結，建立受控管的數據基礎，以實現可靠且符合規範的法規申請。",
       "source": "GEN News",
       "date": "2026-06-18",
       "url": "https://www.genengnews.com/topics/translational-medicine/idbs-and-alchemi-agree-to-accelerate-ai-driven-biopharma-regulatory-filings/",
