@@ -1,7 +1,39 @@
 {
   "module": "funding",
-  "updated": "2026-06-23T23:48:47.254292+00:00",
+  "updated": "2026-06-24T13:16:15.962298+00:00",
   "items": [
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關 美國食藥局（FDA） 專員候選人、德國藥品價格計劃等的信息",
+      "summary": "Regenxbio 計畫申請加速批准其治療杜氏肌肉營養不良症的基因療法。",
+      "source": "STAT News",
+      "date": "2026-06-24",
+      "url": "https://www.statnews.com/pharmalot/2026/06/24/fda-commissioner-candidate-germany-plans-for-drug-prices/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：押注 美國食藥局（FDA） 的變化，Regenxbio 將提交 Duchenne 基因療法審批",
+      "summary": "Regenxbio 計劃將其 Duchenne 基因療法提交 美國食藥局（FDA） 批准，就在一個月前，該公司表示監管機構希望看到另一項試驗。",
+      "source": "STAT News",
+      "date": "2026-06-24",
+      "url": "https://www.statnews.com/2026/06/24/regenxbio-duchenne-gene-therapy-fda-submission/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Ophthalmology venture grabs investors’ attention, raises $330 million",
+      "summary": "A startup developing treatments for eye diseases has raised $330 million from investors as it readies for late-stage testing.",
+      "source": "STAT News",
+      "date": "2026-06-24",
+      "url": "https://www.statnews.com/2026/06/24/ophthalmology-biotech-ollin-biosciences/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Ollin refuels with $330M to back pivotal tests of Vabysmo challenger",
+      "summary": "今年最大的風險融資輪之一是在一項頭對頭研究顯示 Ollin 的藥物（由中國開發商許可）比羅氏的眼科治療具有一定優勢之後進行的。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-24",
+      "url": "https://www.biopharmadive.com/news/ollin-biosciences-financing-china-innovent-vabysmo-amd-dme/823564/",
+      "lang": "zh-TW"
+    },
     {
       "title": "司法部宣布對數十億美元的醫療保健詐欺行為提出數百項指控",
       "summary": "美國司法部指控德州一名醫生參與了價值 8,900 萬美元的醫療保健詐欺計劃，指控他向保險公司收取醫療上不必要的心血管篩檢測試費用。",
@@ -12,7 +44,7 @@
     },
     {
       "title": "STAT+：OpenEvidence 將添加經 美國食藥局（FDA） 批准的 AI 來檢測心臟病",
-      "summary": "在本期 STAT Health Tech 中：OpenEvidence 增加了人工智慧來檢測心臟病，Cadence 籌集了 1 億美元等等。",
+      "summary": "In this edition of STAT Health Tech: OpenEvidence adds AI to detect heart disease, and Cadence raises $100 million, and more.",
       "source": "STAT News",
       "date": "2026-06-23",
       "url": "https://www.statnews.com/2026/06/23/openevidence-fda-cleared-heart-disease-ai-health-tech/?utm_campaign=rss",
@@ -20,7 +52,7 @@
     },
     {
       "title": "STAT+：Cadence 融資 1 億美元，利用受監管的人工智慧實現慢性病照護自動化",
-      "summary": "數位健康新創公司 Cadence 以 12.3 億美元的估值籌集了 1 億美元，用於擴大其慢性病管理計畫。",
+      "summary": "Digital health startup Cadence has raised $100 million at a $1.23 billion valuation to expand its chronic disease management program.",
       "source": "STAT News",
       "date": "2026-06-23",
       "url": "https://www.statnews.com/2026/06/23/cadence-100-million-raise-automate-chronic-care-ai/?utm_campaign=rss",
@@ -35,7 +67,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Seagen 交易中獲得的輝瑞藥物在肺癌研究中令人失望",
+      "title": "Pfizer drug acquired in Seagen deal disappoints in lung cancer study",
       "summary": "儘管一些分析師對該藥物在另一項試驗中的機會持樂觀態度，但這一挫折使輝瑞視為未來重要貢獻者的藥物前景黯淡。",
       "source": "BioPharma Dive",
       "date": "2026-06-23",
@@ -56,14 +88,6 @@
       "source": "BioPharma Dive",
       "date": "2026-06-23",
       "url": "https://www.biopharmadive.com/news/bio-2026-ipo-biotech-performance-predictions/823474/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：另一個大交易，生物技術併購回來的另一個跡象",
-      "summary": "艾伯維 (AbbVie) 收購 Apogee Therapeutics、LSD 療法 3 期結果以及更多來自 The Readout 的生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-06-22",
-      "url": "https://www.statnews.com/2026/06/22/biotech-news-another-big-deal-another-sign-ma-is-back/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -96,6 +120,14 @@
       "source": "PharmTech.com",
       "date": "2026-06-22",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Longevity startup NewLimit raises $435 million ahead of first 臨床試驗",
+      "summary": "首次臨床試驗提前數百萬 statnews.com",
+      "source": "statnews.com",
+      "date": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOC1qTXA4ZGpQRnVJbmFzc0ZTQmVoMW1tSDJJZEhZM2pjN1JUdjFpVjlVdU43dXphOGZTcTZIbjZZVmRNZDhRU01jVDdZYV9teVdyNnFvaVlEUVdsNXNwSy1qMHB6MkQxZDlfSXRBQVdobTRjTGRHbWtGWUJqWVE4dkhzQ1J2ZC1QNVFvV0x6bktPaUdVc1VacXFHNlJ6V2c1SDhrYmZia0pIZWZzUUdN?oc=5",
       "lang": "zh-TW"
     }
   ]
