@@ -1,34 +1,34 @@
 {
   "module": "funding",
-  "updated": "2026-06-25T00:01:07.499433+00:00",
+  "updated": "2026-06-25T13:14:58.410029+00:00",
   "items": [
     {
-      "title": "STAT+: Eli Lilly dives into hair loss treatments with investment in AI startup Absci",
-      "summary": "禮來公司正在投資一家小型新創公司，開發一種刺激毛髮生長的藥物，並有可能治療子宮內膜異位症。",
+      "title": "禮來（Eli Lilly）投入生髮治療，投資 AI 新創公司 Absci",
+      "summary": "禮來（Eli Lilly）投資 AI 新創 Absci，開發促進生髮與治療子宮內膜異位症的藥物。",
       "source": "STAT News",
       "date": "2026-06-24",
       "url": "https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Pharmalittle: We’re reading about an 美國食藥局（FDA） commissioner candidate, Germany’s plans for drug prices, and more",
-      "summary": "Regenxbio plans to apply for accelerated approval for its 基因療法 for Duchenne muscular dystrophy.",
+      "title": "藥業小新聞：FDA 局長候選",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-06-24",
       "url": "https://www.statnews.com/pharmalot/2026/06/24/fda-commissioner-candidate-germany-plans-for-drug-prices/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Wagering on 美國食藥局（FDA） changes, Regenxbio will submit Duchenne 基因療法 for approval",
-      "summary": "Regenxbio plans to submit its Duchenne 基因療法 for 美國食藥局（FDA） approval, just a month after it said that regulators wanted to see another trial.",
+      "title": "STAT+：押注 美國食藥局（FDA） 的變化，Regenxbio 將提交 Duchenne 基因療法審批",
+      "summary": "Regenxbio 計劃將其 Duchenne 基因療法提交 美國食藥局（FDA） 批准，就在一個月前，該公司表示監管機構希望看到另一項試驗。",
       "source": "STAT News",
       "date": "2026-06-24",
       "url": "https://www.statnews.com/2026/06/24/regenxbio-duchenne-gene-therapy-fda-submission/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Ophthalmology venture grabs investors’ attention, raises $330 million",
-      "summary": "A startup developing treatments for eye diseases has raised $330 million from investors as it readies for late-stage testing.",
+      "title": "STAT+：眼科企業吸引投資人關注，融資 3.3 億美元",
+      "summary": "一家開發眼疾治療方法的新創公司已從投資者那裡籌集了 3.3 億美元，準備進行後期測試。",
       "source": "STAT News",
       "date": "2026-06-24",
       "url": "https://www.statnews.com/2026/06/24/ophthalmology-biotech-ollin-biosciences/?utm_campaign=rss",
@@ -48,14 +48,6 @@
       "source": "BioPharma Dive",
       "date": "2026-06-24",
       "url": "https://www.biopharmadive.com/news/ollin-biosciences-financing-china-innovent-vabysmo-amd-dme/823564/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "司法部宣布對數十億美元的醫療保健詐欺行為提出數百項指控",
-      "summary": "美國司法部指控德州一名醫生參與了價值 8,900 萬美元的醫療保健詐欺計劃，指控他向保險公司收取醫療上不必要的心血管篩檢測試費用。",
-      "source": "STAT News",
-      "date": "2026-06-23",
-      "url": "https://www.statnews.com/2026/06/23/texas-doctor-charged-fraud-case-cms-health-care-crackdown/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -83,16 +75,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Regenxbio to resubmit 基因療法 as 美國食藥局（FDA） backtracks on another drug rejection",
-      "summary": "The agency took another step toward clearing a backlog of Makary-era rejections that appeared to contradict earlier agreements with drugmakers.",
+      "title": "隨著 美國食藥局（FDA） 對另一項藥物拒絕的反悔，Regenxbio 將重新提交基因治療",
+      "summary": "該機構又邁出了一步，清理了馬卡里時代積壓的拒絕訂單，這些拒絕訂單似乎與先前與製藥商達成的協議相矛盾。",
       "source": "BioPharma Dive",
       "date": "2026-06-22",
       "url": "https://www.biopharmadive.com/news/regenxbio-fda-resubmit-hunter-syndrome-gene-therapy/823381/",
       "lang": "zh-TW"
     },
     {
-      "title": "Longevity startup NewLimit raises $435 million ahead of first 臨床試驗",
-      "summary": "illion ahead of first 臨床試驗 statnews.com",
+      "title": "長壽新創公司 NewLimit 在首次臨床試驗前籌集了 4.35 億美元",
+      "summary": "首次臨床試驗提前數百萬 statnews.com",
       "source": "statnews.com",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOC1qTXA4ZGpQRnVJbmFzc0ZTQmVoMW1tSDJJZEhZM2pjN1JUdjFpVjlVdU43dXphOGZTcTZIbjZZVmRNZDhRU01jVDdZYV9teVdyNnFvaVlEUVdsNXNwSy1qMHB6MkQxZDlfSXRBQVdobTRjTGRHbWtGWUJqWVE4dkhzQ1J2ZC1QNVFvV0x6bktPaUdVc1VacXFHNlJ6V2c1SDhrYmZia0pIZWZzUUdN?oc=5",

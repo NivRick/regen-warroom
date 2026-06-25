@@ -1,10 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-06-25T00:00:48.278218+00:00",
+  "updated": "2026-06-25T13:14:27.504710+00:00",
   "items": [
     {
+      "title": "InduPro取得Lonza的連接子載荷技術與生物偶聯平台授權",
+      "summary": "Lonza與InduPro簽署了授權協議，旨在開發差異化的治療方法，專門用於解決癌症等複雜疾病。",
+      "source": "GEN News",
+      "date": "2026-06-25",
+      "url": "https://www.genengnews.com/topics/cancer/indupro-licenses-lonzas-linker-payload-technologies-and-bioconjugation-platforms/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "ACAM2000",
-      "summary": "是一種產品批准，適用於被確定為天花感染高風險族群的天花疾病主動免疫。",
+      "summary": "ACAM2000獲准上市，適用於天花感染高風險族群的主動免疫接種。",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/acam2000",
@@ -12,15 +20,15 @@
     },
     {
       "title": "BOOSTRIX",
-      "summary": "是一項產品批准，適用於 10 歲及以上個體單劑接種破傷風、白喉和百日咳加強免疫",
+      "summary": "BOOSTRIX獲准上市，作為10歲以上族群破傷風、白喉、百日咳的單劑追加免疫疫苗。",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/boostrix",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑新",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -28,14 +36,14 @@
     },
     {
       "title": "痘苗免疫球蛋白靜脈注射（人）",
-      "summary": "產品核准資訊用於治療和/或改善以下病症，這些病症是天花疫苗接種或疫苗濕疹引起的併發症\no 進行性痘苗\no Severe generalized vaccinia\no 痘苗病毒",
+      "summary": "產品核准資訊用於治療和/或改善以下病症，這些病症是天花疫苗接種或疫苗濕疹引起的併發症\no 進行性痘苗\no 严重的全身性痘苗\no 痘苗病毒",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/vaccinia-immune-globulin-intravenous-human",
       "lang": "zh-TW"
     },
     {
-      "title": "VARIVAX (refrigerated and frozen formulations)",
+      "title": "VARIVAX（冷藏和冷凍配方）",
       "summary": "Product approval information for Varicella Virus Vaccine Live also known as Varivax.",
       "source": "FDA Biologics",
       "date": "2026-06-24",
@@ -44,7 +52,7 @@
     },
     {
       "title": "奢華",
-      "summary": "是一種基於腺相關病毒載體的基因療法，適用於治療已確診的雙等位基因 RPE65 突變相關的視網膜營養不良患者。 Patients must have viable retinal cells as determined by the treating physician(s).",
+      "summary": "是一種基於腺相關病毒載體的基因療法，適用於治療已確診的雙等位基因 RPE65 突變相關的視網膜營養不良患者。由治療醫生確定，患者必須具有存活的視網膜細胞。",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/luxturna",
@@ -74,24 +82,24 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "BioCardia Letter to Stockholders on 2026 Priorities and Strategic Opportunities",
-      "summary": "Priorities and Strategic Opportunities GlobeNewswire",
+      "title": "BioCardia致股東信：關於2026年優先發展方向與策略性機會",
+      "summary": "優先發展方向與策略性機會。來源：GlobeNewswire。",
       "source": "GlobeNewswire",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeU4yeTBJUTYxc0NOWk8tbFFyX3ZBNGNCQlJpRGhMS3E3T3Q0MnlQSWxDLWhsWWdxWVlVTG5EdDF2NndKc095NXdta0E4SW1mN2RWMFc3Q3IwY3ZYN1FTQTdPQVBuWnMwXzN1dmNFOUxETGNybXV6TDNwcjBBemxWU0QwTm51VllCX0lEZS1tTFFXNldoVko5MGFjVXVCWEQ1emNvTnBFUGdnV1FNVUZKa2tJdXEwU3l3Q3hwRVh6LXN1emJVcTRvazktVVpKMlB4LUd3OTQ5YTM1Q2Jjc0xHWXQzWjMyQQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲藥品管理局（EMA） Approved 104 Human Medicines in 2025",
-      "summary": "",
+      "title": "歐洲藥品管理局（EMA）在2025年核准了104種人用藥品",
+      "summary": "歐洲藥品管理局（EMA）公布2025年成果，共核准104種人用藥品，為病患帶來更多治療選擇。",
       "source": "PharmTech.com",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Clinical pharmacology insights from recent cell and 基因療法 approvals relevant to pediatrics",
-      "summary": "nt cell and 基因療法 approvals relevant to pediatrics Nature",
+      "title": "從近期細胞與基因療法核准案看兒科臨床藥理學觀點",
+      "summary": "近期細胞與基因療法核准案與兒科相關。來源：Nature。",
       "source": "Nature",
       "date": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",
