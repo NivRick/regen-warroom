@@ -1,65 +1,88 @@
 {
   "module": "regulation",
-  "updated": "2026-06-24T13:15:38.847534+00:00",
+  "updated": "2026-06-25T00:00:48.278218+00:00",
   "items": [
     {
-      "title": "為生物製劑許可申請開發人類細胞和基因治療產品的化學、製造和控制靈活性",
-      "summary": "這是為生物製品許可證申請開發人類細胞和基因治療產品的行業指南和靈活性",
+      "title": "ACAM2000",
+      "summary": "是一種產品批准，適用於被確定為天花感染高風險族群的天花疾病主動免疫。",
       "source": "FDA Biologics",
-      "date": "2026-06-23",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/chemistry-manufacturing-and-controls-flexibilities-developing-human-cellular-and-gene-therapy",
+      "date": "2026-06-24",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/acam2000",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BOOSTRIX",
+      "summary": "是一項產品批准，適用於 10 歲及以上個體單劑接種破傷風、白喉和百日咳加強免疫",
+      "source": "FDA Biologics",
+      "date": "2026-06-24",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/boostrix",
       "lang": "zh-TW"
     },
     {
       "title": "生物製品的新動態",
       "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "4U 健康 - 720527",
-      "summary": "Premarket Approval/Adulterated",
-      "source": "06/16/2026",
-      "date": "2026-06-23",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/4u-health-720527-06162026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "長距離基因網路發現 641 個新的精神分裂症相關基因",
-      "summary": "一個整合了順式和反式調節效應的新基因網絡建模框架識別了 6 個大腦區域的 766 個精神分裂症相關基因（之前遺漏了 641 個基因）。\n後精神分裂症相關基因首先出現在 GEN - Genetic 上",
-      "source": "GEN News",
-      "date": "2026-06-23",
-      "url": "https://www.genengnews.com/topics/translational-medicine/long%e2%80%91range-gene-networks-uncover-641-new-schizophrenia%e2%80%91associated-genes/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "血液和血液製品",
-      "summary": "生物製品評估和研究中心 (CBER) 負責監管用於輸血或用於製造源自血液和血液成分的藥物（例如凝血因子）的血液和血液成分的採集，並建立",
+      "title": "痘苗免疫球蛋白靜脈注射（人）",
+      "summary": "產品核准資訊用於治療和/或改善以下病症，這些病症是天花疫苗接種或疫苗濕疹引起的併發症\no 進行性痘苗\no Severe generalized vaccinia\no 痘苗病毒",
       "source": "FDA Biologics",
-      "date": "2026-06-22",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cber-biologics-effectiveness-and-safety-best-system/blood-blood-products",
+      "date": "2026-06-24",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/vaccinia-immune-globulin-intravenous-human",
       "lang": "zh-TW"
     },
     {
-      "title": "疫苗和過敏原",
-      "summary": "生物製品評估與研究中心 (CBER) 負責監管疫苗產品。其中許多是兒童疫苗，有助於顯著減少疫苗可預防的疾病。",
+      "title": "VARIVAX (refrigerated and frozen formulations)",
+      "summary": "Product approval information for Varicella Virus Vaccine Live also known as Varivax.",
       "source": "FDA Biologics",
-      "date": "2026-06-22",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cber-biologics-effectiveness-and-safety-best-system/vaccines-allergenics",
+      "date": "2026-06-24",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/varivax-refrigerated-and-frozen-formulations",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
-      "summary": "細胞與基因治療製造技術 PharmTech.com",
-      "source": "PharmTech.com",
-      "date": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
+      "title": "奢華",
+      "summary": "是一種基於腺相關病毒載體的基因療法，適用於治療已確診的雙等位基因 RPE65 突變相關的視網膜營養不良患者。 Patients must have viable retinal cells as determined by the treating physician(s).",
+      "source": "FDA Biologics",
+      "date": "2026-06-24",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/luxturna",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲藥品管理局（EMA） 將於 2025 年批准 104 種人類藥物",
+      "title": "COBAS TaqScreen 西尼羅河病毒測試",
+      "summary": "產品核准資訊用於定性檢測人類個別捐贈者、全血和血液成分捐贈者以及其他活體捐贈者的血漿樣本中的西尼羅河病毒 (WNV) RNA。它也適用於",
+      "source": "FDA Biologics",
+      "date": "2026-06-24",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/cobas-taqscreen-west-nile-virus-test",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "比較",
+      "summary": "帶狀皰疹疫苗的產品核准資訊也稱為 。  是 美國食藥局（FDA） 許可的疫苗，有助於降低 50 歲及以上人群感染帶狀皰疹或帶狀皰疹的風險。",
+      "source": "FDA Biologics",
+      "date": "2026-06-24",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/zostavax",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "外泌體只能擦1／終結誇大不實廣告亂象　衛福部祭重罰新法上路半年近50件 | 財經 | CTWANT",
+      "summary": "",
+      "source": "CTWANT",
+      "date": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
+    },
+    {
+      "title": "BioCardia Letter to Stockholders on 2026 Priorities and Strategic Opportunities",
+      "summary": "Priorities and Strategic Opportunities GlobeNewswire",
+      "source": "GlobeNewswire",
+      "date": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeU4yeTBJUTYxc0NOWk8tbFFyX3ZBNGNCQlJpRGhMS3E3T3Q0MnlQSWxDLWhsWWdxWVlVTG5EdDF2NndKc095NXdta0E4SW1mN2RWMFc3Q3IwY3ZYN1FTQTdPQVBuWnMwXzN1dmNFOUxETGNybXV6TDNwcjBBemxWU0QwTm51VllCX0lEZS1tTFFXNldoVko5MGFjVXVCWEQ1emNvTnBFUGdnV1FNVUZKa2tJdXEwU3l3Q3hwRVh6LXN1emJVcTRvazktVVpKMlB4LUd3OTQ5YTM1Q2Jjc0xHWXQzWjMyQQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "歐洲藥品管理局（EMA） Approved 104 Human Medicines in 2025",
       "summary": "",
       "source": "PharmTech.com",
       "date": "2026-06-11",
@@ -67,8 +90,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "最近與兒科相關的細胞和基因治療批准的臨床藥理學見解",
-      "summary": "與兒科相關的 nt 細胞和基因治療核准 Nature",
+      "title": "Clinical pharmacology insights from recent cell and 基因療法 approvals relevant to pediatrics",
+      "summary": "nt cell and 基因療法 approvals relevant to pediatrics Nature",
       "source": "Nature",
       "date": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",

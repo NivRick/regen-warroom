@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-06-24T13:14:39.490232+00:00",
+  "updated": "2026-06-24T23:59:38.174476+00:00",
   "items": [
     {
-      "title": "腸道菌群與代謝物驅動的免疫細胞時空動態對腫瘤的影響",
-      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除癌細胞方面扮演關鍵角色，日益受到關注。",
+      "title": "腸道菌群與代謝物如何驅動免疫細胞時空動態，進而影響腫瘤發展",
+      "summary": "癌症對人類健康構成重大威脅。免疫反應在清除腫瘤細胞方面扮演關鍵角色，越來越受到關注。",
       "source": "PubMed",
       "date": "2026-06-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42207498/",
       "lang": "zh-TW"
     },
     {
-      "title": "調控電熱療法增強腫瘤細胞對γδ",
+      "title": "調控式電熱療法如何增強腫瘤細胞對",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-24",
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "SM03, a non-depleting anti-CD22 antibody, modulates B cell activation and immune crosstalk to attenuate autoimmunity.",
+      "title": "SM03 是一種非消耗性抗 CD22 抗體，可調節 B 細胞活化和免疫串擾以減弱自體免疫。",
       "summary": "透過研究 SM03（一種新型人源化抗 CD22 單株抗體）在自體免疫環境中抑制 B 細胞失調的機制，評估 SM03 對 B 細胞介導的自體免疫疾病的疾病緩解潛力。",
       "source": "PubMed",
       "date": "2026-06-24",
@@ -60,15 +60,15 @@
     },
     {
       "title": "高強度熱壓力增強低分化肝細胞癌中過繼性 NK 細胞的細胞毒性。",
-      "summary": "Percutaneous thermal ablation is used to treat early-stage, non-resectable hepatocellular carcinoma (HCC). NK-cell 免疫療法 has been studied as an adjuvant treatment, but the efficacy remains unclear when combined with ablation.",
+      "summary": "經皮熱消融用於治療早期不可切除的肝細胞癌（HCC）。 NK 細胞免疫療法已作為輔助治療進行了研究，但與消融聯合使用時的療效仍不清楚。",
       "source": "PubMed",
       "date": "2026-06-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42311101/",
       "lang": "zh-TW"
     },
     {
-      "title": "3D生物列印技術與生物材料支架在傷口癒合的應用：深入探討去細胞化組織來源的生物墨水",
-      "summary": "隨著3D列印技術的出現，組織工程領域取得了顯著進展，尤其在傷口癒合方面。創新技術的發展，讓去細胞化組織來源",
+      "title": "3D生物列印技術與生物材料支架在傷口癒合的應用：去細胞化組織來源生物墨水的最新洞見",
+      "summary": "組織工程領域隨著3D列印技術的出現，取得了重大進展，尤其在傷口癒合方面。這項創新技術為再生醫學帶來新契",
       "source": "PubMed",
       "date": "2026-06-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42255493/",
@@ -76,7 +76,7 @@
     },
     {
       "title": "透過按需高速雷射用熱滅活的細胞外基質蛋白進行微圖案神經誘導。",
-      "summary": "Microenvironmental heterogeneity in cultured cells can compromise cell quality, reduce experimental reproducibility, and weaken the confidence of cell therapeutic efficacy. Although micropatterned cell cultures are more homogeneous, conventional micropatterning methods lack flexibility.",
+      "summary": "培養細胞中的微環境異質性會損害細胞質量，降低實驗重複性，並削弱細胞治療功效的信心。儘管微圖案細胞培養物更均質，但傳統的微圖案方法缺乏靈活性。",
       "source": "PubMed",
       "date": "2026-06-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42255491/",
@@ -84,7 +84,7 @@
     },
     {
       "title": "免疫學驅動的奈米材料用於免疫調節骨再生的新見解：從基礎知識到生物功能。",
-      "summary": "奈米材料在再生醫學中越來越受到重視，因為它們的奈米級特徵能夠實現精確的藥物傳輸、細胞調節和靶向組織修復。一个特别令人兴奋的机会在于它们在免疫调节骨再生中的应用，其中纳米科学和免疫...",
+      "summary": "奈米材料在再生醫學中越來越受到重視，因為它們的奈米級特徵能夠實現精確的藥物傳輸、細胞調節和靶向組織修復。一個特別令人興奮的機會在於它們在免疫調節骨再生中的應用，其中奈米科學和免疫...",
       "source": "PubMed",
       "date": "2026-06-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42206776/",
@@ -131,16 +131,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "具有異質細胞和柔性可灌注血管的皮瓣組織的 3D 生物列印。",
-      "summary": "儘管生物製造取得了進步，但用異質細胞製造大規模血管化組織仍然是一項艱鉅的挑戰。為了應對這項挑戰，提出了逆向工程結構化組織（REST）三維（3D）生物列印方法。該策略使...",
+      "title": "3D生物列印異質細胞皮瓣組織與彈性可灌注血管",
+      "summary": "儘管生物製造技術不斷進步，但要製造出含有異質細胞的大規模血管化組織，仍是一項艱鉅的挑戰。",
       "source": "PubMed",
       "date": "2026-06-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42281783/",
       "lang": "zh-TW"
     },
     {
-      "title": "轉錄組和蛋白質組分析證明，Fibrin-CaP 支架遞送的 BMP-7 信使RNA（mRNA） 可活化體內成骨程序。",
-      "summary": "兩種重組骨形態發生蛋白（BMP-2 和 BMP-7）已獲得 美國食藥局（FDA） 核准用於骨相關治療。然而，它們的臨床表現受到高成本、需要超生理劑量和不良副作用的限制。在這裡，我們描述了一種化學修飾的 信使RNA（mRNA） (cmRNA) 編碼...",
+      "title": "纖維蛋白-磷酸鈣（F",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42256891/",
@@ -156,7 +156,7 @@
     },
     {
       "title": "從藍圖到建構：週邊神經發育和工程再生中的金屬離子。",
-      "summary": "週邊神經損傷 (PNI) 造成了巨大的全球健康負擔，每年影響超過 2000 萬人，且經常出現恢復不佳和持續殘疾的情況。自体神经移植的固有局限性，例如供体部位发病率和供应有限，强调了临床...",
+      "summary": "週邊神經損傷 (PNI) 造成了巨大的全球健康負擔，每年影響超過 2000 萬人，且經常出現恢復不佳和持續殘疾的情況。自體神經移植的固有局限性，例如供體部位發病率和供應有限，強調了臨床...",
       "source": "PubMed",
       "date": "2026-06-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42318564/",
@@ -164,23 +164,23 @@
     },
     {
       "title": "[NA] CloB2M（氯法拉濱合併白消安和美法崙）調理方案在首次完全緩解的成人急性髓性白血病患者同種異體造血幹細胞移植的療效和安全性",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Institute of Hematology & Blood Diseases Hospital, China｜This is a single-center, prospective, exploratory clinical study. It plans to enroll 30 adult patients with acute myeloid leukemia (AML) who have achieved first complete remission (CR1) after induction therapy and meet the indications for 異體（取自捐贈者） ",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：中國血液病研究所血液病醫院｜這是一項單中心、前瞻性、探索性臨床研究。計劃入組30名誘導治療後首次完全緩解（CR1）且符合同種異體適應症的成人急性髓性白血病（AML）患者",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06-24",
       "url": "https://clinicaltrials.gov/study/NCT07644481",
       "lang": "zh-TW"
     },
     {
-      "title": "[不適用] 對接受 IPS101A 基因治療產品的嚴重帕金森氏症患者進行的長期追蹤研究。",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Innopeutics Corporation｜本研究的目的是評估 IPS101A 的長期安全性，並評估接受 IPS101A 的受試者療效的持久性。",
+      "title": "重度帕金森氏症患者接受IPS101A基因療法產品的長期追蹤研究",
+      "summary": "狀態：尚未招募｜主辦：Innopeutics 公司｜本研究旨在評估IPS101A的長期安全性及療效持久性。",
       "source": "ClinicalTrials.gov｜South Korea",
       "date": "2026-06-24",
       "url": "https://clinicaltrials.gov/study/NCT07629115",
       "lang": "zh-TW"
     },
     {
-      "title": "[NA] A Study to Evaluate Next-Generation Sequencing (NGS) Testing and Monitoring of B-cell Recovery to Guide Management Following 嵌合抗原受體 T-cell (CAR-T細胞療法) Induced Remission in Children and Young Adults With B Lineage Acute Lymphoblastic Leu...",
-      "summary": "狀態：招募中｜主辦單位：美國國家癌症研究所（NCI）｜背景：\n\n嵌合抗原受體 T 細胞 (CAR-T細胞療法) 療法是一種免疫療法，可用於治療復發性 B-ALL 患者。對於那些在單獨 CAR-T細胞療法 後獲得緩解的患者來說，可能會治癒高達 50% 接受這種療法的患者。",
+      "title": "[NA] 一項評估次世代定序 (NGS) 測試和 B 細胞恢復監測的研究，以指導嵌合抗原受體 T 細胞 (CAR-T細胞療法) 誘導 B 系急性淋巴細胞白血病兒童和年輕人緩解後的治療...",
+      "summary": "狀態：招募｜主辦單位：美國國家癌症研究所（NCI）｜背景：\n\n嵌合抗原受體 T 細胞 (CAR-T細胞療法) 療法是一種免疫療法，可用於治療復發性 B-ALL 患者。對於那些單獨使用 CAR-T細胞療法 後獲得緩解的患者來說，接受這種療法的患者的治癒率可能高達 50%。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-24",
       "url": "https://clinicaltrials.gov/study/NCT05621291",
@@ -195,8 +195,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第二期臨床試驗：ASP-1929與Cemiplimab光免疫療法（PIT）治療頑固性、無法手術及轉移性第三B-IV期非小細胞肺癌",
-      "summary": "狀態：尚未開始招募｜主辦：羅斯威爾公園癌症中心｜這項第二期臨床",
+      "title": "[第 2 期] 使用 ASP-1929 和 Cemiplimab 進行光免疫療法治療難治性、無法手術和轉移性 IIIB-IV 期非小細胞肺癌",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Roswell Park Cancer Institute｜這項 II 期試驗測試了 ASP-1929 光免疫療法 (PIT) 聯合 cemiplimab 治療對既往治療無反應（難治性）的 IIIB-IV 期非小細胞肺癌 (NSCLC) 患者的效果。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-24",
       "url": "https://clinicaltrials.gov/study/NCT06943664",
@@ -243,6 +243,22 @@
       "lang": "zh-TW"
     },
     {
+      "title": "UCI Health啟動全球首個亨丁頓舞蹈症人體幹細胞療法臨床試驗",
+      "summary": "UCI Health啟動全球首個人體臨床試驗，利用胚胎幹細胞分化出的神經細胞來治療亨丁頓舞蹈症，並測試MRI導引...",
+      "source": "GEN News",
+      "date": "2026-06-24",
+      "url": "https://www.genengnews.com/topics/translational-medicine/first-in-human-stem-cell-therapy-trial-for-huntingtons-disease-begins-at-uci-health/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "幹細胞",
+      "summary": "",
+      "source": "GEN News",
+      "date": "2026-06-24",
+      "url": "https://www.genengnews.com/topics/bioprocessing/scaling-stem-cell-manufacturing-for-therapies/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "ASCO 2026 小細胞肺癌的主要要點",
       "summary": "ll 肺癌腫瘤學新聞中心",
       "source": "Oncology News Central",
@@ -251,7 +267,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞療法 Laromestrocel 治療輕度阿茲海默症的新 2a 期臨床數據分析被接受在 2026 年阿茲海默症協會國際會議 (AAIC) 上進行海報展示",
+      "title": "New Phase 2a Clinical Data Analysis of 幹細胞 Therapy Laromestrocel in Mild Alzheimer’s Disease Accepted for Poster Presentation at the 2026 Alzheimer’s Association International Conference (AAIC)",
       "summary": "幹細胞療法 Laromestrocel 治療輕度阿茲海默症被接受在 2026 年阿茲海默症協會國際會議 (AAIC) 上進行海報展示 雅虎財經",
       "source": "Yahoo Finance",
       "date": "2026-06-18",
@@ -267,35 +283,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Longeveron 獲得 AAIC 阿茲海默症幹細胞數據海報位置",
-      "summary": "海默的幹細胞數據 Stock Titan",
-      "source": "Stock Titan",
-      "date": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFdiSkNlY1pQdXRPQ0x0NDl2VGYyd19qYVZlR192TjNVbF9QM21LZHBsVUgzVGNyMW5HS0xGZ2RLU1F3bktfRFgtSFFSWmRRWnQ3ekxXMlJLMDBmZllwRTczZEZScXI0cXh5dDU5X0xZSlpFMVdCQXF1dXZJNURJMDRxWllLdzlXMkFKdGlhOU5pZ1BySjNFQ19VVExNc2M0MlJhRmpaQmMwNTdENDZ3eA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "專員國家優先券 (CNPV) 試點計劃",
-      "summary": "(CNPV) Pilot Program 美國食藥局（FDA）.gov",
+      "summary": "(CNPV) 試點計畫 美國食藥局（FDA）.gov",
       "source": "fda.gov",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1] Study of [177Lu]Lu-DWJ155 and [68Ga]Ga-DWJ155 in Patients With Solid Tumors",
+      "title": "[PHASE1] [177Lu]Lu-DWJ155 和 [68Ga]Ga-DWJ155 在實體瘤患者的研究",
       "summary": "狀態：招募中｜主辦單位：諾華製藥｜本一期研究的目的是評估\\[177Lu\\]Lu-DWJ155的安全性、耐受性、劑量學和初步抗腫瘤活性，以及​​\\[68Ga\\]Ga-DWJ155在組織學或細胞學上患有癌症的患者中的安全性和成像特性。",
-      "source": "ClinicalTrials.gov｜Japan, Australia, Canada",
+      "source": "ClinicalTrials.gov｜Australia, Canada, Japan",
       "date": "2026-06-16",
       "url": "https://clinicaltrials.gov/study/NCT07660055",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "全球去外泌體胎牛血清市場分析、預測、規模、趨勢與洞察",
-      "summary": "這份報告深入分析全球去外泌體胎牛血清市場，涵蓋其規模、趨勢、未來預測及產業洞察。",
-      "source": "IndexBox",
-      "date": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUp2QW0tVFFVNHVyakVsdGdtb2JiNXhHbjVwTFpMTVBONmlSVm4wMFVuZVRfaTJNTm1IRjVhQXBhTFYzUHpLeFlpNnRaV3BfeVZaRkFMeXNyZWdQeC1sdVJucUUwUnZ5VGxHRE50NmxzZU1iaVpnWmVtQmxzWGJhMWxKMzBHUlRaWUFGSjZFX3RoaFhMNnFaMUd1NEpSdVNJS3VXZWQ3Z2hkSUgwdmF3Y2JETUpRZWRPdnlBdzlfY21oMmVWdDE0dWQxcnNHZlpBS0hV?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -324,10 +324,26 @@
     },
     {
       "title": "隨著人工智慧、幹細胞療法和 3D 生物列印徹底改變醫療保健，再生醫學市場規模到 2035 年將超過 2,348.5 億美元",
-      "summary": "pass USD 234.85 Billion by 2035 as AI, 幹細胞 Therapy, and 3D Bioprinting Revolutionize Healthcare BioSpace",
+      "summary": "人工智慧、幹細胞療法和 3D 生物列印將徹底改變醫療保健產業，到 2035 年將達到 2,348.5 億美元",
       "source": "BioSpace",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMzViY0hJS2JZVXpONklyNnh2ZzViTHZjSUlaZEhPLWoxNHUwVzhQNXEyYUJNMkR3RGxCa2pnaWxBb2RlYUxiNzR4dHc4U2FLSGpnT1JEY2t1aDRfWmxhaGV2SGUtVl9QTmNXVzYwbGZrLTQzMGZjTlBac1YwRXY0eDBNdUpKeS1wV29zWWwzb004NEViMFJkY2JSelprWl9LN0l0ZGUtckZRVEhwOUd5Y2Y1SDhrRjhSWVFVZjlSaWhlcWVLWFBEajVzUlJicGh1RHp6XzE0V25SVGRWVEY1TDFBRTFDWURnZldtdk05aWoyTnVMSFp2QWI1dXczam1SLTV3M2Z6OEd4MTg?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "下一代骨關節炎療法：細胞治療產品不斷發展的作用",
+      "summary": "itis：細胞治療產品不斷發展的作用 Nature",
+      "source": "Nature",
+      "date": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZTy10OVEwS2dVa01xc2tzZHhvUndDX1VtUHNjNVZCaENDYTc0b2RadmZpRFNBN0VqbkZwanJtSXdUNGIwdTBuV3VGQ19iVDl6V1FKWHNpNUVhbTBMRGI4?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "百健 (Biogen) 的 Salanersen 獲得 美國食藥局（FDA） 脊髓性肌肉萎縮症突破性療法認定",
+      "summary": "脊髓性肌肉萎縮症的粗略治療指定 Biogen",
+      "source": "Biogen",
+      "date": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaGx4ZTZ1RzRyVTJIeEZxSk9hdzBndzFxS2ZITzR6U2tVd2tfOUNPRGprNUFTMURKbnB0OHYxNTcyOUs5RVl5cTM5Q3ZGQXlUanA5aHRzdm5fRlp1SDlFQzBsdXpjMHVFc2tiNFNQd0RzUmhuZEJxNkRRUHJXN015VVhJSmlRWEJjbWltQjNmS2JsaFJPZ3ZWcXZxTW9Dd09ZMHpWX0NrRjVIUUdxVHd5WDFnekVBNDNRYnNBTV8tQkN0QXZWekZF?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -356,7 +372,7 @@
     },
     {
       "title": "[NA] 使用單細胞 RNA 定序評估音樂療法對鐮狀細胞疾病青少年的分子機制和效果",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：埃默里大學｜這項臨床試驗的目標是評估為期 4 週的音樂療法 (MT) 幹預是否可以減輕鐮狀細胞疾病 (SCD) 青少年的慢性疼痛并改善心理社會結果。\n\n它旨在回答的主要问题是：\n\n* MT 是否",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：埃默里大學｜這項臨床試驗的目標是評估為期 4 週的音樂療法 (MT) 幹預是否可以減輕鐮狀細胞疾病 (SCD) 青少年的慢性疼痛并改善心理社會結果。\n\n它旨在回答的主要問題是：\n\n* MT 是否",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06",
       "url": "https://clinicaltrials.gov/study/NCT07562451",
@@ -364,15 +380,15 @@
     },
     {
       "title": "[第 2 期] SHR2554/AZA + 重疊改良 BUCY 用於高風險/復發性白血病/MDS",
-      "summary": "状态：NOT_YET_RECRUITING｜主办：苏州大学附属第一医院｜本研究是一项前瞻性、多中心、开放标签、随机对照试验。符合資格的參與者是年齡 15-65 歲的高風險或復發/難治性急性髓性白血病 (AML)、急性淋巴細胞白血病 (ALL) 患者",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：蘇州大學附設第一醫院｜本研究為前瞻性、多中心、開放標籤、隨機對照試驗。符合資格的參與者是年齡 15-65 歲的高風險或復發/難治性急性髓性白血病 (AML)、急性淋巴細胞白血病 (ALL) 患者",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-06",
       "url": "https://clinicaltrials.gov/study/NCT07575412",
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 階段] Olomorasib + Pembrolizumab KRAS G12C 突變體，PD-L1 TPS 1-49% 局部晚期或轉移性 NSCLC",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：北卡羅來納大學萊恩伯格綜合癌症中心｜這項臨床試驗評估了奧洛莫拉西和派姆單抗的組合作為一線治療方法，用於治療具有克爾斯滕大鼠肉瘤病毒（KRAS）G12C 突變和程序的晚期或轉移性非小細胞肺癌（NSCLC）患者",
+      "title": "第二期",
+      "summary": "",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06",
       "url": "https://clinicaltrials.gov/study/NCT07639242",
@@ -384,14 +400,6 @@
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-06",
       "url": "https://clinicaltrials.gov/study/NCT07647744",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE1, PHASE2] 間質幹細胞冷卻療法治療嬰兒缺氧缺血性腦病",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：瑪希隆大學｜缺氧缺血性腦病變（HIE）是新生兒出生時因缺氧和血流不足而引起的嚴重疾病。冷卻療法（治療性低溫）的標準治療可降低死亡或殘疾的風險，但",
-      "source": "ClinicalTrials.gov｜Thailand",
-      "date": "2026-06",
-      "url": "https://clinicaltrials.gov/study/NCT07018739",
       "lang": "zh-TW"
     }
   ]

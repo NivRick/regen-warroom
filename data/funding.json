@@ -1,18 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-06-24T13:16:15.962298+00:00",
+  "updated": "2026-06-25T00:01:07.499433+00:00",
   "items": [
     {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關 美國食藥局（FDA） 專員候選人、德國藥品價格計劃等的信息",
-      "summary": "Regenxbio 計畫申請加速批准其治療杜氏肌肉營養不良症的基因療法。",
+      "title": "STAT+: Eli Lilly dives into hair loss treatments with investment in AI startup Absci",
+      "summary": "禮來公司正在投資一家小型新創公司，開發一種刺激毛髮生長的藥物，並有可能治療子宮內膜異位症。",
+      "source": "STAT News",
+      "date": "2026-06-24",
+      "url": "https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about an 美國食藥局（FDA） commissioner candidate, Germany’s plans for drug prices, and more",
+      "summary": "Regenxbio plans to apply for accelerated approval for its 基因療法 for Duchenne muscular dystrophy.",
       "source": "STAT News",
       "date": "2026-06-24",
       "url": "https://www.statnews.com/pharmalot/2026/06/24/fda-commissioner-candidate-germany-plans-for-drug-prices/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：押注 美國食藥局（FDA） 的變化，Regenxbio 將提交 Duchenne 基因療法審批",
-      "summary": "Regenxbio 計劃將其 Duchenne 基因療法提交 美國食藥局（FDA） 批准，就在一個月前，該公司表示監管機構希望看到另一項試驗。",
+      "title": "STAT+: Wagering on 美國食藥局（FDA） changes, Regenxbio will submit Duchenne 基因療法 for approval",
+      "summary": "Regenxbio plans to submit its Duchenne 基因療法 for 美國食藥局（FDA） approval, just a month after it said that regulators wanted to see another trial.",
       "source": "STAT News",
       "date": "2026-06-24",
       "url": "https://www.statnews.com/2026/06/24/regenxbio-duchenne-gene-therapy-fda-submission/?utm_campaign=rss",
@@ -27,7 +35,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Ollin refuels with $330M to back pivotal tests of Vabysmo challenger",
+      "title": "Sangamo 進行破產出售；創投公司支持與中國有關的 Beam 競爭對手",
+      "summary": "禮來公司 (Eli Lilly) 和安斯泰來 (Astellas) 將成為 Sangamo 資產拍賣的主要競標者。在其他地方，一個投資者財團向一家基因編輯新創公司承諾投資 2.3 億美元，默克 (Merck KGaA) 達成了一項「先建後買」的交易。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-24",
+      "url": "https://www.biopharmadive.com/news/sangamo-bankruptcy-serapha-china-saturnus-cenrifki-carsgen/823588/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Ollin 斥資 3.3 億美元加油，支持 Vabysmo 挑戰者的關鍵測試",
       "summary": "今年最大的風險融資輪之一是在一項頭對頭研究顯示 Ollin 的藥物（由中國開發商許可）比羅氏的眼科治療具有一定優勢之後進行的。",
       "source": "BioPharma Dive",
       "date": "2026-06-24",
@@ -43,31 +59,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：OpenEvidence 將添加經 美國食藥局（FDA） 批准的 AI 來檢測心臟病",
-      "summary": "In this edition of STAT Health Tech: OpenEvidence adds AI to detect heart disease, and Cadence raises $100 million, and more.",
-      "source": "STAT News",
-      "date": "2026-06-23",
-      "url": "https://www.statnews.com/2026/06/23/openevidence-fda-cleared-heart-disease-ai-health-tech/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Cadence 融資 1 億美元，利用受監管的人工智慧實現慢性病照護自動化",
-      "summary": "Digital health startup Cadence has raised $100 million at a $1.23 billion valuation to expand its chronic disease management program.",
-      "source": "STAT News",
-      "date": "2026-06-23",
-      "url": "https://www.statnews.com/2026/06/23/cadence-100-million-raise-automate-chronic-care-ai/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：基因編輯新創公司斥資 2.3 億美元成立，並達成中國授權協議",
-      "summary": "一家新的基因編輯新創公司與一家中國公司談判了合同，籌集了 2.3 億美元的資金，並與一家現有的生物技術公司進行了反向合併。",
-      "source": "STAT News",
-      "date": "2026-06-23",
-      "url": "https://www.statnews.com/2026/06/23/gene-editing-startup-serapha-bio-aatd/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Pfizer drug acquired in Seagen deal disappoints in lung cancer study",
+      "title": "Seagen 交易中獲得的輝瑞藥物在肺癌研究中令人失望",
       "summary": "儘管一些分析師對該藥物在另一項試驗中的機會持樂觀態度，但這一挫折使輝瑞視為未來重要貢獻者的藥物前景黯淡。",
       "source": "BioPharma Dive",
       "date": "2026-06-23",
@@ -91,40 +83,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "隨著 美國食藥局（FDA） 對另一項藥物拒絕的反悔，Regenxbio 將重新提交基因治療",
-      "summary": "該機構又邁出了一步，清理了馬卡里時代積壓的拒絕訂單，這些拒絕訂單似乎與先前與製藥商達成的協議相矛盾。",
+      "title": "Regenxbio to resubmit 基因療法 as 美國食藥局（FDA） backtracks on another drug rejection",
+      "summary": "The agency took another step toward clearing a backlog of Makary-era rejections that appeared to contradict earlier agreements with drugmakers.",
       "source": "BioPharma Dive",
       "date": "2026-06-22",
       "url": "https://www.biopharmadive.com/news/regenxbio-fda-resubmit-hunter-syndrome-gene-therapy/823381/",
       "lang": "zh-TW"
     },
     {
-      "title": "賽諾菲更換研發負責人；默克公司的普羅米修斯交易帶來了紅利",
-      "summary": "霍曼·阿什拉菲安 (Houman Ashrafian) 即將離開賽諾菲去尋找新的機會。在其他地方，默克公司的一款備受推崇的免疫藥物在一項關鍵研究中取得了成功，迷幻生技公司的股價也隨之飆升。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-22",
-      "url": "https://www.biopharmadive.com/news/sanofi-ashrafian-fontoura-merck-prometheus-definium-nura-bioarctic/823359/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "艾伯維 (AbbVie) 收購 Apogee，斥資近 11B 美元購買長效自體免疫藥物",
-      "summary": "艾伯維 (AbbVie) 五十多年來最大的一筆交易增加了一系列免疫疾病藥物（其中包括 Dupixent 的競爭對手），該公司相信這些藥物具有「超級重磅炸彈」的銷售潛力。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-22",
-      "url": "https://www.biopharmadive.com/news/abbvie-apogee-acquire-zumilokibart-eczema-drugs/823353/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
-      "summary": "細胞與基因治療製造技術 PharmTech.com",
-      "source": "PharmTech.com",
-      "date": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Longevity startup NewLimit raises $435 million ahead of first 臨床試驗",
-      "summary": "首次臨床試驗提前數百萬 statnews.com",
+      "summary": "illion ahead of first 臨床試驗 statnews.com",
       "source": "statnews.com",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOC1qTXA4ZGpQRnVJbmFzc0ZTQmVoMW1tSDJJZEhZM2pjN1JUdjFpVjlVdU43dXphOGZTcTZIbjZZVmRNZDhRU01jVDdZYV9teVdyNnFvaVlEUVdsNXNwSy1qMHB6MkQxZDlfSXRBQVdobTRjTGRHbWtGWUJqWVE4dkhzQ1J2ZC1QNVFvV0x6bktPaUdVc1VacXFHNlJ6V2c1SDhrYmZia0pIZWZzUUdN?oc=5",
