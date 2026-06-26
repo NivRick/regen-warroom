@@ -1,37 +1,45 @@
 {
   "module": "funding",
-  "updated": "2026-06-25T13:14:58.410029+00:00",
+  "updated": "2026-06-26T00:06:12.813684+00:00",
   "items": [
     {
-      "title": "禮來（Eli Lilly）投入生髮治療，投資 AI 新創公司 Absci",
-      "summary": "禮來（Eli Lilly）投資 AI 新創 Absci，開發促進生髮與治療子宮內膜異位症的藥物。",
+      "title": "禮來公司肥胖藥物的神秘案例",
+      "summary": "誰獲得了禮來公司備受期待的肥胖候選藥物的獨家訪問權？為什麼藥廠要花這麼多錢進行收購？請關注本週的「朗讀」節目。",
+      "source": "STAT News",
+      "date": "2026-06-25",
+      "url": "https://www.statnews.com/2026/06/25/readout-loud-podcast-eli-lilly-fda-obesity-trump-absci-regenxbio/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Cassidy proposes bill to rein in 340B drug discount program",
+      "summary": "對 340B 藥品折扣計劃設置新的限制對於面臨資金削減的醫院來說將是一個新的挑戰。",
+      "source": "STAT News",
+      "date": "2026-06-25",
+      "url": "https://www.statnews.com/2026/06/25/cassidy-bill-rein-in-340b-drug-discount-program/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Remix 將透過與曾經風光無限的 Passage Bio 反向合併而上市",
+      "summary": "這項交易標誌著 Passage Bio 命運的最新轉折，該公司是基因療法先驅吉姆威爾遜 (Jim Wilson) 創辦的公司之一。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-25",
+      "url": "https://www.biopharmadive.com/news/passage-bio-remix-reverse-merger-gene-therapy-wilson/823775/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Antares 從諾華獲得 1.05 億美元用於新抗癌藥物",
+      "summary": "Scorpion Therapeutics 分拆公司的執行長 Adam Friedman 表示，這筆交易有助於兩家公司「比我們單獨行動的速度更快」地加速研究。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-25",
+      "url": "https://www.biopharmadive.com/news/novartis-antares-deal-cancer-drugs/823761/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：禮來公司投資人工智慧新創公司 Absci，進軍脫髮治療領域",
+      "summary": "禮來公司正在投資一家小型新創公司，開發一種刺激毛髮生長的藥物，並有可能治療子宮內膜異位症。",
       "source": "STAT News",
       "date": "2026-06-24",
       "url": "https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "藥業小新聞：FDA 局長候選",
-      "summary": "",
-      "source": "STAT News",
-      "date": "2026-06-24",
-      "url": "https://www.statnews.com/pharmalot/2026/06/24/fda-commissioner-candidate-germany-plans-for-drug-prices/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：押注 美國食藥局（FDA） 的變化，Regenxbio 將提交 Duchenne 基因療法審批",
-      "summary": "Regenxbio 計劃將其 Duchenne 基因療法提交 美國食藥局（FDA） 批准，就在一個月前，該公司表示監管機構希望看到另一項試驗。",
-      "source": "STAT News",
-      "date": "2026-06-24",
-      "url": "https://www.statnews.com/2026/06/24/regenxbio-duchenne-gene-therapy-fda-submission/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：眼科企業吸引投資人關注，融資 3.3 億美元",
-      "summary": "一家開發眼疾治療方法的新創公司已從投資者那裡籌集了 3.3 億美元，準備進行後期測試。",
-      "source": "STAT News",
-      "date": "2026-06-24",
-      "url": "https://www.statnews.com/2026/06/24/ophthalmology-biotech-ollin-biosciences/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -72,14 +80,6 @@
       "source": "BioPharma Dive",
       "date": "2026-06-23",
       "url": "https://www.biopharmadive.com/news/bio-2026-ipo-biotech-performance-predictions/823474/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "隨著 美國食藥局（FDA） 對另一項藥物拒絕的反悔，Regenxbio 將重新提交基因治療",
-      "summary": "該機構又邁出了一步，清理了馬卡里時代積壓的拒絕訂單，這些拒絕訂單似乎與先前與製藥商達成的協議相矛盾。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-22",
-      "url": "https://www.biopharmadive.com/news/regenxbio-fda-resubmit-hunter-syndrome-gene-therapy/823381/",
       "lang": "zh-TW"
     },
     {
