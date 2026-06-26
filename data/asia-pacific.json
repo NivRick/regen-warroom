@@ -1,7 +1,15 @@
 {
   "module": "apac",
-  "updated": "2026-06-26T13:06:54.405781+00:00",
+  "updated": "2026-06-26T23:57:21.960158+00:00",
   "items": [
+    {
+      "title": "在 BIO，中國生物技術交易監管的緊張局勢迫在眉睫",
+      "summary": "生物技術投資者、高管和分析師擔心，全面禁止與中國公司進行交易可能會抑制國內企業家在該行業的雄心壯志。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-26",
+      "url": "https://www.biopharmadive.com/news/bio-2026-us-china-biotech-competition/823723/",
+      "lang": "zh-TW"
+    },
     {
       "title": "國際石墨與五金集團達成協議，支持亞太地區石墨銷售和牧羊犬原料供應",
       "summary": "積極支持亞太石墨銷售和牧羊犬原料供應 積極財經新聞",
@@ -11,7 +19,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Sangamo 進行破產出售；創投公司支持與中國有關的 Beam 競爭對手",
+      "title": "Sangamo 進行破產出售；創投家支持與中國有關的 Beam 競爭對手",
       "summary": "禮來公司 (Eli Lilly) 和安斯泰來 (Astellas) 將成為 Sangamo 資產拍賣的主要競標者。在其他地方，一個投資者財團向一家基因編輯新創公司承諾投資 2.3 億美元，默克 (Merck KGaA) 達成了一項「先建後買」的交易。",
       "source": "BioPharma Dive",
       "date": "2026-06-24",
@@ -19,24 +27,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Ollin 斥資 3.3 億美元加油，支持 Vabysmo 挑戰者的關鍵測試",
-      "summary": "今年最大的風險融資輪之一是在一項頭對頭研究顯示 Ollin 的藥物（由中國開發商許可）比羅氏的眼科治療具有一定優勢之後進行的。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-24",
-      "url": "https://www.biopharmadive.com/news/ollin-biosciences-financing-china-innovent-vabysmo-amd-dme/823564/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "HHS 響應中國崛起，加速早期藥物研究",
-      "summary": "一系列新計劃的改革旨在吸引公司在美國而不是海外開始早期試驗。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-23",
-      "url": "https://www.biopharmadive.com/news/hhs-clinical-trial-streamline-plan-china/823504/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "基因療法市場規模預計在2035年達到635.2億美元",
-      "summary": "Precedence",
+      "title": "到 2035 年，基因治療市場規模將達到 635.2 億美元",
+      "summary": "到 2035 年將達到 20 億 優先研究",
       "source": "Precedence Research",
       "date": "2026-06-19",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01NklZci11aHpUaEhMVlhnb1FxQWFfYVFYOU5wMHd4WF9pb3Y2cWZaR05fN3ZadWhXOXZUemIxTGczLU1VTUtoTUdFdFdnMVFsSGNqVjJWMXlVU2JCWlQ4b3RSb0s?oc=5",
@@ -57,6 +49,14 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMzJCWE5ranVVdzRyNUI5V2JieWxaYWdzaTZxUzR1Zlk1Z2FFNjhpUUFhZDJqX1NkTGd5Z2c1MUx0ZTRWU2xvSFRmSW91ekE?oc=5"
     },
     {
+      "title": "生物技術市場規模、份額、趨勢 |成長報告[2034]",
+      "summary": "| Growth Report [2034] Fortune Business Insights",
+      "source": "Fortune Business Insights",
+      "date": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56UXJtZ2hSYUxfR1gwZmVxYmtEUC1fbVpuS1ZxLWs5blIzSEN3bmNBdGZJV0ZvaF8tRGFrMWZXMW5ON0NvQTBNa2xVUkZieW1QSmZHVWZEVjVEQnlUYUhzWFRGcHY4ZVdHQXFKLWpMM3BjRGJ3Smc?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "亞太地區 CDMO 和 ATMP 成長強勁",
       "summary": "",
       "source": "BioSpectrum Asia",
@@ -65,11 +65,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "細胞與基因療法市場規模、市佔率 | 2034年成長報告",
-      "summary": "Fortune Business Insights發布的2034年市場成長報告。",
-      "source": "Fortune Business Insights",
-      "date": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjd6aFlfQzVpQjcwOF9xTUxnbENhcjAxOTh1UmlsbDhfeVFfaEVBbVNiWklOQ2JfTVZTZTRjSW5VMF94V0dUOFQxWlVsRUpieHhjc0M1aGJiR2JmU1E2ZXkydHpxNjlyVW81ZlRSbmNDTFJSSGVOM3FGYTVhUFNGTQ?oc=5",
+      "title": "基於外泌體的治療市場規模報告，2026-2033",
+      "summary": "電子報告，2026-2033 大觀研究",
+      "source": "Grand View Research",
+      "date": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWhFMFZ6T2p6WXd6cjZCckNUNjRLekFkeFlFZ1d4ckZBWjAzSzlYbTdxdlBQNEZ1SXRoLXVlZlJsYzVhbzMzOFhJZ0lGQTQ0d3dheS1qUC0zckp2WTFxcmFYZjNJeWhjd0x3N1c4bldPY3dwdkROWkxfNnR0RWhxZExCVVBIZzUxNnlMZng5dW1WYWYtQ2E0?oc=5",
       "lang": "zh-TW"
     }
   ]

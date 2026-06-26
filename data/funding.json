@@ -1,18 +1,50 @@
 {
   "module": "funding",
-  "updated": "2026-06-26T13:08:16.371550+00:00",
+  "updated": "2026-06-26T23:58:44.295637+00:00",
   "items": [
     {
-      "title": "最高法院裁定除草劑致癌案",
-      "summary": "民主黨想揭露禮來（Eli Lilly）肥胖症藥物使用者身份，新型基因編輯工具引發倫理爭議，以及更多生醫新聞。",
+      "title": "最高法院對除草劑癌症案做出裁決",
+      "summary": "民主黨希望揭露禮來公司肥胖吸毒者的身份，一種新的基因組編輯工具引發倫理問題，以及更多健康新聞",
       "source": "STAT News",
       "date": "2026-06-26",
       "url": "https://www.statnews.com/2026/06/26/health-news-supreme-court-rules-in-weedkiller-roundup-cancer-case/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "禮來（Eli Lilly）肥胖症藥物的神秘案例",
-      "summary": "",
+      "title": "美國食藥局（FDA） 接受 Replimune 備案； Merck KGaA 在生命科學服務領域投入 11B 美元",
+      "summary": "Replimune&rsquo;s application is the latest example of changing attitudes at the 美國食藥局（FDA）. Elsewhere, Revolution Medicines outlined more RAS-blocking data and a Definium stock offering brought in $800 million.",
+      "source": "BioPharma Dive",
+      "date": "2026-06-26",
+      "url": "https://www.biopharmadive.com/news/revolution-replimune-lilly-otsuka-definium-merck-biotech-news/823768/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "在 BIO，中國生物技術交易監管的緊張局勢迫在眉睫",
+      "summary": "生物技術投資者、高管和分析師擔心，全面禁止與中國公司進行交易可能會抑制國內企業家在該行業的雄心壯志。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-26",
+      "url": "https://www.biopharmadive.com/news/bio-2026-us-china-biotech-competition/823723/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Alkermes 即將上任的執行長計劃超越禮來（Lilly）和武田（Takeda）",
+      "summary": "布萊爾傑克森 (Blair Jackson) 表示，未來 12 個月可能是 Alkermes 歷史上最重要的時期，因為這家腦藥物製造商競相加入「食慾素」市場，分析師認為該市場蘊藏著數十億美元的機會。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-26",
+      "url": "https://www.biopharmadive.com/news/alkermes-blair-jackson-narcolepsy-drug-orexin-ceo-succession/823893/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "source": "PharmTech.com",
+      "date": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "禮來公司肥胖藥物的神秘案例",
+      "summary": "誰獲得了禮來公司備受期待的肥胖候選藥物的獨家訪問權？為什麼藥廠要花這麼多錢進行收購？敬请关注本周的“朗读”节目。",
       "source": "STAT News",
       "date": "2026-06-25",
       "url": "https://www.statnews.com/2026/06/25/readout-loud-podcast-eli-lilly-fda-obesity-trump-absci-regenxbio/?utm_campaign=rss",
@@ -43,51 +75,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Sangamo 進行破產出售；創投公司支持與中國有關的 Beam 競爭對手",
+      "title": "Ionis 獲得 美國食藥局（FDA） 新批准，迎來“商業拐點”",
+      "summary": "一位分析師表示，Ionis 歷來被視為“平台貨幣化故事”，現在 Tryngolza 擁有一種潛在價值數十億美元的藥物，該藥物週三獲得了擴大批准。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-24",
+      "url": "https://www.biopharmadive.com/news/ionis-wins-fda-ok-Tryngolza-broader-label-expansion/823717/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Sangamo 進行破產出售；創投家支持與中國有關的 Beam 競爭對手",
       "summary": "禮來公司 (Eli Lilly) 和安斯泰來 (Astellas) 將成為 Sangamo 資產拍賣的主要競標者。在其他地方，一個投資者財團向一家基因編輯新創公司承諾投資 2.3 億美元，默克 (Merck KGaA) 達成了一項「先建後買」的交易。",
       "source": "BioPharma Dive",
       "date": "2026-06-24",
       "url": "https://www.biopharmadive.com/news/sangamo-bankruptcy-serapha-china-saturnus-cenrifki-carsgen/823588/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Ollin 斥資 3.3 億美元加油，支持 Vabysmo 挑戰者的關鍵測試",
-      "summary": "今年最大的風險融資輪之一是在一項頭對頭研究顯示 Ollin 的藥物（由中國開發商許可）比羅氏的眼科治療具有一定優勢之後進行的。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-24",
-      "url": "https://www.biopharmadive.com/news/ollin-biosciences-financing-china-innovent-vabysmo-amd-dme/823564/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 籌款追蹤 '26：Oblenio 籌集了 6,200 萬美元；RQ Bio 融資 1.15 億美元",
-      "summary": "Oblenio 營收 6,200 萬美元；RQ Bio 融資 1.15 億美元 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Seagen 交易中獲得的輝瑞藥物在肺癌研究中令人失望",
-      "summary": "儘管一些分析師對該藥物在另一項試驗中的機會持樂觀態度，但這一挫折使輝瑞視為未來重要貢獻者的藥物前景黯淡。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-23",
-      "url": "https://www.biopharmadive.com/news/pfizer-sigvotatug-vedotin-lung-cancer-results-seagen/823501/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Kardigan如何將交易剩餘資產，成功推動4億美元的首次公開募股（IPO）",
-      "summary": "執行長Tassos Gianakakos表示，擁有後期開發資產以及MyoKardia強化過的團隊，確實引起了投資人的共鳴。SpaceX的大規模公開募股...",
-      "source": "BioPharma Dive",
-      "date": "2026-06-23",
-      "url": "https://www.biopharmadive.com/news/how-kardigan-spun-deal-leftovers-into-a-400m-ipo/823524/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "「窗口已開啟」：在 BIO，投資者正在評估越來越多的生物技術 首次公開上市（IPO）",
-      "summary": "在 BIO 年會上的訪談和小組討論中，投資者和生命科學銀行家預測今年稍後的發行將會加速，但僅限於符合特定標準的公司。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-23",
-      "url": "https://www.biopharmadive.com/news/bio-2026-ipo-biotech-performance-predictions/823474/",
       "lang": "zh-TW"
     },
     {
