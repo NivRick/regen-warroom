@@ -1,17 +1,25 @@
 {
   "module": "funding",
-  "updated": "2026-06-26T00:06:12.813684+00:00",
+  "updated": "2026-06-26T13:08:16.371550+00:00",
   "items": [
     {
-      "title": "禮來公司肥胖藥物的神秘案例",
-      "summary": "誰獲得了禮來公司備受期待的肥胖候選藥物的獨家訪問權？為什麼藥廠要花這麼多錢進行收購？請關注本週的「朗讀」節目。",
+      "title": "最高法院裁定除草劑致癌案",
+      "summary": "民主黨想揭露禮來（Eli Lilly）肥胖症藥物使用者身份，新型基因編輯工具引發倫理爭議，以及更多生醫新聞。",
+      "source": "STAT News",
+      "date": "2026-06-26",
+      "url": "https://www.statnews.com/2026/06/26/health-news-supreme-court-rules-in-weedkiller-roundup-cancer-case/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "禮來（Eli Lilly）肥胖症藥物的神秘案例",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-06-25",
       "url": "https://www.statnews.com/2026/06/25/readout-loud-podcast-eli-lilly-fda-obesity-trump-absci-regenxbio/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Cassidy proposes bill to rein in 340B drug discount program",
+      "title": "STAT+：卡西迪提出法案限制 340B 藥品折扣計劃",
       "summary": "對 340B 藥品折扣計劃設置新的限制對於面臨資金削減的醫院來說將是一個新的挑戰。",
       "source": "STAT News",
       "date": "2026-06-25",
@@ -35,14 +43,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：禮來公司投資人工智慧新創公司 Absci，進軍脫髮治療領域",
-      "summary": "禮來公司正在投資一家小型新創公司，開發一種刺激毛髮生長的藥物，並有可能治療子宮內膜異位症。",
-      "source": "STAT News",
-      "date": "2026-06-24",
-      "url": "https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Sangamo 進行破產出售；創投公司支持與中國有關的 Beam 競爭對手",
       "summary": "禮來公司 (Eli Lilly) 和安斯泰來 (Astellas) 將成為 Sangamo 資產拍賣的主要競標者。在其他地方，一個投資者財團向一家基因編輯新創公司承諾投資 2.3 億美元，默克 (Merck KGaA) 達成了一項「先建後買」的交易。",
       "source": "BioPharma Dive",
@@ -59,6 +59,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "Fierce Biotech 籌款追蹤 '26：Oblenio 籌集了 6,200 萬美元；RQ Bio 融資 1.15 億美元",
+      "summary": "Oblenio 營收 6,200 萬美元；RQ Bio 融資 1.15 億美元 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "Seagen 交易中獲得的輝瑞藥物在肺癌研究中令人失望",
       "summary": "儘管一些分析師對該藥物在另一項試驗中的機會持樂觀態度，但這一挫折使輝瑞視為未來重要貢獻者的藥物前景黯淡。",
       "source": "BioPharma Dive",
@@ -67,8 +75,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Cardigan 如何將交易剩餘資金轉化為 4 億美元的 首次公開上市（IPO）",
-      "summary": "執行長 Tassos Gianakakos 表示，MyoKardia 擁有的後期資產和強大的團隊確實引起了投資者的共鳴。 SpaceX 的巨額公開發行也沒有造成影響。",
+      "title": "Kardigan如何將交易剩餘資產，成功推動4億美元的首次公開募股（IPO）",
+      "summary": "執行長Tassos Gianakakos表示，擁有後期開發資產以及MyoKardia強化過的團隊，確實引起了投資人的共鳴。SpaceX的大規模公開募股...",
       "source": "BioPharma Dive",
       "date": "2026-06-23",
       "url": "https://www.biopharmadive.com/news/how-kardigan-spun-deal-leftovers-into-a-400m-ipo/823524/",
