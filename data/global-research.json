@@ -1,10 +1,10 @@
 {
   "module": "research",
-  "updated": "2026-06-27T12:07:04.932462+00:00",
+  "updated": "2026-06-27T23:53:39.667738+00:00",
   "items": [
     {
-      "title": "ABHD17C 調控樂伐替尼抑制肝細胞癌的療效",
-      "summary": "樂伐替尼（Lenvatinib）是肝細胞癌（HCC）的一線療法，但其臨床療效常受抗藥性限制。研究發現ABHD17C可能在其中扮演關鍵角色。",
+      "title": "ABHD17C 調控樂伐替尼（lenvatinib）抑制肝細胞癌的療效",
+      "summary": "研究發現ABHD17C能調控樂伐替尼（lenvatinib）治療肝細胞癌的療效，有助於克服藥物抗性問題。",
       "source": "PubMed",
       "date": "2026-06-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42358063/",
@@ -51,7 +51,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "SM03, a non-depleting anti-CD22 antibody, modulates B cell activation and immune crosstalk to attenuate autoimmunity.",
+      "title": "SM03 是一種非消耗性抗 CD22 抗體，可調節 B 細胞活化和免疫串擾以減弱自體免疫。",
       "summary": "透過研究 SM03（一種新型人源化抗 CD22 單株抗體）在自體免疫環境中抑制 B 細胞失調的機制，評估 SM03 對 B 細胞介導的自體免疫疾病的疾病緩解潛力。",
       "source": "PubMed",
       "date": "2026-06-27",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "嵌合抗原受體T細胞免疫療法在乳癌的知識圖譜與研究趨勢：文獻計量與視覺分析研究",
-      "summary": "嵌合抗原受體T細胞療法（CAR-T）在血液腫瘤治療上已取得里程碑式的成功，目前正積極探索其在乳癌治療上的",
+      "title": "乳癌的嵌合抗原受體T細胞療法（CAR-T）：知識圖譜與研究趨勢分析",
+      "summary": "嵌合抗原受體T細胞療法（CAR-T）在血液惡性腫瘤治療上已取得里程碑式的成功，目前正積極探索其在乳癌治療的潛力",
       "source": "PubMed",
       "date": "2026-06-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42316771/",
@@ -84,7 +84,7 @@
     },
     {
       "title": "用於傷口癒合的 3D 生物列印技術和基於生物材料的支架：深入了解脫細胞組織衍生的生物墨水。",
-      "summary": "隨著 3D 列印技術的出現，組織工程領域取得了重大進步，特別是在傷口癒合方面。結合脫細胞生物材料的創新 3D 列印支架為增強再生過程提供了一種有前途的方法。脫細胞雙...",
+      "summary": "隨著 3D 列印技術的出現，組織工程領域取得了重大進步，特別是在傷口癒合方面。結合去細胞生物材料的創新 3D 列印支架為增強再生過程提供了一種有前景的方法。脫細胞雙...",
       "source": "PubMed",
       "date": "2026-06-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42255493/",
@@ -131,15 +131,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "利用控制支架彎曲與含肌肉源細胞的軟骨生成配方進行非傳統耳朵重建",
-      "summary": "組織工程耳朵面臨植入物機械強度不足、幹細胞/前驅細胞缺乏等挑戰，此研究提出創新解決方案。",
+      "title": "利用可控支架彎曲與含肌肉源細胞的軟骨生成配方，進行非傳統耳朵重建",
+      "summary": "組織工程耳朵面臨挑戰，包括植入物機械強度不足、幹細胞/前驅細胞數量不夠，以及其他未知因素。",
       "source": "PubMed",
       "date": "2026-06-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42318054/",
       "lang": "zh-TW"
     },
     {
-      "title": "一種調控血管類器官融合與",
+      "title": "一種黏彈性懸浮培養",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-27",
@@ -187,8 +187,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "二期臨床試驗：低劑量、降低給藥頻率的納武單抗（Nivolumab）用於治療無法手術切除或轉移性癌症，AFFORD IO 試驗",
-      "summary": "狀態：尚未開始招募｜主辦：弗雷德哈欽森癌症研究中心｜這項二期",
+      "title": "[二期臨床] 低劑量、降低頻率的Nivolumab用於治療無法切除或轉移性癌症：AFFORD IO試驗",
+      "summary": "弗雷德哈欽森癌症研究中心主辦，這項二期臨床試驗將評估低劑量、降低頻率的Nivol",
       "source": "ClinicalTrials.gov｜Uganda",
       "date": "2026-06-27",
       "url": "https://clinicaltrials.gov/study/NCT07576725",
@@ -228,7 +228,7 @@
     },
     {
       "title": "[第 1 期、第 2 期] 新輔助吸入氮雜胞苷合併鉑類化療和 Durvalumab (MEDI4736) - 用於可手術早期非小細胞肺癌 (NSCLC) 的表觀遺傳-免疫聯合療法 (AZA-AEGEAN) 方案",
-      "summary": "狀態：招募｜主辦單位：美國國家癌症研究所（NCI）｜背景：\n\n肺癌是全球癌症相關死亡的主要原因。非小細胞肺癌（NSCLC）是最常見的肺癌類型。手術切除腫瘤是早期診斷患者的標準治療方法",
+      "summary": "狀態：招募中｜主辦單位：美國國家癌症研究所（NCI）｜背景：\n\n肺癌是全球癌症相關死亡的主要原因。非小細胞肺癌（NSCLC）是最常見的肺癌類型。手術切除腫瘤是早期診斷患者的標準治療方法",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-27",
       "url": "https://clinicaltrials.gov/study/NCT06694454",
@@ -243,8 +243,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "膀胱內嵌合抗原受體T細胞療法（CAR-T）在臨床前模型中有效抑制膀胱癌生長",
-      "summary": "研究人員發現MUC16蛋白是膀胱癌一個具臨床意義的標靶，並成功開發出針對MUC16的嵌合抗原受體T細胞（CAR",
+      "title": "臨床前模型中膀胱內 CAR-T細胞療法 細胞療法可減少膀胱癌的生長",
+      "summary": "研究人員將蛋白質 MUC16 確定為膀胱癌的臨床相關靶點，並設計了靶向 MUC16 的 CAR-T細胞療法 細胞，當通過導管輸送到膀胱時，可以控制小鼠的膀胱腫瘤。\n膀胱癌G後",
       "source": "GEN News",
       "date": "2026-06-26",
       "url": "https://www.genengnews.com/topics/cancer/intravesical-car-t-cell-therapy-reduces-bladder-cancer-growth-in-preclinical-model/",
@@ -267,24 +267,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Capricor 的 Duchenne 藥物在 PPMD​​ 上展示了 5 年的肌肉和心臟數據",
-      "summary": "PPMD Stock Titan 的骨骼和心臟數據",
-      "source": "Stock Titan",
-      "date": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON09POWZZTk0xR1J5aHZzTTdXMUtjVVVudjhaTl9KNW15dTYwakhIQ2FVQlhiWjhXdFhGVUpPRWdOZkR3aHkzVlpLSWNKaVRPWFMwRW4tbkRucDJFWVQ0YWVpZVNpR201dmtnUHo5YTkybmlFTDlGXzRuaG4xdnF0Wk1uOW9qcVJ2VHM2Y2ptYVYyTnVXV3JRLTl5eXVRaGhkM05FMF85bTV1dkEwelZYaDMxWTA3a0g3UEFOSw?oc=5",
+      "title": "ASCO 2026 小細胞肺癌的主要要點",
+      "summary": "ll 肺癌腫瘤學新聞中心",
+      "source": "Oncology News Central",
+      "date": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeS1nYjh0TERXYUJjdVdiNUloWUJPVVhMZERMQjgzcXVFUEdNUFk3elBjZVFHRmthQkp5dVA0NjV6V0NKRGc1WXMwUnZFSk5EcXNGM0Z2cGpnRjdwRTBKU2k0WWRJaWlrRjRPREJDYlpjN1d0ME5OLUcyU1NDaG5hb0Z2Y0JrcklETXlRMUxxZTVnd3JoNTNIa3EwZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品藥物管理局（FDA）局長國家優先審查憑證（CNPV）試行計畫",
-      "summary": "美國FDA推出局長國家優先審查憑證（CNPV）試行計畫，旨在加速重要藥物審查。",
+      "title": "專員國家優先券 (CNPV) 試點計劃",
+      "summary": "(CNPV) 試點計畫 美國食藥局（FDA）.gov",
       "source": "fda.gov",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "[第一期臨床試驗] Adia Med of Winter Park LLC 針對下背痛的研究試驗",
-      "summary": "狀態：收案中｜主辦：Adia Med of Winter Park LLC｜這項臨床試驗旨在評估一種試驗性療法的安全性與初步療效。",
+      "title": "[第一期] Adia Med of Winter Park LLC 下背痛研究試驗",
+      "summary": "狀態：正在招募中｜主辦單位：Adia Med of Winter Park LLC｜這項臨床試驗旨在評估一種試驗性療法的安全性與初步療效。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-16",
       "url": "https://clinicaltrials.gov/study/NCT07587047",
@@ -307,8 +307,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫學市場規模預計2035年將突破2348.5億美元，人工智慧（AI）、幹細胞療法和3D生物列印技術將徹底改變醫療保健產業",
-      "summary": "再生醫學市場規模預計2035年將達2348.5億美元，AI、幹細胞療法與3D生物列印為主要成長動能。",
+      "title": "CAR-T細胞療法 細胞療法在嚴重狼瘡中顯示出早期前景",
+      "summary": "嚴重狼瘡 UCL |倫敦大學學院",
+      "source": "UCL | University College London",
+      "date": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjJkQWdpSUNsY0R2NkkzSTFQWEJlcnRDQkJDOUhvN253c28xQjhEYUNucXdrQ1ZuOFJwSWp6bG5FbERyS2gtdWtOOGtvUWRxcVFLbmljZWhvRUF2X3pZOS1Ma0sxeGFZWDRXeWJxQ2NhenVZaklaVWFZamo5VWN3X1BfZnZvTzB6d25OcTZ1VmM?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "隨著人工智慧、幹細胞療法和 3D 生物列印徹底改變醫療保健，再生醫學市場規模到 2035 年將超過 2,348.5 億美元",
+      "summary": "人工智慧、幹細胞療法和 3D 生物列印將徹底改變醫療保健產業，到 2035 年將達到 2,348.5 億美元",
       "source": "BioSpace",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMzViY0hJS2JZVXpONklyNnh2ZzViTHZjSUlaZEhPLWoxNHUwVzhQNXEyYUJNMkR3RGxCa2pnaWxBb2RlYUxiNzR4dHc4U2FLSGpnT1JEY2t1aDRfWmxhaGV2SGUtVl9QTmNXVzYwbGZrLTQzMGZjTlBac1YwRXY0eDBNdUpKeS1wV29zWWwzb004NEViMFJkY2JSelprWl9LN0l0ZGUtckZRVEhwOUd5Y2Y1SDhrRjhSWVFVZjlSaWhlcWVLWFBEajVzUlJicGh1RHp6XzE0V25SVGRWVEY1TDFBRTFDWURnZldtdk05aWoyTnVMSFp2QWI1dXczam1SLTV3M2Z6OEd4MTg?oc=5",
@@ -347,14 +355,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "繪製帕金森氏症幹細胞療法的臨床試驗格局",
-      "summary": "帕金森氏症的幹細胞療法 NeurologyLive",
-      "source": "NeurologyLive",
-      "date": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORmRseHI2ODdXTkZVQ2xYeEp5N0xXZHNRVGFxR2tzT1p2NS1SRWh0eW9adm00WmhNajFwWEppWTVzNWlTdndjZ3hNUzViV1NlZ3FxZW1DM3diNVZrZWxFVExLa0RTbzdXWXN2TkhFX3hpZ2VZME5hbzFRTTB3SXRtdGY2MnI5TFRnRFNneHI5TFF2WUlJeTV2TkhVWGpWMU50YXVKLQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "[N/A] 鼻內 MuSE 外泌體和幹細胞在神經再生治療中的真實結果",
       "summary": "狀態：ENROLLING_BY_INVITATION｜主辦：Healing Hope International｜這項前瞻性觀察研究收集了參與者接受國際再生療法並透過 Kurve Therapeutics ViaNase 設備鼻內給藥的真實世界數據。該研究沒有指定治療方案。帕",
       "source": "ClinicalTrials.gov｜Mexico",
@@ -363,7 +363,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 階段] MRD 導引的 Zanubrutinib 加 Sonrotoclax 在初治高風險 CLL/SLL 病患的研究",
+      "title": "[第 2 階段] MRD 導引的 Zanubrutinib 加 Sonrotoclax 在初治高危險 CLL/SLL 病患的研究",
       "summary": "狀態：招募中｜主辦：南京醫科大學第一附屬醫院｜本研究是一項前瞻性、多中心、開放標籤、單臂 II 期臨床試驗，旨在評估 MRD 指導下的 zanubrutinib 聯合 sonrotoclax 治療既往未經治療的高危險 CLL/SLL 患者的有效性和安全性",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-06-01",
