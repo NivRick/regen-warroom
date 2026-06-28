@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-06-27T23:54:27.266661+00:00",
+  "updated": "2026-06-28T12:14:34.144770+00:00",
   "items": [
     {
-      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
-      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "title": "歐洲生技公司正開發下一代細胞與基因療法製造技術",
+      "summary": "歐洲生技公司積極投入下一代細胞與基因療法製造技術的研發，以提升生產效率與品質。",
       "source": "PharmTech.com",
       "date": "2026-06-26",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
@@ -28,7 +28,7 @@
     },
     {
       "title": "ACAM2000",
-      "summary": "這是一款獲准上市的產品，主要用於對天花感染有高風險的人群進行主動免疫。",
+      "summary": "這項產品已獲核准，用於對天花病毒感染風險較高的人群進行主動免疫接種。",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/acam2000",
@@ -36,7 +36,7 @@
     },
     {
       "title": "BOOSTRIX",
-      "summary": "這是一款獲准上市的產品，作為單劑使用，為10歲及以上的人群提供破傷風、白喉和百日咳的追加免疫。",
+      "summary": "這項產品已獲核准，作為單劑疫苗，用於10歲及以上個體，提供破傷風、白喉和百日咳的加強免疫接種。",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/boostrix",
@@ -44,15 +44,15 @@
     },
     {
       "title": "生物製劑新知",
-      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
+      "summary": "生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "人類牛痘免疫球蛋白靜脈注射劑",
-      "summary": "這款產品的核准資訊顯示，它可用於治療和/或改善天花所引起的併發症。",
+      "title": "牛痘免疫球蛋白靜脈注射劑（人源）",
+      "summary": "這項產品已獲核准，用於治療或改善因天花疫苗接種引起的併發症。",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/vaccinia-immune-globulin-intravenous-human",
@@ -60,7 +60,7 @@
     },
     {
       "title": "VARIVAX（冷藏與冷凍劑型）",
-      "summary": "這是活性水痘病毒疫苗（Varivax）的產品核准資訊。",
+      "summary": "關於水痘病毒活性疫苗（Varivax）的產品核准資訊。",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/varivax-refrigerated-and-frozen-formulations",
@@ -68,7 +68,7 @@
     },
     {
       "title": "LUXTURNA",
-      "summary": "這是一款腺相關病毒載體（AAV）基因療法，用於治療經確診為雙等位基因RPE65突變相關視網膜病變的患者。",
+      "summary": "這是一種腺相關病毒載體（AAV）基因療法，核准用於治療經確診為雙等位基因RPE65突變相關視網膜失養症的患者。",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/luxturna",
@@ -82,32 +82,32 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "REPROCELL向日本提交幹細胞療法Stemchymal®用於脊髓小腦性共濟失調（SCA3和SCA6）的製造與銷售核准申請",
-      "summary": "REPROCELL在日本提交幹細胞療法Stemchymal®的製造與銷售核准申請，目標是治療脊髓小腦性共濟失調（SCA3",
+      "title": "REPROCELL在日本提交幹細胞療法Stemchymal®用於脊髓小腦性共濟失調（SCA3和SCA6）的生產與銷售核准申請",
+      "summary": "REPROCELL在日本申請幹細胞療法Stemchymal®，治療脊髓小腦性共濟失調（SCA3和SCA6）的生產與銷售核准。",
       "source": "Plataforma Media",
       "date": "2026-06-24",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOb0JlX1NqVHpCQ1dqNGlPaFZNbW9nQ1EzdGZNNV9Vc2U0bFZQN0E3TUdVVTVpclpmZ3BDcXNreWRuWEtEYmNySFdfZUI1ZHQ0OGpMSUN6R01UdG9aZGItemFjSmc2WkpJQkstcG5YTnNab3oxcFY3QU15ZmFkNmVDaG5CdDhQRmswVlRxWnFZb002UzZiUXVFbzdjTy16bm9LeU9paEVEdy1rZjM1Tk52aTNGdGp3ZVdwNm9hNUJBNUdsbEowNmxJTUVQbWdLV1l3cVN2MEp1YlFFWi1sWGYwNGdmaGFWcGt4Z244T1hCbkE3VFJGd2NSUDBERkdiTG03S1JTSS1aT0VrYk9jMWhScXJCb1VvYVh2WUs5a0Q2dGl6UkxQY3Vz?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 致股東關於 2026 年優先事項和策略機會的信函",
-      "summary": "優先事項和戰略機遇 GlobeNewswire",
+      "title": "BioCardia致股東信：2026年優先事項與策略機會",
+      "summary": "BioCardia向股東說明2026年營運重點與未來發展策略。",
       "source": "GlobeNewswire",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeU4yeTBJUTYxc0NOWk8tbFFyX3ZBNGNCQlJpRGhMS3E3T3Q0MnlQSWxDLWhsWWdxWVlVTG5EdDF2NndKc095NXdta0E4SW1mN2RWMFc3Q3IwY3ZYN1FTQTdPQVBuWnMwXzN1dmNFOUxETGNybXV6TDNwcjBBemxWU0QwTm51VllCX0lEZS1tTFFXNldoVko5MGFjVXVCWEQ1emNvTnBFUGdnV1FNVUZKa2tJdXEwU3l3Q3hwRVh6LXN1emJVcTRvazktVVpKMlB4LUd3OTQ5YTM1Q2Jjc0xHWXQzWjMyQQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲藥品管理局（EMA） 將於 2025 年批准 104 種人類藥物",
-      "summary": "",
+      "title": "歐洲藥品管理局（EMA）在2025年核准了104種人類用藥",
+      "summary": "歐洲藥品管理局（EMA）公布，2025年共核准了104種人類用藥，顯示新藥研發持續有豐碩成果，為病患",
       "source": "PharmTech.com",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "最近與兒科相關的細胞和基因治療批准的臨床藥理學見解",
-      "summary": "與兒科相關的 nt 細胞和基因治療核准 Nature",
+      "title": "從近期細胞與基因療法核准案看兒科臨床藥理學新見解",
+      "summary": "本文探討近期獲得核准的細胞與基因療法，其臨床藥理學數據對兒科治療的啟示與重要性。",
       "source": "Nature",
       "date": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",
