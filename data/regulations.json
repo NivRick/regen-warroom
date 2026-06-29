@@ -1,34 +1,34 @@
 {
   "module": "regulation",
-  "updated": "2026-06-29T00:04:10.840690+00:00",
+  "updated": "2026-06-29T14:45:54.977907+00:00",
   "items": [
     {
-      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
-      "summary": "tion Cell and 基因療法 Manufacturing Technologies PharmTech.com",
+      "title": "歐洲生技公司積極開發次世代細胞與基因療法製造技術",
+      "summary": "歐洲生技公司正投入次世代細胞與基因療法製造技術的開發，以提升產業效率與創新。（來源：PharmTech.com）",
       "source": "PharmTech.com",
-      "date": "2026-06-26",
+      "date": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BIO 2026：美國食藥局（FDA） 領導階層面臨勞動流失與中國藥物開發競爭",
-      "summary": "該小組由藥物評估與研究中心和生物製品評估與研究中心的代理主任以及代理參謀長組成，重點討論了 美國食藥局（FDA） 目前的優先事項和舉措。事後損失",
-      "source": "GEN News",
+      "title": "REPROCELL 提交用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）的幹細胞療法 Stemchymal® 在日本的製造和行銷批准申請",
+      "summary": "用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）的幹細胞療法 Stemchymal® 在日本核准上市 澳門業務",
+      "source": "Macau Business",
       "date": "2026-06-25",
-      "url": "https://www.genengnews.com/topics/drug-discovery/bio-2026-fda-leadership-confront-workforce-losses-china-competition-in-drug-development/",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOeDZZTGtobC1nSTl6VVNMUWVKSEd4NElydGxfcmNOZHNyakZ0emhuVnNzZ2daUWIybEt4cW5NZ2Fmd0xjelY0cUl2STZGVmVqXzNCaDR2M0RNeWJLSHNHUlNmQTNIbU9NZTYzblV6WFBCd010Yk50dGtENFR4Uy1XbVN0V2dIZXRRamltNlFqUmY2SmpLX1NMTk0wUGFkeHFTYU82MjkzRDJmZjd3Ykt1RlBlcmtiSF93WTlLZEUtUzgzeVNvLUp4akd5d0tubDZOOF9DTWd5VmVkZUpnVWVRdERYWV8xaGZfQXU2RTZWUTkydi0zSTVfeWNORWZNaXhySmRKc05leFhXOEFI?oc=5",
       "lang": "zh-TW"
     },
     {
       "title": "ACAM2000",
-      "summary": "是一種產品批准，適用於被確定為天花感染高風險族群的天花疾病主動免疫。",
+      "summary": "這項產品已獲核准，用於主動免疫，預防天花疾病，適用於被判定為天花感染高風險的族群。",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/acam2000",
       "lang": "zh-TW"
     },
     {
-      "title": "博斯特利克斯",
-      "summary": "是一項產品批准，適用於 10 歲及以上個體單劑接種破傷風、白喉和百日咳加強免疫",
+      "title": "BOOSTRIX",
+      "summary": "這項產品已獲核准，作為單劑，",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/boostrix",
@@ -44,7 +44,7 @@
     },
     {
       "title": "痘苗免疫球蛋白靜脈注射（人）",
-      "summary": "產品核准資訊用於治療和/或改善以下病症，這些病症是天花疫苗接種或疫苗濕疹引起的併發症\no 進行性痘苗\no 严重的全身性痘苗\no 痘苗病毒",
+      "summary": "產品核准資訊用於治療和/或改善以下病症，這些病症是天花疫苗接種或疫苗濕疹引起的併發症\no 進行性痘苗\no 嚴重的全身性痘苗\no 痘苗病毒",
       "source": "FDA Biologics",
       "date": "2026-06-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/vaccinia-immune-globulin-intravenous-human",
@@ -74,14 +74,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "REPROCELL 提交用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）的幹細胞療法 Stemchymal® 在日本的製造和行銷批准申請",
-      "summary": "用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）的幹細胞療法 Stemchymal® 在日本獲得設計和行銷許可 Plataforma Media",
-      "source": "Plataforma Media",
-      "date": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOb0JlX1NqVHpCQ1dqNGlPaFZNbW9nQ1EzdGZNNV9Vc2U0bFZQN0E3TUdVVTVpclpmZ3BDcXNreWRuWEtEYmNySFdfZUI1ZHQ0OGpMSUN6R01UdG9aZGItemFjSmc2WkpJQkstcG5YTnNab3oxcFY3QU15ZmFkNmVDaG5CdDhQRmswVlRxWnFZb002UzZiUXVFbzdjTy16bm9LeU9paEVEdy1rZjM1Tk52aTNGdGp3ZVdwNm9hNUJBNUdsbEowNmxJTUVQbWdLV1l3cVN2MEp1YlFFWi1sWGYwNGdmaGFWcGt4Z244T1hCbkE3VFJGd2NSUDBERkdiTG03S1JTSS1aT0VrYk9jMWhScXJCb1VvYVh2WUs5a0Q2dGl6UkxQY3Vz?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "BioCardia 致股東關於 2026 年優先事項和策略機會的信函",
       "summary": "優先事項和戰略機遇 GlobeNewswire",
       "source": "GlobeNewswire",
@@ -98,8 +90,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "最近與兒科相關的細胞和基因治療批准的臨床藥理學見解",
-      "summary": "與兒科相關的 nt 細胞和基因治療核准 Nature",
+      "title": "從近期獲准的兒科細胞與基因療法中，看臨床",
+      "summary": "",
       "source": "Nature",
       "date": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",

@@ -1,7 +1,55 @@
 {
   "module": "funding",
-  "updated": "2026-06-29T00:04:54.229937+00:00",
+  "updated": "2026-06-29T14:46:45.254586+00:00",
   "items": [
+    {
+      "title": "塔拉瓦爾看好雙特異性療法，有望顛覆濕疹市場",
+      "summary": "莫德納（Moderna）仍看好mRNA技術，益普生（Ipsen）收購卡托斯（Kartos），以及更多來自《The Readout》的生技新聞。",
+      "source": "STAT News",
+      "date": "2026-06-29",
+      "url": "https://www.statnews.com/2026/06/29/biotech-news-talawar-bets-bispecific-approach-for-eczema/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：投資者 Clive Meanwell 談設計促進人口健康的生物技術以及人工智慧的催化劑作用",
+      "summary": "投資公司 Population Health Partners 的董事長 Clive Meanwell 直到最近還是人工智慧懷疑論者。現在，他認為這是一個催化劑。",
+      "source": "STAT News",
+      "date": "2026-06-29",
+      "url": "https://www.statnews.com/2026/06/29/clive-meanwell-population-health-partners-on-ai-biotech/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Sword Health 簽約為整個國家提供人工智慧支援的物理治療",
+      "summary": "葡萄牙國家衛生服務中心與數位健康公司 Sword 簽署了一項人工智慧輔助虛擬物理治療護理協議。",
+      "source": "STAT News",
+      "date": "2026-06-29",
+      "url": "https://www.statnews.com/2026/06/29/sword-health-portugal-deal-ai-supported-physical-therapy/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：急診室可以讓病人望而卻步，並收穫數百萬美元",
+      "summary": "STAT 發現，醫院業者 Nutex 透過利用旨在保護患者的法律漏洞而致富。",
+      "source": "STAT News",
+      "date": "2026-06-29",
+      "url": "https://www.statnews.com/2026/06/29/nutex-health-micro-hospitals-er-loophole-idr-profits/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Metsera 背後的團隊聘請人工智慧科學家公司 Edison Scientific 來創建新的生物技術",
+      "summary": "Edison Scientific 和投資公司 Population Health Partners 正在合作，利用人工智慧代理進行藥物發現和開發。",
+      "source": "STAT News",
+      "date": "2026-06-29",
+      "url": "https://www.statnews.com/2026/06/29/edison-scientific-population-health-partners-deal-to-create-new-biotechs/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "source": "PharmTech.com",
+      "date": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
+      "lang": "zh-TW"
+    },
     {
       "title": "最高法院對除草劑癌症案做出裁決",
       "summary": "民主黨希望揭露禮來公司肥胖吸毒者的身份，一種新的基因組編輯工具引發倫理問題，以及更多健康新聞",
@@ -20,15 +68,15 @@
     },
     {
       "title": "在 BIO，中國生物技術交易監管的緊張局勢迫在眉睫",
-      "summary": "生技投資者、高階主管和分析師擔心，全面禁止與中國公司進行交易可能會抑制國內企業家在該行業的雄心壯志。",
+      "summary": "生物技術投資者、高管和分析師擔心，全面禁止與中國公司進行交易可能會抑制國內企業家在該行業的雄心壯志。",
       "source": "BioPharma Dive",
       "date": "2026-06-26",
       "url": "https://www.biopharmadive.com/news/bio-2026-us-china-biotech-competition/823723/",
       "lang": "zh-TW"
     },
     {
-      "title": "Alkermes 即將上任的執行長計劃超越禮來（Lilly）和武田（Takeda）",
-      "summary": "布萊爾傑克森 (Blair Jackson) 表示，未來 12 個月可能是 Alkermes 歷史上最重要的時期，因為這家腦藥物製造商競相加入「食慾素」市場，分析師認為該市場蘊藏著數十億美元的機會。",
+      "title": "Alkermes新任執行長有計畫要超越禮來（Lilly）和武田（Takeda）",
+      "summary": "Blair Jackson表示，未來12個月可能是Alkermes史上最關鍵的時期，這家腦部藥物開發商正積極投入「食慾素」（orexin）藥物的研發競賽。",
       "source": "BioPharma Dive",
       "date": "2026-06-26",
       "url": "https://www.biopharmadive.com/news/alkermes-blair-jackson-narcolepsy-drug-orexin-ceo-succession/823893/",
@@ -40,30 +88,6 @@
       "source": "Fierce Biotech",
       "date": "2026-06-26",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
-      "summary": "細胞與基因治療製造技術 PharmTech.com",
-      "source": "PharmTech.com",
-      "date": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "禮來公司肥胖藥物的神秘案例",
-      "summary": "誰獲得了禮來公司備受期待的肥胖候選藥物的獨家訪問權？為什麼藥廠要花這麼多錢進行收購？請關注本週的「朗讀」節目。",
-      "source": "STAT News",
-      "date": "2026-06-25",
-      "url": "https://www.statnews.com/2026/06/25/readout-loud-podcast-eli-lilly-fda-obesity-trump-absci-regenxbio/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：卡西迪提出法案限制 340B 藥品折扣計劃",
-      "summary": "對 340B 藥品折扣計劃設置新的限制對於面臨資金削減的醫院來說將是一個新的挑戰。",
-      "source": "STAT News",
-      "date": "2026-06-25",
-      "url": "https://www.statnews.com/2026/06/25/cassidy-bill-rein-in-340b-drug-discount-program/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -88,14 +112,6 @@
       "source": "BioPharma Dive",
       "date": "2026-06-24",
       "url": "https://www.biopharmadive.com/news/ionis-wins-fda-ok-Tryngolza-broader-label-expansion/823717/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Sangamo 進行破產出售；創投公司支持與中國有關的 Beam 競爭對手",
-      "summary": "禮來公司 (Eli Lilly) 和安斯泰來 (Astellas) 將成為 Sangamo 資產拍賣的主要競標者。在其他地方，一個投資者財團向一家基因編輯新創公司承諾投資 2.3 億美元，默克 (Merck KGaA) 達成了一項「先建後買」的交易。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-24",
-      "url": "https://www.biopharmadive.com/news/sangamo-bankruptcy-serapha-china-saturnus-cenrifki-carsgen/823588/",
       "lang": "zh-TW"
     },
     {
