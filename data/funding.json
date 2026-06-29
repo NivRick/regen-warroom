@@ -1,10 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-06-29T14:46:45.254586+00:00",
+  "updated": "2026-06-29T23:57:37.927104+00:00",
   "items": [
     {
-      "title": "塔拉瓦爾看好雙特異性療法，有望顛覆濕疹市場",
-      "summary": "莫德納（Moderna）仍看好mRNA技術，益普生（Ipsen）收購卡托斯（Kartos），以及更多來自《The Readout》的生技新聞。",
+      "title": "STAT+：美國食藥局（FDA） 最高基因治療監管者即將離職",
+      "summary": "Vijay Kumar 的離職是在 美國食藥局（FDA） 進行更廣泛的領導層改組之後進行的。",
+      "source": "STAT News",
+      "date": "2026-06-29",
+      "url": "https://www.statnews.com/2026/06/29/vijay-kumar-exits-fda-office-of-therapeutic-products/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：阿斯特捷利康支付 3,400 萬美元以和解德州總檢察長提出的回扣指控",
+      "summary": "阿斯特捷利康同意支付 3,400 萬美元，以和解該公司支付回扣以不當影響德州醫療補助支付的處方藥的指控。",
+      "source": "STAT News",
+      "date": "2026-06-29",
+      "url": "https://www.statnews.com/pharmalot/2026/06/29/astrazeneca-kickback-charges-texas-settlement/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Talawar 押注雙特異性方法可以撼動濕疹市場",
+      "summary": "Moderna 仍然看好 信使RNA（mRNA）、Ipsen 收購 Kartos 以及來自 The Readout 的更多生物技術新聞",
       "source": "STAT News",
       "date": "2026-06-29",
       "url": "https://www.statnews.com/2026/06/29/biotech-news-talawar-bets-bispecific-approach-for-eczema/?utm_campaign=rss",
@@ -43,19 +59,19 @@
       "lang": "zh-TW"
     },
     {
+      "title": "Theravance 在臨床受挫後同意以 9.29 億美元收購",
+      "summary": "特許權使用費管理公司 Zymeworks 的收購是在一種治療低血壓的藥物失敗引發的「策略審查」之後進行的。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-29",
+      "url": "https://www.biopharmadive.com/news/theravance-clinical-setback-929-million-buyout/823952/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
       "summary": "細胞與基因治療製造技術 PharmTech.com",
       "source": "PharmTech.com",
       "date": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "最高法院對除草劑癌症案做出裁決",
-      "summary": "民主黨希望揭露禮來公司肥胖吸毒者的身份，一種新的基因組編輯工具引發倫理問題，以及更多健康新聞",
-      "source": "STAT News",
-      "date": "2026-06-26",
-      "url": "https://www.statnews.com/2026/06/26/health-news-supreme-court-rules-in-weedkiller-roundup-cancer-case/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -68,15 +84,15 @@
     },
     {
       "title": "在 BIO，中國生物技術交易監管的緊張局勢迫在眉睫",
-      "summary": "生物技術投資者、高管和分析師擔心，全面禁止與中國公司進行交易可能會抑制國內企業家在該行業的雄心壯志。",
+      "summary": "生技投資者、高階主管和分析師擔心，全面禁止與中國公司進行交易可能會抑制國內企業家在該行業的雄心壯志。",
       "source": "BioPharma Dive",
       "date": "2026-06-26",
       "url": "https://www.biopharmadive.com/news/bio-2026-us-china-biotech-competition/823723/",
       "lang": "zh-TW"
     },
     {
-      "title": "Alkermes新任執行長有計畫要超越禮來（Lilly）和武田（Takeda）",
-      "summary": "Blair Jackson表示，未來12個月可能是Alkermes史上最關鍵的時期，這家腦部藥物開發商正積極投入「食慾素」（orexin）藥物的研發競賽。",
+      "title": "Alkermes 即將上任的執行長計劃超越禮來（Lilly）和武田（Takeda）",
+      "summary": "布萊爾傑克森 (Blair Jackson) 表示，未來 12 個月可能是 Alkermes 歷史上最重要的時期，因為這家腦藥物製造商競相加入「食慾素」市場，分析師認為該市場蘊藏著數十億美元的機會。",
       "source": "BioPharma Dive",
       "date": "2026-06-26",
       "url": "https://www.biopharmadive.com/news/alkermes-blair-jackson-narcolepsy-drug-orexin-ceo-succession/823893/",

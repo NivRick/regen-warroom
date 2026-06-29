@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-06-29T14:45:00.406254+00:00",
+  "updated": "2026-06-29T23:55:41.764019+00:00",
   "items": [
     {
-      "title": "ABHD17C 調控樂伐替尼（lenvatinib）抑制肝細胞癌的療效",
-      "summary": "本研究探討ABHD17C如何影響一線肝癌藥物樂伐替尼的療效，以克服藥物抗性問題。",
+      "title": "ABHD17C 調控樂伐替尼（Lenvatinib）抑制肝細胞癌的療效",
+      "summary": "樂伐替尼（Lenvatinib）是肝細胞癌（HCC）的一線療法，但其臨床療效常因藥物抗藥性而受限。本研究發現，ABHD17",
       "source": "PubMed",
       "date": "2026-06-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42358063/",
       "lang": "zh-TW"
     },
     {
-      "title": "兒童骨",
-      "summary": "",
+      "title": "小兒骨肉瘤的免疫治療：當前進展和未來方向。",
+      "summary": "小兒骨肉瘤在轉移性、復發性或難治性環境中繼續面臨巨大的治療挑戰，儘管多模式治療取得了進展，但幾十年來臨床結果基本上保持不變。這篇綜述總結了新興的免疫治療策略，旨在...",
       "source": "PubMed",
       "date": "2026-06-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42366590/",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "乳癌嵌合抗原受體T細胞免疫療法之知識圖譜與研究趨勢：文獻計量與視覺分析研究",
-      "summary": "嵌合抗原受體T細胞（CAR-T）免疫療法在血液惡性腫瘤治療上已取得里程碑式的成功，目前正積極探索其在乳癌",
+      "title": "嵌合抗原受體T細胞免疫療法在乳癌領域的知識圖譜與研究趨勢：一項文獻計量與視覺分析研究",
+      "summary": "嵌合抗原受體T細胞（CAR-T）免疫療法在血液腫瘤領域已取得里程碑式的成功，目前正積極探索其在乳",
       "source": "PubMed",
       "date": "2026-06-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42316771/",
@@ -108,7 +108,7 @@
     },
     {
       "title": "人工智慧整合的類器官平台可以對生物活性金屬離子進行高通量功能評估。",
-      "summary": "由於類器官能夠緊密保留原始組織的遺傳和表型特徵，因此已成為醫學研究中最具預測性的臨床前模型之一。儘管如此，在創新醫療器材（尤其是生物製品）系統評價中的應用...",
+      "summary": "類器官因其能夠緊密保留原始組織的遺傳和表型特徵而成為醫學研究中最具預測性的臨床前模型之一。儘管如此，在創新醫療器材（尤其是生物製品）系統評價中的應用...",
       "source": "PubMed",
       "date": "2026-06-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42327494/",
@@ -211,8 +211,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "大型膝關節軟骨及骨軟骨缺損的兩種治療方法比較研究",
-      "summary": "這項研究由Centre Hospitalier Universitaire Vaudois主辦，目前尚未開始招募受試者。主要目標是評估兩種治療大型膝關節軟骨及骨軟骨缺損的方法，特別是MA",
+      "title": "比較兩種治療膝蓋大型軟骨及骨軟骨缺損的方法",
+      "summary": "狀態：尚未招募受試者｜主辦：洛桑大學醫院｜這項研究主要目標是評估MACT與另一種方法的療效。",
       "source": "ClinicalTrials.gov｜Switzerland",
       "date": "2026-06-29",
       "url": "https://clinicaltrials.gov/study/NCT05651997",
@@ -235,32 +235,40 @@
       "lang": "zh-TW"
     },
     {
-      "title": "處於轉折點的基因組編輯—將 基因剪輯技術（CRISPR） 引入臨床現實",
-      "summary": "本次 GEN Live 節目將匯集頂尖專家小組，詳細介紹基因組編輯的最新進展、創新和挑戰。\n後 ging 基因剪輯技術（CRISPR） 臨床現實首次出現在 GEN - 基因工程和生物技術上",
+      "title": "血吸蟲病疫苗在早期臨床試驗中顯示出強大的免疫記憶",
+      "summary": "針對血吸蟲病的實驗性 SchistoShield 疫苗在美國和非洲的早期臨床試驗中觸發了強大的 B 細胞和 T 細胞免疫記憶，標誌著在預防和治療寄生蟲感染方面邁出了有希望的一步。\n郵報",
+      "source": "GEN News",
+      "date": "2026-06-29",
+      "url": "https://www.genengnews.com/topics/infectious-diseases/schistosomiasis-vaccine-shows-strong-immune-memory-in-early-clinical-trials/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "細胞療法試驗報告了更多有關嚴重難治性自體免疫疾病緩解和復發的數據",
+      "summary": "嚴重難治性自體免疫疾病的緩解和復發 Medscape",
+      "source": "Medscape",
+      "date": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQempLbzJfclZ0VDB3V05VUXN6VjFXdENvRVFEU3R0NndjZnRRQ3R3ekZQSGVsY1BoSWpHYmV6cktXZnZRc2dLTEpVMzlwend2WWtsNlF5WU1tNktack80QVU4NFBVMnpOLVhjRzBjTkFaRER3SnlaNnJiWXBiSFRpVjZESm92d1Jzd3RaMTY1TWo5bFlDTUpnZnd1RHFzc3lyZVRpSmoyTGVIdw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "基因編輯來到轉捩點—將CRISPR帶入臨床應用",
+      "summary": "基因編輯技術正邁向臨床應用，CRISPR療法將如何改變未來醫療，備受業界關注。",
       "source": "GEN News",
       "date": "2026-06-26",
       "url": "https://www.genengnews.com/multimedia/gen-live/genome-editing-at-the-turning-point-bringing-crispr-to-clinical-reality/",
       "lang": "zh-TW"
     },
     {
-      "title": "膀胱內嵌合抗原受體T細胞療法（CAR-T）在臨床前模型中有效抑制膀胱癌生長",
-      "summary": "研究人員發現MUC16蛋白是膀胱癌一個具臨床潛力的治療標靶，並開發出針對MUC16的嵌合抗原受體T細胞",
+      "title": "膀胱內嵌合抗原受體T細胞療法（CAR-T）在臨床前",
+      "summary": "",
       "source": "GEN News",
       "date": "2026-06-26",
       "url": "https://www.genengnews.com/topics/cancer/intravesical-car-t-cell-therapy-reduces-bladder-cancer-growth-in-preclinical-model/",
       "lang": "zh-TW"
     },
     {
-      "title": "Circio 的 circVec 和 Tcelltech 的 nanoSMAR 技術結合，產生下一代體內 CAR-T細胞療法 和 TCR-T 細胞",
-      "summary": "Circio和Tcelltech將把Circio的circVec環狀RNA表現技術與Tcelltech的非病毒、高量nanoSMAR載體平台結合，並透過分階段研究評估工程化T細胞中的組合。\n後 R 技術",
-      "source": "GEN News",
-      "date": "2026-06-26",
-      "url": "https://www.genengnews.com/topics/bioprocessing/circios-circvec-and-tcelltechs-nanosmar-technologies-combined-to-generate-nextgen-in-vivo-car-t-and-tcr-t-cells/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "[第一階段] 一項隨機、雙盲、藥物動力學相似性研究，在黑色素瘤完全切除的受試者中比較 AVT32-DRL_PB 與 Keytruda®",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦方：Alvotech Swiss AG｜這是一項多中心、隨機、雙盲、平行組、2 個治療組、重複劑量研究，旨在比較 AVT32-DRL\\_PB​​​​（擬議的 Keytruda® 生物相似藥）與 Keytruda（pembrolizbda（pembrolizb）在 AdPK、Aumabda（pembrolizb.",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Alvotech Swiss AG｜這是一項多中心、隨機、雙盲、平行組、2 個治療組、重複劑量研究，旨在比較 AVT32-DRL\\_PB​​​​（建議的 Keytruda® 生物相似藥）與 Keytruda（pembrolizb）在 AdPK 時的安全性和免疫性安全性",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06-19",
       "url": "https://clinicaltrials.gov/study/NCT07475572",
@@ -275,8 +283,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "署長國家優先審查憑證（CNPV）試行計畫",
-      "summary": "美國FDA啟動署長國家優先審查憑證（CNPV）試行計畫，加速特定藥物審查。",
+      "title": "專員國家優先券 (CNPV) 試點計劃",
+      "summary": "(CNPV) 試點計畫 美國食藥局（FDA）.gov",
       "source": "fda.gov",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
@@ -307,8 +315,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫學市場規模預計2035年將突破234.85億美元，隨著人工智慧（AI）、幹細胞療法和3D生物列印技術革新醫療保健領域",
-      "summary": "再生醫學市場2035年估達234.85億美元，AI、幹細胞療法、3D生物列印是關鍵驅動力。",
+      "title": "隨著人工智慧、幹細胞療法和 3D 生物列印徹底改變醫療保健，再生醫學市場規模到 2035 年將超過 2,348.5 億美元",
+      "summary": "人工智慧、幹細胞療法和 3D 生物列印將徹底改變醫療保健產業，到 2035 年將達到 2,348.5 億美元",
       "source": "BioSpace",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMzViY0hJS2JZVXpONklyNnh2ZzViTHZjSUlaZEhPLWoxNHUwVzhQNXEyYUJNMkR3RGxCa2pnaWxBb2RlYUxiNzR4dHc4U2FLSGpnT1JEY2t1aDRfWmxhaGV2SGUtVl9QTmNXVzYwbGZrLTQzMGZjTlBac1YwRXY0eDBNdUpKeS1wV29zWWwzb004NEViMFJkY2JSelprWl9LN0l0ZGUtckZRVEhwOUd5Y2Y1SDhrRjhSWVFVZjlSaWhlcWVLWFBEajVzUlJicGh1RHp6XzE0V25SVGRWVEY1TDFBRTFDWURnZldtdk05aWoyTnVMSFp2QWI1dXczam1SLTV3M2Z6OEd4MTg?oc=5",
@@ -331,8 +339,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第一階段] 一項研究，尋找西達祖啶和地西他濱聯合非格司亭的最高劑量，作為高危急性髓系白血病兒童造血幹細胞移植後的治療選擇",
-      "summary": "狀態：招募中｜主辦單位：美國國家癌症研究所（NCI）｜本一期試驗測試ASTX727和非格司亭治療經過一段時間改善（復發）後復發或對治療無反應的高危急性髓性白血病兒童的安全性、副作用和最佳劑量。",
+      "title": "第一期臨床試驗：探索Cedazuridine",
+      "summary": "",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-09",
       "url": "https://clinicaltrials.gov/study/NCT07012044",
@@ -344,14 +352,6 @@
       "source": "CU Anschutz newsroom",
       "date": "2026-06-07",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QU29qZ3loSWJ3UUJnczNKY282Sll6Ul9RSXh0aDJiM1BfSVhQTGw2RDVxVzdjYloxMG9tRkV5WHRYMXZIWnBlQVBTOUVCTGNzQkVOckd1SnZfQzBQaU56Unh1eTlVNnZVMlVCUzktNjZSNnR2Q0V5QklZeGlXc2PSAY8BQVVfeXFMT2c3U0FURmk0OHZoOUVXaXlWdEYyYVQzeDZBZWIzSWozSl9qTUROX2IyNVFqX3pOaU9JWEtObmZLYklnNEJvb21QcnFrOElvT0xMcm5mU0ViYjVaakZZZWY2UW9FVjdmQXJZajExeDBnRGFtdGRUb0RFckJPcS00XzNMUnV2RTQ2dHJ2OTdsUms?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "ADA 2026 回顧：第 1 天和第 2 天",
-      "summary": "",
-      "source": "Breakthrough T1D",
-      "date": "2026-06-06",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSlo0bk93UTJpVnNEemg3OU05NVliSFVZLWxKbnpxVEM4SElWSmctZ1lhNlFrWHI5LTMzVU5jNGp5eWNSUDN1NTNka2JHTHV6YTdoYnJIbDh6Tm00M1YxV2I1cXJ4VlZsSnhhTms2VzQ2TFkxd01NT3JySG1aLVZSNi1MOA?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -379,8 +379,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "針對CD19陽性B細胞惡性腫瘤患者，評估新型CD19嵌合抗原受體T細胞（SHB-02-CD19）的臨床一/二期試驗",
-      "summary": "狀態：尚未招募｜主辦：Sheba Medical Center｜這是一項SHB",
+      "title": "針對CD19陽性B細胞惡性腫瘤患者，新型CD19嵌合抗原受體T細胞療法（SHB-02-CD19）的一/二期臨床試驗",
+      "summary": "針對CD19陽性B細胞惡性腫瘤患者，評估新型CD19嵌合抗原",
       "source": "ClinicalTrials.gov｜Israel",
       "date": "2026-06",
       "url": "https://clinicaltrials.gov/study/NCT07503353",
@@ -396,7 +396,7 @@
     },
     {
       "title": "[第 3 期] 西達本胺用於初始接受 R-CHOP 治療的 HBV 感染瀰漫性 DLBCL 患者的維持治療",
-      "summary": "狀態：招募中｜主辦：歐白，醫學博士/博士｜評估西達本胺單藥維持治療對R-CHOP治療初步緩解後的瀰漫性大B細胞淋巴瘤（DLBCL）合併乙型肝炎病毒感染患者的療效和安全性，為臨床應用提供證據。",
+      "summary": "狀態：招募中｜主辦：歐白，醫學博士/博士｜評估西達本胺單藥維持治療對R-CHOP治療初步緩解後的瀰漫性大B細胞淋巴瘤（DLBCL）合併HBV感染患者的療效和安全性，為臨床應用提供證據",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-05-30",
       "url": "https://clinicaltrials.gov/study/NCT07493109",
