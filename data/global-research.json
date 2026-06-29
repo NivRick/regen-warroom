@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-06-28T12:13:55.142870+00:00",
+  "updated": "2026-06-29T00:03:08.167954+00:00",
   "items": [
     {
-      "title": "ABHD17C 調控樂伐替尼（Lenvatinib）抑制肝細胞癌的療效",
-      "summary": "樂伐替尼（Lenvatinib）是肝細胞癌（HCC）的一線療法，但其臨床療效常受藥物抗性限制。ABHD17C，一種去棕櫚醯化酶",
+      "title": "ABHD17C調控樂伐替尼抑制肝細胞癌的療效",
+      "summary": "研究發現ABHD17C分子能調控樂伐替尼治療肝細胞癌（HCC）的藥效，有助克服抗藥性。",
       "source": "PubMed",
       "date": "2026-06-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42358063/",
       "lang": "zh-TW"
     },
     {
-      "title": "ALS 的治療前沿：基於 誘導型多能幹細胞（iPSC） 的藥物發現、細胞療法和基因療法 - 進展至 2026 年。",
-      "summary": "三種融合的治療範式——基於 誘導型多能幹細胞（iPSC） 的藥物發現、細胞移植和基因治療——在 2020 年至 2026 年間大幅擴展了肌萎縮側索硬化症 (ALS) 的治療管道。 美國食藥局（FDA） 於 2023 年 4 月加速批准 tofersen (Qalsody)，標誌著該藥物的首次上市。",
+      "title": "肌萎縮性脊髓側索",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-06-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42359165/",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "高強度熱壓力可增強過繼性NK細胞對低分化肝細胞癌的細胞毒殺作用。",
-      "summary": "經皮熱燒灼術常用於治療早期、無法手術切除的肝細胞癌（HCC）。NK細胞免疫療法已被研究作為一種...",
+      "title": "高強度熱壓力增強過繼性自然殺手細胞（NK細胞）在低分化肝細胞癌中的毒殺能力",
+      "summary": "經皮熱燒灼術常用於治療早期、無法手術切除的肝細胞癌（HCC）。自然殺手細胞（NK細胞）免疫療法已被研究作為一種...",
       "source": "PubMed",
       "date": "2026-06-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42311101/",
       "lang": "zh-TW"
     },
     {
-      "title": "3D",
-      "summary": "",
+      "title": "用於傷口癒合的 3D 生物列印技術和基於生物材料的支架：深入了解脫細胞組織衍生的生物墨水。",
+      "summary": "隨著 3D 列印技術的出現，組織工程領域取得了重大進步，特別是在傷口癒合方面。結合脫細胞生物材料的創新 3D 列印支架為增強再生過程提供了一種有前景的方法。脫細胞雙...",
       "source": "PubMed",
       "date": "2026-06-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42255493/",
@@ -84,7 +84,7 @@
     },
     {
       "title": "透過按需高速雷射用熱滅活的細胞外基質蛋白進行微圖案神經誘導。",
-      "summary": "培養細胞中的微環境異質性會損害細胞質量，降低實驗重複性，並削弱細胞治療功效的信心。儘管微圖案細胞培養物更均質，但傳統的微圖案方法缺乏靈活性。",
+      "summary": "培養細胞中的微環境異質性會損害細胞質量，降低實驗重複性，並削弱細胞治療功效的信心。儘管微圖案細胞培養物更加均一，但傳統的微圖案方法缺乏靈活性。",
       "source": "PubMed",
       "date": "2026-06-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42255491/",
@@ -116,7 +116,7 @@
     },
     {
       "title": "使用受控支架屈曲和含有肌肉來源細胞的軟骨形成混合物進行非常規耳廓重建。",
-      "summary": "組織工程耳廓面臨許多挑戰，例如移植物機械強度低於標準、幹細胞/祖細胞不足以及特異性促進彈性軟骨的未知因素。為了解決這些問題，我們使用兩個非傳統概念開發了彈性且具有生物活性的 3D 列印支架...",
+      "summary": "組織工程耳廓面臨許多挑戰，例如移植物機械強度低於標準、幹細胞/祖細胞不足以及特異性促進彈性軟骨的未知因素。為了解決這些問題，我們使用兩個非傳統概念開發了彈性和生物活性的 3D 列印支架...",
       "source": "PubMed",
       "date": "2026-06-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42318054/",
@@ -131,15 +131,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "3D生物列印異質細胞皮瓣組織與彈性可灌注血管",
-      "summary": "儘管生物製造技術有進展，要做出含有異質細胞的大尺寸血管化組織，仍是個巨大挑戰。",
+      "title": "3D生物列印技術打造含異質細胞與彈性可灌注血管的皮瓣組織",
+      "summary": "儘管生物製造技術不斷進步，但要製造出含有異質細胞的大規模血管化組織，仍是一項艱鉅的挑戰。",
       "source": "PubMed",
       "date": "2026-06-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42281783/",
       "lang": "zh-TW"
     },
     {
-      "title": "纖維蛋白-磷酸鈣支架遞送BMP-",
+      "title": "纖維蛋白-磷酸鈣（",
       "summary": "",
       "source": "PubMed",
       "date": "2026-06-28",
@@ -147,7 +147,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "使用仿肝微球進行機械預處理幹細胞治療，進行功能性肝臟修復。",
+      "title": "Mechanically preconditioned 幹細胞 therapy using bioinspired liver-mimetic microspheres for functional liver repair.",
       "summary": "肝細胞樣細胞（HLC）代表了一種有前景的急性肝衰竭（ALF）治療方法，為供應短缺的原代肝細胞提供了替代方案。鑑於肝臟的黏彈性組織特性以及對生理學和機械線索的日益認識...",
       "source": "PubMed",
       "date": "2026-06-28",
@@ -155,7 +155,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[NA] 評估 NeoThelium FT 治療壓力性損傷的療效",
+      "title": "[NA] Evaluating the Efficacy of NeoThelium FT in the Treatment of Pressure Injuries",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：NuScience Medical Biologics, LLC｜這是一項隨機對照試驗，評估 NeoThelium FT 聯合標準護理與單獨標準護理治療壓力性損傷的療效。",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06-28",
@@ -171,32 +171,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[",
-      "summary": "",
+      "title": "[PHASE2] Testing the Use of Combination Therapy in Patients With Persistent Low Level Acute Myeloid Leukemia Following Initial Treatment, The ERASE Study (A MyeloMATCH Treatment Trial)",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：National Cancer Institute (NCI)｜This 第二期試驗 MyeloMATCH treatment trial compares cytarabine versus (vs.) cytarabine and venetoclax vs. liposome-encapsulated daunorubicin-cytarabine and venetoclax vs. azacitidine and venetoclax for treating patients who have residual disease after ",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06-28",
       "url": "https://clinicaltrials.gov/study/NCT05554419",
       "lang": "zh-TW"
     },
     {
-      "title": "[第一階段，第二階段]LB-DTK-BKV 在同種異體造血幹細胞移植後 BK 病毒相關出血性膀胱炎患者的安全性和有效性評估。",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：LucasBio｜本次臨床試驗的目的是評估 BK 病毒特異性 T 細胞（LB-DTK-BKV）治療同種異體造血幹細胞移植後患有 BK 病毒相關出血性膀胱炎的兒童、青少年和成人患者的療效（",
+      "title": "[PHASE1, PHASE2] Evaluation of the Safety and Efficacy of LB-DTK-BKV in Patients With BK Virus-Associated Hemorrhagic Cystitis Following 異體（取自捐贈者） Hematopoietic 幹細胞 Transplantation.",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：LucasBio｜The goal of this 臨床試驗 is to assess efficacy of BK virus specific T cells (LB-DTK-BKV) to treat pediatric, adolescent, and adult patients with BK virus-associated hemorrhagic cystitis after allogenic hematopoietic 幹細胞 transplantation (",
       "source": "ClinicalTrials.gov｜South Korea",
       "date": "2026-06-28",
       "url": "https://clinicaltrials.gov/study/NCT07638332",
       "lang": "zh-TW"
     },
     {
-      "title": "二期臨床試驗：低劑量、低頻率Nivolumab治療無法切除或轉移性癌症，AFFORD IO試驗",
-      "summary": "狀態：尚未招募｜主辦：弗雷德哈欽森癌症研究中心｜這項二期臨床試驗旨在評估低劑量、低頻",
+      "title": "低劑量、低頻率Nivolumab治療無法切除或轉移性癌症的二期臨床試驗：AFFORD IO",
+      "summary": "狀態：尚未招募｜主辦：Fred Hutchinson Cancer Center｜這項二期臨床試驗旨在評估低劑量、低頻率的Nivolumab在",
       "source": "ClinicalTrials.gov｜Uganda",
       "date": "2026-06-28",
       "url": "https://clinicaltrials.gov/study/NCT07576725",
       "lang": "zh-TW"
     },
     {
-      "title": "[EARLY_PHASE1] CS-206 在鐮狀細胞疾病患者的應用",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：復旦大學附設兒科醫院｜這項開放標籤、單臂臨床研究的目標是了解CS-206注射液治療鐮狀細胞疾病的安全性和有效性。",
+      "title": "[EARLY_PHASE1] CS-206 in Patients With Sickle Cell Disease",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Children's Hospital of Fudan University｜The goal of this open label, single-arm clinical study is to learn about the safety and efficacy of CS-206 injection in treating sickle cell disease.",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-06-28",
       "url": "https://clinicaltrials.gov/study/NCT07000318",
@@ -204,7 +204,7 @@
     },
     {
       "title": "[PHASE3] 基底細胞癌化學預防試驗",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：VA Office of Research and Development｜這是一項意向性治療、平行設計、多中心隨機試驗，主要幹預措施是雙盲比較咪喹莫特 (IMQ) 與安慰劑乳膏在一年內預防面部皮膚基底細胞癌 (BCC) 的效果",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：VA Office of Research and Development｜This is an intent-to-treat, parallel design, multicenter randomized trial and the primary intervention is a double-blind comparison of Imiquimod (IMQ) vs. 安慰劑 cream for preventing basal cell carcinoma (BCC) of the skin on the face at one year and",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-28",
       "url": "https://clinicaltrials.gov/study/NCT05212246",
@@ -227,7 +227,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 1 期、第 2 期] 新輔助吸入氮雜胞苷合併鉑類化療和 Durvalumab (MEDI4736) - 用於可手術早期非小細胞肺癌 (NSCLC) 的表觀遺傳-免疫聯合療法 (AZA-AEGEAN) 方案",
+      "title": "[PHASE1, PHASE2] Neoadjuvant Inhaled Azacytidine With Platinum-Based Chemotherapy and Durvalumab (MEDI4736) - a Combined Epigenetic-免疫療法 (AZA-AEGEAN) Regimen for Operable Early-Stage Non-Small Cell Lung Cancer (NSCLC)",
       "summary": "狀態：招募中｜主辦單位：美國國家癌症研究所（NCI）｜背景：\n\n肺癌是全球癌症相關死亡的主要原因。非小細胞肺癌（NSCLC）是最常見的肺癌類型。手術切除腫瘤是早期診斷患者的標準治療方法",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-28",
@@ -243,8 +243,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "膀胱內給藥的嵌合抗原受體T細胞療法，在臨床前模型中展現抑制膀胱癌生長潛力",
-      "summary": "研究人員發現MUC16蛋白是膀胱癌具臨床意義的治療標靶，並成功開發出鎖定MUC16的嵌合抗原受",
+      "title": "臨床前模型中膀胱內 CAR-T細胞療法 細胞療法可減少膀胱癌的生長",
+      "summary": "研究人員將蛋白質 MUC16 確定為膀胱癌的臨床相關靶點，並設計了靶向 MUC16 的 CAR-T細胞療法 細胞，當通過導管輸送到膀胱時，可以控制小鼠的膀胱腫瘤。\n膀胱癌G後",
       "source": "GEN News",
       "date": "2026-06-26",
       "url": "https://www.genengnews.com/topics/cancer/intravesical-car-t-cell-therapy-reduces-bladder-cancer-growth-in-preclinical-model/",
@@ -267,24 +267,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Capricor 的 Duchenne 藥物在 PPMD​​ 上展示了 5 年的肌肉和心臟數據",
-      "summary": "PPMD Stock Titan 的細胞和心臟數據",
-      "source": "Stock Titan",
-      "date": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON09POWZZTk0xR1J5aHZzTTdXMUtjVVVudjhaTl9KNW15dTYwakhIQ2FVQlhiWjhXdFhGVUpPRWdOZkR3aHkzVlpLSWNKaVRPWFMwRW4tbkRucDJFWVQ0YWVpZVNpR201dmtnUHo5YTkybmlFTDlGXzRuaG4xdnF0Wk1uOW9qcVJ2VHM2Y2ptYVYyTnVXV3JRLTl5eXVRaGhkM05FMF85bTV1dkEwelZYaDMxWTA3a0g3UEFOSw?oc=5",
+      "title": "幹細胞療法 Laromestrocel 治療輕度阿茲海默症的新 2a 期臨床數據分析被接受在 2026 年阿茲海默症協會國際會議 (AAIC) 上進行海報展示",
+      "summary": "幹細胞療法 Laromestrocel 治療輕度阿茲海默症被接受在 2026 年阿茲海默症協會國際會議 (AAIC) 上進行海報展示 雅虎財經",
+      "source": "Yahoo Finance",
+      "date": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzRhRTRBYVNnOW9CU2w1WnI0WDluWGswM2s1N2haRVFKdEQ1dGswcFVBNnBHc2dQZ2hXdjRBeVFiNmxTNzZhejN4b2FYTmhNdVNXQWJXaFBxdjh2eGJ0b1ZaX1hHLUN1c1lwNUxLYmktUWU1a1lTMUp0aVEtaUZreEhMc3hLanZ3VUJWU1E1WUt2bjAzTVBR?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品藥物管理局（FDA）局長國家優先審查憑證（CNPV）試行計畫",
-      "summary": "美國食品藥物管理局（FDA）推出局長國家優先審查憑證（CNPV）試行計畫，旨在加速特定藥品的審查與核准。",
+      "title": "專員國家優先券 (CNPV) 試點計劃",
+      "summary": "(CNPV) 試點計畫 美國食藥局（FDA）.gov",
       "source": "fda.gov",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "[一期臨床試驗] Adia Med of Winter Park LLC 下背痛研究試驗",
-      "summary": "狀態：正在招募中｜主辦：Adia Med of Winter Park LLC｜這項臨床試驗旨在評估一種試驗性療法的安全性與初步療效。",
+      "title": "[第一階段] Winter Park LLC 下背痛研究的 Adia Med",
+      "summary": "狀態：RECRUITING｜主辦：Adia Med of Winter Park LLC｜The goal of this clinical study is to evaluate the safety and preliminary efficacy of an investigational umbilical cord blood-derived 幹細胞 and 外泌體 infusion in adults with chronic lower back pain associated with degenerative spine disease. Th",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-16",
       "url": "https://clinicaltrials.gov/study/NCT07587047",
@@ -315,16 +315,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫學市場規模預計2035年將突破2348.5億美元，受惠於人工智慧（AI）、幹細胞療法與3D生物列印技術革新醫療產業",
-      "summary": "報告預測，再生醫學市場規模在AI、幹細胞療法及3D生物列印技術推動下，2035年將突破2348.5億美元。",
+      "title": "隨著人工智慧、幹細胞療法和 3D 生物列印徹底改變醫療保健，再生醫學市場規模到 2035 年將超過 2,348.5 億美元",
+      "summary": "人工智慧、幹細胞療法和 3D 生物列印將徹底改變醫療保健領域，到 2035 年將達到 2,348.5 億美元",
       "source": "BioSpace",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMzViY0hJS2JZVXpONklyNnh2ZzViTHZjSUlaZEhPLWoxNHUwVzhQNXEyYUJNMkR3RGxCa2pnaWxBb2RlYUxiNzR4dHc4U2FLSGpnT1JEY2t1aDRfWmxhaGV2SGUtVl9QTmNXVzYwbGZrLTQzMGZjTlBac1YwRXY0eDBNdUpKeS1wV29zWWwzb004NEViMFJkY2JSelprWl9LN0l0ZGUtckZRVEhwOUd5Y2Y1SDhrRjhSWVFVZjlSaWhlcWVLWFBEajVzUlJicGh1RHp6XzE0V25SVGRWVEY1TDFBRTFDWURnZldtdk05aWoyTnVMSFp2QWI1dXczam1SLTV3M2Z6OEd4MTg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1]抗CD33-CLL1 CAR-T細胞（ICG415）用於治療復發/難治性急性骨髓性白血病",
-      "summary": "狀態：招募中｜主辦方：iCell Gene Therapeutics｜這項單臂、開放標籤的 I 期試驗評估了 ICG415（靶向 CD33 和 CLL1 的自體 CAR-T細胞療法 細胞）在復發或難治性急性髓系白血病 (AML) 患者中的安全性和耐受性。受試者接受淋巴球清除化療",
+      "title": "[PHASE1] Anti-CD33-CLL1 CAR-T細胞療法 Cells (ICG415) for the Treatment of Relapsed/Refractory Acute Myeloid Leukemia",
+      "summary": "狀態：RECRUITING｜主辦：iCell Gene Therapeutics｜This single-arm, open-label 第一期試驗 trial evaluates the safety and tolerability of ICG415, 自體（取自患者本人） CAR-T細胞療法 cells targeting CD33 and CLL1, in patients with relapsed or refractory acute myeloid leukemia (AML). Subjects receive lymphodepleting chemothe",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-06-10",
       "url": "https://clinicaltrials.gov/study/NCT07668557",
@@ -339,8 +339,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 3 期] 時間調節脈衝放射治療與標準放射治療治療新診斷 IDH 野生型 MGMT 非甲基化膠質母細胞瘤",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：NRG Oncology｜這項 III 期試驗比較了時間調製脈衝放射治療與標準放射治療在治療新診斷的 IDH 野生型 MGMT 非甲基化膠質母細胞瘤患者中的情況。手術完成後，護理標準",
+      "title": "[PHASE3] Temporally-Modulated Pulsed Radiation Therapy Versus Standard Radiation Therapy for the Treatment of Newly Diagnosed, IDH Wildtype, MGMT-Unmethylated Glioblastoma",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：NRG Oncology｜This 第三期試驗 trial compares temporally-modulated pulsed radiation therapy versus standard radiation therapy in treating patients with newly diagnosed, IDH wildtype, MGMT-unmethylated glioblastoma. After completion of surgery, the standard of care f",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06-08",
       "url": "https://clinicaltrials.gov/study/NCT07452458",
@@ -355,7 +355,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[N/A] 鼻內 MuSE 外泌體和幹細胞在神經再生治療中的真實結果",
+      "title": "[N/A] Real World Outcomes of Intranasal MuSE 外泌體 and 幹細胞 in Neurological Regenerative Therapy",
       "summary": "狀態：ENROLLING_BY_INVITATION｜主辦：Healing Hope International｜這項前瞻性觀察研究收集了參與者接受國際再生療法並透過 Kurve Therapeutics ViaNase 設備鼻內給藥的真實世界數據。該研究沒有指定治療方案。帕",
       "source": "ClinicalTrials.gov｜Mexico",
       "date": "2026-06-01",
@@ -363,16 +363,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 階段] MRD 導引的 Zanubrutinib 加 Sonrotoclax 在初治高危險 CLL/SLL 病患的研究",
-      "summary": "狀態：招募中｜主辦：南京醫科大學第一附屬醫院｜本研究是一項前瞻性、多中心、開放標籤、單臂 II 期臨床試驗，旨在評估 MRD 指導下的 zanubrutinib 聯合 sonrotoclax 治療既往未經治療的高危險 CLL/SLL 患者的有效性和安全性",
+      "title": "[第 2 階段] MRD 導引的 Zanubrutinib 加 Sonrotoclax 在初治高風險 CLL/SLL 病患的研究",
+      "summary": "狀態：RECRUITING｜主辦：The First Affiliated Hospital with Nanjing Medical University｜This study is a prospective, multicenter, open-label, single-arm 第二期試驗 臨床試驗 evaluating the efficacy and safety of an MRD-guided, time-limited therapy with zanubrutinib combined with sonrotoclax in previously untreated high-risk CLL/SLL p",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-06-01",
       "url": "https://clinicaltrials.gov/study/NCT07671378",
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1, PHASE2] 針對肉瘤的第四代安全工程CAR T細胞的安全性和有效性評估",
-      "summary": "狀態：招募中｜主辦單位：深圳市基因免疫醫學研究院｜本次臨床試驗的目的是評估CAR T細胞免疫治療復發或晚期肉瘤患者的可行性、安全性和有效性。研究的另一個目標是評估該療法的安全性和有效性",
+      "title": "[PHASE1, PHASE2] Safety and Efficacy Evaluation of 4th Generation Safety-engineered CAR-T細胞療法 Cells Targeting Sarcomas",
+      "summary": "狀態：RECRUITING｜主辦：Shenzhen Geno-Immune Medical Institute｜The aim of this 臨床試驗 is to assess the feasibility, safety and efficacy of CAR-T細胞療法 cells 免疫療法 in patients who have sarcoma that is relapsed or late staged. Another goal of the study is to assess the safety and efficacy of the therapy ",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-06-01",
       "url": "https://clinicaltrials.gov/study/NCT03356782",
@@ -387,8 +387,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[EARLY_PHASE1] 評估 GT719 通用細胞注射液治療免疫介導的腎臟疾病的安全性和有效性的臨床研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Grit Biotechnology｜本研究為單臂、開放標籤、劑量遞增和劑量擴展臨床試驗，分為兩個階段：第一階段為劑量遞增階段，第二階段為劑量擴展階段。在劑量遞增階段，約",
+      "title": "[EARLY_PHASE1] A Clinical Study Evaluating the Safety and Efficacy of GT719 Universal Cell Injection in the Treatment of Immune-mediated Kidney Diseases",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Grit Biotechnology｜This study is a single-arm, open-label, dose-escalation and dose-expansion 臨床試驗, divided into two phases: the first phase is the dose-escalation phase, and the second phase is the dose-expansion phase. In the dose-escalation phase, approxim",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-05-30",
       "url": "https://clinicaltrials.gov/study/NCT07389499",
