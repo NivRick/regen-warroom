@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-06-29T23:57:37.927104+00:00",
+  "updated": "2026-06-30T13:07:53.863357+00:00",
   "items": [
     {
-      "title": "STAT+：美國食藥局（FDA） 最高基因治療監管者即將離職",
-      "summary": "Vijay Kumar 的離職是在 美國食藥局（FDA） 進行更廣泛的領導層改組之後進行的。",
+      "title": "STAT+: 川普政府與禮來、諾和諾德的肥胖藥物協議出現漏洞",
+      "summary": "川普政府跟藥廠談好的肥胖藥物大協議，現在看來好像沒照原定計畫走。",
+      "source": "STAT News",
+      "date": "2026-06-30",
+      "url": "https://www.statnews.com/2026/06/30/medicare-medicaid-glp1-costs-explained-balance-out-bridge-in/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: 美國食藥署（FDA）基因",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-06-29",
       "url": "https://www.statnews.com/2026/06/29/vijay-kumar-exits-fda-office-of-therapeutic-products/?utm_campaign=rss",
@@ -20,42 +28,26 @@
     },
     {
       "title": "STAT+：Talawar 押注雙特異性方法可以撼動濕疹市場",
-      "summary": "Moderna 仍然看好 信使RNA（mRNA）、Ipsen 收購 Kartos 以及來自 The Readout 的更多生物技術新聞",
+      "summary": "Moderna 仍然看好 信使RNA（mRNA）、Ipsen 收購 Kartos 以及更多來自 The Readout 的生物技術新聞",
       "source": "STAT News",
       "date": "2026-06-29",
       "url": "https://www.statnews.com/2026/06/29/biotech-news-talawar-bets-bispecific-approach-for-eczema/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：投資者 Clive Meanwell 談設計促進人口健康的生物技術以及人工智慧的催化劑作用",
-      "summary": "投資公司 Population Health Partners 的董事長 Clive Meanwell 直到最近還是人工智慧懷疑論者。現在，他認為這是一個催化劑。",
+      "title": "STAT+: Investor Clive Meanwell on designing biotechs for population health, and AI’s role as a catalyst",
+      "summary": "投资公司 Population Health Partners 的董事长克莱夫·明韦尔 (Clive Meanwell) 直到最近还是人工智能怀疑论者。現在，他認為這是一個催化劑。",
       "source": "STAT News",
       "date": "2026-06-29",
       "url": "https://www.statnews.com/2026/06/29/clive-meanwell-population-health-partners-on-ai-biotech/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Sword Health 簽約為整個國家提供人工智慧支援的物理治療",
-      "summary": "葡萄牙國家衛生服務中心與數位健康公司 Sword 簽署了一項人工智慧輔助虛擬物理治療護理協議。",
+      "title": "STAT+: Sword Health contracted to provide AI-supported physical therapy for an entire country",
+      "summary": "Portugal's National Health Service signed a deal with digital health company Sword for its AI-assisted virtual physical therapy care.",
       "source": "STAT News",
       "date": "2026-06-29",
       "url": "https://www.statnews.com/2026/06/29/sword-health-portugal-deal-ai-supported-physical-therapy/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：急診室可以讓病人望而卻步，並收穫數百萬美元",
-      "summary": "STAT 發現，醫院業者 Nutex 透過利用旨在保護患者的法律漏洞而致富。",
-      "source": "STAT News",
-      "date": "2026-06-29",
-      "url": "https://www.statnews.com/2026/06/29/nutex-health-micro-hospitals-er-loophole-idr-profits/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Metsera 背後的團隊聘請人工智慧科學家公司 Edison Scientific 來創建新的生物技術",
-      "summary": "Edison Scientific 和投資公司 Population Health Partners 正在合作，利用人工智慧代理進行藥物發現和開發。",
-      "source": "STAT News",
-      "date": "2026-06-29",
-      "url": "https://www.statnews.com/2026/06/29/edison-scientific-population-health-partners-deal-to-create-new-biotechs/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -83,27 +75,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "在 BIO，中國生物技術交易監管的緊張局勢迫在眉睫",
-      "summary": "生技投資者、高階主管和分析師擔心，全面禁止與中國公司進行交易可能會抑制國內企業家在該行業的雄心壯志。",
+      "title": "在BIO大會上，中國生技交易監管的緊張氣氛籠罩",
+      "summary": "生技投資人、高階主管和分析師擔心，全面禁止與中國公司交易，可能會抑制國內創業家的雄心。",
       "source": "BioPharma Dive",
       "date": "2026-06-26",
       "url": "https://www.biopharmadive.com/news/bio-2026-us-china-biotech-competition/823723/",
       "lang": "zh-TW"
     },
     {
-      "title": "Alkermes 即將上任的執行長計劃超越禮來（Lilly）和武田（Takeda）",
-      "summary": "布萊爾傑克森 (Blair Jackson) 表示，未來 12 個月可能是 Alkermes 歷史上最重要的時期，因為這家腦藥物製造商競相加入「食慾素」市場，分析師認為該市場蘊藏著數十億美元的機會。",
+      "title": "Alkermes新任執行長有計畫要超越禮來和",
+      "summary": "",
       "source": "BioPharma Dive",
       "date": "2026-06-26",
       "url": "https://www.biopharmadive.com/news/alkermes-blair-jackson-narcolepsy-drug-orexin-ceo-succession/823893/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 籌款追蹤 '26：Lycia 籌集 7,500 萬美元； Oblenio 收入 6,200 萬美元",
-      "summary": "Lycia 融資 7,500 萬美元； Oblenio 獲得 6,200 萬美元的 Fierce Biotech 投資",
-      "source": "Fierce Biotech",
-      "date": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     },
     {

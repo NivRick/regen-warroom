@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-06-29T23:56:27.115700+00:00",
+  "updated": "2026-06-30T13:07:08.298561+00:00",
   "items": [
     {
-      "title": "基於基因組編輯和幹細胞技術的治療方法評估",
-      "summary": "葉朝暉的研究計畫「基因組編輯和幹細胞技術編輯」。",
+      "title": "評估基因編輯與幹細胞技術的治療策略",
+      "summary": "葉昭輝（Zhaohui Ye）的研究計畫，聚焦於基因編輯與幹細胞技術在治療上的應用評估。",
       "source": "FDA Biologics",
       "date": "2026-06-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/evaluation-therapeutic-approaches-based-genome-editing-and-stem-cell-technologies",
       "lang": "zh-TW"
     },
     {
-      "title": "基因治療產品的免疫原性",
-      "summary": "Ronit Mazor 的研究計畫「」。",
+      "title": "基因療法產品的免疫原性",
+      "summary": "羅尼特·馬佐（Ronit Maz",
       "source": "FDA Biologics",
       "date": "2026-06-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/immunogenicity-gene-therapy-products",
@@ -66,7 +66,7 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "Clinical pharmacology insights from recent cell and 基因療法 approvals relevant to pediatrics",
+      "title": "最近與兒科相關的細胞和基因治療批准的臨床藥理學見解",
       "summary": "與兒科相關的 nt 細胞和基因治療核准 Nature",
       "source": "Nature",
       "date": "2026-06-03",
