@@ -1,18 +1,58 @@
 {
   "module": "regulation",
-  "updated": "2026-06-30T13:07:08.298561+00:00",
+  "updated": "2026-06-30T23:59:33.495513+00:00",
   "items": [
     {
-      "title": "評估基因編輯與幹細胞技術的治療策略",
-      "summary": "葉昭輝（Zhaohui Ye）的研究計畫，聚焦於基因編輯與幹細胞技術在治療上的應用評估。",
+      "title": "美國食藥局（FDA） 批准使用供體免疫細胞預防血癌患者嚴重併發症的新療法",
+      "summary": "美國食品藥物管理局今天批准了 TREGZI，這是第一個基於調節性 T (Treg) 細胞的免疫療法，用於改善接受同種異體造血的成年血癌患者的無慢性移植物抗宿主病 (GVHD) 生存期",
+      "source": "FDA Biologics",
+      "date": "2026-06-30",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-uses-donor-immune-cells-prevent-serious-complications-blood-cancer",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "冠狀病毒 (COVID-19) | CBER 監管的生物製品",
+      "summary": "本頁面和相關連結提供與治療或預防 COVID-19 療法開發相關的指導和建議信息，以及尋求其他資訊或幫助的開發人員的聯絡資訊。",
+      "source": "FDA Biologics",
+      "date": "2026-06-30",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-06-30",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "健贊愛爾蘭有限公司 - 728681",
+      "summary": "CGMP/偏差/生物製品許可證申請 (BLA)",
+      "source": "06/22/2026",
+      "date": "2026-06-30",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/genzyme-ireland-limited-728681-06222026",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Cytiva 完成將猶他州工廠的液體培養基產能翻倍",
+      "summary": "在一次內容廣泛的訪談中，Cytiva 生物工藝集團高管 Pierre-Alain Ruffieux 討論了該公司在猶他州洛根的液體培養基產能翻倍的完成情況、Cytiva 的人工智能方法、美國食藥局（FDA） 的 Adv",
+      "source": "GEN News",
+      "date": "2026-06-30",
+      "url": "https://www.genengnews.com/topics/bioprocessing/cytiva-completes-doubling-of-utah-sites-liquid-media-production-capacity/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "基於基因組編輯和幹細胞技術的治療方法評估",
+      "summary": "葉朝暉的研究計畫「基因組編輯和幹細胞技術編輯」。",
       "source": "FDA Biologics",
       "date": "2026-06-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/evaluation-therapeutic-approaches-based-genome-editing-and-stem-cell-technologies",
       "lang": "zh-TW"
     },
     {
-      "title": "基因療法產品的免疫原性",
-      "summary": "羅尼特·馬佐（Ronit Maz",
+      "title": "基因治療產品的免疫原性",
+      "summary": "Ronit Mazor 的研究計畫「」。",
       "source": "FDA Biologics",
       "date": "2026-06-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/immunogenicity-gene-therapy-products",
@@ -24,14 +64,6 @@
       "source": "FDA Biologics",
       "date": "2026-06-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/allergenics/oralair",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-06-29",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
@@ -51,6 +83,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "歐洲藥品管理局（EMA） 改變了對 Acadia 的 Rett 綜合徵療法 Daybu 的立場",
+      "summary": "綜合症治療 Daybu BioWorld 新聞",
+      "source": "BioWorld News",
+      "date": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYy1lMmV3ajlMUUxKQ3J2OEJFRnR4X19aUEdXWUxpeXRDUkpNOUJtLU8yLVM2a3FqY0hiMy12ZlJDVE5lTGZ4enJqNUpUM1VQWEdkYUZXWXpidjVDaWhDamFLZ05mczhZSmZiUEpxV3J0eDF0NVVteF9GM3U2cndUUWlNTEgtQk8zQWV5LTBlYnhrc283YWhmeldqZjVweVU5QzRWTkhB?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "REPROCELL 提交用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）的幹細胞療法 Stemchymal® 在日本的製造和行銷批准申請",
       "summary": "用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）的幹細胞療法 Stemchymal® 在日本核准上市 澳門業務",
       "source": "Macau Business",
@@ -66,7 +106,7 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "最近與兒科相關的細胞和基因治療批准的臨床藥理學見解",
+      "title": "Clinical pharmacology insights from recent cell and 基因療法 approvals relevant to pediatrics",
       "summary": "與兒科相關的 nt 細胞和基因治療核准 Nature",
       "source": "Nature",
       "date": "2026-06-03",

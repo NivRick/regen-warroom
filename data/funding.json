@@ -1,18 +1,50 @@
 {
   "module": "funding",
-  "updated": "2026-06-30T13:07:53.863357+00:00",
+  "updated": "2026-06-30T23:59:59.375234+00:00",
   "items": [
     {
-      "title": "STAT+: 川普政府與禮來、諾和諾德的肥胖藥物協議出現漏洞",
-      "summary": "川普政府跟藥廠談好的肥胖藥物大協議，現在看來好像沒照原定計畫走。",
+      "title": "STAT+：投資人加倍投資貝恩支持的新創公司",
+      "summary": "美國食藥局（FDA） 最高基因治療監管機構辭職、川普計劃降低 GLP-1 價格以及更多生物技術新聞",
+      "source": "STAT News",
+      "date": "2026-06-30",
+      "url": "https://www.statnews.com/2026/06/30/biotech-news-investors-double-down-on-bain-backed-capital/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：川普與禮來公司和諾和諾德公司的肥胖藥物交易中的漏洞",
+      "summary": "川普政府與製藥商的大交易並未按計劃進行。",
       "source": "STAT News",
       "date": "2026-06-30",
       "url": "https://www.statnews.com/2026/06/30/medicare-medicaid-glp1-costs-explained-balance-out-bridge-in/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 美國食藥署（FDA）基因",
-      "summary": "",
+      "title": "Ipsen 價值 4.5 億美元的血癌藥物； 美國食藥局（FDA） 選擇第一批「預檢查」試點計劃",
+      "summary": "計劃收購 Kartos Therapeutics 將為 Ipsen 提供治療骨髓纖維化的後期資產。在其他地方，Sobi 遇到了監管挫折，而 BeOne 則公佈了更積極的 Brukinsa 數據。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-30",
+      "url": "https://www.biopharmadive.com/news/ipsen-kartos-acquisition-astrazeneca-beone-fda/823954/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Beeline 完成免疫藥物 A 輪融資",
+      "summary": "該公司由貝恩資本 (Bain Capital) 創建，目前已籌集超過 4.26 億美元，以推進百時美施貴寶 (Bristol Myers) 藥品組合的發展。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-30",
+      "url": "https://www.biopharmadive.com/news/beeline-series-a-extension-bain-bristol-myers/824091/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 基因和細胞治療最高監管者辭職",
+      "summary": "Vijay Kumar 退出後，CBER 代理主任 Karim Mikhail 還將監督一個審查辦公室，該辦公室已成為 美國食藥局（FDA） 靈活性爭論的戰場。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-30",
+      "url": "https://www.biopharmadive.com/news/top-fda-gene-cell-therapy-regulator-step-down/824093/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：美國食藥局（FDA） 最高基因治療監管者即將離職",
+      "summary": "Vijay Kumar 的離職是在 美國食藥局（FDA） 進行更廣泛的領導層改組之後進行的。",
       "source": "STAT News",
       "date": "2026-06-29",
       "url": "https://www.statnews.com/2026/06/29/vijay-kumar-exits-fda-office-of-therapeutic-products/?utm_campaign=rss",
@@ -24,30 +56,6 @@
       "source": "STAT News",
       "date": "2026-06-29",
       "url": "https://www.statnews.com/pharmalot/2026/06/29/astrazeneca-kickback-charges-texas-settlement/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Talawar 押注雙特異性方法可以撼動濕疹市場",
-      "summary": "Moderna 仍然看好 信使RNA（mRNA）、Ipsen 收購 Kartos 以及更多來自 The Readout 的生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-06-29",
-      "url": "https://www.statnews.com/2026/06/29/biotech-news-talawar-bets-bispecific-approach-for-eczema/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Investor Clive Meanwell on designing biotechs for population health, and AI’s role as a catalyst",
-      "summary": "投资公司 Population Health Partners 的董事长克莱夫·明韦尔 (Clive Meanwell) 直到最近还是人工智能怀疑论者。現在，他認為這是一個催化劑。",
-      "source": "STAT News",
-      "date": "2026-06-29",
-      "url": "https://www.statnews.com/2026/06/29/clive-meanwell-population-health-partners-on-ai-biotech/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Sword Health contracted to provide AI-supported physical therapy for an entire country",
-      "summary": "Portugal's National Health Service signed a deal with digital health company Sword for its AI-assisted virtual physical therapy care.",
-      "source": "STAT News",
-      "date": "2026-06-29",
-      "url": "https://www.statnews.com/2026/06/29/sword-health-portugal-deal-ai-supported-physical-therapy/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -75,43 +83,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "在BIO大會上，中國生技交易監管的緊張氣氛籠罩",
-      "summary": "生技投資人、高階主管和分析師擔心，全面禁止與中國公司交易，可能會抑制國內創業家的雄心。",
+      "title": "在 BIO，中國生物技術交易監管的緊張局勢迫在眉睫",
+      "summary": "生技投資者、高階主管和分析師擔心，全面禁止與中國公司進行交易可能會抑制國內企業家在該行業的雄心壯志。",
       "source": "BioPharma Dive",
       "date": "2026-06-26",
       "url": "https://www.biopharmadive.com/news/bio-2026-us-china-biotech-competition/823723/",
       "lang": "zh-TW"
     },
     {
-      "title": "Alkermes新任執行長有計畫要超越禮來和",
-      "summary": "",
+      "title": "Alkermes 即將上任的執行長計劃超越禮來（Lilly）和武田（Takeda）",
+      "summary": "布萊爾傑克森 (Blair Jackson) 表示，未來 12 個月可能是 Alkermes 歷史上最重要的時期，因為這家腦藥物製造商競相加入「食慾素」市場，分析師認為該市場蘊藏著數十億美元的機會。",
       "source": "BioPharma Dive",
       "date": "2026-06-26",
       "url": "https://www.biopharmadive.com/news/alkermes-blair-jackson-narcolepsy-drug-orexin-ceo-succession/823893/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Remix 將透過與曾經風光無限的 Passage Bio 反向合併而上市",
-      "summary": "這項交易標誌著 Passage Bio 命運的最新轉折，該公司是基因療法先驅吉姆威爾遜 (Jim Wilson) 創辦的公司之一。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-25",
-      "url": "https://www.biopharmadive.com/news/passage-bio-remix-reverse-merger-gene-therapy-wilson/823775/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Antares 從諾華獲得 1.05 億美元用於新抗癌藥物",
-      "summary": "Scorpion Therapeutics 分拆公司的執行長 Adam Friedman 表示，這筆交易有助於兩家公司「比我們單獨行動的速度更快」地加速研究。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-25",
-      "url": "https://www.biopharmadive.com/news/novartis-antares-deal-cancer-drugs/823761/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Ionis 獲得 美國食藥局（FDA） 新批准，迎來“商業拐點”",
-      "summary": "一位分析師表示，Ionis 歷來被視為“平台貨幣化故事”，現在 Tryngolza 擁有一種潛在價值數十億美元的藥物，該藥物週三獲得了擴大批准。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-24",
-      "url": "https://www.biopharmadive.com/news/ionis-wins-fda-ok-Tryngolza-broader-label-expansion/823717/",
       "lang": "zh-TW"
     },
     {
