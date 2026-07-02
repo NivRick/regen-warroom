@@ -1,93 +1,93 @@
 {
   "module": "regulation",
-  "updated": "2026-07-01T13:35:53.786856+00:00",
+  "updated": "2026-07-02T00:03:37.649928+00:00",
   "items": [
     {
-      "title": "FDA 核准新療法，利用捐贈者免疫細胞預防血癌患者嚴重併發症",
-      "summary": "美國食品藥物管理局（FDA）今天核准了TREGZI，這是首款以調節性T細胞（Treg）為基礎的免疫療法，用於改善慢性移植物抗宿主疾病（GVHD）。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
-      "date": "2026-06-30",
-      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-uses-donor-immune-cells-prevent-serious-complications-blood-cancer",
+      "date": "2026-07-01",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 批准首個針對鐮狀細胞疾病幼兒的基因療法",
+      "summary": "美國食品藥物管理局今天發布了 Casgevy (exagamglogene autotemcel) 的補充批准，用於治療 2 歲及以上患有鐮狀細胞病 (SCD) 並伴有復發性血管閉塞危象 (VOC) 或輸血相關疾病的患者",
+      "source": "FDA Biologics",
+      "date": "2026-07-01",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "HAEGARDA",
+      "summary": "Product approval information is indicated for routine prophylaxis to prevent Hereditary Angioedema (HAE) attacks in adolescent and adult patients.",
+      "source": "FDA Biologics",
+      "date": "2026-07-01",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/haegarda",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "埃里型S",
+      "summary": "Product approval information is indicated for use on the Erytype® S Rh + K Type plate for Rh and Kell typing on the TANGO® optimo automated blood grouping and antibody test system. Blood Grouping Reagent, Anti-D (Monoclonal)(IgM) (Formulated for Auto",
+      "source": "FDA Biologics",
+      "date": "2026-07-01",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/erytype-s",
       "lang": "zh-TW"
     },
     {
       "title": "冠狀病毒 (COVID-19) | CBER 監管的生物製品",
       "summary": "本頁面和相關連結提供與治療或預防 COVID-19 療法開發相關的指導和建議信息，以及尋求其他資訊或幫助的開發人員的聯絡資訊。",
       "source": "FDA Biologics",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "Complete List of Donor Screening Assays for Infectious Agents and HIV Diagnostic Assays",
+      "summary": "不同类型供体筛选测定的链接。 A table for each assay is provided with detailed information such as tradename, infectious agent, format, specimen, use, manufacturer, approval date, and STN.",
+      "source": "FDA Biologics",
+      "date": "2026-07-01",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/complete-list-donor-screening-assays-infectious-agents-and-hiv-diagnostic-assays",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Approved Cellular and 基因療法 Products",
+      "summary": "治療產品辦公室 (OTP) 許可和批准的產品清單。",
+      "source": "FDA Biologics",
+      "date": "2026-07-01",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026年6月法規新知：業界必看重點",
+      "summary": "這篇報導將深入解析2026年6月即將生效的生醫產業新法規，提醒業者應及早準備，掌握法規變動對臨床試驗、產品上市與市場競爭的潛在影響，確保合規性並抓住商機。",
+      "source": "PharmTech.com",
+      "date": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUUxIVC1ZYlp6MzBBMm1obWdNekVXbmw2STFyRTNvMm9fZGZ3cEhCZjFrNnp4eHdOUm50OGFjZE5ObVpXRzh6OEVlZk9fMVp1RklLazJoeVJfbTlEc1FoYVpfTWdoU2pIV2lMR2NhSlM3YkpjSnJIdUVQU3RVc3c?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） Approves New Treatment That Uses Donor Immune Cells to Prevent Serious Complications in Blood Cancer Patients",
+      "summary": "美國食品藥物管理局今天批准了 TREGZI，這是第一個基於調節性 T (Treg) 細胞的免疫療法，用於改善接受同種異體造血的成年血癌患者的無慢性移植物抗宿主病 (GVHD) 生存期",
       "source": "FDA Biologics",
       "date": "2026-06-30",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-uses-donor-immune-cells-prevent-serious-complications-blood-cancer",
       "lang": "zh-TW"
     },
     {
-      "title": "健贊愛爾蘭有限公司 - 728681",
-      "summary": "CGMP/偏差/生物製品許可證申請 (BLA)",
-      "source": "06/22/2026",
-      "date": "2026-06-30",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/genzyme-ireland-limited-728681-06222026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Cytiva完成猶他州廠區液體培養基生產產能倍增",
-      "summary": "在一次廣泛的訪談中，Cytiva集團生物製程執行長Pierre-Alain Ruffieux，討論了公司液體培養基產能倍增的完成情況。",
+      "title": "Cytiva完成猶他廠液體培養基產能倍增計畫",
+      "summary": "在一場深度訪談中，Cytiva集團生物製程執行長Pierre-Alain Ruffieux，暢談公司猶他廠液體培養基產能倍增計畫的完成。",
       "source": "GEN News",
       "date": "2026-06-30",
       "url": "https://www.genengnews.com/topics/bioprocessing/cytiva-completes-doubling-of-utah-sites-liquid-media-production-capacity/",
       "lang": "zh-TW"
     },
     {
-      "title": "基於基因組編輯和幹細胞技術的治療方法評估",
-      "summary": "葉朝暉的研究計畫「基因組編輯和幹細胞技術編輯」。",
-      "source": "FDA Biologics",
-      "date": "2026-06-29",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/evaluation-therapeutic-approaches-based-genome-editing-and-stem-cell-technologies",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "基因治療產品的免疫原性",
-      "summary": "Ronit Mazor 的研究計畫「」。",
-      "source": "FDA Biologics",
-      "date": "2026-06-29",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/immunogenicity-gene-therapy-products",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "歐拉爾",
-      "summary": "用於治療草花粉誘發的過敏性鼻炎（伴有或不伴有結膜炎）的產品批准信息，經陽性皮膚試驗或花粉特異性 IgE 抗體體外測試證實，其中包含五種草種中的任何一種",
-      "source": "FDA Biologics",
-      "date": "2026-06-29",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/allergenics/oralair",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "愛迪諾瓦特",
-      "summary": "產品核准資訊適用於患有 A 型血友病（先天性因子 VIII 缺乏症）的兒童和成人： (1) 按需治療和控制出血事件； (2) 圍術期管理； (3) 常規預防以減少",
-      "source": "FDA Biologics",
-      "date": "2026-06-29",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/adynovate",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "歐洲生技公司開發次世代細胞與基因療法製造技術",
-      "summary": "歐洲生技公司正積極投入次世代細胞與基因療法製造技術的研發，以提升產業效率與創新。",
+      "title": "歐洲生技公司積極開發次世代細胞與基因療法製造技術",
+      "summary": "這篇來自PharmTech.com的報導，聚焦歐洲生技產業，探討他們如何投入次世代細胞與基因療法製造技術的研發。",
       "source": "PharmTech.com",
       "date": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "歐洲藥品管理局（EMA）翻轉對Acadia藥廠雷特氏症療法Daybu的立場",
-      "summary": "歐洲藥品管理局（EMA）針對Acadia藥廠的雷特氏症新藥Daybu，出乎意料地改變了原先的審查立場。",
-      "source": "BioWorld News",
-      "date": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYy1lMmV3ajlMUUxKQ3J2OEJFRnR4X19aUEdXWUxpeXRDUkpNOUJtLU8yLVM2a3FqY0hiMy12ZlJDVE5lTGZ4enJqNUpUM1VQWEdkYUZXWXpidjVDaWhDamFLZ05mczhZSmZiUEpxV3J0eDF0NVVteF9GM3U2cndUUWlNTEgtQk8zQWV5LTBlYnhrc283YWhmeldqZjVweVU5QzRWTkhB?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -98,8 +98,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "從近期細胞與基因療法核准案看兒科臨床藥理學新觀點",
-      "summary": "本文探討近期獲核准的細胞與基因療法，從臨床藥理學角度分析其對兒科治療的啟示與影響。",
+      "title": "兒科細胞與基因療法新核准案：臨床藥理學的啟示",
+      "summary": "這篇來自《自然》（Nature）期刊的報導，探討了近期獲核准的兒科細胞與基因療法，從中分析臨床藥理學的關鍵洞見。",
       "source": "Nature",
       "date": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",
