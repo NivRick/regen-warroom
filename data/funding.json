@@ -1,98 +1,82 @@
 {
   "module": "funding",
-  "updated": "2026-07-02T12:58:10.276214+00:00",
+  "updated": "2026-07-02T23:59:26.802605+00:00",
   "items": [
     {
-      "title": "STAT+: 美國食藥署（FDA）「歷史性」核准引發大型語言模型（LLM）是介面還是決策者的討論",
-      "summary": "美國食藥署（FDA）核准一項「歷史性」裝置，引發大型語言模型（LLM）究竟是介面還是決策者的討論。",
+      "title": "STAT+: Elevance 控告政府，爭議 Medicare Advantage 星級評等相關的 1.15 億美元款項",
+      "summary": "該健康保險公司表示，美國醫療保險和醫療補助服務中心（CMS）的星級評等計算方式不當。",
+      "source": "STAT News",
+      "date": "2026-07-02",
+      "url": "https://www.statnews.com/2026/07/02/elevance-lawsuit-medicare-advantage-star-ratings-clover/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：羅氏藥物為 KRAS 驅動的肺癌制定新標準",
+      "summary": "生物技術的牛市、Vertex 的基因治療擴張以及來自 The Readout 的更多新聞",
+      "source": "STAT News",
+      "date": "2026-07-02",
+      "url": "https://www.statnews.com/2026/07/02/biotech-news-roche-drug-sets-new-standard-for-kras-driven-lung-cancer/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：美國食藥局（FDA） 的「歷史性」許可提出了一個問題：法學碩士是介面還是決策者？",
+      "summary": "新核准的設備基於一個應用程序，可幫助患者使用醫生定義的治療計劃來管理糖尿病。",
       "source": "STAT News",
       "date": "2026-07-02",
       "url": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 更多跡象顯示昇糖素樣胜肽-1（GLP-1）藥物可能對周邊動脈疾病有幫助",
-      "summary": "越來越多跡象顯示，GLP-1藥物可能對周邊動脈疾病有幫助。",
-      "source": "STAT News",
+      "title": "BridgeBio 獲得藥物上市資金；曼聯收購細胞療法",
+      "summary": "在其他地方，大塚的腎臟藥物達到了驗證性試驗的目標，Vertex 的 基因剪輯技術（CRISPR） 鐮狀細胞藥物獲得了擴大批准。",
+      "source": "BioPharma Dive",
       "date": "2026-07-01",
-      "url": "https://www.statnews.com/2026/07/01/biotech-news-glp-1s-may-help-with-peripheral-artery-disease/?utm_campaign=rss",
+      "url": "https://www.biopharmadive.com/news/bridgebio-united-thymmune-otsuka-fda-casgevy/824197/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 美國食藥署（FDA）核准Orca Bio用於血癌患者的T細胞療法",
-      "summary": "美國食藥署（FDA）核准Orca Bio的T細胞療法，用於血癌患者。",
-      "source": "STAT News",
-      "date": "2026-07-01",
-      "url": "https://www.statnews.com/2026/07/01/fda-approves-orca-bio-treatment-blood-cancer/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Ipsen將以潛在8億美元收購瑞士生技公司Memo Therapeutics",
-      "summary": "藥廠Ipsen將以最高8億美元收購瑞士生技公司Memo Therapeutics。",
+      "title": "Ipsen 將以 8 億美元的潛在交易收購瑞士生技公司 Memo Therapeutics",
+      "summary": "此次購買為 Ipsen 提供了一種實驗藥物，用於對經常影響腎移植患者的病毒進行後期測試。",
       "source": "BioPharma Dive",
       "date": "2026-07-01",
       "url": "https://www.biopharmadive.com/news/ipsen-memo-acquisition-rare-disease-virus-deal/824207/",
       "lang": "zh-TW"
     },
     {
-      "title": "Ipsen斥資4.5億美元取得血癌藥物；美國食藥署（FDA）選定首批參與「預審」試點計畫的廠商",
-      "summary": "Ipsen斥資4.5億美元取得血癌藥物；美國食藥署（FDA）啟動「預審」試點計畫。",
+      "title": "Ipsen 價值 4.5 億美元的血癌藥物； 美國食藥局（FDA） 選擇第一批「預檢查」試點計劃",
+      "summary": "計劃收購 Kartos Therapeutics 將為 Ipsen 提供治療骨髓纖維化的後期資產。在其他地方，Sobi 遇到了監管挫折，而 BeOne 則公佈了更積極的 Brukinsa 數據。",
       "source": "BioPharma Dive",
       "date": "2026-06-30",
       "url": "https://www.biopharmadive.com/news/ipsen-kartos-acquisition-astrazeneca-beone-fda/823954/",
       "lang": "zh-TW"
     },
     {
-      "title": "Beeline公司為免疫藥物研發，提高A輪募資金額",
-      "summary": "Beeline公司為免疫藥物研發，提高A輪募資金額。",
+      "title": "這些生物技術公司剛剛籌集了大量資金。以下是他們向投資者推銷的內容。",
+      "summary": "針對眼部疾病、自體免疫疾病和長壽醫學的生技公司已獲得今年迄今規模最大的融資。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-30",
+      "url": "https://www.biopharmadive.com/news/biotech-large-haul-fundraising-drug-pharma/824183/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Beeline 完成免疫藥物 A 輪融資",
+      "summary": "該公司由貝恩資本 (Bain Capital) 創建，目前已籌集超過 4.26 億美元，以推進百時美施貴寶 (Bristol Myers) 藥品組合的發展。",
       "source": "BioPharma Dive",
       "date": "2026-06-30",
       "url": "https://www.biopharmadive.com/news/beeline-series-a-extension-bain-bristol-myers/824091/",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥署（FDA）基因與細胞療法最高主管將離職",
+      "title": "Immuneel Therapeutics在",
       "summary": "",
-      "source": "BioPharma Dive",
-      "date": "2026-06-30",
-      "url": "https://www.biopharmadive.com/news/top-fda-gene-cell-therapy-regulator-step-down/824093/",
+      "source": "Entrackr",
+      "date": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1FMTGhaUVFfR29JMk9VekZWdy1zbmhfY24ybHlPRDlvSkN3eXE5NXJTbW1SRUQ5aU1rY3ZUeHRuUHh3U1BTNlNQWmhKWFVFcEFsVW4tSXdYc0lrQzhiT0F5Wm9XNGRMQS1wYzk4Sms1UGlNVlJYTjA4OENqTWpsOE5iMXNza1NlQ3dxX1dEX3ZTdV9V0gGUAUFVX3lxTFBHUUxMaFpRUV9Hb0kyT1V6RlZ3LXNuaF9jbjJseU9EOW9KQ3d5cTk1clNtbVJFRDlpTWtjdlR4dG5QeHdTUFM2U1BaaEpYVUVwQWxVbi1Jd1hzSWtDOGJPQXlab1c0ZExBLXBjOThKazVQaU1WUlhOMDg4Q2pNamw4TmIxc3NrU2VDd3FfV0RfdlN1X1U?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Theravance, after clinical setbacks, agrees to $929M buyout",
-      "summary": "特許權使用費管理公司 Zymeworks 的收購是在一種治療低血壓的藥物失敗引發的「策略審查」之後進行的。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-29",
-      "url": "https://www.biopharmadive.com/news/theravance-clinical-setback-929-million-buyout/823952/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國FDA核准Replimune申請案；德國默克集團豪擲110億美元投入生技服務",
-      "summary": "Replimune申請案獲美國食品藥物管理局（FDA）核准，顯示監管態度轉變；德國默克集團則豪擲110億美元擴展生技服務。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-26",
-      "url": "https://www.biopharmadive.com/news/revolution-replimune-lilly-otsuka-definium-merck-biotech-news/823768/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "在 BIO，中國生物技術交易監管的緊張局勢迫在眉睫",
-      "summary": "生技投資者、高階主管和分析師擔心，全面禁止與中國公司進行交易可能會抑制國內企業家在該行業的雄心壯志。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-26",
-      "url": "https://www.biopharmadive.com/news/bio-2026-us-china-biotech-competition/823723/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Alkermes 即將上任的執行長計劃超越禮來（Lilly）和武田（Takeda）",
-      "summary": "布萊爾傑克森 (Blair Jackson) 表示，未來 12 個月可能是 Alkermes 歷史上最重要的時期，因為這家腦藥物製造商競相加入「食慾素」市場，分析師認為該市場蘊藏著數十億美元的機會。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-26",
-      "url": "https://www.biopharmadive.com/news/alkermes-blair-jackson-narcolepsy-drug-orexin-ceo-succession/823893/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Longevity startup NewLimit raises $435 million ahead of first 臨床試驗",
-      "summary": "比首次臨床試驗 STAT 提前 100 萬美元",
+      "title": "專注長壽領域的新創公司NewLimit在首次臨床試驗前募得4.35億美元",
+      "summary": "專注長壽領域的新創公司NewLimit，在首次臨床試驗啟動前，成功募得4.35億美元資金。",
       "source": "STAT",
       "date": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOC1qTXA4ZGpQRnVJbmFzc0ZTQmVoMW1tSDJJZEhZM2pjN1JUdjFpVjlVdU43dXphOGZTcTZIbjZZVmRNZDhRU01jVDdZYV9teVdyNnFvaVlEUVdsNXNwSy1qMHB6MkQxZDlfSXRBQVdobTRjTGRHbWtGWUJqWVE4dkhzQ1J2ZC1QNVFvV0x6bktPaUdVc1VacXFHNlJ6V2c1SDhrYmZia0pIZWZzUUdN?oc=5",
