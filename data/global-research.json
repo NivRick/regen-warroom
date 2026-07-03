@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-07-03T12:53:49.488143+00:00",
+  "updated": "2026-07-03T23:56:41.675027+00:00",
   "items": [
     {
-      "title": "ABHD17C調控樂伐替尼抑制肝細胞癌的療效",
-      "summary": "樂伐替尼（Lenvatinib）是肝細胞癌（HCC）的一線療法，但其臨床療效常因抗藥性而受限。ABHD17C是一種去棕櫚醯化酶，本研究探討其",
+      "title": "ABHD17C 調控樂伐替尼（lenvatinib）抑制肝細胞癌的療效",
+      "summary": "探討ABHD17C如何影響樂伐替尼治療肝細胞癌的藥效，為克服藥物抗性提供新方向。",
       "source": "PubMed",
       "date": "2026-07-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42358063/",
       "lang": "zh-TW"
     },
     {
-      "title": "衰老代謝調節分層支架可恢復 NAD",
-      "summary": "衰老受損的骨修復提出了重大的臨床挑戰，這主要是由於衰老細胞驅動的代謝微環境失衡。目前的生物材料策略主要局限於提供被動機械支撐和/或提供治療因子，未能...",
+      "title": "調控衰老代謝的階",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-07-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42395338/",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "SM03：非耗竭型抗CD22抗體，透過調控B細胞活化與免疫交互作用，有望減輕自體免疫疾病",
-      "summary": "這項研究評估新型人源化抗CD22單株抗體SM03，在治療B細胞介導的自體免疫疾病",
+      "title": "SM03，一種非耗竭型抗CD22抗體，能調控B細胞活化與免疫交互作用，以減輕自體免疫疾病。",
+      "summary": "這項研究旨在評估新型人源化抗CD22單株抗體SM03，在治療B細胞介導的自體免疫疾病",
       "source": "PubMed",
       "date": "2026-07-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42327873/",
@@ -91,7 +91,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "高強度熱壓力可增強低分化肝細胞癌中過繼性 NK 細胞的細胞毒性。",
+      "title": "高強度熱壓力增強低分化肝細胞癌中過繼性 NK 細胞的細胞毒性。",
       "summary": "經皮熱消融用於治療早期不可切除的肝細胞癌（HCC）。 NK 細胞免疫療法已作為輔助治療進行了研究，但與消融聯合使用時的療效仍不清楚。",
       "source": "PubMed",
       "date": "2026-07-03",
@@ -132,15 +132,15 @@
     },
     {
       "title": "非傳統耳廓重建：利用控制支架彎曲與含肌肉源細胞的軟骨生成複合配方",
-      "summary": "這項研究探索一種非傳統的耳廓重建方法，結合控制支架彎曲技術與含肌肉源細胞的軟骨生成複合配方，以期改善組織工程耳廓的重建效果。",
+      "summary": "這項研究探討利用控制支架彎曲及含肌肉源細胞的軟骨生成配方，進行非傳統耳廓重建的新方法。",
       "source": "PubMed",
       "date": "2026-07-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42318054/",
       "lang": "zh-TW"
     },
     {
-      "title": "從藍圖到建構：週邊神經發育和工程再生中的金屬離子。",
-      "summary": "週邊神經損傷 (PNI) 造成了巨大的全球健康負擔，每年影響超過 2000 萬人，且經常出現恢復不佳和持續殘疾的情況。自體神經移植的固有局限性，例如供體部位發病率和供應有限，強調了臨床...",
+      "title": "從藍圖到",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-07-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42318564/",
@@ -172,7 +172,7 @@
     },
     {
       "title": "[第 3 期] 一項在患有 KRAS G12D 突變的非小細胞肺癌參與者中評估 GFH375 與多西他賽的研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Genfleet Therapeutics (上海) Inc.｜本研究的目的是比較 GFH375 與多西紫杉醇在 KRAS G12D 突變非小細胞肺癌 (NSCLC) 患者中的有效性、安全性和耐受性。\n\nGFH375 是一種口服、高選擇性、非共價小分子",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Genfleet Therapeutics (上海) Inc.｜本研究的目的是比較 GFH375 與多西他賽在 KRAS G12D 突變非小細胞肺癌 (NSCLC) 患者中的有效性、安全性和耐受性。\n\nGFH375 是一種口服、高選擇性、非共價小分子",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-03",
       "url": "https://clinicaltrials.gov/study/NCT07668752",
@@ -187,9 +187,9 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第二期臨床試驗] 評估 Imzokitug 結合 Pumitamig 和鉑類雙藥化療（PDCT）作為一線治療，對比單獨使用 Pumitamig 和 PDCT 的安全性、耐受性與療效研究",
-      "summary": "狀態：尚未招募｜主辦：百",
-      "source": "ClinicalTrials.gov｜Argentina, Australia, United States",
+      "title": "Imzokitug合併Pumitamig與鉑金雙藥化療（PDCT）作為一線治療的第二期臨床試驗",
+      "summary": "這項第二期臨床試驗旨在評估Imzokitug與Pumitamig及鉑金雙藥化療（PDCT）組合，作為一線治療的安全性",
+      "source": "ClinicalTrials.gov｜Germany, Italy, Chile",
       "date": "2026-07-03",
       "url": "https://clinicaltrials.gov/study/NCT07680764",
       "lang": "zh-TW"
@@ -267,32 +267,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 批准首個基因治療技術治療鐮狀細胞疾病兒童",
-      "summary": "治療鐮狀細胞疾病兒童的方法 - 健康新聞",
-      "source": "The Well News",
-      "date": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUlFUmlNR01Xc3NudlFZM2I2ZEJadnNjLU9aQ1ZITDdlaXJfbjRRMzR4elpCZmRmcEQwdE1xTHZTZV85RlZ5cWJhRlV3RDZCMmF5aF8zMjl0QmdTX0dyTVJUQy0ydUk0dUxOeExmYmRGTGVuMmc4UU4tWERVNERfOG5vTWZCcTdsbXo3V0lMNjc0U1QwYmVjeU5GeEhlYzRvcW1OWUZ1aHViSjl2cXI4ZkdVMFB5NEFyMDAwVGxn?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "[N/A] 一線免疫檢查點抑制劑治療後進展的晚期 NSCLC 患者不同二線治療的分析",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：中國醫學科學院腫瘤醫院腫瘤研究所｜免疫治療臨床實務進展中的二線治療選擇是複雜的。需要根據不同的進展模式選擇治療策略。很難同時探索多種治療方式",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：中國醫學科學院腫瘤醫院腫瘤研究所｜免疫治療臨床實務進展的二線治療選擇很複雜。需要根據不同的進展模式選擇治療策略。很難同時探索多種治療方式",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-01",
       "url": "https://clinicaltrials.gov/study/NCT07596524",
       "lang": "zh-TW"
     },
     {
-      "title": "數位化，否則就落後",
-      "summary": "Autolomous執行長Alexander Seyf警告，生物製程最大的挑戰並非科學，而是數據。他強調數位化、產業合作與資料共享是產業發展的關鍵。",
+      "title": "數位化或落後",
+      "summary": "Autolomous 執行長 Alexander Seyf 警告說，生物加工的最大障礙不是科學，而是數據。他認為數位化、協作和分享失敗實驗的經驗教訓對於加速細胞和基因療法的創新至關重要",
       "source": "GEN News",
       "date": "2026-07-01",
       "url": "https://www.genengnews.com/topics/bioprocessing/digitize-or-fall-behind/",
       "lang": "zh-TW"
     },
     {
-      "title": "個性化CRISPR基因編輯療法的標準化",
-      "summary": "",
+      "title": "標準化個人化 基因剪輯技術（CRISPR） 基因編輯療法",
+      "summary": "使用個人化 基因剪輯技術（CRISPR） 基因編輯療法成功治療 Baby KJ 正促使業界研究如何開發標準化製造平台以及如何監管個人化基因編輯產品。\n貼文",
       "source": "GEN News",
       "date": "2026-07-01",
       "url": "https://www.genengnews.com/topics/bioprocessing/standardizing-personalized-crispr-gene-editing-therapies/",
@@ -307,8 +299,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[二期臨床] Illuminate：評估嵌合抗原受體T細胞免疫療法（BCB-276）治療瀰漫性內生性橋腦神經膠質瘤（DIPG）患者的臨床研究",
-      "summary": "狀態：尚未招募受試者｜主辦：BrainChild Bio公司｜這項",
+      "title": "[第 2 階段] Illuminate：評估 CAR-T細胞療法 免疫細胞療法 (BCB-276) 對瀰漫性內源性橋腦膠質瘤 (DIPG) 患者的臨床研究。",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：BrainChild Bio, Inc｜這項研究將評估 BCB-276（一種研究性 B7-H3 標靶嵌合抗原受體 (CAR) T 細胞療法）對患有瀰漫性內在橋腦膠質瘤 (DIPG) 的兒童和年輕人的療效。 DIPG 是一種罕見的侵襲性腦腫瘤，治療有限",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07",
       "url": "https://clinicaltrials.gov/study/NCT07680439",
@@ -355,8 +347,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "署長國家優先審查憑證（CNPV）試行計畫",
-      "summary": "美國FDA推出署長國家優先審查憑證（CNPV）試行計畫，目標是加速特定藥品的審查與上市。",
+      "title": "專員國家優先券 (CNPV) 試點計劃",
+      "summary": "(CNPV) 試點計畫 美國食藥局（FDA）.gov",
       "source": "fda.gov",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
@@ -379,16 +371,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "CAR-T細胞療法 細胞療法在嚴重狼瘡中顯示出早期前景",
-      "summary": "嚴重狼瘡 UCL |倫敦大學學院",
-      "source": "UCL | University College London",
+      "title": "CAR-T細胞療法 療法對於難治​​性白血病患者的效果比預期要好",
+      "summary": "有望治癒難以治療的白血病患者",
+      "source": "Cure Today",
       "date": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjJkQWdpSUNsY0R2NkkzSTFQWEJlcnRDQkJDOUhvN253c28xQjhEYUNucXdrQ1ZuOFJwSWp6bG5FbERyS2gtdWtOOGtvUWRxcVFLbmljZWhvRUF2X3pZOS1Ma0sxeGFZWDRXeWJxQ2NhenVZaklaVWFZamo5VWN3X1BfZnZvTzB6d25OcTZ1VmM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTGljb0FkTU5rRHlLclJUOXd0N3B0U2JnT2JLTHhxT1VldHhuWExDY3g0N1Fvd2kyd2luZ3ZDaTdvcFdWZHoxWllyQk01dGVORFI5Z2ZWR1hHTWNxWFQ0WHl4TGE4RF9yVW5Fa01tSGw4Ukl1bzBrSnJSNXRTQ3RZZVdZNXhmVkNUblQ4LVdaXzJIenpGRDJnU1doakFDaC1jNzJkbEk4bm1GWGhFNnNMamdnVUpURFJ4Vko4?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫學市場規模預計2035年將突破234.85億美元，人工智慧（AI）、幹細胞療法與3D生物列印技術將革新醫療產業",
-      "summary": "再生醫學市場規模預計2035年將突破234.85億美元，主要受惠於人工智慧（AI）、幹細胞療法與3D生物列印等創新技術。",
+      "title": "再生醫學市場規模預估2035年將突破2348.5億美元，人工智慧、幹細胞療法與3D生物列印引領醫療保健革命",
+      "summary": "在人工智慧（AI）、幹細胞療法與3D生物列印等創新技術推動下，再生醫學市場預計到2035年將突破2348.5億美元，為醫療保健產業帶來顛覆性變革與龐大商機。",
       "source": "BioSpace",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMzViY0hJS2JZVXpONklyNnh2ZzViTHZjSUlaZEhPLWoxNHUwVzhQNXEyYUJNMkR3RGxCa2pnaWxBb2RlYUxiNzR4dHc4U2FLSGpnT1JEY2t1aDRfWmxhaGV2SGUtVl9QTmNXVzYwbGZrLTQzMGZjTlBac1YwRXY0eDBNdUpKeS1wV29zWWwzb004NEViMFJkY2JSelprWl9LN0l0ZGUtckZRVEhwOUd5Y2Y1SDhrRjhSWVFVZjlSaWhlcWVLWFBEajVzUlJicGh1RHp6XzE0V25SVGRWVEY1TDFBRTFDWURnZldtdk05aWoyTnVMSFp2QWI1dXczam1SLTV3M2Z6OEd4MTg?oc=5",

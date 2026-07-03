@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-03T12:54:25.514710+00:00",
+  "updated": "2026-07-03T23:57:17.704975+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-07-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關程序（SOPP）",
-      "summary": "美國食品藥物管理局（FDA）生物製劑研究與審",
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-07-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -27,8 +27,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年 6 月的法規新知",
-      "summary": "本文將探討預計於 2026 年 6 月生效的最新法規動態，特別是針對生醫產業的影響與應對策略，協助業者提前掌握法規變化，做好準備。",
+      "title": "2026 年 6 月法規須知",
+      "summary": "",
       "source": "PharmTech.com",
       "date": "2026-07-02",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUUxIVC1ZYlp6MzBBMm1obWdNekVXbmw2STFyRTNvMm9fZGZ3cEhCZjFrNnp4eHdOUm50OGFjZE5ObVpXRzh6OEVlZk9fMVp1RklLazJoeVJfbTlEc1FoYVpfTWdoU2pIV2lMR2NhSlM3YkpjSnJIdUVQU3RVc3c?oc=5",
@@ -52,7 +52,7 @@
     },
     {
       "title": "埃里型S",
-      "summary": "產品核准資訊適用於 Erytype® S Rh + K 型板，用於在 TANGO® optimo 自動化血型和抗體測試系統上進行 Rh 和 Kell 分型。血型試劑，抗-D（單克隆）（IgM）（配製用於汽車",
+      "summary": "產品核准資訊顯示可在 Erytype® S Rh + K 型板上使用，用於在 TANGO® optimo 自動化血型和抗體測試系統上進行 Rh 和 Kell 分型。血型試劑，抗-D（單克隆）（IgM）（配製用於汽車",
       "source": "FDA Biologics",
       "date": "2026-07-01",
       "url": "http://www.fda.gov/vaccines-blood-biologics/erytype-s",
@@ -68,23 +68,23 @@
     },
     {
       "title": "傳染源捐贈者篩檢試驗和 HIV 診斷試驗的完整列表",
-      "summary": "不同類型供體篩選測定的連結。每種檢測方法都有一張表格，其中包含詳細信息，例如商品名、傳染原、格式、樣本、用途、製造商、批准日期和 STN。",
+      "summary": "不同類型供體篩選測定的連結。每個測定的表格都提供了詳細信息，例如商品名、傳染原、格式、樣本、用途、製造商、批准日期和 STN。",
       "source": "FDA Biologics",
       "date": "2026-07-01",
       "url": "http://www.fda.gov/vaccines-blood-biologics/complete-list-donor-screening-assays-infectious-agents-and-hiv-diagnostic-assays",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲生技公司積極開發下一代細胞與基因療法製造技術",
-      "summary": "歐洲的生技公司正積極投入研發，致力於開發更先進的下一代細胞治療與基因療法製造技術，以提升生產效率與品質。",
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
       "source": "PharmTech.com",
       "date": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲藥品管理局（EMA）改變對 Acadia 雷特氏症療法 Daybu 的立場",
-      "summary": "歐洲藥品管理局（EMA）近期針對 Acadia 公司用於治療雷特氏症的療法 Daybu，一改先前態度，這項轉變可能對該藥物的上市前景產生影響。",
+      "title": "歐洲藥品管理局（EMA） 改變了對 Acadia 的 Rett 綜合徵療法 Daybu 的立場",
+      "summary": "綜合症治療 Daybu BioWorld 新聞",
       "source": "BioWorld News",
       "date": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYy1lMmV3ajlMUUxKQ3J2OEJFRnR4X19aUEdXWUxpeXRDUkpNOUJtLU8yLVM2a3FqY0hiMy12ZlJDVE5lTGZ4enJqNUpUM1VQWEdkYUZXWXpidjVDaWhDamFLZ05mczhZSmZiUEpxV3J0eDF0NVVteF9GM3U2cndUUWlNTEgtQk8zQWV5LTBlYnhrc283YWhmeldqZjVweVU5QzRWTkhB?oc=5",
@@ -98,16 +98,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "REPROCELL 提交幹細胞療法 Stemchymal® 在日本治療脊髓小腦性共濟失調（SCA3 和 SCA6）的製造與銷售許可申請",
-      "summary": "日本生技公司 REPROCELL 已向日本當局提交其幹細胞療法 Stemchymal® 的製造與銷售許可申請，該療法主要用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）這兩種罕見疾病。",
-      "source": "Plataforma Media",
-      "date": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOb0JlX1NqVHpCQ1dqNGlPaFZNbW9nQ1EzdGZNNV9Vc2U0bFZQN0E3TUdVVTVpclpmZ3BDcXNreWRuWEtEYmNySFdfZUI1ZHQ0OGpMSUN6R01UdG9aZGItemFjSmc2WkpJQkstcG5YTnNab3oxcFY3QU15ZmFkNmVDaG5CdDhQRmswVlRxWnFZb002UzZiUXVFbzdjTy16bm9LeU9paEVEdy1rZjM1Tk52aTNGdGp3ZVdwNm9hNUJBNUdsbEowNmxJTUVQbWdLV1l3cVN2MEp1YlFFWi1sWGYwNGdmaGFWcGt4Z244T1hCbkE3VFJGd2NSUDBERkdiTG03S1JTSS1aT0VrYk9jMWhScXJCb1VvYVh2WUs5a0Q2dGl6UkxQY3Vz?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "近期細胞與基因療法核准案對兒科的臨床藥理學見解",
-      "summary": "針對近期獲得核准的細胞治療與基因療法，其臨床藥理學數據提供了寶貴見解，特別是在兒科應用方面，有助於未來藥物開發與治療策略。",
+      "title": "最近與兒科相關的細胞和基因治療批准的臨床藥理學見解",
+      "summary": "與兒科相關的 nt 細胞和基因治療核准 Nature",
       "source": "Nature",
       "date": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",
