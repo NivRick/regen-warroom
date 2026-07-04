@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-03T23:57:17.704975+00:00",
+  "updated": "2026-07-04T12:05:08.388096+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生技藥品最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-07-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品程序 (SOPP)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
+      "title": "生物製劑相關程序（SOPP）",
+      "summary": "這些標準作業程序與政策（SOPP）是美國食品",
       "source": "FDA Biologics",
       "date": "2026-07-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -27,8 +27,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年 6 月法規須知",
-      "summary": "",
+      "title": "2026年6月法規新知：你該了解什麼？",
+      "summary": "本文將解析2026年6月生效的最新法規變革，特別是生醫產業相關規範，協助業者提前掌握重點，做好因應準備。",
       "source": "PharmTech.com",
       "date": "2026-07-02",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUUxIVC1ZYlp6MzBBMm1obWdNekVXbmw2STFyRTNvMm9fZGZ3cEhCZjFrNnp4eHdOUm50OGFjZE5ObVpXRzh6OEVlZk9fMVp1RklLazJoeVJfbTlEc1FoYVpfTWdoU2pIV2lMR2NhSlM3YkpjSnJIdUVQU3RVc3c?oc=5",
@@ -52,7 +52,7 @@
     },
     {
       "title": "埃里型S",
-      "summary": "產品核准資訊顯示可在 Erytype® S Rh + K 型板上使用，用於在 TANGO® optimo 自動化血型和抗體測試系統上進行 Rh 和 Kell 分型。血型試劑，抗-D（單克隆）（IgM）（配製用於汽車",
+      "summary": "產品核准資訊適用於 Erytype® S Rh + K 型板，用於在 TANGO® optimo 自動化血型和抗體測試系統上進行 Rh 和 Kell 分型。血型試劑，抗-D（單克隆）（IgM）（配製用於汽車",
       "source": "FDA Biologics",
       "date": "2026-07-01",
       "url": "http://www.fda.gov/vaccines-blood-biologics/erytype-s",
@@ -68,23 +68,23 @@
     },
     {
       "title": "傳染源捐贈者篩檢試驗和 HIV 診斷試驗的完整列表",
-      "summary": "不同類型供體篩選測定的連結。每個測定的表格都提供了詳細信息，例如商品名、傳染原、格式、樣本、用途、製造商、批准日期和 STN。",
+      "summary": "不同類型供體篩選測定的連結。每種檢測方法都有一張表格，其中包含詳細信息，例如商品名、傳染原、格式、樣本、用途、製造商、批准日期和 STN。",
       "source": "FDA Biologics",
       "date": "2026-07-01",
       "url": "http://www.fda.gov/vaccines-blood-biologics/complete-list-donor-screening-assays-infectious-agents-and-hiv-diagnostic-assays",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
-      "summary": "細胞與基因治療製造技術 PharmTech.com",
+      "title": "歐洲生技公司正開發次世代細胞與基因療法製造技術",
+      "summary": "歐洲生技公司正積極投入次世代細胞及基因療法製造技術的研發，目標是提升生產效率、降低成本，並加速創新藥物上市，以滿足不斷成長的市場需求。",
       "source": "PharmTech.com",
       "date": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲藥品管理局（EMA） 改變了對 Acadia 的 Rett 綜合徵療法 Daybu 的立場",
-      "summary": "綜合症治療 Daybu BioWorld 新聞",
+      "title": "歐洲藥品管理局（EMA）逆轉對Acadia公司雷特氏症療法Daybu的立場",
+      "summary": "歐洲藥品管理局（EMA）近期逆轉對Acadia公司雷特氏症療法Daybu的審查立場，此舉可能對該藥物在歐洲的核准進程產生重大影響，業界正密切關注。",
       "source": "BioWorld News",
       "date": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYy1lMmV3ajlMUUxKQ3J2OEJFRnR4X19aUEdXWUxpeXRDUkpNOUJtLU8yLVM2a3FqY0hiMy12ZlJDVE5lTGZ4enJqNUpUM1VQWEdkYUZXWXpidjVDaWhDamFLZ05mczhZSmZiUEpxV3J0eDF0NVVteF9GM3U2cndUUWlNTEgtQk8zQWV5LTBlYnhrc283YWhmeldqZjVweVU5QzRWTkhB?oc=5",
@@ -96,14 +96,6 @@
       "source": "CTWANT",
       "date": "2026-06-24",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
-    },
-    {
-      "title": "最近與兒科相關的細胞和基因治療批准的臨床藥理學見解",
-      "summary": "與兒科相關的 nt 細胞和基因治療核准 Nature",
-      "source": "Nature",
-      "date": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZ28xc1ZobWJ6MDlDWTZRay1qSUU1SVowY0tGVlF5TzRVRG1tem44dDZoc3BlMFJuOTZsNTRWYjVFTTVEdnpOei1QcUt4eVFJZWVGVFRMUmhncG83c0dr?oc=5",
-      "lang": "zh-TW"
     }
   ]
 }
