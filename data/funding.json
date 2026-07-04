@@ -1,42 +1,42 @@
 {
   "module": "funding",
-  "updated": "2026-07-04T12:05:39.753520+00:00",
+  "updated": "2026-07-04T23:54:43.293994+00:00",
   "items": [
     {
-      "title": "STAT+: Elevance 控告政府，爭議 Medicare Advantage 星級評等相關的 1.15 億美元款項",
-      "summary": "Elevance 健保公司因 Medicare Advantage 星級評等計算爭議，控告政府追討 1.15 億美元。",
+      "title": "STAT+：Elevance 起訴政府 1.15 億美元，涉及 Medicare Advantage 星級評級",
+      "summary": "該健康保險公司表示 CMS 沒有正確計算其星級評級。",
       "source": "STAT News",
       "date": "2026-07-02",
       "url": "https://www.statnews.com/2026/07/02/elevance-lawsuit-medicare-advantage-star-ratings-clover/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 羅氏（Roche）新藥為 KRAS 突變肺癌樹立新標竿",
-      "summary": "羅氏（Roche）一款新藥在治療 KRAS 突變型肺癌上展現突破性成果，有望成為新標準。",
+      "title": "STAT+：羅氏藥物為 KRAS 驅動的肺癌制定新標準",
+      "summary": "生物技術的牛市、Vertex 的基因治療擴張以及來自 The Readout 的更多新聞",
       "source": "STAT News",
       "date": "2026-07-02",
       "url": "https://www.statnews.com/2026/07/02/biotech-news-roche-drug-sets-new-standard-for-kras-driven-lung-cancer/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 美國 FDA「歷史性」核准引發討論：大型語言模型（LLM）是介面還是決策者？",
-      "summary": "美國 FDA 首次核准基於大型語言模型（LLM）的醫療裝置，引發其角色定位的熱議。",
+      "title": "STAT+：美國食藥局（FDA） 的「歷史性」許可提出了一個問題：法學碩士是介面還是決策者？",
+      "summary": "新核准的設備基於一個應用程序，可幫助患者使用醫生定義的治療計劃來管理糖尿病。",
       "source": "STAT News",
       "date": "2026-07-02",
       "url": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "BridgeBio 獲藥物上市募資；United 投資細胞治療",
-      "summary": "此外，大塚製藥（Otsuka）的腎臟病藥物在確效性臨床試驗中達標，而 Vertex 的 CRISPR 鐮刀型貧血症藥物也獲得擴大核准。",
+      "title": "BridgeBio 獲得藥物上市資金；曼聯收購細胞療法",
+      "summary": "在其他地方，大塚的腎臟藥物達到了驗證性試驗的目標，Vertex 的 基因剪輯技術（CRISPR） 鐮狀細胞藥物獲得了擴大批准。",
       "source": "BioPharma Dive",
       "date": "2026-07-01",
       "url": "https://www.biopharmadive.com/news/bridgebio-united-thymmune-otsuka-fda-casgevy/824197/",
       "lang": "zh-TW"
     },
     {
-      "title": "Ipsen 擬以潛在 8 億美元收購瑞士生技公司 Memo Therapeutics",
-      "summary": "這項收購將讓 Ipsen 獲得一款針對腎",
+      "title": "Ipsen 將以 8 億美元的潛在交易收購瑞士生技公司 Memo Therapeutics",
+      "summary": "此次購買為 Ipsen 提供了一種實驗藥物，用於對經常影響腎移植患者的病毒進行後期測試。",
       "source": "BioPharma Dive",
       "date": "2026-07-01",
       "url": "https://www.biopharmadive.com/news/ipsen-memo-acquisition-rare-disease-virus-deal/824207/",
@@ -67,11 +67,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲生技公司積極開發次世代細胞與基因療法製造技術",
-      "summary": "歐洲生技公司正投入研發新一代細胞與基因療法生產技術，以提升效率與降低成本。",
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
       "source": "PharmTech.com",
       "date": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "八路支持的 Immuneel 為先進癌症護理提供 B 系列資金",
+      "summary": "高級癌症護理 B 級資金 VCCircle",
+      "source": "VCCircle",
+      "date": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmRaMHo2c01ieHphN1l0N3pnZE00M2xMUmtCWkJnOWNrZWRvT2pMdXhaMW1CS0VBaTh0MEZaWHlWeHBsSWNEX1FING93cEV4aUtVVEphOUQ3MThZbGJ0VWJjRmllaXVwT1h6dlFtamNZWGVlZFQ0QXNvU0IxVjZTbjlGeXo1aFlDSnN4U0dwYlAxYU9QMG1UY1ltTmJJR1E?oc=5",
       "lang": "zh-TW"
     }
   ]

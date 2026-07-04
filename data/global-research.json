@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-07-04T12:04:14.567679+00:00",
+  "updated": "2026-07-04T23:54:00.679984+00:00",
   "items": [
     {
-      "title": "ABHD17C 調控樂伐替尼抑制肝細胞癌的療效",
-      "summary": "樂伐替尼是肝細胞癌（HCC）的一線療法，但其臨床療效常受抗藥性限制。研究發現，ABHD17C這個分子能調控樂伐替尼的藥效。",
+      "title": "ABHD17C 調控樂伐替尼（lenvatinib）抑制肝細胞癌的療效",
+      "summary": "探討ABHD17C如何影響樂伐替尼治療肝細胞癌的藥效，為克服藥物抗性提供新方向。",
       "source": "PubMed",
       "date": "2026-07-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42358063/",
       "lang": "zh-TW"
     },
     {
-      "title": "衰老代謝調節分層支架可恢復 NAD",
-      "summary": "衰老受損的骨修復提出了重大的臨床挑戰，這主要是由於衰老細胞驅動的代謝微環境失衡。目前的生物材料策略主要局限於提供被動機械支撐和/或提供治療因子，未能...",
+      "title": "調控衰老代謝的階",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-07-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42395338/",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "SM03：一種非耗竭型抗CD22抗體，透過調控B細胞活化與免疫交互作用來減輕自體免疫疾病。",
-      "summary": "這項研究旨在評估SM03（一種新型人源化抗CD22單株抗體）在B細胞介導的自體免疫疾病",
+      "title": "SM03，一種非耗竭型抗CD22抗體，透過調控B細胞活化與免疫交互作用來減輕自體免疫疾病。",
+      "summary": "本研究旨在評估SM03（一種新型人源化抗CD22單株抗體）在B細胞介導的自體免疫疾病中",
       "source": "PubMed",
       "date": "2026-07-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42327873/",
@@ -91,8 +91,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "高強度熱壓力可增強低分化肝細胞癌中過繼性 NK 細胞的細胞毒性。",
-      "summary": "經皮熱消融用於治療早期不可切除的肝細胞癌（HCC）。 NK 細胞免疫療法已作為輔助治療進行了研究，但與消融聯合使用時的療效仍不清楚。",
+      "title": "高強度熱壓力增強低分化肝細胞癌中過繼性 NK 細胞的細胞毒性。",
+      "summary": "Percutaneous thermal ablation is used to treat early-stage, non-resectable hepatocellular carcinoma (HCC). NK-cell 免疫療法 has been studied as an adjuvant treatment, but the efficacy remains unclear when combined with ablation.",
       "source": "PubMed",
       "date": "2026-07-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42311101/",
@@ -124,22 +124,22 @@
     },
     {
       "title": "人工智慧整合的類器官平台可以對生物活性金屬離子進行高通量功能評估。",
-      "summary": "類器官因其能夠緊密保留原始組織的遺傳和表型特徵而成為醫學研究中最具預測性的臨床前模型之一。儘管如此，在創新醫療器材（尤其是生物製品）系統評價中的應用...",
+      "summary": "由於類器官能夠緊密保留原始組織的遺傳和表型特徵，因此已成為醫學研究中最具預測性的臨床前模型之一。儘管如此，在創新醫療器材（尤其是生物製品）系統評價中的應用...",
       "source": "PubMed",
       "date": "2026-07-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42327494/",
       "lang": "zh-TW"
     },
     {
-      "title": "非傳統耳廓重建新突破：利用控制支架彎曲與含肌肉源細胞的軟骨生成配方",
-      "summary": "組織工程耳廓面臨挑戰，包括植入物機械強度不足、幹細胞/前驅細胞數量不夠，以及其他未知因素。",
+      "title": "運用控制支架彎曲與含肌肉源細胞的軟骨生成複合配方進行非傳統耳朵重建",
+      "summary": "組織工程耳朵面臨挑戰，包括植入物機械強度不足、幹細胞/前驅細胞數量不夠，以及其他未知因素。",
       "source": "PubMed",
       "date": "2026-07-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42318054/",
       "lang": "zh-TW"
     },
     {
-      "title": "從藍",
+      "title": "從藍圖到建構",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-04",
@@ -155,7 +155,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[不適用] 義大利臨床實務中接受 Elranatamab 治療的 R/R 多發性骨髓瘤患者的感染監測",
+      "title": "[N/A] 義大利臨床實務中接受 Elranatamab 治療的 R/R 多發性骨髓瘤患者的感染監測",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Gruppo Italiano Malattie EMatologiche dell'Adulto｜這項研究的主要目的是測量以 elranatamab 治療的前 12 個月的感染率和表現模式，作為復發/難治性多發性骨髓瘤成年患者的標準臨床實踐。",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-04",
@@ -172,7 +172,7 @@
     },
     {
       "title": "[第 3 期] 一項在患有 KRAS G12D 突變的非小細胞肺癌參與者中評估 GFH375 與多西他賽的研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Genfleet Therapeutics (上海) Inc.｜本研究的目的是比較 GFH375 與多西紫杉醇在 KRAS G12D 突變非小細胞肺癌 (NSCLC) 患者中的有效性、安全性和耐受性。\n\nGFH375 是一種口服、高選擇性、非共價小分子",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Genfleet Therapeutics (上海) Inc.｜本研究的目的是比較 GFH375 與多西他賽在 KRAS G12D 突變非小細胞肺癌 (NSCLC) 患者中的有效性、安全性和耐受性。\n\nGFH375 是一種口服、高選擇性、非共價小分子",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-04",
       "url": "https://clinicaltrials.gov/study/NCT07668752",
@@ -187,9 +187,9 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[二期臨床] 評估Imzokitug合併Pumitamig與鉑金雙藥化療（PDCT）作為一線治療，相較於單獨使用Pumitamig與PDCT的安全性、耐受性與療效研究",
-      "summary": "狀態：尚未招募｜主辦單位：必治",
-      "source": "ClinicalTrials.gov｜Australia, France, United Kingdom",
+      "title": "二期臨床試驗：Imzokitug合併Pumitamig與鉑金雙藥化療（PDCT）對比Pumitamig與PDCT作為一線治療的安全性、耐受性與療效評估研究",
+      "summary": "狀態：尚未招募｜主辦：必治妥施貴寶（",
+      "source": "ClinicalTrials.gov｜Spain, Brazil, Germany",
       "date": "2026-07-04",
       "url": "https://clinicaltrials.gov/study/NCT07680764",
       "lang": "zh-TW"
@@ -227,7 +227,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "【第一期】人類臍帶間質幹細胞（19#iSCLife®-ACI）治療急性腦梗塞的安全性和有效性",
+      "title": "[PHASE1] The Safety and Efficacy of Human Umbilical Cord Mesenchymal 幹細胞 (19#iSCLife®-ACI) in the Treatment of Acute Cerebral Infarction",
       "summary": "狀態：暫停｜主辦單位：蘇州聖隆生物科技有限公司｜該研究的目的是確定人類臍帶間質幹細胞（hUC-MSC）治療急性缺血性中風患者的安全性和有效性。",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-04",
@@ -267,16 +267,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA核准首款治療兒童鐮狀細胞病的基因療法技術",
-      "summary": "美國FDA首度核准用於治療兒童鐮狀細胞病的基因療法技術，為病童帶來新希望。",
+      "title": "美國食藥局（FDA） 批准首個基因治療技術治療鐮狀細胞疾病兒童",
+      "summary": "治療鐮狀細胞疾病兒童的方法 - 健康新聞",
       "source": "The Well News",
       "date": "2026-07-02",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUlFUmlNR01Xc3NudlFZM2I2ZEJadnNjLU9aQ1ZITDdlaXJfbjRRMzR4elpCZmRmcEQwdE1xTHZTZV85RlZ5cWJhRlV3RDZCMmF5aF8zMjl0QmdTX0dyTVJUQy0ydUk0dUxOeExmYmRGTGVuMmc4UU4tWERVNERfOG5vTWZCcTdsbXo3V0lMNjc0U1QwYmVjeU5GeEhlYzRvcW1OWUZ1aHViSjl2cXI4ZkdVMFB5NEFyMDAwVGxn?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "[N/A] 一線免疫檢查點抑制劑治療後進展的晚期 NSCLC 患者不同二線治療的分析",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：中國醫學科學院腫瘤醫院腫瘤研究所｜免疫治療臨床實務進展中的二線治療選擇是複雜的。需要根據不同的進展模式選擇治療策略。很難同時探索多種治療方式",
+      "title": "[N/A] Analysis of Different Second Line Treatment in Advanced NSCLC Patients Progressing After 1st Line Immune Checkpoint Inhibitor Therapy",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：中國醫學科學院腫瘤醫院腫瘤研究所｜免疫治療臨床實務進展的二線治療選擇很複雜。需要根據不同的進展模式選擇治療策略。很難同時探索多種治療方式",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-01",
       "url": "https://clinicaltrials.gov/study/NCT07596524",
@@ -284,15 +284,15 @@
     },
     {
       "title": "數位化或落後",
-      "summary": "Autolomous執行長指出，生醫製程最大挑戰是數據而非科學，強調數位化、協作的重要性。",
+      "summary": "Autolomous 執行長 Alexander Seyf 警告說，生物加工的最大障礙不是科學，而是數據。他認為數位化、協作和分享失敗實驗的經驗教訓對於加速細胞和基因療法的創新至關重要",
       "source": "GEN News",
       "date": "2026-07-01",
       "url": "https://www.genengnews.com/topics/bioprocessing/digitize-or-fall-behind/",
       "lang": "zh-TW"
     },
     {
-      "title": "個性化CRISPR基因編輯療法的標準化",
-      "summary": "嬰兒KJ成功接受個性化CRISPR基因編輯",
+      "title": "標準化個人化 基因剪輯技術（CRISPR） 基因編輯療法",
+      "summary": "使用個人化 基因剪輯技術（CRISPR） 基因編輯療法成功治療 Baby KJ 正促使業界研究如何開發標準化製造平台以及如何監管個人化基因編輯產品。\n貼文",
       "source": "GEN News",
       "date": "2026-07-01",
       "url": "https://www.genengnews.com/topics/bioprocessing/standardizing-personalized-crispr-gene-editing-therapies/",
@@ -307,8 +307,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "二期臨床試驗：Illuminate 專案評估嵌合抗原受體T細胞療法 (CAR-T) BCB-276 治療瀰漫性內生性橋腦神經膠質瘤 (DIPG) 患者",
-      "summary": "狀態：尚未開始招募｜主辦單位：BrainChild Bio 公司",
+      "title": "第二期臨床試驗：Illuminate，評估嵌合抗原受體T細胞免疫療法 (BCB-276) 治療瀰漫性內生性橋腦神經膠質瘤 (DIPG) 病患",
+      "summary": "狀態：尚未招募受試者｜主辦：BrainChild Bio, Inc｜本",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07",
       "url": "https://clinicaltrials.gov/study/NCT07680439",
@@ -331,7 +331,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[EARLY_PHASE1] GoFast CAR-T細胞療法 細胞療法治療復發性難治性 B 細胞淋巴瘤",
+      "title": "[EARLY_PHASE1] GoFast CAR-T細胞療法-細胞治療 for Recurrent Refractory B-Cell Lymphoma",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：中國人民解放軍總醫院｜這是一項由研究者發起的、前瞻性、開放標籤的探索性臨床研究，旨在評估 GoFast CD19 CAR-T細胞療法 細胞治療成人復發或難治性 B 細胞淋巴瘤患者的安全性和初步療效。有資格的",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-06-30",
@@ -348,7 +348,7 @@
     },
     {
       "title": "[第一階段] 一項隨機、雙盲、藥物動力學相似性研究，在黑色素瘤完全切除的受試者中比較 AVT32-DRL_PB 與 Keytruda®",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Alvotech Swiss AG｜這是一項多中心、隨機、雙盲、平行組、2 個治療組、重複劑量研究，旨在比較 AVT32-DRL\\_PB​​​​（建議的 Keytruda® 生物相似藥）與 Keytruda（pembrolizb）在 AdPK 時的安全性和免疫性安全性",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦方：Alvotech Swiss AG｜這是一項多中心、隨機、雙盲、平行組、2 個治療組、重複劑量研究，旨在比較 AVT32-DRL\\_PB​​​​（擬議的 Keytruda® 生物相似藥）與 Keytruda（pembrolizbda（pembrolizb）在 AdPK、Aumabda（pembrolizb.",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06-19",
       "url": "https://clinicaltrials.gov/study/NCT07475572",
@@ -363,8 +363,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA局長國家優先審查憑證（CNPV）試行計畫",
-      "summary": "美國FDA推出局長國家優先審查憑證（CNPV）試行計畫，旨在加速重要藥物審查。",
+      "title": "專員國家優先券 (CNPV) 試點計劃",
+      "summary": "(CNPV) 試點計畫 美國食藥局（FDA）.gov",
       "source": "fda.gov",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
@@ -372,7 +372,7 @@
     },
     {
       "title": "多發性硬化症 (MS) 的 CAR-T細胞療法 細胞治療試驗",
-      "summary": "美國國家多發性硬化症協會",
+      "summary": "National Multiple Sclerosis Society",
       "source": "National Multiple Sclerosis Society",
       "date": "2026-06-17",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHJaUVBmb3VhajJKS0JUUnExeVY4eXhtb1BMeEZIbDNpc0l0ck9HOVhzaW9seUtZbi0yTmRDREhDejAyQUhJQklkTWhCY2xqLThDQk5fZkgxQVpHODdnN0c5U1N1VmhHNFdlME1lUExhanNHVTlqUzdGUll0c0NOdzJNdWVXUHk0MnJabjhtWnZYeUpiTlFoVng2VTJaeC1SVXg3aGV4WUZHczZIbkE?oc=5",
@@ -380,14 +380,14 @@
     },
     {
       "title": "免疫活化可能決定雙標靶 CAR-T細胞療法 治療膠質母細胞瘤的成功",
-      "summary": "雙標靶 CAR-T細胞療法 療法治療膠質母細胞瘤的效果 Penn Medicine",
+      "summary": "of dual-target CAR-T細胞療法 therapy in glioblastoma Penn Medicine",
       "source": "Penn Medicine",
       "date": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGl6OE54X3NXY19qTEQyX2ZtR2NyelFWcGc4cUhTRkQxLU4yNDZobjBTS1FDeFcwNUtsNm9xUEhuYTZCWFBSNWpjUjgyUjBzek9pRHZGUHNZM3llU0lsZXEzVUtSczBzSkZmMGE2VUdRTGpxRl81RFRnTVdfbzJVM2xnQnAydzl0eGE0YUpCUTNqdmVNcmI1WQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "CAR-T細胞療法 療法對於難治​​性白血病患者的效果比預期的要好",
+      "title": "CAR-T細胞療法 療法對於難治​​性白血病患者的效果比預期要好",
       "summary": "有望治癒難以治療的白血病患者",
       "source": "Cure Today",
       "date": "2026-06-12",
@@ -395,8 +395,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2035年再生醫學市場規模預計突破2348.5億美元，AI、幹細胞療法與3D生物列印將徹底改變醫療產業",
-      "summary": "預估2035年再生醫學市場將達2348.5億美元，AI、幹細胞療法等技術引領醫療革命。",
+      "title": "隨著人工智慧、幹細胞療法和 3D 生物列印徹底改變醫療保健，再生醫學市場規模到 2035 年將超過 2,348.5 億美元",
+      "summary": "人工智慧、幹細胞療法和 3D 生物列印將徹底改變醫療保健產業，到 2035 年將達到 2,348.5 億美元",
       "source": "BioSpace",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMzViY0hJS2JZVXpONklyNnh2ZzViTHZjSUlaZEhPLWoxNHUwVzhQNXEyYUJNMkR3RGxCa2pnaWxBb2RlYUxiNzR4dHc4U2FLSGpnT1JEY2t1aDRfWmxhaGV2SGUtVl9QTmNXVzYwbGZrLTQzMGZjTlBac1YwRXY0eDBNdUpKeS1wV29zWWwzb004NEViMFJkY2JSelprWl9LN0l0ZGUtckZRVEhwOUd5Y2Y1SDhrRjhSWVFVZjlSaWhlcWVLWFBEajVzUlJicGh1RHp6XzE0V25SVGRWVEY1TDFBRTFDWURnZldtdk05aWoyTnVMSFp2QWI1dXczam1SLTV3M2Z6OEd4MTg?oc=5",
