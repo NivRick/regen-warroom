@@ -1,13 +1,21 @@
 {
   "module": "tourism",
-  "updated": "2026-07-04T23:54:51.479455+00:00",
+  "updated": "2026-07-05T12:13:46.357136+00:00",
   "items": [
     {
-      "title": "韓國三星醫療中心獲《新聞週刊》評選為亞太區癌症、呼吸道與腸胃科第一名",
-      "summary": "韓國三星醫療中心最近被《新聞週刊》（Newsweek）評選為亞太區癌症、呼吸道與腸胃科的龍頭，顯示其在這些專科領域的頂尖醫療水準。",
+      "title": "三星醫療中心獲《新聞週刊》評選，在亞太地區的癌症、呼吸道疾病及腸胃科領域榮登榜首",
+      "summary": "三星醫療中心近日獲知名媒體《新聞週刊》評選為亞太地區最佳醫療機構，尤其在癌症、呼吸道疾病和腸胃科等專科領域表現卓越，榮獲第一名肯定。",
       "source": "아시아경제",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fMTNiZU5DTkFXRVdLSlJTSy1QX082R3l5LXdyZ1FlWWVYYzl4dElaMUppLW0zWHJDdW9JTEUyUWozQjY3ZEI3dmtXNzBtN3YwSzd3bXJDd0NYdlFSelktQ2NPTmE?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "瑪喬麗·泰勒·格林前往墨西哥尋求未經核准的醫療",
+      "summary": "美國眾議員瑪喬麗·泰勒·格林被揭露前往墨西哥，尋求未經官方核准的醫療治療，此舉引發外界對其醫療選擇的關注。",
+      "source": "Yahoo",
+      "date": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb09Mdjk5TTVzOFd3b1d6czBsTFZGT19MWGJYRGJsdWJwSklWcVZoa2VwM2tJOHFCMUVGNkF1bGlQODZ3UGVUV3huejN4dFFxYkFuX2F2cHNsMC1ZTFlZZ0I5dk5vUTBfY1FFOFVSQXFCcXphMG9JQU5qMUE0Skppc3NUNlVURFV1U3l5OEtyRlVVOUp3N1pWODdQeEZGdzAz?oc=5",
       "lang": "zh-TW"
     }
   ]
