@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-07-05T12:12:56.606760+00:00",
+  "updated": "2026-07-05T23:56:02.365337+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生技藥品新訊",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-07-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -12,7 +12,7 @@
     },
     {
       "title": "生物製劑相關程序（SOPP）",
-      "summary": "這些標準作業程序與政策（SOPP）是美國食品藥物管理局",
+      "summary": "美國食品藥物管理局（FDA）生物製劑研究與審查",
       "source": "FDA Biologics",
       "date": "2026-07-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -27,7 +27,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "20",
+      "title": "2026 年 6 月法規須知",
       "summary": "",
       "source": "PharmTech.com",
       "date": "2026-07-02",
@@ -75,24 +75,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "脊髓損傷市場規模預計到2036年將顯著成長，DelveInsight預估",
-      "summary": "DelveInsight透過Barchart.com發布預估，脊髓損傷市場規模到2036年將顯著成長。",
-      "source": "Barchart.com",
+      "title": "DelveInsight 估計，到 2036 年，脊髓損傷市場規模預計將顯著成長",
+      "summary": "根據 DelveInsight Barchart 估計，到 2036 年將顯著成長",
+      "source": "Barchart",
       "date": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU3pad2FTbkxiTzNxaDJlNENfWTRnUEVQRDVtdFRaVUxKbXFYRDd5WE1wQ2kzUWU3Ti1tbzdOVm5JRFVDcTNYQzRGN05URHFMRXNuOUpseDl1M0dfc2FTbGFfeEZpRUZJSUwyczFsOHBDYXlLaW9SRFdrQnlkaWtzSTdVTXd6cWFsa1dEMkliNG9uNnJlTHM4bVJaTUJ1cF9pNEt4SEd5UEZGZVJadU1IMFNaT1dJbThQUHpiWXgwaWxqM0dsQTZUVXF1Z01BaFcyRm5TSmFqejdOVXpz?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲生技公司正開發下一代細胞與基因療法製造技術",
-      "summary": "PharmTech.com報導，歐洲生技業者正積極投入下一代細胞與基因療法製造技術的開發。",
+      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
+      "summary": "細胞與基因治療製造技術 PharmTech.com",
       "source": "PharmTech.com",
       "date": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲藥品管理局（EMA）改變對Acadia公司雷特氏症療法Daybu的立場",
-      "summary": "BioWorld News報導，歐洲藥品管理局（EMA）針對Acadia公司治療雷特氏症的療法Daybu，其態度出現轉變。",
+      "title": "歐洲藥品管理局（EMA） 改變了對 Acadia 的 Rett 綜合徵療法 Daybu 的立場",
+      "summary": "綜合症治療 Daybu BioWorld 新聞",
       "source": "BioWorld News",
       "date": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYy1lMmV3ajlMUUxKQ3J2OEJFRnR4X19aUEdXWUxpeXRDUkpNOUJtLU8yLVM2a3FqY0hiMy12ZlJDVE5lTGZ4enJqNUpUM1VQWEdkYUZXWXpidjVDaWhDamFLZ05mczhZSmZiUEpxV3J0eDF0NVVteF9GM3U2cndUUWlNTEgtQk8zQWV5LTBlYnhrc283YWhmeldqZjVweVU5QzRWTkhB?oc=5",
@@ -102,7 +102,7 @@
       "title": "外泌體只能擦1／終結誇大不實廣告亂象　衛福部祭重罰新法上路半年近50件 | 財經 | CTWANT",
       "summary": "",
       "source": "CTWANT",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     }
   ]
