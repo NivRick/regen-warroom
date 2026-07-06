@@ -1,42 +1,42 @@
 {
   "module": "regulation",
-  "updated": "2026-07-05T23:56:02.365337+00:00",
+  "updated": "2026-07-06T14:26:15.459968+00:00",
   "items": [
     {
-      "title": "生技藥品新訊",
+      "title": "生技藥品最新動態",
       "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
-      "date": "2026-07-02",
+      "date": "2026-07-06",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
       "title": "生物製劑相關程序（SOPP）",
-      "summary": "美國食品藥物管理局（FDA）生物製劑研究與審查",
+      "summary": "這些標準作業程序與政策（SOPP）是美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）人員執行業務時所依循的規範。",
       "source": "FDA Biologics",
       "date": "2026-07-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "Fluzone 和 Fluzone 高劑量",
-      "summary": "流感病毒疫苗產品核准訊息",
+      "title": "流感疫苗Fluzone與Fluzone高劑量",
+      "summary": "關於流感病毒疫苗Fluzone與Fluzone高劑量的產品核准資訊。",
       "source": "FDA Biologics",
       "date": "2026-07-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/fluzone-and-fluzone-high-dose",
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年 6 月法規須知",
-      "summary": "",
+      "title": "2026年6月法規重點解析",
+      "summary": "本文將探討2026年6月生效或更新的重要法規，提供業界人士必須掌握的關鍵資訊。",
       "source": "PharmTech.com",
       "date": "2026-07-02",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUUxIVC1ZYlp6MzBBMm1obWdNekVXbmw2STFyRTNvMm9fZGZ3cEhCZjFrNnp4eHdOUm50OGFjZE5ObVpXRzh6OEVlZk9fMVp1RklLazJoeVJfbTlEc1FoYVpfTWdoU2pIV2lMR2NhSlM3YkpjSnJIdUVQU3RVc3c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 批准首個針對鐮狀細胞疾病幼兒的基因療法",
-      "summary": "美國食品藥物管理局今天發布了 Casgevy (exagamglogene autotemcel) 的補充批准，用於治療 2 歲及以上患有鐮狀細胞病 (SCD) 並伴有復發性血管閉塞危象 (VOC) 或輸血相關疾病的患者",
+      "title": "美國FDA核准首款用於幼童鐮刀型細胞貧血症的基因療法",
+      "summary": "美國食品藥物管理局（FDA）今日發布補充核准",
       "source": "FDA Biologics",
       "date": "2026-07-01",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
@@ -52,7 +52,7 @@
     },
     {
       "title": "埃里型S",
-      "summary": "產品核准資訊顯示可在 Erytype® S Rh + K 型板上使用，用於在 TANGO® optimo 自動化血型和抗體測試系統上進行 Rh 和 Kell 分型。血型試劑，抗-D（單克隆）（IgM）（配製用於汽車",
+      "summary": "產品核准資訊顯示可在 Erytype® S Rh + K 型板上使用，用於在 TANGO® optimo 自動化血型和抗體測試系統上進行 Rh 和 Kell 分型。血型试剂，抗-D（单克隆）（IgM）（配制用于汽车",
       "source": "FDA Biologics",
       "date": "2026-07-01",
       "url": "http://www.fda.gov/vaccines-blood-biologics/erytype-s",
@@ -75,24 +75,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "DelveInsight 估計，到 2036 年，脊髓損傷市場規模預計將顯著成長",
-      "summary": "根據 DelveInsight Barchart 估計，到 2036 年將顯著成長",
-      "source": "Barchart",
+      "title": "DelveInsight預估，脊髓損傷市場規模到2036年將顯著成長",
+      "summary": "DelveInsight報告指出，脊髓損傷市場規模預計到2036年將迎來可觀成長。",
+      "source": "Barchart.com",
       "date": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU3pad2FTbkxiTzNxaDJlNENfWTRnUEVQRDVtdFRaVUxKbXFYRDd5WE1wQ2kzUWU3Ti1tbzdOVm5JRFVDcTNYQzRGN05URHFMRXNuOUpseDl1M0dfc2FTbGFfeEZpRUZJSUwyczFsOHBDYXlLaW9SRFdrQnlkaWtzSTdVTXd6cWFsa1dEMkliNG9uNnJlTHM4bVJaTUJ1cF9pNEt4SEd5UEZGZVJadU1IMFNaT1dJbThQUHpiWXgwaWxqM0dsQTZUVXF1Z01BaFcyRm5TSmFqejdOVXpz?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲生物技術公司開發下一代細胞和基因治療製造技術",
-      "summary": "細胞與基因治療製造技術 PharmTech.com",
-      "source": "PharmTech.com",
-      "date": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUJ1bWtzWEp2VTRDX1RzYUZIOF9RSkZSOU45SlNVOFVfbEtYYk5QZ0hzeE0zNFRhQzVoVzNOOWNFeDlmd0FKeVI4bGJ3dmNVbHpmZF9fWlhFUlZBeGs5Sk1panJDNDZpZDVwZFVlWGZIR3o0V0JzaFpCdG9OUjBMbnBpamVRWDVvVXBpbFl1di1rMnFybXFTQWZJT3hIWEFtYmdFMGhlR0xnTWs2Nl8yNWhXUFhjX1EyRzA3akg1bk5EZw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "歐洲藥品管理局（EMA） 改變了對 Acadia 的 Rett 綜合徵療法 Daybu 的立場",
-      "summary": "綜合症治療 Daybu BioWorld 新聞",
+      "title": "歐洲藥品管理局（EMA）翻轉對Acadia公司雷特氏症療法Daybu的立場",
+      "summary": "歐洲藥品管理局（EMA）針對Acadia公司治療雷特氏症（Rett syndrome）的療法Daybu，改變了原先的審查態度。",
       "source": "BioWorld News",
       "date": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYy1lMmV3ajlMUUxKQ3J2OEJFRnR4X19aUEdXWUxpeXRDUkpNOUJtLU8yLVM2a3FqY0hiMy12ZlJDVE5lTGZ4enJqNUpUM1VQWEdkYUZXWXpidjVDaWhDamFLZ05mczhZSmZiUEpxV3J0eDF0NVVteF9GM3U2cndUUWlNTEgtQk8zQWV5LTBlYnhrc283YWhmeldqZjVweVU5QzRWTkhB?oc=5",
