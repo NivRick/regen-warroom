@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-07-06T14:25:25.258244+00:00",
+  "updated": "2026-07-06T23:58:17.765449+00:00",
   "items": [
     {
       "title": "高效表達全長三股螺旋重組第三型膠原蛋白",
-      "summary": "這項研究探討如何高效表達全長三股螺旋重組第三型膠原蛋白，對於組織修復與再生醫學應用潛力巨大。",
+      "summary": "本研究成功開發高效表達全長三股螺旋重組第三型膠原蛋白的技術，有望應用於組織修復與再生醫學領域。",
       "source": "PubMed",
       "date": "2026-07-06",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL（特異性新抗",
+      "title": "個人化SNAP™-TIL（特異性新抗原胜肽-",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-06",
@@ -35,8 +35,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Bypassing pluripotency: The promise of direct differentiation from reaggregated micro-fat into multilineage 類器官.",
-      "summary": "类器官技术已成为再生医学的强大工具；然而，当前的类器官技术主要基于多能干细胞衍生系统，这带来了与复杂性、成熟度和临床转化相关的挑战。在這篇評論中，我們強調...",
+      "title": "繞過多能性：從重新聚集的微脂肪直接分化為多譜系類器官的希望。",
+      "summary": "類器官技術已成為再生醫學的強大工具；然而，目前的類器官技術主要基於多能幹細胞衍生系統，這帶來了與複雜性、成熟度和臨床轉化相關的挑戰。在這篇評論中，我們強調...",
       "source": "PubMed",
       "date": "2026-07-06",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42403587/",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "漸凍症（ALS）的治療新進展：誘導型多功能幹細胞（iPSC）藥物開發、細胞治療與基因療法—2026年前的進展",
-      "summary": "三種匯聚的治療模式，包括誘導型多功能幹細胞（iPSC）藥物開發、細胞移植以及",
+      "title": "ALS 的治療前沿：基於 誘導型多能幹細胞（iPSC） 的藥物發現、細胞療法和基因療法 - 進展至 2026 年。",
+      "summary": "三種融合的治療範式——基於 誘導型多能幹細胞（iPSC） 的藥物發現、細胞移植和基因治療——在 2020 年至 2026 年間大幅擴展了肌萎縮側索硬化症 (ALS) 的治療管道。 美國食藥局（FDA） 於 2023 年 4 月加速批准 tofersen (Qalsody)，標誌著該藥物的首次上市。",
       "source": "PubMed",
       "date": "2026-07-06",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42359165/",
@@ -107,7 +107,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Protocol for ex vivo physicochemical assessment of photothermally preconditioned platelet-rich plasma.",
+      "title": "光熱預處理富含血小板血漿的離體理化評估方案。",
       "summary": "光熱生物調節用於預處理富含血小板的血漿，但用於監測相關物理化學變化的標準化實驗室工作流程仍有限。本文描述了一種配對的離體方案，用於評估富含血小板的血漿的選定理化參數...",
       "source": "PubMed",
       "date": "2026-07-06",
@@ -116,14 +116,14 @@
     },
     {
       "title": "乳癌嵌合抗原受體 T 細胞免疫療法的知識圖譜和研究趨勢：文獻計量和視覺分析研究。",
-      "summary": "嵌合抗原受體 T 細胞 (CAR-T細胞療法) 免疫療法在血液系統惡性腫瘤中取得了里程碑式的成功，目前正在探索用於乳癌 (BC) 和其他實體瘤的治療，推動了提高療效和安全性的研究。我们从网上检索到 894 条与 BC CAR-T細胞療法 免疫疗法相关的...",
+      "summary": "嵌合抗原受體 T 細胞 (CAR-T細胞療法) 免疫療法在血液系統惡性腫瘤中取得了里程碑式的成功，目前正在探索用於乳癌 (BC) 和其他實體瘤的治療，推動了提高療效和安全性的研究。我們從網路上檢索到 894 個與 BC CAR-T細胞療法 免疫療法相關的...",
       "source": "PubMed",
       "date": "2026-07-06",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42316771/",
       "lang": "zh-TW"
     },
     {
-      "title": "High-Intensity thermal stress enhances adoptive NK-cell cytotoxicity in poorly differentiated hepatocellular carcinoma.",
+      "title": "高強度熱壓力增強低分化肝細胞癌中過繼性 NK 細胞的細胞毒性。",
       "summary": "經皮熱消融用於治療早期不可切除的肝細胞癌（HCC）。 NK 細胞免疫療法已作為輔助治療進行了研究，但與消融聯合使用時的療效仍不清楚。",
       "source": "PubMed",
       "date": "2026-07-06",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "整合壓電陶瓷的4D支架結合生物電訊號，促進骨骼肌再生",
-      "summary": "體積性肌肉流失（VML）因骨骼肌再生能力有限，一直是醫學上的重大挑戰。這項研究開發了整合壓電陶瓷的4D支架，透過生物電訊號有望促進",
+      "title": "具有骨骼肌再生生物電訊號的 4D 壓電陶瓷整合支架。",
+      "summary": "由於骨骼肌的再生能力有限，體積肌肉流失（VML）構成了重大挑戰。在這種背景下，新興的四維（4D）再生策略將仿生支架與外部動態刺激結合起來，因其...",
       "source": "PubMed",
       "date": "2026-07-06",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42389019/",
@@ -157,13 +157,13 @@
     {
       "title": "[不適用] MUSE 幹細胞療法對腦外傷患者的安全性和結果",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Healing Hope International｜這項前瞻性觀察性研究評估了 6 至 75 歲慢性創傷性腦損傷 (TBI) 患者與 MUSE（多系分化壓力耐受）幹細胞療法相關的安全性和患者報告的結果",
-      "source": "ClinicalTrials.gov｜United States, Mexico",
+      "source": "ClinicalTrials.gov｜Mexico, United States",
       "date": "2026-07-06",
       "url": "https://clinicaltrials.gov/study/NCT07326059",
       "lang": "zh-TW"
     },
     {
-      "title": "[NA] Peer Support Intervention for Caregivers of Patients Undergoing HSCT",
+      "title": "[NA] 對接受 HSCT 患者的護理人員的同儕支持幹預",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：布萊根婦女醫院｜本研究的主要目的是確定針對接受造血幹細胞移植（HSCT）患者的護理人員進行量身定制的同儕支持幹預（STEPP-Care）是否可行。",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-06",
@@ -172,7 +172,7 @@
     },
     {
       "title": "[第2階段]雙硫崙/銅合併治療新診斷的多形性膠質母細胞瘤",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Olympion Medical Center｜Glioblastoma multiform (GBM) is the most common malignant primary brain tumor in adults. Despite maximal treatment tumor relapse occurs regularly accompanied by unfavourable prognosis. Among other reasons, it is believed that this could be in part du",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：奧林匹克醫學中心｜多形性膠質母細胞瘤（GBM）是成人最常見的惡性原發性腦瘤。儘管進行了最大程度的治療，腫瘤仍經常復發並伴隨不良的預後。除其他原因外，據信這可能部分是由於",
       "source": "ClinicalTrials.gov｜Greece",
       "date": "2026-07-06",
       "url": "https://clinicaltrials.gov/study/NCT01777919",
@@ -203,7 +203,47 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Synthetic Organizers Aid Creation of Reproducible Kidney 類器官 from 幹細胞",
+      "title": "Fate Therapeutics 公布 FT819 治療全身性硬化症的初步數據，將於 2026 年 ISSCR 年會發表",
+      "summary": "Fate Therapeutics 將在 2026 年國際幹細胞研究學會（ISSCR）年會上，發表其 FT819 治療全身性硬化",
+      "source": "Quiver Quantitative",
+      "date": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaHJtOU1oc04tdDB6LWtHSVFlVUtwREszeWgxWmhfc1lYYmlnYXpRR05mLUhzMGZZVkJuU0J5Z0FtU3E5elBtQ0Z1Smo4Y3NuOWxuaFFlc2pWUEdiTFp0S0pROUNWbW5XRC1nWXFscXVkZE8tN1FhMENXTEg2VjVIYjZ5UFk4bjNrMjdsTzQ4RHFCZ3FoSEZZVXY0cGhBcjRZSzBZdlhhWVVIdWN1ZEMzbnducXo0aUo0ZmJUYW84TG9vSWtOR3BPQ3o0eVVSdw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Cedars-Sinai 科學家將在 ISSCR 2026 上報告幹細胞進展 |新聞智慧",
+      "summary": "m Cell 在 ISSCR 2026 上取得進展 |新聞資訊 新聞資訊",
+      "source": "Newswise",
+      "date": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1ltZXVGSGh3bUllRVdxY1NlUDg3Q0t1T1hkR29DcDdmNmd5UnFaNzh0dnRkalo0bXZpSFgwWkU1dmNvbG5WZ2dVUGUtYnVJTURiUFpZTFJEWkM3cTBpN09hMUNYd2Y5MkZlNm9yUkpjRnNUWDA5QnhtS1UzYkxaYU8ySmQ0QV8yQ0NhRGFnQ0dtaGtWUTJ4TTVpS2R6b0hIUC1kSlJR0gGmAUFVX3lxTE1fWW1ldUZIaHdtSWVFV3FjU2VQODdDS3VPWGRHb0NwN2Y2Z3lScVo3OHR2dGRqWjRtdmlIWDBaRTV2Y29sblZnZ1VQZS1idUlNRGJQWllMUkRaQzdxMGk3T2ExQ1h3ZjkyRmU2b3JSSmNGc1RYMDlCeG1LVTNiTFphTzJKZDRBXzJDQ2FEYWdDR21oa1ZRMnhNNWlLZHpvSEhQLWRKUlE?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Longeveron® 任命 Marie Washburn 為財務長",
+      "summary": "環球郵報財務官",
+      "source": "The Globe and Mail",
+      "date": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLUdhTFBxSzJXYWswSlNod2NUVHNHeXhQem03MUV4YmxFM0xVcVJDMHJROVFEandlbWNXVDJTQ3VSOHZsbWFBc29OOHhQeXJ5eGpGYWJCc3VFajBrTERIdEhLbDQxWXh5SXYxbGRucmZWUEZnVUctZE5WbXRSaW1hTXRnMGl1Y0thVzI4S1BZcWsxNHFRVjh6LWVWRjhVc0JZR0VtU0ExZS13VUpEXzQ1SlkycnBxUmNoTTBJTm1ZZWc3MzIyYUhlMmt4eTFCUG9LMGtvQV9ra2N6bmkxclVoS2hn?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Longeveron 在 7 月試驗結果公佈前任命 Marie Washburn 為財務長",
+      "summary": "七月初試驗結果 Stock Titan",
+      "source": "Stock Titan",
+      "date": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQczUxQm9UUzhmM2JpZjFlOE5welNlb09vX3c0c0dIRTJsMnI1Tl9aQzJfSkpVTG5fV0ZoYVNDZll0S2ItbTRuMnZsWkJiNnhMRTNFT0JqYlNHVEExR3pXR09oYlZPNVE0ZkxxdFY3NElKQzhWWVNNblBjMTNfUEEyTjFYSm1EbUdfa1pEQ2FWQzJRYzdHMGc5SXB4MUsxUU5mT2NZM0RVang4N1Rv?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "AAIC 2026 值得關注的四家阿茲海默症公司",
+      "summary": "AIC 2026長壽科技",
+      "source": "Longevity.Technology",
+      "date": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVkl5UTdTLTEzMjFqVXcwMU0ybHZXOU9Sd0RXRmhQSkFGdlRoOEQwakM3TThMcXY1UGpEU3hYYTI3UDgxa0VoUHBHUjlmSDgxalh0X184X3NOS3FhV0RLR3JrME5QTEhnZmJOVDA2QWl1Ry1XZnVic0tjN21RR2hZNG92cERkWkdZeXc?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "合成組織劑有助於從幹細胞中創建可重複的腎臟類器官",
       "summary": "利用空間轉錄組學等技術，研究人員確定了一個有助於組織發育中腎單位的發育軸，並設計了分泌 Wnt 的「合成組織者」細胞來重建該發育環境的各個方面",
       "source": "GEN News",
       "date": "2026-07-02",
@@ -227,9 +267,9 @@
       "lang": "zh-TW"
     },
     {
-      "title": "運用光譜血管攝影電腦斷層（Angio-CT）",
+      "title": "利用光譜血管攝影電腦斷層",
       "summary": "",
-      "source": "ClinicalTrials.gov｜France, Netherlands",
+      "source": "ClinicalTrials.gov｜Netherlands, France",
       "date": "2026-07-01",
       "url": "https://clinicaltrials.gov/study/NCT07636148",
       "lang": "zh-TW"
@@ -243,16 +283,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "數位化，否則落後",
-      "summary": "Autolomous執行長Alexander Seyf警告，生醫製程的最大障礙不是科學，而是數據。他認為數位化、協作與共享...",
-      "source": "GEN News",
-      "date": "2026-07-01",
-      "url": "https://www.genengnews.com/topics/bioprocessing/digitize-or-fall-behind/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "[NA] 使用虛擬實境向偏頭痛患者教授正念",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：布萊根婦女醫院｜這項臨床試驗的目的是了解偏頭痛患者是否可以透過使用虛擬實境耳機來學習一種稱為接受與承諾療法（ACT）的生物行為療法。研究人员正在研究这种正念是否有效",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：布萊根婦女醫院｜這項臨床試驗的目的是了解偏頭痛患者是否可以透過使用虛擬實境耳機來學習一種稱為接受與承諾療法（ACT）的生物行為療法。研究人員正在研究這種正念是否有效",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07",
       "url": "https://clinicaltrials.gov/study/NCT07599228",
@@ -267,8 +299,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "eHealth 正念音樂療法介入，用於幹細胞移植患者",
-      "summary": "狀態：尚未招募｜主辦：邁阿密大學｜這項研究旨在測試一種電子健康（eHealth）正念音樂療法介入...",
+      "title": "電子健康（eHealth）正念音樂療法介入，用於幹細胞移植患者",
+      "summary": "狀態：尚未開始招募｜主辦單位：邁阿密大學｜這項研究旨在測試一種電子健康（eHealth）正念音樂療法介入措施。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-30",
       "url": "https://clinicaltrials.gov/study/NCT07469592",
@@ -299,35 +331,27 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第三期臨床試驗：SYS6010 結合抗PD-(L)-1單株抗體作為非小細胞肺癌（NSCLC）輔助療法的研究",
-      "summary": "狀態：尚未開始招募｜主辦：石藥巨石生物製藥有限公司｜這項研究旨在比較 SYS601",
+      "title": "[三期臨床] SYS6010合併抗PD-(L)-1單株抗體作為非小細胞肺癌(NSCLC)輔助療法的臨床研究",
+      "summary": "狀態：尚未開始招募受試者｜主辦單位：石藥巨石生物製藥有限公司｜這項研究主要在比較",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06-25",
       "url": "https://clinicaltrials.gov/study/NCT07672223",
       "lang": "zh-TW"
     },
     {
-      "title": "美國臨床腫瘤學會（ASCO）2026年小細胞肺癌重點觀察",
-      "summary": "",
+      "title": "ASCO 2026 小細胞肺癌的主要要點",
+      "summary": "ll 肺癌腫瘤學新聞中心",
       "source": "Oncology News Central",
       "date": "2026-06-23",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeS1nYjh0TERXYUJjdVdiNUloWUJPVVhMZERMQjgzcXVFUEdNUFk3elBjZVFHRmthQkp5dVA0NjV6V0NKRGc1WXMwUnZFSk5EcXNGM0Z2cGpnRjdwRTBKU2k0WWRJaWlrRjRPREJDYlpjN1d0ME5OLUcyU1NDaG5hb0Z2Y0JrcklETXlRMUxxZTVnd3JoNTNIa3EwZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE2] ctHPVDNA Response-Adapted Chemoradiation +/- Retifanlimab Treatment in Locally-Advanced Anal Cancer",
+      "title": "[第 2 期] 局部晚期肛門癌的 ctHPVDNA 應答適應化學放射治療 +/- Retifanlimab 治療",
       "summary": "狀態：招募｜主辦：Jennifer Dorth｜這項研究針對患有肛門癌且尚未接受治療的人。肛門癌患者的常規治療是放射化學治療 (CRT)。 CRT 是同時進行化療和放療。研究什",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-19",
       "url": "https://clinicaltrials.gov/study/NCT07425054",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Longeveron 獲得 AAIC 阿茲海默症幹細胞數據海報位置",
-      "summary": "heimer’s 幹細胞 data Stock Titan",
-      "source": "Stock Titan",
-      "date": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFdiSkNlY1pQdXRPQ0x0NDl2VGYyd19qYVZlR192TjNVbF9QM21LZHBsVUgzVGNyMW5HS0xGZ2RLU1F3bktfRFgtSFFSWmRRWnQ3ekxXMlJLMDBmZllwRTczZEZScXI0cXh5dDU5X0xZSlpFMVdCQXF1dXZJNURJMDRxWllLdzlXMkFKdGlhOU5pZ1BySjNFQ19VVExNc2M0MlJhRmpaQmMwNTdENDZ3eA?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -347,35 +371,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "免疫活化可能決定雙標靶 CAR-T細胞療法 治療膠質母細胞瘤的成功",
-      "summary": "雙標靶 CAR-T細胞療法 療法治療膠質母細胞瘤的效果 Penn Medicine",
-      "source": "Penn Medicine",
-      "date": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGl6OE54X3NXY19qTEQyX2ZtR2NyelFWcGc4cUhTRkQxLU4yNDZobjBTS1FDeFcwNUtsNm9xUEhuYTZCWFBSNWpjUjgyUjBzek9pRHZGUHNZM3llU0lsZXEzVUtSczBzSkZmMGE2VUdRTGpxRl81RFRnTVdfbzJVM2xnQnAydzl0eGE0YUpCUTNqdmVNcmI1WQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "[第 2 期] 瀰漫性大 B 細胞淋巴瘤一線化學免疫治療期間採用 MRD 的低劑量放射治療",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：內布拉斯加大學｜這項前瞻性可行性研究評估了接受一線化學免疫治療的瀰漫性大 B 細胞淋巴瘤 (DLBCL) 患者的微小殘留疾病 (MRD) 適應治療策略。基于循环肿瘤 DNA (ctDNA) 的 MRD 检测",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：內布拉斯加大學｜這項前瞻性可行性研究評估了接受一線化學免疫治療的瀰漫性大 B 細胞淋巴瘤 (DLBCL) 患者的微小殘留疾病 (MRD) 適應治療策略。基於循環腫瘤 DNA (ctDNA) 的 MRD 檢測",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-12",
       "url": "https://clinicaltrials.gov/study/NCT07517705",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CAR-T細胞療法 療法對於難治​​性白血病患者的效果比預期要好",
-      "summary": "有望治癒難以治療的白血病患者",
-      "source": "Cure Today",
-      "date": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTGljb0FkTU5rRHlLclJUOXd0N3B0U2JnT2JLTHhxT1VldHhuWExDY3g0N1Fvd2kyd2luZ3ZDaTdvcFdWZHoxWllyQk01dGVORFI5Z2ZWR1hHTWNxWFQ0WHl4TGE4RF9yVW5Fa01tSGw4Ukl1bzBrSnJSNXRTQ3RZZVdZNXhmVkNUblQ4LVdaXzJIenpGRDJnU1doakFDaC1jNzJkbEk4bm1GWGhFNnNMamdnVUpURFJ4Vko4?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "隨著人工智慧、幹細胞療法和 3D 生物列印徹底改變醫療保健，再生醫學市場規模到 2035 年將超過 2,348.5 億美元",
-      "summary": "人工智慧、幹細胞療法和 3D 生物列印將徹底改變醫療保健產業，到 2035 年將達到 2,348.5 億美元",
-      "source": "BioSpace",
-      "date": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMzViY0hJS2JZVXpONklyNnh2ZzViTHZjSUlaZEhPLWoxNHUwVzhQNXEyYUJNMkR3RGxCa2pnaWxBb2RlYUxiNzR4dHc4U2FLSGpnT1JEY2t1aDRfWmxhaGV2SGUtVl9QTmNXVzYwbGZrLTQzMGZjTlBac1YwRXY0eDBNdUpKeS1wV29zWWwzb004NEViMFJkY2JSelprWl9LN0l0ZGUtckZRVEhwOUd5Y2Y1SDhrRjhSWVFVZjlSaWhlcWVLWFBEajVzUlJicGh1RHp6XzE0V25SVGRWVEY1TDFBRTFDWURnZldtdk05aWoyTnVMSFp2QWI1dXczam1SLTV3M2Z6OEd4MTg?oc=5",
       "lang": "zh-TW"
     },
     {

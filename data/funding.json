@@ -1,13 +1,37 @@
 {
   "module": "funding",
-  "updated": "2026-07-06T14:26:53.860594+00:00",
+  "updated": "2026-07-06T23:59:24.010976+00:00",
   "items": [
     {
-      "title": "STAT+: Pharmalittle：諾華收購案、共和黨支持臨床試驗多元化等生醫新聞",
-      "summary": "諾華（Novartis）斥資11億美元前期金收購Myricx Bio，積極拓展抗體藥物複合體（ADC）的開發版圖。",
+      "title": "STAT+：隨著生技併購熱潮，Vertex 以 100 億美元收購 Crinetics Pharmaceuticals",
+      "summary": "兩家公司表示，Vertex Pharmaceuticals 將斥資 100 億美元收購 Crinetics Pharmaceuticals 及其治療罕見內分泌疾病的藥物。",
+      "source": "STAT News",
+      "date": "2026-07-06",
+      "url": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關諾華收購、共和黨支持臨床試驗多樣性等等的信息",
+      "summary": "諾華正深入推進抗體藥物偶聯物開發，預付 11 億美元收購 Myricx Bio",
       "source": "STAT News",
       "date": "2026-07-06",
       "url": "https://www.statnews.com/pharmalot/2026/07/06/novartis-buys-myricx-republicans-back-clinical-trial-diversity/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "基因編輯開發商 Scribe 計畫首次公開募股",
+      "summary": "這家加州製藥商與百健 (Biogen)、賽諾菲 (Sanofi) 和禮來 (Eli Lilly) 都有合作，可能成為 2026 年上市的第 14 家生技公司。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-06",
+      "url": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-listing/824469/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "諾華將以高達 $1.5B 的交易收購 ADC 開發商",
+      "summary": "該交易提供了兩種針對細胞生長具有不同作用機制的 ADC，標誌著諾華進入 ADC 開發領域。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-06",
+      "url": "https://www.biopharmadive.com/news/novartis-acquire-adc-developer-myricx-deal-15b/824450/",
       "lang": "zh-TW"
     },
     {
@@ -20,7 +44,7 @@
     },
     {
       "title": "STAT+：Elevance 起訴政府 1.15 億美元，涉及 Medicare Advantage 星級評級",
-      "summary": "The health insurer says CMS didn't calculate its star ratings appropriately.",
+      "summary": "該健康保險公司表示 CMS 沒有正確計算其星級評級。",
       "source": "STAT News",
       "date": "2026-07-02",
       "url": "https://www.statnews.com/2026/07/02/elevance-lawsuit-medicare-advantage-star-ratings-clover/?utm_campaign=rss",
@@ -32,14 +56,6 @@
       "source": "STAT News",
       "date": "2026-07-02",
       "url": "https://www.statnews.com/2026/07/02/biotech-news-roche-drug-sets-new-standard-for-kras-driven-lung-cancer/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: A ‘historic’ 美國食藥局（FDA） clearance raises the question: Is the LLM an interface or the decision-maker?",
-      "summary": "新核准的設備基於一個應用程序，可幫助患者使用醫生定義的治療計劃來管理糖尿病。",
-      "source": "STAT News",
-      "date": "2026-07-02",
-      "url": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -59,24 +75,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Ipsen 價值 4.5 億美元的血癌藥物； 美國食藥局（FDA） 選擇第一批「預檢查」試點計劃",
-      "summary": "計劃收購 Kartos Therapeutics 將為 Ipsen 提供治療骨髓纖維化的後期資產。在其他地方，Sobi 遇到了監管挫折，而 BeOne 則公佈了更積極的 Brukinsa 數據。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-30",
-      "url": "https://www.biopharmadive.com/news/ipsen-kartos-acquisition-astrazeneca-beone-fda/823954/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "這些生技公司剛完成大筆募資，他們向投資人描繪了什麼願景？",
-      "summary": "今年以來，鎖定眼科疾病、自體免疫疾病和長壽醫學的生技公司，已募得數筆大額資金。",
-      "source": "BioPharma Dive",
-      "date": "2026-06-30",
-      "url": "https://www.biopharmadive.com/news/biotech-large-haul-fundraising-drug-pharma/824183/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "獲Eight Roads投資的Immuneel，獲得B輪募資發展先進癌症治療",
-      "summary": "Immuneel獲Eight Roads支持，完成B輪募資，將投入先進癌症治療研發。",
+      "title": "八路支持的 Immuneel 為先進癌症護理提供 B 系列資金",
+      "summary": "高級癌症護理 B 級資金 VCCircle",
       "source": "VCCircle",
       "date": "2026-06-08",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmRaMHo2c01ieHphN1l0N3pnZE00M2xMUmtCWkJnOWNrZWRvT2pMdXhaMW1CS0VBaTh0MEZaWHlWeHBsSWNEX1FING93cEV4aUtVVEphOUQ3MThZbGJ0VWJjRmllaXVwT1h6dlFtamNZWGVlZFQ0QXNvU0IxVjZTbjlGeXo1aFlDSnN4U0dwYlAxYU9QMG1UY1ltTmJJR1E?oc=5",
