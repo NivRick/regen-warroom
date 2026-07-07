@@ -1,7 +1,23 @@
 {
   "module": "funding",
-  "updated": "2026-07-06T23:59:24.010976+00:00",
+  "updated": "2026-07-07T13:16:53.747800+00:00",
   "items": [
+    {
+      "title": "STAT+ 生醫快訊：Vertex 斥資百億美元併購案、美國FDA藥物核准進度等焦點",
+      "summary": "Vertex Pharmaceuticals 將斥資 100 億美元收購 Crinetics Pharmaceuticals 及其治療罕見內分泌疾病的藥物。",
+      "source": "STAT News",
+      "date": "2026-07-07",
+      "url": "https://www.statnews.com/pharmalot/2026/07/07/vertex-buying-crinetics-fda-drug-approvals-kept-pace/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+ 報導",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-07-07",
+      "url": "https://www.statnews.com/2026/07/07/aca-health-insurance-small-business-out-of-pocket-series-part-2/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：隨著生技併購熱潮，Vertex 以 100 億美元收購 Crinetics Pharmaceuticals",
       "summary": "兩家公司表示，Vertex Pharmaceuticals 將斥資 100 億美元收購 Crinetics Pharmaceuticals 及其治療罕見內分泌疾病的藥物。",
@@ -27,35 +43,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "諾華將以高達 $1.5B 的交易收購 ADC 開發商",
-      "summary": "該交易提供了兩種針對細胞生長具有不同作用機制的 ADC，標誌著諾華進入 ADC 開發領域。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-06",
-      "url": "https://www.biopharmadive.com/news/novartis-acquire-adc-developer-myricx-deal-15b/824450/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "2026 年迄今為止，癌症、免疫製藥商在創投中佔據主導地位",
       "summary": "根據 BioPharma Dive 的數據，截至 2026 年，專注於任一疾病領域的藥物開發商佔生物技術公司數量和融資金額的 40% 以上。",
       "source": "BioPharma Dive",
       "date": "2026-07-06",
       "url": "https://www.biopharmadive.com/news/cancer-immune-venture-funding-2026/824250/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Elevance 起訴政府 1.15 億美元，涉及 Medicare Advantage 星級評級",
-      "summary": "該健康保險公司表示 CMS 沒有正確計算其星級評級。",
-      "source": "STAT News",
-      "date": "2026-07-02",
-      "url": "https://www.statnews.com/2026/07/02/elevance-lawsuit-medicare-advantage-star-ratings-clover/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：羅氏藥物為 KRAS 驅動的肺癌制定新標準",
-      "summary": "生物技術的牛市、Vertex 的基因治療擴張以及來自 The Readout 的更多新聞",
-      "source": "STAT News",
-      "date": "2026-07-02",
-      "url": "https://www.statnews.com/2026/07/02/biotech-news-roche-drug-sets-new-standard-for-kras-driven-lung-cancer/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -75,8 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "八路支持的 Immuneel 為先進癌症護理提供 B 系列資金",
-      "summary": "高級癌症護理 B 級資金 VCCircle",
+      "title": "Ipsen以4.5億美元收購血癌藥物；美國FDA啟動「預審」試點計畫，選定首批參與者",
+      "summary": "Ipsen斥資4.5億美元收購血癌藥物；FDA啟動「預審」試點計畫，加速新藥審查。",
+      "source": "BioPharma Dive",
+      "date": "2026-06-30",
+      "url": "https://www.biopharmadive.com/news/ipsen-kartos-acquisition-astrazeneca-beone-fda/823954/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "獲Eight Roads投資的Immuneel募得B輪資金，用於晚期癌症照護",
+      "summary": "Immuneel成功募得B輪資金，將投入晚期癌症治療與照護。",
       "source": "VCCircle",
       "date": "2026-06-08",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmRaMHo2c01ieHphN1l0N3pnZE00M2xMUmtCWkJnOWNrZWRvT2pMdXhaMW1CS0VBaTh0MEZaWHlWeHBsSWNEX1FING93cEV4aUtVVEphOUQ3MThZbGJ0VWJjRmllaXVwT1h6dlFtamNZWGVlZFQ0QXNvU0IxVjZTbjlGeXo1aFlDSnN4U0dwYlAxYU9QMG1UY1ltTmJJR1E?oc=5",
