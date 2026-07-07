@@ -1,77 +1,101 @@
 {
   "module": "regulation",
-  "updated": "2026-07-07T13:16:14.274335+00:00",
+  "updated": "2026-07-07T23:47:53.055550+00:00",
   "items": [
     {
-      "title": "NUWIQ",
-      "summary": "NUWIQ已獲核准，可用於A型血友病成人及兒童，主要用於按需治療及控制出血事件。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-07-07",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Chemistry, Manufacturing, and Controls Flexibilities for Developing Human Cellular and 基因療法 Products for a Biologics License Application",
+      "summary": "這是為生物製品許可證申請開發人類細胞和基因治療產品的行業指南和靈活性",
+      "source": "FDA Biologics",
+      "date": "2026-07-07",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/chemistry-manufacturing-and-controls-flexibilities-developing-human-cellular-and-gene-therapy",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Vertex 計劃將業務擴展到囊性纖維化之外，並計劃 10B 美元收購 Crinetics",
+      "summary": "Crinetics 總部位於聖地牙哥，專注於內分泌疾病療法的發現、開發和商業化。該公司首個上市藥物 Palsonify®（paltusotine）是一種口服 SST2 激動劑，於 9 月獲得 美國食藥局（FDA） 批准作為治療藥物。",
+      "source": "GEN News",
+      "date": "2026-07-07",
+      "url": "https://www.genengnews.com/topics/translational-medicine/vertex-eyes-expansion-beyond-cystic-fibrosis-with-planned-10b-crinetics-buyout/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "AI 揭示多發性硬化症 MRI 中隱藏的腦部病變",
+      "summary": "研究人員將人工智慧與多種影像處理方法相結合，在現有的多發性硬化症 MRI 掃描中可靠地測量與殘疾和認知密切相關的皮質病變，而這些病變以前一直未被發現。貼文 pl",
+      "source": "GEN News",
+      "date": "2026-07-07",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/ai-reveals-hidden-brain-lesions-in-multiple-sclerosis-mri/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "尋找大規模 DNA",
+      "summary": "隨著基因組編輯療法從臨床試驗走向監管批准，科學家們繼續尋求大規模 DNA 編輯的聖杯。\n這篇貼文首先出現在 GEN - 基因工程和生物技術新聞上。",
+      "source": "GEN News",
+      "date": "2026-07-07",
+      "url": "https://www.genengnews.com/topics/genome-editing/the-quest-for-large-scale-dna/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Biotestcell 與 Erytypecell",
+      "summary": "產品核准資訊顯示用於手動試管測試，用於自動化系統的試劑紅血球用於 TANGO® optimo 自動化血型和抗體測試系統。",
+      "source": "FDA Biologics",
+      "date": "2026-07-06",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biotestcell-and-erytypecell",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "愛維特",
+      "summary": "產品核准資訊顯示：\n◦控制和預防 A 型血友病成人和兒童（0-16 16 歲）的出血事件。\n◦患有 18 種 A 型血友病的成人和兒童（0-16 歲）的圍手術期管理。\n◦常規預防",
+      "source": "FDA Biologics",
+      "date": "2026-07-06",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/advate",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "紐威智商",
+      "summary": "產品核准資訊適用於患有 A 型血友病的成人和兒童： • 按需治療和控制出血事件\n• 圍術期出血處理\n• 常規預防以減少出血頻率",
       "source": "FDA Biologics",
       "date": "2026-07-06",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/nuwiq",
       "lang": "zh-TW"
     },
     {
-      "title": "GLASSIA",
-      "summary": "GLASSIA已獲核准，可用於因先天性因素導致肺氣腫的患者，進行慢性",
+      "title": "冠狀病毒 (COVID-19) | CBER 監管的生物製品",
+      "summary": "本頁面和相關連結提供與治療或預防 COVID-19 療法開發相關的指導和建議信息，以及尋求其他資訊或幫助的開發人員的聯絡資訊。",
       "source": "FDA Biologics",
       "date": "2026-07-06",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/glassia",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CBER 2026 孤兒批准（新 BLA）",
-      "summary": "",
-      "source": "FDA Biologics",
-      "date": "2026-07-06",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-07-06",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "嵌合過敏原受體 Treg 細胞抑制小鼠過敏性氣喘",
-      "summary": "研究人員開發了配備嵌合過敏原受體（CALleR Tregs）的調節性 T 細胞，在測試中，這種細胞可以減輕或預防對樺樹花粉過敏原敏感的小鼠的氣喘症狀，並表明他們的方法最終可能會被應用。",
-      "source": "GEN News",
-      "date": "2026-07-06",
-      "url": "https://www.genengnews.com/topics/translational-medicine/chimeric-allergen-receptor-treg-cells-suppress-allergic-asthma-in-mice/",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
       "lang": "zh-TW"
     },
     {
       "title": "生物製品程序 (SOPP)",
       "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
-      "date": "2026-07-02",
+      "date": "2026-07-06",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "Fluzone 和 Fluzone 高劑量",
-      "summary": "流感病毒疫苗產品核准訊息",
+      "title": "格拉西亞",
+      "summary": "產品核准資訊適用於因先天性缺乏 α-1-蛋白酶抑制劑 (Alpha1-PI)（也稱為 α1-抗胰蛋白酶）而患有肺氣腫的個體的慢性增強和維持治療。",
       "source": "FDA Biologics",
-      "date": "2026-07-02",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/fluzone-and-fluzone-high-dose",
+      "date": "2026-07-06",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/glassia",
       "lang": "zh-TW"
     },
     {
-      "title": "2",
+      "title": "2026 年 6 月法規須知",
       "summary": "",
       "source": "PharmTech.com",
       "date": "2026-07-02",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUUxIVC1ZYlp6MzBBMm1obWdNekVXbmw2STFyRTNvMm9fZGZ3cEhCZjFrNnp4eHdOUm50OGFjZE5ObVpXRzh6OEVlZk9fMVp1RklLazJoeVJfbTlEc1FoYVpfTWdoU2pIV2lMR2NhSlM3YkpjSnJIdUVQU3RVc3c?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 批准首個針對鐮狀細胞疾病幼兒的基因療法",
-      "summary": "美國食品藥物管理局今天發布了 Casgevy (exagamglogene autotemcel) 的補充批准，用於治療 2 歲及以上患有鐮狀細胞病 (SCD) 並伴有復發性血管閉塞危象 (VOC) 或輸血相關疾病的患者",
-      "source": "FDA Biologics",
-      "date": "2026-07-01",
-      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
       "lang": "zh-TW"
     },
     {
@@ -96,14 +120,6 @@
       "source": "CTWANT",
       "date": "2026-06-25",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
-    },
-    {
-      "title": "亞太地區基因體拷貝數定量分析試劑市場：分析、預測、規模、趨勢與洞察報告",
-      "summary": "IndexBox發布亞太地區基因體拷貝數定量分析試劑的市場報告，深入分析其規模、趨勢與未來預測。",
-      "source": "IndexBox",
-      "date": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdEttLXhKYXVKSS1BRkIzZEVGa2RUWmtRb0N6VEhoOWF1UUVDWi1OY2ptM0l3R3hsSUNSeWxGZ0hFY09OZVQzVGZoNUdwNE9pdEJJVnEweWM0UjRKV2pjaVFZWFdnUDg3YjIteHQzcGd1T0FJNW5OdkxnaEpoZXJLbk5TbTc3dFhDOHFueWRpdUFpVjEwQTZ0STQ5eDBBdTRJQ1lkY0hhSkNFX2tGRlZxbk5iR19GclU0SURmdjhoS3VQTE4yRTFOaFo4aTItWjA?oc=5",
-      "lang": "zh-TW"
     }
   ]
 }

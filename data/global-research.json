@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-07-07T13:15:03.289658+00:00",
+  "updated": "2026-07-07T23:47:10.094024+00:00",
   "items": [
     {
       "title": "高效表達全長三股螺旋重組第三型膠原蛋白",
-      "summary": "第三型膠原蛋白（COL3A1）是血管與皮膚組織中豐富的纖維狀膠原蛋白，在傷口癒合與組織修復中扮演關鍵角色。",
+      "summary": "第三型膠原蛋白（COL3A1）是血管和皮膚組織中豐富的纖維狀膠原蛋白，在傷口癒合和組織修復中扮演關鍵角色。",
       "source": "PubMed",
       "date": "2026-07-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL（",
+      "title": "個人化SNAP™-TIL",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-07",
@@ -36,7 +36,7 @@
     },
     {
       "title": "繞過多能性：從重新聚集的微脂肪直接分化為多譜系類器官的希望。",
-      "summary": "类器官技术已成为再生医学的强大工具；然而，当前的类器官技术主要基于多能干细胞衍生系统，这带来了与复杂性、成熟度和临床转化相关的挑战。在這篇評論中，我們強調...",
+      "summary": "類器官技術已成為再生醫學的強大工具；然而，目前的類器官技術主要基於多能幹細胞衍生系統，這帶來了與複雜性、成熟度和臨床轉化相關的挑戰。在這篇評論中，我們強調...",
       "source": "PubMed",
       "date": "2026-07-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42403587/",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "漸凍症（ALS）治療新前線：誘導性多功能幹細胞（iPSC）藥物開發、細胞治療與基因療法－2026年前的進展",
-      "summary": "誘導性多功能幹細胞（iPSC）藥物開發、細胞移植和基因療法這三大治療模式的匯聚，大幅拓展",
+      "title": "漸凍症（ALS）治療新突破：誘導型多功能幹細胞（iPSC）藥物開發、細胞治療與基因療法－2026年前的進展。",
+      "summary": "誘導型多功能幹細胞（iPSC）藥物開發、細胞治療和基因療法這三大治療模式的匯聚，",
       "source": "PubMed",
       "date": "2026-07-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42359165/",
@@ -124,22 +124,22 @@
     },
     {
       "title": "高強度熱壓力增強低分化肝細胞癌中過繼性 NK 細胞的細胞毒性。",
-      "summary": "Percutaneous thermal ablation is used to treat early-stage, non-resectable hepatocellular carcinoma (HCC). NK-cell 免疫療法 has been studied as an adjuvant treatment, but the efficacy remains unclear when combined with ablation.",
+      "summary": "經皮熱消融用於治療早期不可切除的肝細胞癌（HCC）。 NK 細胞免疫療法已作為輔助治療進行了研究，但與消融聯合使用時的療效仍不清楚。",
       "source": "PubMed",
       "date": "2026-07-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42311101/",
       "lang": "zh-TW"
     },
     {
-      "title": "結合生物電訊號的4D壓電陶瓷整合支架，用於骨骼肌再生",
-      "summary": "結合生物電訊號的4D壓電陶瓷整合支架，有望促進骨骼肌再生，解決肌肉體積流失（VML）的難題。",
+      "title": "結合生物電訊號的4D壓電陶瓷整合支架，助攻骨骼肌再生",
+      "summary": "體積性肌肉流失（VML）因骨骼肌再生能力有限，構成一大挑戰。在此背景下，新興的四...",
       "source": "PubMed",
       "date": "2026-07-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42389019/",
       "lang": "zh-TW"
     },
     {
-      "title": "仿生骨膜",
+      "title": "仿生骨膜的免疫調節細胞",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-07",
@@ -155,7 +155,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[EARLY_PHASE1] GC012F 在類風濕關節炎的開放標籤研究。",
+      "title": "[EARLY_PHASE1] GC012F 在類風濕性關節炎的開放標籤研究。",
       "summary": "狀態：撤回｜主辦：中國血液疾病研究所醫院｜這是一項評估 GC012F 在難治性（D2T）類風濕關節炎患者中的安全性和有效性的開放標籤研究。",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-07",
@@ -179,8 +179,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[二期臨床] 誘導型多功能幹細胞（iPSC）分化運動神經細胞（XS228）治療亞急性脊髓損傷的療效：一項二期隨機對照臨床試驗",
-      "summary": "狀態：尚未開始招募｜主辦單位：蘇州賽爾智能生物製藥",
+      "title": "[二期臨床] 誘導型多功能幹細胞（iPSC）分化之運動神經元細胞（XS228）用於亞急性脊髓損傷的療效：一項二期隨機對照臨床試驗",
+      "summary": "狀態：尚未開始招募｜主辦單位：蘇州賽爾",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-07",
       "url": "https://clinicaltrials.gov/study/NCT06974968",
@@ -243,27 +243,35 @@
       "lang": "zh-TW"
     },
     {
-      "title": "太空生物製造將成為 ISSCR 2026 的關鍵主題",
-      "summary": "來自 Cedars-Sinai 理事會再生醫學研究所的科學家，包括來自 Cedars-Sinai 生物製造中心的研究人員，表示他們將在 ISSCR 上分享突破性的發現並討論研究的新前沿",
+      "title": "尋找大規模 DNA",
+      "summary": "隨著基因組編輯療法從臨床試驗走向監管批准，科學家們繼續尋求大規模 DNA 編輯的聖杯。\n這篇貼文首先出現在 GEN - 基因工程和生物技術新聞上。",
+      "source": "GEN News",
+      "date": "2026-07-07",
+      "url": "https://www.genengnews.com/topics/genome-editing/the-quest-for-large-scale-dna/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "太空生醫製造將成為國際幹細胞研究學會（ISSCR）2026年會的重點議題",
+      "summary": "來自西達賽奈（Cedars-Sinai）董事會再生醫學研究所的科學家，包括西達賽奈生醫製造中心的研究人員，將在會中探討太空",
       "source": "GEN News",
       "date": "2026-07-07",
       "url": "https://www.genengnews.com/topics/bioprocessing/biomanufacturing-in-space-to-be-key-topic-at-isscr-2026/",
       "lang": "zh-TW"
     },
     {
-      "title": "賽達斯西奈（Cedars-Sinai）科學",
-      "summary": "",
-      "source": "Newswise",
+      "title": "2026 年移植物抗宿主疾病管線：DelveInsight 的深入臨床試驗分析與新興療法報告 | Cellestia Biotech、輝瑞、正大天晴製藥、Regimmune Corp",
+      "summary": "DelveInsight 深度臨床試驗分析與新興療法報告 | Cellestia Biotech、輝瑞、正大天晴製藥、Regimmune Corp Barchart.com",
+      "source": "Barchart.com",
       "date": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1ltZXVGSGh3bUllRVdxY1NlUDg3Q0t1T1hkR29DcDdmNmd5UnFaNzh0dnRkalo0bXZpSFgwWkU1dmNvbG5WZ2dVUGUtYnVJTURiUFpZTFJEWkM3cTBpN09hMUNYd2Y5MkZlNm9yUkpjRnNUWDA5QnhtS1UzYkxaYU8ySmQ0QV8yQ0NhRGFnQ0dtaGtWUTJ4TTVpS2R6b0hIUC1kSlJR0gGmAUFVX3lxTE1fWW1ldUZIaHdtSWVFV3FjU2VQODdDS3VPWGRHb0NwN2Y2Z3lScVo3OHR2dGRqWjRtdmlIWDBaRTV2Y29sblZnZ1VQZS1idUlNRGJQWllMUkRaQzdxMGk3T2ExQ1h3ZjkyRmU2b3JSSmNGc1RYMDlCeG1LVTNiTFphTzJKZDRBXzJDQ2FEYWdDR21oa1ZRMnhNNWlLZHpvSEhQLWRKUlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPSlVSMW5QTTBUdlE1WllrbWlRRHg5ZU91aWtZbFNzTFctU3RZckdlMTQ5NEhESzRuc3A1c19xYVhjS3gwUS10NXVnNWtlRktFRXc3b2wwLWktaXFjRWQtSTZtbzZ4ajhDT01kX2pyRDBnd3ZmellVMmpoUjBzdnF1blM4c1RrQmJtTENESXVNVWlkaE9DbE5JRHVVcGVWRWJkc01GY1l0aHNTaXRBbm1iVU85WURsVXlhQ2lhbmQtUDNsaENwZUozeFpZc3c2WGRIVkstaHJ5OEJSTUZvS2dZblB2d1RWUkVWSVdyZHh1bXM4YUFPcHdwaGd4ekltWFMxZk1Cc0cyZVlXWWE0RDVfaVBTS2RiRmtyOWVTa29kSXRPTjhQOG9WemYzd2VjUHRyT21XTS1CYmJOVjdacXh1cFBOLW96VDA?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Longeveron® 任命 Marie Washburn 為財務長",
-      "summary": "首席財務官 GlobeNewswire",
-      "source": "GlobeNewswire",
-      "date": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVHM3blpjUW9jcU54bXBWY0VaalJDa1JXRzcwRXhFTFptVmZkUEVNTHZ0Yk9sanJheFdES21yNHJoM05GbC12N3lLYzBrVy1mVHhFc2NEay1nVmFSV2d3d3NickNtZldlV1dCeWRxSVp6NVJVLTIwX2tsWm1yRXk5ZDYyUy1ZUl9qNm1BbGhlUnBqRXhrZ3NoejJIdEVQVkoxbmdMZk5tbUsyXzBiZ1ZmNVY2WElobGM1dWdSRllTa3lRdnVWdENhMVdUT2dnUQ?oc=5",
+      "title": "Cedars-Sinai 科學家將在 ISSCR 2026 上報告幹細胞進展 |新聞智慧",
+      "summary": "m Cell 在 ISSCR 2026 上取得進展 |新聞資訊 新聞資訊",
+      "source": "Newswise",
+      "date": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1ltZXVGSGh3bUllRVdxY1NlUDg3Q0t1T1hkR29DcDdmNmd5UnFaNzh0dnRkalo0bXZpSFgwWkU1dmNvbG5WZ2dVUGUtYnVJTURiUFpZTFJEWkM3cTBpN09hMUNYd2Y5MkZlNm9yUkpjRnNUWDA5QnhtS1UzYkxaYU8ySmQ0QV8yQ0NhRGFnQ0dtaGtWUTJ4TTVpS2R6b0hIUC1kSlJR0gGmAUFVX3lxTE1fWW1ldUZIaHdtSWVFV3FjU2VQODdDS3VPWGRHb0NwN2Y2Z3lScVo3OHR2dGRqWjRtdmlIWDBaRTV2Y29sblZnZ1VQZS1idUlNRGJQWllMUkRaQzdxMGk3T2ExQ1h3ZjkyRmU2b3JSSmNGc1RYMDlCeG1LVTNiTFphTzJKZDRBXzJDQ2FEYWdDR21oa1ZRMnhNNWlLZHpvSEhQLWRKUlE?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -275,19 +283,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Longeveron 在 7 月試驗結果公佈前任命 Marie Washburn 為財務長",
-      "summary": "七月初試驗結果 Stock Titan",
-      "source": "Stock Titan",
+      "title": "Longeveron® 任命 Marie Washburn 為財務長",
+      "summary": "首席財務官 GlobeNewswire",
+      "source": "GlobeNewswire",
       "date": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQczUxQm9UUzhmM2JpZjFlOE5welNlb09vX3c0c0dIRTJsMnI1Tl9aQzJfSkpVTG5fV0ZoYVNDZll0S2ItbTRuMnZsWkJiNnhMRTNFT0JqYlNHVEExR3pXR09oYlZPNVE0ZkxxdFY3NElKQzhWWVNNblBjMTNfUEEyTjFYSm1EbUdfa1pEQ2FWQzJRYzdHMGc5SXB4MUsxUU5mT2NZM0RVang4N1Rv?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "人工組織者助攻，幹細胞培養出可重複的腎臟類器官",
-      "summary": "研究人員利用空間轉錄體學等技術，找出有助於組織發育中腎臟腎元的發育軸線，並...",
-      "source": "GEN News",
-      "date": "2026-07-02",
-      "url": "https://www.genengnews.com/topics/translational-medicine/synthetic-organizers-aid-creation-of-reproducible-kidney-organoids-from-stem-cells/",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVHM3blpjUW9jcU54bXBWY0VaalJDa1JXRzcwRXhFTFptVmZkUEVNTHZ0Yk9sanJheFdES21yNHJoM05GbC12N3lLYzBrVy1mVHhFc2NEay1nVmFSV2d3d3NickNtZldlV1dCeWRxSVp6NVJVLTIwX2tsWm1yRXk5ZDYyUy1ZUl9qNm1BbGhlUnBqRXhrZ3NoejJIdEVQVkoxbmdMZk5tbUsyXzBiZ1ZmNVY2WElobGM1dWdSRllTa3lRdnVWdENhMVdUT2dnUQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -309,7 +309,7 @@
     {
       "title": "[不適用] Dezawa MuseCells® 結果登記",
       "summary": "狀態：招募中｜主辦單位：MuseCell Innovations Pte LTD｜這項觀察性研究的目的是了解 Dezawa MuseCells 治療各種疾病的長期效果。\n\n主要目標： Dezawa Musecells 的短期和長期成果是什麼？接受 Dezawa MuseCe 治療的參與者",
-      "source": "ClinicalTrials.gov｜Mexico, United States",
+      "source": "ClinicalTrials.gov｜United States, Mexico",
       "date": "2026-07-01",
       "url": "https://clinicaltrials.gov/study/NCT07645989",
       "lang": "zh-TW"
@@ -332,15 +332,15 @@
     },
     {
       "title": "[NA] 使用單細胞 RNA 定序評估音樂療法對鐮狀細胞疾病青少年的分子機制和效果",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：埃默里大學｜這項臨床試驗的目標是評估為期 4 週的音樂療法 (MT) 幹預是否可以減輕鐮狀細胞疾病 (SCD) 青少年的慢性疼痛并改善心理社會結果。\n\n它旨在回答的主要問題是：\n\n* MT 是否",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：埃默里大學｜這項臨床試驗的目標是評估為期 4 週的音樂療法 (MT) 幹預是否可以減輕鐮狀細胞疾病 (SCD) 青少年的慢性疼痛并改善心理社會結果。\n\n它旨在回答的主要問題是：\n\n* MT 是否",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07",
       "url": "https://clinicaltrials.gov/study/NCT07562451",
       "lang": "zh-TW"
     },
     {
-      "title": "第三期臨床試驗：評估試驗中的臍帶間質幹細胞療法JadiCell™對急性呼吸窘迫症（ARDS）病患的安全性與潛在療效",
-      "summary": "評估JadiCell™臍帶間質幹細胞療法治療急性呼吸窘迫症（ARDS）的安全性與療效。",
+      "title": "【三期臨床】評估研發中臍帶間質幹細胞療法JadiCell™用於急性呼吸道疾病患者的安全性與潛在治療活性",
+      "summary": "這項三期臨床試驗將評估JadiCell™臍帶間質幹細胞療法，治療急性呼吸道疾病患者的安全性與療效。",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07",
       "url": "https://clinicaltrials.gov/study/NCT07479043",
@@ -371,8 +371,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA局長國家優先審查憑證（CNPV）試辦計畫",
-      "summary": "美國FDA局長推動國家優先審查憑證試辦計畫。",
+      "title": "局長國家優先審查憑證 (CNPV) 試行計畫",
+      "summary": "美國FDA推出「局長國家優先審查憑證 (CNPV)」試行計畫，旨在鼓勵藥廠開發符合國家優先需求的藥物，並提供加速審查的誘因。",
       "source": "fda.gov",
       "date": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
