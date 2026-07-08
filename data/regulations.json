@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-07T23:47:53.055550+00:00",
+  "updated": "2026-07-08T12:16:33.888135+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑新知",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-07-07",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "Chemistry, Manufacturing, and Controls Flexibilities for Developing Human Cellular and 基因療法 Products for a Biologics License Application",
-      "summary": "這是為生物製品許可證申請開發人類細胞和基因治療產品的行業指南和靈活性",
+      "title": "針對生物製劑許可申請（BLA）中，開發人類細胞與基因療法產品的化學、製造與管制（CMC）",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-07-07",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/chemistry-manufacturing-and-controls-flexibilities-developing-human-cellular-and-gene-therapy",
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "尋找大規模 DNA",
+      "title": "對大規模 DNA 的探索",
       "summary": "隨著基因組編輯療法從臨床試驗走向監管批准，科學家們繼續尋求大規模 DNA 編輯的聖杯。\n這篇貼文首先出現在 GEN - 基因工程和生物技術新聞上。",
       "source": "GEN News",
       "date": "2026-07-07",
@@ -91,16 +91,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年 6 月法規須知",
-      "summary": "",
-      "source": "PharmTech.com",
-      "date": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUUxIVC1ZYlp6MzBBMm1obWdNekVXbmw2STFyRTNvMm9fZGZ3cEhCZjFrNnp4eHdOUm50OGFjZE5ObVpXRzh6OEVlZk9fMVp1RklLazJoeVJfbTlEc1FoYVpfTWdoU2pIV2lMR2NhSlM3YkpjSnJIdUVQU3RVc3c?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "DelveInsight 估計，到 2036 年，脊髓損傷市場規模預計將顯著成長",
-      "summary": "根據 DelveInsight Barchart.com 估計，到 2036 年將出現顯著成長",
+      "title": "脊髓損傷市場規模預計到2036年將顯著成長，DelveInsight預估",
+      "summary": "DelveInsight預估，脊髓損傷市場規模到2036年將顯著成長。",
       "source": "Barchart.com",
       "date": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU3pad2FTbkxiTzNxaDJlNENfWTRnUEVQRDVtdFRaVUxKbXFYRDd5WE1wQ2kzUWU3Ti1tbzdOVm5JRFVDcTNYQzRGN05URHFMRXNuOUpseDl1M0dfc2FTbGFfeEZpRUZJSUwyczFsOHBDYXlLaW9SRFdrQnlkaWtzSTdVTXd6cWFsa1dEMkliNG9uNnJlTHM4bVJaTUJ1cF9pNEt4SEd5UEZGZVJadU1IMFNaT1dJbThQUHpiWXgwaWxqM0dsQTZUVXF1Z01BaFcyRm5TSmFqejdOVXpz?oc=5",
@@ -120,6 +112,14 @@
       "source": "CTWANT",
       "date": "2026-06-25",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
+    },
+    {
+      "title": "歐洲藥品管理局（EMA）在2025年核准了",
+      "summary": "",
+      "source": "PharmTech.com",
+      "date": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
+      "lang": "zh-TW"
     }
   ]
 }

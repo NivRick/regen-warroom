@@ -1,18 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-07-07T23:48:19.335174+00:00",
+  "updated": "2026-07-08T12:17:12.287330+00:00",
   "items": [
     {
-      "title": "STAT+：指引針稱憂鬱症藥物具有長期益處",
-      "summary": "Vertex 達成有史以來規模最大的交易、醫療保險成本飆升以及來自 The Readout 的更多生物科技新聞",
+      "title": "2歲幼兒使用血糖監測器好嗎？專家探討風險與效益",
+      "summary": "新核准的非處方連續式血糖監測儀（CGM）為兒童肥胖問題提供新解方，但也引發諸多討論。",
+      "source": "STAT News",
+      "date": "2026-07-08",
+      "url": "https://www.statnews.com/2026/07/08/dexcom-stelo-cgm-risk-benefit-otc-glucose-monitoring-children/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Compass稱其憂鬱症藥物具長效效益",
+      "summary": "Vertex達成史上最大交易，健保費用飆升，以及更多來自The Readout的生技新聞。",
       "source": "STAT News",
       "date": "2026-07-07",
       "url": "https://www.statnews.com/2026/07/07/biotech-news-compass-reports-depression-drug-has-long-lasting-benefits/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關 Vertex 價值 100 億美元的交易、美國食藥局（FDA） 藥物審批的速度等信息",
-      "summary": "Vertex Pharmaceuticals 將斥資 100 億美元收購 Crinetics Pharmaceuticals 及其治療罕見內分泌疾病的藥物",
+      "title": "STAT+：Pharmalittle：Vertex百億美元交易、美國食品藥物管理局",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-07-07",
       "url": "https://www.statnews.com/pharmalot/2026/07/07/vertex-buying-crinetics-fda-drug-approvals-kept-pace/?utm_campaign=rss",
@@ -51,14 +59,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關諾華收購、共和黨支持臨床試驗多樣性等等的信息",
-      "summary": "諾華正深入推進抗體藥物偶聯物開發，預付 11 億美元收購 Myricx Bio",
-      "source": "STAT News",
-      "date": "2026-07-06",
-      "url": "https://www.statnews.com/pharmalot/2026/07/06/novartis-buys-myricx-republicans-back-clinical-trial-diversity/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "基因編輯開發商 Scribe 計畫首次公開募股",
       "summary": "這家加州製藥商與百健 (Biogen)、賽諾菲 (Sanofi) 和禮來 (Eli Lilly) 都有合作，可能成為 2026 年上市的第 14 家生技公司。",
       "source": "BioPharma Dive",
@@ -67,24 +67,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "諾華將以高達 $1.5B 的交易收購 ADC 開發商",
-      "summary": "該交易提供了兩種針對細胞生長具有不同作用機制的 ADC，標誌著諾華進入 ADC 開發領域。",
+      "title": "Novartis 併購 ADC 開發商，交易金額上看 15 億美元",
+      "summary": "這筆交易將讓諾華取得兩款作用機制不同、鎖定細胞生長的 ADC (抗體藥物複合體)，標誌著諾華正式跨足 ADC 開發領域。",
       "source": "BioPharma Dive",
       "date": "2026-07-06",
       "url": "https://www.biopharmadive.com/news/novartis-acquire-adc-developer-myricx-deal-15b/824450/",
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年迄今為止，癌症、免疫製藥商在創投中佔據主導地位",
-      "summary": "根據 BioPharma Dive 的數據，截至 2026 年，專注於任一疾病領域的藥物開發商佔生物技術公司數量和融資金額的 40% 以上。",
+      "title": "2026 年迄今，癌症與免疫藥物開發商主導創投募資市場",
+      "summary": "根據 BioPhar 數據，專注於這兩大疾病領域的藥物開發商，佔 2026 年迄今生技公司總數及募資總額的四成以上。",
       "source": "BioPharma Dive",
       "date": "2026-07-06",
       "url": "https://www.biopharmadive.com/news/cancer-immune-venture-funding-2026/824250/",
       "lang": "zh-TW"
     },
     {
-      "title": "BridgeBio 獲得藥物上市資金；曼聯收購細胞療法",
-      "summary": "在其他地方，大塚的腎臟藥物達到了驗證性試驗的目標，Vertex 的 基因剪輯技術（CRISPR） 鐮狀細胞藥物獲得了擴大批准。",
+      "title": "Fierce",
+      "summary": "",
+      "source": "Fierce Biotech",
+      "date": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BridgeBio 獲藥物上市資金；United 投資細胞治療領域",
+      "summary": "此外，大塚製藥的腎臟病藥物在確效性試驗中達標，而 Vertex 的 CRISPR (基因編輯技術) 鐮刀型細胞貧血症藥物也獲得擴大核准。",
       "source": "BioPharma Dive",
       "date": "2026-07-01",
       "url": "https://www.biopharmadive.com/news/bridgebio-united-thymmune-otsuka-fda-casgevy/824197/",
