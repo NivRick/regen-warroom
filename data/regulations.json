@@ -1,10 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-09T00:02:34.095382+00:00",
+  "updated": "2026-07-09T13:46:02.587712+00:00",
   "items": [
     {
+      "title": "Texas Biomed 與美國戰爭部簽訂 CRADA，以協助防範生物威脅",
+      "summary": "CRADA 框架旨在確保針對生物威脅（無論是自然出現的疾病還是工程風險）的關鍵資源已準備好並按需提供，而不是偶爾提供。\n後南戰爭部幫助保護",
+      "source": "GEN News",
+      "date": "2026-07-09",
+      "url": "https://www.genengnews.com/topics/infectious-diseases/texas-biomed-enters-into-a-crada-with-the-u-s-dept-of-war-to-help-protect-against-biological-threats/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "加達西",
-      "summary": "Product approval information for Human Papillomavirus Quadrivalent (Types 6, 11, 16, 18) Vaccine, Recombinant also known as .",
+      "summary": "人類乳突病毒四價（6、11、16、18 型）重組疫苗的產品核准資訊。",
       "source": "FDA Biologics",
       "date": "2026-07-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/gardasil",
@@ -28,7 +36,7 @@
     },
     {
       "title": "Procleix Ultrio 檢測",
-      "summary": "Product approval information is intended for: •\tUse in testing plasma and serum specimens to screen organ donors when specimens are obtained while the donor's heart is still beating, and in testing blood specimens from cadaveric (non-heart-beating) d",
+      "summary": "產品核准資訊旨在： • 用於測試血漿和血清樣本，以篩選器官捐贈者（當在捐贈者心臟仍在跳動時獲取樣本），以及用於測試來自屍體（無心跳）的血液樣本。",
       "source": "FDA Biologics",
       "date": "2026-07-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/blood-blood-products/procleix-ultrio-assay",
@@ -36,7 +44,7 @@
     },
     {
       "title": "HPC、臍帶血",
-      "summary": "Product approval information is indicated for use in unrelated donor hematopoietic progenitor cell transplantation procedures in conjunction with an appropriate preparative regimen for hematopoietic and immunologic reconstitution in patients with dis",
+      "summary": "產品核准資訊適用於無關供體造血祖細胞移植程序，與疾病患者造血和免疫重建的適當準備方案結合使用。",
       "source": "MD Anderson Cord Blood Bank",
       "date": "2026-07-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/hpc-cord-blood-md-anderson-cord-blood-bank",
@@ -51,27 +59,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Fujifilm Selected with Six Others in 美國食藥局（FDA） PreCheck Pilot Manufacturing Program",
-      "summary": "富士軟片的霍利泉工廠是北美最大的端到端細胞培養生物製藥製造工廠之一，是該公司不斷發展的全球製造網路中的關鍵節點。\nThe post  PreCheck Pilot Manufactu",
+      "title": "富士膠片與其他六家公司一起入選 美國食藥局（FDA） 預檢查試點製造計劃",
+      "summary": "富士軟片的霍利泉工廠是北美最大的端到端細胞培養生物製藥製造工廠之一，是該公司不斷發展的全球製造網路中的關鍵節點。\nPreCheck Pilot Manufactu 後",
       "source": "GEN News",
       "date": "2026-07-08",
       "url": "https://www.genengnews.com/topics/bioprocessing/fujifilm-selected-with-six-others-in-fda-precheck-pilot-manufacturing-program/",
       "lang": "zh-TW"
     },
     {
-      "title": "Interface Mismatches Remain Key Barrier to Continuous Bioprocessing",
-      "summary": "只有当流程紧密集成和设计以消除步骤之间的体积不匹配并进行数字化管理以确保系统范围的可见性和干预时，才能实现完全连续的自动化生物处理。\n給孔蒂的帖子",
+      "title": "界面不匹配仍然是連續生物加工的主要障礙",
+      "summary": "只有當流程緊密整合和設計以消除步驟之間的體積不匹配並進行數位化管理以確保系統範圍的可見性和乾預時，才能實現完全連續的自動化生物處理。\n給孔蒂的帖子",
       "source": "GEN News",
       "date": "2026-07-08",
       "url": "https://www.genengnews.com/topics/bioprocessing/interface-mismatches-key-barrier-to-continuous-bioprocessing/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Astrocytes Preserve Memory Persistence Through Ankyrin-2 Protein in Mice",
-      "summary": "某些記憶如何隨著時間的推移而持續存在以促進學習和認知功能仍不清楚。 一項新研究表明，星狀細胞透過調節蛋白錨蛋白 2 (Ank2) 在長期記憶中發揮關鍵作用。 The post hrough Ankyrin-2 Prote",
-      "source": "GEN News",
-      "date": "2026-07-08",
-      "url": "https://www.genengnews.com/topics/drug-discovery/astrocytes-preserve-memory-persistence-through-ankyrin-2-protein-in-mice/",
       "lang": "zh-TW"
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "Asia-Pacific Genome Copy Number Quantification Assays - Market Analysis, Forecast, Size, Trends and Insights",
+      "title": "亞太地區基因組拷貝數定量分析 - 市場分析、預測、規模、趨勢和見解",
       "summary": "陽離子分析 - 市場分析、預測、規模、趨勢和見解 IndexBox",
       "source": "IndexBox",
       "date": "2026-06-20",

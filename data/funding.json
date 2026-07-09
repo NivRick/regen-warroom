@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-07-09T00:03:15.270754+00:00",
+  "updated": "2026-07-09T13:46:23.195024+00:00",
   "items": [
     {
-      "title": "STAT+: Europe will accelerate its review of RevMed’s drug",
-      "summary": "Kailera's GLP-1 pill data raises concerns, 美國食藥局（FDA） clears Vera autoimmune therapy, and more biotech news from The Readout",
+      "title": "STAT+：拯救葛蕾絲的探索－並為世界各地的罕見疾病患者掃清道路",
+      "summary": "一位父親的追求如何塑造罕見疾病基因治療的未來。",
+      "source": "STAT News",
+      "date": "2026-07-09",
+      "url": "https://www.statnews.com/2026/07/09/matt-wilsey-grace-science-rare-disease-drug-development-ngly1/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：歐洲將加快 RevMed 藥物的審查",
+      "summary": "Kailera 的 GLP-1 藥丸數據引發擔憂，美國食藥局（FDA） 批准 Vera 自體免疫療法，以及更多來自 The Readout 的生物技術新聞",
       "source": "STAT News",
       "date": "2026-07-08",
       "url": "https://www.statnews.com/2026/07/08/biotech-news-europe-will-accelerate-its-review-of-revmed-cancer-drug/?utm_campaign=rss",
@@ -12,18 +20,10 @@
     },
     {
       "title": "STAT+：Pharmalittle：我們正在閱讀有關 Vera 腎臟藥物批准、英國 Enhertu 定價交易等的信息",
-      "summary": "The 美國食藥局（FDA） approved a kidney disease drug from Vera Therapeutics called Trutakna, to treat IgA nephropathy",
+      "summary": "美國食藥局（FDA） 批准了 Vera Therapeutics 公司的一種腎病藥物 Trutakna，用於治療 IgA 腎病",
       "source": "STAT News",
       "date": "2026-07-08",
       "url": "https://www.statnews.com/pharmalot/2026/07/08/fda-approves-vera-kidney-drug-uk-enhertu-pricing-deal/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "血糖監測儀對2歲的孩子有好處嗎？ 專家審視風險與效益",
-      "summary": "The newly approved over-the-counter CGM offers a new approach to tackling childhood obesity but also raises a host of questions.",
-      "source": "STAT News",
-      "date": "2026-07-08",
-      "url": "https://www.statnews.com/2026/07/08/dexcom-stelo-cgm-risk-benefit-otc-glucose-monitoring-children/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -36,18 +36,10 @@
     },
     {
       "title": "Prime 贏得基因編輯爭議； Saol 聲稱最新的 Makary 美國食藥局（FDA） 逆轉",
-      "summary": "An arbitration panel ruled Prime didn&rsquo;t breach a deal with Beam by developing a rare disease treatment. Elsewhere, European regulators are using a pancreatic cancer drug to test a new framework for reviews.",
+      "summary": "仲裁小組裁定 Prime 開發罕見疾病治療藥物並未違反與 Beam 的協議。在其他地方，歐洲監管機構正在使用胰臟癌藥物來測試新的審查框架。",
       "source": "BioPharma Dive",
       "date": "2026-07-08",
       "url": "https://www.biopharmadive.com/news/prime-beam-aatd-saol-fda-ema-daraxonrasib-cyllene/824574/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：指引針稱憂鬱症藥物具有長期益處",
-      "summary": "Vertex makes its largest-ever deal, skyrocketing health insurance costs, and more biotech news from The Readout",
-      "source": "STAT News",
-      "date": "2026-07-07",
-      "url": "https://www.statnews.com/2026/07/07/biotech-news-compass-reports-depression-drug-has-long-lasting-benefits/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -76,18 +68,10 @@
     },
     {
       "title": "諾華將以高達 $1.5B 的交易收購 ADC 開發商",
-      "summary": "The deal hands over two ADCs with a different mechanism of action targeting cell growth, and marks Novartis' entry into ADC development.",
+      "summary": "該交易提供了兩種針對細胞生長具有不同作用機制的 ADC，標誌著諾華進入 ADC 開發領域。",
       "source": "BioPharma Dive",
       "date": "2026-07-06",
       "url": "https://www.biopharmadive.com/news/novartis-acquire-adc-developer-myricx-deal-15b/824450/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "2026 年迄今為止，癌症、免疫製藥商在創投中佔據主導地位",
-      "summary": "根據 BioPharma Dive 的數據，截至 2026 年，專注於任一疾病領域的藥物開發商佔生物技術公司數量和融資金額的 40% 以上。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-06",
-      "url": "https://www.biopharmadive.com/news/cancer-immune-venture-funding-2026/824250/",
       "lang": "zh-TW"
     },
     {
@@ -104,14 +88,6 @@
       "source": "BioSpace",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUtlX0FJZlh1dVhnTlBka0VCc3BRTVduVmdITEdJQndaQ2NoR0NfbWtNRWZRS2hBdzIxX1Y3cDktQ1hPSUNZWjZKUHYyV3ByQUl1TGFpMjhCNTl0TzdwWjczem4tNXNqaEMwalFxNDFDVjZCOEx3QmJJYXNjR0g5MjRibkQyNmZUaE9VMEs2NDhBVjZDbnV3cFVB?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Kiran Mazumdar-Shaw 的 Immuneel 在 B 輪融資中籌集了超過 100 盧比",
-      "summary": "er Rs 100 Cr in B輪融資 Round BW Disrupt",
-      "source": "BW Disrupt",
-      "date": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWU3cmJjOEN2VkhvdDl6dXQ2WGJaU3A0TERoa1NHejBtaGwwWHdHeWhVRURFaC1YV3B1UFI3Vy1wek5wV2doTGpHUWt1YkU2cE9vY2NrUFNPMUx4NlRMTnJFVC1SN2FvNEd4d3RlYlM4NFM4cE9IdGtpNi03SS1YVmNxZkEwTkJJWVZTQy00MjlZcm9PbUpxTHFFWExBQjcyekRWRkpqSDl3VUMxb3NOSQ?oc=5",
       "lang": "zh-TW"
     }
   ]
