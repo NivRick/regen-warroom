@@ -1,37 +1,53 @@
 {
   "module": "funding",
-  "updated": "2026-07-08T12:17:12.287330+00:00",
+  "updated": "2026-07-09T00:03:15.270754+00:00",
   "items": [
     {
-      "title": "2歲幼兒使用血糖監測器好嗎？專家探討風險與效益",
-      "summary": "新核准的非處方連續式血糖監測儀（CGM）為兒童肥胖問題提供新解方，但也引發諸多討論。",
+      "title": "STAT+: Europe will accelerate its review of RevMed’s drug",
+      "summary": "Kailera's GLP-1 pill data raises concerns, 美國食藥局（FDA） clears Vera autoimmune therapy, and more biotech news from The Readout",
+      "source": "STAT News",
+      "date": "2026-07-08",
+      "url": "https://www.statnews.com/2026/07/08/biotech-news-europe-will-accelerate-its-review-of-revmed-cancer-drug/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關 Vera 腎臟藥物批准、英國 Enhertu 定價交易等的信息",
+      "summary": "The 美國食藥局（FDA） approved a kidney disease drug from Vera Therapeutics called Trutakna, to treat IgA nephropathy",
+      "source": "STAT News",
+      "date": "2026-07-08",
+      "url": "https://www.statnews.com/pharmalot/2026/07/08/fda-approves-vera-kidney-drug-uk-enhertu-pricing-deal/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "血糖監測儀對2歲的孩子有好處嗎？ 專家審視風險與效益",
+      "summary": "The newly approved over-the-counter CGM offers a new approach to tackling childhood obesity but also raises a host of questions.",
       "source": "STAT News",
       "date": "2026-07-08",
       "url": "https://www.statnews.com/2026/07/08/dexcom-stelo-cgm-risk-benefit-otc-glucose-monitoring-children/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Compass稱其憂鬱症藥物具長效效益",
-      "summary": "Vertex達成史上最大交易，健保費用飆升，以及更多來自The Readout的生技新聞。",
+      "title": "阿斯特捷蘭素史克透過中國生物製藥交易加強中國聯繫",
+      "summary": "在美國對此類交易進行更廣泛的審查之際，英國製藥商最近與中國同行加強了一系列合作。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-08",
+      "url": "https://www.biopharmadive.com/news/astrazeneca-gsk-china-biotech-deals-sinopharm/824679/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Prime 贏得基因編輯爭議； Saol 聲稱最新的 Makary 美國食藥局（FDA） 逆轉",
+      "summary": "An arbitration panel ruled Prime didn&rsquo;t breach a deal with Beam by developing a rare disease treatment. Elsewhere, European regulators are using a pancreatic cancer drug to test a new framework for reviews.",
+      "source": "BioPharma Dive",
+      "date": "2026-07-08",
+      "url": "https://www.biopharmadive.com/news/prime-beam-aatd-saol-fda-ema-daraxonrasib-cyllene/824574/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：指引針稱憂鬱症藥物具有長期益處",
+      "summary": "Vertex makes its largest-ever deal, skyrocketing health insurance costs, and more biotech news from The Readout",
       "source": "STAT News",
       "date": "2026-07-07",
       "url": "https://www.statnews.com/2026/07/07/biotech-news-compass-reports-depression-drug-has-long-lasting-benefits/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：Vertex百億美元交易、美國食品藥物管理局",
-      "summary": "",
-      "source": "STAT News",
-      "date": "2026-07-07",
-      "url": "https://www.statnews.com/pharmalot/2026/07/07/vertex-buying-crinetics-fda-drug-approvals-kept-pace/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：對喬治亞州的創業家來說，醫療保險從來都是負擔不起的",
-      "summary": "艾米‧比拉夫斯基 (Amy Bielawski) 是 3,000 萬自主創業家之一。她一生的大部分時間都沒有醫療保險。",
-      "source": "STAT News",
-      "date": "2026-07-07",
-      "url": "https://www.statnews.com/2026/07/07/aca-health-insurance-small-business-out-of-pocket-series-part-2/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -51,14 +67,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：隨著生技併購熱潮，Vertex 以 100 億美元收購 Crinetics Pharmaceuticals",
-      "summary": "兩家公司表示，Vertex Pharmaceuticals 將斥資 100 億美元收購 Crinetics Pharmaceuticals 及其治療罕見內分泌疾病的藥物。",
-      "source": "STAT News",
-      "date": "2026-07-06",
-      "url": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "基因編輯開發商 Scribe 計畫首次公開募股",
       "summary": "這家加州製藥商與百健 (Biogen)、賽諾菲 (Sanofi) 和禮來 (Eli Lilly) 都有合作，可能成為 2026 年上市的第 14 家生技公司。",
       "source": "BioPharma Dive",
@@ -67,43 +75,43 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Novartis 併購 ADC 開發商，交易金額上看 15 億美元",
-      "summary": "這筆交易將讓諾華取得兩款作用機制不同、鎖定細胞生長的 ADC (抗體藥物複合體)，標誌著諾華正式跨足 ADC 開發領域。",
+      "title": "諾華將以高達 $1.5B 的交易收購 ADC 開發商",
+      "summary": "The deal hands over two ADCs with a different mechanism of action targeting cell growth, and marks Novartis' entry into ADC development.",
       "source": "BioPharma Dive",
       "date": "2026-07-06",
       "url": "https://www.biopharmadive.com/news/novartis-acquire-adc-developer-myricx-deal-15b/824450/",
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年迄今，癌症與免疫藥物開發商主導創投募資市場",
-      "summary": "根據 BioPhar 數據，專注於這兩大疾病領域的藥物開發商，佔 2026 年迄今生技公司總數及募資總額的四成以上。",
+      "title": "2026 年迄今為止，癌症、免疫製藥商在創投中佔據主導地位",
+      "summary": "根據 BioPharma Dive 的數據，截至 2026 年，專注於任一疾病領域的藥物開發商佔生物技術公司數量和融資金額的 40% 以上。",
       "source": "BioPharma Dive",
       "date": "2026-07-06",
       "url": "https://www.biopharmadive.com/news/cancer-immune-venture-funding-2026/824250/",
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce",
-      "summary": "",
+      "title": "Fierce Biotech 籌款追蹤器 '26：Celea 為 PureTech IPF 藥物的 3 期研究籌集了 1.8 億美元",
+      "summary": "Celea 籌集了 1.8 億美元用於 PureTech IPF 藥物 Fierce Biotech 的 3 期研究",
       "source": "Fierce Biotech",
       "date": "2026-07-06",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BridgeBio 獲藥物上市資金；United 投資細胞治療領域",
-      "summary": "此外，大塚製藥的腎臟病藥物在確效性試驗中達標，而 Vertex 的 CRISPR (基因編輯技術) 鐮刀型細胞貧血症藥物也獲得擴大核准。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-01",
-      "url": "https://www.biopharmadive.com/news/bridgebio-united-thymmune-otsuka-fda-casgevy/824197/",
+      "title": "SonoThera 獲得 1.25 億美元的 B 輪融資，以推進更安全的基因療法",
+      "summary": "更安全的基因療法",
+      "source": "BioSpace",
+      "date": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUtlX0FJZlh1dVhnTlBka0VCc3BRTVduVmdITEdJQndaQ2NoR0NfbWtNRWZRS2hBdzIxX1Y3cDktQ1hPSUNZWjZKUHYyV3ByQUl1TGFpMjhCNTl0TzdwWjczem4tNXNqaEMwalFxNDFDVjZCOEx3QmJJYXNjR0g5MjRibkQyNmZUaE9VMEs2NDhBVjZDbnV3cFVB?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "八路支持的 Immuneel 為先進癌症護理提供 B 系列資金",
-      "summary": "高級癌症護理 B 級資金 VCCircle",
-      "source": "VCCircle",
+      "title": "Kiran Mazumdar-Shaw 的 Immuneel 在 B 輪融資中籌集了超過 100 盧比",
+      "summary": "er Rs 100 Cr in B輪融資 Round BW Disrupt",
+      "source": "BW Disrupt",
       "date": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmRaMHo2c01ieHphN1l0N3pnZE00M2xMUmtCWkJnOWNrZWRvT2pMdXhaMW1CS0VBaTh0MEZaWHlWeHBsSWNEX1FING93cEV4aUtVVEphOUQ3MThZbGJ0VWJjRmllaXVwT1h6dlFtamNZWGVlZFQ0QXNvU0IxVjZTbjlGeXo1aFlDSnN4U0dwYlAxYU9QMG1UY1ltTmJJR1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWU3cmJjOEN2VkhvdDl6dXQ2WGJaU3A0TERoa1NHejBtaGwwWHdHeWhVRURFaC1YV3B1UFI3Vy1wek5wV2doTGpHUWt1YkU2cE9vY2NrUFNPMUx4NlRMTnJFVC1SN2FvNEd4d3RlYlM4NFM4cE9IdGtpNi03SS1YVmNxZkEwTkJJWVZTQy00MjlZcm9PbUpxTHFFWExBQjcyekRWRkpqSDl3VUMxb3NOSQ?oc=5",
       "lang": "zh-TW"
     }
   ]

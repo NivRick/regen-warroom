@@ -1,98 +1,82 @@
 {
   "module": "regulation",
-  "updated": "2026-07-08T12:16:33.888135+00:00",
+  "updated": "2026-07-09T00:02:34.095382+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "加達西",
+      "summary": "Product approval information for Human Papillomavirus Quadrivalent (Types 6, 11, 16, 18) Vaccine, Recombinant also known as .",
       "source": "FDA Biologics",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/gardasil",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "加衛苗9",
+      "summary": "人類乳突病毒九價重組疫苗也稱為 的產品核准資訊。",
+      "source": "FDA Biologics",
+      "date": "2026-07-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/gardasil-9",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Procleix Ultrio Plus 檢測",
+      "summary": "產品核准資訊用於： • 用於測試血漿和血清樣本，以篩選器官捐贈者（當在捐贈者心臟仍在跳動時獲取樣本），以及用於測試來自屍體（無心跳）捐贈者的血液樣本。\n•使用我",
+      "source": "FDA Biologics",
+      "date": "2026-07-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/blood-blood-products/procleix-ultrio-plus-assays",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Procleix Ultrio 檢測",
+      "summary": "Product approval information is intended for: •\tUse in testing plasma and serum specimens to screen organ donors when specimens are obtained while the donor's heart is still beating, and in testing blood specimens from cadaveric (non-heart-beating) d",
+      "source": "FDA Biologics",
+      "date": "2026-07-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/blood-blood-products/procleix-ultrio-assay",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "HPC、臍帶血",
+      "summary": "Product approval information is indicated for use in unrelated donor hematopoietic progenitor cell transplantation procedures in conjunction with an appropriate preparative regimen for hematopoietic and immunologic reconstitution in patients with dis",
+      "source": "MD Anderson Cord Blood Bank",
+      "date": "2026-07-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/hpc-cord-blood-md-anderson-cord-blood-bank",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-07-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "針對生物製劑許可申請（BLA）中，開發人類細胞與基因療法產品的化學、製造與管制（CMC）",
-      "summary": "",
-      "source": "FDA Biologics",
-      "date": "2026-07-07",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/chemistry-manufacturing-and-controls-flexibilities-developing-human-cellular-and-gene-therapy",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Vertex 計劃將業務擴展到囊性纖維化之外，並計劃 10B 美元收購 Crinetics",
-      "summary": "Crinetics 總部位於聖地牙哥，專注於內分泌疾病療法的發現、開發和商業化。該公司首個上市藥物 Palsonify®（paltusotine）是一種口服 SST2 激動劑，於 9 月獲得 美國食藥局（FDA） 批准作為治療藥物。",
+      "title": "Fujifilm Selected with Six Others in 美國食藥局（FDA） PreCheck Pilot Manufacturing Program",
+      "summary": "富士軟片的霍利泉工廠是北美最大的端到端細胞培養生物製藥製造工廠之一，是該公司不斷發展的全球製造網路中的關鍵節點。\nThe post  PreCheck Pilot Manufactu",
       "source": "GEN News",
-      "date": "2026-07-07",
-      "url": "https://www.genengnews.com/topics/translational-medicine/vertex-eyes-expansion-beyond-cystic-fibrosis-with-planned-10b-crinetics-buyout/",
+      "date": "2026-07-08",
+      "url": "https://www.genengnews.com/topics/bioprocessing/fujifilm-selected-with-six-others-in-fda-precheck-pilot-manufacturing-program/",
       "lang": "zh-TW"
     },
     {
-      "title": "AI 揭示多發性硬化症 MRI 中隱藏的腦部病變",
-      "summary": "研究人員將人工智慧與多種影像處理方法相結合，在現有的多發性硬化症 MRI 掃描中可靠地測量與殘疾和認知密切相關的皮質病變，而這些病變以前一直未被發現。貼文 pl",
+      "title": "Interface Mismatches Remain Key Barrier to Continuous Bioprocessing",
+      "summary": "只有当流程紧密集成和设计以消除步骤之间的体积不匹配并进行数字化管理以确保系统范围的可见性和干预时，才能实现完全连续的自动化生物处理。\n給孔蒂的帖子",
       "source": "GEN News",
-      "date": "2026-07-07",
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/ai-reveals-hidden-brain-lesions-in-multiple-sclerosis-mri/",
+      "date": "2026-07-08",
+      "url": "https://www.genengnews.com/topics/bioprocessing/interface-mismatches-key-barrier-to-continuous-bioprocessing/",
       "lang": "zh-TW"
     },
     {
-      "title": "對大規模 DNA 的探索",
-      "summary": "隨著基因組編輯療法從臨床試驗走向監管批准，科學家們繼續尋求大規模 DNA 編輯的聖杯。\n這篇貼文首先出現在 GEN - 基因工程和生物技術新聞上。",
+      "title": "Astrocytes Preserve Memory Persistence Through Ankyrin-2 Protein in Mice",
+      "summary": "某些記憶如何隨著時間的推移而持續存在以促進學習和認知功能仍不清楚。 一項新研究表明，星狀細胞透過調節蛋白錨蛋白 2 (Ank2) 在長期記憶中發揮關鍵作用。 The post hrough Ankyrin-2 Prote",
       "source": "GEN News",
-      "date": "2026-07-07",
-      "url": "https://www.genengnews.com/topics/genome-editing/the-quest-for-large-scale-dna/",
+      "date": "2026-07-08",
+      "url": "https://www.genengnews.com/topics/drug-discovery/astrocytes-preserve-memory-persistence-through-ankyrin-2-protein-in-mice/",
       "lang": "zh-TW"
     },
     {
-      "title": "Biotestcell 與 Erytypecell",
-      "summary": "產品核准資訊顯示用於手動試管測試，用於自動化系統的試劑紅血球用於 TANGO® optimo 自動化血型和抗體測試系統。",
-      "source": "FDA Biologics",
-      "date": "2026-07-06",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biotestcell-and-erytypecell",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "愛維特",
-      "summary": "產品核准資訊顯示：\n◦控制和預防 A 型血友病成人和兒童（0-16 16 歲）的出血事件。\n◦患有 18 種 A 型血友病的成人和兒童（0-16 歲）的圍手術期管理。\n◦常規預防",
-      "source": "FDA Biologics",
-      "date": "2026-07-06",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/advate",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "紐威智商",
-      "summary": "產品核准資訊適用於患有 A 型血友病的成人和兒童： • 按需治療和控制出血事件\n• 圍術期出血處理\n• 常規預防以減少出血頻率",
-      "source": "FDA Biologics",
-      "date": "2026-07-06",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/nuwiq",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "冠狀病毒 (COVID-19) | CBER 監管的生物製品",
-      "summary": "本頁面和相關連結提供與治療或預防 COVID-19 療法開發相關的指導和建議信息，以及尋求其他資訊或幫助的開發人員的聯絡資訊。",
-      "source": "FDA Biologics",
-      "date": "2026-07-06",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品程序 (SOPP)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
-      "source": "FDA Biologics",
-      "date": "2026-07-06",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "格拉西亞",
-      "summary": "產品核准資訊適用於因先天性缺乏 α-1-蛋白酶抑制劑 (Alpha1-PI)（也稱為 α1-抗胰蛋白酶）而患有肺氣腫的個體的慢性增強和維持治療。",
-      "source": "FDA Biologics",
-      "date": "2026-07-06",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/glassia",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "脊髓損傷市場規模預計到2036年將顯著成長，DelveInsight預估",
-      "summary": "DelveInsight預估，脊髓損傷市場規模到2036年將顯著成長。",
+      "title": "DelveInsight 估計，到 2036 年，脊髓損傷市場規模預計將顯著成長",
+      "summary": "根據 DelveInsight Barchart.com 估計，到 2036 年將出現顯著成長",
       "source": "Barchart.com",
       "date": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU3pad2FTbkxiTzNxaDJlNENfWTRnUEVQRDVtdFRaVUxKbXFYRDd5WE1wQ2kzUWU3Ti1tbzdOVm5JRFVDcTNYQzRGN05URHFMRXNuOUpseDl1M0dfc2FTbGFfeEZpRUZJSUwyczFsOHBDYXlLaW9SRFdrQnlkaWtzSTdVTXd6cWFsa1dEMkliNG9uNnJlTHM4bVJaTUJ1cF9pNEt4SEd5UEZGZVJadU1IMFNaT1dJbThQUHpiWXgwaWxqM0dsQTZUVXF1Z01BaFcyRm5TSmFqejdOVXpz?oc=5",
@@ -114,7 +98,15 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "歐洲藥品管理局（EMA）在2025年核准了",
+      "title": "Asia-Pacific Genome Copy Number Quantification Assays - Market Analysis, Forecast, Size, Trends and Insights",
+      "summary": "陽離子分析 - 市場分析、預測、規模、趨勢和見解 IndexBox",
+      "source": "IndexBox",
+      "date": "2026-06-20",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdEttLXhKYXVKSS1BRkIzZEVGa2RUWmtRb0N6VEhoOWF1UUVDWi1OY2ptM0l3R3hsSUNSeWxGZ0hFY09OZVQzVGZoNUdwNE9pdEJJVnEweWM0UjRKV2pjaVFZWFdnUDg3YjIteHQzcGd1T0FJNW5OdkxnaEpoZXJLbk5TbTc3dFhDOHFueWRpdUFpVjEwQTZ0STQ5eDBBdTRJQ1lkY0hhSkNFX2tGRlZxbk5iR19GclU0SURmdjhoS3VQTE4yRTFOaFo4aTItWjA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "歐洲藥品管理局（EMA） 將於 2025 年批准 104 種人類藥物",
       "summary": "",
       "source": "PharmTech.com",
       "date": "2026-06-11",
