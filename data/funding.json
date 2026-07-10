@@ -1,10 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-07-10T13:08:51.091773+00:00",
+  "updated": "2026-07-10T23:49:35.235922+00:00",
   "items": [
     {
-      "title": "ARPA-H 啟動1.6億美元計畫，開發客製化基因編輯藥物",
-      "summary": "ARPA-H 原本要加速客製化基因編輯療法的計畫，因為政府換屆延宕了一陣子。現在，終於有七家實驗室將獲得大筆補助金。",
+      "title": "STAT+：羅氏終止亨廷頓基因沉默項目",
+      "summary": "ARPA-H 推出客製化基因療法計劃，禮來 (Lilly) 和 Novo 推廣 Bridge 計劃，以及更多來自 The Readout 的生物技術新聞",
+      "source": "STAT News",
+      "date": "2026-07-10",
+      "url": "https://www.statnews.com/2026/07/10/biotech-news-roche-ends-huntingtons-gene-silencing-program/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "ARPA-H 投入 1.6 億美元用於定製藥物治療； Biohaven 改變科學領導地位",
+      "summary": "ARPA-H 計畫可以為研究人員提供開發個人化基因編輯藥物的路線圖。在其他地方，肉毒桿菌的競爭對手成功治療了偏頭痛，並達成了兩筆交易。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-10",
+      "url": "https://www.biopharmadive.com/news/biohaven-arpa-thrive-tarsus-ipsen-dysport-scipher/824825/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：ARPA-H 投入 1.6 億美元開發客製化基因編輯藥物",
+      "summary": "一項旨在快速啟動客製化基因編輯治療的 ARPA-H 計劃因管理部門的變化而被推遲。現在七個實驗室將獲得大量資助。",
       "source": "STAT News",
       "date": "2026-07-09",
       "url": "https://www.statnews.com/2026/07/09/arpa-h-160-million-custom-gene-editing-funding-rare-disease/?utm_campaign=rss",
@@ -51,14 +67,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Vertex 將以 10B 美元收購 Crinetics，進軍內分泌疾病藥物領域",
-      "summary": "Vertex 聲稱，這筆交易中的兩種藥物最終每年可帶來超過 50 億美元的收入。儘管如此，它所付出的高昂代價還是引起了分析師和投資人的爭論。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-07",
-      "url": "https://www.biopharmadive.com/news/vertex-crinetics-acquire-deal-palsonify-acromegaly/824545/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "基因編輯開發商 Scribe 計畫首次公開募股",
       "summary": "",
       "source": "BioPharma Dive",
@@ -67,8 +75,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "SonoThera 募得 1.25 億美元 B 輪資金，推進更安全的基因療法",
-      "summary": "更安全的基因療法 BioSpace",
+      "title": "SonoThera 獲得 1.25 億美元的 B 輪融資，以推進更安全的基因療法",
+      "summary": "更安全的基因療法",
       "source": "BioSpace",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUtlX0FJZlh1dVhnTlBka0VCc3BRTVduVmdITEdJQndaQ2NoR0NfbWtNRWZRS2hBdzIxX1Y3cDktQ1hPSUNZWjZKUHYyV3ByQUl1TGFpMjhCNTl0TzdwWjczem4tNXNqaEMwalFxNDFDVjZCOEx3QmJJYXNjR0g5MjRibkQyNmZUaE9VMEs2NDhBVjZDbnV3cFVB?oc=5",
