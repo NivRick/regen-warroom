@@ -1,6 +1,6 @@
 {
   "module": "apac",
-  "updated": "2026-07-10T00:00:06.416172+00:00",
+  "updated": "2026-07-10T13:07:29.279098+00:00",
   "items": [
     {
       "title": "HHS 加速藥物研究的計劃不會消除「自我造成的」延誤",
@@ -8,6 +8,14 @@
       "source": "BioPharma Dive",
       "date": "2026-07-09",
       "url": "https://www.biopharmadive.com/news/hhss-plan-speed-drug-rd-pharma-ai-drug/824759/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "亞洲的超級老化社會正在引發高端長壽診所的熱潮——儘管「公眾熱情」已經超過了科學的發展速度",
+      "summary": "高端長壽診所的蓬勃發展——即使“公眾熱情”超過了科學財富 - 手機財富中文網",
+      "source": "Fortune",
+      "date": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1heEZWOXZHZllqZmtHNGx6SEdSUDIwR3JxTmZtd1NEelFXQmk0U09vQWh6alRGTENkaDdjc1ZfNlprbEN1b0o0bm5EUS1WMU1MbXE2MFltb2NEQzAtV3FJMzBvVjVHbmhzTV81bWFMWUl4QWstZGszWENXUQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -19,8 +27,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Kailera表示減肥藥在中國的後期試驗取得成功",
-      "summary": "該藥物在 10 個月內使體重減輕了約 10%，儘管這一發現伴隨著胃腸道副作用的高發生率，這讓一位分析師「震驚」。",
+      "title": "Kailera宣布肥胖症口服藥在中國後期臨床試驗傳出捷報",
+      "summary": "Kailera宣布其肥胖症口服藥在中國後期臨床試驗中取得成功，患者平均減重約10%。不過，高比例的腸胃道副作用，仍引發市場關注。",
       "source": "BioPharma Dive",
       "date": "2026-07-07",
       "url": "https://www.biopharmadive.com/news/kailera-hengrui-obesity-pill-china-study-results/824570/",
@@ -35,8 +43,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫療 Market Size to Hit USD 234.85 Billion by 2035",
-      "summary": "到 2035 年將達到 2,348.5 億美元 先行研究",
+      "title": "再生醫學市場規模預計在2035年達到2348.5億美元",
+      "summary": "根據Precedence Research報告，再生醫學市場規模預計在2035年達到2348.5億美元。",
       "source": "Precedence Research",
       "date": "2026-07-02",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tN2JFWlpOTTJCUWdoSG9ZZlpTblpEelkzVi1GNlhNWVZRem1IRUdfNldOaVdLMDBpWVVXaXB5Z1UtWlEwWmptT0JaM05BVGNDOENOTlcteGFDY215YTdQTUE0WDFjNktjS1BhZlBVaXg?oc=5",
@@ -51,8 +59,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "細胞與基因治療市場規模、分享| 2034 年成長報告",
-      "summary": "| 2034 年成長報告《財星》商業洞察",
+      "title": "細胞與基因療法市場規模、市佔率與成長報告（2034年）",
+      "summary": "根據Fortune Business Insights的成長報告，預估2034年細胞與基因療法市場將持續成長。",
       "source": "Fortune Business Insights",
       "date": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjd6aFlfQzVpQjcwOF9xTUxnbENhcjAxOTh1UmlsbDhfeVFfaEVBbVNiWklOQ2JfTVZTZTRjSW5VMF94V0dUOFQxWlVsRUpieHhjc0M1aGJiR2JmU1E2ZXkydHpxNjlyVW81ZlRSbmNDTFJSSGVOM3FGYTVhUFNGTQ?oc=5",
@@ -73,8 +81,8 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQ2dQSDNoNUpCam4yY3ppTndMUXlJYzR4bW5FeW5uRzQwNzJLcE5hc3NXSmVoemVuSHpyWUQtNUFieWtFMVItNVpJOXlPM25tQ09tM0R1MnBlS29rbHpZ?oc=5"
     },
     {
-      "title": "再生醫療 Market Size to Surpass USD 234.85 Billion by 2035 as AI, 幹細胞 Therapy, and 3D Bioprinting Revolutionize Healthcare",
-      "summary": "人工智慧、幹細胞療法和 3D 生物列印將徹底改變醫療保健產業，到 2035 年將達到 2,348.5 億美元",
+      "title": "再生醫學市場規模預計在2035年突破2348.5億美元，人工智慧（AI）、幹細胞療法與3D生物列印將徹底改變醫療保健產業",
+      "summary": "BioSpace指出，隨著人工智慧（AI）、幹細胞療法和3D生物列印革新醫療，再生醫學市場規模預計在2035年將突破2348.5億美元。",
       "source": "BioSpace",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMzViY0hJS2JZVXpONklyNnh2ZzViTHZjSUlaZEhPLWoxNHUwVzhQNXEyYUJNMkR3RGxCa2pnaWxBb2RlYUxiNzR4dHc4U2FLSGpnT1JEY2t1aDRfWmxhaGV2SGUtVl9QTmNXVzYwbGZrLTQzMGZjTlBac1YwRXY0eDBNdUpKeS1wV29zWWwzb004NEViMFJkY2JSelprWl9LN0l0ZGUtckZRVEhwOUd5Y2Y1SDhrRjhSWVFVZjlSaWhlcWVLWFBEajVzUlJicGh1RHp6XzE0V25SVGRWVEY1TDFBRTFDWURnZldtdk05aWoyTnVMSFp2QWI1dXczam1SLTV3M2Z6OEd4MTg?oc=5",
