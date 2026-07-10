@@ -1,29 +1,29 @@
 {
   "module": "funding",
-  "updated": "2026-07-09T13:46:23.195024+00:00",
+  "updated": "2026-07-10T00:01:05.151351+00:00",
   "items": [
     {
-      "title": "STAT+：拯救葛蕾絲的探索－並為世界各地的罕見疾病患者掃清道路",
-      "summary": "一位父親的追求如何塑造罕見疾病基因治療的未來。",
+      "title": "STAT+: ARPA-H launches $160 million effort to develop custom gene editing drugs",
+      "summary": "An ARPA-H program to jump-start custom gene editing treatments was delayed by a change in administrations. Now seven labs will get sizable grants.",
+      "source": "STAT News",
+      "date": "2026-07-09",
+      "url": "https://www.statnews.com/2026/07/09/arpa-h-160-million-custom-gene-editing-funding-rare-disease/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: The quest to save Grace — and clear the way for rare disease patients everywhere",
+      "summary": "How a father’s quest may shape the future of rare disease 基因療法.",
       "source": "STAT News",
       "date": "2026-07-09",
       "url": "https://www.statnews.com/2026/07/09/matt-wilsey-grace-science-rare-disease-drug-development-ngly1/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：歐洲將加快 RevMed 藥物的審查",
-      "summary": "Kailera 的 GLP-1 藥丸數據引發擔憂，美國食藥局（FDA） 批准 Vera 自體免疫療法，以及更多來自 The Readout 的生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-07-08",
-      "url": "https://www.statnews.com/2026/07/08/biotech-news-europe-will-accelerate-its-review-of-revmed-cancer-drug/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關 Vera 腎臟藥物批准、英國 Enhertu 定價交易等的信息",
-      "summary": "美國食藥局（FDA） 批准了 Vera Therapeutics 公司的一種腎病藥物 Trutakna，用於治療 IgA 腎病",
-      "source": "STAT News",
-      "date": "2026-07-08",
-      "url": "https://www.statnews.com/pharmalot/2026/07/08/fda-approves-vera-kidney-drug-uk-enhertu-pricing-deal/?utm_campaign=rss",
+      "title": "GSK ends brain drug alliance with Alector",
+      "summary": "Clinical setbacks derailed what was once a potentially $2.2 billion deal that marked GSK's return to neuroscience.",
+      "source": "BioPharma Dive",
+      "date": "2026-07-09",
+      "url": "https://www.biopharmadive.com/news/gsk-alector-deal-end-terminate-brain-drugs-neuroscience/824815/",
       "lang": "zh-TW"
     },
     {
@@ -36,55 +36,47 @@
     },
     {
       "title": "Prime 贏得基因編輯爭議； Saol 聲稱最新的 Makary 美國食藥局（FDA） 逆轉",
-      "summary": "仲裁小組裁定 Prime 開發罕見疾病治療藥物並未違反與 Beam 的協議。在其他地方，歐洲監管機構正在使用胰臟癌藥物來測試新的審查框架。",
+      "summary": "An arbitration panel ruled Prime didn&rsquo;t breach a deal with Beam by developing a rare disease treatment. Elsewhere, European regulators are using a pancreatic cancer drug to test a new framework for reviews.",
       "source": "BioPharma Dive",
       "date": "2026-07-08",
       "url": "https://www.biopharmadive.com/news/prime-beam-aatd-saol-fda-ema-daraxonrasib-cyllene/824574/",
       "lang": "zh-TW"
     },
     {
-      "title": "Oberland 斥資 4 億美元用於 MeiraGTx 眼部基因療法",
-      "summary": "這項融資交易是對多個處於後期開發階段的潛在客戶的銷售潛力投下的信任票——其中一個是 MeiraGTx 最近從強生公司重新收購的。",
+      "title": "Oberland pours up to $400M into MeiraGTx eye gene therapies",
+      "summary": "The funding deal is a vote of confidence in the sales potential of multiple prospects in late-stage development &mdash; one of which MeiraGTx recently reacquired from J&J.",
       "source": "BioPharma Dive",
       "date": "2026-07-07",
       "url": "https://www.biopharmadive.com/news/meiragtx-oberland-royalty-financing-eye-gene-therapy/824567/",
       "lang": "zh-TW"
     },
     {
-      "title": "Vertex 將以 10B 美元收購 Crinetics，進軍內分泌疾病藥物領域",
-      "summary": "Vertex 聲稱，這筆交易中的兩種藥物最終每年可帶來超過 50 億美元的收入。儘管如此，它所付出的高昂代價還是引起了分析師和投資人的爭論。",
+      "title": "Vertex to acquire Crinetics in $10B foray into endocrine disease drugs",
+      "summary": "Vertex claimed the two drugs in the deal could eventually bring in more than $5 billion annually. Still, the high price it paid stirred debate among analysts and investors.",
       "source": "BioPharma Dive",
       "date": "2026-07-07",
       "url": "https://www.biopharmadive.com/news/vertex-crinetics-acquire-deal-palsonify-acromegaly/824545/",
       "lang": "zh-TW"
     },
     {
-      "title": "基因編輯開發商 Scribe 計畫首次公開募股",
-      "summary": "這家加州製藥商與百健 (Biogen)、賽諾菲 (Sanofi) 和禮來 (Eli Lilly) 都有合作，可能成為 2026 年上市的第 14 家生技公司。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-06",
-      "url": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-listing/824469/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "諾華將以高達 $1.5B 的交易收購 ADC 開發商",
-      "summary": "該交易提供了兩種針對細胞生長具有不同作用機制的 ADC，標誌著諾華進入 ADC 開發領域。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-06",
-      "url": "https://www.biopharmadive.com/news/novartis-acquire-adc-developer-myricx-deal-15b/824450/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 籌款追蹤器 '26：Celea 為 PureTech IPF 藥物的 3 期研究籌集了 1.8 億美元",
-      "summary": "Celea 籌集了 1.8 億美元用於 PureTech IPF 藥物 Fierce Biotech 的 3 期研究",
+      "title": "Fierce Biotech Fundraising Tracker '26: Celea raises $180M for 第三期試驗 study of PureTech IPF drug",
+      "summary": "Celea raises $180M for 第三期試驗 study of PureTech IPF drug Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-07-06",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "SonoThera 獲得 1.25 億美元的 B 輪融資，以推進更安全的基因療法",
-      "summary": "更安全的基因療法",
+      "title": "Gene editing developer Scribe plots an 首次公開上市（IPO）",
+      "summary": "",
+      "source": "BioPharma Dive",
+      "date": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNmpQZjBpcWk4eGNpbks0TEVpeF9DRGpBMGplSFplb2R6Z25IdHZFeHBaYmhCdDd2eTlFYURweUgxZm4tSkhCT2h6T29jbE96QnlheF9SZTRfd1NuMEJ3MUtoT3Rsa01yc09aSDBqOWtYcXI5ZnU3ZktwbU5kWm8?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "SonoThera bags $125M B輪融資 to advance safer gene therapies",
+      "summary": "safer gene therapies BioSpace",
       "source": "BioSpace",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUtlX0FJZlh1dVhnTlBka0VCc3BRTVduVmdITEdJQndaQ2NoR0NfbWtNRWZRS2hBdzIxX1Y3cDktQ1hPSUNZWjZKUHYyV3ByQUl1TGFpMjhCNTl0TzdwWjczem4tNXNqaEMwalFxNDFDVjZCOEx3QmJJYXNjR0g5MjRibkQyNmZUaE9VMEs2NDhBVjZDbnV3cFVB?oc=5",

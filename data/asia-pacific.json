@@ -1,6 +1,6 @@
 {
   "module": "apac",
-  "updated": "2026-07-09T13:45:21.945480+00:00",
+  "updated": "2026-07-10T00:00:06.416172+00:00",
   "items": [
     {
       "title": "HHS 加速藥物研究的計劃不會消除「自我造成的」延誤",
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2035年再生醫學市場規模將達2,348.5億美元",
+      "title": "再生醫療 Market Size to Hit USD 234.85 Billion by 2035",
       "summary": "到 2035 年將達到 2,348.5 億美元 先行研究",
       "source": "Precedence Research",
       "date": "2026-07-02",
@@ -51,20 +51,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "AbClon 與 GC Biopharma 合作使用專有抗體開發體內 CAR-T細胞療法",
-      "summary": "使用專有抗體的 CAR-T細胞療法 koreabiomed.com",
-      "source": "koreabiomed.com",
-      "date": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41TFpxMURGd1htSXV1eXM0djQ1X3FCbFh4OGZEOWlfeWxWYVNyblZTQllkc2pNVWJFTVY5VnFqdVljQnN6NmRhamlUSjlKa1hkVmlENEx4bjJrblpfWlhMVEMxUU8wbi1HblRiRjRR0gFyQVVfeXFMT096TENNV0U4WndxTExiNHpSendOUzI3al9rb0g0QTdST1JQc0I4YXNjaGM2cHVwdWl0cUliR0I3cnlCM2EtZHo2ZVdpdUs2MDZQNjA4MGc3cjNCV1gtMW5VS0h3WmxJSmNKb0h2SkZ4c2l3?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "細胞與基因治療市場規模、分享| 2034 年成長報告",
       "summary": "| 2034 年成長報告《財星》商業洞察",
       "source": "Fortune Business Insights",
       "date": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjd6aFlfQzVpQjcwOF9xTUxnbENhcjAxOTh1UmlsbDhfeVFfaEVBbVNiWklOQ2JfTVZTZTRjSW5VMF94V0dUOFQxWlVsRUpieHhjc0M1aGJiR2JmU1E2ZXkydHpxNjlyVW81ZlRSbmNDTFJSSGVOM3FGYTVhUFNGTQ?oc=5",
       "lang": "zh-TW"
+    },
+    {
+      "title": "沛爾CAR-T拚年底取藥證　tcmc廠啟用攻細胞治療",
+      "summary": "",
+      "source": "經濟日報",
+      "date": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQRDVub0tMVWFSc29sc0luU1JTUWZpSjd2WHNOb204eXRPTk9NTFQzU3Q0VExXNHhoRDNCY3QwV3lVaG0xMkZoLW9qQ2JRYnhwbGJ3cGQ0Wkt6dzTSAWBBVV95cUxQcGsxTEIwZy1CdDlDeGRlUnF4VEhGa2VaTnlLSzQ0UWdkbmlxdWxoZGl6a0dPLVBnMWlTRHAwSXVwNlpUc0lDTUlSeTZOZXFqU0pZZmU0OEVPU1d3YTV6WXk?oc=5"
     },
     {
       "title": "沛爾 CAR-T 拚年底取藥證，tcmc 廠啟用攻細胞治療",
@@ -74,14 +73,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQ2dQSDNoNUpCam4yY3ppTndMUXlJYzR4bW5FeW5uRzQwNzJLcE5hc3NXSmVoemVuSHpyWUQtNUFieWtFMVItNVpJOXlPM25tQ09tM0R1MnBlS29rbHpZ?oc=5"
     },
     {
-      "title": "沛爾CAR-T拚年底取藥證 tcmc廠啟用攻細胞治療",
-      "summary": "",
-      "source": "信吉衛視+",
-      "date": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMzJCWE5ranVVdzRyNUI5V2JieWxaYWdzaTZxUzR1Zlk1Z2FFNjhpUUFhZDJqX1NkTGd5Z2c1MUx0ZTRWU2xvSFRmSW91ekE?oc=5"
-    },
-    {
-      "title": "隨著人工智慧、幹細胞療法和 3D 生物列印徹底改變醫療保健，再生醫學市場規模到 2035 年將超過 2,348.5 億美元",
+      "title": "再生醫療 Market Size to Surpass USD 234.85 Billion by 2035 as AI, 幹細胞 Therapy, and 3D Bioprinting Revolutionize Healthcare",
       "summary": "人工智慧、幹細胞療法和 3D 生物列印將徹底改變醫療保健產業，到 2035 年將達到 2,348.5 億美元",
       "source": "BioSpace",
       "date": "2026-06-11",
