@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-10T23:49:17.139667+00:00",
+  "updated": "2026-07-11T11:47:35.320971+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑最新動態",
+      "summary": "這是來自美國食品藥物管理局生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品程序 (SOPP)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
+      "title": "生物製劑相關程序（SOPPs）",
+      "summary": "這些標準作業程序與政策（SOPPs）供美國食品藥物",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -59,8 +59,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Texas Biomed與美國戰爭部（U.S. Dept. of War）簽署合作研發協議（CRADA），共同防範生物威脅",
-      "summary": "這項合作研發協議（CRADA）的框架，旨在確保能提供關鍵資源，以有效防範來自自然新興疾病或人為設計風險的生物威脅。",
+      "title": "Texas Biomed與美國戰爭部簽署合作研發協議（CRADA），共同防範生物威脅",
+      "summary": "這項合作研發協議（CRADA）旨在確保關鍵資源到位，以有效應對來自自然新興疾病或人為風險的生物威脅。",
       "source": "GEN News",
       "date": "2026-07-09",
       "url": "https://www.genengnews.com/topics/infectious-diseases/texas-biomed-enters-into-a-crada-with-the-u-s-dept-of-war-to-help-protect-against-biological-threats/",
@@ -75,16 +75,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "脊髓損傷市場規模預估2036年將顯著成長，DelveInsight看好",
-      "summary": "市場研究機構DelveInsight預估，全球脊髓損傷（SCI）市場規模到2036年將顯著擴大，顯示此領域的巨大成長潛力。",
+      "title": "脊髓損傷市場規模預估到2036年將大幅成長，DelveInsight報告指出",
+      "summary": "DelveInsight報告預估，脊髓損傷市場規模到2036年將迎來顯著成長。",
       "source": "Barchart.com",
       "date": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU3pad2FTbkxiTzNxaDJlNENfWTRnUEVQRDVtdFRaVUxKbXFYRDd5WE1wQ2kzUWU3Ti1tbzdOVm5JRFVDcTNYQzRGN05URHFMRXNuOUpseDl1M0dfc2FTbGFfeEZpRUZJSUwyczFsOHBDYXlLaW9SRFdrQnlkaWtzSTdVTXd6cWFsa1dEMkliNG9uNnJlTHM4bVJaTUJ1cF9pNEt4SEd5UEZGZVJadU1IMFNaT1dJbThQUHpiWXgwaWxqM0dsQTZUVXF1Z01BaFcyRm5TSmFqejdOVXpz?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲藥品管理局（EMA）逆轉對Acadia治療雷特氏症藥物Daybu的立場",
-      "summary": "BioWorld News指出，歐洲藥品管理局（EMA）已改變對Acadia公司雷特氏症（Rett syndrome）療法Daybu的態度，此決定將對該藥在歐洲的上市前景產生關鍵影響。",
+      "title": "歐洲藥品管理局（EMA）改變對Acadia公司雷特氏症療法Daybu的態度",
+      "summary": "BioWorld News指出，歐洲藥品管理局（EMA）已改變對Acadia公司雷特氏症療法Daybu的立場。",
       "source": "BioWorld News",
       "date": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYy1lMmV3ajlMUUxKQ3J2OEJFRnR4X19aUEdXWUxpeXRDUkpNOUJtLU8yLVM2a3FqY0hiMy12ZlJDVE5lTGZ4enJqNUpUM1VQWEdkYUZXWXpidjVDaWhDamFLZ05mczhZSmZiUEpxV3J0eDF0NVVteF9GM3U2cndUUWlNTEgtQk8zQWV5LTBlYnhrc283YWhmeldqZjVweVU5QzRWTkhB?oc=5",
@@ -99,7 +99,7 @@
     },
     {
       "title": "歐洲藥品管理局（EMA）2025年核准104種人類用藥",
-      "summary": "歐洲藥品管理局（EMA）宣布，2025年共核准了104種人類用藥，顯示歐洲新藥上市的豐碩成果，為病患帶來更多治療選擇。",
+      "summary": "歐洲藥品管理局（EMA）宣布，2025年共核准了104種人類用藥，顯示新藥上市速度穩定。",
       "source": "PharmTech.com",
       "date": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
