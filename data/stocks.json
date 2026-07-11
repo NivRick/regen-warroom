@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-11T11:49:11.183981+00:00",
+  "updated": "2026-07-11T23:44:10.719801+00:00",
   "stocks": [
+    {
+      "code": "1784",
+      "name": "訊聯",
+      "tier": "上游",
+      "close": "69.10",
+      "change": "-1.20",
+      "change_pct": -1.71,
+      "date": "115/07/11",
+      "market": "OTC"
+    },
     {
       "code": "4170",
       "name": "鑫品生醫",
@@ -20,6 +30,26 @@
       "change_pct": -1.2,
       "date": "115/07/11",
       "market": "ESB"
+    },
+    {
+      "code": "6461",
+      "name": "益得",
+      "tier": "上游",
+      "close": "16.10",
+      "change": "-0.35",
+      "change_pct": -2.13,
+      "date": "115/07/11",
+      "market": "OTC"
+    },
+    {
+      "code": "6712",
+      "name": "長聖",
+      "tier": "上游",
+      "close": "175.50",
+      "change": "-7.50",
+      "change_pct": -4.1,
+      "date": "115/07/11",
+      "market": "OTC"
     },
     {
       "code": "6794",
@@ -92,6 +122,16 @@
       "market": "ESB"
     },
     {
+      "code": "6986",
+      "name": "和迅",
+      "tier": "上游",
+      "close": "47.00",
+      "change": "-0.55",
+      "change_pct": -1.16,
+      "date": "115/07/11",
+      "market": "OTC"
+    },
+    {
       "code": "6748",
       "name": "亞果生醫",
       "tier": "中游",
@@ -132,6 +172,26 @@
       "market": "TWSE"
     },
     {
+      "code": "3118",
+      "name": "進階",
+      "tier": "下游",
+      "close": "----",
+      "change": "0.00",
+      "change_pct": 0.0,
+      "date": "115/07/11",
+      "market": "OTC"
+    },
+    {
+      "code": "3224",
+      "name": "三顧",
+      "tier": "下游",
+      "close": "37.05",
+      "change": "-0.70",
+      "change_pct": -1.85,
+      "date": "115/07/11",
+      "market": "OTC"
+    },
+    {
       "code": "6550",
       "name": "北極星藥",
       "tier": "下游",
@@ -140,6 +200,16 @@
       "change_pct": -2.99,
       "date": "115/07/09",
       "market": "TWSE"
+    },
+    {
+      "code": "6662",
+      "name": "樂斯科",
+      "tier": "下游",
+      "close": "29.40",
+      "change": "-0.30",
+      "change_pct": -1.01,
+      "date": "115/07/11",
+      "market": "OTC"
     },
     {
       "code": "6814",

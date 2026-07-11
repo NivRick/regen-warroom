@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-07-11T11:46:23.703180+00:00",
+  "updated": "2026-07-11T23:43:02.787055+00:00",
   "items": [
     {
       "title": "高效表達全長三股螺旋重組第三型膠原蛋白",
-      "summary": "這項研究成功開發出高效表達全長三股螺旋重組第三型膠原蛋白的技術。第三型膠原蛋白（COL3A1）在血管與皮膚組織中扮演關鍵角色，對於傷口癒合與組織修復至關重要",
+      "summary": "這項研究成功開發高效表達全長三股螺旋重組第三型膠原蛋白的技術，有望應用於組織修復與再生醫學。",
       "source": "PubMed",
       "date": "2026-07-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化 SNAP™-TIL（特異性新抗原勝肽-TIL）治療平台的臨床前概念驗證。",
-      "summary": "腫瘤浸潤淋巴細胞 (TIL) 療法涉及提取、擴增和重新註入免疫細胞以靶向癌細胞，該療法在黑色素瘤治療中已顯示出前景，但需要優化以獲得更廣泛的療效。 TIL 療法的成功取決於對腫瘤相關...",
+      "title": "個人化SNAP™-TIL（特定新抗原胜肽-腫瘤",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-07-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402813/",
@@ -68,14 +68,14 @@
     },
     {
       "title": "兒童骨肉瘤的免疫療法：現況與未來展望",
-      "summary": "兒童骨肉瘤在轉移性、復發性或難治型的治療上仍面臨巨大挑戰，臨床治療成效仍不盡理想。",
+      "summary": "兒童骨肉瘤在轉移、復發或難治的情況下，仍是治療上的一大挑戰，其臨床預後...",
       "source": "PubMed",
       "date": "2026-07-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42366590/",
       "lang": "zh-TW"
     },
     {
-      "title": "漸凍症（ALS）的治療新前線：誘導型多",
+      "title": "漸凍症（ALS）的治療新前線：誘導型多功能幹細胞（",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-11",
@@ -132,15 +132,15 @@
     },
     {
       "title": "熱驅動3D可摺疊生物電子介面，用於人類脊髓類器官的多模式電生理與細胞激素分析",
-      "summary": "三維（3D）類器官為研究人類神經發育與疾病提供了生理相關模型；然而，穩定的生物電子...",
+      "summary": "三維（3D）類器官為研究人類神經發育與疾病提供了生理相關模型，然而，穩定的生物電子介面仍是挑戰。",
       "source": "PubMed",
       "date": "2026-07-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42361605/",
       "lang": "zh-TW"
     },
     {
-      "title": "仿生骨膜的",
-      "summary": "",
+      "title": "仿生骨膜的免疫調節細胞骨架影響粒線體動力學以促進成骨。",
+      "summary": "骨膜是骨修復免疫微環境的關鍵調節樞紐，骨髓間質幹細胞（BMSCs）的粒線體動態直接決定成骨效率；因此，如何透過粒線體動力學的免疫調節來促進骨癒合...",
       "source": "PubMed",
       "date": "2026-07-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42338506/",
@@ -179,8 +179,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "針對漸凍人症（ALS）患者，以注射方式移植人類膠質限制性前驅細胞（hGRPs; Q-Cells®）的安全性一/二期臨床試驗",
-      "summary": "狀態：尚未招募｜主辦：Q Therapeutics, Inc.｜這項研究是一項非隨機、開放",
+      "title": "第一/二期臨床試驗：評估人類膠質限制性前驅細胞 (hGRPs; Q-Cells®) 移植治療肌萎縮性脊髓側索硬化症 (ALS) 患者的安全性",
+      "summary": "狀態：尚未招募｜主辦：Q Therapeutics, Inc.｜這項非隨",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-11",
       "url": "https://clinicaltrials.gov/study/NCT02478450",
@@ -212,7 +212,7 @@
     },
     {
       "title": "沉浸式虛擬實境應用於細胞治療的治療性體能運動",
-      "summary": "狀態：尚未招募｜主辦：加利西亞南部生物醫學基金會｜本研究將沉浸式虛擬實境應用於細胞治療（CT），包括造血幹細胞移植（HSCT）及先進的",
+      "summary": "狀態：尚未招募｜主辦：加利西亞南部生物醫學基金會｜本研究探討細胞治療（CT），包括造血幹細胞移植（HSCT）與先進的嵌合抗原受體T細胞療法（",
       "source": "ClinicalTrials.gov｜Spain",
       "date": "2026-07-11",
       "url": "https://clinicaltrials.gov/study/NCT07679958",
@@ -251,22 +251,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 神經學綜述：2026 年 6 月",
-      "summary": "",
-      "source": "Medscape",
-      "date": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXNHRFFUd3hwYzZaSGVvVDYzUUpHTmhvZ1hMSEJFMGVhMlFuYTktbVN5ekNvYm1XZ0tDZkJzcU8ybzhNZmZOQnBMaE1janBTdWpvTEMzN0pzcWx5SWN3VFFfWUp6QnMzdXlZWWI4eHRLdlFIWDFqMTVrSURpTVF0WlRfc3J4c0tL?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "到 2035 年，亞太地區磁珠市場規模將達 69.5 億美元",
-      "summary": "到 2035 年將領先 69.5 億美元 Precedence Research",
-      "source": "Precedence Research",
-      "date": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3cXdrd3pDUmFCYm54b2w2ajU0VWsxQndvdFAwTG9vODA3UDdKUDRBVjhMSzBFeExNTm5xSXczbF9INU1ac19ySllpcl9FSDV1eVJjTEJVaEw5azNlclZaYmd4UFUyYTQzMGVZQjhROTh6Wm9FaTZhekZB?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "幹細胞療法在首次人類帕金森氏症試驗中顯示出前景",
       "summary": "為期一年的 I/II 期臨床研究結果支持將幹細胞衍生的多巴胺祖細胞移植到帕金森氏症患者大腦的可行性。人類帕金森氏症試驗後首次出現在 GEN - Ge 上",
       "source": "GEN News",
@@ -283,19 +267,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "重新定義早期腫瘤學研發：ASCO 2026 揭示了精準驅動開發的未來",
-      "summary": "2026 年揭示精密驅動開發技術網路的未來",
-      "source": "Technology Networks",
+      "title": "美國食藥局（FDA） 核准 Fate Therapeutics 的 FT839 進行自體免疫試驗",
+      "summary": "自體免疫試驗推股票泰坦",
+      "source": "Stock Titan",
       "date": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaFFPdTEza3pPay1DYWpRc3d2SW41bU9xTzRfdEkxTWRMSzcwWXJWR0FPcjZ5eHZxN0hLYzI0dVFaX2p2ZlFxbnlwSGJYcXFlWm5JZVdULWlVencwTjVnb1hCcHRYaDdlMTNMTXdwb2lVWEYzeUExcHJfS21YelVIRlZyUnNzM2dOUzFIVnNfbWVITk4xQ29fN3JnRWV0a1VvWGVfMUpDLU9uSGlrLTRKVkczaHcwLThoUTVWbkhaRVNDeF9FQkk4QV9zaWNCdjlQN3Z6U2t2Y3hhaE1qdXpvQ3ROVVNFVzZMQWdR?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "安斯泰來將在 ASRS 2026 年會上重點關注地理萎縮的新研究",
-      "summary": "ASRS 2026 年會上的地理萎縮",
-      "source": "BioSpace",
-      "date": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzUxMnE1aXpQY1FQT1dkNHhLRndXMzZZUWQ4ZzVtQldTNW5rOS1HdTJmWTBwRThCbUtiU0kzaFNXbENuUGVWOHhCaWtsYlVjYWF2MS1IM0dGVlNUTEpsUVU4ZXREclFzRjU3cFFHV2JXZ29TSHJaVEs2bDJ6NjJJM2lodHhSam9rZWpGcHgwTkMzN05oWFRHa2tUMXZIbWRYV0JHZHBVMURFREhCV2tsQXp0SXdtWDNvVmpIWHNzRVhybFU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUtOYnV0S2hSNGMzUHNNVzlTUTNFajl6TllhelNuZkc1c052WF9NZ0ZCQ0VscWFQN2lRdlQxSEJfSDhWQTdCRWVlS3VSbHAtbjF1bE1zQ0Fob0o0R3ljbUtTSHpaZjFENmRSQjNQRkJseGFtMkdJSk5rVzNXU2RxejBqZlV5YlRDR29mbGJQX0dTbGtiSFRuNGtuTXJLeVNkOFJZVGJ3MWlUMURHMDR1MEh0U3AyR29aYmV6Ui1QSkU?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -340,7 +316,7 @@
     },
     {
       "title": "[EARLY_PHASE1] 212Pb-Pentixather 放射性配體治療的安全性研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Yusuf Menda｜This is a first-in-human 臨床試驗 evaluating the safety of an alpha-radiation treatment (Lead-212 labelled Pentixather) in patients who have been diagnosed with, and previously treated, for atypical carcinoid lesions of the lung.",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Yusuf Menda｜這是一項首次人體臨床試驗，評估 α 放射治療（Lead-212 標記的 Pentixather）對已被診斷為肺部非典型類癌病變且既往接受過治療的患者的安全性。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-01",
       "url": "https://clinicaltrials.gov/study/NCT05557708",
@@ -349,7 +325,7 @@
     {
       "title": "[不適用] 使用能譜血管 CT 影像導引進行微創癌症治療的登記",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Mark C Burgmans, MD 博士｜這項研究收集了在荷蘭和法國參與醫院接受微創、影像引導癌症治療的患者的數據。所有治療均按照標準臨床護理進行，包括腫瘤等程序",
-      "source": "ClinicalTrials.gov｜Netherlands, France",
+      "source": "ClinicalTrials.gov｜France, Netherlands",
       "date": "2026-07-01",
       "url": "https://clinicaltrials.gov/study/NCT07636148",
       "lang": "zh-TW"
@@ -387,8 +363,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Tinlarebant 針對 1 型 Stargardt 病的 NDA 提交已完成，針對首個獲批療法",
-      "summary": "Stargardt 病 1 型，針對第一個批准的治療方法 眼科時代歐洲",
+      "title": "Tinlarebant 完成新藥查驗登記（NDA）申請，目標成為第一型史塔加氏症首款獲核准療法",
+      "summary": "Tinlarebant已完成新藥查驗登記（NDA）申請，劍指第一型史塔加氏症的首款核准療法，為病患帶來新希望。",
       "source": "Ophthalmology Times Europe",
       "date": "2026-06-17",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM09KaW04aTNIaWRhdkx3dHh3YUdaUUd0UkU2bGJXQmZXX3ByekVabFduUEtINkNZV3JNbWJhSXVzc2xoeG9udlpoWEd6dk84NlR3ZUNsOWkzZWFicjRSbUlBRzdMQ19PbGM0eWlsR3lBd3pxVGRJTzhRQ0ppbTlGTlluTzRxYnB2VnF4dkpkbzRKR0ZIOGNxaVpn?oc=5",
@@ -400,6 +376,22 @@
       "source": "Penn Medicine",
       "date": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGl6OE54X3NXY19qTEQyX2ZtR2NyelFWcGc4cUhTRkQxLU4yNDZobjBTS1FDeFcwNUtsNm9xUEhuYTZCWFBSNWpjUjgyUjBzek9pRHZGUHNZM3llU0lsZXEzVUtSczBzSkZmMGE2VUdRTGpxRl81RFRnTVdfbzJVM2xnQnAydzl0eGE0YUpCUTNqdmVNcmI1WQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "CAR-T細胞療法 療法對於難治​​性白血病患者的效果比預期要好",
+      "summary": "有望治癒難以治療的白血病患者",
+      "source": "Cure Today",
+      "date": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTGljb0FkTU5rRHlLclJUOXd0N3B0U2JnT2JLTHhxT1VldHhuWExDY3g0N1Fvd2kyd2luZ3ZDaTdvcFdWZHoxWllyQk01dGVORFI5Z2ZWR1hHTWNxWFQ0WHl4TGE4RF9yVW5Fa01tSGw4Ukl1bzBrSnJSNXRTQ3RZZVdZNXhmVkNUblQ4LVdaXzJIenpGRDJnU1doakFDaC1jNzJkbEk4bm1GWGhFNnNMamdnVUpURFJ4Vko4?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE2] 抗 CD19 CAR-T細胞療法 細胞治療對免疫抑制治療抗藥性的系統性硬化症的 IIa 期試驗",
+      "summary": "狀態：招募｜主辦：蒙彼利埃大學醫院｜這項臨床試驗的目標是評估抗 CD19 CAR-T細胞療法 細胞療法是否可以改善患有嚴重難治性系統性硬化症 (SSc) 成人的疾病活動度。該研究還將評估這種療法的安全性以及 CAR-T細胞療法-",
+      "source": "ClinicalTrials.gov｜France",
+      "date": "2026-06-11",
+      "url": "https://clinicaltrials.gov/study/NCT07493395",
       "lang": "zh-TW"
     }
   ]
