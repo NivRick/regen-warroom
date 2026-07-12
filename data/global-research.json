@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-07-12T11:54:23.621105+00:00",
+  "updated": "2026-07-12T23:43:26.755953+00:00",
   "items": [
     {
       "title": "高效表現全長三股螺旋重組第三型膠原蛋白",
-      "summary": "第三型膠原蛋白（COL3A1）在血管和皮膚組織中含量豐富，對傷口癒合與組織修復扮演關鍵角色。這項研究成功實現了全長三股螺旋重組第三型膠原蛋白的高效表現",
+      "summary": "第三型膠原蛋白（COL3A1）是血管和皮膚組織中豐富的纖維狀膠原蛋白，在傷口癒合和組織再生中扮演關鍵角色。",
       "source": "PubMed",
       "date": "2026-07-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化 SNAP™-TIL（特異性新抗原勝肽-TIL）治療平台的臨床前概念驗證。",
-      "summary": "腫瘤浸潤淋巴細胞 (TIL) 療法涉及提取、擴增和重新註入免疫細胞以靶向癌細胞，該療法在黑色素瘤治療中已顯示出前景，但需要優化以獲得更廣泛的療效。 TIL 療法的成功取決於對腫瘤相關...",
+      "title": "個人化SNAP™-TIL（特定新",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-07-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402813/",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "繞過多潛能性：從重新聚合的微脂肪直接分化成多譜系類器官的潛力",
-      "summary": "這項研究探索如何直接將重新聚合的微脂肪組織分化成多種細胞譜系的類器官。此方法有望簡化再生醫學的類器官培養流程，避開傳統多潛能",
+      "title": "繞過多能性：從再聚合微脂肪直接分化成多譜系類器官的潛力",
+      "summary": "類器官技術已成為再生醫學的強大工具；然而，目前的類器官技術主要基於多能性。",
       "source": "PubMed",
       "date": "2026-07-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42403587/",
       "lang": "zh-TW"
     },
     {
-      "title": "衰老代謝調節分層支架可恢復 NAD",
-      "summary": "衰老受損的骨修復提出了重大的臨床挑戰，這主要是由於衰老細胞驅動的代謝微環境失衡。目前的生物材料策略主要局限於提供被動機械支撐和/或提供治療因子，未能...",
+      "title": "調節衰老代謝的分層支架可恢復NAD+",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-07-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42395338/",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "嵌合抗原受體T細胞免疫療法在乳癌領域的知識圖譜與研究趨勢：一項文獻計量與視覺分析研究",
-      "summary": "嵌合抗原受體T細胞療法（CAR-T）在血液惡性腫瘤治療上已取得里程碑式的成功，目前正積極探索其在",
+      "title": "乳癌嵌合抗原受體T細胞免疫療法（CAR-T）的知識圖譜與研究趨勢：一項文獻計量與視覺分析研究",
+      "summary": "嵌合抗原受體T細胞療法（CAR-T）在血液腫瘤領域已取得里程碑式的成功，目前正積極探索其在乳",
       "source": "PubMed",
       "date": "2026-07-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42316771/",
@@ -155,7 +155,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 期]Zipalertinib 合併卡鉑和培美曲塞治療可切除的 II-IIIB 期非小細胞肺癌",
+      "title": "[第 2 期]Zipalertinib 合併卡鉑與培美曲塞治療可切除的 II-IIIB 期非小細胞肺癌",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Jonsson 綜合癌症中心｜這項 II 期試驗測試了 zipalertinib 聯合卡鉑和培美曲塞治療 II-IIIB 期非小細胞肺癌的效果。可以透過手術切除（可切除）。 Zipalertinib 可能會透過阻斷某些腫瘤細胞的生長來阻止腫瘤細胞的生長。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-12",
@@ -179,8 +179,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第1/2期臨床試驗：評估人類神經膠質限制性前驅細胞（hGRPs; Q-Cells®）注射移植於肌萎縮性脊髓側索硬化症（ALS）患者的安全性",
-      "summary": "這項第1/2期臨床試驗將評估人類神經",
+      "title": "[臨床一期, 臨床二期] 評估人類膠質限制性前驅細胞（hGRPs; Q-Cells®）注射移植治療漸凍人症患者的安全性研究",
+      "summary": "Q Therapeutics公司啟動一項針對漸凍人症患者的hGRPs細胞移植臨床試驗，目前尚未開始招",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-12",
       "url": "https://clinicaltrials.gov/study/NCT02478450",
@@ -188,7 +188,7 @@
     },
     {
       "title": "[PHASE1, PHASE2] 人類臍帶間質幹細胞早期股骨頭壞死的研究（19#iSCLife®-ONFH）",
-      "summary": "狀態：暫停｜主辦單位：蘇州聖隆生物科技有限公司｜研究的目的是評估人類臍帶間質幹細胞（hUC-MSC）治療股骨頭壞死的安全性和有效性。",
+      "summary": "狀態：暫停｜主辦單位：聖科諾生物科技有限公司｜研究的目的是評估人類臍帶間質幹細胞（hUC-MSC）治療股骨頭壞死的安全性和有效性。",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-12",
       "url": "https://clinicaltrials.gov/study/NCT03180463",
@@ -211,16 +211,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "沉浸式虛擬實境應用於細胞治療的治療性體能運動",
-      "summary": "狀態：尚未招募｜主辦單位：Fundacin Biomedica Galicia Sur｜這項研究探討細胞治療（CT），包括造血幹細胞移植（HSCT）與先進的嵌合抗原受體T細胞療法（",
+      "title": "沉浸式虛擬實境應用於細胞治療的復健運動",
+      "summary": "這項研究將探討沉浸式虛擬實境如何輔助細胞治療患者的復健運動，特別是造血幹細胞移植與CAR-T療法。",
       "source": "ClinicalTrials.gov｜Spain",
       "date": "2026-07-12",
       "url": "https://clinicaltrials.gov/study/NCT07679958",
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE2] SX-682 和 Atezolizumab 用於治療晚期或轉移性復發性非小細胞肺癌",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：華盛頓大學｜這項 II 期試驗測試了 SX-682 和 atezolizumab 治療非小細胞肺癌 (NSCLC) 的效果，這些肺癌可能已經從最初開始擴散到附近組織、淋巴結或身體遠處部位（晚期）或已擴散到其他肺癌部位的非小細胞（CNS）。",
+      "title": "SX-682與A",
+      "summary": "",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-12",
       "url": "https://clinicaltrials.gov/study/NCT07322341",
@@ -251,6 +251,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "美國食藥局（FDA） 神經學綜述：2026 年 6 月",
+      "summary": "",
+      "source": "Medscape",
+      "date": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXNHRFFUd3hwYzZaSGVvVDYzUUpHTmhvZ1hMSEJFMGVhMlFuYTktbVN5ekNvYm1XZ0tDZkJzcU8ybzhNZmZOQnBMaE1janBTdWpvTEMzN0pzcWx5SWN3VFFfWUp6QnMzdXlZWWI4eHRLdlFIWDFqMTVrSURpTVF0WlRfc3J4c0tL?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "幹細胞療法在首次人類帕金森氏症試驗中顯示出前景",
       "summary": "為期一年的 I/II 期臨床研究結果支持將幹細胞衍生的多巴胺祖細胞移植到帕金森氏症患者大腦的可行性。人類帕金森氏症試驗後首次出現在 GEN - Ge 上",
       "source": "GEN News",
@@ -259,19 +267,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "人類胚胎幹細胞分化出的多巴胺神經細胞用於帕金森氏症：一項一/二期開放標籤臨床試驗",
-      "summary": "報導帕金森氏症患者接受人類胚胎幹細胞分化出的多巴胺神經細胞治療，進入一/二期臨床試驗。",
+      "title": "人類胚胎幹細胞衍生的多巴胺能細胞治療帕金森氏症：1/2 期開放標籤試驗",
+      "summary": "神經細胞治療帕金森氏症：1/2 期開放標籤試驗 Nature",
       "source": "Nature",
       "date": "2026-07-09",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTNFhQeVBCNnJOVWNuSjdzN1gxZFpSTTBnT0wyMUVoQkNjN181S0lWcTZVeHdMdW1lSGdsUklac24wTTRuckk4S1FSaXlGS2p4Y0FQZ3FBQTlHMXFRNmhJ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 核准 Fate Therapeutics 的 FT839 進行自體免疫試驗",
-      "summary": "自體免疫試驗推股票泰坦",
-      "source": "Stock Titan",
+      "title": "首個臨床試驗評估幹細胞療法治療亨丁頓舞蹈症",
+      "summary": "針對亨丁頓舞蹈症，首個評估幹細胞療法的臨床試驗已展開，為患者帶來新希望。",
+      "source": "News-Medical",
       "date": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUtOYnV0S2hSNGMzUHNNVzlTUTNFajl6TllhelNuZkc1c052WF9NZ0ZCQ0VscWFQN2lRdlQxSEJfSDhWQTdCRWVlS3VSbHAtbjF1bE1zQ0Fob0o0R3ljbUtTSHpaZjFENmRSQjNQRkJseGFtMkdJSk5rVzNXU2RxejBqZlV5YlRDR29mbGJQX0dTbGtiSFRuNGtuTXJLeVNkOFJZVGJ3MWlUMURHMDR1MEh0U3AyR29aYmV6Ui1QSkU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUkpuaUVUZzV4dUMxN21NOXFVYWJ4bHM4N2Z3VUJYTHhMcWVkaUp4eHQ3RHhWQXFPX3l2c3pVbjVvaWVyOC1sTWdKdWpPRnVBcDlBZXFVUVNNSFpvWnFmbmdwX09ZX3FUNW15aVdaR0ttb3Z1MEVOVFJBSmtsT3lfeURWbUZjRnk4Yk5tZU9KZmtyUmkzdFZ5cl9vdmVSYTlkTDFlRlFsMldMZ3F0cU81ZklDbmRtOE1HWVBIWg?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -291,8 +299,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 批准首個基因治療技術治療鐮狀細胞疾病兒童",
-      "summary": "治療鐮狀細胞疾病兒童的方法 - 健康新聞",
+      "title": "Fate Therapeutics 公佈 ISSCR 2026 演講中系統性硬化症的 FT819 初步數據",
+      "summary": "ISSCR 2026 示範 Quiver 定量的 FT819 系統性硬化症數據",
+      "source": "Quiver Quantitative",
+      "date": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaHJtOU1oc04tdDB6LWtHSVFlVUtwREszeWgxWmhfc1lYYmlnYXpRR05mLUhzMGZZVkJuU0J5Z0FtU3E5elBtQ0Z1Smo4Y3NuOWxuaFFlc2pWUEdiTFp0S0pROUNWbW5XRC1nWXFscXVkZE8tN1FhMENXTEg2VjVIYjZ5UFk4bjNrMjdsTzQ4RHFCZ3FoSEZZVXY0cGhBcjRZSzBZdlhhWVVIdWN1ZEMzbnducXo0aUo0ZmJUYW84TG9vSWtOR3BPQ3o0eVVSdw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥署核准首款基因療法技術，用於治療鐮狀細胞貧血症兒童",
+      "summary": "美國食藥署核准首款基因療法，專門治療兒童鐮狀細胞貧血症，為病患帶來新希望。",
       "source": "The Well News",
       "date": "2026-07-02",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUlFUmlNR01Xc3NudlFZM2I2ZEJadnNjLU9aQ1ZITDdlaXJfbjRRMzR4elpCZmRmcEQwdE1xTHZTZV85RlZ5cWJhRlV3RDZCMmF5aF8zMjl0QmdTX0dyTVJUQy0ydUk0dUxOeExmYmRGTGVuMmc4UU4tWERVNERfOG5vTWZCcTdsbXo3V0lMNjc0U1QwYmVjeU5GeEhlYzRvcW1OWUZ1aHViSjl2cXI4ZkdVMFB5NEFyMDAwVGxn?oc=5",
@@ -371,14 +387,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞療法 Laromestrocel 治療輕度阿茲海默症的新 2a 期臨床數據分析被接受在 2026 年阿茲海默症協會國際會議 (AAIC) 上進行海報展示",
-      "summary": "幹細胞療法 Laromestrocel 治療輕度阿茲海默症被接受在 2026 年阿茲海默症協會國際會議 (AAIC) 上進行海報展示 雅虎財經",
-      "source": "Yahoo Finance",
-      "date": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzRhRTRBYVNnOW9CU2w1WnI0WDluWGswM2s1N2haRVFKdEQ1dGswcFVBNnBHc2dQZ2hXdjRBeVFiNmxTNzZhejN4b2FYTmhNdVNXQWJXaFBxdjh2eGJ0b1ZaX1hHLUN1c1lwNUxLYmktUWU1a1lTMUp0aVEtaUZreEhMc3hLanZ3VUJWU1E1WUt2bjAzTVBR?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "專員國家優先券 (CNPV) 試點計劃",
       "summary": "(CNPV) 試點計畫 美國食藥局（FDA）.gov",
       "source": "fda.gov",
@@ -387,8 +395,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Tinlarebant 針對第一型史塔加氏症完成新藥查驗登記（NDA）送件，劍指首款獲准療法",
-      "summary": "Tinlarebant 針對第一型史塔加氏症完成新藥查驗登記（NDA）送件，有望成為首款獲准療法。",
+      "title": "Tinlarebant 新藥申請（NDA）已完成送件，目標成為首款獲核准治療第一型史塔加氏症的療法",
+      "summary": "Tinlarebant已完成新藥申請（NDA）送件，目標是成為首款獲核准治療第一型史塔加氏症的療法。",
       "source": "Ophthalmology Times Europe",
       "date": "2026-06-17",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM09KaW04aTNIaWRhdkx3dHh3YUdaUUd0UkU2bGJXQmZXX3ByekVabFduUEtINkNZV3JNbWJhSXVzc2xoeG9udlpoWEd6dk84NlR3ZUNsOWkzZWFicjRSbUlBRzdMQ19PbGM0eWlsR3lBd3pxVGRJTzhRQ0ppbTlGTlluTzRxYnB2VnF4dkpkbzRKR0ZIOGNxaVpn?oc=5",
