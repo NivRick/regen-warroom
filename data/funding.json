@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-07-11T23:43:41.432440+00:00",
+  "updated": "2026-07-12T11:56:03.778499+00:00",
   "items": [
     {
-      "title": "STAT+：羅氏終止亨廷頓基因沉默項目",
-      "summary": "ARPA-H 推出客製化基因療法計劃，禮來 (Lilly) 和 Novo 推廣 Bridge 計劃，以及更多來自 The Readout 的生物技術新聞",
+      "title": "羅氏（Roche）終止亨丁頓舞蹈症的基因靜默療法計畫",
+      "summary": "美國衛生先進研究計畫局（ARPA-H）推動客製化基因療法，禮來（Lilly）和諾和諾德（Novo）將推廣Bridge計畫，以及更多生技新聞。",
       "source": "STAT News",
       "date": "2026-07-10",
       "url": "https://www.statnews.com/2026/07/10/biotech-news-roche-ends-huntingtons-gene-silencing-program/?utm_campaign=rss",
@@ -64,14 +64,6 @@
       "source": "BioPharma Dive",
       "date": "2026-07-07",
       "url": "https://www.biopharmadive.com/news/meiragtx-oberland-royalty-financing-eye-gene-therapy/824567/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "SonoThera 獲得 1.25 億美元的 B 輪融資，以推進更安全的基因療法",
-      "summary": "更安全的基因療法",
-      "source": "BioSpace",
-      "date": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUtlX0FJZlh1dVhnTlBka0VCc3BRTVduVmdITEdJQndaQ2NoR0NfbWtNRWZRS2hBdzIxX1Y3cDktQ1hPSUNZWjZKUHYyV3ByQUl1TGFpMjhCNTl0TzdwWjczem4tNXNqaEMwalFxNDFDVjZCOEx3QmJJYXNjR0g5MjRibkQyNmZUaE9VMEs2NDhBVjZDbnV3cFVB?oc=5",
       "lang": "zh-TW"
     }
   ]

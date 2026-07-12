@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-11T23:43:26.148191+00:00",
+  "updated": "2026-07-12T11:55:34.322397+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑新知",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "Biologics Procedures (SOPPs)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
+      "title": "生物製劑相關程序（SOPP）",
+      "summary": "這些標準作業程序與政策（SOPP）是美國食品藥物管理局（",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -36,14 +36,14 @@
     },
     {
       "title": "臨床研究者檢查清單 A-D",
-      "summary": "包含從臨床研究人員的檢查中收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心 (CB) 審查的研究性新藥或研究性設備進行了研究",
+      "summary": "包含從臨床研究人員的檢查中收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心 (CB) 審查的研究性新藥或研究設備進行了研究",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床研究者狀態（生物製品）",
+      "title": "臨床研究者狀態（生物製劑）",
       "summary": "臨床研究者檢查清單，來自對經 CBER 審查的研究性新藥或研究設備進行研究的臨床研究者的檢查",
       "source": "FDA Biologics",
       "date": "2026-07-10",
@@ -59,15 +59,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Texas Biomed 與美國戰爭部簽訂 CRADA，以協助防範生物威脅",
-      "summary": "CRADA 框架旨在确保针对生物威胁（无论是自然出现的疾病还是工程风险）的关键资源已准备好并按需提供，而不是偶尔提供。\n後南戰爭部幫助保護",
+      "title": "德州生物醫學研究所（Texas Biomed）與美國戰爭部簽署合作研發協議（CRADA），共同防範生物威脅",
+      "summary": "德州生物醫學研究所與美國戰爭部簽署合作研發協議（CRADA），將攜手應對自然或人為的生物威脅。",
       "source": "GEN News",
       "date": "2026-07-09",
       "url": "https://www.genengnews.com/topics/infectious-diseases/texas-biomed-enters-into-a-crada-with-the-u-s-dept-of-war-to-help-protect-against-biological-threats/",
       "lang": "zh-TW"
     },
     {
-      "title": "加德西",
+      "title": "加達西",
       "summary": "人類乳突病毒四價（6、11、16、18 型）重組疫苗的產品核准資訊。",
       "source": "FDA Biologics",
       "date": "2026-07-08",
@@ -75,8 +75,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲藥品管理局（EMA） 改變了對 Acadia 的 Rett 綜合徵療法 Daybu 的立場",
-      "summary": "綜合症治療 Daybu BioWorld 新聞",
+      "title": "歐洲藥品管理局（EMA）改變對Acadia藥廠雷特氏症療法Daybu的立場",
+      "summary": "歐洲藥品管理局（EMA）對Acadia藥廠的雷特氏症新藥Daybu態度轉變，可能影響其在歐洲的上市進程。",
       "source": "BioWorld News",
       "date": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYy1lMmV3ajlMUUxKQ3J2OEJFRnR4X19aUEdXWUxpeXRDUkpNOUJtLU8yLVM2a3FqY0hiMy12ZlJDVE5lTGZ4enJqNUpUM1VQWEdkYUZXWXpidjVDaWhDamFLZ05mczhZSmZiUEpxV3J0eDF0NVVteF9GM3U2cndUUWlNTEgtQk8zQWV5LTBlYnhrc283YWhmeldqZjVweVU5QzRWTkhB?oc=5",
@@ -90,12 +90,11 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "歐洲藥品管理局（EMA） 將於 2025 年批准 104 種人類藥物",
+      "title": "外泌體只能擦1／終結誇大不實廣告亂象 衛福部祭重罰新法上路半年近50件",
       "summary": "",
-      "source": "PharmTech.com",
-      "date": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNDMxXzh4RTJGQUhCTGMxZGUtWTBqVjA2eGREZUNJajNuR09YamxJQ0toY3FIcFhsZXd3d0ZhV3FZZUhkb05NQmcyeS1mV1hSa3FCRm5IcWhvYnZINTZVdVlxamxqTEJ0aFpQa2FXSHFzSU9JQTdNSWpKVQ?oc=5",
-      "lang": "zh-TW"
+      "source": "PChome Online 新聞",
+      "date": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2JYU2xYM0tWazZ4UlhVWnJJMlRNOHFhQ0FMQVFwZlJDTDltdHhLQ2JBSW81U2FMVFp0OWtsSWkzWGtxNGNwWFZLRnJHY0JkTUJab2hsTlVORk04X2hwWHFrOFlWaU5aaUU2TFVJX0t4dlV3MW9STVZTbllUX2tOWVJQNnMyYzhtcUE?oc=5"
     }
   ]
 }
