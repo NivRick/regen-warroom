@@ -1,10 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-07-12T23:43:51.823273+00:00",
+  "updated": "2026-07-13T13:15:46.533580+00:00",
   "items": [
     {
-      "title": "STAT+：羅氏終止亨廷頓基因沉默項目",
-      "summary": "ARPA-H 推出客製化基因療法計劃，禮來 (Lilly) 和 Novo 推廣 Bridge 計劃，以及更多來自 The Readout 的生物技術新聞",
+      "title": "隨著各州醫療補助計畫經費縮減，家庭照護者面臨財務困境",
+      "summary": "隨著多州考慮大幅削減身心障礙者家庭照護者的薪資，他們正迎向嚴峻的財務未來。",
+      "source": "STAT News",
+      "date": "2026-07-13",
+      "url": "https://www.statnews.com/2026/07/13/family-caregiver-wages-financial-ruin-medicaid-funding-cuts/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "儘管創投反彈，生技新創企業資金缺口仍在擴大",
+      "summary": "儘管融資總額達到了 2022 年初以來的最高水平，但行業觀察人士擔心小型新創公司正在落後。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-13",
+      "url": "https://www.biopharmadive.com/news/biotech-venture-capital-funding-2026-first-half/824881/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "羅氏（Roche）終止亨丁頓氏症",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-07-10",
       "url": "https://www.statnews.com/2026/07/10/biotech-news-roche-ends-huntingtons-gene-silencing-program/?utm_campaign=rss",
@@ -27,14 +43,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：拯救葛蕾絲的探索－並為世界各地的罕見疾病患者掃清道路",
-      "summary": "一位父親的追求如何塑造罕見疾病基因治療的未來。",
-      "source": "STAT News",
-      "date": "2026-07-09",
-      "url": "https://www.statnews.com/2026/07/09/matt-wilsey-grace-science-rare-disease-drug-development-ngly1/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "葛蘭素史克 (GSK) 終止與 Alector 的腦藥物聯盟",
       "summary": "臨床上的挫折使一度可能價值 22 億美元的交易脫軌，這標誌著葛蘭素史克重返神經科學領域。",
       "source": "BioPharma Dive",
@@ -52,18 +60,10 @@
     },
     {
       "title": "Prime 贏得基因編輯爭議； Saol 聲稱最新的 Makary 美國食藥局（FDA） 逆轉",
-      "summary": "仲裁小組裁定 Prime 開發罕見疾病治療藥物並未違反與 Beam 的協議。在其他地方，歐洲監管機構正在使用胰臟癌藥物來測試新的審查框架。",
+      "summary": "An arbitration panel ruled Prime didn&rsquo;t breach a deal with Beam by developing a rare disease treatment. Elsewhere, European regulators are using a pancreatic cancer drug to test a new framework for reviews.",
       "source": "BioPharma Dive",
       "date": "2026-07-08",
       "url": "https://www.biopharmadive.com/news/prime-beam-aatd-saol-fda-ema-daraxonrasib-cyllene/824574/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Oberland 斥資 4 億美元用於 MeiraGTx 眼部基因療法",
-      "summary": "這項融資交易是對多個處於後期開發階段的潛在客戶的銷售潛力投下的信任票——其中一個是 MeiraGTx 最近從強生公司重新收購的。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-07",
-      "url": "https://www.biopharmadive.com/news/meiragtx-oberland-royalty-financing-eye-gene-therapy/824567/",
       "lang": "zh-TW"
     }
   ]
