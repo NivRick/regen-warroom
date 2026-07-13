@@ -1,13 +1,29 @@
 {
   "module": "funding",
-  "updated": "2026-07-13T13:15:46.533580+00:00",
+  "updated": "2026-07-13T23:43:27.551627+00:00",
   "items": [
     {
-      "title": "隨著各州醫療補助計畫經費縮減，家庭照護者面臨財務困境",
-      "summary": "隨著多州考慮大幅削減身心障礙者家庭照護者的薪資，他們正迎向嚴峻的財務未來。",
+      "title": "STAT+：愛滋病活動人士猛烈抨擊拜登與吉利德就愛滋病毒預防藥物專利達成的研發協議",
+      "summary": "一群愛滋病活動人士獲得了研發協議，這是美國政府與吉利德科學公司就愛滋病毒預防專利問題達成和解的核心內容。",
+      "source": "STAT News",
+      "date": "2026-07-13",
+      "url": "https://www.statnews.com/pharmalot/2026/07/13/aids-activists-slam-biden-deal-with-gilead-over-hiv-prevention-patents/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "隨著各州吸收醫療補助資金削減，家庭照護人員面臨財務破產",
+      "summary": "由於幾個州考慮大幅削減殘疾人的家庭護理人員的工資，他們面臨嚴峻的財務前景。",
       "source": "STAT News",
       "date": "2026-07-13",
       "url": "https://www.statnews.com/2026/07/13/family-caregiver-wages-financial-ruin-medicaid-funding-cuts/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Agenus 因研究重點而飆升； Apnimed 正在籌備 首次公開上市（IPO）",
+      "summary": "Agenus 在財務上放棄了一項正在進行的晚期結直腸癌研究。在其他地方，伊波拉疫苗開始進行人體測試，百時美施貴寶的一種重要藥物也獲得了 美國食藥局（FDA） 的決定日期。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-13",
+      "url": "https://www.biopharmadive.com/news/agenus-surges-on-study-pivot-apnimed-lines-up-an-ipo/825023/",
       "lang": "zh-TW"
     },
     {
@@ -19,8 +35,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "羅氏（Roche）終止亨丁頓氏症",
-      "summary": "",
+      "title": "STAT+：羅氏終止亨廷頓基因沉默項目",
+      "summary": "ARPA-H 推出客製化基因療法計劃，禮來 (Lilly) 和 Novo 推廣 Bridge 計劃，以及更多來自 The Readout 的生物技術新聞",
       "source": "STAT News",
       "date": "2026-07-10",
       "url": "https://www.statnews.com/2026/07/10/biotech-news-roche-ends-huntingtons-gene-silencing-program/?utm_campaign=rss",
@@ -35,35 +51,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：ARPA-H 投入 1.6 億美元開發客製化基因編輯藥物",
-      "summary": "一項旨在快速啟動客製化基因編輯治療的 ARPA-H 計劃因管理部門的變化而被推遲。現在七個實驗室將獲得大量資助。",
-      "source": "STAT News",
-      "date": "2026-07-09",
-      "url": "https://www.statnews.com/2026/07/09/arpa-h-160-million-custom-gene-editing-funding-rare-disease/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "葛蘭素史克 (GSK) 終止與 Alector 的腦藥物聯盟",
       "summary": "臨床上的挫折使一度可能價值 22 億美元的交易脫軌，這標誌著葛蘭素史克重返神經科學領域。",
       "source": "BioPharma Dive",
       "date": "2026-07-09",
       "url": "https://www.biopharmadive.com/news/gsk-alector-deal-end-terminate-brain-drugs-neuroscience/824815/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "阿斯特捷蘭素史克透過中國生物製藥交易加強中國聯繫",
-      "summary": "在美國對此類交易進行更廣泛的審查之際，英國製藥商最近與中國同行加強了一系列合作。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-08",
-      "url": "https://www.biopharmadive.com/news/astrazeneca-gsk-china-biotech-deals-sinopharm/824679/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Prime 贏得基因編輯爭議； Saol 聲稱最新的 Makary 美國食藥局（FDA） 逆轉",
-      "summary": "An arbitration panel ruled Prime didn&rsquo;t breach a deal with Beam by developing a rare disease treatment. Elsewhere, European regulators are using a pancreatic cancer drug to test a new framework for reviews.",
-      "source": "BioPharma Dive",
-      "date": "2026-07-08",
-      "url": "https://www.biopharmadive.com/news/prime-beam-aatd-saol-fda-ema-daraxonrasib-cyllene/824574/",
       "lang": "zh-TW"
     }
   ]

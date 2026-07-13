@@ -1,6 +1,6 @@
 {
   "module": "taiwan",
-  "updated": "2026-07-13T13:11:28.197735+00:00",
+  "updated": "2026-07-13T23:40:42.167383+00:00",
   "items": [
     {
       "title": "台灣細胞製造 布局國際CDMO市場",
@@ -8,6 +8,13 @@
       "source": "工商時報",
       "date": "2026-07-09",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRzQzZU9Fb0RvcmloSDlqUm1KWExXQWE3MHgwbjhRVk1UNTV2QnBXbmlvVC1wS1ZTUEJPTzVPTXpmWVhBWGhESTZ1dkhicmpzTDI3VWtoN0RuS1VzTzZJ?oc=5"
+    },
+    {
+      "title": "再生醫療產業迎「外泌體元年」！產官學齊聚尋解方",
+      "summary": "",
+      "source": "三立新聞",
+      "date": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QeUlkUTBhNDF5X0owLWRzVlZmZ3MwS1hrOEVSWDdrdDNNZE1Tb281TmpEZ2w2VFo5cTFyVTFFSjdNcTJQUGJVRNIBTEFVX3lxTFA2SEpLbkhlWEwwTFNIdlpjalhvRlVSN0VRLUZrTXZJOUt1X3lja1ZEOUUtbkQ5WTd3RGE2b01xYW1HLVJ5SnpweGRjd2w?oc=5"
     },
     {
       "title": "生技股越來越噴！器官重建技術突破，亞果生醫7 月啟動瘋狂漲勢",
@@ -24,11 +31,25 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rQ29HdFRtZWdxbjk3N1hqRlhzOWVDZFhOTEFWSjZJR1p5Qmw3STU4S2Z1OV9YWGJOX3EtQTFwMXctVDVXdFpLb1pxWjRDa3J3Nm16bkZGMUloLU5idUlJ0gFkQVVfeXFMTkltX0MyU1dOWmZ1TU9IVGNxYmttQzJwU3g1cFFsd2lqUzZyczh5YUpUNVAtU1FXZ3hvWUxlSTVkV2hkTGhITHAtNkpKdFpjdDRWdUhxeVlOb2RCeENKVGtia3ZrdQ?oc=5"
     },
     {
+      "title": "國璽新藥「思益優」 雙軌並進佈局取證 - 財經新聞 - PChome Online 新聞",
+      "summary": "",
+      "source": "PChome Online 新聞",
+      "date": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHM2T29RRDFjUmZnR3RTNnkwUmo4T3dqM1h0d2tCc0pXeXdiWEpkZlZGR243eElLa0s1R0lieGFuaFdiOWR1NFJrR1lzUmJUTDdzU1VQekZRRDVyeFJVSjlGRUV0S1FCckUwbGRXQUxlZ2ZsVHI3NnIweXVOZFFDaVZxd2Y2dw?oc=5"
+    },
+    {
       "title": "【產業短評】T-RMAT 啟動！解析臺灣再生醫療製劑輔導專案機制，與國內細胞新藥進程盤點",
       "summary": "",
       "source": "tejwin.com",
       "date": "2026-06-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaU9yX2IwMTJaZF9PWV8tVGdaWTExeGdIbFg5OXVNOWF4Z3NodHZFZG1lQ0VBSUhLb3RmbmhnLUhfNTB5cmlDc1p3MVpLbWZXUHdPbDZ4eWFmbHRoRndPalY4cTltUTVLR0E3ZDlJYWZjSzB0MnlTNGl1MEJUQzNjUGotaTN5WXQ2VHJlX3EzWi1vMklHN2RCSWgxUVFfWFJlUVY1Y3ZLZm01Zm9IS3ZFN0pIcHpRMktpSVc5Sl8tdHlYUHk5VmpVb0l1UDRzTHhxTzFET214V3Zwcmd5Mktv?oc=5"
+    },
+    {
+      "title": "再生醫療雙法今年上路總統：生醫拚下座護國神山- 日報",
+      "summary": "",
+      "source": "工商時報",
+      "date": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UYWxmaFNUV0owS01mZTBpT09KN2NqUmplZkJnSDNuU2x0WmlxR1FwcENQZjRYQkc0QWtma1dBeHRnQjRYT3Q2VFBDTWd5LUZMdmJod1MtRHpxV2xmZ0x3?oc=5"
     },
     {
       "title": "總統：打造生醫護國神山",
@@ -59,11 +80,11 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96WVJ5TWo3UVZmQ0c5T3dFcWhjU085MmhzR0JNcjAzU1VyS3NzWjdyTGFxMzNRT2hnYlVSQk44ZHAwSEpEWjIxS2NQTnoxT2M?oc=5"
     },
     {
-      "title": "再生醫療雙法上路！賴清德：全力支持生醫發展、打造台灣下一座護國神山",
+      "title": "沛爾CAR-T拚年底取藥證　tcmc廠啟用攻細胞治療",
       "summary": "",
-      "source": "Yahoo新聞",
+      "source": "經濟日報",
       "date": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNT3dJLUtIdW1wU3FFdDhKY2hxMUZjODF4WFd5TnNqUVFHdG4tdm5tb1g0TXQ0UzRSOGlNSXhQc2FwSEJwblF1cE1fR09WTE5wdlVLVFNMRnI1UGRqQVZNbFY4TG9QYVRreVpXc3lEUm4zdjdHSEFIdHVJb1N1eUNoSDFpdmluajZZVzZQU0xzSElWNTJyV0JmUzNqRkFzbjgtdmtpWG1ETlp3bFBFMzQxZXJsT2JMQ29kX3ZRQ0xqejV4dkVoZ1BYVEFVWFFON1VtTmhoSGtxUWI4Q3dCVHNtUHlDZzkwc01hTW1PS1dzRVRtMVltOFR6VlMtU2VWNVJrcU8xYVZGaDF1X00xa3lIbW5wT0NfZnpfYWFDY01ZelFkSU5yOVF3VGFLNm5GM3ctb2ZUcElfeHAzUnlHUTdFcXZKWFJCRjV0OE9CS1FFMEZSMGZ3RGh6M2g1TDlSZzN2VkNkQm1sTWM2YU04dFFaVHNGMXdGMlNXLUdKV3pHMmlkWkRHQ2J2T05faGllQ0ZqTVdSZVdHVW5rVEhueVNsZTlRdlpkbWpPMktSTmtPZHdfMklU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQRDVub0tMVWFSc29sc0luU1JTUWZpSjd2WHNOb204eXRPTk9NTFQzU3Q0VExXNHhoRDNCY3QwV3lVaG0xMkZoLW9qQ2JRYnhwbGJ3cGQ0Wkt6dzTSAWBBVV95cUxQcGsxTEIwZy1CdDlDeGRlUnF4VEhGa2VaTnlLSzQ0UWdkbmlxdWxoZGl6a0dPLVBnMWlTRHAwSXVwNlpUc0lDTUlSeTZOZXFqU0pZZmU0OEVPU1d3YTV6WXk?oc=5"
     },
     {
       "title": "沛爾 CAR-T 拚年底取藥證，tcmc 廠啟用攻細胞治療",

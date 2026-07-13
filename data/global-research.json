@@ -1,10 +1,10 @@
 {
   "module": "research",
-  "updated": "2026-07-13T13:14:26.090321+00:00",
+  "updated": "2026-07-13T23:42:50.063694+00:00",
   "items": [
     {
-      "title": "完整三股螺旋重組第三型膠原蛋白的高效表現",
-      "summary": "第三型膠原蛋白（COL3A1）是血管與皮膚組織中重要的纖維狀膠原蛋白，在傷口癒合與組織修復扮演關鍵角色。",
+      "title": "高效表達全長三股螺旋重組第三型膠原蛋白",
+      "summary": "本研究探討如何高效表達全長三股螺旋重組第三型膠原蛋白，此蛋白在血管與皮膚組織中扮演傷口癒合與組織修復的關鍵角色。",
       "source": "PubMed",
       "date": "2026-07-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
@@ -28,7 +28,7 @@
     },
     {
       "title": "人類誘導多能幹細胞來源的心肌細胞補片可增強擴張型心肌病變 J2N-k 倉鼠模型的心臟再生。",
-      "summary": "擴張型心肌病變（DCM）是心臟衰竭的主要原因，除了心臟移植之外，治療選擇有限。本研究旨在評估人類誘導多能幹細胞來源的心肌細胞 (hiPS-CM) 補片移植在遺傳 DCM 模型中的治療潛力。",
+      "summary": "扩张型心肌病（DCM）是心力衰竭的主要原因，除了心脏移植之外，治疗选择有限。本研究旨在評估人類誘導多能幹細胞來源的心肌細胞 (hiPS-CM) 補片移植在遺傳 DCM 模型中的治療潛力。",
       "source": "PubMed",
       "date": "2026-07-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42437293/",
@@ -68,15 +68,15 @@
     },
     {
       "title": "繞過多潛能性：從重組微脂肪直接分化成多譜系類器官的潛力",
-      "summary": "類器官技術在再生醫學領域展現強大潛力，但現有技術多半依賴多潛能性細胞。",
+      "summary": "這項研究探索從微脂肪直接分化出多譜系類器官，有望繞過傳統多潛能性限制，為再生醫學帶來新突破。",
       "source": "PubMed",
       "date": "2026-07-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42403587/",
       "lang": "zh-TW"
     },
     {
-      "title": "調節衰老代謝的分層支架",
-      "summary": "",
+      "title": "衰老代謝調節分層支架可恢復 NAD",
+      "summary": "衰老受損的骨修復提出了重大的臨床挑戰，這主要是由於衰老細胞驅動的代謝微環境失衡。目前的生物材料策略主要局限於提供被動機械支撐和/或提供治療因子，未能...",
       "source": "PubMed",
       "date": "2026-07-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42395338/",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "乳癌嵌合抗原受體T細胞免疫療法（CAR-T）的知識圖譜與研究趨勢：一項文獻計量與視覺分析研究",
-      "summary": "嵌合抗原受體T細胞療法（CAR-T）在血液腫瘤領域已取得劃時代的成功，目前正積極探索",
+      "title": "嵌合抗原受體T細胞免疫療法（CAR-T）在乳癌領域的知識圖譜與研究趨勢：一項文獻計量與視覺分析研究",
+      "summary": "嵌合抗原受體T細胞免疫療法（CAR-T）已在血液腫瘤領域取得里程碑式的成功，目前正積極",
       "source": "PubMed",
       "date": "2026-07-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42316771/",
@@ -219,8 +219,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "利用流式細胞儀鑑定B調節性細胞",
-      "summary": "這項實驗室與觀察性研究，旨在開發一種能定量B調節性細胞的檢測方法。",
+      "title": "B調節性細胞的流式細胞儀鑑定",
+      "summary": "狀態：尚未招募｜主辦：赫爾大學教學醫院NHS信託｜這項實驗室與觀察性研究的目標是開發一種檢測方法，以量化...",
       "source": "ClinicalTrials.gov｜United Kingdom",
       "date": "2026-07-13",
       "url": "https://clinicaltrials.gov/study/NCT06876506",
@@ -245,25 +245,33 @@
     {
       "title": "[不適用] MUSE 幹細胞療法對腦外傷患者的安全性和結果",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Healing Hope International｜這項前瞻性觀察性研究評估了 6 至 75 歲慢性創傷性腦損傷 (TBI) 患者與 MUSE（多系分化壓力耐受）幹細胞療法相關的安全性和患者報告的結果",
-      "source": "ClinicalTrials.gov｜Mexico, United States",
+      "source": "ClinicalTrials.gov｜United States, Mexico",
       "date": "2026-07-13",
       "url": "https://clinicaltrials.gov/study/NCT07326059",
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞療法laromestrocel在阿茲海默症臨床試驗中，顯示腦部掃描變化與認知能力改善有關",
-      "summary": "Stock Titan報導，阿茲海默症臨床試驗顯示，幹細胞療法laromestrocel能讓腦部掃描出現變化，並與認知能力改善有關。",
+      "title": "基因組規模的 CRISPRi 圖譜繪製了人類 誘導型多能幹細胞（iPSC） 的基因功能圖譜",
+      "summary": "基因組規模的 CRISPRi 圖譜繪製了超過 250 萬個人類 誘導型多能幹細胞（iPSC） 中 11,692 個基因擾動的轉錄後果。此資源揭示了新陳代謝、多能性和 RNA 編輯的調節因子（包括 DBR1），並提供了開放式的解決方案",
+      "source": "GEN News",
+      "date": "2026-07-13",
+      "url": "https://www.genengnews.com/topics/omics/genome-scale-crispri-atlas-maps-gene-function-across-human-ipscs/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "幹細胞療法Laromestrocel在阿茲海默症試驗中，連結腦部掃描變化與認知改善",
+      "summary": "幹細胞療法Laromestrocel在阿茲海默症試驗中，顯示腦部掃描的變化與認知能力的改善有關。",
       "source": "Stock Titan",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2hmUkFBTDFBZ0pCbFRmcVFDazZ5TldwWlpUUS13LUdMSjVpUGxMRXBEZDMtNXk5R1BzNzN5RjJoaFdxSlY5aTlpcDVrU3d2M3p4a3RhTVI4dnpadmNkU1FMWk41M0tOOGlkeHNiUDZ6NTNVZkhJT2FoSndTcDc0T0xaTFR6WWVSeTFJel9RZE1PZUlzOHpFZlNxb2dFbnVzQVFkdHZHamxuSzZHUzcyUXA4emVxQnRm?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Longeveron 公佈 AAIC 數據，顯示 Laromestrocel 可穩定阿茲海默症的大腦炎症",
-      "summary": "romestrocel 可穩定阿茲海默症患者的腦部發炎 Quiver 定量",
-      "source": "Quiver Quantitative",
+      "title": "Longeveron宣布在2026年阿茲海默症協會國際會議（AAIC）發表臨床數據，指出其細胞療法Laromestrocel能降低患者的神經發炎反應",
+      "summary": "Longeveron宣布在2026年阿茲海默症協會國際會議（AAIC）發表臨床數據，顯示其細胞療法Laromestrocel能有效降低患者的神經發炎反應。",
+      "source": "The Manila Times",
       "date": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT1NfcGt6VDVQQjRPelBmU1ZFMWFWcHFQa0dRSVNza3hPVTN1eE9tN3I1Qjc3TU5RTWtwNF9lVEJyWkw5Umx0YXFfUTd6SGIwQ3U1NVdwZjBBTFVUYkpUN2dUd0xYYWFXNGp6bFliRThha3Y4aEQ0LUNxOXl2OGduM05pa1BBdHlYVUVrWjZOU3ZRVWNiQlFNcXlUSlZScFhaSGw4UVZWVDBFQXJMZllaaUc2UzhMaEd3N1RoOXpsMUlqbjFPTFlZbEJRalJsZFlIbklCUTI0d2lGWnRYbkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPN3ZRUFZoc2ZhMkZoLW9jRG9wTHlpYU00bDFUSDdpS1h1NDhpS3pPUWZpR3phcFVibk1mQ1BGMUFsdjgxbTFJZ2NqQVBERUFScmFkaVVzMFBtUTZYVE5LNWh5YndZMTdPc3BDVC1jaVBTaWhDYUZvMUQ0ZTFuM0V2M2l1c0E2YXItckxtVjdMT3ZZeXZwZkZiaTJ5ZEJxckhGMmVEM1RwZ2FuWEN0V0pjTnE4ZFYyTVlCeU94akt5Y1FIQkE4SDYwczVudk9aSG5Oc3NIRDJoYUFLWWcxaHFEd2t1bVdpakh5OVVQaDB6RU1qQ1psQ2lhbTBZZUxBUWx3emdxTXc5U3VjNE1vY1Y2V1hPejItWjg3eExYblZmT0tZRFhzakt6SEpFVDJDZEtDMmNYcDlvalo2UnB2dUh5OEE1WjRidm9TVHF1ZVo0eGRNVlNpRll4NFlLb3AtRll5Mk5tNDROUmhiNS02cUFGaHNxTk50TVU5VHZFS2FaaTdzd2d6Y09kZ1dieGYwaFJPaFFnRzl5b0VCOXJnUGE4VlVMX2pGcnI1QTBSU9IBsgNBVV95cUxPYXVZVnNITGlSbG5yY09tSUtDV2FkOThJLWFzelVRakZacTdwNGNodnRsV2ZBSXIzZ3NZVlpQUXo4YVhNNTNfYU44anhJUzJKSElDblhuNFBUdklhTkhZU2tIblhoYUJLYmVORS16YWp1RjlJWXY1OUJJdWNGbERJam9kdHJDN0locENjYmkzMmNJR04tNkl2cWI1Vl8wVkhqNEdPdGlDRDNRTnhhVEdmWndRQV96OU1lTGU1M1FlQS1iZHREeEZYWFpPYjcyQTJNT2t0anQ4VnI5Sml0ai1QYTlLdG53dzRsYlIxWE9MYk93ZzRDdDZmUjNTTHFNT1NXR3BvSThGQjlQb0RsZU5CSE8xUnR6ZElHanhYM1g4QVZDVWF5WmhqQXZPbXBlN1pIbDUwdFpJRkRac0llTGkyNHRwTHdIOHRpQUUtUXNBMFVsUldkRVVzeDBmcFNQa2RPQk5Mamh5eW16Vmtib3NpbV9KeWZaVVl6OERoYnVlVm5KN0hTUE1HNHVMT2RtVE1JcFM2UlBycWhwcWFtRWFKY2UzSnRnenBlbmxSNXBMY1l6UQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -275,27 +283,27 @@
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞療法在首次人類帕金森氏症試驗中顯示出前景",
-      "summary": "為期一年的 I/II 期臨床研究結果支持將幹細胞衍生的多巴胺祖細胞移植到帕金森氏症患者大腦的可行性。人類帕金森氏症試驗後首次出現在 GEN - Ge 上",
+      "title": "亞太區磁珠市場規模預計到 2035 年將達到 69.5 億美元",
+      "summary": "預估亞太區磁珠市場規模，到 2035 年將成長至 69.5 億美元。",
+      "source": "Precedence Research",
+      "date": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3cXdrd3pDUmFCYm54b2w2ajU0VWsxQndvdFAwTG9vODA3UDdKUDRBVjhMSzBFeExNTm5xSXczbF9INU1ac19ySllpcl9FSDV1eVJjTEJVaEw5azNlclZaYmd4UFUyYTQzMGVZQjhROTh6Wm9FaTZhekZB?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "幹細胞療法在首個人體帕金森氏症試驗中展現潛力",
+      "summary": "第一/二期臨床試驗的一年期結果，支持將幹細胞衍生的多巴胺前驅細胞移植到腦部的可行性。",
       "source": "GEN News",
       "date": "2026-07-09",
       "url": "https://www.genengnews.com/topics/drug-discovery/stem-cell-therapy-shows-promise-in-first-human-parkinsons-disease-trial/",
       "lang": "zh-TW"
     },
     {
-      "title": "首個臨床試驗評估幹細胞療法用於亨丁頓舞蹈症",
-      "summary": "針對亨丁頓舞蹈症的幹細胞療法，首個臨床試驗已展開，評估其治療潛力。",
+      "title": "首個臨床試驗評估幹細胞療法治療亨丁頓舞蹈症",
+      "summary": "針對亨丁頓舞蹈症，首個評估幹細胞療法的臨床試驗已展開。",
       "source": "News-Medical",
       "date": "2026-07-09",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUkpuaUVUZzV4dUMxN21NOXFVYWJ4bHM4N2Z3VUJYTHhMcWVkaUp4eHQ3RHhWQXFPX3l2c3pVbjVvaWVyOC1sTWdKdWpPRnVBcDlBZXFVUVNNSFpvWnFmbmdwX09ZX3FUNW15aVdaR0ttb3Z1MEVOVFJBSmtsT3lfeURWbUZjRnk4Yk5tZU9KZmtyUmkzdFZ5cl9vdmVSYTlkTDFlRlFsMldMZ3F0cU81ZklDbmRtOE1HWVBIWg?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 批准首個基因治療技術治療鐮狀細胞疾病兒童",
-      "summary": "治療鐮狀細胞疾病兒童的方法 - 健康新聞",
-      "source": "The Well News",
-      "date": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUlFUmlNR01Xc3NudlFZM2I2ZEJadnNjLU9aQ1ZITDdlaXJfbjRRMzR4elpCZmRmcEQwdE1xTHZTZV85RlZ5cWJhRlV3RDZCMmF5aF8zMjl0QmdTX0dyTVJUQy0ydUk0dUxOeExmYmRGTGVuMmc4UU4tWERVNERfOG5vTWZCcTdsbXo3V0lMNjc0U1QwYmVjeU5GeEhlYzRvcW1OWUZ1aHViSjl2cXI4ZkdVMFB5NEFyMDAwVGxn?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -307,8 +315,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "內視鏡注射自體脂肪源細胞（SVF）治療頑固性胃食道逆流（GERD）成人患者的先驅性研究（GERD-REVIVE先驅性試驗）",
-      "summary": "狀態：尚未招募受試者｜主辦：Fondazione Policlinico Universitario Agostino Gem",
+      "title": "內視鏡注射自體脂肪源細胞（SVF）治療難治型胃食道逆流（GERD）成人患者（GERD-REVIVE先導性研究）",
+      "summary": "狀態：尚未開始招募｜主辦單位：Fondazione Policlinico Universitario Agostino Gemelli IRCCS｜這項先導",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07",
       "url": "https://clinicaltrials.gov/study/NCT07638423",
@@ -339,7 +347,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Ficerafusp Alfa、Pembrolizumab與立體定位放射治療（SBRT）用於頭頸部",
+      "title": "Ficerafusp Alfa、Pembrol",
       "summary": "",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-30",
@@ -355,8 +363,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "CAR-T細胞療法 細胞療法使 B 細胞淋巴瘤患者獲得 10 年緩解",
-      "summary": "B 細胞淋巴瘤患者的症狀 Penn Medicine",
+      "title": "嵌合抗原受體T細胞療法（CAR-T）讓B細胞淋巴瘤患者達到十年緩解",
+      "summary": "嵌合抗原受體T細胞療法（CAR-T）",
       "source": "Penn Medicine",
       "date": "2026-06-24",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQkE2NXA4S0pob3FaQVc1Uk1kSDBJSlgwRVBnUzQwTWRNeGxLOXoydnNkaFhUTzdzbklGNTdpaGYtOEVRU2czWjh1c0doQjVxd3NMQ2h1bElUYl9Kallsc3c0WHo4dXZxYkNvanZGSkphLVo3OEFPUW1HdmZKUE9aUFlqR0N3MXVmeWxGMzQ2bHZSX2k2?oc=5",
@@ -379,8 +387,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Tinlarebant 針對第一型史塔加氏症完成新藥查驗登記申請（NDA）送件，目標成為首個獲核准療法",
-      "summary": "Tinlarebant 針對第一型史塔加氏症完成新藥查驗登記申請（NDA），有望成為該疾病首個獲核准的治療藥物。",
+      "title": "Tinlarebant 針對第一型史塔加氏症完成新藥申請（NDA）送件，目標成為首款獲核准的療法",
+      "summary": "Tinlarebant 針對第一型史塔加氏症完成新藥申請，有望成為市場上首款獲核准的療法。",
       "source": "Ophthalmology Times Europe",
       "date": "2026-06-17",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM09KaW04aTNIaWRhdkx3dHh3YUdaUUd0UkU2bGJXQmZXX3ByekVabFduUEtINkNZV3JNbWJhSXVzc2xoeG9udlpoWEd6dk84NlR3ZUNsOWkzZWFicjRSbUlBRzdMQ19PbGM0eWlsR3lBd3pxVGRJTzhRQ0ppbTlGTlluTzRxYnB2VnF4dkpkbzRKR0ZIOGNxaVpn?oc=5",
@@ -392,14 +400,6 @@
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-06-16",
       "url": "https://clinicaltrials.gov/study/NCT07587047",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[不適用] 對接受西雅圖兒童治療基因治療產品治療的受試者進行長期隨訪",
-      "summary": "狀態：招募｜主辦：西雅圖兒童醫院｜接觸基因治療產品（GTP）的受試者可能面臨延遲或長期不良事件的風險。這是一項長期追蹤 (LTFU) 方案，旨在評估西雅圖兒童治療公司 (SCTx) GTP 和 incorp 的長期安全性",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-06-15",
-      "url": "https://clinicaltrials.gov/study/NCT07424157",
       "lang": "zh-TW"
     }
   ]

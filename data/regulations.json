@@ -1,18 +1,34 @@
 {
   "module": "regulation",
-  "updated": "2026-07-13T13:15:23.834888+00:00",
+  "updated": "2026-07-13T23:43:16.975899+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
+      "title": "BIMO/團隊生物製劑/網路監控/其他",
+      "summary": "這是 CBER e/Other 的主頁。",
+      "source": "FDA Biologics",
+      "date": "2026-07-13",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/enforcement-actions-cber/bimoteam-biologicsinternet-surveillanceother",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "抗體藥物偶聯物 (ADC) 製造的分析挑戰",
+      "summary": "這一系列文章和專家觀點探討了塑造\n當今 ADC 的發展，從分析策略和雜質控製到連接器技術\n創新和不斷發展的監管標準。它還檢查",
+      "source": "GEN News",
+      "date": "2026-07-13",
+      "url": "https://www.genengnews.com/resources/ebooks/analytical-challenges-for-antibody-drug-conjugate-adc-manufacturing/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物",
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -59,34 +75,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "加德西",
-      "summary": "人類乳突病毒四價（6、11、16、18 型）重組疫苗的產品核准資訊。",
-      "source": "FDA Biologics",
-      "date": "2026-07-08",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/gardasil",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "脊髓損傷市場規模看好將顯著成長，市調機構DelveInsight預估到2036年",
-      "summary": "市調機構DelveInsight預估，全球脊髓損傷治療市場規模到2036年將顯著成長，顯示該領域具備龐大商機與發展潛力。",
-      "source": "Barchart.com",
-      "date": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU3pad2FTbkxiTzNxaDJlNENfWTRnUEVQRDVtdFRaVUxKbXFYRDd5WE1wQ2kzUWU3Ti1tbzdOVm5JRFVDcTNYQzRGN05URHFMRXNuOUpseDl1M0dfc2FTbGFfeEZpRUZJSUwyczFsOHBDYXlLaW9SRFdrQnlkaWtzSTdVTXd6cWFsa1dEMkliNG9uNnJlTHM4bVJaTUJ1cF9pNEt4SEd5UEZGZVJadU1IMFNaT1dJbThQUHpiWXgwaWxqM0dsQTZUVXF1Z01BaFcyRm5TSmFqejdOVXpz?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "外泌體只能擦1／終結誇大不實廣告亂象　衛福部祭重罰新法上路半年近50件 | 財經 | CTWANT",
       "summary": "",
       "source": "CTWANT",
       "date": "2026-06-25",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
-    },
-    {
-      "title": "外泌體只能擦1／終結誇大不實廣告亂象 衛福部祭重罰新法上路半年近50件",
-      "summary": "",
-      "source": "PChome Online 新聞",
-      "date": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2JYU2xYM0tWazZ4UlhVWnJJMlRNOHFhQ0FMQVFwZlJDTDltdHhLQ2JBSW81U2FMVFp0OWtsSWkzWGtxNGNwWFZLRnJHY0JkTUJab2hsTlVORk04X2hwWHFrOFlWaU5aaUU2TFVJX0t4dlV3MW9STVZTbllUX2tOWVJQNnMyYzhtcUE?oc=5"
     }
   ]
 }
