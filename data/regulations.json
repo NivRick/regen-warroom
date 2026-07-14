@@ -1,42 +1,74 @@
 {
   "module": "regulation",
-  "updated": "2026-07-14T12:07:58.896486+00:00",
+  "updated": "2026-07-14T23:43:30.744768+00:00",
   "items": [
     {
-      "title": "抗體藥物複合體 (ADC) 製造的分析挑戰",
-      "summary": "深入剖析抗體藥物複合體 (ADC) 製造過程中的關鍵分析挑戰。",
+      "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程",
+      "summary": "GMP 級 IL-15 穩定性確認，確保可靠品質並加強生物製藥審批流程 - 馬尼拉時報",
+      "source": "The Manila Times",
+      "date": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNR2FMMFpicHd0UmN3dlBuamJpck8zXy1qOHNocllueXZXOUVEekY2SmxpMXFkNlluam1SaVE4MUFoNEFoeFJBcGtqZFd4MG8zMzNPNHpQOE5OTE12WWNFem1xQlVQajM2WUZ3ZXRYNGhEcDZoU1VCYV8taXBmeVBpTzBXZWtPeG5kU2FVS0l0S2N6OWtub0s5Smw2eGNBRUp3ZElKa2NPT1Z4aVotTWNJOV9XaDdCaUVXSW5fRVUwc2szeW9MYlFfbkFXVDRmVkZxVjRXbU15TUVOc2k5TmlIaWIwbzV2OEducDV6YS1lVEJrUDJOYms3S1RCaWkzSV9nQXdVOUpDU1ZoSnJtUTRaZVRYal9VUmxBVEVvQ1RvM3NEelFraFF4UlRKY0pJbFp2OE04alpvMVZlNW9ydkcwQVlaVGdqZkVZTS1Ya2VocUgxR0JQUmtUMUxKNznSAdwCQVVfeXFMTUdhTDBaYnB3dFJjd3ZQbmpiaXJPM18tajhzaHJZbnl2VzlFRHpGNkpsaTFxZDZZbmptUmlRODFBaDRBaHhSQXBramRXeDBvMzMzTzR6UDhOTkxNdlljRXptcUJVUGozNllGd2V0WDRoRHA2aFNVQmFfLWlwZnlQaU8wV2VrT3huZFNhVUtJdEtjejlrbm9LOUpsNnhjQUVKd2RJSmtjT09WeGlaLU1jSTlfV2g3QmlFV0luX0VVMHNrM3lvTGJRX25BV1Q0ZlZGcVY0V21NeU1FTnNpOU5pSGliMG81djhHbnA1emEtZVRCa1AyTmJrN0tUQmlpM0lfZ0F3VTlKQ1NWaEpybVE0WmVUWGpfVVJsQVRFb0NUbzNzRHpRa2hReFJUSmNKSWxadjhNOGpabzFWZTVvcnZHMEFZWlRnamZFWU0tWGtlaHFIMUdCUFJrVDFMSjc5?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "新型表觀遺傳療法針對治療抗藥性和 TP53 突變的 AML",
+      "summary": "一項針對多種急性髓性白血病模型的臨床前研究結果發現，研究中的低甲基化藥物 NTX-301 透過活化 Hippo 通路，對難治性 AML 和 TP53 突變 AML 仍然有效。",
+      "source": "GEN News",
+      "date": "2026-07-14",
+      "url": "https://www.genengnews.com/topics/drug-discovery/novel-epigenetic-therapy-targets-treatment-resistant-and-tp53-mutant-aml/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 發布簡化先進分銷製造商註冊流程的提案",
+      "summary": "分散式製造業採用中心輻射模式，在不同地點設有中央品質監督中心和多個等效製造單位。法規要求網路中的每個製造單位都必須註冊",
+      "source": "GEN News",
+      "date": "2026-07-14",
+      "url": "https://www.genengnews.com/topics/bioprocessing/fda-issues-proposal-to-streamline-registration-for-advanced-distributed-manufacturers/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BIMO/生物製劑團隊/網路監控/其他",
+      "summary": "這是美國食品藥物管理局生物製劑評估與研究中心（CBER）電子資訊及其他相關內容的主要頁面。",
+      "source": "FDA Biologics",
+      "date": "2026-07-13",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/enforcement-actions-cber/bimoteam-biologicsinternet-surveillanceother",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "抗體藥物偶聯物 (ADC) 製造的分析挑戰",
+      "summary": "這一系列文章和專家觀點探討了塑造\n當今 ADC 的發展，從分析策略和雜質控製到連接器技術\n創新和不斷發展的監管標準。它還檢查",
       "source": "GEN News",
       "date": "2026-07-13",
       "url": "https://www.genengnews.com/resources/ebooks/analytical-challenges-for-antibody-drug-conjugate-adc-manufacturing/",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製劑最新消息",
+      "summary": "美國食品藥物管理局生物製劑評估",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關作業程序（SOPP）",
-      "summary": "這些標準作業程序與政策（SOPP）是美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）員工執行業務時所依循的規範。",
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗主持人查核名單（L-P）",
-      "summary": "這份名單收錄了曾執行試驗性新藥或生物製劑研究的臨床試驗主持人（姓氏L-P）的查核資訊，包含姓名、地址等。",
+      "title": "臨床研究者檢查清單 L-P",
+      "summary": "包含透過臨床研究人員 (L-P) 的檢查收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心審查的研究性新藥或研究設備進行了研究",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-l-p",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床",
-      "summary": "",
+      "title": "臨床研究者檢查清單 E-K",
+      "summary": "包含透過臨床研究人員 (E-K) 的檢查收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心審查的研究性新藥或研究設備進行了研究",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-e-k",
@@ -64,14 +96,6 @@
       "source": "STN 103898",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/data-cyte-plus-reverse-cyte-search-cyte-reagent-red-blood-cells-stn-103898",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "加德西",
-      "summary": "人類乳突病毒四價（6、11、16、18 型）重組疫苗的產品核准資訊。",
-      "source": "FDA Biologics",
-      "date": "2026-07-08",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/gardasil",
       "lang": "zh-TW"
     },
     {
