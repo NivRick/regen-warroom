@@ -1,10 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-14T23:43:30.744768+00:00",
+  "updated": "2026-07-15T12:13:58.110627+00:00",
   "items": [
     {
-      "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程",
-      "summary": "GMP 級 IL-15 穩定性確認，確保可靠品質並加強生物製藥審批流程 - 馬尼拉時報",
+      "title": "阿斯特捷利康以高達 $1.5B 的價格獲得 Dizal 肺癌藥物的全球權利",
+      "summary": "Dizal 一直在尋求 美國食藥局（FDA） 和中國藥品審查中心 (CDE) 批准 Zegfrovy 的新適應症，作為具有外顯子 20 插入 EGFR 突變的 NSCLC 的一線治療。 post zal 肺癌藥物高達 $1.5B ap",
+      "source": "GEN News",
+      "date": "2026-07-15",
+      "url": "https://www.genengnews.com/topics/cancer/astrazeneca-licenses-global-rights-to-dizal-lung-cancer-drug-for-up-to-1-5b/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "艾科博生物取得日本醫藥品醫療器材綜合機構（PMDA）針對GMP等級IL-15的材料適用性確認，確保品質可靠並強化生技藥品核准流程",
+      "summary": "艾科博生物的GMP等級IL-15取得日本PMDA材料適用性確認，不僅確保產品品質，也將",
       "source": "The Manila Times",
       "date": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNR2FMMFpicHd0UmN3dlBuamJpck8zXy1qOHNocllueXZXOUVEekY2SmxpMXFkNlluam1SaVE4MUFoNEFoeFJBcGtqZFd4MG8zMzNPNHpQOE5OTE12WWNFem1xQlVQajM2WUZ3ZXRYNGhEcDZoU1VCYV8taXBmeVBpTzBXZWtPeG5kU2FVS0l0S2N6OWtub0s5Smw2eGNBRUp3ZElKa2NPT1Z4aVotTWNJOV9XaDdCaUVXSW5fRVUwc2szeW9MYlFfbkFXVDRmVkZxVjRXbU15TUVOc2k5TmlIaWIwbzV2OEducDV6YS1lVEJrUDJOYms3S1RCaWkzSV9nQXdVOUpDU1ZoSnJtUTRaZVRYal9VUmxBVEVvQ1RvM3NEelFraFF4UlRKY0pJbFp2OE04alpvMVZlNW9ydkcwQVlaVGdqZkVZTS1Ya2VocUgxR0JQUmtUMUxKNznSAdwCQVVfeXFMTUdhTDBaYnB3dFJjd3ZQbmpiaXJPM18tajhzaHJZbnl2VzlFRHpGNkpsaTFxZDZZbmptUmlRODFBaDRBaHhSQXBramRXeDBvMzMzTzR6UDhOTkxNdlljRXptcUJVUGozNllGd2V0WDRoRHA2aFNVQmFfLWlwZnlQaU8wV2VrT3huZFNhVUtJdEtjejlrbm9LOUpsNnhjQUVKd2RJSmtjT09WeGlaLU1jSTlfV2g3QmlFV0luX0VVMHNrM3lvTGJRX25BV1Q0ZlZGcVY0V21NeU1FTnNpOU5pSGliMG81djhHbnA1emEtZVRCa1AyTmJrN0tUQmlpM0lfZ0F3VTlKQ1NWaEpybVE0WmVUWGpfVVJsQVRFb0NUbzNzRHpRa2hReFJUSmNKSWxadjhNOGpabzFWZTVvcnZHMEFZWlRnamZFWU0tWGtlaHFIMUdCUFJrVDFMSjc5?oc=5",
@@ -28,7 +36,7 @@
     },
     {
       "title": "BIMO/生物製劑團隊/網路監控/其他",
-      "summary": "這是美國食品藥物管理局生物製劑評估與研究中心（CBER）電子資訊及其他相關內容的主要頁面。",
+      "summary": "這是美國食品藥物管理局生物製劑評估與研究中心（CBER）相關資訊的主頁。",
       "source": "FDA Biologics",
       "date": "2026-07-13",
       "url": "http://www.fda.gov/vaccines-blood-biologics/enforcement-actions-cber/bimoteam-biologicsinternet-surveillanceother",
@@ -44,14 +52,14 @@
     },
     {
       "title": "生物製劑最新消息",
-      "summary": "美國食品藥物管理局生物製劑評估",
+      "summary": "美國食品藥物管理局生物製劑評估與研究中心（C",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品程序 (SOPP)",
+      "title": "Biologics Procedures (SOPPs)",
       "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-07-10",
@@ -59,7 +67,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "臨床研究者檢查清單 L-P",
+      "title": "Clinical Investigator Inspection List L-P",
       "summary": "包含透過臨床研究人員 (L-P) 的檢查收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心審查的研究性新藥或研究設備進行了研究",
       "source": "FDA Biologics",
       "date": "2026-07-10",
@@ -83,8 +91,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "臨床研究者狀態（生物製劑）",
-      "summary": "臨床研究者檢查清單，來自對經 CBER 審查的研究性新藥或研究設備進行研究的臨床研究者的檢查",
+      "title": "臨床研究者狀態（生物製品）",
+      "summary": "Clinical Investigator Inspection List from inspections of clinical investigators who have conducted studies with investigational new drugs or investigational devices reviewed by CBER",
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-status-biologics",
