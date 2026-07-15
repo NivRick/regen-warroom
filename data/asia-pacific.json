@@ -1,6 +1,6 @@
 {
   "module": "apac",
-  "updated": "2026-07-15T12:13:06.216566+00:00",
+  "updated": "2026-07-15T23:51:22.842931+00:00",
   "items": [
     {
       "title": "AI領航生醫新時代！亞洲生技大會：台灣躍升亞太樞紐關鍵- 產業",
@@ -10,27 +10,43 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aQ19BRUItT0FIN1gwa1g1ZHd4cURvbUdYSnBuVjdsbDQ2ZFRuc3k2U1N6WXl4a21Xam5aU0JtZ2ZIX2x2dklNNVpzRkU4UVFBZWRqRjdRTW5GMllINXlZ?oc=5"
     },
     {
-      "title": "細胞治療技術市場規模、市佔率與2034年預測",
-      "summary": "預估細胞治療技術市場規模與市佔率，展望至2034年。",
+      "title": "亞洲生技大會：AI加速新藥研發台灣拚當樞紐- 財經要聞- 工商時報",
+      "summary": "",
+      "source": "中時新聞網",
+      "date": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QVHNYNE1MSnNwTF94R25HdDVXMWxCTWxRa2ROY2JOY19fOUMwTS1jZ3ptWmk1VGM1MTZnWmJDQmhWWWozS1RldWpWb0RxZEp1UmJzS1hlMHRYcGFlb3JhTjRSYXF5c1JWRjhR?oc=5"
+    },
+    {
+      "title": "默克 ADC 在中國研究中顯示出替代肺癌化療的潛力",
+      "summary": "華爾街分析師將這一結果視為“直接概念證明”，默克將 sac-TMT 視為“基石”藥物，可能成為未來一線肺癌治療標準的一部分。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-15",
+      "url": "https://www.biopharmadive.com/news/merck-sac-tmt-lung-cancer-optitrop-lung06-results/825277/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "儘管前景樂觀，強生仍下跌；阿斯特捷利康與 Spero 達成中國交易",
+      "summary": "由於腫瘤藥物銷售未達預期，強生股價下跌。在其他地方，阿斯特捷利康 (AstraZeneca) 在一種肺癌藥物上投入了 6 億美元，兩家生物技術公司獲得了今年頂級風險投資的兩輪融資。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-15",
+      "url": "https://www.biopharmadive.com/news/jnj-earnings-astrazeneca-spero-china-chai-advancell-summit/825208/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "細胞治療技術市場規模、份額|預測 [2034]",
+      "summary": "野兔 |預測[2034]財富商業洞察",
       "source": "Fortune Business Insights",
       "date": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVHFnVFd1aEdxd21FX0E3cXZKU0ZxV3g4Nzlfa3RUUEs1VzlieHUyZGlnMUI0RkphWmQ2Wmo3dlBMdUx3VnZkeUViMVZIOUdaLWUxbmVNNWpBT3AwMGpvU0FaUTJDWm9TNG1HLXMxLWVIVEdveVItQmo1VjhnWTBpUW5WS3EyZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫學市場規模預計2035年將達到2348.5億美元",
-      "summary": "根據Precedence Research報告，再生醫學市場規模預計2035年將達到2348.5億美元。",
+      "title": "2035年再生醫學市場規模將達2,348.5億美元",
+      "summary": "到 2035 年將達到 2,348.5 億美元 先行研究",
       "source": "Precedence Research",
       "date": "2026-07-02",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tN2JFWlpOTTJCUWdoSG9ZZlpTblpEelkzVi1GNlhNWVZRem1IRUdfNldOaVdLMDBpWVVXaXB5Z1UtWlEwWmptT0JaM05BVGNDOENOTlcteGFDY215YTdQTUE0WDFjNktjS1BhZlBVaXg?oc=5",
       "lang": "zh-TW"
-    },
-    {
-      "title": "再生醫療雙法上路！賴清德：全力支持生醫發展、打造台灣下一座護國神山",
-      "summary": "",
-      "source": "三立新聞",
-      "date": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjNXlDdG5aRGVvcW1BTXpZVHlJSWZDaUlMYmdSX2dxOHVyUTdfeGpRZ2hKX1U0TWdPamttV1A2WnJ5T3pCanZzN9IBTEFVX3lxTFBBLVJxNUpHcEJVQTFnNTlpSU1taDUyOTUtNkY3ekFjMVRuS0lFX3NJZGItTW0tSVJqWDZaNjMzMUIzanpvcEFNWERoT2w?oc=5"
     },
     {
       "title": "沛爾 CAR-T 拚年底取藥證，tcmc 廠啟用攻細胞治療",

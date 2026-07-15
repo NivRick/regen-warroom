@@ -1,13 +1,37 @@
 {
   "module": "funding",
-  "updated": "2026-07-15T12:14:16.371776+00:00",
+  "updated": "2026-07-15T23:52:25.372440+00:00",
   "items": [
     {
-      "title": "STAT+：美國爭議性藥品折扣計畫銷售額去年飆破1,000億美元",
-      "summary": "在一個備受爭議的政府藥品折扣計畫下採購的處方藥，在2025年銷售額達到1,000億美元，比前一年成長了22.",
+      "title": "格雷厄姆死於主動脈剝離引發了關於預防這種罕見疾病的問題",
+      "summary": "當身體最重要的血管從內部撕裂時，這可能是一場可能持續數年的醫療緊急情況。",
       "source": "STAT News",
-      "date": "2026-07-14",
-      "url": "https://www.statnews.com/pharmalot/2026/07/14/sales-from-controversial-drug-discount-program-rose-to-100-billion-last-year/?utm_campaign=rss",
+      "date": "2026-07-15",
+      "url": "https://www.statnews.com/2026/07/15/lindsay-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Glenmark to pay $29.6 million to settle price-fixing allegations in long-running battle with states",
+      "summary": "Glenmark Pharmaceuticals 同意支付 2960 萬美元，以和解與數十個州的長期鬥爭中的價格操縱指控。",
+      "source": "STAT News",
+      "date": "2026-07-15",
+      "url": "https://www.statnews.com/pharmalot/2026/07/15/glenmark-pay-29-million-settle-price-fixing-allegations/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Braveheart 和 Attovia 加入下一波生物技術 首次公開上市（IPO）",
+      "summary": "這兩家新創公司分別是本月第三和第四家提出IPO計畫的新創公司，旨在充分利用已經實現數次大額IPO的動能。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-15",
+      "url": "https://www.biopharmadive.com/news/attovia-braveheart-biotech-ipo-filings-2026/825293/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "儘管前景樂觀，強生仍下跌；阿斯特捷利康與 Spero 達成中國交易",
+      "summary": "由於腫瘤藥物銷售未達預期，強生股價下跌。在其他地方，阿斯特捷利康 (AstraZeneca) 在一種肺癌藥物上投入了 6 億美元，兩家生物技術公司獲得了今年頂級風險投資的兩輪融資。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-15",
+      "url": "https://www.biopharmadive.com/news/jnj-earnings-astrazeneca-spero-china-chai-advancell-summit/825208/",
       "lang": "zh-TW"
     },
     {
@@ -35,19 +59,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Agenus 因研究重點而飆升； Apnimed 正在籌備 首次公開上市（IPO）",
-      "summary": "Agenus 在財務上放棄了一項正在進行的晚期結直腸癌研究。在其他地方，伊波拉疫苗開始進行人體測試，百時美施貴寶的一種重要藥物也獲得了 美國食藥局（FDA） 的決定日期。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-13",
-      "url": "https://www.biopharmadive.com/news/agenus-surges-on-study-pivot-apnimed-lines-up-an-ipo/825023/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "儘管創投反彈，生技新創企業資金缺口仍在擴大",
-      "summary": "儘管融資總額達到了 2022 年初以來的最高水平，但行業觀察人士擔心小型新創公司正在落後。",
+      "summary": "創投反彈 生物製藥 Dive",
       "source": "BioPharma Dive",
       "date": "2026-07-13",
-      "url": "https://www.biopharmadive.com/news/biotech-venture-capital-funding-2026-first-half/824881/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGhDM3hXSTRJVjFiQ19JeTRzZmMyRGd5Yng5T2N4c3JHYUJzTWVtSmNGcXdPR0JvSzlUcG1zRG90UHFxVnhxLUViSkVSVU9Qa0cwVnoycWRmVUJYUG9jLU9seDNES0tJaExKaVNwc25mTWpETG5Ia19BdEhxZ2VNZmV3UnFrbHRfQ3V0VS1tOGl3ejVY?oc=5",
       "lang": "zh-TW"
     },
     {

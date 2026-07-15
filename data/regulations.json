@@ -1,7 +1,39 @@
 {
   "module": "regulation",
-  "updated": "2026-07-15T12:13:58.110627+00:00",
+  "updated": "2026-07-15T23:51:58.759244+00:00",
   "items": [
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-07-15",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 圓桌會議：加強血液製造供應鏈 - 2026 年 9 月 29 日",
+      "summary": "2026 年 9 月 29 日，美國食品藥物管理局生物製品評估與研究中心血液研究與審查辦公室將舉辦圓桌會議，討論加強全血採集和製造的供應鏈",
+      "source": "09/29/2026",
+      "date": "2026-07-15",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-september-29-2026-09292026",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "研討會、會議和大會（生物製劑）",
+      "summary": "有關 CBER 主辦或共同主辦的有關各種生物製品的會議、大會和研討會的信息，以便教育公眾並徵求有關各方的意見。",
+      "source": "FDA Biologics",
+      "date": "2026-07-15",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BIMO/團隊生物製劑/網路監控/其他",
+      "summary": "這是 CBER e/Other 的主頁。",
+      "source": "FDA Biologics",
+      "date": "2026-07-15",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/enforcement-actions-cber/bimoteam-biologicsinternet-surveillanceother",
+      "lang": "zh-TW"
+    },
     {
       "title": "阿斯特捷利康以高達 $1.5B 的價格獲得 Dizal 肺癌藥物的全球權利",
       "summary": "Dizal 一直在尋求 美國食藥局（FDA） 和中國藥品審查中心 (CDE) 批准 Zegfrovy 的新適應症，作為具有外顯子 20 插入 EGFR 突變的 NSCLC 的一線治療。 post zal 肺癌藥物高達 $1.5B ap",
@@ -11,55 +43,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "艾科博生物取得日本醫藥品醫療器材綜合機構（PMDA）針對GMP等級IL-15的材料適用性確認，確保品質可靠並強化生技藥品核准流程",
-      "summary": "艾科博生物的GMP等級IL-15取得日本PMDA材料適用性確認，不僅確保產品品質，也將",
+      "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程",
+      "summary": "GMP 級 IL-15 穩定性確認，確保可靠品質並加強生物製藥審批流程 - 馬尼拉時報",
       "source": "The Manila Times",
       "date": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNR2FMMFpicHd0UmN3dlBuamJpck8zXy1qOHNocllueXZXOUVEekY2SmxpMXFkNlluam1SaVE4MUFoNEFoeFJBcGtqZFd4MG8zMzNPNHpQOE5OTE12WWNFem1xQlVQajM2WUZ3ZXRYNGhEcDZoU1VCYV8taXBmeVBpTzBXZWtPeG5kU2FVS0l0S2N6OWtub0s5Smw2eGNBRUp3ZElKa2NPT1Z4aVotTWNJOV9XaDdCaUVXSW5fRVUwc2szeW9MYlFfbkFXVDRmVkZxVjRXbU15TUVOc2k5TmlIaWIwbzV2OEducDV6YS1lVEJrUDJOYms3S1RCaWkzSV9nQXdVOUpDU1ZoSnJtUTRaZVRYal9VUmxBVEVvQ1RvM3NEelFraFF4UlRKY0pJbFp2OE04alpvMVZlNW9ydkcwQVlaVGdqZkVZTS1Ya2VocUgxR0JQUmtUMUxKNznSAdwCQVVfeXFMTUdhTDBaYnB3dFJjd3ZQbmpiaXJPM18tajhzaHJZbnl2VzlFRHpGNkpsaTFxZDZZbmptUmlRODFBaDRBaHhSQXBramRXeDBvMzMzTzR6UDhOTkxNdlljRXptcUJVUGozNllGd2V0WDRoRHA2aFNVQmFfLWlwZnlQaU8wV2VrT3huZFNhVUtJdEtjejlrbm9LOUpsNnhjQUVKd2RJSmtjT09WeGlaLU1jSTlfV2g3QmlFV0luX0VVMHNrM3lvTGJRX25BV1Q0ZlZGcVY0V21NeU1FTnNpOU5pSGliMG81djhHbnA1emEtZVRCa1AyTmJrN0tUQmlpM0lfZ0F3VTlKQ1NWaEpybVE0WmVUWGpfVVJsQVRFb0NUbzNzRHpRa2hReFJUSmNKSWxadjhNOGpabzFWZTVvcnZHMEFZWlRnamZFWU0tWGtlaHFIMUdCUFJrVDFMSjc5?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "新型表觀遺傳療法針對治療抗藥性和 TP53 突變的 AML",
-      "summary": "一項針對多種急性髓性白血病模型的臨床前研究結果發現，研究中的低甲基化藥物 NTX-301 透過活化 Hippo 通路，對難治性 AML 和 TP53 突變 AML 仍然有效。",
-      "source": "GEN News",
-      "date": "2026-07-14",
-      "url": "https://www.genengnews.com/topics/drug-discovery/novel-epigenetic-therapy-targets-treatment-resistant-and-tp53-mutant-aml/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 發布簡化先進分銷製造商註冊流程的提案",
-      "summary": "分散式製造業採用中心輻射模式，在不同地點設有中央品質監督中心和多個等效製造單位。法規要求網路中的每個製造單位都必須註冊",
-      "source": "GEN News",
-      "date": "2026-07-14",
-      "url": "https://www.genengnews.com/topics/bioprocessing/fda-issues-proposal-to-streamline-registration-for-advanced-distributed-manufacturers/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BIMO/生物製劑團隊/網路監控/其他",
-      "summary": "這是美國食品藥物管理局生物製劑評估與研究中心（CBER）相關資訊的主頁。",
-      "source": "FDA Biologics",
-      "date": "2026-07-13",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/enforcement-actions-cber/bimoteam-biologicsinternet-surveillanceother",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "抗體藥物偶聯物 (ADC) 製造的分析挑戰",
-      "summary": "這一系列文章和專家觀點探討了塑造\n當今 ADC 的發展，從分析策略和雜質控製到連接器技術\n創新和不斷發展的監管標準。它還檢查",
-      "source": "GEN News",
-      "date": "2026-07-13",
-      "url": "https://www.genengnews.com/resources/ebooks/analytical-challenges-for-antibody-drug-conjugate-adc-manufacturing/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製劑最新消息",
-      "summary": "美國食品藥物管理局生物製劑評估與研究中心（C",
-      "source": "FDA Biologics",
-      "date": "2026-07-10",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Biologics Procedures (SOPPs)",
+      "title": "生物製品程序 (SOPP)",
       "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-07-10",
@@ -67,7 +59,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Clinical Investigator Inspection List L-P",
+      "title": "臨床研究者檢查清單 L-P",
       "summary": "包含透過臨床研究人員 (L-P) 的檢查收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心審查的研究性新藥或研究設備進行了研究",
       "source": "FDA Biologics",
       "date": "2026-07-10",
@@ -88,22 +80,6 @@
       "source": "FDA Biologics",
       "date": "2026-07-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "臨床研究者狀態（生物製品）",
-      "summary": "Clinical Investigator Inspection List from inspections of clinical investigators who have conducted studies with investigational new drugs or investigational devices reviewed by CBER",
-      "source": "FDA Biologics",
-      "date": "2026-07-10",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-status-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Data-Cyte Plus、Reverse-Cyte、Search-Cyte 試劑紅血球",
-      "summary": "試劑紅血球批准頁",
-      "source": "STN 103898",
-      "date": "2026-07-10",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/data-cyte-plus-reverse-cyte-search-cyte-reagent-red-blood-cells-stn-103898",
       "lang": "zh-TW"
     },
     {
