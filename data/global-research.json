@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-07-16T12:18:03.358140+00:00",
+  "updated": "2026-07-16T23:48:49.785902+00:00",
   "items": [
     {
       "title": "高效表現全長三股螺旋重組第三型膠原蛋白",
-      "summary": "本研究探討如何高效生產全長三股螺旋重組第三型膠原蛋白，此膠原蛋白在傷口癒合與組織修復中扮演關鍵角色。",
+      "summary": "本研究探討如何高效生產全長三股螺旋重組第三型膠原蛋白（COL3A1），此蛋白在血管與皮膚組織中含量豐富，對傷口癒合與組織再生至關重要。",
       "source": "PubMed",
       "date": "2026-07-16",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL（特定新",
-      "summary": "",
+      "title": "個人化 SNAP™-TIL（特異性新抗原勝肽-TIL）治療平台的臨床前概念驗證。",
+      "summary": "腫瘤浸潤淋巴細胞 (TIL) 療法涉及提取、擴增和重新註入免疫細胞以靶向癌細胞，該療法在黑色素瘤治療中已顯示出前景，但需要優化以獲得更廣泛的療效。 TIL 療法的成功取決於對腫瘤相關...",
       "source": "PubMed",
       "date": "2026-07-16",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402813/",
@@ -44,7 +44,7 @@
     },
     {
       "title": "即時感測整合類器官晶片平台：技術進步與新興生物醫學應用。",
-      "summary": "作为由干细胞自组织的微型 3D 组织，类器官可以高度概括人体器官的细胞组成和复杂的空间结构，使其成为生物医学研究中的关键生理模型。儘管類器官在微生物方面具有顯著的優勢...",
+      "summary": "作為由幹細胞自組織的微型 3D 組織，類器官可以高度概括人體器官的細胞組成和複雜的空間結構，使其成為生物醫學研究中的關鍵生理模型。儘管類器官在微生物方面具有顯著的優勢...",
       "source": "PubMed",
       "date": "2026-07-16",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436951/",
@@ -67,7 +67,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "繞過多能性：重組微脂肪直接分化成多譜系類器官的潛力",
+      "title": "繞過多能性：從再聚合微脂肪直接分化形成多譜系類器官的潛力",
       "summary": "類器官技術已成為再生醫學的強大工具；然而，目前的類器官技術主要基於多能性...",
       "source": "PubMed",
       "date": "2026-07-16",
@@ -75,7 +75,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "調節衰老代謝的分層支架可恢復NAD",
+      "title": "調節衰老代謝的分層支架可",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-16",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "高強度熱壓力可望增強過繼性NK細胞對低分化肝細胞癌的毒殺能力",
-      "summary": "經皮熱消融術常用於治療早期、無法手術切除的肝細胞癌（HCC）。研究顯示，高強度熱壓力能有效增強過繼性NK細胞免疫療法對低分化",
+      "title": "高強度熱壓力可增強NK細胞在分化不良肝細胞癌中的細胞毒殺作用",
+      "summary": "研究顯示，高強度熱壓力能有效提升NK細胞對分化不良肝細胞癌的毒殺能力，為肝癌治療帶來新契機。",
       "source": "PubMed",
       "date": "2026-07-16",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42311101/",
@@ -187,8 +187,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "一項單臂、非隨機的先導性臨床試驗，旨在評估自體抗C19細胞（ARI-0001）的安全性，並探討在地生產嵌合抗原受體T細胞療法（CAR-T）的可行性",
-      "summary": "狀態：尚未招募｜主",
+      "title": "這項臨床試驗旨在評估自體抗C19細胞（ARI-0001）的安全性以及本地生產嵌合抗原受體T細胞（CAR-T）的可行性",
+      "summary": "狀態：尚未招募｜主辦：GUSTAVO SALGUERO｜這項研究是混合型",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-16",
       "url": "https://clinicaltrials.gov/study/NCT07412405",
@@ -219,8 +219,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "臨床一期：Axatilimab合併嵌合抗原受體T細胞療法（CAR-T）治療高風險淋巴癌",
-      "summary": "狀態：尚未招募｜主辦單位：Northside Hospital, Inc.｜Axatilimab合併嵌合抗原受體T細胞療法（CAR-T）用於高風險",
+      "title": "Axatilimab合併嵌合抗原受體T細胞療法（CAR-T）治療高風險淋巴癌的第一期臨床試驗",
+      "summary": "狀態：尚未招募｜主辦單位：Northside Hospital, Inc.｜探討Axatilimab合併嵌合抗原受體T細胞療法（CAR-T）治療高風險",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-16",
       "url": "https://clinicaltrials.gov/study/NCT07638982",
@@ -235,8 +235,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "自體和細胞起源擴展了細胞療法的製造工藝",
-      "summary": "使用 Constellation 和 autoloMATE 的組合解決方案克服了碎片化、可視性有限以及缺乏標準化、可互操作的資料流的問題，而無需更換現有流程，使製造商能夠擴展到商業可行性",
+      "title": "AI 設計的合成類 基因剪輯技術（CRISPR） 核酸酶在細胞中顯示出活性",
+      "summary": "科學家利用人工智慧設計了具有自然界中未發現的特性的 基因剪輯技術（CRISPR） 核酸酶，儘管蛋白質具有複雜的多結構域結構，但其活性卻可以與天然酶相匹配或超過。貼文 ses 顯示 Ce 中的活動",
+      "source": "GEN News",
+      "date": "2026-07-16",
+      "url": "https://www.genengnews.com/topics/genome-editing/ai-designed-synthetic-crispr-like-nucleases-show-activity-in-cells/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Autolomous 與 Cellular Origins 擴大細胞治療製造流程",
+      "summary": "結合 Constellation 和 autoloMATE 的解決方案，克服了細胞治療製造過程中碎片化、能見度有限以及缺乏標準化、可互通資料的問題。",
       "source": "GEN News",
       "date": "2026-07-16",
       "url": "https://www.genengnews.com/topics/bioprocessing/autolomous-and-cellular-origins-expand-cell-therapy-manufacturing-process/",
@@ -251,16 +259,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "AI有望為細胞與基因療法（CGT）產業帶來更深入的製造洞察與更強的掌控力",
-      "summary": "AI能幫助細胞與基因療法公司更深入了解其複雜的生產製程。這項技術的最終效益將是...",
+      "title": "人工智慧（AI）能為細胞與基因療法",
+      "summary": "",
       "source": "GEN News",
       "date": "2026-07-15",
       "url": "https://www.genengnews.com/topics/bioprocessing/ai-could-give-cgt-sector-greater-manufacturing-insights-and-control/",
       "lang": "zh-TW"
     },
     {
-      "title": "病患來源類器官為慢性胰",
-      "summary": "",
+      "title": "基於患者來源的類器官的慢性胰臟炎治療",
+      "summary": "類器官已成為彌合細胞和人類研究之間差距的流行工具。 一項新的類器官研究揭示了慢性胰臟炎的發展並確定了可能的治療策略。 Patient-Derived 類器官 的貼文首次出現",
       "source": "GEN News",
       "date": "2026-07-15",
       "url": "https://www.genengnews.com/topics/drug-discovery/chronic-pancreatitis-therapies-informed-by-patient-derived-organoids/",
@@ -283,14 +291,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Longeveron 宣佈在 2026 年阿茲海默症協會國際會議 (AAIC) 上展示臨床數據，顯示其細胞療法 Laromestrocel 可減少阿茲海默症患者的神經炎症",
-      "summary": "2026 年阿茲海默症協會國際會議 (AAIC) 上的重要數據表明，Laromestrocel 細胞療法可減少阿茲海默症患者的神經發炎 雅虎財經",
-      "source": "Yahoo Finance",
-      "date": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmh4dUZveER2TjVBNUZEZ2RjckhXRVZCUXdGQmxiTWliTGpuTk5HSUNOYjlmZTl3eU9jWmdlQzBaZ2plZ0ZqQ0JKSW1obHBRRWhFQVBFLVNRZWY3anFlYkhjNEN0WFVWRzlJQWR4elRXd0haOGlzWXkwMDd6WmFfM2ozU0VDNFg3dHFtQ0ktbEJtMy12VUpfUGFwT3VSRjNfdE53T2ZpaEVNY3lO?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "在阿茲海默症試驗中，幹細胞療法 laromestrocel 將腦部掃描變化與更好的認知聯繫起來",
       "summary": "在阿茲海默症試驗中，ain 掃描可改善認知能力 Stock Titan",
       "source": "Stock Titan",
@@ -299,19 +299,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA神經科藥物審查總覽：2026年6月",
-      "summary": "美國FDA彙整2026年6月神經學領域的最新審查與核准動態。",
+      "title": "美國FDA（食品藥物管理局）2026年6月神經醫學重點回顧",
+      "summary": "美國FDA（食品藥物管理局）於2026年6月發布的神經醫學領域最新進展總覽。內容涵蓋該月在神經疾病治療上的新藥核准、臨床試驗更新及相關政策動態，為業界提供重要參考資訊。",
       "source": "Medscape",
       "date": "2026-07-10",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXNHRFFUd3hwYzZaSGVvVDYzUUpHTmhvZ1hMSEJFMGVhMlFuYTktbVN5ekNvYm1XZ0tDZkJzcU8ybzhNZmZOQnBMaE1janBTdWpvTEMzN0pzcWx5SWN3VFFfWUp6QnMzdXlZWWI4eHRLdlFIWDFqMTVrSURpTVF0WlRfc3J4c0tL?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "到 2035 年，亞太地區磁珠市場規模將達 69.5 億美元",
-      "summary": "到 2035 年將領先 69.5 億美元 Precedence Research",
-      "source": "Precedence Research",
-      "date": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3cXdrd3pDUmFCYm54b2w2ajU0VWsxQndvdFAwTG9vODA3UDdKUDRBVjhMSzBFeExNTm5xSXczbF9INU1ac19ySllpcl9FSDV1eVJjTEJVaEw5azNlclZaYmd4UFUyYTQzMGVZQjhROTh6Wm9FaTZhekZB?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -323,27 +315,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 即將做出的 2026 年決定可能會擴大腫瘤和乙型肝炎的治療選擇",
-      "summary": "腫瘤學和乙型肝炎的治療選擇 American Journal of Managed Care® (AJMC®)",
-      "source": "The American Journal of Managed Care® (AJMC®)",
-      "date": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjg3RV93cGoyaXVFenM1dkV5V2JTS1lNWG96ZHM2RmNCYlo0UHd1WWFzbU9KV0xWWGN6RW1fUzNncFQ2cjE4YXhLcERQTnhNM0IwcVM4Y2tsMFhINHc4eHhyVjJ4a3VnWmJNN1F5ZXBmR3YzMzdqWExVQ3BLOWlyWVJLRmlRTDd1UUpFS21BV0N0S25Wb1dMdGpLay1wWEJCUExtUFVNLXpEMFJZZ1hqSWUxSDNpelk?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "[第二階段] 在 CAR-T細胞療法 細胞治療後疾病復發的套細胞淋巴瘤（一种血癌）患者中測試抗癌藥物 Glofitamab",
       "summary": "狀態：招募中｜主辦單位：美國國家癌症研究所（NCI）｜這項 II 期試驗測試了 glofitamab 和 obinutuzumab 的安全性和副作用，以及它們在治療經過一段時間的改善（復發）後復發或對之前的治療沒有反應的套細胞淋巴瘤患者方面的效果如何。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-08",
       "url": "https://clinicaltrials.gov/study/NCT07003295",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 批准首個基因治療技術治療鐮狀細胞疾病兒童",
-      "summary": "治療鐮狀細胞疾病兒童的方法 - 健康新聞",
-      "source": "The Well News",
-      "date": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUlFUmlNR01Xc3NudlFZM2I2ZEJadnNjLU9aQ1ZITDdlaXJfbjRRMzR4elpCZmRmcEQwdE1xTHZTZV85RlZ5cWJhRlV3RDZCMmF5aF8zMjl0QmdTX0dyTVJUQy0ydUk0dUxOeExmYmRGTGVuMmc4UU4tWERVNERfOG5vTWZCcTdsbXo3V0lMNjc0U1QwYmVjeU5GeEhlYzRvcW1OWUZ1aHViSjl2cXI4ZkdVMFB5NEFyMDAwVGxn?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -356,7 +332,7 @@
     },
     {
       "title": "[第 2 階段] ERASE 研究（一項 MyeloMATCH 治療試驗）測試聯合療法在初始治療後持續性低水平急性髓性白血病患者中的使用情況",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：美國國家癌症研究所 (NCI)｜這項 II 期 MyeloMATCH 治療試驗比較了阿糖胞苷與阿糖胞苷和維奈托克與脂質體封裝的柔紅黴素-阿糖胞苷和維奈托克與阿扎胞苷和維奈托克患者在治療術後殘留疾病的結果中的作用。",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：美國國家癌症研究所 (NCI)｜這項 II 期 MyeloMATCH 治療試驗比較了阿糖胞苷與阿糖胞苷和維奈托克與脂質體封裝的柔紅黴素-阿糖胞苷和維奈托克與阿扎胞苷和維奈托克患者在治療術後殘留疾病的情況。",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-01",
       "url": "https://clinicaltrials.gov/study/NCT05554419",
@@ -400,6 +376,30 @@
       "source": "ClinicalTrials.gov｜Canada",
       "date": "2026-06-30",
       "url": "https://clinicaltrials.gov/study/NCT07297667",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[第 3 期] 特瑞普利單抗 ± 化療作為 LA-HNSCC 的新輔助治療：III 期試驗",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：中山大學｜這項研究比較了局部晚期頭頸部鱗狀細胞癌的兩種短期術前治療方法，看看哪一種可以更長時間地阻止癌症復發。\n\n符合條件的患者（18-70歲，新診斷，可手術）將被隨機分配",
+      "source": "ClinicalTrials.gov｜Global",
+      "date": "2026-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07371897",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "細胞療法試驗報告了更多有關嚴重難治性自體免疫疾病緩解和復發的數據",
+      "summary": "嚴重難治性自體免疫疾病的緩解和復發 Medscape",
+      "source": "Medscape",
+      "date": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQempLbzJfclZ0VDB3V05VUXN6VjFXdENvRVFEU3R0NndjZnRRQ3R3ekZQSGVsY1BoSWpHYmV6cktXZnZRc2dLTEpVMzlwend2WWtsNlF5WU1tNktack80QVU4NFBVMnpOLVhjRzBjTkFaRER3SnlaNnJiWXBiSFRpVjZESm92d1Jzd3RaMTY1TWo5bFlDTUpnZnd1RHFzc3lyZVRpSmoyTGVIdw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "署長級國家優先審查憑證（CNPV）試辦計畫",
+      "summary": "美國FDA（食品藥物管理局）的CNPV試辦計畫相關資訊。",
+      "source": "fda.gov",
+      "date": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
       "lang": "zh-TW"
     }
   ]
