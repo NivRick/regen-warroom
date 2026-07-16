@@ -1,17 +1,25 @@
 {
   "module": "funding",
-  "updated": "2026-07-15T23:52:25.372440+00:00",
+  "updated": "2026-07-16T12:19:45.911852+00:00",
   "items": [
     {
-      "title": "格雷厄姆死於主動脈剝離引發了關於預防這種罕見疾病的問題",
-      "summary": "當身體最重要的血管從內部撕裂時，這可能是一場可能持續數年的醫療緊急情況。",
+      "title": "STAT+: Eli Lilly 收購專注迷幻藥物生技公司 AtaiBeckley",
+      "summary": "Eli Lilly 將以 28 億美元預付款收購專注迷幻藥物生技公司 AtaiBeckley，此舉將擴大其神經科學產品線。",
+      "source": "STAT News",
+      "date": "2026-07-16",
+      "url": "https://www.statnews.com/2026/07/16/eli-lilly-acquire-ataibeckley-psychedelics-depression/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Graham",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-07-15",
       "url": "https://www.statnews.com/2026/07/15/lindsay-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Glenmark to pay $29.6 million to settle price-fixing allegations in long-running battle with states",
+      "title": "STAT+：Glenmark 支付 2960 萬美元以和解與各州長期鬥爭中的價格操縱指控",
       "summary": "Glenmark Pharmaceuticals 同意支付 2960 萬美元，以和解與數十個州的長期鬥爭中的價格操縱指控。",
       "source": "STAT News",
       "date": "2026-07-15",
@@ -59,15 +67,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "儘管創投反彈，生技新創企業資金缺口仍在擴大",
-      "summary": "創投反彈 生物製藥 Dive",
+      "title": "生技新創募資缺口擴大，儘管創投投資回溫",
+      "summary": "儘管創投（VC）投資有所回溫，但生技新創公司的資金缺口卻持續擴大，顯示產業募資環境仍面臨挑戰。",
       "source": "BioPharma Dive",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGhDM3hXSTRJVjFiQ19JeTRzZmMyRGd5Yng5T2N4c3JHYUJzTWVtSmNGcXdPR0JvSzlUcG1zRG90UHFxVnhxLUViSkVSVU9Qa0cwVnoycWRmVUJYUG9jLU9seDNES0tJaExKaVNwc25mTWpETG5Ia19BdEhxZ2VNZmV3UnFrbHRfQ3V0VS1tOGl3ejVY?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "基因編輯開發商 Scribe 計畫首次公開募股",
+      "title": "基因編輯開發商Scribe規劃",
       "summary": "",
       "source": "BioPharma Dive",
       "date": "2026-07-06",
