@@ -1,29 +1,53 @@
 {
   "module": "funding",
-  "updated": "2026-07-17T12:04:57.105306+00:00",
+  "updated": "2026-07-17T23:43:50.664642+00:00",
   "items": [
     {
-      "title": "MDCalc為數百萬醫生使用的臨床計算器建立評分機制",
-      "summary": "MDCalc正為超過800個臨床計算器推出品質評分系統，這些計算器用於評估疾病風險、移植適用性等。",
+      "title": "STAT+：葛蘭素史克慢性咳嗽治療的終結",
+      "summary": "Sonothera 的超音波基因療法、一種新的阿茲海默症藥物爭議以及來自 The Readout 的更多生物技術新聞",
+      "source": "STAT News",
+      "date": "2026-07-17",
+      "url": "https://www.statnews.com/2026/07/17/biotech-news-gsk-chronic-cough-treatment-meets-the-end-of-the-line/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：MDCalc 正在對數百萬醫生使用的臨床計算器進行評分",
+      "summary": "MDCalc 正在為 800 多個臨床計算器推出品質評級系統，用於評估疾病風險、移植資格等。",
       "source": "STAT News",
       "date": "2026-07-17",
       "url": "https://www.statnews.com/2026/07/17/mdcalc-quality-ratings-clinical-algorithms-for-bias-validity/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "超音波能為基因療法帶來突破嗎？",
-      "summary": "",
+      "title": "STAT+：超音波能否釋放基因治療的力量？一家新創公司做出了重大聲明",
+      "summary": "Sonothera 正在開發一種將基因導入細胞的新方法，如果得到證實，可能會對肌肉萎縮症和其他疾病產生重大影響。",
       "source": "STAT News",
       "date": "2026-07-17",
       "url": "https://www.statnews.com/2026/07/17/sonathera-ultrasound-duchenne-muscular-dystrophy-treatment/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：禮來公司收購迷幻藥生技公司 AtaiBeckley",
-      "summary": "禮來公司 (Eli Lilly) 將以 28 億美元預付款收購專注於致幻劑的生物技術公司 AtaiBeckley，此舉將擴大其神經科學產品線。",
-      "source": "STAT News",
-      "date": "2026-07-16",
-      "url": "https://www.statnews.com/2026/07/16/eli-lilly-acquire-ataibeckley-psychedelics-depression/?utm_campaign=rss",
+      "title": "Jasper 透過與免疫製藥商 Kira 合併獲得了生命線",
+      "summary": "此次收購涉及與新創公司 Mirador 的同步授權協議，這為 Jasper 提供了從挫敗其大部分市場價值的挫折中反彈的機會。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-17",
+      "url": "https://www.biopharmadive.com/news/jasper-kira-merger-mirador-immune-drugs/825533/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Arbutus、賽諾菲升級 信使RNA（mRNA） 專利戰；諾誠健華TYK2競爭者取得進展",
+      "summary": "這些新訴訟加劇了新冠疫苗相關技術的法律爭議。在其他地方，一家多產的人工智慧生物技術公司簽署了另一項協議，Insmed 加強了對一種受到密切關注的血壓藥物的支持。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-17",
+      "url": "https://www.biopharmadive.com/news/arbutus-sanofi-mrna-insmed-innocare-tyk2-chai-argenx/825420/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "葛蘭素史克 (GSK) 下架以 20 億美元交易收購的止咳藥",
+      "summary": "camlipixant 的混合 3 期數據促使這家英國製藥公司停止開發，使該藥物成為同類藥物中第三個失敗的藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-17",
+      "url": "https://www.biopharmadive.com/news/gsk-camlipixant-cough-drug-shelved/825530/",
       "lang": "zh-TW"
     },
     {
@@ -35,40 +59,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "儘管前景樂觀，強生仍下跌；阿斯特捷利康與 Spero 達成中國交易",
-      "summary": "由於腫瘤藥物銷售未達預期，強生股價下跌。在其他地方，阿斯特捷利康 (AstraZeneca) 在一種肺癌藥物上投入了 6 億美元，兩家生物技術公司獲得了今年頂級風險投資的兩輪融資。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-15",
-      "url": "https://www.biopharmadive.com/news/jnj-earnings-astrazeneca-spero-china-chai-advancell-summit/825208/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CVS Caremark 就胰島素訴訟與 FTC 達成和解",
-      "summary": "週二宣布的交易條款與 FTC 今年稍早與 Express Scripts 達成的交易條款非常相似，包括要求 PBM 停止優先選擇標準處方集上成本較高的藥物版本。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-14",
-      "url": "https://www.biopharmadive.com/news/cvs-caremark-ftc-settlement-insulin-suit/825248/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "法官命令 Apple Tree 合作夥伴放棄對創投基金的監管",
-      "summary": "開曼群島法院的裁決為一場正在進行的法律糾紛增添了新的麻煩，該糾紛已經導致破產申請，以及普通合夥人塞斯·哈里森(Seth Harrison)對該公司投資組合公司的競購。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-14",
-      "url": "https://www.biopharmadive.com/news/apple-tree-partners-cayman-ruling-seth-harrison-startups/825172/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "剛完成收購，Akero 高層重聚開發長效牛皮癬藥物",
-      "summary": "Avere 準備透過借殼上市，該公司已從一家多產的中國製藥商那裡獲得了對 Skyrizi 和 Icotyde 等潛在威脅藥物的權利。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-14",
-      "url": "https://www.biopharmadive.com/news/avere-nextcure-merger-hansoh-china-il23-psoriasis/825151/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生技新創募資缺口擴大，儘管創投（VC）投資回溫",
-      "summary": "創投投資雖回溫，生技新創募資缺口仍擴大，顯示產業資金壓力。",
+      "title": "儘管創投反彈，生技新創企業資金缺口仍在擴大",
+      "summary": "創投反彈 生物製藥 Dive",
       "source": "BioPharma Dive",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGhDM3hXSTRJVjFiQ19JeTRzZmMyRGd5Yng5T2N4c3JHYUJzTWVtSmNGcXdPR0JvSzlUcG1zRG90UHFxVnhxLUViSkVSVU9Qa0cwVnoycWRmVUJYUG9jLU9seDNES0tJaExKaVNwc25mTWpETG5Ia19BdEhxZ2VNZmV3UnFrbHRfQ3V0VS1tOGl3ejVY?oc=5",

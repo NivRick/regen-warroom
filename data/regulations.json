@@ -1,45 +1,61 @@
 {
   "module": "regulation",
-  "updated": "2026-07-17T12:04:29.066666+00:00",
+  "updated": "2026-07-17T23:43:34.605656+00:00",
   "items": [
     {
-      "title": "生物製劑作業程序與政策（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）內部人員執行業務時所遵循的規範。",
+      "title": "CBER 監管產品的生物製品授權申請 (BLA)",
+      "summary": "生物製品許可證申請用於請求許可將生物製品引入或交付州際貿易。",
+      "source": "FDA Biologics",
+      "date": "2026-07-17",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/biologics-license-applications-blas-cber-regulated-products",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "希森特拉",
+      "summary": "產品核准資訊適用於治療成人和 2 歲及以上兒童患者的原發性免疫缺陷 (PI)。",
+      "source": "FDA Biologics",
+      "date": "2026-07-17",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/hizentra",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "伽瑪加德液體",
+      "summary": "產品核准資訊用於：\n• 成人及兩歲或以上兒童原發性體液免疫缺陷(PI) 的替代治療。\n• 維持治療以改善成年患者的肌肉力量和殘疾",
+      "source": "FDA Biologics",
+      "date": "2026-07-17",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/gammagard-liquid",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "比維加姆",
+      "summary": "產品核准資訊用於治療原發性體液免疫缺陷",
+      "source": "FDA Biologics",
+      "date": "2026-07-17",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/bivigam",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "八",
+      "summary": "產品核准資訊用於治療成人慢性免疫性紫斑症 (ITP)",
+      "source": "FDA Biologics",
+      "date": "2026-07-17",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/octagam",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-07-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-07-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 圓桌會議：加強血液製造供應鏈 - 2026 年 9 月 29 日",
-      "summary": "2026 年 9 月 29 日，美國食品藥物管理局生物製品評估與研究中心血液研究與審查辦公室將舉辦圓桌會議，討論加強全血採集和製造的供應鏈",
-      "source": "09/29/2026",
-      "date": "2026-07-15",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-september-29-2026-09292026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "研討會、會議和大會（生物製品）",
-      "summary": "有關 CBER 主辦或共同主辦的有關各種生物製品的會議、大會和研討會的信息，以便教育公眾並徵求有關各方的意見。",
-      "source": "FDA Biologics",
-      "date": "2026-07-15",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BIMO/團隊生物製劑/網路監控/其他",
-      "summary": "這是 CBER e/Other 的主頁。",
-      "source": "FDA Biologics",
-      "date": "2026-07-15",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/enforcement-actions-cber/bimoteam-biologicsinternet-surveillanceother",
       "lang": "zh-TW"
     },
     {
