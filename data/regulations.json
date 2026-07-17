@@ -1,17 +1,17 @@
 {
   "module": "regulation",
-  "updated": "2026-07-16T23:49:23.222897+00:00",
+  "updated": "2026-07-17T12:04:29.066666+00:00",
   "items": [
     {
-      "title": "生物製劑程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）員工執行業務時所使用的規範。",
+      "title": "生物製劑作業程序與政策（SOPPs）",
+      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）內部人員執行業務時所遵循的規範。",
       "source": "FDA Biologics",
       "date": "2026-07-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新消息",
+      "title": "生物製劑最新動態",
       "summary": "",
       "source": "FDA Biologics",
       "date": "2026-07-16",
@@ -40,14 +40,6 @@
       "source": "FDA Biologics",
       "date": "2026-07-15",
       "url": "http://www.fda.gov/vaccines-blood-biologics/enforcement-actions-cber/bimoteam-biologicsinternet-surveillanceother",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程",
-      "summary": "GMP 級 IL-15 穩定性確認，確保可靠品質並加強生物製藥審批流程 - 馬尼拉時報",
-      "source": "The Manila Times",
-      "date": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNR2FMMFpicHd0UmN3dlBuamJpck8zXy1qOHNocllueXZXOUVEekY2SmxpMXFkNlluam1SaVE4MUFoNEFoeFJBcGtqZFd4MG8zMzNPNHpQOE5OTE12WWNFem1xQlVQajM2WUZ3ZXRYNGhEcDZoU1VCYV8taXBmeVBpTzBXZWtPeG5kU2FVS0l0S2N6OWtub0s5Smw2eGNBRUp3ZElKa2NPT1Z4aVotTWNJOV9XaDdCaUVXSW5fRVUwc2szeW9MYlFfbkFXVDRmVkZxVjRXbU15TUVOc2k5TmlIaWIwbzV2OEducDV6YS1lVEJrUDJOYms3S1RCaWkzSV9nQXdVOUpDU1ZoSnJtUTRaZVRYal9VUmxBVEVvQ1RvM3NEelFraFF4UlRKY0pJbFp2OE04alpvMVZlNW9ydkcwQVlaVGdqZkVZTS1Ya2VocUgxR0JQUmtUMUxKNznSAdwCQVVfeXFMTUdhTDBaYnB3dFJjd3ZQbmpiaXJPM18tajhzaHJZbnl2VzlFRHpGNkpsaTFxZDZZbmptUmlRODFBaDRBaHhSQXBramRXeDBvMzMzTzR6UDhOTkxNdlljRXptcUJVUGozNllGd2V0WDRoRHA2aFNVQmFfLWlwZnlQaU8wV2VrT3huZFNhVUtJdEtjejlrbm9LOUpsNnhjQUVKd2RJSmtjT09WeGlaLU1jSTlfV2g3QmlFV0luX0VVMHNrM3lvTGJRX25BV1Q0ZlZGcVY0V21NeU1FTnNpOU5pSGliMG81djhHbnA1emEtZVRCa1AyTmJrN0tUQmlpM0lfZ0F3VTlKQ1NWaEpybVE0WmVUWGpfVVJsQVRFb0NUbzNzRHpRa2hReFJUSmNKSWxadjhNOGpabzFWZTVvcnZHMEFZWlRnamZFWU0tWGtlaHFIMUdCUFJrVDFMSjc5?oc=5",
       "lang": "zh-TW"
     },
     {

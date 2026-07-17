@@ -1,21 +1,29 @@
 {
   "module": "funding",
-  "updated": "2026-07-16T23:49:40.251713+00:00",
+  "updated": "2026-07-17T12:04:57.105306+00:00",
   "items": [
+    {
+      "title": "MDCalc為數百萬醫生使用的臨床計算器建立評分機制",
+      "summary": "MDCalc正為超過800個臨床計算器推出品質評分系統，這些計算器用於評估疾病風險、移植適用性等。",
+      "source": "STAT News",
+      "date": "2026-07-17",
+      "url": "https://www.statnews.com/2026/07/17/mdcalc-quality-ratings-clinical-algorithms-for-bias-validity/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "超音波能為基因療法帶來突破嗎？",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-07-17",
+      "url": "https://www.statnews.com/2026/07/17/sonathera-ultrasound-duchenne-muscular-dystrophy-treatment/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：禮來公司收購迷幻藥生技公司 AtaiBeckley",
       "summary": "禮來公司 (Eli Lilly) 將以 28 億美元預付款收購專注於致幻劑的生物技術公司 AtaiBeckley，此舉將擴大其神經科學產品線。",
       "source": "STAT News",
       "date": "2026-07-16",
       "url": "https://www.statnews.com/2026/07/16/eli-lilly-acquire-ataibeckley-psychedelics-depression/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "格雷厄姆死於主動脈剝離引發了關於預防這種罕見疾病的問題",
-      "summary": "當身體最重要的血管從內部撕裂時，這可能是一場可能持續數年的醫療緊急情況。",
-      "source": "STAT News",
-      "date": "2026-07-15",
-      "url": "https://www.statnews.com/2026/07/15/lindsey-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -59,19 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "儘管創投反彈，生技新創企業資金缺口仍在擴大",
-      "summary": "創投反彈 生物製藥 Dive",
+      "title": "生技新創募資缺口擴大，儘管創投（VC）投資回溫",
+      "summary": "創投投資雖回溫，生技新創募資缺口仍擴大，顯示產業資金壓力。",
       "source": "BioPharma Dive",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGhDM3hXSTRJVjFiQ19JeTRzZmMyRGd5Yng5T2N4c3JHYUJzTWVtSmNGcXdPR0JvSzlUcG1zRG90UHFxVnhxLUViSkVSVU9Qa0cwVnoycWRmVUJYUG9jLU9seDNES0tJaExKaVNwc25mTWpETG5Ia19BdEhxZ2VNZmV3UnFrbHRfQ3V0VS1tOGl3ejVY?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "基因編輯開發商 Scribe 計畫首次公開募股",
-      "summary": "",
-      "source": "BioPharma Dive",
-      "date": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNmpQZjBpcWk4eGNpbks0TEVpeF9DRGpBMGplSFplb2R6Z25IdHZFeHBaYmhCdDd2eTlFYURweUgxZm4tSkhCT2h6T29jbE96QnlheF9SZTRfd1NuMEJ3MUtoT3Rsa01yc09aSDBqOWtYcXI5ZnU3ZktwbU5kWm8?oc=5",
       "lang": "zh-TW"
     }
   ]
