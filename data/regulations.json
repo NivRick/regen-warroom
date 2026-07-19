@@ -1,26 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-07-18T23:44:08.766724+00:00",
+  "updated": "2026-07-19T11:51:14.676868+00:00",
   "items": [
     {
-      "title": "器官老化與免疫細胞相互作用的破壞和衰老的中性粒細胞清除有關",
-      "summary": "一項針對小鼠和人類細胞的研究發現，阻斷組織駐留巨噬細胞上的單一受體可以促進累積的衰老中性粒細胞的清除，保持小鼠多個器官的年輕狀態，並顯著減慢認知能力。",
+      "title": "器官老化與免疫細胞互動失調及衰老嗜中性球清除有關",
+      "summary": "器官老化與免疫細胞互動失調及衰老嗜中性球清除有關。",
       "source": "GEN News",
       "date": "2026-07-18",
       "url": "https://www.genengnews.com/topics/translational-medicine/organ-aging-linked-to-breakdown-in-immune-cell-interaction-and-senescent-neutrophil-clearance/",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 監管產品的生物製品授權申請 (BLA)",
-      "summary": "生物製品許可證申請用於請求許可將生物製品引入或交付州際貿易。",
+      "title": "生物製劑許可申請（BLA）與美國食品藥物管理局生物製劑評估與研究中心（CBER）監管產品",
+      "summary": "生物製劑許可申請（BLA）是用來請求核准，以便將生物製劑產品引進或交付至跨州商業銷售。",
       "source": "FDA Biologics",
       "date": "2026-07-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/biologics-license-applications-blas-cber-regulated-products",
       "lang": "zh-TW"
     },
     {
-      "title": "希森特拉",
-      "summary": "產品核准資訊適用於治療成人和 2 歲及以上兒童患者的原發性免疫缺陷 (PI)。",
+      "title": "HIZENTRA",
+      "summary": "本產品核准資訊指出，適用於治療成人",
       "source": "FDA Biologics",
       "date": "2026-07-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/hizentra",
@@ -64,6 +64,14 @@
       "source": "FDA Biologics",
       "date": "2026-07-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程",
+      "summary": "GMP 級 IL-15 穩定性確認，確保可靠品質並加強生物製藥審批流程 美通社",
+      "source": "PR Newswire",
+      "date": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxONGplRVFiWTNqRm9ZY1R0ZzI4SlQtcDJoV3BpcGdEcTRDUDhmU0FaTzhpVXBaZ2lQVllGV3RneEpsZXJfRV9jMEt5UHRQS1lqQlRsREZGeG9RemlHeERQNWJvSk1HVzFFTFNWdkR4MTBSTHhwZ3MwZlpyM2ZfQjZCU21jRlNGRWctcHZnNTFodDZvZ3NoT1V2emRpaktReFNEQ2tyOHFzejBtTVJZc05OV2ZEdWJYcWVVZlVQTVBsU3RyWjJlV2pfb1dubjBfZEZCbWk1c0h4Y256cTAtQURNV213UFBzcnpnRENFU3BhRmo2Y0FwMlpOaUZYeW9tQlVGbkg1dk5BZDNtSFZNXzlrQXZiSEhNcTBZdGl2WFZwYk5QX0xVU194dDgxdk5TbmduUGhhS1FZdWFiOG1iZkY0cFFB?oc=5",
       "lang": "zh-TW"
     },
     {
