@@ -1,26 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-07-19T11:51:28.606556+00:00",
+  "updated": "2026-07-19T23:49:44.034604+00:00",
   "items": [
     {
-      "title": "GSK的慢性咳嗽治療藥物走到盡頭",
-      "summary": "Sonothera的超音波基因療法遞送技術、阿茲海默症新藥爭議，以及更多來自The Readout的生技新聞。",
+      "title": "STAT+：葛蘭素史克慢性咳嗽治療的終結",
+      "summary": "Sonothera 的超音波基因療法、一種新的阿茲海默症藥物爭議以及來自 The Readout 的更多生物技術新聞",
       "source": "STAT News",
       "date": "2026-07-17",
       "url": "https://www.statnews.com/2026/07/17/biotech-news-gsk-chronic-cough-treatment-meets-the-end-of-the-line/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "MDCalc為數百萬醫生使用的臨床計算工具進行評分",
-      "summary": "MDCalc正針對超過800種用於評估疾病風險、移植資格等臨床計算工具，推出一套品質評分系統。",
+      "title": "STAT+：MDCalc 正在對數百萬醫生使用的臨床計算器進行評分",
+      "summary": "MDCalc 正在為 800 多個臨床計算器推出品質評級系統，用於評估疾病風險、移植資格等。",
       "source": "STAT News",
       "date": "2026-07-17",
       "url": "https://www.statnews.com/2026/07/17/mdcalc-quality-ratings-clinical-algorithms-for-bias-validity/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "超音波能否釋放基因療法的潛力？一家新創公司提出大膽主張",
-      "summary": "Sonother",
+      "title": "STAT+：超音波能否釋放基因治療的力量？一家新創公司做出了重大聲明",
+      "summary": "Sonothera 正在開發一種將基因導入細胞的新方法，如果得到證實，可能會對肌肉萎縮症和其他疾病產生重大影響。",
       "source": "STAT News",
       "date": "2026-07-17",
       "url": "https://www.statnews.com/2026/07/17/sonathera-ultrasound-duchenne-muscular-dystrophy-treatment/?utm_campaign=rss",
@@ -56,14 +56,6 @@
       "source": "BioPharma Dive",
       "date": "2026-07-15",
       "url": "https://www.biopharmadive.com/news/attovia-braveheart-biotech-ipo-filings-2026/825293/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "儘管創投反彈，生技新創企業資金缺口仍在擴大",
-      "summary": "創投反彈 生物製藥 Dive",
-      "source": "BioPharma Dive",
-      "date": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGhDM3hXSTRJVjFiQ19JeTRzZmMyRGd5Yng5T2N4c3JHYUJzTWVtSmNGcXdPR0JvSzlUcG1zRG90UHFxVnhxLUViSkVSVU9Qa0cwVnoycWRmVUJYUG9jLU9seDNES0tJaExKaVNwc25mTWpETG5Ia19BdEhxZ2VNZmV3UnFrbHRfQ3V0VS1tOGl3ejVY?oc=5",
       "lang": "zh-TW"
     }
   ]
