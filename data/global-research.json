@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-07-20T13:03:09.279549+00:00",
+  "updated": "2026-07-20T23:47:43.685582+00:00",
   "items": [
     {
       "title": "高效表現全長三股螺旋重組第三型膠原蛋白",
-      "summary": "本研究成功高效表現全長三股螺旋重組第三型膠原蛋白，為傷口癒合與組織修復帶來新希望。",
+      "summary": "成功開發高效表現全長三股螺旋重組第三型膠原蛋白的技術，有助於再生醫學應用。",
       "source": "PubMed",
       "date": "2026-07-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL（特定新抗原胜肽-腫瘤",
+      "title": "個人化SNAP™-TIL（特定新抗原胜肽-腫瘤浸潤淋巴細胞）",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-20",
@@ -67,7 +67,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "智慧響應式電紡支架 (SRES) 在神經修復的應用：最新進展與未來展望",
+      "title": "智慧響應式電紡支架（SRES）在神經修復的應用：最新進展與未來展望",
       "summary": "神經損傷會引發複雜、多階段的病理級聯反應，而傳統的臨床介入方式，例如藥物治療和手術...",
       "source": "PubMed",
       "date": "2026-07-20",
@@ -75,7 +75,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "即時感",
+      "title": "整合即",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-20",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "在 NOD/SCID 異種移植模型中，調節電熱療增強腫瘤細胞對 γδ T 細胞介導的細胞毒性和腫瘤浸潤的敏感性。",
-      "summary": "許多研究報告指出 γδ T 細胞療法是一種有前景的癌症免疫治療策略；然而，其功效仍受到腫瘤浸潤不足和目標細胞敏感性的限制。調製電熱療 (mEHT) 是一種局部熱療方式，...",
+      "title": "調控式電熱療提升腫瘤細胞對γδ T細胞介導細胞毒殺作用的敏感度，並增加腫瘤浸潤：在NOD/SCID異種移植模型中的研究",
+      "summary": "許多研究指出，γδ T細胞療法是治療癌症很有潛力的免疫療法策略，但其療效仍",
       "source": "PubMed",
       "date": "2026-07-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42338164/",
@@ -148,7 +148,7 @@
     },
     {
       "title": "京尼平交聯明膠/PVA 水凝膠的特性和羥基酪醇的軟骨保護作用：體外研究。",
-      "summary": "骨关节炎 (OA) 提出了重大的治疗挑战，需要创新的生物材料策略来减少慢性炎症并促进软骨再生。本研究開發了一種與京尼平 (GNP) 交聯的混合明膠 (GE)/聚乙烯醇 (PVA) 水凝膠，以有效...",
+      "summary": "骨關節炎 (OA) 提出了重大的治療挑戰，需要創新的生物材料策略來減少慢性發炎並促進軟骨再生。本研究開發了一種與京尼平 (GNP) 交聯的混合明膠 (GE)/聚乙烯醇 (PVA) 水凝膠，以有效...",
       "source": "PubMed",
       "date": "2026-07-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42331338/",
@@ -179,8 +179,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "胃癌與胃食道接合部（GEJ）腺癌中，腫瘤微環境互動的分子特性分析，以預測藥物抗性",
-      "summary": "這項由Azienda Ospedaliera Specializzata in Gastroenterologia Saverio de Bellis主辦的研究尚未開始招募。研究將分析胃癌與",
+      "title": "胃癌與胃食道接合部腺癌中，腫瘤微環境交互作用的分子特性分析，以預測藥物抗性",
+      "summary": "狀態：尚未招募｜主辦單位：薩維里奧德貝利斯胃腸病學專科醫院｜目前手術切除仍是唯一能治癒的",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-20",
       "url": "https://clinicaltrials.gov/study/NCT07692477",
@@ -229,14 +229,14 @@
     {
       "title": "[第 3 階段] 一項研究，比較 BMS-986353（Zolacabtagene-Autoleucel / Zola-cel）、CD19-CAR-T細胞療法 細胞與活動性系統性硬化症參與者的護理標準的療效和安全性",
       "summary": "狀態：招募中｜主辦單位：Juno Therapeutics, Inc., a Bristol-Myers Squibb Company｜本研究的目的是比較 BMS-986353 與標準護理對活動性系統性硬化症參與者的療效和安全性",
-      "source": "ClinicalTrials.gov｜Japan, France, Italy",
+      "source": "ClinicalTrials.gov｜United States, Japan, Germany",
       "date": "2026-07-20",
       "url": "https://clinicaltrials.gov/study/NCT07335562",
       "lang": "zh-TW"
     },
     {
-      "title": "MUSE幹細胞療法治療創傷性腦損傷患者的安全性與成效評估",
-      "summary": "狀態：尚未招募｜主辦：Healing Hope International｜這項前瞻性觀察性研究旨在評估MUSE幹細胞療法的安全性與病患回報的治療成效。",
+      "title": "創傷性腦損傷患者MUSE幹細胞療法的安全性與治療成效",
+      "summary": "狀態：尚未招募｜主辦：Healing Hope International｜這項前瞻性觀察性研究旨在評估MUSE幹細胞療法在創傷性腦損傷患者身上的安全性與病患回報的治療成效。",
       "source": "ClinicalTrials.gov｜Mexico, United States",
       "date": "2026-07-20",
       "url": "https://clinicaltrials.gov/study/NCT07326059",
@@ -267,27 +267,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "基因治療合作夥伴旨在增強蛋白質表達",
-      "summary": "Avenue Biosciences 的機器學習驅動平台設計並篩選信號肽變體，以增加細胞的蛋白質分泌。 Circio 的 circVec 技術已在多個試驗中證明了顯著增強且持久的基因表達",
+      "title": "患者來源的腫瘤類器官顯示出個人化癌症治療的前景",
+      "summary": "研究人員開發了一個源自 220 個樣本的全癌症患者類器官平台，該平台能夠忠實地反映腫瘤、識別新的治療機會，並透過實現個人化藥物測試來推進精準腫瘤學。\nPersonali 的貼文管理",
       "source": "GEN News",
-      "date": "2026-07-17",
-      "url": "https://www.genengnews.com/topics/genome-editing/gene-therapy-partners-aim-to-enhance-protein-expression/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Immatics 宣布三場 ESMO 2026 演講，重點介紹 PRAME 細胞療法和雙特異性管道",
-      "summary": "重點介紹 PRAME 細胞療法和雙特異性管道 Quiver 定量",
-      "source": "Quiver Quantitative",
-      "date": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcmhGRERBRXpJM2N6akVwTGJSTVg4emo5TF9UMERDNFlPb3ZkUXFRXzMzOVVidVZHNXBPTXJGVFQxY1VzMXN1RWpiVmhhQVg2OUo4MXBQOXFmYVRfRzktLTg1cC01ZnkwNnRkd05TNlJYUGdYVjRvaXdBTUZZMnZDcVFLRmE1N1dKOGEtUFNsb1h2c1h4c0RROHlId1FTSktRajVGS3BKZnF5LV9EeGxJaTNYWWtXdVkyaENWQ3NJa0RtZWRkMTcxdkpRREczY2JHay1J?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Immatics 宣布即將在 2026 年 ESMO 大會上展示其 PRAME 系列產品",
-      "summary": "s 在 2026 年 ESMO 大會上展示其 PRAME 特許經營權 投資新聞網絡",
-      "source": "Investing News Network",
-      "date": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbzJGdFJsNDBoci00WDgyT0htNVdpZHNlQThXV2hIcmFHUzRJVmJzSktDYlA0RXg3aTJQd1FteDNMN3l5R1ZaRHFDNlkwV19rYVNkTlZBMjhXbFR1MVBzbWZrbDBrSW9ZN216T09RX2xsY3ZRU1Rvd0tqbGVnUGFlMHNYaVdpSXA3Ri10LWdLMUp0b0xDbW5oc0RxV05TdDRXUjJqOFQ1b0dVMkliMmFkN2FNNlF6cVFF?oc=5",
+      "date": "2026-07-20",
+      "url": "https://www.genengnews.com/topics/cancer/patient-derived-tumor-organoids-show-promise-for-personalizing-cancer-treatment/",
       "lang": "zh-TW"
     },
     {
@@ -299,16 +283,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "AI設計的合成CRISPR類核酸酶在細胞中展現活性",
-      "summary": "科學家利用人工智慧（AI）設計出自然界不存在的CRISPR核酸酶，其活性甚至超越或媲美天然核酸酶。",
-      "source": "GEN News",
-      "date": "2026-07-16",
-      "url": "https://www.genengnews.com/topics/genome-editing/ai-designed-synthetic-crispr-like-nucleases-show-activity-in-cells/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "新型嵌合抗原受體T",
-      "summary": "",
+      "title": "新型 CAR-T細胞療法 細胞療法為難以治療的腎癌提供了有希望的選擇",
+      "summary": "g 難以治療的腎癌的選擇 UT MD 安德森",
       "source": "UT MD Anderson",
       "date": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnhIS1NaOHNpdEw4MmtvY3R1Vk1XMEFlYjN6eURaNzJBaXNDRHBhSTFsdUVUbEpRR0lWT3UySUVGZzdudkhTSVMtR2tGZkhFVDdwakxwaEo1c1BtY3V5VGFSdGtGV1FENU9ZQ2dIVHNkbDNiQWx3MnI2QmJ4bWEtOHZjeU1OOG1TQ0hzVGx2TV95LUxXVWpkeE1fSU1xc09hVW5DRzVNSks2XzVtc2NYaXl5U0hMQmpfOTVhekJuc1pGOUlxRjFKWURrZmc5clZoSHpqZjREZjc2d2hMRnJTZldLSk1DNV9W?oc=5",
@@ -339,8 +315,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA核准首款治療兒童鐮刀型貧血症的基因療法技術",
-      "summary": "美國FDA正式核准了首款專為兒童鐮刀型貧血症設計的基因療法技術，這項突破性進展為罹病孩童帶來新的治療希望，也象徵著基因治療領域邁向一個重要的里程碑。",
+      "title": "美國食藥局（FDA） 批准首個基因治療技術治療鐮狀細胞疾病兒童",
+      "summary": "治療鐮狀細胞疾病兒童的方法 - 健康新聞",
       "source": "The Well News",
       "date": "2026-07-02",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUlFUmlNR01Xc3NudlFZM2I2ZEJadnNjLU9aQ1ZITDdlaXJfbjRRMzR4elpCZmRmcEQwdE1xTHZTZV85RlZ5cWJhRlV3RDZCMmF5aF8zMjl0QmdTX0dyTVJUQy0ydUk0dUxOeExmYmRGTGVuMmc4UU4tWERVNERfOG5vTWZCcTdsbXo3V0lMNjc0U1QwYmVjeU5GeEhlYzRvcW1OWUZ1aHViSjl2cXI4ZkdVMFB5NEFyMDAwVGxn?oc=5",
@@ -392,6 +368,14 @@
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06-23",
       "url": "https://clinicaltrials.gov/study/NCT07702305",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "ASCO 2026 小細胞肺癌的主要要點",
+      "summary": "ll 肺癌腫瘤學新聞中心",
+      "source": "Oncology News Central",
+      "date": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeS1nYjh0TERXYUJjdVdiNUloWUJPVVhMZERMQjgzcXVFUEdNUFk3elBjZVFHRmthQkp5dVA0NjV6V0NKRGc1WXMwUnZFSk5EcXNGM0Z2cGpnRjdwRTBKU2k0WWRJaWlrRjRPREJDYlpjN1d0ME5OLUcyU1NDaG5hb0Z2Y0JrcklETXlRMUxxZTVnd3JoNTNIa3EwZw?oc=5",
       "lang": "zh-TW"
     }
   ]
