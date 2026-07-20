@@ -1,58 +1,58 @@
 {
   "module": "funding",
-  "updated": "2026-07-19T23:49:44.034604+00:00",
+  "updated": "2026-07-20T13:04:23.071352+00:00",
   "items": [
     {
-      "title": "STAT+：葛蘭素史克慢性咳嗽治療的終結",
-      "summary": "Sonothera 的超音波基因療法、一種新的阿茲海默症藥物爭議以及來自 The Readout 的更多生物技術新聞",
+      "title": "STAT+: GSK的慢性咳嗽治療藥物走到盡頭",
+      "summary": "藥廠葛蘭素史克（GSK）宣布終止其慢性咳嗽治療藥物的開發計畫。",
       "source": "STAT News",
       "date": "2026-07-17",
       "url": "https://www.statnews.com/2026/07/17/biotech-news-gsk-chronic-cough-treatment-meets-the-end-of-the-line/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：MDCalc 正在對數百萬醫生使用的臨床計算器進行評分",
-      "summary": "MDCalc 正在為 800 多個臨床計算器推出品質評級系統，用於評估疾病風險、移植資格等。",
+      "title": "STAT+: MDCalc為數百萬醫生使用的臨床計算工具進行評分",
+      "summary": "MDCalc將針對超過800種用於評估疾病風險、器官移植資格等用途的臨床計算工具，推出一套品質評分系統。",
       "source": "STAT News",
       "date": "2026-07-17",
       "url": "https://www.statnews.com/2026/07/17/mdcalc-quality-ratings-clinical-algorithms-for-bias-validity/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：超音波能否釋放基因治療的力量？一家新創公司做出了重大聲明",
-      "summary": "Sonothera 正在開發一種將基因導入細胞的新方法，如果得到證實，可能會對肌肉萎縮症和其他疾病產生重大影響。",
+      "title": "STAT+: 超音波能否釋放基因療法的潛力？一家新創公司提出大膽主張",
+      "summary": "新創公司Sonothera正在開發一種將基因送入細胞的新方法，若成功，將對肌肉萎縮症及其他疾病產生巨大影響。",
       "source": "STAT News",
       "date": "2026-07-17",
       "url": "https://www.statnews.com/2026/07/17/sonathera-ultrasound-duchenne-muscular-dystrophy-treatment/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Jasper 透過與免疫製藥商 Kira 合併獲得了生命線",
-      "summary": "此次收購涉及與新創公司 Mirador 的同步授權協議，這為 Jasper 提供了從挫敗其大部分市場價值的挫折中反彈的機會。",
+      "title": "Jasper與免疫藥廠Kira合併，獲得一線生機",
+      "summary": "這項收購案同時包含與新創公司Mirador的授權協議，讓Jasper有機會從過去的挫敗中重新振作。",
       "source": "BioPharma Dive",
       "date": "2026-07-17",
       "url": "https://www.biopharmadive.com/news/jasper-kira-merger-mirador-immune-drugs/825533/",
       "lang": "zh-TW"
     },
     {
-      "title": "Arbutus、賽諾菲升級 信使RNA（mRNA） 專利戰；諾誠健華TYK2競爭者取得進展",
-      "summary": "這些新訴訟加劇了新冠疫苗相關技術的法律爭議。在其他地方，一家多產的人工智慧生物技術公司簽署了另一項協議，Insmed 加強了對一種受到密切關注的血壓藥物的支持。",
+      "title": "Arbutus與賽諾菲（Sanofi）的mRNA專利戰升級；InnoCare的TYK2候選藥物取得進展",
+      "summary": "新的訴訟案件讓圍繞著COVID疫苗相關技術的法律糾紛更加複雜。此外，一家多產的AI生技公司又簽下新協議。",
       "source": "BioPharma Dive",
       "date": "2026-07-17",
       "url": "https://www.biopharmadive.com/news/arbutus-sanofi-mrna-insmed-innocare-tyk2-chai-argenx/825420/",
       "lang": "zh-TW"
     },
     {
-      "title": "葛蘭素史克 (GSK) 下架以 20 億美元交易收購的止咳藥",
-      "summary": "camlipixant 的混合 3 期數據促使這家英國製藥公司停止開發，使該藥物成為同類藥物中第三個失敗的藥物。",
+      "title": "GSK擱置以20億美元收購的咳嗽藥物",
+      "summary": "Camlipixant在第三期臨床試驗（Phase 3）數據表現不佳，促使這家英國藥廠停止開發，使其成為同類藥物中第三個失敗的案例。",
       "source": "BioPharma Dive",
       "date": "2026-07-17",
       "url": "https://www.biopharmadive.com/news/gsk-camlipixant-cough-drug-shelved/825530/",
       "lang": "zh-TW"
     },
     {
-      "title": "Braveheart 和 Attovia 加入下一波生物技術 首次公開上市（IPO）",
-      "summary": "這兩家新創公司分別是本月第三和第四家提出IPO計畫的新創公司，旨在充分利用已經實現數次大額IPO的動能。",
+      "title": "Braveheart、Attovia加入下一波生技公司首次公開募股（IPO）浪潮",
+      "summary": "這兩家新創公司分別是本月第三和第四家公布募資計畫的公司，目標是藉由市場動能來獲利。",
       "source": "BioPharma Dive",
       "date": "2026-07-15",
       "url": "https://www.biopharmadive.com/news/attovia-braveheart-biotech-ipo-filings-2026/825293/",

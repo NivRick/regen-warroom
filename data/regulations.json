@@ -1,26 +1,34 @@
 {
   "module": "regulation",
-  "updated": "2026-07-19T23:49:20.769973+00:00",
+  "updated": "2026-07-20T13:04:11.403974+00:00",
   "items": [
     {
-      "title": "器官老化與免疫細胞互動失調，導致衰老嗜中性球無法清除有關",
-      "summary": "器官老化與免疫細胞互動失調及衰老嗜中性球清除有關。",
+      "title": "New €25 Million BioReliance Testing Facility Opens at Merck KGaA Global Headquarters in Germany",
+      "summary": "位於德國達姆施塔特的 BioReliance 工廠佔地 2,000 平方米，也將為單株抗體和細胞療法提供符合 GMP 的穩定性研究，以滿足整個歐洲對生物製劑測試不斷增長的需求。郵報 營業時間：",
+      "source": "GEN News",
+      "date": "2026-07-20",
+      "url": "https://www.genengnews.com/topics/bioprocessing/new-e25-million-bioreliance-testing-facility-opens-at-merck-kgaa-global-headquarters-in-germany/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "器官老化與免疫細胞互動失調及衰老嗜中性球清除機制有關",
+      "summary": "器官老化與免疫細胞互動失調及衰老嗜中性球清除機制有關。",
       "source": "GEN News",
       "date": "2026-07-18",
       "url": "https://www.genengnews.com/topics/translational-medicine/organ-aging-linked-to-breakdown-in-immune-cell-interaction-and-senescent-neutrophil-clearance/",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 監管產品的生物製品授權申請 (BLA)",
-      "summary": "生物製品許可證申請用於請求許可將生物製品引入或交付州際貿易。",
+      "title": "生物製劑藥證申請（BLA）與生物製劑評估與研究中心（CBER）規範產品",
+      "summary": "生物製劑藥證申請（BLA）是用來向主管機關申請，以便將生物製劑產品引進市場或進行跨州銷售的許可。這是確保生物製劑安全與有效性的重要環節。",
       "source": "FDA Biologics",
       "date": "2026-07-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/biologics-license-applications-blas-cber-regulated-products",
       "lang": "zh-TW"
     },
     {
-      "title": "希森特拉",
-      "summary": "產品核准資訊適用於治療成人和 2 歲及以上兒童患者的原發性免疫缺陷 (PI)。",
+      "title": "HIZENTRA",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-07-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/hizentra",
@@ -64,14 +72,6 @@
       "source": "FDA Biologics",
       "date": "2026-07-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程",
-      "summary": "GMP 級 IL-15 穩定性確認，確保可靠品質並加強生物製藥審批流程 美通社",
-      "source": "PR Newswire",
-      "date": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxONGplRVFiWTNqRm9ZY1R0ZzI4SlQtcDJoV3BpcGdEcTRDUDhmU0FaTzhpVXBaZ2lQVllGV3RneEpsZXJfRV9jMEt5UHRQS1lqQlRsREZGeG9RemlHeERQNWJvSk1HVzFFTFNWdkR4MTBSTHhwZ3MwZlpyM2ZfQjZCU21jRlNGRWctcHZnNTFodDZvZ3NoT1V2emRpaktReFNEQ2tyOHFzejBtTVJZc05OV2ZEdWJYcWVVZlVQTVBsU3RyWjJlV2pfb1dubjBfZEZCbWk1c0h4Y256cTAtQURNV213UFBzcnpnRENFU3BhRmo2Y0FwMlpOaUZYeW9tQlVGbkg1dk5BZDNtSFZNXzlrQXZiSEhNcTBZdGl2WFZwYk5QX0xVU194dDgxdk5TbmduUGhhS1FZdWFiOG1iZkY0cFFB?oc=5",
       "lang": "zh-TW"
     },
     {
