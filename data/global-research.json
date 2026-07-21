@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-07-21T12:21:27.193050+00:00",
+  "updated": "2026-07-21T23:48:27.223185+00:00",
   "items": [
     {
-      "title": "高效表達全尺寸三螺旋重組第三型膠原蛋白",
-      "summary": "第三型膠原蛋白（COL3A1）是血管與皮膚組織中重要的纖維狀膠原蛋白，在傷口癒合和組織修復中扮演關鍵角色。本研究旨在高效表達全尺寸三螺旋重組第三型膠原",
+      "title": "高效表達全長三股螺旋重組第三型膠原蛋白",
+      "summary": "第三型膠原蛋白（COL3A1）是重要的纖維狀膠原蛋白，廣泛存在於血管和皮膚組織中，在傷口癒合和組織再生中扮演關鍵角色。",
       "source": "PubMed",
       "date": "2026-07-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化 SNAP™-TIL（特異性新抗原勝肽-TIL）治療平台的臨床前概念驗證。",
-      "summary": "腫瘤浸潤淋巴細胞 (TIL) 療法涉及提取、擴增和重新註入免疫細胞以靶向癌細胞，該療法在黑色素瘤治療中已顯示出前景，但需要優化以獲得更廣泛的療效。 TIL 療法的成功取決於對腫瘤相關...",
+      "title": "個人化SNAP™-",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-07-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402813/",
@@ -67,15 +67,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "智能響應式電紡支架（SRES）在神經修復的最新進展與未來展望",
-      "summary": "神經損傷會引發複雜且多階段的病理級聯反應，而傳統的臨床介入方式，例如藥物治療和手術，往往面臨挑戰。",
+      "title": "智慧響應式電紡支架（SRES）在神經修復的應用：最新進展與未來展望",
+      "summary": "神經損傷會引發複雜的多階段病理級聯反應，而傳統的臨床介入方式，例如藥物治療和手術...",
       "source": "PubMed",
       "date": "2026-07-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436953/",
       "lang": "zh-TW"
     },
     {
-      "title": "整合",
+      "title": "整合即時感測",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-21",
@@ -100,7 +100,7 @@
     },
     {
       "title": "繞過多能性：從重新聚集的微脂肪直接分化為多譜系類器官的希望。",
-      "summary": "類器官技術已成為再生醫學領域的強大工具。然而，目前的類器官技術主要基於多能幹細胞衍生系統，這帶來了與複雜性、成熟度和臨床轉化相關的挑戰。在這篇評論中，我們強調...",
+      "summary": "類器官技術已成為再生醫學的強大工具；然而，目前的類器官技術主要基於多能幹細胞衍生系統，這帶來了與複雜性、成熟度和臨床轉化相關的挑戰。在這篇評論中，我們強調...",
       "source": "PubMed",
       "date": "2026-07-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42403587/",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "調控式電熱療提升腫瘤細胞對伽瑪戴爾塔T細胞（γδ T細胞）介導細胞毒殺作用的敏感度及腫瘤浸潤能力，在NOD/SCID異種移植模型中的研究",
-      "summary": "許多研究指出，伽瑪戴爾塔T細胞（γδ T",
+      "title": "調控式電熱療法如何增強腫瘤細胞對伽瑪戴爾塔T細胞（γδ T細胞）毒殺作用的敏感性與腫瘤浸潤能力：NOD/SCID異種移植模型研究",
+      "summary": "許多研究指出，伽瑪戴爾塔T細胞（γδ T細胞）療法是極",
       "source": "PubMed",
       "date": "2026-07-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42338164/",
@@ -187,8 +187,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第一期臨床試驗：CD30 嵌合抗原受體T細胞（CAR-T）治療低風險復發性典型何杰金氏淋巴瘤",
-      "summary": "紐約醫學院主辦，針對低風險復發性CD30陽性典型何杰金氏淋巴瘤患者，將進行",
+      "title": "[一期臨床] CD30 嵌合抗原受體T細胞療法（CAR-T）用於治療低風險復發性典型何杰金氏淋巴瘤",
+      "summary": "狀態：尚未開始招募｜主辦單位：紐約醫學院｜這項研究將針對復發性低風險CD30陽性",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-21",
       "url": "https://clinicaltrials.gov/study/NCT07575893",
@@ -243,8 +243,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "新型嵌合抗原受體T細胞療法（CAR-T",
-      "summary": "",
+      "title": "新型嵌合抗原受體T細胞療法（CAR-T），為難治性腎臟癌帶來希望",
+      "summary": "德州大學MD安德森癌症中心（UT MD Anderson）指出，一種新型的嵌合抗原受體T細胞療法（CAR-T）有望成為治療難治性腎臟癌的新選擇，前景看好。",
       "source": "UT MD Anderson",
       "date": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnhIS1NaOHNpdEw4MmtvY3R1Vk1XMEFlYjN6eURaNzJBaXNDRHBhSTFsdUVUbEpRR0lWT3UySUVGZzdudkhTSVMtR2tGZkhFVDdwakxwaEo1c1BtY3V5VGFSdGtGV1FENU9ZQ2dIVHNkbDNiQWx3MnI2QmJ4bWEtOHZjeU1OOG1TQ0hzVGx2TV95LUxXVWpkeE1fSU1xc09hVW5DRzVNSks2XzVtc2NYaXl5U0hMQmpfOTVhekJuc1pGOUlxRjFKWURrZmc5clZoSHpqZjREZjc2d2hMRnJTZldLSk1DNV9W?oc=5",
@@ -252,7 +252,7 @@
     },
     {
       "title": "幹細胞療法治療慢性脊髓損傷，朝臨床試驗邁進",
-      "summary": "幹細胞療法在治療慢性脊髓損傷方面取得新進展，正積極推進臨床試驗階段，為患者帶來新的治療希望。",
+      "summary": "幹細胞療法在治療慢性脊髓損傷方面有新進展，正準備進入臨床試驗階段。這項消息來自《Inside Precision Medicine》。",
       "source": "Inside Precision Medicine",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9IbUtqek43aWtVSUhPVmRBcThtNkItYUNuaXM1UmFwQVFOU1NBeHM3WlJYdWtkSzBBNG9Gc1NTTlZlMUdOYy1JdkxpVXl0UGRsa1FuLVREMXU4OXoxLUt5R0RpeEdSSm9GblZWWV9pMXRQXzZVV19oek12RHJxTFExVENmWHZubGtRS0tRLVBZOG1SU1ktLXBkOGZNNlkzNWxMOFVyZFNtX1o4YThXMFdTU1lFdmZaMWFqRUhtVGdBQQ?oc=5",
@@ -260,7 +260,7 @@
     },
     {
       "title": "[第一階段] HDM2005 合併治療復發/難治性套細胞淋巴瘤",
-      "summary": "状态：NOT_YET_RECRUITING｜主办单位：杭州中美华东药业有限公司｜这是一项HDM2005联合利妥昔单抗和来那度胺治疗成人复发或难治性套细胞淋巴瘤患者的Ib/III期、多中心、开放标签临床研究。\n\n套细胞淋巴瘤是非霍奇金淋巴瘤的一种。一些",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：杭州中美華東藥業有限公司｜這是一項HDM2005聯合利妥昔單抗和來那度胺治療成人復發或難治性套細胞淋巴瘤患者的Ib/III期、多中心、開放標籤臨床研究。\n\n套細胞淋巴瘤是非何杰金氏淋巴瘤的一種。一些",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-10",
       "url": "https://clinicaltrials.gov/study/NCT07697339",
@@ -307,16 +307,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "癌細胞治療的進展與展望：從T細胞到幹細胞的探索",
-      "summary": "或癌症：從T細胞到幹細胞的探索 Nature",
+      "title": "癌症細胞治療的進展與展望：從T細胞到幹細胞的探索",
+      "summary": "《自然》（Nature）期刊報導，癌症細胞治療領域持續發展，研究人員正積極探索從T細胞到幹細胞等不同類型的細胞療法，以期帶來更多治療突破。",
       "source": "Nature",
       "date": "2026-07-01",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nOTdZMThMaFptOW5yTDcwbFJwQzVDNDVWbTlYT1NpSVRxTGN0NzRjMGJ1ZFh3bkhuRU9EdzkyUGJGc0FGeDBVSVZOSFNzRUhsTXNIRjh3YVcwOXhRYTBz?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "第二期臨床試驗：Revumenib、Azacitidine與VENetoclax組合療法治療新診斷KMT2A基因重組急性骨髓性白血病（AML）",
-      "summary": "狀態：尚未開始招募｜主辦：北卡羅來納大學萊恩伯格綜合癌症中心｜",
+      "title": "二期臨床試驗：Revumenib、Azacitidine與VENetoclax組合療法用於新診斷KMT2A基因重組急性骨髓性白血病（AML）",
+      "summary": "狀態：尚未開始招募｜主辦：北卡羅來納大學萊恩伯格綜合癌症中心｜這項",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07",
       "url": "https://clinicaltrials.gov/study/NCT07605949",
@@ -371,8 +371,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "ASCO 2026 小細胞肺癌的主要要點",
-      "summary": "ll 肺癌腫瘤學新聞中心",
+      "title": "2026年美國臨床腫瘤學會",
+      "summary": "",
       "source": "Oncology News Central",
       "date": "2026-06-23",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeS1nYjh0TERXYUJjdVdiNUloWUJPVVhMZERMQjgzcXVFUEdNUFk3elBjZVFHRmthQkp5dVA0NjV6V0NKRGc1WXMwUnZFSk5EcXNGM0Z2cGpnRjdwRTBKU2k0WWRJaWlrRjRPREJDYlpjN1d0ME5OLUcyU1NDaG5hb0Z2Y0JrcklETXlRMUxxZTVnd3JoNTNIa3EwZw?oc=5",

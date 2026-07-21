@@ -1,34 +1,34 @@
 {
   "module": "regulation",
-  "updated": "2026-07-21T12:22:09.941883+00:00",
+  "updated": "2026-07-21T23:49:11.371821+00:00",
   "items": [
     {
-      "title": "默克集團（Merck KGaA）德國全球總部啟用全新2,500萬歐元BioReliance檢測設施",
-      "summary": "位於德國達姆施塔特的2,000平方公尺BioReliance設施，將提供符合GMP規範的單株抗體與細胞穩定性研究。",
+      "title": "研討會、會議和大會（生物製品）",
+      "summary": "有關 CBER 主辦或共同主辦的有關各種生物製品的會議、大會和研討會的信息，以便教育公眾並徵求有關各方的意見。",
+      "source": "FDA Biologics",
+      "date": "2026-07-21",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "默克集團（Merck KGaA）德國總部啟用全新2,500萬歐元BioReliance檢測設施",
+      "summary": "位於德國達姆施塔特的這座2,000平方公尺BioReliance設施，也將提供符合優良製造規範（GMP）的單株抗體與細胞穩定性研究。",
       "source": "GEN News",
       "date": "2026-07-20",
       "url": "https://www.genengnews.com/topics/bioprocessing/new-e25-million-bioreliance-testing-facility-opens-at-merck-kgaa-global-headquarters-in-germany/",
       "lang": "zh-TW"
     },
     {
-      "title": "器官老化與免疫細胞互動失靈及衰老嗜中性球清除機制有關",
-      "summary": "一項針對小鼠和人類細胞的研究發現，阻斷組織駐留巨噬細胞上的一個受體，能促進累積的衰老嗜中性球清除。",
-      "source": "GEN News",
-      "date": "2026-07-18",
-      "url": "https://www.genengnews.com/topics/translational-medicine/organ-aging-linked-to-breakdown-in-immune-cell-interaction-and-senescent-neutrophil-clearance/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CBER管轄產品的生物製劑許可證申請（BLA）",
-      "summary": "生物製劑許可證申請（BLA）是用來申請將生物製劑產品引進或運送至跨州商業市場的許可。",
+      "title": "CBER 監管產品的生物製品授權申請 (BLA)",
+      "summary": "生物製品許可證申請用於請求許可將生物製品引入或交付州際貿易。",
       "source": "FDA Biologics",
       "date": "2026-07-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/biologics-license-applications-blas-cber-regulated-products",
       "lang": "zh-TW"
     },
     {
-      "title": "HIZENTRA",
-      "summary": "本產品核",
+      "title": "希森特拉",
+      "summary": "產品核准資訊適用於治療成人和 2 歲及以上兒童患者的原發性免疫缺陷 (PI)。",
       "source": "FDA Biologics",
       "date": "2026-07-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/hizentra",
@@ -67,14 +67,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-07-16",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
       "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程 - 美通社PR-Newswire",
       "summary": "GMP 級 IL-15 穩定性確認，確保可靠品質並加強生物製藥審批流程 - 美通社亞太區 美通社亞洲",
       "source": "PR Newswire Asia",
@@ -90,8 +82,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "REPROCELL在日本提交幹細胞療法Stemchymal®用於脊髓小腦萎縮症（SCA3和SCA6）的製造與銷售核准申請",
-      "summary": "REPROCELL在日本申請幹細胞療法Stemchymal®，治療脊髓小腦萎縮症（SCA3/SCA6）的製造與銷售核准。",
+      "title": "瑞普羅賽爾在日本遞交幹細胞療法Stemchymal®用於脊髓小腦萎縮症（SCA3和SCA6型）的製造與銷售許可申請",
+      "summary": "瑞普羅賽爾在日本申請幹細胞療法Stemchymal®上市，鎖定脊髓小腦萎縮症（SCA3、SCA6型）病患。",
       "source": "Plataforma Media",
       "date": "2026-06-24",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOb0JlX1NqVHpCQ1dqNGlPaFZNbW9nQ1EzdGZNNV9Vc2U0bFZQN0E3TUdVVTVpclpmZ3BDcXNreWRuWEtEYmNySFdfZUI1ZHQ0OGpMSUN6R01UdG9aZGItemFjSmc2WkpJQkstcG5YTnNab3oxcFY3QU15ZmFkNmVDaG5CdDhQRmswVlRxWnFZb002UzZiUXVFbzdjTy16bm9LeU9paEVEdy1rZjM1Tk52aTNGdGp3ZVdwNm9hNUJBNUdsbEowNmxJTUVQbWdLV1l3cVN2MEp1YlFFWi1sWGYwNGdmaGFWcGt4Z244T1hCbkE3VFJGd2NSUDBERkdiTG03S1JTSS1aT0VrYk9jMWhScXJCb1VvYVh2WUs5a0Q2dGl6UkxQY3Vz?oc=5",

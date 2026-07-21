@@ -1,45 +1,53 @@
 {
   "module": "funding",
-  "updated": "2026-07-21T12:22:22.261363+00:00",
+  "updated": "2026-07-21T23:49:22.390508+00:00",
   "items": [
     {
-      "title": "Tempus 將以 15 億美元收購癌症檢測公司 Personalis",
-      "summary": "Tempus AI 計劃收購 Personalis，顯示醫材產業對血液癌症檢測的興趣。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-20",
-      "url": "https://www.biopharmadive.com/news/tempus-to-buy-cancer-test-maker-personalis-for-15b/825698/",
+      "title": "川普政府表示將推遲向加州和明尼蘇達州支付 10 億美元醫療補助",
+      "summary": "川普政府表示，由於“涉嫌欺詐和違規”，將推遲向明尼蘇達州和加利福尼亞州支付超過 10 億美元的醫療補助。",
+      "source": "STAT News",
+      "date": "2026-07-21",
+      "url": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "止痛藥廠 Latigo 規劃上市募資",
-      "summary": "這家由 Westlake 創立的公司，專精於開發針對鈉離子通道的非鴉片類止痛藥，為本已熱絡的市場再添新動能。",
+      "title": "STAT+：倡議者稱聯邦政府對愛滋病毒防治組織的資助正在被削減",
+      "summary": "政府正在將部分資金轉移給各州，但社區團體注定失敗。",
+      "source": "STAT News",
+      "date": "2026-07-21",
+      "url": "https://www.statnews.com/2026/07/21/hiv-aids-prevention-advocates-fear-deep-cuts-cdc-funding/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "是時候以 $1.5B 收購癌症測試製造商 Personal 了",
+      "summary": "Tempus AI 計畫進行收購之前，醫療科技產業最近對基於血液的癌症檢測產生了濃厚的興趣。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-20",
+      "url": "https://www.biopharmadive.com/news/tempus-to-acquire-cancer-test-maker-personalis-for-15b/825698/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "止痛藥製造商 Latigo 概述了上市計劃",
+      "summary": "這家成立於 Westlake 的公司專門生產針對鈉離子通道的非阿片類藥物，現在又增加了生物技術 首次公開上市（IPO） 隊列的繁忙月份。",
       "source": "BioPharma Dive",
       "date": "2026-07-20",
       "url": "https://www.biopharmadive.com/news/latigo-ipo-pain-drug-ion-channel-nasdaq-ltgo/825660/",
       "lang": "zh-TW"
     },
     {
-      "title": "Jasper 與免疫藥廠 Kira 合併，獲得生機",
-      "summary": "這項收購案同時包含與新創公司 Mirador 的授權協議，讓 Jasper 有機會從過去的挫敗中重新振作。",
+      "title": "Jasper 透過與免疫製藥商 Kira 合併獲得了生命線",
+      "summary": "此次收購涉及與新創公司 Mirador 的同步授權協議，這為 Jasper 提供了從挫敗其大部分市場價值的挫折中反彈的機會。",
       "source": "BioPharma Dive",
       "date": "2026-07-17",
       "url": "https://www.biopharmadive.com/news/jasper-kira-merger-mirador-immune-drugs/825533/",
       "lang": "zh-TW"
     },
     {
-      "title": "Arbutus、賽諾菲（Sanofi）mRNA 專利戰升級；諾誠健華 TYK2 候選藥物有進展",
-      "summary": "這些新訴訟讓 COVID 疫苗相關技術的法律糾紛更加複雜。此外，一家多產的 AI 生技公司又簽下新協議，而諾",
+      "title": "Arbutus、賽諾菲升級 信使RNA（mRNA） 專利戰；諾誠健華TYK2競爭者取得進展",
+      "summary": "這些新訴訟加劇了新冠疫苗相關技術的法律爭議。在其他地方，一家多產的人工智慧生物技術公司簽署了另一項協議，Insmed 加強了對一種受到密切關注的血壓藥物的支持。",
       "source": "BioPharma Dive",
       "date": "2026-07-17",
       "url": "https://www.biopharmadive.com/news/arbutus-sanofi-mrna-insmed-innocare-tyk2-chai-argenx/825420/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "葛蘭素史克 (GSK) 下架以 20 億美元交易收購的止咳藥",
-      "summary": "camlipixant 的混合 3 期數據促使這家英國製藥公司停止開發，使該藥物成為同類藥物中第三個失敗的藥物。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-17",
-      "url": "https://www.biopharmadive.com/news/gsk-camlipixant-cough-drug-shelved/825530/",
       "lang": "zh-TW"
     }
   ]
