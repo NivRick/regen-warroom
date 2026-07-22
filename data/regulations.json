@@ -1,6 +1,6 @@
 {
   "module": "regulation",
-  "updated": "2026-07-22T12:24:26.397308+00:00",
+  "updated": "2026-07-22T23:56:41.073851+00:00",
   "items": [
     {
       "title": "齊碁生醫獲美國FDA IND 核准以臺美雙報確立衰弱症細胞治療的國際法規位階| 唐可欣 | 品味生活",
@@ -10,8 +10,16 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
     },
     {
-      "title": "Engitix取得Lonza技術授權，加速開發抗體藥物複合體（ADC）療法",
-      "summary": "Engitix與Lonza合作，取得其技術授權，目標是加速開發新一代抗體藥物複合體（ADC）療法。",
+      "title": "細胞療法製造商在檢查顆粒物方面發揮創意",
+      "summary": "Manufacturers are developing innovative techniques to test for particulates in cell-containing products amid unclear regulatory guidance.過程模擬、最大限度地減少生產過程中的顆粒物以及選擇正確的測試都會有所幫助。\n該帖子 o",
+      "source": "GEN News",
+      "date": "2026-07-22",
+      "url": "https://www.genengnews.com/topics/bioprocessing/cell-therapy-manufacturers-get-creative-on-checking-particulates/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Engitix 授權 Lonza 的技術來推進 ADC 療法",
+      "summary": "Lonza 通过其附属公司之一有资格获得预付款、临床付款、监管付款和商业里程碑付款，以及最终产品净销售额的特许权使用费。 The post dvance ADC Therapies appeared first on GEN - Gene",
       "source": "GEN News",
       "date": "2026-07-22",
       "url": "https://www.genengnews.com/topics/bioprocessing/engitix-licenses-lonzas-technology-to-advance-adc-therapies/",
@@ -19,15 +27,15 @@
     },
     {
       "title": "生物製劑相關研討會、會議與論壇",
-      "summary": "提供美國食品藥物管理局生物製劑評估與研究中心（CBER）主辦或協辦的生物製劑相關研討會、會議與論壇資訊，旨在教育大眾並尋求意見。",
+      "summary": "美國CBER舉辦或協辦的生物製劑相關活動，旨在教育大眾並促進交流。",
       "source": "FDA Biologics",
       "date": "2026-07-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 監管產品的生物製品授權申請 (BLA)",
-      "summary": "生物製品許可證申請用於請求許可將生物製品引入或交付州際貿易。",
+      "title": "美國CBER（生物製品評估與研究中心）管轄產品的生物製劑許可申請（BLA）",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-07-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/biologics-license-applications-blas-cber-regulated-products",
@@ -66,14 +74,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品程序 (SOPP)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
-      "source": "FDA Biologics",
-      "date": "2026-07-16",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
-      "lang": "zh-TW"
-    },
-    {
       "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程 - 美通社PR-Newswire",
       "summary": "GMP 級 IL-15 穩定性確認，確保可靠品質並加強生物製藥審批流程 - 美通社亞太區 美通社亞洲",
       "source": "PR Newswire Asia",
@@ -89,8 +89,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "REPROCELL在日本遞交幹細胞療法Stemchymal®用於脊髓小腦萎縮症（SCA3和SCA6）的製造與銷售核准申請",
-      "summary": "REPROCELL在日本為其幹細胞療法Stemchymal®遞交上市申請，該療法鎖定脊髓小腦萎縮症（SCA3和SCA6）病患。",
+      "title": "REPROCELL 提交用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）的幹細胞療法 Stemchymal® 在日本的製造和行銷批准申請",
+      "summary": "用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）的幹細胞療法 Stemchymal® 在日本獲得設計和行銷許可 Plataforma Media",
       "source": "Plataforma Media",
       "date": "2026-06-24",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOb0JlX1NqVHpCQ1dqNGlPaFZNbW9nQ1EzdGZNNV9Vc2U0bFZQN0E3TUdVVTVpclpmZ3BDcXNreWRuWEtEYmNySFdfZUI1ZHQ0OGpMSUN6R01UdG9aZGItemFjSmc2WkpJQkstcG5YTnNab3oxcFY3QU15ZmFkNmVDaG5CdDhQRmswVlRxWnFZb002UzZiUXVFbzdjTy16bm9LeU9paEVEdy1rZjM1Tk52aTNGdGp3ZVdwNm9hNUJBNUdsbEowNmxJTUVQbWdLV1l3cVN2MEp1YlFFWi1sWGYwNGdmaGFWcGt4Z244T1hCbkE3VFJGd2NSUDBERkdiTG03S1JTSS1aT0VrYk9jMWhScXJCb1VvYVh2WUs5a0Q2dGl6UkxQY3Vz?oc=5",

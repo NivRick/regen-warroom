@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-07-22T12:23:41.451976+00:00",
+  "updated": "2026-07-22T23:55:36.936239+00:00",
   "items": [
     {
       "title": "高效表現全長三股螺旋重組第三型膠原蛋白",
-      "summary": "本研究成功高效表現全長三股螺旋重組第三型膠原蛋白，為傷口癒合與組織修復帶來新希望。",
+      "summary": "本研究成功高效表現全長三股螺旋重組第三型膠原蛋白，為組織修復與再生應用帶來新契機。",
       "source": "PubMed",
       "date": "2026-07-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL（特定新抗原胜肽-腫",
+      "title": "個人化SNAP™-TIL（特定新抗原胜肽-腫瘤浸潤淋",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-22",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "智慧響應式電紡支架（SRES）在神經修復的應用：最新進展與未來展望",
-      "summary": "神經損傷會引發複雜、多階段的病理級聯反應，而傳統的臨床介入方式，例如藥物治療和手術...",
+      "title": "智慧響應式電紡支架 (SRES) 在神經修復的應用：最新進展與未來展望",
+      "summary": "神經損傷會引發複雜且多階段的病理反應，而傳統的臨床介入方式，如藥物治療和手術等，面臨諸多挑戰。",
       "source": "PubMed",
       "date": "2026-07-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436953/",
       "lang": "zh-TW"
     },
     {
-      "title": "整合",
-      "summary": "",
+      "title": "即時感測整合類器官晶片平台：技術進步與新興生物醫學應用。",
+      "summary": "作為由幹細胞自組織的微型 3D 組織，類器官可以高度概括人體器官的細胞組成和複雜的空間結構，使其成為生物醫學研究中的關鍵生理模型。儘管類器官在微生物方面具有顯著的優勢...",
       "source": "PubMed",
       "date": "2026-07-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436951/",
@@ -100,7 +100,7 @@
     },
     {
       "title": "繞過多能性：從重新聚集的微脂肪直接分化為多譜系類器官的希望。",
-      "summary": "類器官技術已成為再生醫學領域的強大工具。然而，目前的類器官技術主要基於多能幹細胞衍生系統，這帶來了與複雜性、成熟度和臨床轉化相關的挑戰。在這篇評論中，我們強調...",
+      "summary": "類器官技術已成為再生醫學的強大工具；然而，目前的類器官技術主要基於多能幹細胞衍生系統，這帶來了與複雜性、成熟度和臨床轉化相關的挑戰。在這篇評論中，我們強調...",
       "source": "PubMed",
       "date": "2026-07-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42403587/",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "「調控式電熱療」強化腫瘤細胞對γδ T細胞毒殺作用的敏感性，並促進其在NOD/SCID異種移植模型中的腫瘤浸潤",
-      "summary": "許多研究指出，γδ T細胞療法是極具潛力的癌症免疫療法策略，但其療效仍有局限性。",
+      "title": "調控式電熱療法增強腫瘤細胞對γδ T細胞毒殺作用的敏感性與腫瘤浸潤：NOD/SCID異種移植模型研究",
+      "summary": "許多研究指出，γδ T細胞療法是癌症治療中極具潛力的免疫療法策略；然而，其療效仍有侷限。",
       "source": "PubMed",
       "date": "2026-07-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42338164/",
@@ -163,7 +163,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[EARLY_PHASE1] GC012F 在類風濕關節炎的開放標籤研究。",
+      "title": "[EARLY_PHASE1] GC012F 在類風濕性關節炎的開放標籤研究。",
       "summary": "狀態：撤回｜主辦：中國血液疾病研究所醫院｜這是一項評估 GC012F 在難治性（D2T）類風濕關節炎患者中的安全性和有效性的開放標籤研究。",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-22",
@@ -173,7 +173,7 @@
     {
       "title": "[第 2 期] 皮膚鱗狀細胞癌患者的 L19IL2/L19TNF",
       "summary": "狀態：招募中｜主辦單位：Philogen S.p.A.｜針對經組織學證實的局部晚期皮膚鱗狀細胞癌（LacSCC）患者進行的開放標籤、單組、多中心研究，這些患者適合瘤內注射，且對免疫檢查點抑制治療已出現進展或不耐受",
-      "source": "ClinicalTrials.gov｜United States, Germany, Spain",
+      "source": "ClinicalTrials.gov｜Greece, United States, Germany",
       "date": "2026-07-22",
       "url": "https://clinicaltrials.gov/study/NCT07228442",
       "lang": "zh-TW"
@@ -187,8 +187,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "【未分期】評估接受異體幹細胞移植（SCT）的成年患者中，移植相關血栓性微血管病變（TA-TMA）的發生率",
-      "summary": "狀態：尚未開始招募｜主辦單位：Manuel Ricardo Espinoza-Gutarra｜這項觀察性研究旨在",
+      "title": "評估接受異體幹細胞移植（SCT）的成年病患，其移植相關血栓性微血管病變（TA-TMA）的發生率",
+      "summary": "這項觀察性研究旨在了解接受異體幹細胞移植（SCT）的成年病患，其移植相關血栓性微血管病",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-22",
       "url": "https://clinicaltrials.gov/study/NCT07381205",
@@ -276,10 +276,18 @@
     },
     {
       "title": "[第一階段，第二階段] 自體脂肪間質幹細胞治療成人萎縮性疤痕的安全性和有效性",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：CellinCells｜本次臨床試驗的目的是評估單次施用 TRTP-101 對患有萎縮性疤痕的成年人的安全性和有效性。",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：CellinCells｜這項臨床試驗的目的是評估單次施用 TRTP-101 對患有萎縮性疤痕的成年人的安全性和有效性。",
       "source": "ClinicalTrials.gov｜South Korea",
       "date": "2026-07-22",
       "url": "https://clinicaltrials.gov/study/NCT07474467",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "擴大細胞和基因治療製造規模",
+      "summary": "細胞和基因治療領導者討論了該行業最大的生物加工挑戰，從製造可擴展性和原材料可變性到基礎設施準備情況，並解釋了他們認為將加速商業化的策略",
+      "source": "GEN News",
+      "date": "2026-07-22",
+      "url": "https://www.genengnews.com/topics/bioprocessing/scaling-manufacturing-of-cell-and-gene-therapies/",
       "lang": "zh-TW"
     },
     {
@@ -288,14 +296,6 @@
       "source": "GEN News",
       "date": "2026-07-22",
       "url": "https://www.genengnews.com/topics/genome-editing/ucsd-igi-partnership-expands-crispr-innovation-across-health-agriculture-and-the-environment/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "病患來源腫瘤類器官展現潛力，助攻癌症個人化治療",
-      "summary": "研究團隊開發出涵蓋220個樣本的泛癌種病患來源類器官平台，能精準模擬腫瘤特性，並找出新的治療契機。",
-      "source": "GEN News",
-      "date": "2026-07-20",
-      "url": "https://www.genengnews.com/topics/cancer/patient-derived-tumor-organoids-show-promise-for-personalizing-cancer-treatment/",
       "lang": "zh-TW"
     },
     {
@@ -323,11 +323,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞療法治療慢性",
-      "summary": "",
+      "title": "幹細胞療法在慢性脊髓損傷的臨床試驗中取得進展",
+      "summary": "精準醫學中慢性脊髓損傷的所有試驗",
       "source": "Inside Precision Medicine",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9IbUtqek43aWtVSUhPVmRBcThtNkItYUNuaXM1UmFwQVFOU1NBeHM3WlJYdWtkSzBBNG9Gc1NTTlZlMUdOYy1JdkxpVXl0UGRsa1FuLVREMXU4OXoxLUt5R0RpeEdSSm9GblZWWV9pMXRQXzZVV19oek12RHJxTFExVENmWHZubGtRS0tRLVBZOG1SU1ktLXBkOGZNNlkzNWxMOFVyZFNtX1o4YThXMFdTU1lFdmZaMWFqRUhtVGdBQQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "人類胚胎幹細胞衍生的多巴胺能細胞治療帕金森氏症：1/2 期開放標籤試驗",
+      "summary": "神經細胞治療帕金森氏症：1/2 期開放標籤試驗 Nature",
+      "source": "Nature",
+      "date": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTNFhQeVBCNnJOVWNuSjdzN1gxZFpSTTBnT0wyMUVoQkNjN181S0lWcTZVeHdMdW1lSGdsUklac24wTTRuckk4S1FSaXlGS2p4Y0FQZ3FBQTlHMXFRNmhJ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -355,16 +363,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "癌細胞治療的進展與展望：從T細胞到幹細胞的探索",
-      "summary": "或癌症：從T細胞到幹細胞的探索 Nature",
-      "source": "Nature",
-      "date": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nOTdZMThMaFptOW5yTDcwbFJwQzVDNDVWbTlYT1NpSVRxTGN0NzRjMGJ1ZFh3bkhuRU9EdzkyUGJGc0FGeDBVSVZOSFNzRUhsTXNIRjh3YVcwOXhRYTBz?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[臨床一/二期] Hepzato Kit 與 Opdualag 治療轉移性黑色素瘤及肝轉移",
-      "summary": "狀態：收案中｜主辦：威斯康辛大學麥迪遜分校｜這項研究主要想看看 HEPZATO KIT™ 搭配 nivolumab 和 relatlimab (",
+      "title": "[一/二期臨床] Hepzato Kit與Opdualag用於轉移性黑色素瘤及肝轉移",
+      "summary": "目前正在招募受試者。由威斯康辛大學麥迪遜分校主辦。本研究旨在評估HEPZATO KIT™與nivolumab及relatlim",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07",
       "url": "https://clinicaltrials.gov/study/NCT07281924",

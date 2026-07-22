@@ -1,21 +1,45 @@
 {
   "module": "funding",
-  "updated": "2026-07-22T12:24:58.511035+00:00",
+  "updated": "2026-07-22T23:57:07.437278+00:00",
   "items": [
     {
-      "title": "美國工作不滿意度與醫療照護可近性不確定性攀升，最新研究揭示",
-      "summary": "夏威夷野火對全國健康復原的啟示、450萬人退出SNAP（補充營養援助計畫）等健康新聞。",
+      "title": "STAT+：製藥公司試圖放鬆廣泛的中國限制",
+      "summary": "專注於人工智慧的創投公司籌集了 8 億美元、默克的新膽固醇藥物以及更多來自 The Readout 的生物技術新聞",
+      "source": "STAT News",
+      "date": "2026-07-22",
+      "url": "https://www.statnews.com/2026/07/22/biotech-news-pharma-tries-to-tamp-down-broad-china-restrictions/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "新研究發現，美國的工作不滿和醫療保健取得不確定性增加",
+      "summary": "夏威夷野火可以讓國家了解健康恢復、450 萬人退出 SNAP 以及更多健康新聞",
       "source": "STAT News",
       "date": "2026-07-22",
       "url": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "價值1.09億",
-      "summary": "",
+      "title": "STAT+：價值 1.09 億美元的聯邦健康品質研究補助金提前結束",
+      "summary": "至少 78 項價值 2 億美元的 AHRQ 撥款受到「未授予」通知的影響；據估計，這些贈款仍有 1.092 億美元資金剩餘。",
       "source": "STAT News",
       "date": "2026-07-22",
       "url": "https://www.statnews.com/2026/07/22/ahrq-grants-health-quality-researchers-lose-109-million-funding/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Vertex 是高溢價收購 Crinetics 的唯一競標者",
+      "summary": "分析師預計，有關該交易的新細節「可能會重新引發」投資者的審查，因為福泰在這有望成為其有史以來最大的交易中支付了過高的價格。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-22",
+      "url": "https://www.biopharmadive.com/news/vertex-crinetics-acquisition-deal-bidder-process/825952/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "GSK 肺癌藥物在 $10.6B 交易後迅速獲得批准",
+      "summary": "此次獲準是葛蘭素史克首次獲得肺癌藥物許可，也是這家英國製藥商多年來進軍腫瘤學領域的最新進展。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-22",
+      "url": "https://www.biopharmadive.com/news/gsk-nuvalent-jideytro-fda-approve-ros1-lung-cancer/825967/",
       "lang": "zh-TW"
     },
     {
@@ -48,30 +72,6 @@
       "source": "BioPharma Dive",
       "date": "2026-07-21",
       "url": "https://www.biopharmadive.com/news/dimension-biotech-startups-third-fund-tech-ai/825748/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "是時候以 $1.5B 收購癌症測試製造商 Personal 了",
-      "summary": "Tempus AI 計畫進行收購之前，醫療科技產業最近對基於血液的癌症檢測產生了濃厚的興趣。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-20",
-      "url": "https://www.biopharmadive.com/news/tempus-to-acquire-cancer-test-maker-personalis-for-15b/825698/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "止痛藥製造商 Latigo 概述了上市計劃",
-      "summary": "這家成立於 Westlake 的公司專門生產針對鈉離子通道的非阿片類藥物，現在又增加了生物技術 首次公開上市（IPO） 隊列的繁忙月份。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-20",
-      "url": "https://www.biopharmadive.com/news/latigo-ipo-pain-drug-ion-channel-nasdaq-ltgo/825660/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Jasper透過與免疫藥廠Kira合併獲得一線生機",
-      "summary": "Jasper透過與免疫藥廠Kira合併，獲得一線生機，有望從過去挫敗中重振旗鼓。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-17",
-      "url": "https://www.biopharmadive.com/news/jasper-kira-merger-mirador-immune-drugs/825533/",
       "lang": "zh-TW"
     }
   ]
