@@ -1,7 +1,31 @@
 {
   "module": "apac",
-  "updated": "2026-07-21T23:48:41.753820+00:00",
+  "updated": "2026-07-22T12:24:01.377009+00:00",
   "items": [
+    {
+      "title": "2",
+      "summary": "",
+      "source": "Market Business Insights",
+      "date": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iOTBoalhuQ2xtQU9QRjFNZU1haEF0dHVBa0JZbkRmb1BYV1VmVElwdEtKN1JiNE1UdHhYUXNBU1dTREZ3YXAwT1dxUFdUUHdBSmJVNUQwT2JLd0JORGFpVXM5RkxTSHNLaEFqa2N2SktLbHcyX0RnQQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "全球生物製藥資本配置轉變：亞洲新創企業的創投策略與跨國估值動態",
+      "summary": "ts：亞洲新創企業的創投策略與跨國估值動態geneonline.com",
+      "source": "geneonline.com",
+      "date": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHkzaFJwTldBOXN4dEJocTZlVm4xZVRFOFRUbnZVSE52RS1XXzNuWDVidld4bEoxbWs4TVlUTTFsSUIwVXBkekp4bDZCbjlJT3g1ZUhUdVRXY2EzTTFsTXRWMEFTNXY3U251T01MQWl0M0VVbVNhcEt5QkotODg2Y0tIbWtrV1lsN1Fkb3dn?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Crystalys 追加 1.3 億美元資金，推動痛風藥物通過後測",
+      "summary": "該新創公司正在進行一項廣泛的全球開發計劃，並得到了 20 多家投資公司的支持，其治療方法已在許多亞洲國家獲得批准，但尚未在美國或歐洲上市。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-22",
+      "url": "https://www.biopharmadive.com/news/crystalys-gout-dotinurad-series-b-venture-financing/825697/",
+      "lang": "zh-TW"
+    },
     {
       "title": "國璽攻再生醫學 啟動日本跨國合作",
       "summary": "",
@@ -10,11 +34,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GWmpsQTV3LWE2cXozSDRJZ3M0VklDa2lRMFlsVmoyVktPUFZFWVppOXFHVmVCeGVlX3FVek1wM2VBVjN6VmxXM2xJaGJCWm9VME1LN3N6dVNGUdIBX0FVX3lxTE1qZS1fdHVNRlZMZkxJQnJ6TG94UFI3TFFabk4ySEdTMWkzUVNRcUlwR1FWUmJQazFHRkViS2hHUjZZeDBDSkhTVkF1aGQ3Q1plOHR6SFVVU01neFA5dXlJ?oc=5"
     },
     {
-      "title": "AI領航生醫新時代！亞洲生技大會：台灣躍升亞太樞紐關鍵- 產業",
+      "title": "產業：亞洲生技大會開幕，全球重量級講者談AI製藥與iPSC應用",
       "summary": "",
-      "source": "工商時報",
+      "source": "富聯網",
+      "date": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0pOTGctRDFRS0dEejF5VzZkbmVuaXdfVVZxaDRHMkdXd2RfSkdHSl9HTXdIM0Yyd25yektORVFUSEZYaVRoQmthS2VsMGRXN0lsMGF4c3lJQ1FrLUx6MGhMRDhJM3lGS091LXRpeG1tRUZGa2VPaU03bnBHcEJzSnVqNTFUaTJC?oc=5"
+    },
+    {
+      "title": "亞洲生技大會：AI加速新藥研發台灣拚當樞紐- 財經要聞- 工商時報",
+      "summary": "",
+      "source": "中時新聞網",
       "date": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aQ19BRUItT0FIN1gwa1g1ZHd4cURvbUdYSnBuVjdsbDQ2ZFRuc3k2U1N6WXl4a21Xam5aU0JtZ2ZIX2x2dklNNVpzRkU4UVFBZWRqRjdRTW5GMllINXlZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QVHNYNE1MSnNwTF94R25HdDVXMWxCTWxRa2ROY2JOY19fOUMwTS1jZ3ptWmk1VGM1MTZnWmJDQmhWWWozS1RldWpWb0RxZEp1UmJzS1hlMHRYcGFlb3JhTjRSYXF5c1JWRjhR?oc=5"
     },
     {
       "title": "產官學研跨界整合 台灣再生醫療聯盟與陽明交大締結合作備忘錄 | 產學研訓 | 商情",
@@ -24,16 +55,16 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hYmZFeTdNYjFqNmtLeWltT0RVaU1wUzVjT2NPaUlxTDBja2pWR09JTVJ6WE9ZSDU4MXdYUldfVlhIdGdKY293Mi1ZclFyZmtpUUZHTFU3eXVlUQ?oc=5"
     },
     {
-      "title": "再生醫學市場規模 2035年預計將衝上2348.5億美元",
-      "summary": "根據Precedence Research報告，再生醫學市場規模預計在2035年達到2348.5億美元。",
+      "title": "再生醫學市場規模 2035 年上看 2348.5 億美元",
+      "summary": "Precedence Research 報告指出，全球再生醫學市場規模預計在 2035 年將突破 2348.5 億美元。",
       "source": "Precedence Research",
       "date": "2026-07-02",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tN2JFWlpOTTJCUWdoSG9ZZlpTblpEelkzVi1GNlhNWVZRem1IRUdfNldOaVdLMDBpWVVXaXB5Z1UtWlEwWmptT0JaM05BVGNDOENOTlcteGFDY215YTdQTUE0WDFjNktjS1BhZlBVaXg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "醫療全像術市場",
-      "summary": "",
+      "title": "醫療全息市場規模、份額、預測，2034 年",
+      "summary": "orecast，2034 年《財星》商業洞察",
       "source": "Fortune Business Insights",
       "date": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjbmNENDFPN2xIb0YtQ2pEOVpOMDdpZURhSE05aVJEN0ZPNm5vOTV0S1JWSU5XWUl2YXRRcnBHeG1jeE1jSHhKNnBISzNRZUFUZjNqdDJyZHRiRnhkeTVjeWRSNTFzbVBlRFVsSWRxRVRCZ0FQSVlkU25pVFI?oc=5",

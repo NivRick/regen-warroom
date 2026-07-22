@@ -1,7 +1,31 @@
 {
   "module": "funding",
-  "updated": "2026-07-21T23:49:22.390508+00:00",
+  "updated": "2026-07-22T12:24:58.511035+00:00",
   "items": [
+    {
+      "title": "美國工作不滿意度與醫療照護可近性不確定性攀升，最新研究揭示",
+      "summary": "夏威夷野火對全國健康復原的啟示、450萬人退出SNAP（補充營養援助計畫）等健康新聞。",
+      "source": "STAT News",
+      "date": "2026-07-22",
+      "url": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "價值1.09億",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-07-22",
+      "url": "https://www.statnews.com/2026/07/22/ahrq-grants-health-quality-researchers-lose-109-million-funding/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Crystalys 追加 1.3 億美元資金，推動痛風藥物通過後測",
+      "summary": "該新創公司正在進行一項廣泛的全球開發計劃，並得到了 20 多家投資公司的支持，其治療方法已在許多亞洲國家獲得批准，但尚未在美國或歐洲上市。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-22",
+      "url": "https://www.biopharmadive.com/news/crystalys-gout-dotinurad-series-b-venture-financing/825697/",
+      "lang": "zh-TW"
+    },
     {
       "title": "川普政府表示將推遲向加州和明尼蘇達州支付 10 億美元醫療補助",
       "summary": "川普政府表示，由於“涉嫌欺詐和違規”，將推遲向明尼蘇達州和加利福尼亞州支付超過 10 億美元的醫療補助。",
@@ -16,6 +40,14 @@
       "source": "STAT News",
       "date": "2026-07-21",
       "url": "https://www.statnews.com/2026/07/21/hiv-aids-prevention-advocates-fear-deep-cuts-cdc-funding/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Dimension 補充 8 億美元庫存，以利用人工智慧的“快速崛起”",
+      "summary": "這家年輕的創投公司在科技和生物技術的整合上投入了大量資金，目前已投資了 35 家公司，最近其中一家被人工智慧巨頭 Anthropic 收購。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-21",
+      "url": "https://www.biopharmadive.com/news/dimension-biotech-startups-third-fund-tech-ai/825748/",
       "lang": "zh-TW"
     },
     {
@@ -35,19 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Jasper 透過與免疫製藥商 Kira 合併獲得了生命線",
-      "summary": "此次收購涉及與新創公司 Mirador 的同步授權協議，這為 Jasper 提供了從挫敗其大部分市場價值的挫折中反彈的機會。",
+      "title": "Jasper透過與免疫藥廠Kira合併獲得一線生機",
+      "summary": "Jasper透過與免疫藥廠Kira合併，獲得一線生機，有望從過去挫敗中重振旗鼓。",
       "source": "BioPharma Dive",
       "date": "2026-07-17",
       "url": "https://www.biopharmadive.com/news/jasper-kira-merger-mirador-immune-drugs/825533/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Arbutus、賽諾菲升級 信使RNA（mRNA） 專利戰；諾誠健華TYK2競爭者取得進展",
-      "summary": "這些新訴訟加劇了新冠疫苗相關技術的法律爭議。在其他地方，一家多產的人工智慧生物技術公司簽署了另一項協議，Insmed 加強了對一種受到密切關注的血壓藥物的支持。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-17",
-      "url": "https://www.biopharmadive.com/news/arbutus-sanofi-mrna-insmed-innocare-tyk2-chai-argenx/825420/",
       "lang": "zh-TW"
     }
   ]
