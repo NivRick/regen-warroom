@@ -1,18 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-07-22T23:57:07.437278+00:00",
+  "updated": "2026-07-23T12:21:34.758043+00:00",
   "items": [
     {
-      "title": "STAT+：製藥公司試圖放鬆廣泛的中國限制",
-      "summary": "專注於人工智慧的創投公司籌集了 8 億美元、默克的新膽固醇藥物以及更多來自 The Readout 的生物技術新聞",
+      "title": "STAT+: 藥廠力圖緩解對中國的廣泛限制",
+      "summary": "專注AI的創投公司募資8億美元、默克（Merck）推出新膽固醇藥丸，以及更多來自《The Readout》的生技新聞。",
       "source": "STAT News",
       "date": "2026-07-22",
       "url": "https://www.statnews.com/2026/07/22/biotech-news-pharma-tries-to-tamp-down-broad-china-restrictions/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "新研究發現，美國的工作不滿和醫療保健取得不確定性增加",
-      "summary": "夏威夷野火可以讓國家了解健康恢復、450 萬人退出 SNAP 以及更多健康新聞",
+      "title": "新研究發現：",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-07-22",
       "url": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss",
@@ -51,27 +51,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "川普政府表示將推遲向加州和明尼蘇達州支付 10 億美元醫療補助",
-      "summary": "川普政府表示，由於“涉嫌欺詐和違規”，將推遲向明尼蘇達州和加利福尼亞州支付超過 10 億美元的醫療補助。",
-      "source": "STAT News",
-      "date": "2026-07-21",
-      "url": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：倡議者稱聯邦政府對愛滋病毒防治組織的資助正在被削減",
-      "summary": "政府正在將部分資金轉移給各州，但社區團體注定失敗。",
-      "source": "STAT News",
-      "date": "2026-07-21",
-      "url": "https://www.statnews.com/2026/07/21/hiv-aids-prevention-advocates-fear-deep-cuts-cdc-funding/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Dimension 補充 8 億美元庫存，以利用人工智慧的“快速崛起”",
       "summary": "這家年輕的創投公司在科技和生物技術的整合上投入了大量資金，目前已投資了 35 家公司，最近其中一家被人工智慧巨頭 Anthropic 收購。",
       "source": "BioPharma Dive",
       "date": "2026-07-21",
       "url": "https://www.biopharmadive.com/news/dimension-biotech-startups-third-fund-tech-ai/825748/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "「總有一個第一」：為何美國生技公司 Axiom 將在香港開啟 首次公開上市（IPO） 之旅",
+      "summary": "h Axiom 將在香港開始 首次公開上市（IPO） 之旅 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
       "lang": "zh-TW"
     }
   ]
