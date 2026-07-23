@@ -1,31 +1,7 @@
 {
   "module": "funding",
-  "updated": "2026-07-23T12:21:34.758043+00:00",
+  "updated": "2026-07-23T23:51:35.371472+00:00",
   "items": [
-    {
-      "title": "STAT+: 藥廠力圖緩解對中國的廣泛限制",
-      "summary": "專注AI的創投公司募資8億美元、默克（Merck）推出新膽固醇藥丸，以及更多來自《The Readout》的生技新聞。",
-      "source": "STAT News",
-      "date": "2026-07-22",
-      "url": "https://www.statnews.com/2026/07/22/biotech-news-pharma-tries-to-tamp-down-broad-china-restrictions/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "新研究發現：",
-      "summary": "",
-      "source": "STAT News",
-      "date": "2026-07-22",
-      "url": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：價值 1.09 億美元的聯邦健康品質研究補助金提前結束",
-      "summary": "至少 78 項價值 2 億美元的 AHRQ 撥款受到「未授予」通知的影響；據估計，這些贈款仍有 1.092 億美元資金剩餘。",
-      "source": "STAT News",
-      "date": "2026-07-22",
-      "url": "https://www.statnews.com/2026/07/22/ahrq-grants-health-quality-researchers-lose-109-million-funding/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
     {
       "title": "Vertex 是高溢價收購 Crinetics 的唯一競標者",
       "summary": "分析師預計，有關該交易的新細節「可能會重新引發」投資者的審查，因為福泰在這有望成為其有史以來最大的交易中支付了過高的價格。",
@@ -64,6 +40,14 @@
       "source": "Fierce Biotech",
       "date": "2026-07-21",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "基因編輯開發商 Scribe 計畫首次公開募股",
+      "summary": "",
+      "source": "BioPharma Dive",
+      "date": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNmpQZjBpcWk4eGNpbks0TEVpeF9DRGpBMGplSFplb2R6Z25IdHZFeHBaYmhCdDd2eTlFYURweUgxZm4tSkhCT2h6T29jbE96QnlheF9SZTRfd1NuMEJ3MUtoT3Rsa01yc09aSDBqOWtYcXI5ZnU3ZktwbU5kWm8?oc=5",
       "lang": "zh-TW"
     }
   ]

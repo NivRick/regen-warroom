@@ -1,7 +1,47 @@
 {
   "module": "regulation",
-  "updated": "2026-07-23T12:21:13.803428+00:00",
+  "updated": "2026-07-23T23:51:19.857146+00:00",
   "items": [
+    {
+      "title": "生物製劑新訊",
+      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
+      "source": "FDA Biologics",
+      "date": "2026-07-23",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "治療產品辦公室（OTP）線上座談會：細胞與基因治療產品生物製劑許可申請（BLA）送件的最佳實務",
+      "summary": "美國食品",
+      "source": "06/04/2026",
+      "date": "2026-07-23",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品 PREA 審查和標籤變更",
+      "summary": "PREA 標籤變更、兒科研究的醫學、統計和臨床藥理學審查根據《聯邦食品、藥品和化妝品法案》（《法案》）第 505B 條（經 2007 年 美國食藥局（FDA） 修正案法案 (FDAAAA) 修訂）進行。這些評估",
+      "source": "FDA Biologics",
+      "date": "2026-07-23",
+      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "OTP 市政廳：細胞療法 CMC 為後期 IND 做好準備",
+      "summary": "這個虛擬市政廳的重點是回答與支持細胞治療和組織工程產品後期 IND 所需的 CMC 數據和資訊相關的問題。",
+      "source": "09/05/2024",
+      "date": "2026-07-23",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-cmc-readiness-late-stage-inds-09052024",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026年生物許可證申請核准",
+      "summary": "",
+      "source": "FDA Biologics",
+      "date": "2026-07-23",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/2026-biological-license-application-approvals",
+      "lang": "zh-TW"
+    },
     {
       "title": "齊碁生醫獲美國FDA IND 核准以臺美雙報確立衰弱症細胞治療的國際法規位階| 唐可欣 | 品味生活",
       "summary": "",
@@ -10,32 +50,24 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
     },
     {
-      "title": "細胞療法製造商在檢查顆粒物方面發揮創意",
-      "summary": "在監管指導不明確的情況下，製造商正在開發創新技術來測試含細胞產品中的顆粒物。製程模擬、最大限度地減少生產過程中的顆粒物以及選擇正確的測試都會有所幫助。\n該帖子 o",
+      "title": "細胞治療製造商在顆粒物檢測上展現創意",
+      "summary": "在法規指引不明確下，製造商正開發創新技術來檢測含細胞產品中的顆粒物。流程模擬...",
       "source": "GEN News",
       "date": "2026-07-22",
       "url": "https://www.genengnews.com/topics/bioprocessing/cell-therapy-manufacturers-get-creative-on-checking-particulates/",
       "lang": "zh-TW"
     },
     {
-      "title": "Engitix 授權 Lonza 的技術來推進 ADC 療法",
-      "summary": "Lonza 透過其附屬公司之一有資格獲得預付款、臨床付款、監管付款和商業里程碑付款，以及最終產品淨銷售額的特許權使用費。先進的 ADC 療法首先出現在 GEN - Gene 上",
-      "source": "GEN News",
-      "date": "2026-07-22",
-      "url": "https://www.genengnews.com/topics/bioprocessing/engitix-licenses-lonzas-technology-to-advance-adc-therapies/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製劑相關研討會、會議與論壇",
-      "summary": "提供美國CBER主辦或協辦的各類生物製劑相關研討會、會議及論壇資訊，旨在教育大眾並徵求意見。",
+      "title": "研討會、會議和大會（生物製劑）",
+      "summary": "有關 CBER 主辦或共同主辦的有關各種生物製品的會議、大會和研討會的信息，以便教育公眾並徵求有關各方的意見。",
       "source": "FDA Biologics",
       "date": "2026-07-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER管轄產品的生物製劑許可申請（BL",
-      "summary": "",
+      "title": "CBER 監管產品的生物製品授權申請 (BLA)",
+      "summary": "生物製品許可證申請用於請求許可將生物製品引入或交付州際貿易。",
       "source": "FDA Biologics",
       "date": "2026-07-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/biologics-license-applications-blas-cber-regulated-products",
@@ -50,32 +82,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "伽瑪加德液體",
-      "summary": "產品核准資訊用於：\n• 成人及兩歲或以上兒童原發性體液免疫缺陷(PI) 的替代治療。\n• 維持治療以改善成年患者的肌肉力量和殘疾",
-      "source": "FDA Biologics",
-      "date": "2026-07-17",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/gammagard-liquid",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "比維加姆",
-      "summary": "產品核准資訊用於治療原發性體液免疫缺陷",
-      "source": "FDA Biologics",
-      "date": "2026-07-17",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/bivigam",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "八",
-      "summary": "產品核准資訊用於治療成人慢性免疫性紫斑症 (ITP)",
-      "source": "FDA Biologics",
-      "date": "2026-07-17",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/octagam",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程 - 美通社PR-Newswire",
-      "summary": "GMP 級 IL-15 穩定性確認，確保可靠品質並加強生物製藥審批流程 - 美通社亞太區 美通社亞洲",
+      "title": "ACROBiosystems取得日本醫藥品醫療機器綜合機構（PMDA）對符合優良製造規範（GMP）等級IL-15的材料適用性確認，確保品質可靠並強化生技藥品核准流程 - PR Newswire APAC",
+      "summary": "ACROBiosystems取得日本PMDA對GMP等級IL-15的材料適用性確認，有助於提升生技藥品品質與核准效率。",
       "source": "PR Newswire Asia",
       "date": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNV01fX3ZqMC1ITW94Z2NUYUpnaFZON2VsTktZYWlaZHdQOTJPTjFiODZ4YVdKVm5qSGotdGVtVTRySmxyXzJOOWQ5YVZBSTN0WHVlYkdTc1VFUHpDa2pyVVRaUEZvYnFwRDNWbC10b0F1N3ZEclo4Vnk3Z3Z4NVI4N0I0VUlESTNqcTFiV3NseEE3ZTlRbVViVWdPMEZucUdBV3ZXbG5udFpJbXNMenBzYkZNSElnYkV6VWJwRHJsOVhROWZWOEREVEktQlBRdzlLaUpnUHBjRHE0ckdUQkNFM2NjMEhaU2hhSnZEUVNucmFwUHlnaDNNRXg2SE9scG5ub1NsLU42RzFZZWVvd3VaTHgzWE16ZE9TVkNfaWY2WnRHRkZjVWhkbktweUhxTTFQZHhEdmtOTDUxWEt6?oc=5",
@@ -89,8 +97,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "REPROCELL 提交用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）的幹細胞療法 Stemchymal® 在日本的製造和行銷批准申請",
-      "summary": "用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）的幹細胞療法 Stemchymal® 在日本獲得設計和行銷許可 Plataforma Media",
+      "title": "REPROCELL在日本提交幹細胞療法Stemchymal®的製造與銷售許可申請，用於治療脊髓小腦萎縮症（SCA3和SCA6）",
+      "summary": "REPROCELL在日本提交幹細胞療法Stemchymal®的上市申請，用於治療脊髓小腦萎縮症（SCA3和SCA6）。",
       "source": "Plataforma Media",
       "date": "2026-06-24",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOb0JlX1NqVHpCQ1dqNGlPaFZNbW9nQ1EzdGZNNV9Vc2U0bFZQN0E3TUdVVTVpclpmZ3BDcXNreWRuWEtEYmNySFdfZUI1ZHQ0OGpMSUN6R01UdG9aZGItemFjSmc2WkpJQkstcG5YTnNab3oxcFY3QU15ZmFkNmVDaG5CdDhQRmswVlRxWnFZb002UzZiUXVFbzdjTy16bm9LeU9paEVEdy1rZjM1Tk52aTNGdGp3ZVdwNm9hNUJBNUdsbEowNmxJTUVQbWdLV1l3cVN2MEp1YlFFWi1sWGYwNGdmaGFWcGt4Z244T1hCbkE3VFJGd2NSUDBERkdiTG03S1JTSS1aT0VrYk9jMWhScXJCb1VvYVh2WUs5a0Q2dGl6UkxQY3Vz?oc=5",
