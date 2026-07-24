@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-23T23:51:19.857146+00:00",
+  "updated": "2026-07-24T12:16:22.519743+00:00",
   "items": [
     {
-      "title": "生物製劑新訊",
-      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製劑最新消息",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
       "source": "FDA Biologics",
       "date": "2026-07-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "治療產品辦公室（OTP）線上座談會：細胞與基因治療產品生物製劑許可申請（BLA）送件的最佳實務",
-      "summary": "美國食品",
+      "title": "OTP線上座談會：細胞與基因療法產品的生物製劑許可申請（BLA）送件最佳實務",
+      "summary": "",
       "source": "06/04/2026",
       "date": "2026-07-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
@@ -50,8 +50,8 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
     },
     {
-      "title": "細胞治療製造商在顆粒物檢測上展現創意",
-      "summary": "在法規指引不明確下，製造商正開發創新技術來檢測含細胞產品中的顆粒物。流程模擬...",
+      "title": "細胞療法製造商在檢查顆粒物方面發揮創意",
+      "summary": "在監管指導不明確的情況下，製造商正在開發創新技術來測試含細胞產品中的顆粒物。製程模擬、最大限度地減少生產過程中的顆粒物以及選擇正確的測試都會有所幫助。\n該帖子 o",
       "source": "GEN News",
       "date": "2026-07-22",
       "url": "https://www.genengnews.com/topics/bioprocessing/cell-therapy-manufacturers-get-creative-on-checking-particulates/",
@@ -82,8 +82,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "ACROBiosystems取得日本醫藥品醫療機器綜合機構（PMDA）對符合優良製造規範（GMP）等級IL-15的材料適用性確認，確保品質可靠並強化生技藥品核准流程 - PR Newswire APAC",
-      "summary": "ACROBiosystems取得日本PMDA對GMP等級IL-15的材料適用性確認，有助於提升生技藥品品質與核准效率。",
+      "title": "ACROBiosystems 取得日本醫藥品醫療機器綜合機構（PMDA）對其優良製造規範（GMP）等級介白素-15（IL-15）的材料適用性確認，確保品質並加速生技藥品核准",
+      "summary": "ACROBiosystems 取得日本醫藥品醫療機器綜合",
       "source": "PR Newswire Asia",
       "date": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNV01fX3ZqMC1ITW94Z2NUYUpnaFZON2VsTktZYWlaZHdQOTJPTjFiODZ4YVdKVm5qSGotdGVtVTRySmxyXzJOOWQ5YVZBSTN0WHVlYkdTc1VFUHpDa2pyVVRaUEZvYnFwRDNWbC10b0F1N3ZEclo4Vnk3Z3Z4NVI4N0I0VUlESTNqcTFiV3NseEE3ZTlRbVViVWdPMEZucUdBV3ZXbG5udFpJbXNMenBzYkZNSElnYkV6VWJwRHJsOVhROWZWOEREVEktQlBRdzlLaUpnUHBjRHE0ckdUQkNFM2NjMEhaU2hhSnZEUVNucmFwUHlnaDNNRXg2SE9scG5ub1NsLU42RzFZZWVvd3VaTHgzWE16ZE9TVkNfaWY2WnRHRkZjVWhkbktweUhxTTFQZHhEdmtOTDUxWEt6?oc=5",
@@ -97,8 +97,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     },
     {
-      "title": "REPROCELL在日本提交幹細胞療法Stemchymal®的製造與銷售許可申請，用於治療脊髓小腦萎縮症（SCA3和SCA6）",
-      "summary": "REPROCELL在日本提交幹細胞療法Stemchymal®的上市申請，用於治療脊髓小腦萎縮症（SCA3和SCA6）。",
+      "title": "REPROCELL 提交用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）的幹細胞療法 Stemchymal® 在日本的製造和行銷批准申請",
+      "summary": "用於治療脊髓小腦性共濟失調（SCA3 和 SCA6）的幹細胞療法 Stemchymal® 在日本獲得設計和行銷許可 Plataforma Media",
       "source": "Plataforma Media",
       "date": "2026-06-24",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOb0JlX1NqVHpCQ1dqNGlPaFZNbW9nQ1EzdGZNNV9Vc2U0bFZQN0E3TUdVVTVpclpmZ3BDcXNreWRuWEtEYmNySFdfZUI1ZHQ0OGpMSUN6R01UdG9aZGItemFjSmc2WkpJQkstcG5YTnNab3oxcFY3QU15ZmFkNmVDaG5CdDhQRmswVlRxWnFZb002UzZiUXVFbzdjTy16bm9LeU9paEVEdy1rZjM1Tk52aTNGdGp3ZVdwNm9hNUJBNUdsbEowNmxJTUVQbWdLV1l3cVN2MEp1YlFFWi1sWGYwNGdmaGFWcGt4Z244T1hCbkE3VFJGd2NSUDBERkdiTG03S1JTSS1aT0VrYk9jMWhScXJCb1VvYVh2WUs5a0Q2dGl6UkxQY3Vz?oc=5",

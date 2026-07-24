@@ -1,7 +1,31 @@
 {
   "module": "funding",
-  "updated": "2026-07-23T23:51:35.371472+00:00",
+  "updated": "2026-07-24T12:16:41.243791+00:00",
   "items": [
+    {
+      "title": "默沙東與貧窮國家簽署自願性授權協議，推動實驗性愛滋病預防藥物",
+      "summary": "默沙東正積極簽署授權協議，希望加速其實驗性愛滋病預防藥物的量產，以廣泛供應。",
+      "source": "STAT News",
+      "date": "2026-07-24",
+      "url": "https://www.statnews.com/pharmalot/2026/07/24/merck-experimental-hiv-prevention-pill-licensing-deals/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "白宮公布",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-07-24",
+      "url": "https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Scribe 在罕見的基因編輯 首次公開上市（IPO） 中籌集了 1.29 億美元",
+      "summary": "這家新創公司是兩年多來第一家進行 首次公開上市（IPO） 定價的基因編輯公司，儘管它的資金遠低於大多數其他 2026 年上市的生技公司。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-23",
+      "url": "https://www.biopharmadive.com/news/scribe-ipo-price-gene-editing-biotech-pcsk9-lpa/825933/",
+      "lang": "zh-TW"
+    },
     {
       "title": "Vertex 是高溢價收購 Crinetics 的唯一競標者",
       "summary": "分析師預計，有關該交易的新細節「可能會重新引發」投資者的審查，因為福泰在這有望成為其有史以來最大的交易中支付了過高的價格。",
@@ -24,14 +48,6 @@
       "source": "BioPharma Dive",
       "date": "2026-07-22",
       "url": "https://www.biopharmadive.com/news/crystalys-gout-dotinurad-series-b-venture-financing/825697/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Dimension 補充 8 億美元庫存，以利用人工智慧的“快速崛起”",
-      "summary": "這家年輕的創投公司在科技和生物技術的整合上投入了大量資金，目前已投資了 35 家公司，最近其中一家被人工智慧巨頭 Anthropic 收購。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-21",
-      "url": "https://www.biopharmadive.com/news/dimension-biotech-startups-third-fund-tech-ai/825748/",
       "lang": "zh-TW"
     },
     {
