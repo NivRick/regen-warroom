@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-24T12:16:22.519743+00:00",
+  "updated": "2026-07-24T23:56:20.128270+00:00",
   "items": [
     {
-      "title": "生物製劑最新消息",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-07-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "OTP線上座談會：細胞與基因療法產品的生物製劑許可申請（BLA）送件最佳實務",
-      "summary": "",
+      "title": "OTP Town Hall：準備細胞和基因治療產品 BLA 提交的最佳實踐",
+      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 6 月 4 日舉辦下一次虛擬市政廳會議。在本次市政廳會議期間，來自 OTP 審查管理和監管審查辦公室 (ORMR) 的專家",
       "source": "06/04/2026",
       "date": "2026-07-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
@@ -50,14 +50,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
     },
     {
-      "title": "細胞療法製造商在檢查顆粒物方面發揮創意",
-      "summary": "在監管指導不明確的情況下，製造商正在開發創新技術來測試含細胞產品中的顆粒物。製程模擬、最大限度地減少生產過程中的顆粒物以及選擇正確的測試都會有所幫助。\n該帖子 o",
-      "source": "GEN News",
-      "date": "2026-07-22",
-      "url": "https://www.genengnews.com/topics/bioprocessing/cell-therapy-manufacturers-get-creative-on-checking-particulates/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "研討會、會議和大會（生物製劑）",
       "summary": "有關 CBER 主辦或共同主辦的有關各種生物製品的會議、大會和研討會的信息，以便教育公眾並徵求有關各方的意見。",
       "source": "FDA Biologics",
@@ -66,24 +58,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 監管產品的生物製品授權申請 (BLA)",
-      "summary": "生物製品許可證申請用於請求許可將生物製品引入或交付州際貿易。",
-      "source": "FDA Biologics",
-      "date": "2026-07-17",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/biologics-license-applications-blas-cber-regulated-products",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "希森特拉",
-      "summary": "產品核准資訊適用於治療成人和 2 歲及以上兒童患者的原發性免疫缺陷 (PI)。",
-      "source": "FDA Biologics",
-      "date": "2026-07-17",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/hizentra",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "ACROBiosystems 取得日本醫藥品醫療機器綜合機構（PMDA）對其優良製造規範（GMP）等級介白素-15（IL-15）的材料適用性確認，確保品質並加速生技藥品核准",
-      "summary": "ACROBiosystems 取得日本醫藥品醫療機器綜合",
+      "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程 - 美通社PR-Newswire",
+      "summary": "GMP 級 IL-15 穩定性確認，確保可靠品質並加強生物製藥審批流程 - 美通社亞太區 美通社亞洲",
       "source": "PR Newswire Asia",
       "date": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNV01fX3ZqMC1ITW94Z2NUYUpnaFZON2VsTktZYWlaZHdQOTJPTjFiODZ4YVdKVm5qSGotdGVtVTRySmxyXzJOOWQ5YVZBSTN0WHVlYkdTc1VFUHpDa2pyVVRaUEZvYnFwRDNWbC10b0F1N3ZEclo4Vnk3Z3Z4NVI4N0I0VUlESTNqcTFiV3NseEE3ZTlRbVViVWdPMEZucUdBV3ZXbG5udFpJbXNMenBzYkZNSElnYkV6VWJwRHJsOVhROWZWOEREVEktQlBRdzlLaUpnUHBjRHE0ckdUQkNFM2NjMEhaU2hhSnZEUVNucmFwUHlnaDNNRXg2SE9scG5ub1NsLU42RzFZZWVvd3VaTHgzWE16ZE9TVkNfaWY2WnRHRkZjVWhkbktweUhxTTFQZHhEdmtOTDUxWEt6?oc=5",

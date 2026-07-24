@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-07-24T12:15:19.777912+00:00",
+  "updated": "2026-07-24T23:55:57.391938+00:00",
   "items": [
     {
-      "title": "高效表達全長三股螺旋重組第三型膠原蛋白的技術突破",
-      "summary": "第三型膠原蛋白（COL3A1）是血管與皮膚組織中重要的纖維狀膠原蛋白，在傷口癒合與組織修復上扮演關鍵角色。",
+      "title": "全長三螺旋重組 III 型膠原蛋白在細胞中的高效表達",
+      "summary": "III型膠原蛋白（COL3A1）是一種重要的纖維狀膠原蛋白，富含於血管和皮膚組織中，在傷口癒合和組織修復中發揮重要作用。生物醫學和化妝品應用中對 COL3A1 不斷增長的需求推動了重組生產系統的發展。在...",
       "source": "PubMed",
       "date": "2026-07-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™",
-      "summary": "",
+      "title": "個人化 SNAP™-TIL（特異性新抗原勝肽-TIL）治療平台的臨床前概念驗證。",
+      "summary": "腫瘤浸潤淋巴細胞 (TIL) 療法涉及提取、擴增和重新註入免疫細胞以靶向癌細胞，該療法在黑色素瘤治療中已顯示出前景，但需要優化以獲得更廣泛的療效。 TIL 療法的成功取決於對腫瘤相關...",
       "source": "PubMed",
       "date": "2026-07-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402813/",
@@ -20,7 +20,7 @@
     },
     {
       "title": "ABHD17C 調節樂伐替尼抑制肝細胞癌的功效。",
-      "summary": "仑伐替尼是肝细胞癌（HCC）的一线治疗药物，但其临床疗效因耐药性而受到限制。 ABHD17C 是一种参与 HCC 进展的去棕榈酰化酶，尚未在乐伐替尼反应中进行研究。本研究旨在確定 ABHD17C 是否調節...",
+      "summary": "侖伐替尼是肝細胞癌（HCC）的第一線治療藥物，但其臨床療效因抗藥性而受到限制。 ABHD17C 是一種參與 HCC 進展的去棕櫚酰化酶，尚未在樂伐替尼反應中進行研究。本研究旨在確定 ABHD17C 是否調節...",
       "source": "PubMed",
       "date": "2026-07-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42358063/",
@@ -67,15 +67,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "搭載類器官的核心-殼層冷凍微針，有望實現毛髮再生",
-      "summary": "組織工程毛囊再生技術，被視為增加毛囊數量的潛力新方法，但目前仍面臨一些技術瓶頸。",
+      "title": "搭載類器官的核心-殼層冷凍微針，成功誘導仿生毛囊單位與毛髮再生",
+      "summary": "組織工程毛囊再生技術，為增加毛囊數量提供了一條很有潛力的路，但目前仍面臨一些挑戰，例如難以...",
       "source": "PubMed",
       "date": "2026-07-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472089/",
       "lang": "zh-TW"
     },
     {
-      "title": "組織再生新突破：可注射微球載體如何遞送幹",
+      "title": "用於組織再生的可",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-24",
@@ -132,14 +132,14 @@
     },
     {
       "title": "調控衰老代謝的階層式支架，有助恢復NAD水平",
-      "summary": "衰老導致的骨骼修復障礙是臨床上的一大挑戰，主要原因在於衰老細胞造成的代謝微環境失衡。",
+      "summary": "衰老引起的骨骼修復障礙，是臨床上的一大挑戰，主要原因在於衰老細胞導致的代謝微環境失衡。",
       "source": "PubMed",
       "date": "2026-07-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42395338/",
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫學製造相關的環境監測實務：日本",
+      "title": "再生醫學製造相關的環境監測",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-24",
@@ -251,8 +251,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲血液學協會（EHA）2026年大會重點回顧",
-      "summary": "EMJ雜誌針對歐洲血液學協會（EHA）2026年大會的重點內容進行了回顧。",
+      "title": "使用大規模生產的 誘導型多能幹細胞（iPSC） 衍生的同種異體 T 細胞標靶結直腸癌",
+      "summary": "研究人員產生了現成的、可大規模生產的 誘導型多能幹細胞（iPSC） 衍生的同種異體 γδT 細胞，在一項小型臨床前研究中，這些細胞抑制了小鼠結直腸癌異種移植模型中的腫瘤生長，突顯了這些細胞作為新型免疫療法的潛力。",
+      "source": "GEN News",
+      "date": "2026-07-24",
+      "url": "https://www.genengnews.com/topics/cancer/colorectal-cancer-targeted-with-mass-produced-ipsc-derived-allogeneic-t-cells/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "胎牛血清市場趨勢、成長及未來展望",
+      "summary": "& 未來展望 SNS Insider",
+      "source": "SNS Insider",
+      "date": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pTjM5SU1LbUFZTHRhMFhkajBfSDRiR2toaWlGUXdLcXl5clJXNTJFZTFqVWFWLW5wSDdkbGdZcTJKRVdZSk1wTWs2M2NYTEw4OVhudjFRXzZTd185WDV0Z0xDbWdUSlB2NTFKNw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "歐洲血液學會（EHA）2026年大會回顧",
+      "summary": "2026 年 EHA 大會 EMJ",
       "source": "EMJ",
       "date": "2026-07-23",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN19oZ1dJV2FXWGhPZmtQb21wWlNnWFBaWVhzUkpqMzBFZGhFY3lBQ3U0bFFDS1VCdmFtMnNfWjhiSzUxdmFRQ0Y5NnRMa25HajJzaDVTbHNvUHdrNXI0MXBtWkVHOVctTm53WnBlU3p2cm1jNGZkT0sxOTV5UVRKU0tuNDlJLUNsaWh1YU5WUDdhOVJGVDJST2Q5MW83N1ZCYWpkYzk2X05KZXc1VmVpZkFHM2xXUGtSNWswS3F2MlpIVms?oc=5",
@@ -267,24 +283,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "誘導型多能幹細胞（iPSC） 衍生的神經祖細胞療法治療亞急性脊髓損傷：具有長期追蹤的 1 期試驗",
-      "summary": "亞急性脊髓損傷的治療：長期追蹤的 1 期試驗 Nature",
-      "source": "Nature",
-      "date": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VUVh1SmFkcFJhUklPU0prTUFSaGR1SmRqTXh0b2tCLTdLM1p4NFRtNmNfSTZLT2lqT0RGcENVTzM1ZzEtNWZRemRxUmhXYTg0aHZhcF9JX0k4VWFSM3hz?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食品藥物管理局（FDA）局長國家優先審查憑證（CNPV）試行計畫",
-      "summary": "美國食品藥物管理局（FDA）官網公布了局長國家優先審查憑證（CNPV）試行計畫的相關資訊。",
+      "title": "專員國家優先券 (CNPV) 試點計劃",
+      "summary": "(CNPV) 試點計畫 美國食藥局（FDA）.gov",
       "source": "fda.gov",
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "新型嵌合抗原受體T細胞療法（CAR-T）為難治型腎臟癌帶來新希望",
-      "summary": "德州大學MD安德森癌症中心指出，新型CAR-T療法有望成為難治型腎臟癌的治療新選項。",
+      "title": "新型嵌合抗原受體T細胞療法（CAR-T）為難治型腎臟癌帶來有潛力的新選擇",
+      "summary": "報導指出，德州大學MD安德森癌症中心開發的新型嵌合抗原受體T細胞療法（CAR-T），有望成為治療難治型腎臟癌的突破性選項。",
       "source": "UT MD Anderson",
       "date": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnhIS1NaOHNpdEw4MmtvY3R1Vk1XMEFlYjN6eURaNzJBaXNDRHBhSTFsdUVUbEpRR0lWT3UySUVGZzdudkhTSVMtR2tGZkhFVDdwakxwaEo1c1BtY3V5VGFSdGtGV1FENU9ZQ2dIVHNkbDNiQWx3MnI2QmJ4bWEtOHZjeU1OOG1TQ0hzVGx2TV95LUxXVWpkeE1fSU1xc09hVW5DRzVNSks2XzVtc2NYaXl5U0hMQmpfOTVhekJuc1pGOUlxRjFKWURrZmc5clZoSHpqZjREZjc2d2hMRnJTZldLSk1DNV9W?oc=5",
@@ -292,26 +300,34 @@
     },
     {
       "title": "幹細胞療法治療慢性脊髓損傷，朝臨床試驗邁進",
-      "summary": "報導指出，幹細胞療法在治療慢性脊髓損傷方面，正積極朝臨床試驗推進。",
+      "summary": "這篇報導指出，幹細胞療法在治療慢性脊髓損傷方面有新進展，正逐步朝臨床試驗階段推進，為病患帶來新希望。",
       "source": "Inside Precision Medicine",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9IbUtqek43aWtVSUhPVmRBcThtNkItYUNuaXM1UmFwQVFOU1NBeHM3WlJYdWtkSzBBNG9Gc1NTTlZlMUdOYy1JdkxpVXl0UGRsa1FuLVREMXU4OXoxLUt5R0RpeEdSSm9GblZWWV9pMXRQXzZVV19oek12RHJxTFExVENmWHZubGtRS0tRLVBZOG1SU1ktLXBkOGZNNlkzNWxMOFVyZFNtX1o4YThXMFdTU1lFdmZaMWFqRUhtVGdBQQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品藥物管理局（FDA）2026年6月神經學領域最新動態總覽",
-      "summary": "美國食品藥物管理局（FDA）彙整了2026年6月在神經學領域的最新核准、審查進展與重要公告。",
+      "title": "美國食藥局（FDA） 神經學綜述：2026 年 6 月",
+      "summary": "",
       "source": "Medscape",
       "date": "2026-07-10",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXNHRFFUd3hwYzZaSGVvVDYzUUpHTmhvZ1hMSEJFMGVhMlFuYTktbVN5ekNvYm1XZ0tDZkJzcU8ybzhNZmZOQnBMaE1janBTdWpvTEMzN0pzcWx5SWN3VFFfWUp6QnMzdXlZWWI4eHRLdlFIWDFqMTVrSURpTVF0WlRfc3J4c0tL?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "第一/二期臨床試驗：CC-97540用於抗嗜中性白血球細胞質抗體相關血管炎（ANCA相關血管炎）患者",
-      "summary": "狀態：收案中｜主持人：Marcela V. Maus, M.D.,Ph.D.｜本研究旨在評估CC",
+      "title": "[一期、二期] CC-97540用於抗嗜中性白血球細胞質抗體相關血管炎患者",
+      "summary": "狀態：正在招募中｜主辦單位：Marcela V. Maus醫師｜這項研究旨在評估CC-97540在復發或難治型嚴重",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-09",
       "url": "https://clinicaltrials.gov/study/NCT07388277",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "人類胚胎幹細胞衍生的多巴胺能細胞治療帕金森氏症：1/2 期開放標籤試驗",
+      "summary": "神經細胞治療帕金森氏症：1/2 期開放標籤試驗 Nature",
+      "source": "Nature",
+      "date": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTNFhQeVBCNnJOVWNuSjdzN1gxZFpSTTBnT0wyMUVoQkNjN181S0lWcTZVeHdMdW1lSGdsUklac24wTTRuckk4S1FSaXlGS2p4Y0FQZ3FBQTlHMXFRNmhJ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -347,8 +363,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "奈米脂肪注射與分段式二氧化碳（CO2）雷射治療創傷後萎縮性疤痕",
-      "summary": "坦塔大學正邀請病患參與，研究奈米脂肪注射與分段式二氧化碳（CO2）雷射，治療因膠原蛋白流失造成的創傷後萎縮性疤痕。",
+      "title": "奈米脂肪注射與分段式二氧化碳雷射治療創傷後萎縮性疤痕",
+      "summary": "狀態：邀請入組中｜主辦單位：坦塔大學｜創傷後萎縮性疤痕的特徵是皮膚凹陷，這是由於膠原蛋白流失所引起，可能...",
       "source": "ClinicalTrials.gov｜Egypt",
       "date": "2026-06-28",
       "url": "https://clinicaltrials.gov/study/NCT07679217",

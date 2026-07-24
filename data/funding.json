@@ -1,18 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-07-24T12:16:41.243791+00:00",
+  "updated": "2026-07-24T23:56:30.932834+00:00",
   "items": [
     {
-      "title": "默沙東與貧窮國家簽署自願性授權協議，推動實驗性愛滋病預防藥物",
-      "summary": "默沙東正積極簽署授權協議，希望加速其實驗性愛滋病預防藥物的量產，以廣泛供應。",
+      "title": "STAT+：中國的致命基因編輯試驗引發倫理和監督問題",
+      "summary": "賽諾菲胰島素筆供不應求，肽化合物的勝利，以及來自 The Readout 的更多生物技術新聞",
+      "source": "STAT News",
+      "date": "2026-07-24",
+      "url": "https://www.statnews.com/2026/07/24/biotech-news-fatal-gene-editing-trial-in-china-raises-ethics-questions/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：默克公司在貧窮國家就實驗性愛滋病毒預防藥物達成自願許可協議",
+      "summary": "默克公司正為其實驗性愛滋病毒預防藥物達成許可協議，希望能迅速開始大規模生產。",
       "source": "STAT News",
       "date": "2026-07-24",
       "url": "https://www.statnews.com/pharmalot/2026/07/24/merck-experimental-hiv-prevention-pill-licensing-deals/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "白宮公布",
-      "summary": "",
+      "title": "STAT+：白宮提供科學藍圖：更多人工智慧，更少生命科學",
+      "summary": "川普政府發布了美國科學藍圖，呼籲將數千億研究資金從大學轉移到工業界。",
       "source": "STAT News",
       "date": "2026-07-24",
       "url": "https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/?utm_campaign=rss",
@@ -40,30 +48,6 @@
       "source": "BioPharma Dive",
       "date": "2026-07-22",
       "url": "https://www.biopharmadive.com/news/gsk-nuvalent-jideytro-fda-approve-ros1-lung-cancer/825967/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Crystalys 追加 1.3 億美元資金，推動痛風藥物通過後測",
-      "summary": "該新創公司正在進行一項廣泛的全球開發計劃，並得到了 20 多家投資公司的支持，其治療方法已在許多亞洲國家獲得批准，但尚未在美國或歐洲上市。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-22",
-      "url": "https://www.biopharmadive.com/news/crystalys-gout-dotinurad-series-b-venture-financing/825697/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "「總有一個第一」：為何美國生技公司 Axiom 將在香港開啟 首次公開上市（IPO） 之旅",
-      "summary": "h Axiom 將在香港開始 首次公開上市（IPO） 之旅 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "基因編輯開發商 Scribe 計畫首次公開募股",
-      "summary": "",
-      "source": "BioPharma Dive",
-      "date": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNmpQZjBpcWk4eGNpbks0TEVpeF9DRGpBMGplSFplb2R6Z25IdHZFeHBaYmhCdDd2eTlFYURweUgxZm4tSkhCT2h6T29jbE96QnlheF9SZTRfd1NuMEJ3MUtoT3Rsa01yc09aSDBqOWtYcXI5ZnU3ZktwbU5kWm8?oc=5",
       "lang": "zh-TW"
     }
   ]
