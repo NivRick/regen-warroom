@@ -1,18 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-07-24T23:56:30.932834+00:00",
+  "updated": "2026-07-25T11:59:40.418885+00:00",
   "items": [
     {
-      "title": "STAT+：中國的致命基因編輯試驗引發倫理和監督問題",
-      "summary": "賽諾菲胰島素筆供不應求，肽化合物的勝利，以及來自 The Readout 的更多生物技術新聞",
+      "title": "中國致命基因編輯臨床試驗引發倫理與監管爭議",
+      "summary": "賽諾菲（Sanofi）胰島素筆針供應短缺，胜肽化合物（peptide compounds）取得進展，以及更多來自《The Readout》的生技新聞。",
       "source": "STAT News",
       "date": "2026-07-24",
       "url": "https://www.statnews.com/2026/07/24/biotech-news-fatal-gene-editing-trial-in-china-raises-ethics-questions/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：默克公司在貧窮國家就實驗性愛滋病毒預防藥物達成自願許可協議",
-      "summary": "默克公司正為其實驗性愛滋病毒預防藥物達成許可協議，希望能迅速開始大規模生產。",
+      "title": "默沙東（",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-07-24",
       "url": "https://www.statnews.com/pharmalot/2026/07/24/merck-experimental-hiv-prevention-pill-licensing-deals/?utm_campaign=rss",
@@ -48,6 +48,14 @@
       "source": "BioPharma Dive",
       "date": "2026-07-22",
       "url": "https://www.biopharmadive.com/news/gsk-nuvalent-jideytro-fda-approve-ros1-lung-cancer/825967/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "「總有一個第一」：為何美國生技公司 Axiom 將在香港開啟 首次公開上市（IPO） 之旅",
+      "summary": "h Axiom 將在香港開始 首次公開上市（IPO） 之旅 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
       "lang": "zh-TW"
     }
   ]
