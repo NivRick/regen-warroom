@@ -1,17 +1,17 @@
 {
   "module": "funding",
-  "updated": "2026-07-25T11:59:40.418885+00:00",
+  "updated": "2026-07-25T23:51:47.075766+00:00",
   "items": [
     {
-      "title": "中國致命基因編輯臨床試驗引發倫理與監管爭議",
-      "summary": "賽諾菲（Sanofi）胰島素筆針供應短缺，胜肽化合物（peptide compounds）取得進展，以及更多來自《The Readout》的生技新聞。",
+      "title": "STAT+：中國致命基因編輯臨床試驗引發倫理與監管疑慮",
+      "summary": "賽諾菲（Sanofi）胰島素注射筆供應短缺，胜肽化合物傳出捷報，以及更多來自《The Readout》的生技新聞。",
       "source": "STAT News",
       "date": "2026-07-24",
       "url": "https://www.statnews.com/2026/07/24/biotech-news-fatal-gene-editing-trial-in-china-raises-ethics-questions/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "默沙東（",
+      "title": "STAT+：默沙",
       "summary": "",
       "source": "STAT News",
       "date": "2026-07-24",
@@ -56,6 +56,14 @@
       "source": "Fierce Biotech",
       "date": "2026-07-21",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "基因編輯開發商 Scribe 計畫首次公開募股",
+      "summary": "",
+      "source": "BioPharma Dive",
+      "date": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNmpQZjBpcWk4eGNpbks0TEVpeF9DRGpBMGplSFplb2R6Z25IdHZFeHBaYmhCdDd2eTlFYURweUgxZm4tSkhCT2h6T29jbE96QnlheF9SZTRfd1NuMEJ3MUtoT3Rsa01yc09aSDBqOWtYcXI5ZnU3ZktwbU5kWm8?oc=5",
       "lang": "zh-TW"
     }
   ]

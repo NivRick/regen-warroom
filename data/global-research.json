@@ -1,58 +1,58 @@
 {
   "module": "research",
-  "updated": "2026-07-25T11:59:00.832157+00:00",
+  "updated": "2026-07-25T23:51:00.047973+00:00",
   "items": [
     {
-      "title": "高效表達全尺寸三螺旋重組第三型膠原蛋白",
-      "summary": "第三型膠原蛋白（COL3A1）是血管和皮膚組織中豐富的纖維狀膠原蛋白，在傷口癒合和組織修復中扮演關鍵角色。",
+      "title": "高效表達全長三股螺旋重組第三型膠原蛋白",
+      "summary": "第三型膠原蛋白（COL3A1）是一種重要的纖維狀膠原蛋白，大量存在於血管和皮膚組織中，在傷口癒合和組織...",
       "source": "PubMed",
       "date": "2026-07-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL（特定新抗原胜肽-腫瘤浸潤淋巴細胞）療法平台的臨床前概念驗證",
-      "summary": "腫瘤浸潤淋巴細胞（TIL）療法透過提取、擴增並回輸免疫細胞來鎖定癌細胞，已展現出潛力。",
+      "title": "個人化SNAP™-TIL（特定新",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-07-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402813/",
       "lang": "zh-TW"
     },
     {
-      "title": "ABHD17C調控樂伐替尼（lenvatinib）抑制肝細胞癌的療效",
-      "summary": "樂伐替尼（lenvatinib）是肝細胞癌（HCC）的一線療法，但其臨床療效受限於藥物抗性。ABHD17C是一種去棕櫚醯化酶。",
+      "title": "ABHD17C 調節樂伐替尼抑制肝細胞癌的功效。",
+      "summary": "侖伐替尼是肝細胞癌（HCC）的第一線治療藥物，但其臨床療效因抗藥性而受到限制。 ABHD17C 是一種參與 HCC 進展的去棕櫚酰化酶，尚未在樂伐替尼反應中進行研究。本研究旨在確定 ABHD17C 是否調節...",
       "source": "PubMed",
       "date": "2026-07-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42358063/",
       "lang": "zh-TW"
     },
     {
-      "title": "創傷性脊髓損傷的組織工程：研究進展與臨床轉譯",
-      "summary": "創傷性脊髓損傷（TSCI）通常會導致持續性的運動和感覺功能障礙。跨領域的進展已支持臨床前研究。",
+      "title": "創傷性脊髓損傷的組織工程：研究進展和臨床轉化。",
+      "summary": "創傷性脊髓損傷 (TSCI) 通常會導致持續的運動和感覺缺陷。跨學科的進步支持了 TSCI 修復組織工程方法的臨床前研究，其核心目標是重建受損的神經組織並恢復解剖學…",
       "source": "PubMed",
       "date": "2026-07-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42499528/",
       "lang": "zh-TW"
     },
     {
-      "title": "用於再生的轉譯後修飾（PTM）調控生物材料",
-      "summary": "轉譯後修飾（PTM）是指蛋白質生物合成後發生的共價化學改變，包括磷酸化。",
+      "title": "用於再生的翻譯後修飾調節生物材料。",
+      "summary": "翻譯後修飾 (PTM) 是指蛋白質生物合成後發生的共價化學改變，包括磷酸化、乙醯化、泛素化和數百種其他已記錄的變異。這些修飾充當動態分子代碼，精確調節...",
       "source": "PubMed",
       "date": "2026-07-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494753/",
       "lang": "zh-TW"
     },
     {
-      "title": "一種含MnO的異種發育基質水凝膠",
-      "summary": "類固醇相關骨壞死（SON）的特點是難治性骨缺損微環境，涉及氧化壓力、持續性發炎。",
+      "title": "含 MnO 的異種發育基質水凝膠",
+      "summary": "類固醇相關性骨壞死（SON）的特徵是難治性骨缺損微環境，涉及氧化壓力、持續發炎和血管化受損，這限制了傳統移植材料的功效。在這裡，我們開發了一種臨時可編程複合材料...",
       "source": "PubMed",
       "date": "2026-07-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494751/",
       "lang": "zh-TW"
     },
     {
-      "title": "氣體分子及相關因子在膝關節軟骨損傷與修復中的作用：研究熱點的文獻計量可視化分析",
-      "summary": "這項研究透過文獻計量分析，探討氣體分子及其相關",
+      "title": "氣體分子及相關因素在膝關節軟骨損傷與修復中的作用：研究熱點的文獻計量可視化分析。",
+      "summary": "JOURNAL/mgres/04.03/01612956-202612000-00012/figure1/v/2026-07-23T200825Z/r/image-tiff 膝關節軟骨損傷後，自我修復能力有限，容易進展為骨關節炎。最近，氣體訊號分子如一氧化氮和氧氣，以及活性氧...",
       "source": "PubMed",
       "date": "2026-07-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42493773/",
@@ -67,15 +67,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "人工智慧對異種移植與再生醫學的影響：解決器官短缺的途徑",
-      "summary": "這篇回顧旨在總結過去兩年來，人工智慧在異種移植與再生醫學領域中，最具影響力且概念上重要的研究成果。",
+      "title": "人工智慧如何影響異種移植與再生醫學，以解決器官短缺問題",
+      "summary": "本篇回顧旨在彙整過去兩年來，在人工智慧（AI）應用於異種移植與再生醫學領域，最具影響力與概念性的重要研究成果。",
       "source": "PubMed",
       "date": "2026-07-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472700/",
       "lang": "zh-TW"
     },
     {
-      "title": "載有類器官的核",
+      "title": "類器官載入",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-25",
@@ -124,22 +124,22 @@
     },
     {
       "title": "小鼠腸道類器官培養和切片的最佳化方案：提高效率和結構完整性。",
-      "summary": "小鼠腸道類器官是保留宿主遺傳特徵和複雜結構的重要 3D 模型，使其對於腸道生物學研究具有無價的價值。然而，傳統的培養和組織學處理常常面臨操作複雜性高和樣本缺失的問題。",
+      "summary": "小鼠腸道類器官是重要的 3D 模型，保留了宿主遺傳特徵和複雜的結構，這使得它們對於腸道生物學研究具有無價的價值。然而，傳統的培養和組織學處理常常面臨操作複雜性高和樣本缺失的問題。",
       "source": "PubMed",
       "date": "2026-07-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405229/",
       "lang": "zh-TW"
     },
     {
-      "title": "繞過多能性：從重組微脂肪直接分化為多譜系類器官的潛力",
-      "summary": "類器官技術已成為再生醫學的強大工具；然而，目前的類器官技術主要基於多能性...",
+      "title": "繞過多能性：從重組微脂肪直接分化出多譜系類器官的潛力",
+      "summary": "類器官技術在再生醫學領域嶄露頭角，展現強大潛力；然而，現有類器官技術主要依賴多能性細胞。",
       "source": "PubMed",
       "date": "2026-07-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42403587/",
       "lang": "zh-TW"
     },
     {
-      "title": "調節衰老代謝的分層支架可恢復NAD",
+      "title": "調節",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-25",
@@ -147,7 +147,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "與再生醫學製造相關的環境監測實踐：來自對日本監管設施的跨部門調查的見解。",
+      "title": "與再生醫學製造相關的環境監測實踐：對日本監管設施的跨部門調查的見解。",
       "summary": "環境監測 (EM) 對於再生醫學製造中的污染控制至關重要，其中無菌處理和依賴操作員的流程需要適應性強且穩健的策略。儘管新興市場受日本各製造業部門共同的監管要求管轄…",
       "source": "PubMed",
       "date": "2026-07-25",
@@ -187,8 +187,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "早期肺癌高風險患者的治療新選擇：亞肺葉楔狀切除術或立體定位放射治療",
-      "summary": "本研究由奧胡斯大學醫院主辦，目前尚未開始收案。主要探討針對第一期非小細胞肺癌（NSCLC）的低風險患者，手術治療...",
+      "title": "早期肺癌高風險病患的肺葉下楔狀切除術或立體定位放射治療",
+      "summary": "狀態：尚未招募｜主辦：奧胡斯大學醫院｜針對第一期非小細胞肺癌（NSCLC）的低風險病患，手術治療...",
       "source": "ClinicalTrials.gov｜Denmark",
       "date": "2026-07-25",
       "url": "https://clinicaltrials.gov/study/NCT07432802",
@@ -243,7 +243,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE2] Sacituzumab Tirumotecan in Pts w/ NEPC After Progression on Prior Chemotherapy",
+      "title": "[第 2 階段] Sacituzumab Tirumotecan 用於 NEPC 患者在先前化療進展後的治療",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：弗吉尼亞聯邦大學｜這是一項 sacituzumab tirumotecan 治療鉑類化療後進展的神經內分泌前列腺癌 (NEPC) 的 2 期、開放標籤、單組研究。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-25",
@@ -283,8 +283,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "多發性骨髓瘤新療法標的，擴大治療選擇",
-      "summary": "賓州大學醫學院發現多發性骨髓瘤的新治療靶點，有望擴大患者的治療選擇。",
+      "title": "新治療靶點問世，多發性骨髓瘤患者治療選擇更多元",
+      "summary": "賓州大學醫學院發現多發性骨髓瘤新治療靶點。",
       "source": "Penn Medicine",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQnA4YUU5UHhvUUd3ZHlURUtMeVVjbG1iRnNGMnhPbGhpcmN1c1c0dFIwUlE4QkhRUG5NaTVBbjFqOE9Odm9ocTdqZ01XYUJqQVdaTUk5b2FmdlZLUXpsdnpla054MDhQN3FpNkQ4ZF9NWVhEc0hUNkNuellYREhUMUNrWGVRTFNXRmZRZDYwSV91M1NtbVR1Zg?oc=5",
@@ -307,8 +307,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞療法治療慢性脊髓損傷，朝臨床試驗邁進",
-      "summary": "",
+      "title": "幹細胞療法治療慢性脊髓損傷，臨床試驗指日可待",
+      "summary": "精準醫療",
       "source": "Inside Precision Medicine",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9IbUtqek43aWtVSUhPVmRBcThtNkItYUNuaXM1UmFwQVFOU1NBeHM3WlJYdWtkSzBBNG9Gc1NTTlZlMUdOYy1JdkxpVXl0UGRsa1FuLVREMXU4OXoxLUt5R0RpeEdSSm9GblZWWV9pMXRQXzZVV19oek12RHJxTFExVENmWHZubGtRS0tRLVBZOG1SU1ktLXBkOGZNNlkzNWxMOFVyZFNtX1o4YThXMFdTU1lFdmZaMWFqRUhtVGdBQQ?oc=5",
@@ -323,8 +323,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 1 期、第 2 期] CC-97540 在抗嗜中性白血球胞質抗體相關性血管炎患者的應用",
-      "summary": "狀態：招募｜主辦：Marcela V. Maus, M.D.,Ph.D.｜本研究的目的是評估 CC-97540 在復發或難治性嚴重抗中性粒細胞胞漿抗體 (ANCA) 相關血管炎中的安全性。",
+      "title": "CC-",
+      "summary": "",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-09",
       "url": "https://clinicaltrials.gov/study/NCT07388277",
@@ -379,8 +379,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "SYS6010結合PD-(L)-1單株抗體，作為非小細胞肺癌（NSCLC）輔助治療的第三期臨床試驗",
-      "summary": "尚未招募受試者。由石藥巨石生物製藥主辦，旨在比較SYS6010結合PD-(L)-1單",
+      "title": "第三期臨床試驗：SYS6010 結合抗程序性死亡配體1（PD-(L)-1）單株抗體作為非小細胞肺癌（NSCLC）輔助療法之研究",
+      "summary": "狀態：尚未開始招募受試者｜主辦：石藥巨石生物製藥有限公司｜本",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06-25",
       "url": "https://clinicaltrials.gov/study/NCT07672223",

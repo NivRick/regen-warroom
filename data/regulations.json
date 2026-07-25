@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-25T11:59:25.976729+00:00",
+  "updated": "2026-07-25T23:51:27.918286+00:00",
   "items": [
     {
-      "title": "生物製劑最新消息",
-      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-07-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "治療產品辦公室（OTP）公開說明會：細胞與基因療法產品生物製劑許可申請（BLA）送件的最佳實務準則",
-      "summary": "美國",
+      "title": "OTP Town Hall：準備細胞和基因治療產品 BLA 提交的最佳實踐",
+      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 6 月 4 日舉辦下一次虛擬市政廳會議。在本次市政廳會議期間，來自 OTP 審查管理和監管審查辦公室 (ORMR) 的專家",
       "source": "06/04/2026",
       "date": "2026-07-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
@@ -20,7 +20,7 @@
     },
     {
       "title": "生物製品 PREA 審查和標籤變更",
-      "summary": "PREA 標籤變更、兒科研究的醫學、統計和臨床藥理學審查根據《聯邦食品、藥品和化妝品法案》（《法案》）第 505B 條（經 2007 年 美國食藥局（FDA） 修正案法案 (FDAAAA) 修訂）進行。這些評估",
+      "summary": "PREA 標籤變更、兒科研究的醫學、統計和臨床藥理學審查根據《聯邦食品、藥品和化妝品法案》（簡稱《法案》）第 505B 條（經 2007 年 美國食藥局（FDA） 修正案法案 (FDAAAA) 修訂）進行。這些評估",
       "source": "FDA Biologics",
       "date": "2026-07-23",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
@@ -50,7 +50,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
     },
     {
-      "title": "研討會、會議和大會（生物製劑）",
+      "title": "研討會、會議和大會（生物製品）",
       "summary": "有關 CBER 主辦或共同主辦的有關各種生物製品的會議、大會和研討會的信息，以便教育公眾並徵求有關各方的意見。",
       "source": "FDA Biologics",
       "date": "2026-07-21",
@@ -63,6 +63,14 @@
       "source": "PR Newswire Asia",
       "date": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNV01fX3ZqMC1ITW94Z2NUYUpnaFZON2VsTktZYWlaZHdQOTJPTjFiODZ4YVdKVm5qSGotdGVtVTRySmxyXzJOOWQ5YVZBSTN0WHVlYkdTc1VFUHpDa2pyVVRaUEZvYnFwRDNWbC10b0F1N3ZEclo4Vnk3Z3Z4NVI4N0I0VUlESTNqcTFiV3NseEE3ZTlRbVViVWdPMEZucUdBV3ZXbG5udFpJbXNMenBzYkZNSElnYkV6VWJwRHJsOVhROWZWOEREVEktQlBRdzlLaUpnUHBjRHE0ckdUQkNFM2NjMEhaU2hhSnZEUVNucmFwUHlnaDNNRXg2SE9scG5ub1NsLU42RzFZZWVvd3VaTHgzWE16ZE9TVkNfaWY2WnRHRkZjVWhkbktweUhxTTFQZHhEdmtOTDUxWEt6?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "歐洲藥品管理局（EMA） 改變了對 Acadia 的 Rett 綜合徵療法 Daybu 的立場",
+      "summary": "綜合症治療 Daybu BioWorld 新聞",
+      "source": "BioWorld News",
+      "date": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYy1lMmV3ajlMUUxKQ3J2OEJFRnR4X19aUEdXWUxpeXRDUkpNOUJtLU8yLVM2a3FqY0hiMy12ZlJDVE5lTGZ4enJqNUpUM1VQWEdkYUZXWXpidjVDaWhDamFLZ05mczhZSmZiUEpxV3J0eDF0NVVteF9GM3U2cndUUWlNTEgtQk8zQWV5LTBlYnhrc283YWhmeldqZjVweVU5QzRWTkhB?oc=5",
       "lang": "zh-TW"
     },
     {
