@@ -1,36 +1,28 @@
 {
   "module": "research",
-  "updated": "2026-07-25T23:51:00.047973+00:00",
+  "updated": "2026-07-26T11:56:07.488641+00:00",
   "items": [
     {
-      "title": "高效表達全長三股螺旋重組第三型膠原蛋白",
-      "summary": "第三型膠原蛋白（COL3A1）是一種重要的纖維狀膠原蛋白，大量存在於血管和皮膚組織中，在傷口癒合和組織...",
+      "title": "高效表現全長三股螺旋重組第三型膠原蛋白",
+      "summary": "第三型膠原蛋白（COL3A1）是一種重要的纖維狀膠原蛋白，廣泛存在於血管和皮膚組織中，在傷口癒合和組織修復上扮演關鍵角色。",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL（特定新",
+      "title": "個人",
       "summary": "",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402813/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "ABHD17C 調節樂伐替尼抑制肝細胞癌的功效。",
-      "summary": "侖伐替尼是肝細胞癌（HCC）的第一線治療藥物，但其臨床療效因抗藥性而受到限制。 ABHD17C 是一種參與 HCC 進展的去棕櫚酰化酶，尚未在樂伐替尼反應中進行研究。本研究旨在確定 ABHD17C 是否調節...",
-      "source": "PubMed",
-      "date": "2026-07-25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42358063/",
       "lang": "zh-TW"
     },
     {
       "title": "創傷性脊髓損傷的組織工程：研究進展和臨床轉化。",
       "summary": "創傷性脊髓損傷 (TSCI) 通常會導致持續的運動和感覺缺陷。跨學科的進步支持了 TSCI 修復組織工程方法的臨床前研究，其核心目標是重建受損的神經組織並恢復解剖學…",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42499528/",
       "lang": "zh-TW"
     },
@@ -38,7 +30,7 @@
       "title": "用於再生的翻譯後修飾調節生物材料。",
       "summary": "翻譯後修飾 (PTM) 是指蛋白質生物合成後發生的共價化學改變，包括磷酸化、乙醯化、泛素化和數百種其他已記錄的變異。這些修飾充當動態分子代碼，精確調節...",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494753/",
       "lang": "zh-TW"
     },
@@ -46,7 +38,7 @@
       "title": "含 MnO 的異種發育基質水凝膠",
       "summary": "類固醇相關性骨壞死（SON）的特徵是難治性骨缺損微環境，涉及氧化壓力、持續發炎和血管化受損，這限制了傳統移植材料的功效。在這裡，我們開發了一種臨時可編程複合材料...",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494751/",
       "lang": "zh-TW"
     },
@@ -54,7 +46,7 @@
       "title": "氣體分子及相關因素在膝關節軟骨損傷與修復中的作用：研究熱點的文獻計量可視化分析。",
       "summary": "JOURNAL/mgres/04.03/01612956-202612000-00012/figure1/v/2026-07-23T200825Z/r/image-tiff 膝關節軟骨損傷後，自我修復能力有限，容易進展為骨關節炎。最近，氣體訊號分子如一氧化氮和氧氣，以及活性氧...",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42493773/",
       "lang": "zh-TW"
     },
@@ -62,31 +54,31 @@
       "title": "急性淋巴性白血病CAR-T細胞治療的研究趨勢與熱點：文獻計量分析。",
       "summary": "本研究旨在透過文獻計量分析來分析 ALL CAR-T細胞療法 細胞治療的全球研究模式和新興趨勢。出版物是從 Web of Science 核心合集資料庫中檢索的。文獻計量分析利用了 VOSviewer、CiteSpace 和 R 套件「bibliom...",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42473738/",
       "lang": "zh-TW"
     },
     {
-      "title": "人工智慧如何影響異種移植與再生醫學，以解決器官短缺問題",
-      "summary": "本篇回顧旨在彙整過去兩年來，在人工智慧（AI）應用於異種移植與再生醫學領域，最具影響力與概念性的重要研究成果。",
+      "title": "人工智慧對異種移植和再生醫學對結束器官短缺的影響。",
+      "summary": "本篇綜述的目的是總結過去 2 年中最具影響力和概念上最重要的出版物，包括 2026 年的大量出版物，並確定可能在不久的將來塑造異種移植和再生醫學的新興方向。進展...",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472700/",
       "lang": "zh-TW"
     },
     {
-      "title": "類器官載入",
-      "summary": "",
+      "title": "類器官載體冷凍微針誘導仿生毛囊單位與毛髮再生",
+      "summary": "組織工程毛囊再生技術為增加毛囊數量提供了一種有潛力的方法，然而，它仍面臨一些挑戰，例如難以精準控制毛囊的形成與排列。",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472089/",
       "lang": "zh-TW"
     },
     {
-      "title": "用於組織再生中幹細胞及其衍生物的基於注射微球的遞送策略。",
-      "summary": "組織和器官損傷、退化和功能喪失是日益嚴重的全球健康挑戰，人口老化和當前臨床幹預措施的局限性加劇了這一挑戰。再生醫學透過提供...來恢復組織功能，提供了一個有前途的替代方案。",
+      "title": "用於組織再生的注射式微球遞送策略：幹細胞及其衍生物的應用",
+      "summary": "組織與器官損傷、退化及功能喪失，是日益嚴峻的全球",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472088/",
       "lang": "zh-TW"
     },
@@ -94,7 +86,7 @@
       "title": "人類誘導多能幹細胞來源的心肌細胞補片可增強擴張型心肌病變 J2N-k 倉鼠模型的心臟再生。",
       "summary": "擴張型心肌病變（DCM）是心臟衰竭的主要原因，除了心臟移植之外，治療選擇有限。本研究旨在評估人類誘導多能幹細胞來源的心肌細胞 (hiPS-CM) 補片移植在遺傳 DCM 模型中的治療潛力。",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42437293/",
       "lang": "zh-TW"
     },
@@ -102,7 +94,7 @@
       "title": "用於神經修復的智慧響應電紡支架（SRES）：最新進展和未來前景。",
       "summary": "神經損傷會引發複雜的、多階段的病理級聯反應，而藥物治療和手術減壓等傳統的臨床幹預措施只能緩解症狀，而無法重建受損的神經迴路。傳統的修復方法面臨多重限制，...",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436953/",
       "lang": "zh-TW"
     },
@@ -110,7 +102,7 @@
       "title": "即時感測整合類器官晶片平台：技術進步與新興生物醫學應用。",
       "summary": "作為由幹細胞自組織的微型 3D 組織，類器官可以高度概括人體器官的細胞組成和複雜的空間結構，使其成為生物醫學研究中的關鍵生理模型。儘管類器官在微生物方面具有顯著的優勢...",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436951/",
       "lang": "zh-TW"
     },
@@ -118,55 +110,55 @@
       "title": "機械敏感性 e 蛋白 emerin 的升高將核力轉導與 tau 誘導的神經元細胞骨架重塑聯繫起來。",
       "summary": "神經退化性 tau 疾病，包括阿茲海默症，在神經病理學上透過病理性 tau 沉積來定義。雖然 tau 透過破壞細胞骨架、核骨架和基因組結構來驅動神經毒性，但介導 tau 誘導的細胞骨架功能障礙的細胞機制...",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42415348/",
       "lang": "zh-TW"
     },
     {
-      "title": "小鼠腸道類器官培養和切片的最佳化方案：提高效率和結構完整性。",
-      "summary": "小鼠腸道類器官是重要的 3D 模型，保留了宿主遺傳特徵和複雜的結構，這使得它們對於腸道生物學研究具有無價的價值。然而，傳統的培養和組織學處理常常面臨操作複雜性高和樣本缺失的問題。",
+      "title": "繞過多能性：從重新聚集的微脂肪直接分化為多譜系類器官的希望。",
+      "summary": "類器官技術已成為再生醫學的強大工具；然而，目前的類器官技術主要基於多能幹細胞衍生系統，這帶來了與複雜性、成熟度和臨床轉化相關的挑戰。在這篇評論中，我們強調...",
       "source": "PubMed",
-      "date": "2026-07-25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42405229/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "繞過多能性：從重組微脂肪直接分化出多譜系類器官的潛力",
-      "summary": "類器官技術在再生醫學領域嶄露頭角，展現強大潛力；然而，現有類器官技術主要依賴多能性細胞。",
-      "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42403587/",
       "lang": "zh-TW"
     },
     {
-      "title": "調節",
-      "summary": "",
+      "title": "衰老代謝調節分層支架可恢復 NAD",
+      "summary": "衰老受損的骨修復提出了重大的臨床挑戰，這主要是由於衰老細胞驅動的代謝微環境失衡。目前的生物材料策略主要局限於提供被動機械支撐和/或提供治療因子，未能...",
       "source": "PubMed",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42395338/",
       "lang": "zh-TW"
     },
     {
-      "title": "與再生醫學製造相關的環境監測實踐：對日本監管設施的跨部門調查的見解。",
-      "summary": "環境監測 (EM) 對於再生醫學製造中的污染控制至關重要，其中無菌處理和依賴操作員的流程需要適應性強且穩健的策略。儘管新興市場受日本各製造業部門共同的監管要求管轄…",
+      "title": "兒童骨肉瘤的免疫療法：現況與未來展望",
+      "summary": "兒童骨肉瘤在轉移性、復發性或難治型病況下，仍是治療上的一大挑戰，其臨床結果...",
       "source": "PubMed",
-      "date": "2026-07-25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42381927/",
+      "date": "2026-07-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42366590/",
       "lang": "zh-TW"
     },
     {
-      "title": "小兒骨肉瘤的免疫治療：當前進展和未來方向。",
-      "summary": "小兒骨肉瘤在轉移性、復發性或難治性環境中繼續面臨巨大的治療挑戰，儘管多模式治療取得了進展，但幾十年來臨床結果基本上保持不變。這篇綜述總結了新興的免疫治療策略，旨在...",
+      "title": "生物列印骨膜類器官實現關鍵尺寸骨缺損的功能",
+      "summary": "",
       "source": "PubMed",
-      "date": "2026-07-25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42366590/",
+      "date": "2026-07-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42491381/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "單細胞RNA定序和空間轉錄組學在缺血性腦卒中應用的機會和挑戰。",
+      "summary": "缺血性中風（IS）的特徵是發病率、殘疾率和死亡率高。 IS 的病理過程涉及多種細胞類型的時空動態反應和明顯的細胞異質性，使用傳統的批量定序技術無法完全闡明這些異質性。",
+      "source": "PubMed",
+      "date": "2026-07-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402308/",
       "lang": "zh-TW"
     },
     {
       "title": "[EARLY_PHASE1] 評估復發性膠質瘤安全性和有效性的試驗性放射栓塞臨床試驗",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Olivia Newton-John 癌症研究所｜這項研究正在測試一種使用名為 SIR-Spheres®（90Y 標記的樹脂微球）的微小放射性珠子治療腦腫瘤的新方法。這些微球被放入為腫瘤供血的血管中。治療會釋放輻射",
       "source": "ClinicalTrials.gov｜Australia",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07712770",
       "lang": "zh-TW"
     },
@@ -174,7 +166,7 @@
       "title": "[N/A] 腫瘤-微環境交互作用的分子特徵預測胃和 GEJ 腺癌的抗藥性",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Azienda Ospedaliera Specializzata in Gastroenterologia Saverio de Bellis｜手術切除仍然是可切除胃癌的唯一治療選擇，但圍手術期 FLOT 化療與化療耐藥和復發率較高有關，這在很大程度上是由明顯的腫瘤異質性驅動的。最近的數據",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07692477",
       "lang": "zh-TW"
     },
@@ -182,15 +174,15 @@
       "title": "[第一階段] 以逆轉錄病毒載體轉導的自體 T 細胞表達血液惡性腫瘤患者參與者特異性新抗原的 TCR",
       "summary": "狀態：招募｜主辦單位：美國國家癌症研究所（NCI）｜背景：\n\n血癌（例如白血病）可能很難治療，尤其是當它們的 TP53 或 RAS 基因發生突變時。這些突變會導致癌細胞產生稱為新表位的物質。研究人員想要測試一種方法",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT06904066",
       "lang": "zh-TW"
     },
     {
-      "title": "早期肺癌高風險病患的肺葉下楔狀切除術或立體定位放射治療",
-      "summary": "狀態：尚未招募｜主辦：奧胡斯大學醫院｜針對第一期非小細胞肺癌（NSCLC）的低風險病患，手術治療...",
+      "title": "[NA] 亞肺葉楔形切除或立體定位放射治療早期肺癌高風險患者",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：奧胡斯大學醫院｜對於低風險的 I 期非小細胞肺癌 (NSCLC) 患者，解剖切除手術治療是目前的標準治療方法。\n\n對於無法手術的 I 期 NSCLC 患者，放射治療目前是標準療法",
       "source": "ClinicalTrials.gov｜Denmark",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07432802",
       "lang": "zh-TW"
     },
@@ -198,7 +190,7 @@
       "title": "[N/A] 義大利臨床實務中接受 Elranatamab 治療的 R/R 多發性骨髓瘤患者的感染監測",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Gruppo Italiano Malattie EMatologiche dell'Adulto｜這項研究的主要目的是測量以 elranatamab 治療的前 12 個月的感染率和表現模式，作為復發/難治性多發性骨髓瘤成年患者的標準臨床實踐。",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07564128",
       "lang": "zh-TW"
     },
@@ -206,7 +198,7 @@
       "title": "[N/A] 用於預測 NKTCL 治療反應的多模態融合模型和深度學習",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：中山大學｜這是一項多中心前瞻性研究，旨在開發和驗證基於深度學習的多模式模型，用於預測接受一線天冬酰胺酶治療的結外自然殺傷/T細胞淋巴瘤（NKTCL）患者的治療反應",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07409168",
       "lang": "zh-TW"
     },
@@ -214,7 +206,7 @@
       "title": "[第 1 期、第 2 期] SHR2554 加脂質體米托蒽醌作為週邊 T 細胞淋巴瘤 (PTCL) 的第一線治療",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：中國血液疾病研究所｜這是一項單臂、多中心、Ib/IIa 期研究，旨在探討 SHR2554 聯合脂質體米托蒽醌治療初治外周 T 細胞淋巴瘤（PTCL）患者的有效性和安全性。該研究是",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07725705",
       "lang": "zh-TW"
     },
@@ -222,7 +214,7 @@
       "title": "[第2期]病灶內化療（IC）：順鉑+腎上腺素",
       "summary": "狀態：招募中｜主辦單位：邁阿密大學｜本研究的目的是確定注射化療藥物對復發性喉鱗狀細胞癌（SCC）腫瘤的影響，無論是好還是壞。",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07392580",
       "lang": "zh-TW"
     },
@@ -230,15 +222,15 @@
       "title": "[PHASE2] 針對新診斷的膠質母細胞瘤的生存素靶向樹突狀細胞 (DC) 細胞注射",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：北京三精生物治療股份有限公司｜本研究的總體目的是初步評估Survivin靶向DC細胞注射液在初診膠質母細胞瘤術後治療中的有效性和安全性。",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07715097",
       "lang": "zh-TW"
     },
     {
-      "title": "[第一階段] CAR-T細胞療法 細胞治療後使用泊馬度胺治療復發或難治性 CD19+ B 細胞白血病或淋巴瘤",
-      "summary": "狀態：招募中｜主辦：密西根大學羅格爾癌症中心｜本一期試驗測試泊馬度胺在 CD19 嵌合抗原受體 T 細胞（CD19CART）治療後用於治療經過一段時間好轉後復發的 CD19+ B 細胞白血病或淋巴瘤患者的安全性和有效性",
+      "title": "Pomalidomide用於復發或難治性CD19陽性B細胞白血病或淋巴瘤的嵌合抗原受體T細胞療法（CAR-T）後續治療的一期臨床試驗",
+      "summary": "這項一期臨床試驗由密西根大學羅格爾癌症中心主",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07532525",
       "lang": "zh-TW"
     },
@@ -246,7 +238,7 @@
       "title": "[第 2 階段] Sacituzumab Tirumotecan 用於 NEPC 患者在先前化療進展後的治療",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：弗吉尼亞聯邦大學｜這是一項 sacituzumab tirumotecan 治療鉑類化療後進展的神經內分泌前列腺癌 (NEPC) 的 2 期、開放標籤、單組研究。",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07639086",
       "lang": "zh-TW"
     },
@@ -254,8 +246,16 @@
       "title": "[NA] 研究血液惡性腫瘤患者 HLA 完全匹配的骨 HPC、骨髓和活體移植的特徵",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Ossium Health, Inc.｜HLA 部分至完全匹配的同種異體冷凍保存死者骨髓移植和活體供體移植用於血液系統惡性腫瘤患者的前瞻性、多中心開放標籤研究。",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07710781",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE2] Relatlimab 和 Nivolumab (Opdualag) 在複製修復缺陷 HGG 和 DIPG 的研究",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：全國兒童醫院｜本研究的目的是進一步評估 Opdualag 對於複製修復缺陷 HGG（包括 DIPG）患者的可行性和耐受性。",
+      "source": "ClinicalTrials.gov｜Global",
+      "date": "2026-07-26",
+      "url": "https://clinicaltrials.gov/study/NCT07644312",
       "lang": "zh-TW"
     },
     {
@@ -283,8 +283,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "新治療靶點問世，多發性骨髓瘤患者治療選擇更多元",
-      "summary": "賓州大學醫學院發現多發性骨髓瘤新治療靶點。",
+      "title": "新的治療標靶擴大了多發性骨髓瘤的選擇",
+      "summary": "或多發性骨髓瘤 Penn Medicine",
       "source": "Penn Medicine",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQnA4YUU5UHhvUUd3ZHlURUtMeVVjbG1iRnNGMnhPbGhpcmN1c1c0dFIwUlE4QkhRUG5NaTVBbjFqOE9Odm9ocTdqZ01XYUJqQVdaTUk5b2FmdlZLUXpsdnpla054MDhQN3FpNkQ4ZF9NWVhEc0hUNkNuellYREhUMUNrWGVRTFNXRmZRZDYwSV91M1NtbVR1Zg?oc=5",
@@ -299,16 +299,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "新型 CAR-T細胞療法 細胞療法為難以治療的腎癌提供了有希望的選擇",
-      "summary": "g 難以治療的腎癌的選擇 UT MD 安德森",
+      "title": "新型嵌合抗原受體T細胞療法",
+      "summary": "",
       "source": "UT MD Anderson",
       "date": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnhIS1NaOHNpdEw4MmtvY3R1Vk1XMEFlYjN6eURaNzJBaXNDRHBhSTFsdUVUbEpRR0lWT3UySUVGZzdudkhTSVMtR2tGZkhFVDdwakxwaEo1c1BtY3V5VGFSdGtGV1FENU9ZQ2dIVHNkbDNiQWx3MnI2QmJ4bWEtOHZjeU1OOG1TQ0hzVGx2TV95LUxXVWpkeE1fSU1xc09hVW5DRzVNSks2XzVtc2NYaXl5U0hMQmpfOTVhekJuc1pGOUlxRjFKWURrZmc5clZoSHpqZjREZjc2d2hMRnJTZldLSk1DNV9W?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞療法治療慢性脊髓損傷，臨床試驗指日可待",
-      "summary": "精準醫療",
+      "title": "幹細胞療法治療慢性脊髓損傷，朝臨床試驗推進",
+      "summary": "這篇報導指出，幹細胞療法在治療慢性脊髓損傷方面有新進展，正逐步朝臨床試驗階段邁進，為病患帶來新希望。",
       "source": "Inside Precision Medicine",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9IbUtqek43aWtVSUhPVmRBcThtNkItYUNuaXM1UmFwQVFOU1NBeHM3WlJYdWtkSzBBNG9Gc1NTTlZlMUdOYy1JdkxpVXl0UGRsa1FuLVREMXU4OXoxLUt5R0RpeEdSSm9GblZWWV9pMXRQXzZVV19oek12RHJxTFExVENmWHZubGtRS0tRLVBZOG1SU1ktLXBkOGZNNlkzNWxMOFVyZFNtX1o4YThXMFdTU1lFdmZaMWFqRUhtVGdBQQ?oc=5",
@@ -323,8 +323,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "CC-",
-      "summary": "",
+      "title": "CC-97540用於治療抗嗜中性白血球細胞質抗體相關血管炎患者的一/二期臨床試驗",
+      "summary": "這項由Marcela V. Maus博士主辦的研究，目前正在招募中，主要評估CC-97540在復發或難治型嚴重抗",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-09",
       "url": "https://clinicaltrials.gov/study/NCT07388277",
@@ -376,14 +376,6 @@
       "source": "ClinicalTrials.gov｜Egypt",
       "date": "2026-06-28",
       "url": "https://clinicaltrials.gov/study/NCT07679217",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "第三期臨床試驗：SYS6010 結合抗程序性死亡配體1（PD-(L)-1）單株抗體作為非小細胞肺癌（NSCLC）輔助療法之研究",
-      "summary": "狀態：尚未開始招募受試者｜主辦：石藥巨石生物製藥有限公司｜本",
-      "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-06-25",
-      "url": "https://clinicaltrials.gov/study/NCT07672223",
       "lang": "zh-TW"
     }
   ]

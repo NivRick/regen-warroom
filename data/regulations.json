@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-25T23:51:27.918286+00:00",
+  "updated": "2026-07-26T11:56:29.406760+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑新知",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-07-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "OTP Town Hall：準備細胞和基因治療產品 BLA 提交的最佳實踐",
-      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 6 月 4 日舉辦下一次虛擬市政廳會議。在本次市政廳會議期間，來自 OTP 審查管理和監管審查辦公室 (ORMR) 的專家",
+      "title": "治療產品辦公室（OTP）線上座談會：細胞與基因療法產品生物製劑許可申請（BLA）送件的最佳實",
+      "summary": "",
       "source": "06/04/2026",
       "date": "2026-07-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
@@ -72,13 +72,6 @@
       "date": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYy1lMmV3ajlMUUxKQ3J2OEJFRnR4X19aUEdXWUxpeXRDUkpNOUJtLU8yLVM2a3FqY0hiMy12ZlJDVE5lTGZ4enJqNUpUM1VQWEdkYUZXWXpidjVDaWhDamFLZ05mczhZSmZiUEpxV3J0eDF0NVVteF9GM3U2cndUUWlNTEgtQk8zQWV5LTBlYnhrc283YWhmeldqZjVweVU5QzRWTkhB?oc=5",
       "lang": "zh-TW"
-    },
-    {
-      "title": "外泌體只能擦1／終結誇大不實廣告亂象　衛福部祭重罰新法上路半年近50件 | 財經 | CTWANT",
-      "summary": "",
-      "source": "CTWANT",
-      "date": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUmZCa0ducE1YRXZSaURnSllEMlNtVXpZVE13ZTg3M2liQ21nMVVTMGdDUjZ1Z282Vlk5SjdhY2JyN0d1NmZ3TU1udmZjQnPSAVRBVV95cUxPU29uYTJOMkFuT3FMQmE2RzZpSTBzUWxnMjNSMWtNNGxacjVJMW4zZUhOY24ya000UTkzV1dKYVpPcEVJcjdYWllSYWhURGhsQmRyLUk?oc=5"
     }
   ]
 }
