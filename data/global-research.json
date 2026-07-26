@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-07-26T11:56:07.488641+00:00",
+  "updated": "2026-07-26T23:52:44.939380+00:00",
   "items": [
     {
-      "title": "高效表現全長三股螺旋重組第三型膠原蛋白",
-      "summary": "第三型膠原蛋白（COL3A1）是一種重要的纖維狀膠原蛋白，廣泛存在於血管和皮膚組織中，在傷口癒合和組織修復上扮演關鍵角色。",
+      "title": "高效表達全長三股螺旋重組第三型膠原蛋白",
+      "summary": "探討高效表達全長三股螺旋重組第三型膠原蛋白（COL3A1）的技術，此膠原蛋白對傷口癒合與組織修復至關重要。",
       "source": "PubMed",
       "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人",
+      "title": "個人化SNAP™-TIL（",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-26",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "類器官載體冷凍微針誘導仿生毛囊單位與毛髮再生",
-      "summary": "組織工程毛囊再生技術為增加毛囊數量提供了一種有潛力的方法，然而，它仍面臨一些挑戰，例如難以精準控制毛囊的形成與排列。",
+      "title": "載有類器官的核殼冷凍微針，能誘導仿生毛囊單位並促進毛髮再生。",
+      "summary": "組織工程毛囊再生技術，為增加毛囊數量提供了一條有潛力的途徑，但目前仍面臨一些挑戰，例如...",
       "source": "PubMed",
       "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472089/",
       "lang": "zh-TW"
     },
     {
-      "title": "用於組織再生的注射式微球遞送策略：幹細胞及其衍生物的應用",
-      "summary": "組織與器官損傷、退化及功能喪失，是日益嚴峻的全球",
+      "title": "應用於組織",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472088/",
@@ -131,15 +131,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "兒童骨肉瘤的免疫療法：現況與未來展望",
-      "summary": "兒童骨肉瘤在轉移性、復發性或難治型病況下，仍是治療上的一大挑戰，其臨床結果...",
+      "title": "兒童骨肉瘤免疫療法：現況與未來展望",
+      "summary": "兒童骨肉瘤在轉移性、復發性或難治型病況下，仍是治療上的巨大挑戰，臨床結果往往不盡理想。",
       "source": "PubMed",
       "date": "2026-07-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42366590/",
       "lang": "zh-TW"
     },
     {
-      "title": "生物列印骨膜類器官實現關鍵尺寸骨缺損的功能",
+      "title": "生物列印骨膜類器官實現關鍵尺寸骨缺損的功能性",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-26",
@@ -156,7 +156,7 @@
     },
     {
       "title": "[EARLY_PHASE1] 評估復發性膠質瘤安全性和有效性的試驗性放射栓塞臨床試驗",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Olivia Newton-John 癌症研究所｜這項研究正在測試一種使用名為 SIR-Spheres®（90Y 標記的樹脂微球）的微小放射性珠子治療腦腫瘤的新方法。這些微球被放入為腫瘤供血的血管中。治療會釋放輻射",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：奧利維亞·牛頓-約翰癌症研究所｜這項研究正在測試一種使用名為 SIR-Spheres®（90Y 標記的樹脂微球）的微小放射性珠子治療腦腫瘤的新方法。這些微球被放入為腫瘤供血的血管中。治療會釋放輻射",
       "source": "ClinicalTrials.gov｜Australia",
       "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07712770",
@@ -172,7 +172,7 @@
     },
     {
       "title": "[第一階段] 以逆轉錄病毒載體轉導的自體 T 細胞表達血液惡性腫瘤患者參與者特異性新抗原的 TCR",
-      "summary": "狀態：招募｜主辦單位：美國國家癌症研究所（NCI）｜背景：\n\n血癌（例如白血病）可能很難治療，尤其是當它們的 TP53 或 RAS 基因發生突變時。這些突變會導致癌細胞產生稱為新表位的物質。研究人員想要測試一種方法",
+      "summary": "狀態：招募中｜主辦單位：美國國家癌症研究所（NCI）｜背景：\n\n血癌（例如白血病）可能很難治療，尤其是當它們的 TP53 或 RAS 基因發生突變時。這些突變會導致癌細胞產生稱為新表位的物質。研究人員想要測試一種方法",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT06904066",
@@ -227,8 +227,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Pomalidomide用於復發或難治性CD19陽性B細胞白血病或淋巴瘤的嵌合抗原受體T細胞療法（CAR-T）後續治療的一期臨床試驗",
-      "summary": "這項一期臨床試驗由密西根大學羅格爾癌症中心主",
+      "title": "一期臨床：嵌合抗原受體T細胞療法後使用Pomalidomide治療復發或難治型CD19陽性B細胞白血病或淋巴瘤",
+      "summary": "狀態：收案中｜主辦：密西根大學羅格爾癌症中心｜這項一期臨床試驗旨在",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07532525",
@@ -236,7 +236,7 @@
     },
     {
       "title": "[第 2 階段] Sacituzumab Tirumotecan 用於 NEPC 患者在先前化療進展後的治療",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：弗吉尼亞聯邦大學｜這是一項 sacituzumab tirumotecan 治療鉑類化療後進展的神經內分泌前列腺癌 (NEPC) 的 2 期、開放標籤、單組研究。",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：弗吉尼亞聯邦大學｜這是一項 sacituzumab tirumotecan 治療鉑類化療後進展的神經內分泌前列腺癌 (NEPC) 的 2 期、開放標籤、單臂研究。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-26",
       "url": "https://clinicaltrials.gov/study/NCT07639086",
@@ -267,22 +267,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "胎牛血清市場趨勢、成長及未來展望",
-      "summary": "& 未來展望 SNS Insider",
-      "source": "SNS Insider",
-      "date": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pTjM5SU1LbUFZTHRhMFhkajBfSDRiR2toaWlGUXdLcXl5clJXNTJFZTFqVWFWLW5wSDdkbGdZcTJKRVdZSk1wTWs2M2NYTEw4OVhudjFRXzZTd185WDV0Z0xDbWdUSlB2NTFKNw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "歐洲血液學會（EHA）2026年大會回顧",
-      "summary": "2026 年 EHA 大會 EMJ",
-      "source": "EMJ",
-      "date": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN19oZ1dJV2FXWGhPZmtQb21wWlNnWFBaWVhzUkpqMzBFZGhFY3lBQ3U0bFFDS1VCdmFtMnNfWjhiSzUxdmFRQ0Y5NnRMa25HajJzaDVTbHNvUHdrNXI0MXBtWkVHOVctTm53WnBlU3p2cm1jNGZkT0sxOTV5UVRKU0tuNDlJLUNsaWh1YU5WUDdhOVJGVDJST2Q5MW83N1ZCYWpkYzk2X05KZXc1VmVpZkFHM2xXUGtSNWswS3F2MlpIVms?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "新的治療標靶擴大了多發性骨髓瘤的選擇",
       "summary": "或多發性骨髓瘤 Penn Medicine",
       "source": "Penn Medicine",
@@ -291,48 +275,48 @@
       "lang": "zh-TW"
     },
     {
-      "title": "專員國家優先券 (CNPV) 試點計劃",
-      "summary": "(CNPV) 試點計畫 美國食藥局（FDA）.gov",
+      "title": "美國食品藥物管理局（FDA）局長國家優先審查憑證（CNPV）試行計畫",
+      "summary": "美國FDA推出局長國家優先審查憑證（CNPV）試行計畫，旨在加速特定藥物審查。",
       "source": "fda.gov",
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "新型嵌合抗原受體T細胞療法",
-      "summary": "",
+      "title": "新型嵌合抗原受體T細胞療法（CAR-T）為難治性腎癌帶來新希望",
+      "summary": "UT MD Anderson研究指出，新型CAR-T療法有望成為難治性腎癌的治療選項。",
       "source": "UT MD Anderson",
       "date": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnhIS1NaOHNpdEw4MmtvY3R1Vk1XMEFlYjN6eURaNzJBaXNDRHBhSTFsdUVUbEpRR0lWT3UySUVGZzdudkhTSVMtR2tGZkhFVDdwakxwaEo1c1BtY3V5VGFSdGtGV1FENU9ZQ2dIVHNkbDNiQWx3MnI2QmJ4bWEtOHZjeU1OOG1TQ0hzVGx2TV95LUxXVWpkeE1fSU1xc09hVW5DRzVNSks2XzVtc2NYaXl5U0hMQmpfOTVhekJuc1pGOUlxRjFKWURrZmc5clZoSHpqZjREZjc2d2hMRnJTZldLSk1DNV9W?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞療法治療慢性脊髓損傷，朝臨床試驗推進",
-      "summary": "這篇報導指出，幹細胞療法在治療慢性脊髓損傷方面有新進展，正逐步朝臨床試驗階段邁進，為病患帶來新希望。",
+      "title": "幹細胞療法治療慢性脊髓損傷，朝臨床試驗邁進",
+      "summary": "針對慢性脊髓損傷的幹細胞療法，正逐步推進臨床試驗階段。",
       "source": "Inside Precision Medicine",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9IbUtqek43aWtVSUhPVmRBcThtNkItYUNuaXM1UmFwQVFOU1NBeHM3WlJYdWtkSzBBNG9Gc1NTTlZlMUdOYy1JdkxpVXl0UGRsa1FuLVREMXU4OXoxLUt5R0RpeEdSSm9GblZWWV9pMXRQXzZVV19oek12RHJxTFExVENmWHZubGtRS0tRLVBZOG1SU1ktLXBkOGZNNlkzNWxMOFVyZFNtX1o4YThXMFdTU1lFdmZaMWFqRUhtVGdBQQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 神經學綜述：2026 年 6 月",
-      "summary": "",
+      "title": "美國食品藥物管理局（FDA）神經學領域最新動態：2026年6月",
+      "summary": "這份報告彙整了美國FDA在2026年6月於神經學領域的最新核准、審查進展與重要政策更新。",
       "source": "Medscape",
       "date": "2026-07-10",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXNHRFFUd3hwYzZaSGVvVDYzUUpHTmhvZ1hMSEJFMGVhMlFuYTktbVN5ekNvYm1XZ0tDZkJzcU8ybzhNZmZOQnBMaE1janBTdWpvTEMzN0pzcWx5SWN3VFFfWUp6QnMzdXlZWWI4eHRLdlFIWDFqMTVrSURpTVF0WlRfc3J4c0tL?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "CC-97540用於治療抗嗜中性白血球細胞質抗體相關血管炎患者的一/二期臨床試驗",
-      "summary": "這項由Marcela V. Maus博士主辦的研究，目前正在招募中，主要評估CC-97540在復發或難治型嚴重抗",
+      "title": "[一/二期臨床試驗] CC-97540用於抗嗜中性白血球細胞質抗體相關血管炎患者",
+      "summary": "狀態：正在招募中｜主導單位：Marcela V. Maus, M.D.,Ph.D.｜這項研究旨在評估CC-",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-09",
       "url": "https://clinicaltrials.gov/study/NCT07388277",
       "lang": "zh-TW"
     },
     {
-      "title": "人類胚胎幹細胞衍生的多巴胺能細胞治療帕金森氏症：1/2 期開放標籤試驗",
-      "summary": "神經細胞治療帕金森氏症：1/2 期開放標籤試驗 Nature",
+      "title": "人類胚胎幹細胞分化多巴胺神經細胞治療巴金森氏症：一項第一/二期開放標籤臨床試驗",
+      "summary": "Nature期刊報導，利用人類胚胎幹細胞分化的多巴胺神經細胞，正進行巴金森氏症的第一/二期開放標籤臨床試驗。",
       "source": "Nature",
       "date": "2026-07-09",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTNFhQeVBCNnJOVWNuSjdzN1gxZFpSTTBnT0wyMUVoQkNjN181S0lWcTZVeHdMdW1lSGdsUklac24wTTRuckk4S1FSaXlGS2p4Y0FQZ3FBQTlHMXFRNmhJ?oc=5",
@@ -348,7 +332,7 @@
     },
     {
       "title": "[NA] 評估多個以臍帶為基礎的 CAMP 和 SOC 與單獨 SOC 治療難以癒合的 DFU 的改良平台試驗",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：StimLabs｜本研究的目的是評估兩種脫水人類臍帶醫療器械（也被定義為細胞、非細胞、類基質產品/皮膚替代品）加上 SOC 與單獨使用 SOC 相比，在實現完全閉合臍帶血中的功效。",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：StimLabs｜本研究的目的是評估兩種脫水人類臍帶醫療器械（也被定義為細胞、無細胞、類基質產品/皮膚替代品）加上 SOC 與單獨使用 SOC 在實現完全閉合方面的功效。",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07",
       "url": "https://clinicaltrials.gov/study/NCT07449975",

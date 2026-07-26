@@ -1,17 +1,17 @@
 {
   "module": "regulation",
-  "updated": "2026-07-26T11:56:29.406760+00:00",
+  "updated": "2026-07-26T23:53:23.269093+00:00",
   "items": [
     {
       "title": "生物製劑新知",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "summary": "來自美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-07-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "治療產品辦公室（OTP）線上座談會：細胞與基因療法產品生物製劑許可申請（BLA）送件的最佳實",
+      "title": "OTP 線上座談會：細胞與基因療法產品生物製劑許可申請（BLA）送件的最佳實務",
       "summary": "",
       "source": "06/04/2026",
       "date": "2026-07-23",
