@@ -1,26 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-07-26T23:53:23.269093+00:00",
+  "updated": "2026-07-27T13:35:21.262951+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
-      "summary": "來自美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-07-24",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "OTP 線上座談會：細胞與基因療法產品生物製劑許可申請（BLA）送件的最佳實務",
-      "summary": "",
+      "title": "治療產品辦公室（OTP）線上座談會：細胞與基因療法產品生物製劑許可申請（BLA）送件最佳實務",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）旗下的治療產品辦公室（OTP）將於6月4日舉辦下一場線上座談會。",
       "source": "06/04/2026",
       "date": "2026-07-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品 PREA 審查和標籤變更",
-      "summary": "PREA 標籤變更、兒科研究的醫學、統計和臨床藥理學審查根據《聯邦食品、藥品和化妝品法案》（簡稱《法案》）第 505B 條（經 2007 年 美國食藥局（FDA） 修正案法案 (FDAAAA) 修訂）進行。這些評估",
+      "title": "生物製劑的兒科研究公平法案（PREA）審查與標示變更",
+      "summary": "兒科研究公平法案（PREA）的標示變更，以及根據聯邦食品、藥品和化妝品法案第505B條款進行的兒科研究，其醫學、統計與臨床藥理學審查。",
       "source": "FDA Biologics",
       "date": "2026-07-23",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
@@ -48,14 +48,6 @@
       "source": "風傳媒",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
-    },
-    {
-      "title": "研討會、會議和大會（生物製品）",
-      "summary": "有關 CBER 主辦或共同主辦的有關各種生物製品的會議、大會和研討會的信息，以便教育公眾並徵求有關各方的意見。",
-      "source": "FDA Biologics",
-      "date": "2026-07-21",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
-      "lang": "zh-TW"
     },
     {
       "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程 - 美通社PR-Newswire",

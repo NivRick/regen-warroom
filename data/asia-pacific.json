@@ -1,7 +1,15 @@
 {
   "module": "apac",
-  "updated": "2026-07-26T23:52:58.470818+00:00",
+  "updated": "2026-07-27T13:35:05.128280+00:00",
   "items": [
+    {
+      "title": "從信心到資本：為下一個成長週期定位生物技術",
+      "summary": "生技公司如何為投資者做好準備？ BIO International 和 DIA China 2026 的主要要點。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-27",
+      "url": "https://www.biopharmadive.com/spons/from-confidence-to-capital-positioning-biotech-for-the-next-growth-cycle/825612/",
+      "lang": "zh-TW"
+    },
     {
       "title": "亞洲大學醫院與韓國瓦里安簽署放射治療研究夥伴關係",
       "summary": "ign 放射治療研究合作夥伴關係 亞洲醫療保健雜誌",
@@ -11,12 +19,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2035 年幹細胞培養基市場規模與成長報告",
-      "summary": "owth 報告 2035 市場業務洞察",
+      "title": "幹細胞培養基市場規模與成長報告 2035",
+      "summary": "",
       "source": "Market Business Insights",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iOTBoalhuQ2xtQU9QRjFNZU1haEF0dHVBa0JZbkRmb1BYV1VmVElwdEtKN1JiNE1UdHhYUXNBU1dTREZ3YXAwT1dxUFdUUHdBSmJVNUQwT2JLd0JORGFpVXM5RkxTSHNLaEFqa2N2SktLbHcyX0RnQQ?oc=5",
       "lang": "zh-TW"
+    },
+    {
+      "title": "國璽攻再生醫學 啟動日本跨國合作",
+      "summary": "",
+      "source": "經濟日報",
+      "date": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GWmpsQTV3LWE2cXozSDRJZ3M0VklDa2lRMFlsVmoyVktPUFZFWVppOXFHVmVCeGVlX3FVek1wM2VBVjN6VmxXM2xJaGJCWm9VME1LN3N6dVNGUdIBX0FVX3lxTE1qZS1fdHVNRlZMZkxJQnJ6TG94UFI3TFFabk4ySEdTMWkzUVNRcUlwR1FWUmJQazFHRkViS2hHUjZZeDBDSkhTVkF1aGQ3Q1plOHR6SFVVU01neFA5dXlJ?oc=5"
     },
     {
       "title": "亞洲生技大會：AI加速新藥研發台灣拚當樞紐- 財經要聞- 工商時報",
@@ -33,27 +48,12 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0pOTGctRDFRS0dEejF5VzZkbmVuaXdfVVZxaDRHMkdXd2RfSkdHSl9HTXdIM0Yyd25yektORVFUSEZYaVRoQmthS2VsMGRXN0lsMGF4c3lJQ1FrLUx6MGhMRDhJM3lGS091LXRpeG1tRUZGa2VPaU03bnBHcEJzSnVqNTFUaTJC?oc=5"
     },
     {
-      "title": "醫療全息市場規模、份額、預測，2034 年",
-      "summary": "orecast，2034 年《財星》商業洞察",
+      "title": "生技市場規模、市佔率與趨勢 | 2034年成長報告",
+      "summary": "預估至2034年，全球生技市場的規模、市佔率與發展趨勢分析報告。",
       "source": "Fortune Business Insights",
-      "date": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjbmNENDFPN2xIb0YtQ2pEOVpOMDdpZURhSE05aVJEN0ZPNm5vOTV0S1JWSU5XWUl2YXRRcnBHeG1jeE1jSHhKNnBISzNRZUFUZjNqdDJyZHRiRnhkeTVjeWRSNTFzbVBlRFVsSWRxRVRCZ0FQSVlkU25pVFI?oc=5",
+      "date": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56UXJtZ2hSYUxfR1gwZmVxYmtEUC1fbVpuS1ZxLWs5blIzSEN3bmNBdGZJV0ZvaF8tRGFrMWZXMW5ON0NvQTBNa2xVUkZieW1QSmZHVWZEVjVEQnlUYUhzWFRGcHY4ZVdHQXFKLWpMM3BjRGJ3Smc?oc=5",
       "lang": "zh-TW"
-    },
-    {
-      "title": "2026年大阪世界健康博覽會將於下週在大阪舉行",
-      "summary": "英雄下週在大阪 Mynewsdesk",
-      "source": "Mynewsdesk",
-      "date": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOExBZXhUSl9GLWRlenl3eVMwQnFaT3pqSW9tYzczdEVGQ2NrQzBHTWd4M1Y3R1padVplMjN3MWVuMzVILWo5TjctQWZrYmxxeXFRNXZHV24wUWMtc0pfNFAyT2d1U0pKR0FKMFhWMV9rX0k0SWFlSVI4NjN0cEIzdVo3WHRxb0FpTUR1d3dXcHMyOUpuMXo5UHpJMkRBaHVZc085N056UHJPRGdQVmVQQmFqa25pNTdXX2xmeGw4Q1l2MVBkVGhYMi1B?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "和迅今轉上櫃；異體幹細胞新藥五適應症全面推進- 新聞",
-      "summary": "",
-      "source": "MoneyDJ",
-      "date": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZUN6c054SnJaT2E0S0pUbWQyQjRlampjQ3c0amw4NHV0RnJ1Z1k5bUFUYnJDVEdZeTFxdU9hVzdUVk1PeEZIMnNza05Vb241M0pMbVdqODRycnhMYnlJZ1RLZ3lDMGhvU201LVhvX1FQVGd2aFh0ZjdWckZrcThCY3BVQ21rNUJueHlSb3dlcHRoQQ?oc=5"
     }
   ]
 }
