@@ -1,45 +1,21 @@
 {
   "module": "regulation",
-  "updated": "2026-07-27T13:35:21.262951+00:00",
+  "updated": "2026-07-27T23:55:12.638549+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
-      "date": "2026-07-24",
+      "date": "2026-07-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "治療產品辦公室（OTP）線上座談會：細胞與基因療法產品生物製劑許可申請（BLA）送件最佳實務",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）旗下的治療產品辦公室（OTP）將於6月4日舉辦下一場線上座談會。",
+      "title": "OTP Town Hall：準備細胞和基因治療產品 BLA 提交的最佳實踐",
+      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 6 月 4 日舉辦下一次虛擬市政廳會議。在本次市政廳會議期間，來自 OTP 審查管理和監管審查辦公室 (ORMR) 的專家",
       "source": "06/04/2026",
       "date": "2026-07-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製劑的兒科研究公平法案（PREA）審查與標示變更",
-      "summary": "兒科研究公平法案（PREA）的標示變更，以及根據聯邦食品、藥品和化妝品法案第505B條款進行的兒科研究，其醫學、統計與臨床藥理學審查。",
-      "source": "FDA Biologics",
-      "date": "2026-07-23",
-      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "OTP 市政廳：細胞療法 CMC 為後期 IND 做好準備",
-      "summary": "這個虛擬市政廳的重點是回答與支持細胞治療和組織工程產品後期 IND 所需的 CMC 數據和資訊相關的問題。",
-      "source": "09/05/2024",
-      "date": "2026-07-23",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-cmc-readiness-late-stage-inds-09052024",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "2026年生物許可證申請核准",
-      "summary": "",
-      "source": "FDA Biologics",
-      "date": "2026-07-23",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/2026-biological-license-application-approvals",
       "lang": "zh-TW"
     },
     {
@@ -48,14 +24,6 @@
       "source": "風傳媒",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
-    },
-    {
-      "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程 - 美通社PR-Newswire",
-      "summary": "GMP 級 IL-15 穩定性確認，確保可靠品質並加強生物製藥審批流程 - 美通社亞太區 美通社亞洲",
-      "source": "PR Newswire Asia",
-      "date": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNV01fX3ZqMC1ITW94Z2NUYUpnaFZON2VsTktZYWlaZHdQOTJPTjFiODZ4YVdKVm5qSGotdGVtVTRySmxyXzJOOWQ5YVZBSTN0WHVlYkdTc1VFUHpDa2pyVVRaUEZvYnFwRDNWbC10b0F1N3ZEclo4Vnk3Z3Z4NVI4N0I0VUlESTNqcTFiV3NseEE3ZTlRbVViVWdPMEZucUdBV3ZXbG5udFpJbXNMenBzYkZNSElnYkV6VWJwRHJsOVhROWZWOEREVEktQlBRdzlLaUpnUHBjRHE0ckdUQkNFM2NjMEhaU2hhSnZEUVNucmFwUHlnaDNNRXg2SE9scG5ub1NsLU42RzFZZWVvd3VaTHgzWE16ZE9TVkNfaWY2WnRHRkZjVWhkbktweUhxTTFQZHhEdmtOTDUxWEt6?oc=5",
-      "lang": "zh-TW"
     },
     {
       "title": "歐洲藥品管理局（EMA） 改變了對 Acadia 的 Rett 綜合徵療法 Daybu 的立場",

@@ -1,61 +1,69 @@
 {
   "module": "funding",
-  "updated": "2026-07-27T13:35:31.799962+00:00",
+  "updated": "2026-07-27T23:55:31.095565+00:00",
   "items": [
     {
-      "title": "Argenx將以22億美元收購Forte Biosciences",
-      "summary": "Argenx計畫以22億美元收購Forte Biosciences，藉此擴展其治療多種自體免疫疾病的藥物產品線。",
+      "title": "STAT+：全球對抗愛滋病的資金下降 18%，人們擔心愛滋病毒會捲土重來",
+      "summary": "聯合國愛滋病規劃署的一份新報告稱，去年對抗愛滋病的國際融資遭受「嚴重衝擊」後，世界面臨愛滋病疫情捲土重來的風險。",
+      "source": "STAT News",
+      "date": "2026-07-27",
+      "url": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Argenx 以 $2.2B 收購 Forte Biosciences",
+      "summary": "Argenx 計劃以 22 億美元收購 Forte Biosciences，擴大其治療多種自體免疫疾病的藥物管道。",
       "source": "STAT News",
       "date": "2026-07-27",
       "url": "https://www.statnews.com/2026/07/27/argenx-acquire-forte-biosciences-autoimmune-diseases/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "中國致命基因編輯臨床試驗引發倫理與監管質疑",
-      "summary": "中國一項基因編輯臨床試驗傳出死亡案例，引發外界對其倫理規範與監管機制的嚴重質疑。",
+      "title": "Argenx 將以 2.2B 美元收購 Forte，開發「差異化」免疫藥物",
+      "summary": "該交易為 Argenx 帶來了針對蛋白質標靶 CD122 的藥物前景，這種方法最近受到了多家開發商的關注。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-27",
+      "url": "https://www.biopharmadive.com/news/argenx-acquire-forte-biosciences-immune-drug-CD122/826221/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Sarepta 尋求扭虧為盈，任命前艾伯維 (AbbVie) 高管塞維裡諾 (Severino) 為首席執行官",
+      "summary": "最近，作為熱門新創公司 Tessera Therapeutics 的領導者，Severino 將尋求改善這家公司的命運，該公司面臨著新興的競爭和其珍貴的基因療法 Elevidys 的銷售額下降。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-27",
+      "url": "https://www.biopharmadive.com/news/sarepta-mike-severino-ceo-change-doug-ingram/826219/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：中國的致命基因編輯試驗引發倫理和監督問題",
+      "summary": "賽諾菲胰島素筆供不應求，肽化合物的勝利，以及來自 The Readout 的更多生物技術新聞",
       "source": "STAT News",
       "date": "2026-07-24",
       "url": "https://www.statnews.com/2026/07/24/biotech-news-fatal-gene-editing-trial-in-china-raises-ethics-questions/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "默克（Merck）與貧困國家達成實驗性愛滋病預防藥物自願授權協議",
-      "summary": "默克（Merck）正為其實驗性愛滋病預防藥物洽談授權協議，希望能快速啟動大規模生產。",
+      "title": "STAT+：默克公司在貧窮國家就實驗性愛滋病毒預防藥物達成自願許可協議",
+      "summary": "默克公司正為其實驗性愛滋病毒預防藥物達成許可協議，希望能迅速開始大規模生產。",
       "source": "STAT News",
       "date": "2026-07-24",
       "url": "https://www.statnews.com/pharmalot/2026/07/24/merck-experimental-hiv-prevention-pill-licensing-deals/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "白宮公布科學藍圖：加碼人工智慧（AI），減少生命科學投入",
-      "summary": "川普政府發布美國科學藍圖，呼籲將數千億研究經費從大學轉移至其他領域。",
+      "title": "STAT+：白宮提供科學藍圖：更多人工智慧，更少生命科學",
+      "summary": "川普政府發布了美國科學藍圖，呼籲將數千億研究資金從大學轉移到工業界。",
       "source": "STAT News",
       "date": "2026-07-24",
       "url": "https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Scribe在罕見的基因編輯首次公開募股（IPO）中募得1.29億美元",
-      "summary": "這家新創公司是兩年多來首家進行首次公開募股（IPO）的基因編輯公司，儘管募資金額遠低於其他生技公司。",
+      "title": "Scribe 在罕見的基因編輯 首次公開上市（IPO） 中籌集了 1.29 億美元",
+      "summary": "這家新創公司是兩年多來第一家進行 首次公開上市（IPO） 定價的基因編輯公司，儘管它的資金遠低於大多數其他 2026 年上市的生技公司。",
       "source": "BioPharma Dive",
       "date": "2026-07-23",
       "url": "https://www.biopharmadive.com/news/scribe-ipo-price-gene-editing-biotech-pcsk9-lpa/825933/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Vertex是高溢價收購Crinetics的唯一競標者",
-      "summary": "分析師預期，這筆交易的更多細節「很可能再次引發」投資人對Vertex是否出價過高的審視。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-22",
-      "url": "https://www.biopharmadive.com/news/vertex-crinetics-acquisition-deal-bidder-process/825952/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "GSK肺癌藥物在106億美元交易後獲快速核准",
-      "summary": "這項核准是葛蘭素史克（GSK）首款肺癌",
-      "source": "BioPharma Dive",
-      "date": "2026-07-22",
-      "url": "https://www.biopharmadive.com/news/gsk-nuvalent-jideytro-fda-approve-ros1-lung-cancer/825967/",
       "lang": "zh-TW"
     },
     {

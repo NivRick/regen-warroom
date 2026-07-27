@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-07-27T13:34:48.365226+00:00",
+  "updated": "2026-07-27T23:54:49.464129+00:00",
   "items": [
     {
-      "title": "高效表達全長三股螺旋重組第三型膠原蛋白的技術進展",
-      "summary": "探討高效表達全長三股螺旋重組第三型膠原蛋白的技術，此膠原蛋白對傷口癒合與組織修復至關重要。",
+      "title": "高效表達全長三股螺旋重組第三型膠原蛋白",
+      "summary": "第三型膠原蛋白（COL3A1）是一種重要的纖維狀膠原蛋白，廣泛存在於血管和皮膚組織中，在傷口癒合和組織修復上扮演關鍵角色。",
       "source": "PubMed",
       "date": "2026-07-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL",
+      "title": "個人化SNAP™",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-27",
@@ -67,15 +67,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "載有類器官的核殼冷凍微針，成功誘導仿生毛囊單位與毛髮再生",
-      "summary": "組織工程毛囊再生技術，被視為增加毛囊數量的潛力新方法，但目前仍面臨一些挑戰，例如...",
+      "title": "載有「類器官」的「核殼型冷凍微針」誘導仿生毛囊單位與頭髮再生",
+      "summary": "組織工程的毛囊再生技術，為增加毛囊數量提供了一線希望，但仍面臨一些挑戰，例如難以...",
       "source": "PubMed",
       "date": "2026-07-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472089/",
       "lang": "zh-TW"
     },
     {
-      "title": "組織再生新策略：可",
+      "title": "可注射的「微球」遞",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-27",
@@ -132,14 +132,14 @@
     },
     {
       "title": "兒童骨肉瘤的免疫療法：現況與未來展望",
-      "summary": "兒童骨肉瘤在轉移性、復發性或難治性情況下，仍是治療上的一大挑戰，其臨床預後不佳。",
+      "summary": "兒童骨肉瘤在轉移、復發或難治的情況下，治療仍面臨巨大挑戰，臨床預後有待改善。",
       "source": "PubMed",
       "date": "2026-07-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42366590/",
       "lang": "zh-TW"
     },
     {
-      "title": "生物列印骨膜類器官，實現大範圍骨缺損",
+      "title": "生物列印骨膜類器官，實現關鍵尺寸骨缺損的功能性修",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-27",
@@ -211,7 +211,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1] Phase 1b Study Of TRICK-NK In Combination With T-Dxd In Treatment-Refractory Breast Cancers",
+      "title": "[PHASE1] TRICK-NK 合併 T-Dxd 治療難治性乳癌的 1b 期研究",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：M.D.安德森癌症中心｜這項臨床研究的目標是找到可給予晚期乳癌參與者的 TGFBR-2 KO CD70 CAR-NK自然殺手細胞療法 (TRICK-NK) 與 2 劑 T-Dxd 組合的最高耐受劑量。 TRICK-NK的安全性將",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-27",
@@ -237,7 +237,7 @@
     {
       "title": "[第 2 期] 在患有自體免疫性血球減少症的參與者中進行 Zola-cel (BMS-986353) 研究 (Breakfree-AiCE)",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Juno Therapeutics, Inc., a Bristol-Myers Squibb Company｜本研究的目的是評估 Zola-cel (BMS-986353) 在慢性免疫性血小板減少症 (cITP) 和自體免疫溶血性貧血 (AIHA) 患者中的安全性和自體免疫性溶血性貧血 (AIHA) 患者中的安全性和自體免疫性溶血性貧血 (AIHA) 患者中的安全性和自體免疫性溶血性貧血 (AIHA) 患者中的安全性和自體免疫性溶血性貧血 (AIHA) 患者中的安全性和有效性。",
-      "source": "ClinicalTrials.gov｜United Kingdom, Germany, Denmark",
+      "source": "ClinicalTrials.gov｜Denmark, United Kingdom, United States",
       "date": "2026-07-27",
       "url": "https://clinicaltrials.gov/study/NCT07603557",
       "lang": "zh-TW"
@@ -251,24 +251,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "韓國主導的研究概述了帕金森氏症幹細胞治療成功的關鍵 - CHOSUNBIZ",
-      "summary": "完整的帕金森幹細胞療法 - CHOSUNBIZ Chosunbiz",
-      "source": "Chosunbiz",
+      "title": "OP",
+      "summary": "",
+      "source": "OPKO Health, Inc.",
       "date": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVHp3ZF9EdFV4dnVFYkZPa1hXSXVWMGJRUHNuSHJqenlvaHgzaURtSGNaOVhTcmcxSUU2TXRxZlpFb2E2dmhpZlNabVQ3dWk0WDlvYVdtc20wX04za2NtaVNsWno5MWlRV002Y3BjaWZoYThFaXNZdW1IcEtsQThDdNIBlAFBVV95cUxNU3g1UVdsb0s4VWVEOFIxZU5zOXRpZ01RNWV0Tm9HQ1RWOE5NV09lakx0QWZBdTJPZ2FiZmh4ZnlsTFJkS0ZCR2NobUwtckN3aGZpaE9Id0ZRQWs0VGktcFQ2dnJRRzR5eEJhdUxnbFllMzVKRmhuRjAtZlBfeHBxTmp1RFdQT3o5VE1vajJSN0JBSGg3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVVXc01YRWcxdC1jWVRjNExOZkE1TjJHSHUyVUFnUG9xNVhBZGhqVWVoZG9MS2JnZW8wc2c2ajNnMnl1bkV1SjhfeVFTWi1YT1IzdndhWWJLVWprN2VTWnNQb3pWeHA5ZTZoNW1SVjFWblY3VkxvdlJaWFpyMGJLdmJqNHU2UkhCejcwMVFUOEQyQlRNdXFTdFhtZzVmOENqVzQ0aEtrRDBzdVlYZkEyMEJsaEg3YlNHb0R0ZzNpMUtraU94U0t4U0ZGTjBEVWxtQ1prOEoxS3R1YU5ZN3RHV1M5bms?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Kura Oncology 在 KCRS 2026 上報告了 Darlifarnib 加卡博替尼在未使用卡博替尼的透明細胞腎細胞癌患者中的持久臨床活性",
-      "summary": "KCRS 2026 上 Darlifarnib 加卡博替尼 (Cabozantinib) 在未使用過卡博替尼 (Cabozantinib) 的透明細胞腎細胞癌患者中的活性 馬尼拉時報",
-      "source": "The Manila Times",
+      "title": "Kura 的藥物組合顯示 13 個月中位數無進展",
+      "summary": "沒有進展庫存泰坦",
+      "source": "Stock Titan",
       "date": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNb29LVE1fN2Y5dkMwQlh3aEI0MmhiU0xSdFBMb2lfNzhvVDB0emlBMUVURmV5dF9haDZPX284bGl2eE8teTdJaENEeFQ1UGc1R3AwQkFiV19yT0F4UER2U3U2MUxfOFBnUmtHcHoxNUFDZjZQV1lrT05obDhSVTZRakh4Ukg1ZVVucU8zNEhlZlFPNmxnOHZaWTlVNjRrR2UyTmZ6RTZ6U0RlMy1GZ01zVFdGRkFoTkdYZGVrQ2t0NnVlT3VCVVVWcThyc2lQcldyRjZNeE16dWJsZ2pqTVdfa3ZwaHloeHQ4OVlFZkFJQzQyZTBERERuOWc1bVVRc2lodzQ1N1NjZ3FvbnBlbkh1aU11cWpFc3I1eTdnNnBRb09aU2FpM2VRZUxlbllyaDZEVHFDSWkxLVhfODQ4bGQ1UzN6dXdlTzRNNmJJdmFIRdIB1AJBVV95cUxPVmZlX0hpb3BzRjg2R1g4dERIcTBHNWsydnpFSDNvRnczZlB1a1praUZnclVSVGxmTmd1ZkgyUjluSFB6TTFIY25wWjB2WVAyY2lHSFlCRGhQQl9nQzR0Uk9xaU9iM1NvN2RKSTJxWFZOa1FyNURpUzRZOFhrUDNpMmhvbVJYZ3JLWTdXS0FpZnplRVFPSWtFelctbkNtVnJBRmhpZFZIcWlIQlFmSjUyUEw2czJrVGgtd2pvRWJpcUZfS1FhdENkNTAxRTlmdEE2RjFHbTh6bk1sRlRWb0pQc0tOb0drWlNCN3RaTmd2TDVxTzdCZUkzMjZPaHZSVWlxc1Z4Q3lQVWc1aFdvN1J4alg0VWlqQkV5elRTNDhqUVpSMFFtekhTNk5zT1dkTzJaek5ucTFxZW1ya280OXFja21UQnliMHVZczhPamRIZDhRYjRO?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0RmekhaUHB2UXQ1WHVpVzROdTlwUGV0dFp2dWxEajNtZ2NVZEhmMkdoeTdadU9Kb2V3NFpLWkN4cVFQTGN4U0RxTTlkcUFwMEk4VHNvMklxcmI2TVpOZFFrSUlldEk0Y3RIeXRTM1BxSmNiX1B3MUtLWDdRSE1IQnZMVVpERmExSjJQRzVtU2s5YUJfZmJmelJpbXNLcVlROFBvdlBxN3gtbVgzNll5M01abG1fd0tXbmhJRkctUQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "大量生產的誘導型多功能幹細胞（iPSC）異體T細胞，鎖定大腸直腸癌",
-      "summary": "研究人員開發出可大量生產的異體γδT細胞（源自誘導型多功能幹細胞iPSC），在臨床前研究中有效抑制大腸直腸癌腫瘤生長。",
+      "title": "大量生產的誘導型多功能幹細胞（iPSC）異體T細胞鎖定大腸直腸癌",
+      "summary": "研究團隊開發出可大量生產的現成異體γδT細胞，在臨床前研究中有效抑制大腸直腸癌腫瘤生長。",
       "source": "GEN News",
       "date": "2026-07-24",
       "url": "https://www.genengnews.com/topics/cancer/colorectal-cancer-targeted-with-mass-produced-ipsc-derived-allogeneic-t-cells/",
@@ -291,7 +291,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "新型 CAR-T細胞療法 細胞療法為難以治療的腎癌提供了有希望的選擇",
+      "title": "Novel CAR-T細胞療法 細胞治療 offers promising option for hard-to-treat kidney cancer",
       "summary": "g 難以治療的腎癌的選擇 UT MD 安德森",
       "source": "UT MD Anderson",
       "date": "2026-07-14",
@@ -315,8 +315,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[早期一期臨床試驗] 評估LY-N001注射劑腦內注射治療中度至晚期帕金森氏症的安全性、耐受性與療效臨床研究",
-      "summary": "狀態：尚未招募受試者｜主辦：凌意生物科技股份有限公司｜這是一項前瞻性、",
+      "title": "[早期第一期] 評估LY-N001注射劑腦內注射治療中度至晚期帕金森氏症（伴隨GB）的安全性、耐受性與療效臨床試驗",
+      "summary": "狀態：尚未招募｜主辦：凌意生物科技股份有限公司｜這是一項前瞻性、",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-07",
       "url": "https://clinicaltrials.gov/study/NCT07685444",
@@ -328,6 +328,14 @@
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-05",
       "url": "https://clinicaltrials.gov/study/NCT07709585",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "CRISPR/Cas9在癌症治療的臨床應用、機制策略與治療方向",
+      "summary": "探討CRISPR/Cas9基因編輯技術在癌症治療的臨床進展、作用機制與未來發展方向。",
+      "source": "Frontiers",
+      "date": "2026-07-03",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbV95d1ByUEhMYkhSOHdhaTBCRjNDcXdsdVN1SnB3VGY3bldVTElXRFUwSThtWjdCVE40T1RSNjJmaU9NVHlrWXhMVDE0aGYtV19lcUY2b0hlemhYak1qZlR6UVNjVGw3anMwSHhfQXRkeldFM3FvaVRKdFhUQnRyQ2V5VHZCS0dPQ3c3aXBn?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -363,8 +371,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "自體奈米CD5嵌合抗原受體T細胞（CAR-T）治療復發/難治性T細胞急性淋巴性白血病的多中心、開放標籤、非隨機、單臂第一/二期臨床試驗",
-      "summary": "狀態：尚未招募｜主辦：中國血液病醫院血液",
+      "title": "[第一/二期] 自體奈米CD5-CAR T細胞治療復發/難治性T細胞急性淋巴性白血病的多中心、開放標示、非隨機、單臂臨床試驗",
+      "summary": "狀態：尚未招募｜主辦：中國血液病醫院｜這是一項針對",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-06-30",
       "url": "https://clinicaltrials.gov/study/NCT07678307",
