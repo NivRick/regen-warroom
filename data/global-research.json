@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-07-28T12:32:35.281115+00:00",
+  "updated": "2026-07-28T23:50:19.706537+00:00",
   "items": [
     {
-      "title": "全功能三螺旋重組第三型膠原蛋白的有效表現",
-      "summary": "第三型膠原蛋白（COL3A1）是一種重要的纖維狀膠原蛋白，廣泛存在於血管和皮膚組織中，在傷口癒合與組織修復方面扮演關鍵角色。",
+      "title": "高效表現全長三股螺旋重組第三型膠原蛋白",
+      "summary": "本研究探討如何高效生產全長三股螺旋重組第三型膠原蛋白，對組織修復與再生醫學具潛力。",
       "source": "PubMed",
       "date": "2026-07-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL（特定新抗原胜肽-TIL）療法平台的臨床前概念驗",
+      "title": "個人化SNAP™-TIL（特異性新抗原胜",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-28",
@@ -67,15 +67,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "人工智慧對異種移植與再生醫學的影響：邁向解決器官短缺的道路",
-      "summary": "本篇回顧旨在彙整過去兩年最具影響力且概念上重要的研究成果，包含實質性的進展。",
+      "title": "人工智慧對異種移植與再生醫學的影響：解決器官短缺的途徑",
+      "summary": "這篇回顧旨在彙整過去兩年來最具影響力且概念上重要的研究發表，其中包含大量...",
       "source": "PubMed",
       "date": "2026-07-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472700/",
       "lang": "zh-TW"
     },
     {
-      "title": "類器官載入的核心-殼層冷凍微針",
+      "title": "搭載類器官的核殼冷凍微針，可誘導仿生毛",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-28",
@@ -131,16 +131,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物列印骨膜類器官實現大尺寸骨缺損的功能性修復",
-      "summary": "骨膜是骨骼再生不可或缺卻常被忽略的關鍵調控者，一旦喪失，將成為修復大尺寸骨缺損的一大障礙。這項研究展示了生物列印骨膜類器官如何有效",
+      "title": "生物列印骨膜類器官實現關鍵尺寸骨缺損的功能性修復",
+      "summary": "骨膜是骨骼再生中一個重要卻常被忽略的調控因子，其缺失是關鍵尺寸骨缺損癒合的主要障礙。",
       "source": "PubMed",
       "date": "2026-07-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42491381/",
       "lang": "zh-TW"
     },
     {
-      "title": "單細胞RNA定序和空間轉錄組學在缺血性腦卒中應用的機會和挑戰。",
-      "summary": "缺血性中風（IS）的特徵是發病率、殘疾率和死亡率高。 IS 的病理過程涉及多種細胞類型的時空動態反應和明顯的細胞異質性，使用傳統的批量定序技術無法完全闡明這些異質性。",
+      "title": "單細胞核糖核酸定序與空間",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-07-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402308/",
@@ -155,11 +155,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "護理點 CAR-T細胞療法 細胞製造是中等收入國家癌症免疫治療公平之路。",
-      "summary": "",
+      "title": "兒童 AML CAR-T細胞療法 細胞療法。",
+      "summary": "急性骨髓性白血病（AML）是兒童第二常見的白血病。儘管數十年來存活率有所提高，但對於高風險或化療難治性 AML 患者，造血幹細胞移植 (HSCT) 仍然是唯一的治療方法。 HSCT 提供免疫...",
       "source": "PubMed",
       "date": "2026-07-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42495551/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42519395/",
       "lang": "zh-TW"
     },
     {
@@ -237,14 +237,14 @@
     {
       "title": "[第 2 期] 基底細胞癌患者的 L19IL2/TNF",
       "summary": "狀態：招募｜主辦：Philogen S.p.A.｜開放標籤、單組、多中心研究，對象為適合瘤內注射的局部晚期 BCC 患者，經當地多學科腫瘤委員會確定，這些患者在全身治療中出現進展或不耐受。主要對象",
-      "source": "ClinicalTrials.gov｜Germany, United States, Italy",
+      "source": "ClinicalTrials.gov｜Spain, Germany, Greece",
       "date": "2026-07-28",
       "url": "https://clinicaltrials.gov/study/NCT07227870",
       "lang": "zh-TW"
     },
     {
-      "title": "評估透過FOXP3基因在缺陷T細胞上表現以產生類調節性T細胞，治療免疫失調、多腺體病變、腸病變X染色體聯鎖症候群（IPEX症候群）的基因療法（臨床一/二期）",
-      "summary": "狀態：尚未收案｜主",
+      "title": "評估透過在缺陷T細胞上表達FOXP3以產生類調節性T細胞，來治療IPEX症候群的基因療法（Gene Therapy）之臨床一/二期試驗",
+      "summary": "狀態：尚未招募｜主辦：巴黎公立醫院集團｜本研究旨在評估FOXP3-T",
       "source": "ClinicalTrials.gov｜France",
       "date": "2026-07-28",
       "url": "https://clinicaltrials.gov/study/NCT07697118",
@@ -291,27 +291,75 @@
       "lang": "zh-TW"
     },
     {
-      "title": "大量生產的誘導型多功能幹細胞（iPSC）異體T細胞鎖定大腸直腸癌",
-      "summary": "研究人員開發出可隨取即用、大量生產的誘導型多功能幹細胞（iPSC）衍生的異體γδT細胞，在小型臨床前研究中成功抑制了小鼠體內的腫瘤生長。",
+      "title": "OPKO Health 報告 2026 年第二季業務亮點和財務業績",
+      "summary": "業務亮點和財務表現 OPKO Health, Inc.",
+      "source": "OPKO Health, Inc.",
+      "date": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVVXc01YRWcxdC1jWVRjNExOZkE1TjJHSHUyVUFnUG9xNVhBZGhqVWVoZG9MS2JnZW8wc2c2ajNnMnl1bkV1SjhfeVFTWi1YT1IzdndhWWJLVWprN2VTWnNQb3pWeHA5ZTZoNW1SVjFWblY3VkxvdlJaWFpyMGJLdmJqNHU2UkhCejcwMVFUOEQyQlRNdXFTdFhtZzVmOENqVzQ0aEtrRDBzdVlYZkEyMEJsaEg3YlNHb0R0ZzNpMUtraU94U0t4U0ZGTjBEVWxtQ1prOEoxS3R1YU5ZN3RHV1M5bms?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "大量生產的誘導型多功能幹細胞（iPSC）異體T細胞，瞄準大腸直腸癌",
+      "summary": "研究人員成功開發出可現成、大量生產的誘導型多功能幹細胞（iPSC）異體γδT細胞，在小型臨床前研究中顯示能有效抑制腫瘤生長。",
       "source": "GEN News",
       "date": "2026-07-24",
       "url": "https://www.genengnews.com/topics/cancer/colorectal-cancer-targeted-with-mass-produced-ipsc-derived-allogeneic-t-cells/",
       "lang": "zh-TW"
     },
     {
-      "title": "局長國家優先審查憑證（CNPV）試點計畫",
-      "summary": "這是美國食品藥物管理局（FDA）推出的局長國家優先審查憑證（CNPV）試點計畫。",
+      "title": "新的治療標靶擴大了多發性骨髓瘤的選擇",
+      "summary": "或多發性骨髓瘤 Penn Medicine",
+      "source": "Penn Medicine",
+      "date": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQnA4YUU5UHhvUUd3ZHlURUtMeVVjbG1iRnNGMnhPbGhpcmN1c1c0dFIwUlE4QkhRUG5NaTVBbjFqOE9Odm9ocTdqZ01XYUJqQVdaTUk5b2FmdlZLUXpsdnpla054MDhQN3FpNkQ4ZF9NWVhEc0hUNkNuellYREhUMUNrWGVRTFNXRmZRZDYwSV91M1NtbVR1Zg?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "這個爆紅的保養成分，真是打造年輕光澤肌的秘密武器嗎？皮膚科醫師怎麼看",
+      "summary": "探討網路爆紅保養成分，是否真能打造年輕光澤肌，並彙整皮膚科醫師的專業見解。",
+      "source": "NBC News",
+      "date": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQ1VHZFFyMWxMSklxWG5ra2JDNWlmMG9rWGlvellZX1JBNFdnZktZUFNULWFZSmxvbi1kN3RTN2FnXy1iejlGMWljV3lTYWRXSmczaUpfM3U2YjZfbXZCYnM3OC1FX2dRS25pTTFiNVVNRTNUdXNsaQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "專員國家優先券 (CNPV) 試點計劃",
+      "summary": "(CNPV) 試點計畫 美國食藥局（FDA）.gov",
       "source": "fda.gov",
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品藥物管理局（FDA）2026年6月神經學領域最新進展總覽",
-      "summary": "本文彙整美國食品藥物管理局（FDA）2026年6月神經學相關藥物與療法的最新審查與核准動態。",
+      "title": "新型 CAR-T細胞療法 細胞療法為難以治療的腎癌提供了有希望的選擇",
+      "summary": "g 難以治療的腎癌的選擇 UT MD 安德森",
+      "source": "UT MD Anderson",
+      "date": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnhIS1NaOHNpdEw4MmtvY3R1Vk1XMEFlYjN6eURaNzJBaXNDRHBhSTFsdUVUbEpRR0lWT3UySUVGZzdudkhTSVMtR2tGZkhFVDdwakxwaEo1c1BtY3V5VGFSdGtGV1FENU9ZQ2dIVHNkbDNiQWx3MnI2QmJ4bWEtOHZjeU1OOG1TQ0hzVGx2TV95LUxXVWpkeE1fSU1xc09hVW5DRzVNSks2XzVtc2NYaXl5U0hMQmpfOTVhekJuc1pGOUlxRjFKWURrZmc5clZoSHpqZjREZjc2d2hMRnJTZldLSk1DNV9W?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "幹細胞療法在慢性脊髓損傷的臨床試驗中取得進展",
+      "summary": "精準醫學中慢性脊髓損傷的所有試驗",
+      "source": "Inside Precision Medicine",
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNl9IbUtqek43aWtVSUhPVmRBcThtNkItYUNuaXM1UmFwQVFOU1NBeHM3WlJYdWtkSzBBNG9Gc1NTTlZlMUdOYy1JdkxpVXl0UGRsa1FuLVREMXU4OXoxLUt5R0RpeEdSSm9GblZWWV9pMXRQXzZVV19oek12RHJxTFExVENmWHZubGtRS0tRLVBZOG1SU1ktLXBkOGZNNlkzNWxMOFVyZFNtX1o4YThXMFdTU1lFdmZaMWFqRUhtVGdBQQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 神經學綜述：2026 年 6 月",
+      "summary": "",
       "source": "Medscape",
       "date": "2026-07-10",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXNHRFFUd3hwYzZaSGVvVDYzUUpHTmhvZ1hMSEJFMGVhMlFuYTktbVN5ekNvYm1XZ0tDZkJzcU8ybzhNZmZOQnBMaE1janBTdWpvTEMzN0pzcWx5SWN3VFFfWUp6QnMzdXlZWWI4eHRLdlFIWDFqMTVrSURpTVF0WlRfc3J4c0tL?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "人類胚胎幹細胞衍生的多巴胺能細胞治療帕金森氏症：1/2 期開放標籤試驗",
+      "summary": "神經細胞治療帕金森氏症：1/2 期開放標籤試驗 Nature",
+      "source": "Nature",
+      "date": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTNFhQeVBCNnJOVWNuSjdzN1gxZFpSTTBnT0wyMUVoQkNjN181S0lWcTZVeHdMdW1lSGdsUklac24wTTRuckk4S1FSaXlGS2p4Y0FQZ3FBQTlHMXFRNmhJ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -331,8 +379,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "【一期臨床】美國Zamto-cel自體免疫疾病療法",
-      "summary": "狀態：招募中｜主辦單位：Miltenyi Biomedicine GmbH｜這是一項評估zamotocabtagene autoleucel（簡稱zam）安全性與耐受性的一期多組別臨床試驗，主要",
+      "title": "[第一期臨床試驗] 美國Zamto-cel用於自體免疫疾病",
+      "summary": "狀態：正在招募受試者｜主辦單位：Miltenyi Biomedicine GmbH｜這是一項第一期多組別研究，旨在評估zamto-cabtagene autoleucel（簡稱zam）的安全性與",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07",
       "url": "https://clinicaltrials.gov/study/NCT06708845",

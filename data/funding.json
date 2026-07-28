@@ -1,42 +1,50 @@
 {
   "module": "funding",
-  "updated": "2026-07-28T12:33:08.484995+00:00",
+  "updated": "2026-07-28T23:51:00.422460+00:00",
   "items": [
     {
-      "title": "一家眼科藥物生技公司募資1.18億美元，並補齊高階主管團隊",
-      "summary": "Claris Bio 已任命資深執行長 Stephen Brady，負責主導其先進藥物開發，該公司期望能開發出首款治療致盲疾病的藥物。",
+      "title": "STAT+：佛奇將再出席聽證會，各界嚴陣以待",
+      "summary": "美國前國家過敏與傳染病研究院院長佛奇將再次出席國會聽證會，預料將引發各界高度關注。",
+      "source": "STAT News",
+      "date": "2026-07-28",
+      "url": "https://www.statnews.com/2026/07/28/anthony-fauci-rand-paul-hearing-democrats-ivf-proposal-dc-diagnosis/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：藥業快訊：美國FDA",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-07-28",
+      "url": "https://www.statnews.com/pharmalot/2026/07/28/fda-duchenne-drug-gsk-cost-savings-plan/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "一家眼藥生技公司存有 1.18 億美元資金並儲備其高階主管套件",
+      "summary": "Claris Bio 任命資深執行長 Stephen Brady 領導其希望成為第一種治療角膜緣幹細胞缺乏症致盲疾病的藥物療法的高級開發。",
       "source": "BioPharma Dive",
       "date": "2026-07-28",
       "url": "https://www.biopharmadive.com/news/claris-series-b-limbal-stem-cell-deficiency/826263/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 全球對抗愛滋病（HIV）的資金驟降18%，恐引發疫情捲土重來",
-      "summary": "全球對抗愛滋病（HIV）的國際資金去年大幅減少18%，恐導致疫情捲土重來，引發各界擔憂。",
+      "title": "STAT+：全球對抗愛滋病的資金下降 18%，人們擔心愛滋病毒會捲土重來",
+      "summary": "聯合國愛滋病規劃署的一份新報告稱，去年對抗愛滋病的國際融資遭受「嚴重衝擊」後，世界面臨愛滋病疫情捲土重來的風險。",
       "source": "STAT News",
       "date": "2026-07-27",
       "url": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Argenx 將以22億美元收購 Forte Biosciences",
-      "summary": "Argenx 計劃以22億美元收購 Forte Biosciences，藉此擴大其治療多種自體免疫疾病的藥物產品線。",
-      "source": "STAT News",
-      "date": "2026-07-27",
-      "url": "https://www.statnews.com/2026/07/27/argenx-acquire-forte-biosciences-autoimmune-diseases/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Argenx 以22億美元收購 Forte，取得「差異化」免疫藥物",
-      "summary": "這項交易讓 Argenx 獲得一款鎖定蛋白質靶點 CD122 的潛力藥物，這種開發策略近期已獲得多家藥廠的關注。",
+      "title": "Argenx 將以 2.2B 美元收購 Forte，開發「差異化」免疫藥物",
+      "summary": "該交易為 Argenx 帶來了針對蛋白質標靶 CD122 的藥物前景，這種方法最近受到了多家開發商的關注。",
       "source": "BioPharma Dive",
       "date": "2026-07-27",
       "url": "https://www.biopharmadive.com/news/argenx-acquire-forte-biosciences-immune-drug-CD122/826221/",
       "lang": "zh-TW"
     },
     {
-      "title": "Sarepta 尋求轉型，延攬",
-      "summary": "",
+      "title": "Sarepta 尋求扭虧為盈，任命前艾伯維 (AbbVie) 高管塞維裡諾 (Severino) 為首席執行官",
+      "summary": "最近，作為熱門新創公司 Tessera Therapeutics 的領導者，Severino 將尋求改善這家公司的命運，該公司面臨著新興的競爭和其珍貴的基因療法 Elevidys 的銷售額下降。",
       "source": "BioPharma Dive",
       "date": "2026-07-27",
       "url": "https://www.biopharmadive.com/news/sarepta-mike-severino-ceo-change-doug-ingram/826219/",
