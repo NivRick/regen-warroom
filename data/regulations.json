@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-27T23:55:12.638549+00:00",
+  "updated": "2026-07-28T12:32:57.606871+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑最新動態",
+      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-07-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "OTP Town Hall：準備細胞和基因治療產品 BLA 提交的最佳實踐",
-      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 6 月 4 日舉辦下一次虛擬市政廳會議。在本次市政廳會議期間，來自 OTP 審查管理和監管審查辦公室 (ORMR) 的專家",
+      "title": "治療產品辦公室（OTP）線上座談會：細胞與基因療法產品生物製劑許可申請（BLA）送件的最佳實務",
+      "summary": "美國食品藥物管理局（FDA）旗下的生物製劑評估與研究中心（CBER）治療產品辦公室（OTP）將於6月4日舉辦下一場線上座談會。",
       "source": "06/04/2026",
       "date": "2026-07-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/otp-town-hall-best-practices-preparing-bla-submissions-cell-and-gene-therapy-products-06042026",
@@ -24,14 +24,6 @@
       "source": "風傳媒",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
-    },
-    {
-      "title": "歐洲藥品管理局（EMA） 改變了對 Acadia 的 Rett 綜合徵療法 Daybu 的立場",
-      "summary": "綜合症治療 Daybu BioWorld 新聞",
-      "source": "BioWorld News",
-      "date": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYy1lMmV3ajlMUUxKQ3J2OEJFRnR4X19aUEdXWUxpeXRDUkpNOUJtLU8yLVM2a3FqY0hiMy12ZlJDVE5lTGZ4enJqNUpUM1VQWEdkYUZXWXpidjVDaWhDamFLZ05mczhZSmZiUEpxV3J0eDF0NVVteF9GM3U2cndUUWlNTEgtQk8zQWV5LTBlYnhrc283YWhmeldqZjVweVU5QzRWTkhB?oc=5",
-      "lang": "zh-TW"
     }
   ]
 }

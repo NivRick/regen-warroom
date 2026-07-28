@@ -1,77 +1,45 @@
 {
   "module": "funding",
-  "updated": "2026-07-27T23:55:31.095565+00:00",
+  "updated": "2026-07-28T12:33:08.484995+00:00",
   "items": [
     {
-      "title": "STAT+：全球對抗愛滋病的資金下降 18%，人們擔心愛滋病毒會捲土重來",
-      "summary": "聯合國愛滋病規劃署的一份新報告稱，去年對抗愛滋病的國際融資遭受「嚴重衝擊」後，世界面臨愛滋病疫情捲土重來的風險。",
+      "title": "一家眼科藥物生技公司募資1.18億美元，並補齊高階主管團隊",
+      "summary": "Claris Bio 已任命資深執行長 Stephen Brady，負責主導其先進藥物開發，該公司期望能開發出首款治療致盲疾病的藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-28",
+      "url": "https://www.biopharmadive.com/news/claris-series-b-limbal-stem-cell-deficiency/826263/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: 全球對抗愛滋病（HIV）的資金驟降18%，恐引發疫情捲土重來",
+      "summary": "全球對抗愛滋病（HIV）的國際資金去年大幅減少18%，恐導致疫情捲土重來，引發各界擔憂。",
       "source": "STAT News",
       "date": "2026-07-27",
       "url": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Argenx 以 $2.2B 收購 Forte Biosciences",
-      "summary": "Argenx 計劃以 22 億美元收購 Forte Biosciences，擴大其治療多種自體免疫疾病的藥物管道。",
+      "title": "STAT+: Argenx 將以22億美元收購 Forte Biosciences",
+      "summary": "Argenx 計劃以22億美元收購 Forte Biosciences，藉此擴大其治療多種自體免疫疾病的藥物產品線。",
       "source": "STAT News",
       "date": "2026-07-27",
       "url": "https://www.statnews.com/2026/07/27/argenx-acquire-forte-biosciences-autoimmune-diseases/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Argenx 將以 2.2B 美元收購 Forte，開發「差異化」免疫藥物",
-      "summary": "該交易為 Argenx 帶來了針對蛋白質標靶 CD122 的藥物前景，這種方法最近受到了多家開發商的關注。",
+      "title": "Argenx 以22億美元收購 Forte，取得「差異化」免疫藥物",
+      "summary": "這項交易讓 Argenx 獲得一款鎖定蛋白質靶點 CD122 的潛力藥物，這種開發策略近期已獲得多家藥廠的關注。",
       "source": "BioPharma Dive",
       "date": "2026-07-27",
       "url": "https://www.biopharmadive.com/news/argenx-acquire-forte-biosciences-immune-drug-CD122/826221/",
       "lang": "zh-TW"
     },
     {
-      "title": "Sarepta 尋求扭虧為盈，任命前艾伯維 (AbbVie) 高管塞維裡諾 (Severino) 為首席執行官",
-      "summary": "最近，作為熱門新創公司 Tessera Therapeutics 的領導者，Severino 將尋求改善這家公司的命運，該公司面臨著新興的競爭和其珍貴的基因療法 Elevidys 的銷售額下降。",
+      "title": "Sarepta 尋求轉型，延攬",
+      "summary": "",
       "source": "BioPharma Dive",
       "date": "2026-07-27",
       "url": "https://www.biopharmadive.com/news/sarepta-mike-severino-ceo-change-doug-ingram/826219/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：中國的致命基因編輯試驗引發倫理和監督問題",
-      "summary": "賽諾菲胰島素筆供不應求，肽化合物的勝利，以及來自 The Readout 的更多生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-07-24",
-      "url": "https://www.statnews.com/2026/07/24/biotech-news-fatal-gene-editing-trial-in-china-raises-ethics-questions/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：默克公司在貧窮國家就實驗性愛滋病毒預防藥物達成自願許可協議",
-      "summary": "默克公司正為其實驗性愛滋病毒預防藥物達成許可協議，希望能迅速開始大規模生產。",
-      "source": "STAT News",
-      "date": "2026-07-24",
-      "url": "https://www.statnews.com/pharmalot/2026/07/24/merck-experimental-hiv-prevention-pill-licensing-deals/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：白宮提供科學藍圖：更多人工智慧，更少生命科學",
-      "summary": "川普政府發布了美國科學藍圖，呼籲將數千億研究資金從大學轉移到工業界。",
-      "source": "STAT News",
-      "date": "2026-07-24",
-      "url": "https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Scribe 在罕見的基因編輯 首次公開上市（IPO） 中籌集了 1.29 億美元",
-      "summary": "這家新創公司是兩年多來第一家進行 首次公開上市（IPO） 定價的基因編輯公司，儘管它的資金遠低於大多數其他 2026 年上市的生技公司。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-23",
-      "url": "https://www.biopharmadive.com/news/scribe-ipo-price-gene-editing-biotech-pcsk9-lpa/825933/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "「總有一個第一」：為何美國生技公司 Axiom 將在香港開啟 首次公開上市（IPO） 之旅",
-      "summary": "h Axiom 將在香港開始 首次公開上市（IPO） 之旅 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
       "lang": "zh-TW"
     }
   ]
