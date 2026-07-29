@@ -1,69 +1,54 @@
 {
   "module": "competitor",
-  "updated": "2026-07-28T23:51:26.144567+00:00",
+  "updated": "2026-07-29T12:58:46.702739+00:00",
   "items": [
     {
-      "title": "禮來、艾伯維搭上體內嵌合抗原受體T細胞療法（CAR-T）列車，但安全性仍是一大關卡",
-      "summary": "禮來、艾伯維投入體內CAR-T療法，但安全性仍是關鍵挑戰。",
+      "title": "禮來、艾伯維搶搭體內CAR-T列車，但安全性仍是挑戰",
+      "summary": "兩大藥廠投入體內嵌合抗原受體T細胞療法（CAR-T），看好潛力但安全性仍待克服。",
       "source": "BioSpace",
       "date": "2026-07-27",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaW1qMU5Nc0o2Vy1WSm9WNUxSeGItX2RnZHJ2YnVSYUpKRzlKZXVoNGZFQ2dSS1lLempQLWdHWmp1WTNmSHlpTWtpNjBXZGNad0dmbDRoaW44UGZjT25heXRGSjZHUUswMUVXMnA3ai1vUXJobVFGYUhMdXdYMFFxSjQwMkgxSndfeFhvR1d6bDJVNlQ4dDhybTFfcElKb0NLUi03TF9nWm5kLVRnTlFBZWRERnpYZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "體內細胞療法：能否解決製造瓶頸？",
-      "summary": "體內細胞療法發展，能否克服生產製造上的困難？",
+      "title": "體內細胞療法：能解決生產製造的瓶頸嗎？",
+      "summary": "探討體內細胞療法是否能克服現有細胞治療的生產製造難題。",
       "source": "DCAT Value Chain Insights",
       "date": "2026-07-23",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb1R3bldLZ2VrU0E1dVd4M3gwbVFsd2FHYVpwelVmM1NOVHQ1eXV2WUhSWkNSQV9wd1NQMUxvS0o2R3hPRmxYSjV5VXVBV3BFclFaaGY4MUxVTy13RXZsVnlQcmsyd1lNNHVxcjlzWUh5V1ZjcmN1NXJNZTM3QTJDMDNnZWg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA擴大佛特斯（Vertex）Casgevy適應症，治療年齡下修至2歲",
-      "summary": "FDA核准佛特斯Casgevy，治療年齡擴大至2歲以上病患。",
+      "title": "Fate Therapeutics旗下FT839產品候選藥物獲美國食品藥物管理局（FDA）核准新藥臨床試驗申請（IND）",
+      "summary": "Fate Therapeutics的FT839獲美國食品藥物管理局（FDA）核准新藥臨床試驗申請（IND），將進入臨床試驗階段。",
+      "source": "The Manila Times",
+      "date": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOeG9iOU94Um5Mam4zUE9meU1WM3RhS0p5bXh6eVdJTm1YTFg1Q3BVSnA2Tzc3bUNzXzJEZ3dYSkNhVllPTEFTbTF4dHA5anc2em0xemtIeTJaYlVyZ3BLRjdyMzdzbXZ2dllhY2dDLXowN0ZsZXJmOGtLQ1FKQzUzakhwUkZ1QW4yeWNOby00aEZob01xZmJZMmp1emRqN19wTk1IQjVZb0FyRWdMX1hadGNPUkVWZXpfNHlfUWcxX1NOQXU1eGhkTWh1S09MTXR2ZVh0UkZOcTBqQ0V0aDBGalNwOU01V0dpMFpkcFJIOU1sOGo2TnNPekN1ckhLTzFiQjJFWEJwQjZrdU95Y1o40gGUAkFVX3lxTE1WNVRyOVY0NlJ1M3VlSzlqWmNCbU80eHYtWFRPNEZjMGZpT3U1aFRYdko1VTVSYUlyem1DUnlBZ0VPQmdDdzQ3TC1tREZ4dzNUek9MY3l1Q1N5akFPRmlMSWUtTkVWclVCZS1YTTN2VmQtTUhqTVZvZmhzZkotc1pPZUNJLTFsdFhDcDRSOVZHenkxcFY3bDVNbHJ1LTJqM0VVeldiTGF0cmlBQWZJTWhaT2pGT3hLbHdPcXFQUFNjTzFLOHdxZ19ndDlZQXBTQUVIaWU3aU1ZZFJSeVp3NmYyR3AyT2x5WnFrcXFuM1RGdGtxd0x0Q0NPSm9BYzVySDliZC1hVTJNSmNTSENINHgwaHpVVA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食品藥物管理局（FDA）擴大沃爾特斯Casgevy適應症，治療年齡下修至兩歲",
+      "summary": "美國食品藥物管理局（FDA）核准Vertex的Casgevy基因療法，適用年齡從成人擴大至兩歲以上病患。",
       "source": "Fierce Pharma",
       "date": "2026-07-06",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbjc2NVJsRFVTVjlsZk9pY0Fod282Z1JYOW00X1E5M0pzS3B0SFltcmtqZTlhNGhnUE1XdFZ0bTM0WjJaMUd0VEF4UTRaaExxX0hpeFdlSXVzdFNKY21vNHZ0b0JNZE9YZE8zMlRpdm40aWFOV2Y0R3RQV1VHLXBGbGhuYU8yODg2QmEtaG9uZ1c5U0JtQkNV?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Vertex 的 Casgevy 成為首個獲準用於患有罕見血液疾病的幼兒的基因療法",
-      "summary": "患有罕見血液疾病的幼兒的基因治療",
+      "title": "沃爾特斯Casgevy成為首款獲准治療幼童罕見血液疾病的基因療法",
+      "summary": "Vertex的Casgevy獲准用於治療幼童罕見血液疾病，創下基因療法首例。",
       "source": "BioSpace",
       "date": "2026-07-02",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWxCWU1tTVdyUHhoVVk5NHlXT2FiUG53SGo1M3BjeHYtUUl3WUotMldNbnlEcmJlVzdVc1RScEJ3UzhpYnRqcDhfV3JpSFlwdFhJZV9NT0NkUmtpNnJYQ055X1lHQlc4Yi1fX3ZPOEgzcnhtZUpRNHJqWmNnd3ZsSFp4cWVLUGtCNkZJZ0kxdkVad2lqQ3hjSHJJUEZDY1VvZGI1NGdjUWMwYzdOX3Q3U1habmRDNnZmMFlpQlNB?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Fate Therapeutics 將參加即將舉行的 2026 年第三季會議",
-      "summary": "ming 2026 年第三季會議 馬尼拉時報",
-      "source": "The Manila Times",
-      "date": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2dKbWFTVTl6Tkh2THhoSE5FMWRvVElZVm1VTkRTampFdU9rY3B2RDFNZ3Zlck1iU195MTZHZ3o4bEowRmdKU3NZdWlBWWJSaXFuYTZNZmlRVFBRQ1pWV2ZrYXBTX2FJSnhSOUpLX1VZaUljb0xROUNLZjVwQ21iZWFZemJIdWRZeVpNU3FGZnZWLVUzWXJicVlUMmNfMzBTZ05sVGpsT2VKSHg5cFpUUlVyYVhfMGhKZVhWanNheWRib1NKcWN2LWRCZnlfWFVnT20tTEpZZmR3MGdUbUhkQVJ2WdIB6AFBVV95cUxOR1psRk5fVGNMOEhEOUFfMkR4bWVXTjlfS05BSnBqTEx5VXE0RTU5Q3ZmQUdSUzM2NWh2U21iSWF6S0c2ekM0VVF5UTg4MHNxRE9iLW95MTlOcF9tMUVCZ0Y3djk2cE13Ujc0SjBIcm4wNWppQmlBQlowdzg1ZzhUekx2bERGYzlFaHYydFNYcnZIeHZpVEx2Vi1mYXMxbm9fanBSSlZGaGtfc3ZNaWZtX2hiSjlJNHRRY1lGcHRrSS1PSk9sdnUzYVpoYW9uVWltcTkzUEJOdkdvMW0wU3FiQmZIQ3BVcktV?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "強生公司將在蒙哥馬利縣建造細胞治療設施",
-      "summary": "蒙哥馬利縣設施 WFMZ.com",
+      "title": "嬌生將在蒙哥馬利郡興建細胞治療廠房",
+      "summary": "",
       "source": "WFMZ.com",
       "date": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPM0RyektSSTJjZzBfS3J4VmY3OFZMeUpVY0RvU3hXc3FtRk9sa09ETXBZOFNMN1lLU2gxWXB5cTB0ZFRWRzNLSHpRM1A4UXA0LXY5QkVoX29GRV9VcG5TRHVMRmFacnNfZ2syLVhuakkzQ1RlRnh0U1dfWFJLUy1HbXJ2MWRkODFxLVdNYWh3YWQwenZMQnVEVDJsWEhPakpGUjkxWTJCMDdwMHRxSnB4TlM0dkhkZDdzWlJiTnNBNE9ldVY3R1dPZ0xVaURTaFdNUmVxNFBZWVUxOWFiNzl0NFVrOEM0MnNIb0VhZ21KM0k2b3c5S2hXMnZNV3JTUzZiMmlRQjg5RnBVUkRUZndjOUtNVE9fVUk?oc=5",
       "lang": "zh-TW"
-    },
-    {
-      "title": "FT836 癌症數據給交易者留下深刻印象，Fate Therapeutics 股票上漲",
-      "summary": "Ncer 數據讓交易者留下深刻印象 StocksToTrade",
-      "source": "StocksToTrade",
-      "date": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TVDdjNzlCZlExSWlPMnB1TFUwd1p3eFMxTmgtZ2RFTGlQaDRWOFZ5bHc5cVViSHM0WnY2ZU53WC1sbUY1U1BCalRKbHVva3Z1N3UyZ3ZhbUxlYi1LbFowT3lZU3psdV9SOUJVOEpiSloxdjVoa0hLLUUxYUM?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "長聖(6712)新藥CAR001完成一期臨床、TFDA同意啟動Ⅱa期臨床試驗收案",
-      "summary": "",
-      "source": "環球生技月刊",
-      "date": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Hb3p4Y0MtNS1IOUIzelNVckExRW1tek8yY2lYa1l0emhjVDdSSVZsTmdMYnc2Yi1RQXRvQ0dTRGVqdl9hU3ZaSll4MkY2VGxjZFVyLWs3a2VVVlNubUdHd09NVHZCdHc?oc=5"
     }
   ]
 }
