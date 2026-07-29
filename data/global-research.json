@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-07-29T12:57:44.947060+00:00",
+  "updated": "2026-07-29T23:54:36.956270+00:00",
   "items": [
     {
-      "title": "在生物醫學應用中高效表達全長三螺旋重組第三型膠原蛋白",
-      "summary": "第三型膠原蛋白（COL3A1）是一種重要的纖維狀膠原蛋白，廣泛存在於血管和皮膚組織中，在傷口癒合與組織再生中扮演關鍵角色。",
+      "title": "高效表達全尺寸三螺旋重組第三型膠原蛋白",
+      "summary": "這篇報導探討了高效表達全尺寸三螺旋重組第三型膠原蛋白（COL3A1）的技術，這種膠原蛋白在傷口癒合與組織修復中扮演關鍵角色。",
       "source": "PubMed",
       "date": "2026-07-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42405275/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化 SNAP™-TIL（特異性新抗原勝肽-TIL）治療平台的臨床前概念驗證。",
-      "summary": "腫瘤浸潤淋巴細胞 (TIL) 療法涉及提取、擴增和回輸免疫細胞以靶向癌細胞，該療法在黑色素瘤治療中已顯示出前景，但需要優化以獲得更廣泛的療效。 TIL 療法的成功取決於對腫瘤相關...",
+      "title": "個性",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-07-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402813/",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "人工智慧對異種移植和再生醫學對結束器官短缺的影響。",
-      "summary": "本篇綜述的目的是總結過去 2 年中最具影響力和概念上最重要的出版物，包括 2026 年的大量出版物，並確定可能在不久的將來塑造異種移植和再生醫學的新興方向。進展...",
+      "title": "人工智慧在異種移植與再生醫學領域的影響，如何解決器官短缺問題",
+      "summary": "這篇回顧性文章旨在彙整過去兩年來，最具影響力且概念上意義重大的研究成果，包括實質性的...",
       "source": "PubMed",
       "date": "2026-07-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472700/",
       "lang": "zh-TW"
     },
     {
-      "title": "裝載類器官的核殼冷凍微針誘導仿生毛囊單位和毛髮再生。",
-      "summary": "組織工程毛囊再生為增加毛囊數量提供了一種有前途的方法，但它面臨挑戰，例如毛髮難以穿過皮膚生長以及可能出現聚集和無序生長。實現單根或雙根毛髮的仿生再生...",
+      "title": "搭載類器官的核殼結構",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-07-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472089/",
@@ -132,14 +132,14 @@
     },
     {
       "title": "單細胞RNA定序與空間轉錄體學在缺血性中風應用上的機會與挑戰",
-      "summary": "缺血性中風（IS）的特點是高發病率、高致殘率和高死亡率。其病理過程涉及時空...",
+      "summary": "缺血性中風（IS）的特點是發病率、失能率和死亡率都很高。其潛在的病理過程涉及時空...",
       "source": "PubMed",
       "date": "2026-07-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402308/",
       "lang": "zh-TW"
     },
     {
-      "title": "兒童急性骨髓",
+      "title": "兒童",
       "summary": "",
       "source": "PubMed",
       "date": "2026-07-29",
@@ -195,8 +195,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[早期一期臨床試驗] PID23 注射劑用於復發/難治性急性白血病患者的安全性與療效臨床研究",
-      "summary": "狀態：尚未開始招募｜主辦：珠江醫院｜復發或難治性急性白血病（R/R AL）是一種威脅生命的血癌",
+      "title": "[早期第一期] 復發/難治型急性白血病患者使用PID23注射劑的安全性與療效臨床試驗",
+      "summary": "狀態：尚未開始招募｜主辦單位：珠江醫院｜復發或難治型急性白血病（R/R AL）是一種危及生命的血癌",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-29",
       "url": "https://clinicaltrials.gov/study/NCT07696481",
@@ -251,8 +251,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第三期隨機分組試驗：親屬配對細胞毒性T細胞（CTLs）合併標準療法（SOC）對比單獨標準療法，用於治療難治型腺病毒或巨細胞病毒感染",
-      "summary": "狀態：尚未開始招募｜主辦：紐約醫學院｜本試驗將針對異體",
+      "title": "第三期隨機試驗：親屬配對細胞毒性T淋巴細胞（CTLs）合併標準療法（SOC）治療難治性腺病毒（ADV）或巨細胞病毒（CMV）感染，對比單獨標準療法",
+      "summary": "狀態：尚未開始招募｜主辦：紐約醫學院",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-29",
       "url": "https://clinicaltrials.gov/study/NCT07225972",
@@ -291,7 +291,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第一階段] 全人源雙特異性抗 CD20、抗 CD19 CAR-T細胞療法 細胞用於治療復發和/或難治性 B 細胞惡性腫瘤患者",
+      "title": "[第一階段]全人源雙特異性抗 CD20、抗 CD19 CAR-T細胞療法 細胞用於治療復發和/或難治性 B 細胞惡性腫瘤患者",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：威斯康辛醫學院｜這是一項 1 期介入性、單臂、開放標籤治療研究，旨在評估 h20.19 CAR-T細胞療法 細胞在先前治療失敗的 B 細胞惡性腫瘤患者中的安全性。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-29",
@@ -307,19 +307,35 @@
       "lang": "zh-TW"
     },
     {
+      "title": "鹼基編輯策略成功緩解小鼠亨丁頓舞蹈症",
+      "summary": "透過精準修改亨丁頓（huntingtin）基因，而非直接關閉，一種體內CRISPR（基因編輯）鹼基編輯方法，成功減少了有毒蛋白質片段。",
+      "source": "GEN News",
+      "date": "2026-07-29",
+      "url": "https://www.genengnews.com/topics/genome-editing/base-editing-strategy-alleviates-huntingtons-disease-in-mice/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "具里程碑",
+      "summary": "",
+      "source": "GEN News",
+      "date": "2026-07-29",
+      "url": "https://www.genengnews.com/topics/translational-medicine/landmark-phase-iii-trial-finds-cell-therapy-slows-muscle-decline-in-advanced-dmd/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "大型生物列印組織的精確度提升",
+      "summary": "法國研究人員開發的新型灌註生物反應器平台可對大型生物列印組織培養物進行更嚴格的控制，將受控生長條件與 MRI 監測相結合，以提高再現性並支持 DRU 的未來發展",
+      "source": "GEN News",
+      "date": "2026-07-29",
+      "url": "https://www.genengnews.com/topics/bioprocessing/large-bioprinted-tissues-get-a-precision-boost/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "OPKO Health 報告 2026 年第二季業務亮點和財務業績",
       "summary": "業務亮點和財務表現 OPKO Health, Inc.",
       "source": "OPKO Health, Inc.",
       "date": "2026-07-27",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVVXc01YRWcxdC1jWVRjNExOZkE1TjJHSHUyVUFnUG9xNVhBZGhqVWVoZG9MS2JnZW8wc2c2ajNnMnl1bkV1SjhfeVFTWi1YT1IzdndhWWJLVWprN2VTWnNQb3pWeHA5ZTZoNW1SVjFWblY3VkxvdlJaWFpyMGJLdmJqNHU2UkhCejcwMVFUOEQyQlRNdXFTdFhtZzVmOENqVzQ0aEtrRDBzdVlYZkEyMEJsaEg3YlNHb0R0ZzNpMUtraU94U0t4U0ZGTjBEVWxtQ1prOEoxS3R1YU5ZN3RHV1M5bms?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "大量生產的誘導型多功能幹細胞（iPSC）異體T細胞鎖定大腸直腸癌",
-      "summary": "研究人員成功開發出可現成、大量生產的誘導型多功能幹細胞（iPSC）異體γδT細胞，在小型臨床前研究中，證實能有效抑制腫瘤",
-      "source": "GEN News",
-      "date": "2026-07-24",
-      "url": "https://www.genengnews.com/topics/cancer/colorectal-cancer-targeted-with-mass-produced-ipsc-derived-allogeneic-t-cells/",
       "lang": "zh-TW"
     },
     {
@@ -331,16 +347,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "這個爆紅的保養品成分，真是打造年輕、發光肌膚的秘密武器嗎？皮膚科醫師怎麼看？",
-      "summary": "近期網路上瘋傳某個保養品成分，號稱能打造年輕、發光肌膚。究竟這個爆紅成分是否真有奇效？本文將邀請皮膚科醫師，從專業角度深入解析，為您揭開真相。",
-      "source": "NBC News",
-      "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQ1VHZFFyMWxMSklxWG5ra2JDNWlmMG9rWGlvellZX1JBNFdnZktZUFNULWFZSmxvbi1kN3RTN2FnXy1iejlGMWljV3lTYWRXSmczaUpfM3U2YjZfbXZCYnM3OC1FX2dRS25pTTFiNVVNRTNUdXNsaQ?oc=5",
+      "title": "腎臟病貧血患者的臨床試驗展現優異安全性",
+      "summary": "加州大學戴維斯分校健康中心針對腎臟病貧血患者的臨床試驗，安全性結果表現優異。",
+      "source": "UC Davis Health",
+      "date": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNXzhBa2xNQU84aXdLajctQXBid1FOLXB6U1o2WU5mM1NKeWdIZm1nWWduTWxIcGZqS2NoVzhuY2lreG8wOGlhV0dueHo4OGNhX3E5eTVLNS1JdTlRUGdvRmVhdy1vZXkzTVJuRmRNdVFiYzZtX1VRNENxMlBKZG1KT25ZR05kS3VMN2xZcFJIbWZ4dG1VaEtNMXNubFNVTDVINlM3M0hMTy1EMThyTEJRam52NlVQaGJ1aEdmbGpVY3VGZEQwcHFHdGRaLUxVSTl3VUdlZQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "專員國家優先券 (CNPV) 試點計劃",
-      "summary": "(CNPV) 試點計畫 美國食藥局（FDA）.gov",
+      "title": "局長國家優先審查憑證（CNPV）試行計畫",
+      "summary": "美國食品藥物管理局（FDA）推出局長國家優先審查憑證（CNPV）試行計畫。",
       "source": "fda.gov",
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
@@ -363,11 +379,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 神經學綜述：2026 年 6 月",
-      "summary": "",
-      "source": "Medscape",
-      "date": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXNHRFFUd3hwYzZaSGVvVDYzUUpHTmhvZ1hMSEJFMGVhMlFuYTktbVN5ekNvYm1XZ0tDZkJzcU8ybzhNZmZOQnBMaE1janBTdWpvTEMzN0pzcWx5SWN3VFFfWUp6QnMzdXlZWWI4eHRLdlFIWDFqMTVrSURpTVF0WlRfc3J4c0tL?oc=5",
+      "title": "腫瘤異質性：發展、機制與治療意涵",
+      "summary": "探討腫瘤異質性的發展、作用機制及其對癌症治療的影響，刊登於《自然》期刊。",
+      "source": "Nature",
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xOHRwY3A2cEhNTmRLZnMzaVM2NVpabzI1ZUhjYXpOUzQzMVhNaFNETDZiSzg0b3JyTl9iVzV5Q0VkM1hrQ2w4MDBSVG1EdzFOSThfeFpta3pQYXB6Sk1J?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -384,14 +400,6 @@
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-01",
       "url": "https://clinicaltrials.gov/study/NCT07678229",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[第 3 期] 根據對 NHS 治療的初步反應及其整體健康水準為骨髓瘤患者提供個人化治療",
-      "summary": "狀態：招募中｜主辦：利茲大學｜iFIT 是一項針對新診斷的不適合移植的骨髓瘤患者的試驗。這些患者通常年齡較大，體能水準低於其他患者。如果醫生另有建議，患者可以參加",
-      "source": "ClinicalTrials.gov｜United Kingdom",
-      "date": "2026-07",
-      "url": "https://clinicaltrials.gov/study/NCT07649525",
       "lang": "zh-TW"
     }
   ]

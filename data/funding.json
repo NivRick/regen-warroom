@@ -1,18 +1,50 @@
 {
   "module": "funding",
-  "updated": "2026-07-29T12:58:20.820584+00:00",
+  "updated": "2026-07-29T23:55:21.335810+00:00",
   "items": [
     {
-      "title": "STAT+：準備迎接又一場Fauci聽證會",
-      "summary": "準備迎接又一場Fauci聽證會。",
+      "title": "NSF 測試新博士。為學員提供學術和產業經驗的模型",
+      "summary": "在有資格獲得 NSF 資助的領域工作的學生將能夠參與，包括化學、工程和不直接涉及疾病治療的基礎生命科學研究。",
+      "source": "STAT News",
+      "date": "2026-07-29",
+      "url": "https://www.statnews.com/2026/07/29/hybrid-academia-industry-phd-program-announced-uidp/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Capricor Duchenne 細胞療法被 美國食藥局（FDA） 小組投票否決",
+      "summary": "在一次可能對其他罕見疾病製藥商產生影響的有爭議的會議上，外部專家最終確定 Capricor 並未證明 deramiocel 對杜氏相關心肌病變的益處。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-29",
+      "url": "https://www.biopharmadive.com/news/capricor-fda-vote-deramiocel-duchenne-cardiomyopathy/826465/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Caldera 和 Vidya 加入了最近的生物技術併購熱潮",
+      "summary": "這些新創公司是一群擁有先進藥物前景並迅速轉向公開市場的年輕公司的一部分。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-29",
+      "url": "https://www.biopharmadive.com/news/caldera-vidya-public-biotech-reverse-merger-deal/826462/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "AbCellera 與 Vertex 合作開發下一代 T 細胞接合器",
+      "summary": "該交易增加了涉及新型 T 細胞參與者的不斷增長的合作夥伴關係，並為福泰 (Vertex) 提供了另一個擴大仍依賴囊性纖維化藥物的業務的機會。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-29",
+      "url": "https://www.biopharmadive.com/news/abcellera-vertex-partnership-next-gen-t-cell-engagers/826471/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：為另一場福奇聽證會做好準備",
+      "summary": "另外：民主黨在試管受精問題上與川普較量，川普的白宮發布了新的科學資助藍圖。",
       "source": "STAT News",
       "date": "2026-07-28",
       "url": "https://www.statnews.com/2026/07/28/anthony-fauci-rand-paul-hearing-democrats-ivf-proposal-dc-diagnosis/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Pharmalittle：我們正在關注美國食品藥物管理局（FDA）對杜興氏肌肉失養症藥物的看法、葛蘭素史",
-      "summary": "",
+      "title": "STAT+：Pharmalittle：我們正在閱讀 美國食藥局（FDA） 對 Duchenne 藥物的看法、GSK 成本節約等",
+      "summary": "美國食藥局（FDA） 表示 Capricor 幹細胞治療杜氏肌肉營養不良症未達到 3 期試驗的目標——與公司聲稱相反",
       "source": "STAT News",
       "date": "2026-07-28",
       "url": "https://www.statnews.com/pharmalot/2026/07/28/fda-duchenne-drug-gsk-cost-savings-plan/?utm_campaign=rss",
@@ -24,22 +56,6 @@
       "source": "BioPharma Dive",
       "date": "2026-07-28",
       "url": "https://www.biopharmadive.com/news/claris-series-b-limbal-stem-cell-deficiency/826263/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Argenx 將以 2.2B 美元收購 Forte，開發「差異化」免疫藥物",
-      "summary": "該交易為 Argenx 帶來了針對蛋白質標靶 CD122 的藥物前景，這種方法最近受到了多家開發商的關注。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-27",
-      "url": "https://www.biopharmadive.com/news/argenx-acquire-forte-biosciences-immune-drug-CD122/826221/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Sarepta 尋求扭虧為盈，任命前艾伯維 (AbbVie) 高管塞維裡諾 (Severino) 為首席執行官",
-      "summary": "最近，作為熱門新創公司 Tessera Therapeutics 的領導者，Severino 將尋求改善這家公司的命運，該公司面臨著新興的競爭和其珍貴的基因療法 Elevidys 的銷售額下降。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-27",
-      "url": "https://www.biopharmadive.com/news/sarepta-mike-severino-ceo-change-doug-ingram/826219/",
       "lang": "zh-TW"
     }
   ]

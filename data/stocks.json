@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T12:58:53.680166+00:00",
+  "updated": "2026-07-29T23:55:58.495523+00:00",
   "stocks": [
     {
       "code": "1784",
@@ -55,20 +55,20 @@
       "code": "6794",
       "name": "向榮生技",
       "tier": "上游",
-      "close": "76.30",
-      "change": "-1.20",
-      "change_pct": -1.55,
-      "date": "115/07/28",
+      "close": "75.30",
+      "change": "-1.00",
+      "change_pct": -1.31,
+      "date": "115/07/29",
       "market": "TWSE"
     },
     {
       "code": "6838",
       "name": "台新藥",
       "tier": "上游",
-      "close": "24.95",
-      "change": "+0.65",
-      "change_pct": 2.67,
-      "date": "115/07/28",
+      "close": "24.70",
+      "change": "-0.25",
+      "change_pct": -1.0,
+      "date": "115/07/29",
       "market": "TWSE"
     },
     {
@@ -165,10 +165,10 @@
       "code": "6949",
       "name": "沛爾生醫",
       "tier": "中游",
-      "close": "891.00",
-      "change": "-98.00",
-      "change_pct": -9.91,
-      "date": "115/07/28",
+      "close": "802.00",
+      "change": "-89.00",
+      "change_pct": -9.99,
+      "date": "115/07/29",
       "market": "TWSE"
     },
     {
@@ -195,10 +195,10 @@
       "code": "6550",
       "name": "北極星藥",
       "tier": "下游",
-      "close": "11.45",
-      "change": "-0.45",
-      "change_pct": -3.78,
-      "date": "115/07/28",
+      "close": "11.55",
+      "change": "+0.10",
+      "change_pct": 0.87,
+      "date": "115/07/29",
       "market": "TWSE"
     },
     {
