@@ -1,18 +1,34 @@
 {
   "module": "funding",
-  "updated": "2026-07-30T12:25:59.197578+00:00",
+  "updated": "2026-07-30T23:55:09.404581+00:00",
   "items": [
     {
-      "title": "慢性病患對新的醫療補助（Medicaid）工作規定及「醫療脆弱」豁免感到困惑",
-      "summary": "病患、倡議者和專家擔心，證明「醫療脆弱」豁免的困難度，將導致數百萬人失去醫療補助的保障。",
+      "title": "Chronically ill people face confusion over new Medicaid work rules and ‘medically frail’ exemption",
+      "summary": "病患、倡議者和專家擔心，難以記錄醫療補助工作要求的體弱豁免將導致數百萬人失去保險。",
       "source": "STAT News",
       "date": "2026-07-30",
       "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-medical-frailty-exemption-coverage-loss/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "美國國家科學基金",
-      "summary": "",
+      "title": "Alnylam 股價暴跌，盈利帶來“一兩拳”",
+      "summary": "由於投資者對其主要藥品業務的擔憂日益加劇，這家專注於 RNA 的生物技術公司市值縮水 30%，接近 120 億美元。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-30",
+      "url": "https://www.biopharmadive.com/news/alnylam-earnings-stock-amvuttra-onpattro-sales-pfizer-ionis/826654/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "強生 (J&J) 獲得以近 $2.6B 收購「體內實驗」CAR-T細胞療法 製造商 Sail 的選擇權",
+      "summary": "The deal with the buzzy Flagship Pioneering-backed startup makes J&J the latest large drugmaker to bet that the technology might be able to treat autoimmune conditions.",
+      "source": "BioPharma Dive",
+      "date": "2026-07-30",
+      "url": "https://www.biopharmadive.com/news/johnson-johnson-sail-option-acquire-in-vivo-car-t/826589/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "NSF 測試新博士。為學員提供學術和產業經驗的模型",
+      "summary": "在有資格獲得 NSF 資助的領域工作的學生將能夠參與，包括化學、工程和不直接涉及疾病治療的基礎生命科學研究。",
       "source": "STAT News",
       "date": "2026-07-29",
       "url": "https://www.statnews.com/2026/07/29/hybrid-academia-industry-phd-program-announced-uidp/?utm_campaign=rss",
@@ -44,10 +60,18 @@
     },
     {
       "title": "一家眼藥生技公司存有 1.18 億美元資金並儲備其高階主管套件",
-      "summary": "Claris Bio 任命資深執行長 Stephen Brady 領導其希望成為第一種治療角膜緣幹細胞缺乏症致盲疾病的藥物療法的高級開發。",
+      "summary": "ks 其高階主管套件 BioPharma Dive",
       "source": "BioPharma Dive",
       "date": "2026-07-28",
-      "url": "https://www.biopharmadive.com/news/claris-series-b-limbal-stem-cell-deficiency/826263/",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "「總有一個第一」：為何美國生技公司 Axiom 將在香港開啟 首次公開上市（IPO） 之旅",
+      "summary": "h Axiom 將在香港開始 首次公開上市（IPO） 之旅 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
       "lang": "zh-TW"
     }
   ]
