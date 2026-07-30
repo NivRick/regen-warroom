@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-07-29T23:55:04.229905+00:00",
+  "updated": "2026-07-30T12:25:42.876977+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-07-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製藥公司迫切需要 GLP-1 受體激動劑的製造技能",
-      "summary": "NIBRT 預測，基於 GLP-1 受體激動劑的糖尿病和肥胖藥物市場將增加對具有合成化學和生物技術技能的生物製藥工程師的需求。\n發布的製造技能首先出現在 G 上",
+      "title": "生技製藥業急需昇糖素樣胜肽-1受體促效劑（GLP-1 RA）製造人才",
+      "summary": "生技製藥業因昇糖素樣胜肽-1受體促效劑（GLP-1 RA）藥物市場擴大，對相關製造人才需求孔急。",
       "source": "GEN News",
       "date": "2026-07-29",
       "url": "https://www.genengnews.com/topics/bioprocessing/biopharma-hungry-for-glp-1-receptor-agonist-manufacturing-skills/",

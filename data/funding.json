@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-07-29T23:55:21.335810+00:00",
+  "updated": "2026-07-30T12:25:59.197578+00:00",
   "items": [
     {
-      "title": "NSF 測試新博士。為學員提供學術和產業經驗的模型",
-      "summary": "在有資格獲得 NSF 資助的領域工作的學生將能夠參與，包括化學、工程和不直接涉及疾病治療的基礎生命科學研究。",
+      "title": "慢性病患對新的醫療補助（Medicaid）工作規定及「醫療脆弱」豁免感到困惑",
+      "summary": "病患、倡議者和專家擔心，證明「醫療脆弱」豁免的困難度，將導致數百萬人失去醫療補助的保障。",
+      "source": "STAT News",
+      "date": "2026-07-30",
+      "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-medical-frailty-exemption-coverage-loss/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國國家科學基金",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-07-29",
       "url": "https://www.statnews.com/2026/07/29/hybrid-academia-industry-phd-program-announced-uidp/?utm_campaign=rss",
@@ -32,22 +40,6 @@
       "source": "BioPharma Dive",
       "date": "2026-07-29",
       "url": "https://www.biopharmadive.com/news/abcellera-vertex-partnership-next-gen-t-cell-engagers/826471/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：為另一場福奇聽證會做好準備",
-      "summary": "另外：民主黨在試管受精問題上與川普較量，川普的白宮發布了新的科學資助藍圖。",
-      "source": "STAT News",
-      "date": "2026-07-28",
-      "url": "https://www.statnews.com/2026/07/28/anthony-fauci-rand-paul-hearing-democrats-ivf-proposal-dc-diagnosis/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀 美國食藥局（FDA） 對 Duchenne 藥物的看法、GSK 成本節約等",
-      "summary": "美國食藥局（FDA） 表示 Capricor 幹細胞治療杜氏肌肉營養不良症未達到 3 期試驗的目標——與公司聲稱相反",
-      "source": "STAT News",
-      "date": "2026-07-28",
-      "url": "https://www.statnews.com/pharmalot/2026/07/28/fda-duchenne-drug-gsk-cost-savings-plan/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
