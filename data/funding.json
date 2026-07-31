@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-07-30T23:55:09.404581+00:00",
+  "updated": "2026-07-31T12:53:52.500174+00:00",
   "items": [
     {
-      "title": "Chronically ill people face confusion over new Medicaid work rules and ‘medically frail’ exemption",
-      "summary": "病患、倡議者和專家擔心，難以記錄醫療補助工作要求的體弱豁免將導致數百萬人失去保險。",
+      "title": "慢性病患對新的醫療補助（Medicaid）工作規定及「醫療脆弱」豁免感到困惑",
+      "summary": "病患、倡議者和專家擔心難以證明「醫療脆弱」狀態，恐導致數百萬人失去醫療補助。",
       "source": "STAT News",
       "date": "2026-07-30",
       "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-medical-frailty-exemption-coverage-loss/?utm_campaign=rss",
@@ -20,15 +20,15 @@
     },
     {
       "title": "強生 (J&J) 獲得以近 $2.6B 收購「體內實驗」CAR-T細胞療法 製造商 Sail 的選擇權",
-      "summary": "The deal with the buzzy Flagship Pioneering-backed startup makes J&J the latest large drugmaker to bet that the technology might be able to treat autoimmune conditions.",
+      "summary": "與這家熱鬧的旗艦先鋒公司支持的初創公司的交易使強生成為最新一家押注該技術可能能夠治療自身免疫性疾病的大型製藥商。",
       "source": "BioPharma Dive",
       "date": "2026-07-30",
       "url": "https://www.biopharmadive.com/news/johnson-johnson-sail-option-acquire-in-vivo-car-t/826589/",
       "lang": "zh-TW"
     },
     {
-      "title": "NSF 測試新博士。為學員提供學術和產業經驗的模型",
-      "summary": "在有資格獲得 NSF 資助的領域工作的學生將能夠參與，包括化學、工程和不直接涉及疾病治療的基礎生命科學研究。",
+      "title": "美國國家科學基金會（NSF",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-07-29",
       "url": "https://www.statnews.com/2026/07/29/hybrid-academia-industry-phd-program-announced-uidp/?utm_campaign=rss",
@@ -60,18 +60,10 @@
     },
     {
       "title": "一家眼藥生技公司存有 1.18 億美元資金並儲備其高階主管套件",
-      "summary": "ks 其高階主管套件 BioPharma Dive",
-      "source": "BioPharma Dive",
+      "summary": "ks 其行政套房 biopharmadive.com",
+      "source": "biopharmadive.com",
       "date": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "「總有一個第一」：為何美國生技公司 Axiom 將在香港開啟 首次公開上市（IPO） 之旅",
-      "summary": "h Axiom 將在香港開始 首次公開上市（IPO） 之旅 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
       "lang": "zh-TW"
     }
   ]

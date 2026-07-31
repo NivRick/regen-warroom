@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-07-30T23:54:48.620869+00:00",
+  "updated": "2026-07-31T12:53:36.125837+00:00",
   "items": [
     {
       "title": "生物製劑最新動態",
-      "summary": "來自美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-07-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -12,7 +12,7 @@
     },
     {
       "title": "生物製劑相關程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）供美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）人員執行業務時使用。",
+      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）人員執行業務時所遵循的規範。",
       "source": "FDA Biologics",
       "date": "2026-07-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -20,7 +20,7 @@
     },
     {
       "title": "2026年誘導型多功能幹細胞（iPSC）衍生細胞療法的研發管線",
-      "summary": "預覽2026年誘導型多功能幹細胞（iPSC）衍生細胞療法的發展趨勢與研發進度。",
+      "summary": "本報告深入分析至2026年，誘導型多功能幹細胞（iPSC）衍生細胞療法的研發進程與市場潛力。",
       "source": "BioInformant",
       "date": "2026-07-26",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
