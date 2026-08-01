@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-08-01T11:58:12.740085+00:00",
+  "updated": "2026-08-01T23:48:01.517428+00:00",
   "items": [
     {
-      "title": "活性PiggyBac轉座子的挖掘與工程化",
-      "summary": "PiggyBac是一種基因轉座子系統，在基因工程和細胞治療領域有廣泛應用潛力。",
+      "title": "活性PiggyBac轉座子系統的挖掘與工程化",
+      "summary": "探討PiggyBac轉座子系統的挖掘與工程化，及其在基因編輯和生物醫學研究上的應用潛力。",
       "source": "PubMed",
       "date": "2026-08-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42529264/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL（特定新抗原胜肽-腫瘤浸潤淋巴細胞）療法平台的臨床",
+      "title": "個人化SNAP™-TIL（特定新抗原胜肽-腫瘤浸潤",
       "summary": "",
       "source": "PubMed",
       "date": "2026-08-01",
@@ -67,23 +67,23 @@
       "lang": "zh-TW"
     },
     {
-      "title": "嵌合抗原受體T細胞療法（CAR-T）治療急性淋巴性白血病（ALL）的研究趨勢與熱點：文獻計量分析",
-      "summary": "本研究旨在透過文獻計量分析，探討全球嵌合抗原受體T細胞療法（CAR-T）治療急性淋巴性白血病（ALL）的研究模式與新興趨勢。",
+      "title": "嵌合抗原受體T細胞療法（CAR-T）治療急性淋巴性白血病之研究趨勢與熱點：文獻計量分析",
+      "summary": "本研究旨在透過文獻計量分析，探討全球在嵌合抗原受體T細胞療法（CAR-T）治療急性淋",
       "source": "PubMed",
       "date": "2026-08-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42473738/",
       "lang": "zh-TW"
     },
     {
-      "title": "人工智慧對異種器官",
-      "summary": "",
+      "title": "人工智慧對異種移植和再生醫學對結束器官短缺的影響。",
+      "summary": "本篇綜述的目的是總結過去 2 年中最具影響力和概念上最重要的出版物，包括 2026 年的大量出版物，並確定可能在不久的將來塑造異種移植和再生醫學的新興方向。進展...",
       "source": "PubMed",
       "date": "2026-08-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472700/",
       "lang": "zh-TW"
     },
     {
-      "title": "類器官負荷的核殼冷凍微針誘導仿生毛囊單位和毛髮再生。",
+      "title": "裝載類器官的核殼冷凍微針誘導仿生毛囊單位和毛髮再生。",
       "summary": "組織工程毛囊再生為增加毛囊數量提供了一種有前途的方法，但它面臨挑戰，例如毛髮難以穿過皮膚生長以及可能出現聚集和無序生長。實現單根或雙根毛髮的仿生再生...",
       "source": "PubMed",
       "date": "2026-08-01",
@@ -131,15 +131,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "利用拉曼光譜精準偵測與高解析度定位植入組織的海藻酸水凝膠",
-      "summary": "海藻酸水凝膠在多種生醫應用上潛力巨大，例如作為組織工程支架及細胞治療載體。",
+      "title": "利用拉曼光譜精準偵測與高解析度定位組織中植入的藻酸鹽水凝膠",
+      "summary": "藻酸鹽水凝膠在多種生醫應用中極具價值，例如作為組織工程的支架，以及細胞治療的載體。",
       "source": "PubMed",
       "date": "2026-08-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42470815/",
       "lang": "zh-TW"
     },
     {
-      "title": "整合霍夫邁斯特處理聚乙烯",
+      "title": "一種新型",
       "summary": "",
       "source": "PubMed",
       "date": "2026-08-01",
@@ -147,8 +147,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "雙交聯殼聚醣奈米纖維 - 平衡機械增強與細胞毒性風險。",
-      "summary": "本研究評估了雙交聯策略對用於組織重建的殼聚醣-降冰片烯 (Chi-NB​​) 奈米纖維的機械性能和生物相容性的影響。 Chi-NB​​ 含有 28.6 ± 1.4 mol% 烯烴基團，透過溶液吹紡紡絲加工成奈米纖維。雙十字...",
+      "title": "Dual-crosslinked chitosan nanofibres - Balancing mechanical enhancement with cytotoxic risk.",
+      "summary": "本研究评估了双交联策略对用于组织重建的壳聚糖-降冰片烯 (Chi-NB​​) 纳米纤维的机械性能和生物相容性的影响。 Chi-NB​​ 含有 28.6 ± 1.4 mol% 烯烴基團，透過溶液吹紡紡絲加工成奈米纖維。雙十字...",
       "source": "PubMed",
       "date": "2026-08-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42430998/",
@@ -227,8 +227,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第二期] L19IL2/TNF 用於基底細胞癌患者",
-      "summary": "狀態：招募中｜主辦：Philogen S.p.A.｜這是一項針對局部晚期基底細胞癌（BCC）患者的開放標籤、單臂、多中心研究，評估適合瘤內",
+      "title": "[二期臨床] L19IL2/TNF用於基底細胞癌患者",
+      "summary": "狀態：收案中｜主辦單位：Philogen S.p.A.｜這是一項針對局部晚期基底細胞癌（BCC）患者的開放標籤、單臂、多中心研究，評估",
       "source": "ClinicalTrials.gov｜Greece, Germany, Italy",
       "date": "2026-08-01",
       "url": "https://clinicaltrials.gov/study/NCT07227870",
@@ -268,22 +268,30 @@
     },
     {
       "title": "[第二階段] Nemtabrutinib 和 Venetoclax 用於治療慢性淋巴球白血病或小淋巴球淋巴瘤患者",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Jennifer Woyach｜這項 II 期試驗測試 nemtabrutinib 和 Venetoclax 在治療慢性淋巴細胞白血病 (CLL) 或小淋巴細胞淋巴瘤 (SLL) 患者方面的效果。 Nemtabrutinib 屬於一類稱為激酶抑制劑的藥物。它阻止了一個公關",
+      "summary": "状态：NOT_YET_RECRUITING｜主办：Jennifer Woyach｜这项 II 期试验测试 nemtabrutinib 和 Venetoclax 在治疗慢性淋巴细胞白血病 (CLL) 或小淋巴细胞淋巴瘤 (SLL) 患者方面的效果。 Nemtabrutinib 屬於一類稱為激酶抑制劑的藥物。它阻止了一個公關",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-08-01",
       "url": "https://clinicaltrials.gov/study/NCT07557056",
       "lang": "zh-TW"
     },
     {
-      "title": "第二期臨床試驗：SKB264合併SKB118治療非小細胞肺癌",
-      "summary": "這項由四川科倫博泰生物醫藥有限公司主辦的第二期臨床試驗，將以開放標籤、多中心方式，評估SKB264合併SKB118治療非",
+      "title": "美國食藥局（FDA） AdComm 投票反對推薦 Deramiocel 批准，Tazbentetol 在 AD 中顯示出持久的認知益處，Salanersen 的 美國食藥局（FDA） 突破性指定的含義",
+      "summary": "ramiocel 獲批，Tazbentetol 對 AD 具有持久的認知益處，Salanersen 獲得 美國食藥局（FDA） 突破性認定意味著 NeurologyLive",
+      "source": "NeurologyLive",
+      "date": "2026-08-01",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZjRrTEViY0MtckM3VXFocDROT2FqeERrVTcyZUdjSW9KN09NWndhWVJqRm5nSnkxdEVrZ3R0QUVnR1NkVTAzeDhYbm95SC1hUUt2RlVYRDZqZ05JRl9XQ2g3OTJYVFRiM1NrZ2tjRlE5dHVrSVFJS29NV0pHTkVWQmtnM0lRb3NrS2RyWXJKWGdpUGlQZUtYbXY5c2RtV2dUUngwMkF0b2hLY2Z1M0VRSjFkOFlhYlhYb0FXcTYyZmFFcXFmbFFuRjFHc01uX2FHaGV5NGVSdkducUlQLXJfMHEtSlBRMUlyY0ZiYlJsaFNXeUZXNEktNDIzNlltY2Z5TXRjX0MyY3ZQdTFQYnBnNWVZeDJmdw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[二期臨床] SKB264合併SKB118治療非小細胞肺癌",
+      "summary": "狀態：尚未招募｜主辦：四川科倫博泰生物醫藥有限公司｜這是一項開放標籤、多中心、二期臨床試驗，旨在評估其療效與安全性。",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-08",
       "url": "https://clinicaltrials.gov/study/NCT07697586",
       "lang": "zh-TW"
     },
     {
-      "title": "[第 1 期、第 2 期] Hepzato 試劑盒和 Opdualag 用於治療轉移性黑色素瘤和肝轉移",
+      "title": "[PHASE1、PHASE2] Hepzato 試劑盒和 Opdualag 用於治療轉移性黑色素瘤和肝轉移",
       "summary": "狀態：招募｜主辦：威斯康辛大學麥迪遜分校｜這項研究的目的是觀察將 HEPZATO KIT™ 與 nivolumab 和 relatlimab (Opdualag™) 聯合治療患有肝轉移的轉移性黑色素瘤患者是否安全、可耐受，並且是否會產生協同效應，從而改善臨床結果",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-08",
@@ -291,8 +299,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026",
-      "summary": "",
+      "title": "2026 年 7 月血液學：推動病患照護並提出挑戰的 15 項發展",
+      "summary": "先進且充滿挑戰的病患照護藥局時代",
       "source": "Pharmacy Times",
       "date": "2026-07-31",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZzJXNjBrT0tNSzJxLXRUaGFPazdQLXRFeDZJbm5LX1czVmRqVTdfelhOVTdySkZMZmJZNjl0QWd0SHVxQVk1dG5KOWd3UXFJOG1rcF8ydUpSVWV5WTNJNllZZk55QllTanUxZ2Y2WTJjdEI5RDFJNnhCLXV4bU44TVZYcWxNTkZWZDA4cmdIbElkR0xIVTFVYzZsNEFMbUl2YzF3SnYxd0hQdk40ZVlEeE5HaktlUVE?oc=5",
@@ -307,25 +315,17 @@
       "lang": "zh-TW"
     },
     {
-      "title": "FibroBiologics 開始對糖尿病足潰瘍進行人體測試",
-      "summary": "糖尿病足潰瘍庫存泰坦",
-      "source": "Stock Titan",
-      "date": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDZrVURzNC12TjVsUF84ZmdNS3dDQ2prdkZRTFlxWlhZUHNyN21aWHEwUG8zRkNFVURtMy1EZ0RaOHJlSzVIOEhNbTNMRnJIV1pNSFBST01PSFUtcXJUWDQ2R1VpZzhMSzVtOWs2cW9kWkFONU9fSVgtd1drZVBQbG4yeWFmSmxISUxKUEZGSTNpWjF4VFBWem5aT01BTS1hZjNHVEU5OHFmd280cHNieUp0Zjdfblk?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "三期臨床試驗顯示，試驗中的細胞療法能延緩裘馨氏肌肉失養症的疾病惡化",
-      "summary": "一項試驗中的細胞療法在三期臨床試驗中，成功延緩了裘馨氏肌肉失養症的疾病惡化。",
+      "title": "第三期臨床試驗顯示，試驗性細胞療法能減緩裘馨氏肌肉失養症的疾病惡化",
+      "summary": "UC Davis Health的第三期臨床試驗顯示，細胞療法成功減緩裘馨氏肌肉失養症（DMD）惡化。",
       "source": "UC Davis Health",
       "date": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ3hSVlJCRXhLdjhMcDh4Sml5TXBORnhfOHJ0ZHBwb25ZOWphVkFCS2lCQWhucEFzVlVMV3RVN2FzazB6R21mNG56Q1FjamtiazdYeFo0bTJrYVROd1VOamVzV3ZYUTNTa2RTcmkyMzhxSjRycFBzNlc3eDJxLWhnVUFIX1NKc2w0U0VoTXp1MkFsSWpISUNHclpRNE5aX1Z0bDhZbzRHVE4yU0hBME9uTkJmb2ZVd2loMTRlOF9VYkoxa2VoUHBIZWxZRFpSRXVNUEhnWTlXMmlXbFVMM0tkUlFKVmJmYk00SkR2bw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "DMD 細胞療法在 III 期試驗中延遲疾病進展",
-      "summary": "ion 在精準醫學內的 III 期試驗中",
-      "source": "Inside Precision Medicine",
+      "title": "裘馨氏",
+      "summary": "",
+      "source": "insideprecisionmedicine.com",
       "date": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbS13czRROTJmMWlqX05EaXZnZGp3eXQ4cVYyTkIxVWxkeWVRMTV5MmQ4SEFoelczZERSbjRVeUNqa3VQMmFRQmhHSmlxUEE3VXlFcEVoZ3l2SkxvQ0RVNlhRVzlLcHBMR3ZJVTlHOU0xc0hnTzFzTTByNm1vTlhqU29HT2N0bnpheG9ZMU5OQ3ZGeFNLZ2dXSjRJY1N4d2Jaei13aVg4SWFoQnU5eTlPTldyLWhTUUktTC1laTBGN1NWdHhHZEF2bA?oc=5",
       "lang": "zh-TW"
@@ -339,7 +339,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第2階段]低劑量胸部放射治療，隨後阿德博利單抗加上化療，然後以阿德博利單抗序貫維持治療廣泛期小細胞肺癌",
+      "title": "新的治療標靶擴大了多發性骨髓瘤的選擇",
+      "summary": "或多發性骨髓瘤 Penn Medicine",
+      "source": "Penn Medicine",
+      "date": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQnA4YUU5UHhvUUd3ZHlURUtMeVVjbG1iRnNGMnhPbGhpcmN1c1c0dFIwUlE4QkhRUG5NaTVBbjFqOE9Odm9ocTdqZ01XYUJqQVdaTUk5b2FmdlZLUXpsdnpla054MDhQN3FpNkQ4ZF9NWVhEc0hUNkNuellYREhUMUNrWGVRTFNXRmZRZDYwSV91M1NtbVR1Zg?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[第2期]低劑量胸部放療，隨後阿德博利單抗加化療，然後用阿德博利單抗序貫維持治療廣泛期小細胞肺癌",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：江門市中心醫院｜本研究是一項多中心、前瞻性研究，旨在評估低劑量放射治療（15Gy/1.5 Gy bid × 10 次）聯合 4-6 個週期的全身化療，同時採用 Adebrelimab，隨後採用 A",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-21",
@@ -356,22 +364,22 @@
     },
     {
       "title": "[第一階段] KSVCBD 注射液治療表達 CD19 和/或 BCMA 的 B 細胞非何杰金氏淋巴瘤的安全性和有效性",
-      "summary": "狀態：招募中｜主辦：中國人民解放軍總醫院｜KSVCBD注射液是一種體內嵌合抗原受體T細胞（CAR-T細胞）治療產品。這項多中心、單臂、開放標籤、早期探索性臨床研究旨在評估 KSVCBD 注射液的初步安全性和有效性。",
+      "summary": "狀態：招募中｜主辦：中國人民解放軍總醫院｜KSVCBD注射液是一種體內嵌合抗原受體T細胞（CAR-T細胞）治療產品。这项多中心、单臂、开放标签、早期探索性临床研究旨在评估 KSVCBD 注射液的初步安全性和有效性。",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-16",
       "url": "https://clinicaltrials.gov/study/NCT07620314",
       "lang": "zh-TW"
     },
     {
-      "title": "腫瘤異質性：發展、機制與治療意義",
-      "summary": "主義與治療意義 自然",
+      "title": "腫瘤異質性：發展、機制與治療應用",
+      "summary": "深入探討腫瘤異質性的發展、機制及其對治療策略的影響。",
       "source": "Nature",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xOHRwY3A2cEhNTmRLZnMzaVM2NVpabzI1ZUhjYXpOUzQzMVhNaFNETDZiSzg0b3JyTl9iVzV5Q0VkM1hrQ2w4MDBSVG1EdzFOSThfeFpta3pQYXB6Sk1J?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "[N/A] 頭孢他啶-阿維巴坦在血液學患者的 PK/PD 和抗藥性",
+      "title": "[N/A] Ceftazidime-Avibactam PK/PD and Resistance in Hematology Patients",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：馮思洲｜這是一項前瞻性、單臂、觀察性、探索性臨床研究，旨在評估頭孢他啶-阿維巴坦標準固定劑量（CAZ-AVI）是否在患者中達到足夠的藥物暴露（藥物動力學/藥效學或 PK/PD 目標）",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-09",
@@ -379,7 +387,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1, PHASE2] 幹細胞 for Erectile Dysfunction Post RALP",
+      "title": "[PHASE1, PHASE2] RALP 後勃起功能障礙的幹細胞",
       "summary": "狀態：招募中｜主辦單位：衛理公會醫院研究所｜這是一項 1/2 期單中心試驗研究，旨在評估同種異體脂肪源性間質幹細胞 (HB-adMSC) 的安全性和有效性，並評估積極治療與安慰劑相比在促進康復方面的時機和組合效果",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-07-07",
