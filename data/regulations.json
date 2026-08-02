@@ -1,51 +1,51 @@
 {
   "module": "regulation",
-  "updated": "2026-08-02T11:56:20.416237+00:00",
+  "updated": "2026-08-02T23:51:11.038073+00:00",
   "items": [
     {
-      "title": "Alphanate",
-      "summary": "此產品核准資訊適用於：控制與預防A型血友病患者或後天性第八凝血因子（FVIII）缺乏症患者的出血。",
+      "title": "阿爾法納特",
+      "summary": "產品核准資訊用於：\n•控制及預防 A 型血友病或後天因子 VIII (FVIII) 缺乏症患者的出血 (1.1)\n•血管性血友病成人和兒童病患的外科和/或侵入性手術",
       "source": "FDA Biologics",
       "date": "2026-07-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/alphanate",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-07-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "藥品（含生物製劑）的開發與製造",
-      "summary": "這份資料旨在提供一份實用的參考資源，彙整了藥品製造商針對美國市場生產產品所需的重要資訊。",
+      "title": "開發和製造包括生物製品在內的藥物",
+      "summary": "該材料旨在成為有用的資源，整合與為美國市場生產產品的藥品製造商相關的資訊。它不是所有適用的法律和監管要求的完整清單。",
       "source": "FDA Biologics",
       "date": "2026-07-31",
       "url": "http://www.fda.gov/drugs/coronavirus-covid-19-drugs/developing-and-manufacturing-drugs-including-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "K他命引發性別差異的大腦恢復反應",
-      "summary": "一項小鼠研究顯示，大腦中的小膠質免疫細胞在K他命麻醉後的大腦恢復過程中扮演關鍵角色。",
+      "title": "氯胺酮觸發特定性別的大腦恢復反應",
+      "summary": "一項針對小鼠的研究表明，大腦中的小膠質細胞免疫細胞在大腦從氯胺酮麻醉中恢復的過程中發揮關鍵作用，並表明女性和男性大腦之間存在差異。\n该帖子overy Responses ap",
       "source": "GEN News",
       "date": "2026-07-31",
       "url": "https://www.genengnews.com/topics/translational-medicine/ketamine-triggers-sex-specific-brain-recovery-responses/",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）供美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）的員工執行業務時使用。",
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-07-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "2026年誘導性多功能幹細胞（iPSC）衍生細胞療法的發展藍圖",
-      "summary": "探討2026年誘導性多功能幹細胞（iPSC）衍生細胞療法的研發進程與市場潛力。",
-      "source": "BioInformant",
+      "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
+      "summary": "peutics in 2026 bioinformant.com",
+      "source": "bioinformant.com",
       "date": "2026-07-26",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
       "lang": "zh-TW"
@@ -56,6 +56,14 @@
       "source": "風傳媒",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
+    },
+    {
+      "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程",
+      "summary": "GMP 級 IL-15 的穩定性確認，確保可靠的品質並加強生物製藥審批流程 巴士的報",
+      "source": "巴士的報",
+      "date": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQVld2dklyRjZuQ1AwZFlUSVBuSzExVWN0N1k1MU5HUWJsY2dZZ1NzTEI5N1UxelMtQnN1RFVZTGVmX1hrbHpFcWZrMEhNRzQtbkh5Xzdxb0hjMGU5cFAyM3hXWHhGRVp5T0ZLMVd0UFdISjFlVjN6WHNDejNMUVVzQUNMNlVCU3RDU2lfTUVQNVZSSFhBanB6RndEQmlqLUIxaGJpbDBCc2NaQjBTQWRHaW9xM20xTDZ1WG54a1I3bHRDcW9DVXVDVlo5LUswT2V0ZXBjQ3JXWmZwZ1VIVDVPMnpFU0tPVklXV2JMTDFHazA3clY5bXVLUWdILXltYklOUVE1VWNwQTBndTZjNEJzN1FEcXkwZlRpLXN2OV9UOGFJTGFPR3cyZDRGSmhxak44VUY4N0hHUVZPcVQx?oc=5",
+      "lang": "zh-TW"
     }
   ]
 }

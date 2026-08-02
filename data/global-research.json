@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-08-02T11:55:53.791760+00:00",
+  "updated": "2026-08-02T23:50:31.375908+00:00",
   "items": [
     {
-      "title": "主動式PiggyBac轉座子系統的開發與工程化",
-      "summary": "探討PiggyBac轉座子系統的開發與改造，其在基因療法與細胞工程領域具潛力。",
+      "title": "挖掘與工程化活性PiggyBac轉座子系統",
+      "summary": "本研究探討PiggyBac轉座子系統的開發與應用，這是一種在基因工程領域極具潛力的工具，可用於高效的基因轉移與細胞改造。",
       "source": "PubMed",
       "date": "2026-08-02",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42529264/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL（特定新抗原胜肽-腫瘤浸潤淋巴",
+      "title": "個人化SNAP™-TIL（",
       "summary": "",
       "source": "PubMed",
       "date": "2026-08-02",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "氣體分子及其相關因子在膝關節軟骨損傷與修復中的角色：文獻計量視覺化分析研究熱點",
-      "summary": "本研究透過文獻計量分析，探討氣體分子在膝關節軟骨損傷與修復中的角色，並找出相關研究熱點。",
+      "title": "氣體分子與相關因子在膝關節軟骨損傷及修復中的角色：研究熱點的文獻計量視覺化分析",
+      "summary": "膝關節軟骨損傷後，其自我修復能力有限，本研究透過文獻計量分析，探討氣體分子與相關因子在其中的角色與",
       "source": "PubMed",
       "date": "2026-08-02",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42493773/",
@@ -99,7 +99,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "用於組織再生中幹細胞及其衍生物的基於注射微球的遞送策略。",
+      "title": "Injectable microsphere-based delivery strategies for 幹細胞 and their derivatives in tissue regeneration.",
       "summary": "組織和器官損傷、退化和功能喪失是日益嚴重的全球健康挑戰，人口老化和當前臨床幹預措施的局限性加劇了這一挑戰。再生醫學透過提供...來恢復組織功能，提供了一個有前途的替代方案。",
       "source": "PubMed",
       "date": "2026-08-02",
@@ -131,16 +131,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "利用拉曼光譜精準偵測與高解析度定位植入組織的海藻酸水凝膠",
-      "summary": "海藻酸水凝膠在生醫應用上潛力巨大，可作為組織工程支架及細胞治療載體。",
+      "title": "運用拉曼光譜，精準偵測並高解析度定位組織內的植入性海藻酸水凝膠",
+      "summary": "海藻酸水凝膠在生醫領域應用潛力巨大，不論是作為組織工程的支架，還是細胞治療的載體，都扮演關鍵角色。",
       "source": "PubMed",
       "date": "2026-08-02",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42470815/",
       "lang": "zh-TW"
     },
     {
-      "title": "新型雙層骨軟骨支架：結合經",
-      "summary": "",
+      "title": "一種新型雙層骨軟骨支架，將 Hofmeister 處理的 PVA 基水凝膠與膠原蛋白塗層 PCL 微球結合。",
+      "summary": "骨軟骨組織工程前景廣闊，但也充滿挑戰，因為有效的支架必須呈現與異質骨軟骨組織相符的梯度特性，同時為植入後負荷提供足夠的機械支撐。在这里，一种新型的双层支架是根据...",
       "source": "PubMed",
       "date": "2026-08-02",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42456236/",
@@ -219,8 +219,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "L19IL2/TNF用於基底細胞癌患者的二期臨床試驗",
-      "summary": "狀態：正在收案｜主辦單位：Philogen S.p.A.｜這是一項針對局部晚期基底細胞癌患者的開放標籤、單臂、多中心研究，評估瘤內注射藥物的",
+      "title": "[二期臨床] L19IL2/TNF用於基底細胞癌患者",
+      "summary": "狀態：收案中｜主辦：Philogen S.p.A.｜這是一項針對局部晚期基底細胞癌（BCC）患者的開放標籤、單臂、多中心研究，評估可進行瘤",
       "source": "ClinicalTrials.gov｜Italy, Spain, United States",
       "date": "2026-08-02",
       "url": "https://clinicaltrials.gov/study/NCT07227870",
@@ -235,7 +235,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第一階段] CD30 CAR-T細胞療法 細胞治療低風險復發性經典霍奇金淋巴瘤",
+      "title": "[PHASE1] CD30 CAR-T細胞療法 Cells for Low Risk Relapsed Classical Hodgkin Lymphoma",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：紐約醫學院｜復發性低危險CD30經典何杰金氏淋巴瘤患者將獲得自體CD30 CAR T細胞製造。劑量遞增將用於確定 RP2D。淋巴球清除後，將輸注 CAR-T細胞療法 細胞。",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-02",
@@ -283,8 +283,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[二期臨床] SKB264合併SKB118治療非小細胞肺癌",
-      "summary": "四川科倫博泰生物醫藥公司主辦，這項開放標籤、多中心二期臨床試驗，旨在評估SKB264合併SKB118治療非小細胞肺癌的",
+      "title": "[PHASE2] SKB264合併SKB118治療非小細胞肺癌",
+      "summary": "這項由四川科倫博泰生物醫藥主辦的二期開放標籤、多中心臨床試驗，將評估SKB264合併SKB118治療非小細胞肺癌",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-08",
       "url": "https://clinicaltrials.gov/study/NCT07697586",
@@ -315,8 +315,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第三期臨床試驗顯示，試驗中的細胞療法能減緩杜馨氏肌肉失養症的疾病惡化",
-      "summary": "根據加州大學戴維斯分校健康中心（UC Davis Health）報導，此療法減緩了杜馨氏肌肉失養症的疾病惡化。",
+      "title": "第三期臨床試驗顯示，試驗中的細胞療法能減緩杜興氏肌肉失養症的疾病惡化。",
+      "summary": "加州大學戴維斯分校健康中心指出，一項細胞療法在杜興氏肌肉失養症（DMD）患者中，成功減緩了疾病惡化。",
       "source": "UC Davis Health",
       "date": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ3hSVlJCRXhLdjhMcDh4Sml5TXBORnhfOHJ0ZHBwb25ZOWphVkFCS2lCQWhucEFzVlVMV3RVN2FzazB6R21mNG56Q1FjamtiazdYeFo0bTJrYVROd1VOamVzV3ZYUTNTa2RTcmkyMzhxSjRycFBzNlc3eDJxLWhnVUFIX1NKc2w0U0VoTXp1MkFsSWpISUNHclpRNE5aX1Z0bDhZbzRHVE4yU0hBME9uTkJmb2ZVd2loMTRlOF9VYkoxa2VoUHBIZWxZRFpSRXVNUEhnWTlXMmlXbFVMM0tkUlFKVmJmYk00SkR2bw?oc=5",
@@ -347,7 +347,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第2期]低劑量胸部放療，隨後阿德博利單抗加化療，然後用阿德博利單抗序貫維持治療廣泛期小細胞肺癌",
+      "title": "[第2階段]低劑量胸部放射治療，隨後阿德博利單抗加上化療，然後以阿德博利單抗序貫維持治療廣泛期小細胞肺癌",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：江門市中心醫院｜本研究是一項多中心、前瞻性研究，旨在評估低劑量放射治療（15Gy/1.5 Gy bid × 10 次）聯合 4-6 個週期的全身化療，同時採用 Adebrelimab，隨後採用 A",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-21",
@@ -356,7 +356,7 @@
     },
     {
       "title": "專員國家優先券 (CNPV) 試點計劃",
-      "summary": "(CNPV) 試點計畫 美國食藥局（FDA）.gov",
+      "summary": "(CNPV) Pilot Program 美國食藥局（FDA）.gov",
       "source": "fda.gov",
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
@@ -371,8 +371,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "腫瘤異質性：發展、機制與治療策略",
-      "summary": "深入解析腫瘤異質性的發展、機制，並探討其對癌症治療策略的關鍵影響。",
+      "title": "Tumor heterogeneity: development, mechanisms, and therapeutic implications",
+      "summary": "isms, and therapeutic implications Nature",
       "source": "Nature",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xOHRwY3A2cEhNTmRLZnMzaVM2NVpabzI1ZUhjYXpOUzQzMVhNaFNETDZiSzg0b3JyTl9iVzV5Q0VkM1hrQ2w4MDBSVG1EdzFOSThfeFpta3pQYXB6Sk1J?oc=5",
