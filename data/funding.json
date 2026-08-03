@@ -1,21 +1,37 @@
 {
   "module": "funding",
-  "updated": "2026-08-02T23:51:34.424337+00:00",
+  "updated": "2026-08-03T13:37:03.294460+00:00",
   "items": [
     {
-      "title": "賽諾菲（Sanofi）將與再生元（Regeneron）「重建信任」；Apnimed 加入生技公司「擴大」首次公開募股（IPO）行列",
-      "summary": "賽諾菲執行長表示",
-      "source": "BioPharma Dive",
-      "date": "2026-07-31",
-      "url": "https://www.biopharmadive.com/news/sanofi-bristol-myers-apnimed-relation-therapeutics/826559/",
+      "title": "STAT+：藥廠超級大合併案是否正在醞釀中？",
+      "summary": "Moderna疫苗即將獲得美國FDA核准，TCGX成立4億美元亞洲生技基金，以及更多生技新聞。",
+      "source": "STAT News",
+      "date": "2026-08-03",
+      "url": "https://www.statnews.com/2026/08/03/biotech-news-is-there-a-pharma-mega-merger-coming-astrazeneca-bms/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "慢性病患對新的醫療補助工作規定和「醫療脆弱」豁免感到困惑",
-      "summary": "病患、倡議者和專家擔心，難以證明符合醫療補助工作要求的「醫療脆弱」豁免，將導致數百萬人失去醫療保險。",
+      "title": "STAT+：Pharmalittle：我們正在關注阿斯特捷利康與必",
+      "summary": "",
       "source": "STAT News",
-      "date": "2026-07-30",
-      "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-medical-frailty-exemption-coverage-loss/?utm_campaign=rss",
+      "date": "2026-08-03",
+      "url": "https://www.statnews.com/pharmalot/2026/08/03/astrazeneca-bristol-merger-talks-340b-rebate-plan-revised/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：山德士將支付 4.785 億美元以和解與各州長期鬥爭中的價格操縱指控",
+      "summary": "山德士同意支付 4.785 億美元，以了結有關該公司參與陰謀人為抬高和操縱價格的指控。",
+      "source": "STAT News",
+      "date": "2026-08-03",
+      "url": "https://www.statnews.com/pharmalot/2026/08/03/sandoz-to-settle-price-fixing-allegations/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "賽諾菲與再生元「重建信任」； Apnimed 加入一系列「大規模」生物技術 首次公開上市（IPO） 行列",
+      "summary": "賽諾菲執行長表示，希望擴大公司與再生元的富有成效的合作夥伴關係。在其他地方，百時美施貴寶推遲了兩項預期的研究結果，鹽野義支持的一家新創公司上市。",
+      "source": "BioPharma Dive",
+      "date": "2026-07-31",
+      "url": "https://www.biopharmadive.com/news/sanofi-bristol-myers-apnimed-relation-therapeutics/826559/",
       "lang": "zh-TW"
     },
     {
@@ -40,22 +56,6 @@
       "source": "BioPharma Dive",
       "date": "2026-07-29",
       "url": "https://www.biopharmadive.com/news/capricor-fda-vote-deramiocel-duchenne-cardiomyopathy/826465/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Caldera 和 Vidya 加入了最近的生物技術併購熱潮",
-      "summary": "這些新創公司是一群擁有先進藥物前景並迅速轉向公開市場的年輕公司的一部分。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-29",
-      "url": "https://www.biopharmadive.com/news/caldera-vidya-public-biotech-reverse-merger-deal/826462/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "AbCellera 與 Vertex 合作開發下一代 T 細胞接合器",
-      "summary": "該交易增加了涉及新型 T 細胞參與者的不斷增長的合作夥伴關係，並為福泰 (Vertex) 提供了另一個擴大仍依賴囊性纖維化藥物的業務的機會。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-29",
-      "url": "https://www.biopharmadive.com/news/abcellera-vertex-partnership-next-gen-t-cell-engagers/826471/",
       "lang": "zh-TW"
     },
     {
