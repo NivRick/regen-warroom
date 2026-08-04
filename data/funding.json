@@ -1,18 +1,34 @@
 {
   "module": "funding",
-  "updated": "2026-08-04T12:56:24.334868+00:00",
+  "updated": "2026-08-04T23:55:04.764066+00:00",
   "items": [
     {
-      "title": "川普政府力推法院強制精神醫療，新報告引發質疑",
-      "summary": "一份針對紐約州法院強制精神疾病照護的研究，為這類非自願性醫療增添了更多討論。",
+      "title": "STAT+：隨著川普政府推動法院下令的精神衛生保健，一份新報告提出了問題",
+      "summary": "一項關於紐約法院下令對患有嚴重心理健康問題的人進行護理的研究補充了對此類非自願護理的研究。",
       "source": "STAT News",
       "date": "2026-08-04",
       "url": "https://www.statnews.com/2026/08/04/new-report-questions-new-york-program-court-ordered-mental-healthcare/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "藥廠界超級大併購案要來了嗎？",
-      "summary": "",
+      "title": "輝瑞擴大數十億美元的成本削減計劃",
+      "summary": "這項重組始於三年前，目前預計將帶來 10 億美元的新成本削減，並透過簡化藥品生產為輝瑞再節省 15 億美元。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-04",
+      "url": "https://www.biopharmadive.com/news/pfizer-cost-cuts-savings-2q-2026-earnings/826930/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "強生製藥領導人退休；克里斯塔爾因基因治療失誤而暴跌",
+      "summary": "珍妮佛陶伯特 (Jennifer Taubert) 在長期領導強生製藥業務後將辭職。在其他地方，定價問題阻礙了華爾街分析師認為原本強勁的基因療法的推出。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-04",
+      "url": "https://www.biopharmadive.com/news/johnson-taubert-krystal-vyjuvek-merck-prometheus-pathos-pluvicto/826859/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：是否正在醞釀一場製藥大廠合併？",
+      "summary": "Moderna 即將做出 美國食藥局（FDA） 疫苗決定、TCGX 推出 4 億美元亞洲生物技術基金以及更多生物技術新聞",
       "source": "STAT News",
       "date": "2026-08-03",
       "url": "https://www.statnews.com/2026/08/03/biotech-news-is-there-a-pharma-mega-merger-coming-astrazeneca-bms/?utm_campaign=rss",
@@ -51,14 +67,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Alnylam 暴跌，盈利帶來“一兩拳”",
-      "summary": "由於投資者對其主要藥品業務的擔憂日益加劇，這家專注於 RNA 的生物技術公司市值縮水 30%，接近 120 億美元。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-30",
-      "url": "https://www.biopharmadive.com/news/alnylam-earnings-stock-amvuttra-onpattro-sales-pfizer-ionis/826654/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "一家眼藥生技公司存有 1.18 億美元資金並儲備其高階主管套件",
       "summary": "ks 其高階主管套件 BioPharma Dive",
       "source": "BioPharma Dive",
@@ -67,8 +75,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "「總有第一次」：為何美國生技公司Axiom選擇在香港啟動上市之路",
-      "summary": "美國生技公司Axiom將開創先例，選擇在香港啟動首次公開募股（IPO）之路。此舉引發業界關注，探討其背後原因及對未來生技募資市場的影響。",
+      "title": "「總有一個第一」：為何美國生技公司 Axiom 將在香港開啟 首次公開上市（IPO） 之旅",
+      "summary": "h Axiom 將在香港開始 首次公開上市（IPO） 之旅 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-07-21",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",

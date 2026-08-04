@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-08-04T12:55:20.825372+00:00",
+  "updated": "2026-08-04T23:54:18.795776+00:00",
   "items": [
     {
-      "title": "主動式PiggyBac轉座子系統的開發與工程化",
-      "summary": "本文探討主動式PiggyBac轉座子系統的開發與工程化，為基因工程應用提供新工具。",
+      "title": "活性PiggyBac轉座子系統的挖掘與工程化應用",
+      "summary": "探討如何發掘並改造活性PiggyBac轉座子系統，以提升基因編輯與治療的效率與精準度。",
       "source": "PubMed",
       "date": "2026-08-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42529264/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL（特定新抗原胜肽-腫瘤浸潤",
+      "title": "個人化SNAP™-TIL（特異性新抗原胜肽-",
       "summary": "",
       "source": "PubMed",
       "date": "2026-08-04",
@@ -19,7 +19,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "A matrix-adapted RNA extraction strategy for targeted RT-qPCR analysis of periodontal ligament fibroblasts cultured on human amniotic membrane 生物支架.",
+      "title": "一種基質適應的 RNA 萃取策略，用於對人類羊膜支架上培養的牙周膜成纖維細胞進行靶向 RT-qPCR 分析。",
       "summary": "人類羊膜（HAM）是牙周組織工程的一種有前途的支架，支持人類牙周膜纖維母細胞（HPDLF）的有利細胞反應。然而，HAM 上培養的細胞的分子表徵經常受到細胞外基質衍生成分的阻礙...",
       "source": "PubMed",
       "date": "2026-08-04",
@@ -68,14 +68,14 @@
     },
     {
       "title": "結合氧化錳的異種發育基質水凝膠",
-      "summary": "類固醇相關骨壞死（SON）的特點是難治性骨缺損微環境，其中涉及氧化壓力與持續性發炎。",
+      "summary": "類固醇相關性骨壞死（SON）的特點是難治性骨缺損微環境，其中涉及氧化壓力、持續性發炎等。",
       "source": "PubMed",
       "date": "2026-08-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494751/",
       "lang": "zh-TW"
     },
     {
-      "title": "氣體分子及相關因子在膝關節軟骨損傷與",
+      "title": "氣體分子及相關因子在膝關節軟骨",
       "summary": "",
       "source": "PubMed",
       "date": "2026-08-04",
@@ -131,15 +131,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "利用拉曼光譜技術精準偵測與高解析度定位組織內植入式海藻酸水凝膠",
-      "summary": "海藻酸水凝膠在生醫應用上潛力大，可作為組織工程支架或細胞治療載體。",
+      "title": "利用拉曼光譜精準偵測並高解析度定位組織中的植入式海藻酸水凝膠",
+      "summary": "海藻酸水凝膠在組織工程支架和細胞治療載體等生醫應用上，具有極高的價值。",
       "source": "PubMed",
       "date": "2026-08-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42470815/",
       "lang": "zh-TW"
     },
     {
-      "title": "新型雙層骨軟骨支架",
+      "title": "結合霍夫邁斯特（Hof",
       "summary": "",
       "source": "PubMed",
       "date": "2026-08-04",
@@ -187,9 +187,9 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第三期臨床試驗：評估注射型Etentamig合併口服Pomalidomide與標準療法治療復發或難治型多發性骨髓瘤成人的不良事件及疾病活性變化",
-      "summary": "狀態：尚未招募｜主辦：艾伯維（AbbVie）｜多發性骨",
-      "source": "ClinicalTrials.gov｜Netherlands, United States, Canada",
+      "title": "第三期臨床試驗：評估注射型Etentamig合併口服Pomalidomide與標準療法治療復發或難治型多發性骨髓瘤成人患者之不良事件及疾病活性變化",
+      "summary": "狀態：尚未開始招募｜主辦：艾伯維（AbbVie）｜多發性",
+      "source": "ClinicalTrials.gov｜Norway, Australia, Italy",
       "date": "2026-08-04",
       "url": "https://clinicaltrials.gov/study/NCT07728188",
       "lang": "zh-TW"
@@ -275,19 +275,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "首個人體案例系列研究顯示，結合噬菌體療法與糞便微生物群移植 (FMT) 能降低復發性泌尿道感染 (UTIs) 並減少抗生素使用",
-      "summary": "首次將結合噬菌體療法與糞便微生物群移植 (FMT) 用於治療復發性泌尿",
+      "title": "噬菌體療法與糞便微生物群移植（FMT）合併應用，在首批人體案例中降低復發性泌尿道感染（UTI）及抗生素使用",
+      "summary": "首次將噬菌體療法與糞便微生物群移植（FMT）合併應用於治療復發性泌尿道感染",
       "source": "GEN News",
       "date": "2026-08-03",
       "url": "https://www.genengnews.com/topics/infectious-diseases/combined-phage-therapy-and-fmt-reduces-recurrent-utis-and-antibiotic-use-in-first-human-case-series/",
       "lang": "zh-TW"
     },
     {
-      "title": "基因剪輯技術（CRISPR） Therapeutics 提供業務更新並報告 2026 年第二季財務業績",
-      "summary": "日期和報告 2026 年第二季財務業績 GlobeNewswire",
-      "source": "GlobeNewswire",
+      "title": "基因剪輯技術（CRISPR） Therapeutics 報告 2026 年第二季財務表現與管道更新",
+      "summary": "2026 年財務表現與管道更新 Quiver Quantitative",
+      "source": "Quiver Quantitative",
       "date": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQendweXJoMmNDRzZ5QlB5X3RDQkpPYmlLaTNxRC1qQ3E5ckk5RHpSdkZCeVZSZUxZeXRPTW9aRUQxbkZIdnlteXpUSmFteEZqSDktMi01aVl3empPUGpvUmxqem0wRER3NXMxZ3BWVXQ0TW1xVmN3el9VckxpZTBTQmwxdHpERGxaSjNWMWNBeEZ4YWxWcHFQcFk0dlJ5OHphNHBDR2xoa1FULXVVSk1MNFY0ZlRhOE5TcVY2Z0I3SDlEeUl6QXpoWHdlTDFRRzdSSDRsZW1nR2g4NGc4VlVFbXhlcW9BSDc5aTU2YUFEUDBhNEU4SnBzNjdR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbnY0Skp5UTY5QjF6M1FVRm1fVkVEVDZCdllYS0NVN1pSTDVyWlY4bTlNeFhvbV9hTWNDd3hSMHRpc1NaY3o3UU9aVW9PaHRrN1lYbU9MckxfM182TFNjaTdMRERhR3hJWDlsaE9yVjJ3MV96d0h4Vzk4YTVrWkhBaEF4RGNYdGxmZFd2eWZaeDFSeUhRWVhRV3Z3dlk3QUMxeDFCYjZSb3IwclBoR0hWYmRTYXQ2NTY3dHhz?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -355,8 +355,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "沉浸式虛擬實境應用於細胞治療的復健運動",
-      "summary": "這項研究將探討如何將沉浸式虛擬實境（VR）應用於細胞治療（CT）患者的復健運動，包括接受造血幹細胞移植（HSCT）和先進嵌合抗原受體T",
+      "title": "[NA] Immersive Virtual Reality Applied to Therapeutic Physical Exercise in Cellular Therapy",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Fundacin Biomedica Galicia Sur｜細胞療法（CT），包括造血幹細胞移植（HSCT）和先進的CAR T細胞療法，用於治療腫瘤血液疾病和其他疾病。 HSCT 與治療相關的毒性有關，包括疲勞、",
       "source": "ClinicalTrials.gov｜Spain",
       "date": "2026-07-24",
       "url": "https://clinicaltrials.gov/study/NCT07679958",
@@ -372,15 +372,15 @@
     },
     {
       "title": "新的治療標靶擴大了多發性骨髓瘤的選擇",
-      "summary": "or multiple myeloma Penn Medicine",
+      "summary": "或多發性骨髓瘤 Penn Medicine",
       "source": "Penn Medicine",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQnA4YUU5UHhvUUd3ZHlURUtMeVVjbG1iRnNGMnhPbGhpcmN1c1c0dFIwUlE4QkhRUG5NaTVBbjFqOE9Odm9ocTdqZ01XYUJqQVdaTUk5b2FmdlZLUXpsdnpla054MDhQN3FpNkQ4ZF9NWVhEc0hUNkNuellYREhUMUNrWGVRTFNXRmZRZDYwSV91M1NtbVR1Zg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "署長級國家優先審查憑證（CNPV）試行計畫",
-      "summary": "美國FDA推出署長級國家優先審查憑證（CNPV）試行計畫，旨在加速重要藥品審查。",
+      "title": "局長國家優先審查憑證（CNPV）試行計畫",
+      "summary": "美國FDA推出局長國家優先審查憑證（CNPV）試行計畫，旨在加速重要藥物審查。",
       "source": "fda.gov",
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
@@ -395,8 +395,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "腫瘤異質性：其發展、機制與治療上的意義",
-      "summary": "探討腫瘤異質性的形成、作用機制及其對癌症治療策略的影響與啟示。",
+      "title": "腫瘤異質性：其發展、機制與治療上的啟示",
+      "summary": "深入探討腫瘤異質性的形成、機制，及其對癌症治療策略的影響與啟示。",
       "source": "Nature",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xOHRwY3A2cEhNTmRLZnMzaVM2NVpabzI1ZUhjYXpOUzQzMVhNaFNETDZiSzg0b3JyTl9iVzV5Q0VkM1hrQ2w4MDBSVG1EdzFOSThfeFpta3pQYXB6Sk1J?oc=5",

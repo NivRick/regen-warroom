@@ -1,74 +1,74 @@
 {
   "module": "regulation",
-  "updated": "2026-08-04T12:55:58.970392+00:00",
+  "updated": "2026-08-04T23:54:40.612617+00:00",
   "items": [
     {
-      "title": "COVID-19疫苗的開發與核准",
-      "summary": "這是美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）針對COVID-19疫苗開發與核准發布的產業指引。",
+      "title": "預防 COVID-19 的疫苗的開發和許可",
+      "summary": "這是工業、預防 COVID-19、CBER、生物製品指南",
       "source": "FDA Biologics",
       "date": "2026-08-03",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/development-and-licensure-vaccines-prevent-covid-19",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）發布的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-08-03",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "將基因編輯技術導入人類基因療法產品開發：如何善用既有知識",
-      "summary": "這是美國食品藥物管理局（FDA）針對將基因編輯技術導入人類基因療法產品開發，如何善用既有知識所發布的產業指引草案。",
+      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
+      "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
       "source": "FDA Biologics",
       "date": "2026-08-03",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
       "lang": "zh-TW"
     },
     {
-      "title": "演化多樣性生物：基因開啟機制簡單，關閉機制動態",
-      "summary": "最新研究發現，基因開啟訊號在演化中幾乎不變，但關閉訊號則具高度動態性。",
+      "title": "進化多樣化的生物體簡單地打開基因並動態地關閉它們",
+      "summary": "一項新的研究發現，細胞用於開啟基因的訊號在2十億年的演化過程中幾乎保持不變，但用於關閉基因的訊號在生命的一個分支和另一個分支之間卻存在巨大差異。\nSi 上的後基因",
       "source": "GEN News",
       "date": "2026-08-03",
       "url": "https://www.genengnews.com/topics/omics/evolutionarily-diverse-organisms-switch-genes-on-simply-and-switch-them-off-dynamically/",
       "lang": "zh-TW"
     },
     {
-      "title": "股市觀察：Capricor股價重挫，因FDA專家小組與內部人員質疑其主要候選藥物Deramiocel的療效",
-      "summary": "Capricor Therapeutics在去年主要候選藥物遭美國食品藥物管理局（FDA）駁回後，正期待其重新提交的生物製劑許可申請（BLA）能有更好的結果。",
+      "title": "StockWatch：美國食藥局（FDA） 小組導致 Capricor 股價暴跌，工作人員質疑主要候選藥物 Deramiocel 的有效性",
+      "summary": "去年其主要候選藥物被 美國食藥局（FDA） 拒絕後，Capricor Therapeutics 希望其重新提交的主要候選藥物 Deramiocel 的 BLA 能取得更好的結果。\n貼文 l，工作人員質疑首席候選人 Deramio 的有效性",
       "source": "GEN News",
       "date": "2026-08-03",
       "url": "https://www.genengnews.com/topics/translational-medicine/stockwatch-capricor-plunges-as-fda-panel-staff-question-effectiveness-of-lead-candidate-deramiocel/",
       "lang": "zh-TW"
     },
     {
-      "title": "Alphanate",
-      "summary": "Alphanate產品核准資訊：用於治療A型血友病或後天性第八凝血因子（FVIII）缺乏症病患的出血控制與預防。",
+      "title": "阿爾法納特",
+      "summary": "產品核准資訊用於：\n•控制及預防A型血友病或後天因子VIII (FVIII) 缺乏症患者的出血(1.1)\n•血管性血友病成人和兒童病患的外科和/或侵入性手術",
       "source": "FDA Biologics",
       "date": "2026-07-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/alphanate",
       "lang": "zh-TW"
     },
     {
-      "title": "K他命引發性別差異的大腦恢復反應",
-      "summary": "一項小鼠研究顯示，大腦中的小膠質細胞（microglia）免疫細胞，在K他命麻醉後的大腦恢復過程中扮演關鍵角色。",
+      "title": "氯胺酮觸發特定性別的大腦恢復反應",
+      "summary": "一項針對小鼠的研究表明，大腦中的小膠質細胞免疫細胞在大腦從氯胺酮麻醉中恢復的過程中發揮關鍵作用，並表明女性和男性大腦之間存在差異。\n該貼文overy Responses ap",
       "source": "GEN News",
       "date": "2026-07-31",
       "url": "https://www.genengnews.com/topics/translational-medicine/ketamine-triggers-sex-specific-brain-recovery-responses/",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關標準作業程序與政策（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局（FDA）生物製品研究與審查中心（CBER）員工執行業務時所使用的規範。",
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-07-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "2026年誘導性多功能幹細胞（iPSC）衍生細胞療法產品線展望",
-      "summary": "BioInformant報告指出，預計到2026年，誘導性多功能幹細胞（iPSC）衍生的細胞療法產品線將有顯著發展。",
+      "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
+      "summary": "2026 年生物資訊學",
       "source": "BioInformant",
       "date": "2026-07-26",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
@@ -82,8 +82,8 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
     },
     {
-      "title": "ACROBiosystems取得日本醫藥品醫療機器綜合機構（PMDA）GMP級IL-15材料適用性確認，確保可靠品質並強化生技藥品核准流程",
-      "summary": "ACROBiosystems的GMP級IL-15獲日本PMDA認證，有助提升生技藥品品質與加速核准。",
+      "title": "ACROBiosystems 獲得 GMP 級 IL-15 的 日本藥品局（PMDA） 材料適用性確認，確保可靠的品質並加強生物製藥審批流程",
+      "summary": "GMP 級 IL-15 穩定性確認，確保可靠品質並加強生物製藥審批流程 - 馬尼拉時報",
       "source": "The Manila Times",
       "date": "2026-07-15",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVDhXbmRScjhpSER2VUFabkp6UDg3QmZ1eXpKNjRVTlZvV3czWW1ERVVGMi1HdXZud0lFWnMzSnpNa0REV25XM2xCMWcwQmgzZEdVdk05TlV1SS00R01mTDZCUTF1NElKOGtEOXdRcVJQWm5CSFpIOENXQlFYMGZyN1hzZ201cHJaZUNXb05abF9OOHQtZEFheHpPT3hhYm1pUnYwLUVQdG5SR0pMem5DZWpLRG5rYTNWX1lIbVVmbDJIaFMyZDFmVFVoU1RkU2k4WXBjZ2dlUno1TExvQ1p1UHhTMWxHeGVFUHBzcUU4WXprVVFjTlJIWXYzS0hnbEl4UzVZMEktMHBRd3I3Z0Jrdk1OSnUzZFRhSy13THpJYTdEWXVnTUF3eVJjX0pYaVVmMFNLUk81WUZib1AtQV84Nng0dGx0WlZqNVpOLVBMWnc4ZGpFZUpz0gHcAkFVX3lxTE1HYUwwWmJwd3RSY3d2UG5qYmlyTzNfLWo4c2hyWW55dlc5RUR6RjZKbGkxcWQ2WW5qbVJpUTgxQWg0QWh4UkFwa2pkV3gwbzMzM080elA4Tk5MTXZZY0V6bXFCVVBqMzZZRndldFg0aERwNmhTVUJhXy1pcGZ5UGlPMFdla094bmRTYVVLSXRLY3o5a25vSzlKbDZ4Y0FFSndkSUprY09PVnhpWi1NY0k5X1doN0JpRVdJbl9FVTBzazN5b0xiUV9uQVdUNGZWRnFWNFdtTXlNRU5zaTlOaUhpYjBvNXY4R25wNXphLWVUQmtQMk5iazdLVEJpaTNJX2dBd1U5SkNTVmhKcm1RNFplVFhqX1VSbEFURW9DVG8zc0R6UWtoUXhSVEpjSklsWnY4TThqWm8xVmU1b3J2RzBBWVpUZ2pmRVlNLVhrZWhxSDFHQlBSa1QxTEo3OQ?oc=5",
