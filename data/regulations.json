@@ -1,42 +1,58 @@
 {
   "module": "regulation",
-  "updated": "2026-08-03T13:36:41.033692+00:00",
+  "updated": "2026-08-04T00:02:07.464733+00:00",
   "items": [
     {
-      "title": "StockWatch：美國食藥局（FDA） 小組導致 Capricor 股價暴跌，工作人員質疑主要候選藥物 Deramiocel 的有效性",
-      "summary": "去年其主要候選藥物被 美國食藥局（FDA） 拒絕後，Capricor Therapeutics 希望其重新提交的主要候選藥物 Deramiocel 的 BLA 能取得更好的結果。\n貼文 l，工作人員質疑首席候選人 Deramio 的有效性",
+      "title": "預防 COVID-19 的疫苗的開發和許可",
+      "summary": "這是工業、預防 COVID-19、CBER、生物製品指南",
+      "source": "FDA Biologics",
+      "date": "2026-08-03",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/development-and-licensure-vaccines-prevent-covid-19",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-08-03",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
+      "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
+      "source": "FDA Biologics",
+      "date": "2026-08-03",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "進化多樣化的生物體簡單地打開基因並動態地關閉它們",
+      "summary": "一項新的研究發現，細胞用於開啟基因的訊號在2十億年的演化過程中幾乎保持不變，但用於關閉基因的訊號在生命的一個分支和另一個分支之間卻存在巨大差異。\nSi 上的後基因",
+      "source": "GEN News",
+      "date": "2026-08-03",
+      "url": "https://www.genengnews.com/topics/omics/evolutionarily-diverse-organisms-switch-genes-on-simply-and-switch-them-off-dynamically/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "股市觀察：Capricor股價暴跌，美國食品藥物管理局（FDA）專家小組與內部人員質疑主力候選藥物Deramiocel療效",
+      "summary": "Capricor Therapeutics去年主力藥物遭美國食品藥物管理局（FDA）駁回，現正期盼重新提交的生物製劑許可申請（BLA）能有好結果。",
       "source": "GEN News",
       "date": "2026-08-03",
       "url": "https://www.genengnews.com/topics/translational-medicine/stockwatch-capricor-plunges-as-fda-panel-staff-question-effectiveness-of-lead-candidate-deramiocel/",
       "lang": "zh-TW"
     },
     {
-      "title": "Alphanate",
-      "summary": "本產品核准用於：控制與預防A型血友病患者或後天性第八凝血因子（FVIII）缺乏症的出血。",
+      "title": "阿爾法納特",
+      "summary": "產品核准資訊用於：\n•控制及預防A型血友病或後天因子VIII (FVIII) 缺乏症患者的出血(1.1)\n•血管性血友病成人和兒童病患的外科和/或侵入性手術",
       "source": "FDA Biologics",
       "date": "2026-07-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/alphanate",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑新知",
-      "summary": "來自生物製劑評估與研究中心（CBER）的",
-      "source": "FDA Biologics",
-      "date": "2026-07-31",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "開發和製造包括生物製品在內的藥物",
-      "summary": "該材料旨在成為有用的資源，整合與為美國市場生產產品的藥品製造商相關的資訊。它不是所有適用的法律和監管要求的完整清單。",
-      "source": "FDA Biologics",
-      "date": "2026-07-31",
-      "url": "http://www.fda.gov/drugs/coronavirus-covid-19-drugs/developing-and-manufacturing-drugs-including-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Ketamine Triggers Sex-Specific Brain Recovery Responses",
-      "summary": "一项针对小鼠的研究表明，大脑中的小胶质细胞免疫细胞在大脑从氯胺酮麻醉中恢复的过程中发挥着关键作用，并表明女性和男性大脑之间存在差异。\n該貼文overy Responses ap",
+      "title": "氯胺酮（Ketamine）引發大腦恢復的性別差異反應",
+      "summary": "小鼠研究顯示，氯胺酮麻醉後，大腦恢復機制存在性別差異，其中小膠質細胞扮演關鍵角色。",
       "source": "GEN News",
       "date": "2026-07-31",
       "url": "https://www.genengnews.com/topics/translational-medicine/ketamine-triggers-sex-specific-brain-recovery-responses/",
@@ -61,7 +77,7 @@
     {
       "title": "齊碁生醫獲美國FDA IND 核准以臺美雙報確立衰弱症細胞治療的國際法規位階| 唐可欣 | 品味生活",
       "summary": "",
-      "source": "storm.mg",
+      "source": "風傳媒",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
     },

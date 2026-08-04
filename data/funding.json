@@ -1,18 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-08-03T13:37:03.294460+00:00",
+  "updated": "2026-08-04T00:02:26.664922+00:00",
   "items": [
     {
-      "title": "STAT+：藥廠超級大合併案是否正在醞釀中？",
-      "summary": "Moderna疫苗即將獲得美國FDA核准，TCGX成立4億美元亞洲生技基金，以及更多生技新聞。",
+      "title": "STAT+：是否正在醞釀一場製藥大廠合併？",
+      "summary": "Moderna's imminent 美國食藥局（FDA） vaccine decision, TCGX launches $400M Asia biotech fund, and more biotech news",
       "source": "STAT News",
       "date": "2026-08-03",
       "url": "https://www.statnews.com/2026/08/03/biotech-news-is-there-a-pharma-mega-merger-coming-astrazeneca-bms/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Pharmalittle：我們正在關注阿斯特捷利康與必",
-      "summary": "",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關阿斯特捷利康-布里斯托爾合併談判、修訂後的 340B 計劃等",
+      "summary": "阿斯特捷利康股價下跌，因投資人對與百時美施貴寶就組建全球最大製藥商之一進行合併談判的報導猶豫不決",
       "source": "STAT News",
       "date": "2026-08-03",
       "url": "https://www.statnews.com/pharmalot/2026/08/03/astrazeneca-bristol-merger-talks-340b-rebate-plan-revised/?utm_campaign=rss",
@@ -27,6 +27,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "阿斯特捷利康與布里斯托邁爾斯的大型合併？華爾街並不興奮。",
+      "summary": "事實上，在有關製藥巨頭之間潛在合作的報導之後，前者的市值損失了數百億美元。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-03",
+      "url": "https://www.biopharmadive.com/news/astrazeneca-bristol-myers-acquisition-rumors-deal-megamerger/826843/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "賽諾菲與再生元「重建信任」； Apnimed 加入一系列「大規模」生物技術 首次公開上市（IPO） 行列",
       "summary": "賽諾菲執行長表示，希望擴大公司與再生元的富有成效的合作夥伴關係。在其他地方，百時美施貴寶推遲了兩項預期的研究結果，鹽野義支持的一家新創公司上市。",
       "source": "BioPharma Dive",
@@ -35,27 +43,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Alnylam 股價暴跌，盈利帶來“一兩拳”",
+      "title": "Alnylam 暴跌，盈利帶來“一兩拳”",
       "summary": "由於投資者對其主要藥品業務的擔憂日益加劇，這家專注於 RNA 的生物技術公司市值縮水 30%，接近 120 億美元。",
       "source": "BioPharma Dive",
       "date": "2026-07-30",
       "url": "https://www.biopharmadive.com/news/alnylam-earnings-stock-amvuttra-onpattro-sales-pfizer-ionis/826654/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "強生 (J&J) 獲得以近 $2.6B 收購「體內實驗」CAR-T細胞療法 製造商 Sail 的選擇權",
-      "summary": "與這家熱鬧的旗艦先鋒公司支持的初創公司的交易使強生成為最新一家押注該技術可能能夠治療自身免疫性疾病的大型製藥商。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-30",
-      "url": "https://www.biopharmadive.com/news/johnson-johnson-sail-option-acquire-in-vivo-car-t/826589/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Capricor Duchenne 細胞療法被 美國食藥局（FDA） 小組投票否決",
-      "summary": "在一次可能對其他罕見疾病製藥商產生影響的有爭議的會議上，外部專家最終確定 Capricor 並未證明 deramiocel 對杜氏相關心肌病變的益處。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-29",
-      "url": "https://www.biopharmadive.com/news/capricor-fda-vote-deramiocel-duchenne-cardiomyopathy/826465/",
       "lang": "zh-TW"
     },
     {

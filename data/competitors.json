@@ -1,13 +1,21 @@
 {
   "module": "competitor",
-  "updated": "2026-08-03T13:37:38.774765+00:00",
+  "updated": "2026-08-04T00:02:48.525718+00:00",
   "items": [
+    {
+      "title": "Fate Therapeutics 報告根據納斯達克上市規則 5635(c)(4) 規定的新員工激勵獎勵",
+      "summary": "納斯達克上市規則 5635(c)(4) 下的激勵獎勵 GlobeNewswire",
+      "source": "GlobeNewswire",
+      "date": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQWx3ZnVHcVlyWkc0NGJIb1M0SkF4TGRmMndzSEFGeFo5c2xneUlVOGM3cHhQSUdvendDQmV4RW1JMXhydUUwdEhTcFBRWTNDaENIZ0MydFFwVi1JNXlGZVBYNE81TEtfWFJISDA2c0FXenRjUmcyQ0ZSYWlibzB5X09aVThtaUs0VU1JRjh3c2dsUklLOHcxR1BQZGlYWTl5cUlEVEtKZnplOHpuNTdHLU1sUjNyM2dBTnF5eHVMTi1SS21IOFlOeFRXSFlCRXNWdmtDN2hvNXJ2QXBGN0htTXdRWWNEVEZZbmd3NEVsSVlaZjNhb3hfVmJuYw?oc=5",
+      "lang": "zh-TW"
+    },
     {
       "title": "長聖生技7月營收近1億元 創今年新高 打造雙引擎策略",
       "summary": "",
       "source": "自由財經",
       "date": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KNkJmcHJZbExRdThWQTE4dUw2UDdtSDg1XzVQZ1ZQbkJiSnc1bEE1akpUaFRUNk82WHhUYlZEWUg1a2pFUVJfT1lwX04tNXlvcGJUSXdJUGRCOUptSHVKenRMTTM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95aDZ5ODJFYVVnQ1BSSzNZRHpJdmN4Y0puOFNjRHJxOW16Y0ZjVWQySTJaeWVfdW5pRE5lblo4Nnh6U1IzU0FUOWhDRFFsUVo5dFVjR2luUVVOZlhxVXVF?oc=5"
     },
     {
       "title": "強生 (J&J) 斥資 26 億美元收購 Sail Bio，押注下一個細胞治療領域",
@@ -18,48 +26,40 @@
       "lang": "zh-TW"
     },
     {
-      "title": "禮來、艾伯維搶進體內CAR-T療法，但安全性仍是挑戰",
-      "summary": "兩大藥廠禮來與艾伯維積極投入體內嵌合抗原受體T細胞療法（CAR-T）開發，但這項新技術的安全性問題仍待克服。",
+      "title": "禮來 (Lilly) 和艾伯維 (AbbVie) 登上了 vivo CAR-T細胞療法 列車，但安全性仍然是一個障礙",
+      "summary": "火車——但安全仍然是一個障礙",
       "source": "BioSpace",
       "date": "2026-07-27",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaW1qMU5Nc0o2Vy1WSm9WNUxSeGItX2RnZHJ2YnVSYUpKRzlKZXVoNGZFQ2dSS1lLempQLWdHWmp1WTNmSHlpTWtpNjBXZGNad0dmbDRoaW44UGZjT25heXRGSjZHUUswMUVXMnA3ai1vUXJobVFGYUhMdXdYMFFxSjQwMkgxSndfeFhvR1d6bDJVNlQ4dDhybTFfcElKb0NLUi03TF9nWm5kLVRnTlFBZWRERnpYZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "2026年",
-      "summary": "",
+      "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
+      "summary": "2026 年生物資訊學",
       "source": "BioInformant",
       "date": "2026-07-26",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "體內細胞療法：製造瓶頸有解？",
-      "summary": "體內細胞療法前景看好，但其製造過程面臨諸多挑戰，業界正積極尋求解決方案。",
+      "title": "體內細胞療法：解決製造障礙？",
+      "summary": "acles? DCAT Value Chain Insights",
       "source": "DCAT Value Chain Insights",
       "date": "2026-07-23",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb1R3bldLZ2VrU0E1dVd4M3gwbVFsd2FHYVpwelVmM1NOVHQ1eXV2WUhSWkNSQV9wd1NQMUxvS0o2R3hPRmxYSjV5VXVBV3BFclFaaGY4MUxVTy13RXZsVnlQcmsyd1lNNHVxcjlzWUh5V1ZjcmN1NXJNZTM3QTJDMDNnZWg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞療法治療淋巴癌的真實故事：別放棄希望",
-      "summary": "透過細胞療法成功治療淋巴癌的案例，為病患帶來希望，鼓勵大家不要放棄。",
+      "title": "細胞療法治療淋巴瘤的故事：不要失去希望",
+      "summary": "里斯：不要失去希望《時代》雜誌",
       "source": "Time Magazine",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTJrX0V5akdabXE4Ylh2WkxrTmpkWnR3bWF3NTNpZnNUejJtQmhSQVpZSzFqV0NxbzM1U244OWhQck0zNnFLTVJic1hxcXVTd1E5cnZRaFROQUMzR3NsenRjS3lBUFozS3JYaWYwUTFDYUNsay11OWUwWUZLLWNBWnFiNXN0ZXI0al90cUN4Z3cwcjJjY3o2V3dJb2ZfMGFTREZmSTdYLTRxN3Vfd1J3WU1fTS0?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Fate Therapeutics 獲得 美國食藥局（FDA） 批准 FT839 候選產品的研究性新藥申請",
-      "summary": "of Investigational New Drug Application for FT839 Product Candidate GlobeNewswire",
-      "source": "GlobeNewswire",
-      "date": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQcGFWZ0swTlhfR1ZqT0ZMdnM4M3dYenRHWFdHZUlROTJWYmtfa2xyUml3VE5Xbnp6TUx5QzBVQ3k4Rm5ibHVtVjFLeE96RFBKNGpqY3JPNzBSQUR1UU9Hb01PY0l0bk9NUHhneFUwX0tFSHZSTm9OQTdIZXFtWDhYVkJNM0RadEtMUjBQWUZ6Wkw3cFdsX3FTejdKdTNPNGtMQkJfMmFFMUFhTkFiS0tRaVZ6N19TVFRIZFRqUTdNVDN2cjF0RWFTUks0ay1qWHFra1RNZVBBWUhkZzVVaTIyVUtueGE2YWFzRHpOWlhRMnBWcGVHeUtTQzRSU0gxNkx4WUUzYTVaVHBEX19QMjdNbG1R?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國FDA擴大福泰製藥Casgevy藥品標示，治療年齡下修至兩歲",
-      "summary": "美國食品藥物管理局（FDA）核准福泰製藥的基因療法Casgevy，將適用年齡擴大至兩歲以上病患，造福更多幼兒。",
+      "title": "美國食藥局（FDA） 深化 Vertex 的 Casgevy 標籤，為年僅 2 歲的患者開放治療",
+      "summary": "為年僅 2 歲的患者提供治療 Fierce Pharma",
       "source": "Fierce Pharma",
       "date": "2026-07-06",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbjc2NVJsRFVTVjlsZk9pY0Fod282Z1JYOW00X1E5M0pzS3B0SFltcmtqZTlhNGhnUE1XdFZ0bTM0WjJaMUd0VEF4UTRaaExxX0hpeFdlSXVzdFNKY21vNHZ0b0JNZE9YZE8zMlRpdm40aWFOV2Y0R3RQV1VHLXBGbGhuYU8yODg2QmEtaG9uZ1c5U0JtQkNV?oc=5",

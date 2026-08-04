@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-08-03T13:35:57.848499+00:00",
+  "updated": "2026-08-04T00:01:14.288236+00:00",
   "items": [
     {
-      "title": "挖掘與工程化活性PiggyBac",
-      "summary": "探討如何挖掘並改造活性PiggyBac轉座子系統，以應用於基因工程與基因療法。",
+      "title": "挖掘與工程化活性PiggyBac（基因轉座子）系統",
+      "summary": "PiggyBac是一種基因轉座子系統，在基因工程與細胞治療領域應用廣泛，可用於基因編輯。",
       "source": "PubMed",
       "date": "2026-08-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42529264/",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化SNAP™-TIL（特定新抗原胜肽-腫瘤浸潤淋巴細胞）療法平台的臨床前",
+      "title": "個人化SNAP™-TIL（特異性新抗原胜肽-腫瘤浸",
       "summary": "",
       "source": "PubMed",
       "date": "2026-08-03",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "膝關節軟骨損傷與修復新進展：氣體分子扮演關鍵角色，文獻分析揭示研究熱點",
-      "summary": "膝關節軟骨損傷修復是難題，本研究透過文獻分析，揭示氣體分子在其中扮演的關鍵角色與最新研究趨勢。",
+      "title": "氣體分子與相關因子在膝關節軟骨損傷及修復中的角色：研究熱點的文獻計量視覺化分析",
+      "summary": "這篇研究透過文獻計量分析，探討氣體分子與相關因子在膝關節軟骨損傷及修復中的角色，特別關注膝關節軟骨損傷",
       "source": "PubMed",
       "date": "2026-08-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42493773/",
@@ -91,7 +91,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "類器官負荷的核殼冷凍微針誘導仿生毛囊單位和毛髮再生。",
+      "title": "裝載類器官的核殼冷凍微針誘導仿生毛囊單位和毛髮再生。",
       "summary": "組織工程毛囊再生為增加毛囊數量提供了一種有前途的方法，但它面臨挑戰，例如毛髮難以穿過皮膚生長以及可能出現聚集和無序生長。實現單根或雙根毛髮的仿生再生...",
       "source": "PubMed",
       "date": "2026-08-03",
@@ -116,14 +116,14 @@
     },
     {
       "title": "機械敏感性 e 蛋白 emerin 的升高將核力轉導與 tau 誘導的神經元細胞骨架重塑聯繫起來。",
-      "summary": "神經退化性 tau 疾病，包括阿茲海默症，在神經病理學上透過病理性 tau 沉積來定義。雖然 tau 透過破壞細胞骨架、核骨架和基因組結構來驅動神經毒性，但介導 tau 誘導的細胞骨架功能障礙的細胞機制...",
+      "summary": "神经退行性 tau 病，包括阿尔茨海默病，在神经病理学上通过病理性 tau 沉积来定义。雖然 tau 透過破壞細胞骨架、核骨架和基因組結構來驅動神經毒性，但介導 tau 誘導的細胞骨架功能障礙的細胞機制...",
       "source": "PubMed",
       "date": "2026-08-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42415348/",
       "lang": "zh-TW"
     },
     {
-      "title": "利用拉曼光譜對組織中植入的藻酸鹽水凝膠進行穩健檢測和高解析度繪圖。",
+      "title": "使用拉曼光譜對組織中植入的藻酸鹽水凝膠進行穩健檢測和高解析度繪圖。",
       "summary": "海藻酸鹽水凝膠對於各種生物醫學應用具有很高的價值，例如組織工程的支架和細胞治療的載體。海藻酸鹽是一種從褐藻中提取的天然多醣，其獨特之處在於它能夠在 Ca 存在下形成水凝膠。",
       "source": "PubMed",
       "date": "2026-08-03",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "新穎雙層骨軟骨支架，整合霍夫邁斯特處理的聚乙烯醇（PVA）水凝膠與膠原蛋白包覆的聚己內酯（PCL）微球",
-      "summary": "骨軟骨組織工程前景看好但充滿挑戰，因為有效的支架必須具備能符合異質性",
+      "title": "一種新型雙層軟骨骨骼支架，整合了霍夫邁斯特處理的聚乙烯醇水凝膠與膠原蛋白包覆的聚己內酯微球",
+      "summary": "軟骨骨骼組織工程雖然很有潛力，但挑戰也很多，因為有效的支架必須具備能符合異質性組織的",
       "source": "PubMed",
       "date": "2026-08-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42456236/",
@@ -188,7 +188,7 @@
     },
     {
       "title": "【PHASE1】UX-GIP001治療抗藥性單側內側顳葉癲癇I期臨床試驗",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：上海優賽爾生物科技有限公司｜這是一項I期研究（方案：UX-GIP001-102），研究UX-GIP001注射液，一種由人類GABA能中間神經元祖細胞（GIP）組成的新型細胞治療產品，用於治療單側體溫抗藥性的成年內側溫度患者",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：上海優賽爾生物科技有限公司｜這是一項I期研究（方案：UX-GIP001-102），研究UX-GIP001注射液，一種由人類GABA能中間神經元祖細胞（GIP）組成的新型細胞治療產品，用於治療單側體內側溫藥患者",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-08-03",
       "url": "https://clinicaltrials.gov/study/NCT07572812",
@@ -196,7 +196,7 @@
     },
     {
       "title": "[第 2 期] Lifileucel（腫瘤浸潤淋巴球）治療晚期軟組織肉瘤成人的研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Iovance Biotherapeutics, Inc.｜A study of lifileucel (tumor-infiltrating lymphocytes) in adults with advanced soft tissue sarcoma ('SARATOGA')",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Iovance Biotherapeutics, Inc.｜lifileucel（腫瘤浸潤淋巴細胞）治療成人晚期軟組織肉瘤（「SARATOGA」）的研究",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-03",
       "url": "https://clinicaltrials.gov/study/NCT07741877",
@@ -227,8 +227,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第一期臨床試驗：巰嘌呤治療遺傳性平滑肌瘤病與腎細胞癌（HLRCC）、子宮/皮膚平滑肌瘤及腎癌",
-      "summary": "狀態：尚未招募受試者｜主辦：強森綜合癌症中心｜這項第一/二期臨床試驗旨在",
+      "title": "[第一期臨床試驗] 巰嘌呤治療遺傳性平滑肌瘤病與腎細胞癌（HLRCC）、子宮/皮膚平滑肌瘤及腎癌",
+      "summary": "狀態：尚未招募受試者｜主辦：強森綜合癌症中心｜這項第一/二期臨床",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-08-03",
       "url": "https://clinicaltrials.gov/study/NCT07716735",
@@ -244,7 +244,7 @@
     },
     {
       "title": "[PHASE2] CK0801治療再生不良性貧血",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Cellenkos, Inc.｜這項 2 期、多中心、開放標籤研究正在評估 CK0801 治療再生障礙性貧血的療效，這些患者在接受過至少一種既往治療後仍存在持續性輸血或對標準治療不耐受。 CK0801是一個",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Cellenkos, Inc.｜這項 2 期、多中心、開放標籤研究正在評估 CK0801 治療再生障礙性貧血的療效，這些患者在接受過至少一種既往治療後仍存在持續性輸血或對標準治療不耐受。 CK0801 is an",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-03",
       "url": "https://clinicaltrials.gov/study/NCT07499102",
@@ -259,8 +259,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "自體脂肪間質幹細胞療法治療成人萎縮性疤痕的一/二期臨床試驗：安全性與有效性評估",
-      "summary": "CellinCells主辦，這項一/二期臨床試驗將評估TRTP-101單次給藥治療成人萎縮性疤痕的安全性與有效",
+      "title": "噬菌體療法結合糞便微生物群移植（FMT），在首批人體案例中，有效降低復發性泌尿道感染（UTI）及抗生素用量",
+      "summary": "這項結合噬菌體療法與糞便微生物群移植（FMT）的首次人體應用，成功減少復發",
+      "source": "GEN News",
+      "date": "2026-08-03",
+      "url": "https://www.genengnews.com/topics/infectious-diseases/combined-phage-therapy-and-fmt-reduces-recurrent-utis-and-antibiotic-use-in-first-human-case-series/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "基因剪輯技術（CRISPR） Therapeutics 提供業務更新並報告 2026 年第二季財務業績",
+      "summary": "日期和報告 2026 年第二季財務業績 GlobeNewswire",
+      "source": "GlobeNewswire",
+      "date": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQendweXJoMmNDRzZ5QlB5X3RDQkpPYmlLaTNxRC1qQ3E5ckk5RHpSdkZCeVZSZUxZeXRPTW9aRUQxbkZIdnlteXpUSmFteEZqSDktMi01aVl3empPUGpvUmxqem0wRER3NXMxZ3BWVXQ0TW1xVmN3el9VckxpZTBTQmwxdHpERGxaSjNWMWNBeEZ4YWxWcHFQcFk0dlJ5OHphNHBDR2xoa1FULXVVSk1MNFY0ZlRhOE5TcVY2Z0I3SDlEeUl6QXpoWHdlTDFRRzdSSDRsZW1nR2g4NGc4VlVFbXhlcW9BSDc5aTU2YUFEUDBhNEU4SnBzNjdR?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE1, PHASE2] 自體脂肪來源間質幹細胞療法治療成人萎縮性疤痕的安全性與有效性",
+      "summary": "狀態：尚未招募｜主辦：CellinCells｜這項臨床試驗旨在評估單次施打TRTP-101的安全性與有效性。",
       "source": "ClinicalTrials.gov｜South Korea",
       "date": "2026-08-01",
       "url": "https://clinicaltrials.gov/study/NCT07474467",
@@ -268,15 +284,23 @@
     },
     {
       "title": "[EARLY_PHASE1]PID23注射液治療復發/難治性急性白血病安全性和有效性的臨床研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：珠江醫院｜復發或難治性急性白血病（R/R AL）是一種危及生命的血癌，其預後較差，治療選擇有限。 PID23注射液是一種創新的體內CAR-T療法，可提供編碼三個標靶（CD19、BCMA",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：珠江醫院｜復發或難治性急性白血病（R/R AL）是一種危及生命的血癌，其預後較差，治療選擇有限。 PID23注射液是一种创新的体内CAR-T疗法，可提供编码三个靶标（CD19、BCMA",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-08-01",
       "url": "https://clinicaltrials.gov/study/NCT07696481",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） AdComm 投票反對推薦 Deramiocel 批准，Tazbentetol 在 AD 中顯示出持久的認知益處，Salanersen 的 美國食藥局（FDA） 突破性指定的含義",
-      "summary": "ramiocel 獲批，Tazbentetol 對 AD 具有持久的認知益處，Salanersen 獲得 美國食藥局（FDA） 突破性認定意味著 NeurologyLive",
+      "title": "FibroBiologics 報告 2026 年第二季財務表現；評估主要傷口護理候選人的臨床試驗取得進展",
+      "summary": "26 財務表現；評估主要傷口照護候選人晨星的臨床試驗取得進展",
+      "source": "Morningstar",
+      "date": "2026-08-01",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPcDRlTzdlWkgzS3pMOGQ2MkFRVmNOLWtNZWpmMWJNOGJfMkRockpTbk1aZlFHZ2c5WFowVlIySkJ0ZHcxNkFINjFyTVd5bm9maFZ3X0hIdm5hbURpZE1FdkVBdjQxbFhRaTZoUFRHcmU0X0J4eHlSOHVna04ta1pNcG5NLTA0a2NmNi1aSkoxdEtELVpRamcxWGNOTWJIZzlzVVZHaTVZVTN3aENycVBSeDQwdkc5ZjVRWVJtSGVtQ0YtTzFxcVBVZjBKWGxfZExKNEhnaE9RTmlXMmlPeGh3a29abUJGNEZUY0h0akczYS1PSm9MX29uVU13clR1bnNpWDYwOTRMSFFxeXhWeHBZbW93?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） AdComm Votes Against Recommending Deramiocel Approval, Tazbentetol Shows Durable Cognitive Benefit in AD, Salanersen's 美國食藥局（FDA） Breakthrough Designation Meaning",
+      "summary": "ramiocel Approval, Tazbentetol Shows Durable Cognitive Benefit in AD, Salanersen's 美國食藥局（FDA） Breakthrough Designation Meaning NeurologyLive",
       "source": "NeurologyLive",
       "date": "2026-08-01",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZjRrTEViY0MtckM3VXFocDROT2FqeERrVTcyZUdjSW9KN09NWndhWVJqRm5nSnkxdEVrZ3R0QUVnR1NkVTAzeDhYbm95SC1hUUt2RlVYRDZqZ05JRl9XQ2g3OTJYVFRiM1NrZ2tjRlE5dHVrSVFJS29NV0pHTkVWQmtnM0lRb3NrS2RyWXJKWGdpUGlQZUtYbXY5c2RtV2dUUngwMkF0b2hLY2Z1M0VRSjFkOFlhYlhYb0FXcTYyZmFFcXFmbFFuRjFHc01uX2FHaGV5NGVSdkducUlQLXJfMHEtSlBRMUlyY0ZiYlJsaFNXeUZXNEktNDIzNlltY2Z5TXRjX0MyY3ZQdTFQYnBnNWVZeDJmdw?oc=5",
@@ -284,7 +308,7 @@
     },
     {
       "title": "[NA] 芪苓益氣錠合併抗愛滋病毒療法治療肺脾氣虛型 HIV 免疫無反應者",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Beijing University of Chinese Medicine｜This pragmatic randomized controlled trial evaluates whether Qiling Yiqi Tablets combined with antiretroviral therapy (ART) improves immune reconstitution in people with HIV who meet criteria for immune reconstitution failure and lung-spleen qi defic",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：北京中醫藥大學｜這項務實的隨機對照試驗旨在評估芪靈益氣片聯合抗逆轉錄病毒治療（ART）是否能改善符合免疫重建失敗和肺脾氣虛標準的HIV感染者的免疫重建",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-08",
       "url": "https://clinicaltrials.gov/study/NCT07698574",
@@ -315,32 +339,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年 7 月血液學：推動病患照護並提出挑戰的 15 項發展",
-      "summary": "先進且充滿挑戰的病患照護藥局時代",
-      "source": "Pharmacy Times",
-      "date": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZzJXNjBrT0tNSzJxLXRUaGFPazdQLXRFeDZJbm5LX1czVmRqVTdfelhOVTdySkZMZmJZNjl0QWd0SHVxQVk1dG5KOWd3UXFJOG1rcF8ydUpSVWV5WTNJNllZZk55QllTanUxZ2Y2WTJjdEI5RDFJNnhCLXV4bU44TVZYcWxNTkZWZDA4cmdIbElkR0xIVTFVYzZsNEFMbUl2YzF3SnYxd0hQdk40ZVlEeE5HaktlUVE?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "FibroBiologics 報告 2026 年第二季財務表現；評估主要傷口護理候選人的臨床試驗取得進展",
-      "summary": "26 財務表現；評估主要傷口照護候選人的臨床試驗取得進展 美通社",
-      "source": "PR Newswire",
-      "date": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQzdwcUlxWXRvSzladlNUdnFpUS1aX0xnczg0blVfYnRfYjJTa09fSlZWQ01MLTN0cEM2RklTUU9keFBES3VvbGFnNE05ZTZkNUczRGJlWWZhYTlPTnJRZkd0UnVFT0tIRUtZRTNwdmdnTjdNT19GVzQ1MW5hdThUN185bkdXVlZTc3UtNTdnd29OT0xYTE53ajZWejlZcXhYaGY4ajlxWTJEMlZCbDNydmxjYzVqOTdTWXUtNXJ6N2pQUDJZY0VReDJVRHhjSXFxaDd1SF9RQXlEaFNldFpXTmc3d2diVm9fdzVucHFiRjExd2h6ODJIQW9uc3IzTF9kZzBRRk1GVWRiRDg?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "第三期臨床試驗顯示，試驗中的細胞療法能減緩杜興氏肌肉失養症（DMD）的疾病惡化",
-      "summary": "UC Davis Health 指出，該療法減緩了杜興氏肌肉失養症的疾病惡化。",
+      "title": "3 期試驗顯示研究性細胞療法可減緩杜氏肌肉營養不良症的疾病進展",
+      "summary": "治療減緩杜氏肌肉營養不良症的疾病進展 加州大學戴維斯分校健康中心",
       "source": "UC Davis Health",
       "date": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ3hSVlJCRXhLdjhMcDh4Sml5TXBORnhfOHJ0ZHBwb25ZOWphVkFCS2lCQWhucEFzVlVMV3RVN2FzazB6R21mNG56Q1FjamtiazdYeFo0bTJrYVROd1VOamVzV3ZYUTNTa2RTcmkyMzhxSjRycFBzNlc3eDJxLWhnVUFIX1NKc2w0U0VoTXp1MkFsSWpISUNHclpRNE5aX1Z0bDhZbzRHVE4yU0hBME9uTkJmb2ZVd2loMTRlOF9VYkoxa2VoUHBIZWxZRFpSRXVNUEhnWTlXMmlXbFVMM0tkUlFKVmJmYk00SkR2bw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "杜興氏肌肉失養症（",
-      "summary": "",
+      "title": "DMD 細胞療法在 III 期試驗中延遲疾病進展",
+      "summary": "ion 在精準醫學內的 III 期試驗中",
       "source": "Inside Precision Medicine",
       "date": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbS13czRROTJmMWlqX05EaXZnZGp3eXQ4cVYyTkIxVWxkeWVRMTV5MmQ4SEFoelczZERSbjRVeUNqa3VQMmFRQmhHSmlxUEE3VXlFcEVoZ3l2SkxvQ0RVNlhRVzlLcHBMR3ZJVTlHOU0xc0hnTzFzTTByNm1vTlhqU29HT2N0bnpheG9ZMU5OQ3ZGeFNLZ2dXSjRJY1N4d2Jaei13aVg4SWFoQnU5eTlPTldyLWhTUUktTC1laTBGN1NWdHhHZEF2bA?oc=5",
@@ -355,9 +363,9 @@
       "lang": "zh-TW"
     },
     {
-      "title": "新的治療標靶擴大了多發性骨髓瘤的選擇",
-      "summary": "或多發性骨髓瘤 Penn Medicine",
-      "source": "Penn Medicine",
+      "title": "New therapeutic target expands options for multiple myeloma",
+      "summary": "or multiple myeloma pennmedicine.org",
+      "source": "pennmedicine.org",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQnA4YUU5UHhvUUd3ZHlURUtMeVVjbG1iRnNGMnhPbGhpcmN1c1c0dFIwUlE4QkhRUG5NaTVBbjFqOE9Odm9ocTdqZ01XYUJqQVdaTUk5b2FmdlZLUXpsdnpla054MDhQN3FpNkQ4ZF9NWVhEc0hUNkNuellYREhUMUNrWGVRTFNXRmZRZDYwSV91M1NtbVR1Zg?oc=5",
       "lang": "zh-TW"
@@ -387,8 +395,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "腫瘤異質性：發展、機制與治療應用",
-      "summary": "本文深入探討腫瘤異質性的形成、作用機制，及其對癌症治療策略的關鍵影響。",
+      "title": "腫瘤異質性：發展、機制與治療意義",
+      "summary": "主義與治療意義 自然",
       "source": "Nature",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xOHRwY3A2cEhNTmRLZnMzaVM2NVpabzI1ZUhjYXpOUzQzMVhNaFNETDZiSzg0b3JyTl9iVzV5Q0VkM1hrQ2w4MDBSVG1EdzFOSThfeFpta3pQYXB6Sk1J?oc=5",
