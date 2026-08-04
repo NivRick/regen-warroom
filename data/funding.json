@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-08-04T00:02:26.664922+00:00",
+  "updated": "2026-08-04T12:56:24.334868+00:00",
   "items": [
     {
-      "title": "STAT+：是否正在醞釀一場製藥大廠合併？",
-      "summary": "Moderna's imminent 美國食藥局（FDA） vaccine decision, TCGX launches $400M Asia biotech fund, and more biotech news",
+      "title": "川普政府力推法院強制精神醫療，新報告引發質疑",
+      "summary": "一份針對紐約州法院強制精神疾病照護的研究，為這類非自願性醫療增添了更多討論。",
+      "source": "STAT News",
+      "date": "2026-08-04",
+      "url": "https://www.statnews.com/2026/08/04/new-report-questions-new-york-program-court-ordered-mental-healthcare/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "藥廠界超級大併購案要來了嗎？",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-08-03",
       "url": "https://www.statnews.com/2026/08/03/biotech-news-is-there-a-pharma-mega-merger-coming-astrazeneca-bms/?utm_campaign=rss",
@@ -56,6 +64,14 @@
       "source": "BioPharma Dive",
       "date": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "「總有第一次」：為何美國生技公司Axiom選擇在香港啟動上市之路",
+      "summary": "美國生技公司Axiom將開創先例，選擇在香港啟動首次公開募股（IPO）之路。此舉引發業界關注，探討其背後原因及對未來生技募資市場的影響。",
+      "source": "Fierce Biotech",
+      "date": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
       "lang": "zh-TW"
     }
   ]
