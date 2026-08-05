@@ -1,18 +1,26 @@
 {
   "module": "research",
-  "updated": "2026-08-05T12:49:13.252321+00:00",
+  "updated": "2026-08-05T23:48:48.523815+00:00",
   "items": [
     {
-      "title": "基因療法新突破：挖掘與改造活性PiggyBac (轉座子) 技術",
-      "summary": "本文探討如何挖掘與改造活性PiggyBac (轉座子)，以應用於基因療法，為未來治療帶來新契機。",
+      "title": "活性PiggyBac轉座子系統的挖掘與工程化",
+      "summary": "探討如何挖掘與改造活性PiggyBac轉座子系統，以應用於基因工程或基因療法領域。",
       "source": "PubMed",
       "date": "2026-08-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42529264/",
       "lang": "zh-TW"
     },
     {
-      "title": "針對人類羊膜支架上培養的牙周韌",
+      "title": "漢黃芩素鎖定MAPK-EGR1訊號傳導軸，抑制細胞與人類結",
       "summary": "",
+      "source": "PubMed",
+      "date": "2026-08-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555528/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "A matrix-adapted RNA extraction strategy for targeted RT-qPCR analysis of periodontal ligament fibroblasts cultured on human amniotic membrane 生物支架.",
+      "summary": "人類羊膜（HAM）是牙周組織工程的一種有前途的支架，支持人類牙周膜纖維母細胞（HPDLF）的有利細胞反應。然而，HAM 上培養的細胞的分子表徵經常受到細胞外基質衍生成分的阻礙...",
       "source": "PubMed",
       "date": "2026-08-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42548905/",
@@ -59,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "含 MnO 的異種發育基質水凝膠",
-      "summary": "類固醇相關性骨壞死（SON）的特徵是難治性骨缺損微環境，涉及氧化壓力、持續發炎和血管化受損，這限制了傳統移植材料的功效。在這裡，我們開發了一種臨時可編程複合材料...",
+      "title": "結合氧化錳的異種發育基質水凝膠",
+      "summary": "類固醇相關骨壞死（SON）的特點是難治性骨缺損微環境，其中涉及氧化壓力與持續性發炎。",
       "source": "PubMed",
       "date": "2026-08-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494751/",
       "lang": "zh-TW"
     },
     {
-      "title": "膝關節軟骨損傷與修復中氣體分子及相關因子的角色：文獻計量視覺化分析研究熱點",
-      "summary": "這項研究透過文獻計量分析，探討氣體分子在膝關節軟骨損傷與修復中的關鍵角色及最新研究趨勢。",
+      "title": "氣體分子及相關因子在膝關節軟骨損傷與修",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-08-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42493773/",
@@ -84,7 +92,7 @@
     },
     {
       "title": "人工智慧對異種移植和再生醫學對結束器官短缺的影響。",
-      "summary": "本篇綜述的目的是總結過去 2 年中最具影響力和概念上最重要的出版物，包括 2026 年的大量出版物，並確定可能在不久的將來塑造異種移植和再生醫學的新興方向。進展...",
+      "summary": "本次综述的目的是总结过去 2 年中最具影响力和概念上最重要的出版物，包括 2026 年的大量出版物，并确定可能在不久的将来塑造异种移植和再生医学的新兴方向。進展...",
       "source": "PubMed",
       "date": "2026-08-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472700/",
@@ -123,19 +131,27 @@
       "lang": "zh-TW"
     },
     {
-      "title": "使用拉曼光譜對組織中植入的藻酸鹽水凝膠進行穩健檢測和高解析度繪圖。",
-      "summary": "海藻酸鹽水凝膠對於各種生物醫學應用具有很高的價值，例如組織工程的支架和細胞治療的載體。海藻酸鹽是一種從褐藻中提取的天然多醣，其獨特之處在於它能夠在 Ca 存在下形成水凝膠。",
+      "title": "利用拉曼光譜精準偵測與高解析度定位植入組織的海藻酸水凝膠",
+      "summary": "海藻酸水凝膠在多種生醫應用中極具價值，例如作為組織工程支架和細胞治療載體。",
       "source": "PubMed",
       "date": "2026-08-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42470815/",
       "lang": "zh-TW"
     },
     {
-      "title": "整合霍夫邁斯特處理PVA水凝膠與膠原蛋白包覆PCL微球的新型雙層骨軟骨支架",
-      "summary": "骨軟骨組織工程雖具潛力，但挑戰重重，因為有效的支架必須具備能符合組織異質性的梯度特性。",
+      "title": "一種新型雙層軟骨",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-08-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42456236/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "超解析度成像揭示了 CAR-T細胞療法 細胞免疫突觸肌動蛋白結構的改變。",
+      "summary": "肌動蛋白細胞骨架在 T 細胞活化過程中免疫突觸 (IS) 形成中發揮關鍵的整合作用，但這些動態在嵌合抗原受體 (CAR)-T 細胞中如何改變仍不清楚。在這裡，我們使用受激發射損耗 (STED) 顯微鏡進行了第一次超...",
+      "source": "PubMed",
+      "date": "2026-08-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42554735/",
       "lang": "zh-TW"
     },
     {
@@ -144,22 +160,6 @@
       "source": "PubMed",
       "date": "2026-08-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42491381/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "護理點 CAR-T細胞療法 細胞製造是中等收入國家癌症免疫治療公平之路。",
-      "summary": "",
-      "source": "PubMed",
-      "date": "2026-08-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42495551/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CuAAC 點擊反應生物共軛的最新進展：合成與生物應用。",
-      "summary": "點擊化學是一種高度可靠且簡單的生物共軛方法。它具有高選擇性和生物相容性，可實現雙正交標記和再生醫學。其在標靶治療、藥物傳輸、分子成像和奈米技術方面的變革性應用...",
-      "source": "PubMed",
-      "date": "2026-08-05",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42430826/",
       "lang": "zh-TW"
     },
     {
@@ -213,7 +213,7 @@
     {
       "title": "[第 3 期] 一項評估注射依騰米加口服泊馬度胺與標準療法治療成人復發性或難治性多發性骨髓瘤的不良事件和疾病活動變化的研究",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：艾伯維｜多發性骨髓瘤（MM）是一種漿細胞惡性腫瘤，其特徵是骨髓中克隆漿細胞的增生。此疾病主要局限於骨骼和骨髓，導致血球減少、骨痛、骨折、感染、",
-      "source": "ClinicalTrials.gov｜Australia, Taiwan, Netherlands",
+      "source": "ClinicalTrials.gov｜United Kingdom, Portugal, Australia",
       "date": "2026-08-05",
       "url": "https://clinicaltrials.gov/study/NCT07728188",
       "lang": "zh-TW"
@@ -245,7 +245,7 @@
     {
       "title": "[第 2 期] 一項研究，旨在評估 Imzokitug 聯合 Pumitamig 和鉑雙藥化療 (PDCT) 與 Pumitamig 和 PDCT 作為局部晚期或轉移性非小細胞肺癌 (NSCLC) 參與者一線治療的安全性、耐受性和有效性",
       "summary": "狀態：招募中｜主辦單位：百時美施貴寶｜本研究的目的是評估 Imzokitug 合併 Pumitamig 和鉑雙聯化療 (PDCT) 與 Pumitamig 和 PDCT 作為局部晚期參與者一線治療的安全性、耐受性和有效性",
-      "source": "ClinicalTrials.gov｜Australia, United Kingdom, Spain",
+      "source": "ClinicalTrials.gov｜United Kingdom, Chile, Australia",
       "date": "2026-08-05",
       "url": "https://clinicaltrials.gov/study/NCT07680764",
       "lang": "zh-TW"
@@ -275,31 +275,31 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生技新創公司運用基因編輯技術（CRISPR），成功消除米格魯幼犬的主要狗狗過敏原",
-      "summary": "這些幼犬的成功，是解決犬類過敏原問題的關鍵第一步，也象徵獸醫生物科技領域的重大進展。",
+      "title": "基因療法製程開發的無縫整合",
+      "summary": "一家承接多項腺相關病毒（AAV）專案的委託製造商表示，關鍵利害關係人及早參與、主動進行風險評估，對於基因療法製程開發的順利推動至關重要。",
+      "source": "GEN News",
+      "date": "2026-08-05",
+      "url": "https://www.genengnews.com/topics/bioprocessing/seamless-integration-in-gene-therapy-process-development/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Fur Real：生物技術新創公司利用 基因剪輯技術（CRISPR） 消除比格犬幼崽中的主要狗過敏原",
+      "summary": "這些小狗代表了解決犬類過敏性問題的關鍵第一步，並可能標誌著獸醫生物技術的重大進展。\n使用 基因剪輯技術（CRISPR） 在比格犬幼崽中狗過敏原的帖子首先出現在 GEN - 基因工程和",
       "source": "GEN News",
       "date": "2026-08-05",
       "url": "https://www.genengnews.com/topics/genome-editing/fur-real-biotech-startup-eliminates-major-dog-allergen-in-beagle-pups-using-crispr/",
       "lang": "zh-TW"
     },
     {
-      "title": "一期臨床試驗：DSP-0390合併Atezolizumab治療小細胞肺癌",
-      "summary": "這項由華盛頓大學醫學院主辦的一期臨床試驗，正在招募病患，旨在評估DSP-0390合併Atezolizumab治療小細胞肺癌的安全性，為後",
+      "title": "臨床一期：DSP-0390 併用 Atezolizumab 治療小細胞肺癌",
+      "summary": "狀態：收案中｜主辦：華盛頓大學醫學院｜這是一項單一中心、先導性臨床一b期試驗，設有安全性導入期，旨在評估其安全性。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-08-03",
       "url": "https://clinicaltrials.gov/study/NCT07545954",
       "lang": "zh-TW"
     },
     {
-      "title": "首批",
-      "summary": "",
-      "source": "GEN News",
-      "date": "2026-08-03",
-      "url": "https://www.genengnews.com/topics/infectious-diseases/combined-phage-therapy-and-fmt-reduces-recurrent-utis-and-antibiotic-use-in-first-human-case-series/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "基因剪輯技術（CRISPR） Therapeutics 報告 2026 年第二季財務表現與管道更新",
+      "title": "基因剪輯技術（CRISPR） Therapeutics Reports Second Quarter 2026 Financial Results and Pipeline Updates",
       "summary": "2026 年財務表現與管道更新 Quiver Quantitative",
       "source": "Quiver Quantitative",
       "date": "2026-08-03",
@@ -307,7 +307,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[NA] 基於 Rg1 的補充劑對 60 歲以上女性運動訓練誘導的幹細胞募集和骨骼肌適應的影響",
+      "title": "[NA] Effect of Rg1-based Supplementation on Exercise Training-induced 幹細胞 Recruitments and Skeletal Muscle Adaptation in Women Aged > 60",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：台北大學｜這項研究將為骨髓幹細胞在肌肉適應長期運動中的作用提供新的見解，並加深我們對基於 Rg-1 的補充劑 Senactiv® 作為預防肌肉減少症潛在幹預措施的理解",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-02",
@@ -339,7 +339,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "DMD 細胞療法在 III 期試驗中延遲疾病進展",
+      "title": "DMD 細胞治療 Delays Disease Progression in 第三期試驗 Trial",
       "summary": "ion 在精準醫學內的 III 期試驗中",
       "source": "Inside Precision Medicine",
       "date": "2026-07-29",
@@ -371,14 +371,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA局長國家優先審查憑證（CNPV）試行計畫",
-      "summary": "美國FDA推出局長國家優先審查憑證（CNPV）試行計畫，旨在加速特定藥物或療法的審查流程。",
-      "source": "fda.gov",
-      "date": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "新型 CAR-T細胞療法 細胞療法為難以治療的腎癌提供了有希望的選擇",
       "summary": "g 難以治療的腎癌的選擇 UT MD 安德森",
       "source": "UT MD Anderson",
@@ -387,16 +379,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "腫瘤異質性：其發展、機制與對治療的影響",
-      "summary": "深入探討腫瘤異質性的形成、作用機制，以及它如何影響癌症治療策略，為新藥開發提供方向。",
+      "title": "腫瘤異質性：發展、機制與治療意義",
+      "summary": "主義與治療意義 自然",
       "source": "Nature",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xOHRwY3A2cEhNTmRLZnMzaVM2NVpabzI1ZUhjYXpOUzQzMVhNaFNETDZiSzg0b3JyTl9iVzV5Q0VkM1hrQ2w4MDBSVG1EdzFOSThfeFpta3pQYXB6Sk1J?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "[第二期臨床試驗] 依庫珠單抗治療高風險移植相關血栓性微血管病變（TA-TMA）的安全性與療效",
-      "summary": "狀態：收案中｜主辦：浙江大學附屬第一醫院｜針對高風險、補體介導、未經治療的移植相關",
+      "title": "第二期臨床試驗：依庫珠單抗治療高風險移植相關血栓性微血管病變的安全性與療效",
+      "summary": "狀態：招募中｜主辦單位：浙江大學醫學院附屬",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-07-10",
       "url": "https://clinicaltrials.gov/study/NCT07707687",

@@ -1,45 +1,37 @@
 {
   "module": "regulation",
-  "updated": "2026-08-05T12:49:57.837310+00:00",
+  "updated": "2026-08-05T23:49:31.455739+00:00",
   "items": [
     {
       "title": "Recursion 與基因泰克合作推進透過 AI 地圖發現的第一個經過驗證的神經目標",
-      "summary": "The target’s significance, according to Recursion and its partners, rests in its potential to expand the universe of neuroscience treatments beyond the handful of familiar targets in the space. While more than three billion people are affected by neu",
+      "summary": "根據 Recursion 及其合作夥伴的說法，該目標的重要性在於將神經科學治療領域擴展到該領域少數熟悉目標之外的潛力。雖然超過三十億人受到新冠病毒的影響",
       "source": "GEN News",
       "date": "2026-08-05",
       "url": "https://www.genengnews.com/topics/artificial-intelligence/recursion-partners-with-genentech-to-advance-first-validated-neuro-target-discovered-through-ai-map/",
       "lang": "zh-TW"
     },
     {
-      "title": "COVID-19疫苗的開發與核准",
-      "summary": "這是美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）針對COVID-19疫苗開發與生物製劑的產業指引。",
+      "title": "預防 COVID-19 的疫苗的開發和許可",
+      "summary": "這是工業、預防 COVID-19、CBER、生物製品指南",
       "source": "FDA Biologics",
       "date": "2026-08-03",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/development-and-licensure-vaccines-prevent-covid-19",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "來自美國",
+      "title": "生物製品的新動態",
+      "summary": "Latest news from the Center for Biologics Evaluation and Research",
       "source": "FDA Biologics",
       "date": "2026-08-03",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
+      "title": "Leveraging Prior Knowledge in the Development of Human 基因療法 Products Incorporating Genome Editing",
       "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
       "source": "FDA Biologics",
       "date": "2026-08-03",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "演化多元生物的基因開關：開啟機制簡單，關閉機制動態",
-      "summary": "一項新研究發現，細胞用來開啟基因的訊號，歷經二十億年的演化幾乎保持不變，但那些",
-      "source": "GEN News",
-      "date": "2026-08-03",
-      "url": "https://www.genengnews.com/topics/omics/evolutionarily-diverse-organisms-switch-genes-on-simply-and-switch-them-off-dynamically/",
       "lang": "zh-TW"
     },
     {
@@ -52,7 +44,7 @@
     },
     {
       "title": "生物製品程序 (SOPP)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
+      "summary": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in 美國食藥局（FDA）'s Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as t",
       "source": "FDA Biologics",
       "date": "2026-07-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -60,8 +52,8 @@
     },
     {
       "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
-      "summary": "peutics in 2026 bioinformant.com",
-      "source": "bioinformant.com",
+      "summary": "peutics in 2026 BioInformant",
+      "source": "BioInformant",
       "date": "2026-07-26",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
       "lang": "zh-TW"
