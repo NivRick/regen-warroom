@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-08-04T23:55:04.764066+00:00",
+  "updated": "2026-08-05T12:50:10.981412+00:00",
   "items": [
     {
-      "title": "STAT+：隨著川普政府推動法院下令的精神衛生保健，一份新報告提出了問題",
-      "summary": "一項關於紐約法院下令對患有嚴重心理健康問題的人進行護理的研究補充了對此類非自願護理的研究。",
+      "title": "中國一款慢性阻塞性肺病（COPD）藥",
+      "summary": "",
+      "source": "BioPharma Dive",
+      "date": "2026-08-05",
+      "url": "https://www.biopharmadive.com/news/expedition-therapeutics-series-b-dpp1-copd-general-atlantic/826874/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "川普政府力推法院強制精神醫療，新報告引發質疑",
+      "summary": "一項針對紐約州法院強制重症精神病患照護的研究，為這類非自願性照護的討論增添新面向。",
       "source": "STAT News",
       "date": "2026-08-04",
       "url": "https://www.statnews.com/2026/08/04/new-report-questions-new-york-program-court-ordered-mental-healthcare/?utm_campaign=rss",
@@ -27,30 +35,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：是否正在醞釀一場製藥大廠合併？",
-      "summary": "Moderna 即將做出 美國食藥局（FDA） 疫苗決定、TCGX 推出 4 億美元亞洲生物技術基金以及更多生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-08-03",
-      "url": "https://www.statnews.com/2026/08/03/biotech-news-is-there-a-pharma-mega-merger-coming-astrazeneca-bms/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關阿斯特捷利康-布里斯托爾合併談判、修訂後的 340B 計劃等",
-      "summary": "阿斯特捷利康股價下跌，因投資人對與百時美施貴寶就組建全球最大製藥商之一進行合併談判的報導猶豫不決",
-      "source": "STAT News",
-      "date": "2026-08-03",
-      "url": "https://www.statnews.com/pharmalot/2026/08/03/astrazeneca-bristol-merger-talks-340b-rebate-plan-revised/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：山德士將支付 4.785 億美元以和解與各州長期鬥爭中的價格操縱指控",
-      "summary": "山德士同意支付 4.785 億美元，以了結有關該公司參與陰謀人為抬高和操縱價格的指控。",
-      "source": "STAT News",
-      "date": "2026-08-03",
-      "url": "https://www.statnews.com/pharmalot/2026/08/03/sandoz-to-settle-price-fixing-allegations/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "阿斯特捷利康與布里斯托邁爾斯的大型合併？華爾街並不興奮。",
       "summary": "事實上，在有關製藥巨頭之間潛在合作的報導之後，前者的市值損失了數百億美元。",
       "source": "BioPharma Dive",
@@ -59,17 +43,9 @@
       "lang": "zh-TW"
     },
     {
-      "title": "賽諾菲與再生元「重建信任」； Apnimed 加入一系列「大規模」生物技術 首次公開上市（IPO） 行列",
-      "summary": "賽諾菲執行長表示，希望擴大公司與再生元的富有成效的合作夥伴關係。在其他地方，百時美施貴寶推遲了兩項預期的研究結果，鹽野義支持的一家新創公司上市。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-31",
-      "url": "https://www.biopharmadive.com/news/sanofi-bristol-myers-apnimed-relation-therapeutics/826559/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "一家眼藥生技公司存有 1.18 億美元資金並儲備其高階主管套件",
-      "summary": "ks 其高階主管套件 BioPharma Dive",
-      "source": "BioPharma Dive",
+      "summary": "ks 其行政套房 biopharmadive.com",
+      "source": "biopharmadive.com",
       "date": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",
       "lang": "zh-TW"

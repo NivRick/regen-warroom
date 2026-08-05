@@ -1,18 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-08-04T23:54:40.612617+00:00",
+  "updated": "2026-08-05T12:49:57.837310+00:00",
   "items": [
     {
-      "title": "預防 COVID-19 的疫苗的開發和許可",
-      "summary": "這是工業、預防 COVID-19、CBER、生物製品指南",
+      "title": "Recursion 與基因泰克合作推進透過 AI 地圖發現的第一個經過驗證的神經目標",
+      "summary": "The target’s significance, according to Recursion and its partners, rests in its potential to expand the universe of neuroscience treatments beyond the handful of familiar targets in the space. While more than three billion people are affected by neu",
+      "source": "GEN News",
+      "date": "2026-08-05",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/recursion-partners-with-genentech-to-advance-first-validated-neuro-target-discovered-through-ai-map/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "COVID-19疫苗的開發與核准",
+      "summary": "這是美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）針對COVID-19疫苗開發與生物製劑的產業指引。",
       "source": "FDA Biologics",
       "date": "2026-08-03",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/development-and-licensure-vaccines-prevent-covid-19",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑最新動態",
+      "summary": "來自美國",
       "source": "FDA Biologics",
       "date": "2026-08-03",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -27,19 +35,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "進化多樣化的生物體簡單地打開基因並動態地關閉它們",
-      "summary": "一項新的研究發現，細胞用於開啟基因的訊號在2十億年的演化過程中幾乎保持不變，但用於關閉基因的訊號在生命的一個分支和另一個分支之間卻存在巨大差異。\nSi 上的後基因",
+      "title": "演化多元生物的基因開關：開啟機制簡單，關閉機制動態",
+      "summary": "一項新研究發現，細胞用來開啟基因的訊號，歷經二十億年的演化幾乎保持不變，但那些",
       "source": "GEN News",
       "date": "2026-08-03",
       "url": "https://www.genengnews.com/topics/omics/evolutionarily-diverse-organisms-switch-genes-on-simply-and-switch-them-off-dynamically/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "StockWatch：美國食藥局（FDA） 小組導致 Capricor 股價暴跌，工作人員質疑主要候選藥物 Deramiocel 的有效性",
-      "summary": "去年其主要候選藥物被 美國食藥局（FDA） 拒絕後，Capricor Therapeutics 希望其重新提交的主要候選藥物 Deramiocel 的 BLA 能取得更好的結果。\n貼文 l，工作人員質疑首席候選人 Deramio 的有效性",
-      "source": "GEN News",
-      "date": "2026-08-03",
-      "url": "https://www.genengnews.com/topics/translational-medicine/stockwatch-capricor-plunges-as-fda-panel-staff-question-effectiveness-of-lead-candidate-deramiocel/",
       "lang": "zh-TW"
     },
     {
@@ -48,14 +48,6 @@
       "source": "FDA Biologics",
       "date": "2026-07-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/alphanate",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "氯胺酮觸發特定性別的大腦恢復反應",
-      "summary": "一項針對小鼠的研究表明，大腦中的小膠質細胞免疫細胞在大腦從氯胺酮麻醉中恢復的過程中發揮關鍵作用，並表明女性和男性大腦之間存在差異。\n該貼文overy Responses ap",
-      "source": "GEN News",
-      "date": "2026-07-31",
-      "url": "https://www.genengnews.com/topics/translational-medicine/ketamine-triggers-sex-specific-brain-recovery-responses/",
       "lang": "zh-TW"
     },
     {
@@ -68,8 +60,8 @@
     },
     {
       "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
-      "summary": "2026 年生物資訊學",
-      "source": "BioInformant",
+      "summary": "peutics in 2026 bioinformant.com",
+      "source": "bioinformant.com",
       "date": "2026-07-26",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
       "lang": "zh-TW"
