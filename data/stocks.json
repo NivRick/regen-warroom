@@ -1,6 +1,56 @@
 {
-  "updated": "2026-08-05T23:50:34.444946+00:00",
+  "updated": "2026-08-06T12:54:28.267028+00:00",
   "stocks": [
+    {
+      "code": "1784",
+      "name": "訊聯",
+      "tier": "上游",
+      "close": "59.90",
+      "change": "+1.20",
+      "change_pct": 2.04,
+      "date": "115/08/06",
+      "market": "OTC"
+    },
+    {
+      "code": "4170",
+      "name": "鑫品生醫",
+      "tier": "上游",
+      "close": "11.95",
+      "change": "+0.03",
+      "change_pct": 0.25,
+      "date": "115/08/06",
+      "market": "ESB"
+    },
+    {
+      "code": "4186",
+      "name": "尖端醫",
+      "tier": "上游",
+      "close": "9.04",
+      "change": "+0.40",
+      "change_pct": 4.63,
+      "date": "115/08/06",
+      "market": "ESB"
+    },
+    {
+      "code": "6461",
+      "name": "益得",
+      "tier": "上游",
+      "close": "15.60",
+      "change": "-0.20",
+      "change_pct": -1.27,
+      "date": "115/08/06",
+      "market": "OTC"
+    },
+    {
+      "code": "6712",
+      "name": "長聖",
+      "tier": "上游",
+      "close": "152.50",
+      "change": "+2.50",
+      "change_pct": 1.67,
+      "date": "115/08/06",
+      "market": "OTC"
+    },
     {
       "code": "6794",
       "name": "向榮生技",
@@ -22,6 +72,96 @@
       "market": "TWSE"
     },
     {
+      "code": "6891",
+      "name": "樂迦再生",
+      "tier": "上游",
+      "close": "40.45",
+      "change": "-0.02",
+      "change_pct": -0.05,
+      "date": "115/08/06",
+      "market": "ESB"
+    },
+    {
+      "code": "6892",
+      "name": "台寶生醫",
+      "tier": "上游",
+      "close": "24.50",
+      "change": "-0.18",
+      "change_pct": -0.73,
+      "date": "115/08/06",
+      "market": "ESB"
+    },
+    {
+      "code": "6704",
+      "name": "國璽幹細胞",
+      "tier": "上游",
+      "close": "19.00",
+      "change": "+0.02",
+      "change_pct": 0.11,
+      "date": "115/08/06",
+      "market": "ESB"
+    },
+    {
+      "code": "4724",
+      "name": "宣捷",
+      "tier": "上游",
+      "close": "9.09",
+      "change": "+0.05",
+      "change_pct": 0.55,
+      "date": "115/08/06",
+      "market": "ESB"
+    },
+    {
+      "code": "6973",
+      "name": "永立榮",
+      "tier": "上游",
+      "close": "36.85",
+      "change": "-0.06",
+      "change_pct": -0.16,
+      "date": "115/08/06",
+      "market": "ESB"
+    },
+    {
+      "code": "6986",
+      "name": "和迅",
+      "tier": "上游",
+      "close": "43.55",
+      "change": "-0.10",
+      "change_pct": -0.23,
+      "date": "115/08/06",
+      "market": "OTC"
+    },
+    {
+      "code": "6748",
+      "name": "亞果生醫",
+      "tier": "中游",
+      "close": "196.00",
+      "change": "-21.80",
+      "change_pct": -10.01,
+      "date": "115/08/06",
+      "market": "ESB"
+    },
+    {
+      "code": "6879",
+      "name": "大江基因",
+      "tier": "中游",
+      "close": "34.00",
+      "change": "+0.60",
+      "change_pct": 1.8,
+      "date": "115/08/06",
+      "market": "ESB"
+    },
+    {
+      "code": "6976",
+      "name": "育世博",
+      "tier": "中游",
+      "close": "11.90",
+      "change": "-0.30",
+      "change_pct": -2.46,
+      "date": "115/08/06",
+      "market": "ESB"
+    },
+    {
       "code": "6949",
       "name": "沛爾生醫",
       "tier": "中游",
@@ -32,6 +172,26 @@
       "market": "TWSE"
     },
     {
+      "code": "3118",
+      "name": "進階",
+      "tier": "下游",
+      "close": "31.65",
+      "change": "-0.05",
+      "change_pct": -0.16,
+      "date": "115/08/06",
+      "market": "OTC"
+    },
+    {
+      "code": "3224",
+      "name": "三顧",
+      "tier": "下游",
+      "close": "35.65",
+      "change": "+0.55",
+      "change_pct": 1.57,
+      "date": "115/08/06",
+      "market": "OTC"
+    },
+    {
       "code": "6550",
       "name": "北極星藥",
       "tier": "下游",
@@ -40,6 +200,36 @@
       "change_pct": 1.81,
       "date": "115/08/05",
       "market": "TWSE"
+    },
+    {
+      "code": "6662",
+      "name": "樂斯科",
+      "tier": "下游",
+      "close": "30.20",
+      "change": "+0.25",
+      "change_pct": 0.83,
+      "date": "115/08/06",
+      "market": "OTC"
+    },
+    {
+      "code": "6814",
+      "name": "路迦生醫",
+      "tier": "下游",
+      "close": "24.00",
+      "change": "+0.80",
+      "change_pct": 3.45,
+      "date": "115/08/06",
+      "market": "ESB"
+    },
+    {
+      "code": "6939",
+      "name": "啟弘生技",
+      "tier": "下游",
+      "close": "19.45",
+      "change": "-0.85",
+      "change_pct": -4.19,
+      "date": "115/08/06",
+      "market": "ESB"
     }
   ]
 }
