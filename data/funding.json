@@ -1,10 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-08-06T12:53:59.073683+00:00",
+  "updated": "2026-08-07T01:43:31.319407+00:00",
   "items": [
     {
-      "title": "心臟藥物開發商Braveheart首次公開募股（IPO）募得超過3.82億美元",
-      "summary": "Braveheart是本週計畫進行首次公開募股（IPO）的五家生技公司之一，總計最終可能募得超過10億美元。",
+      "title": "STAT+： 美國食藥局（FDA） 核准 Replimune 黑色素瘤藥物，先前曾兩度被拒絕",
+      "summary": "美國食藥局（FDA） 批准了 Replimune 治療晚期黑色素瘤的藥物，這為公司和患者倡導者在經歷了一場混亂的傳奇之後取得了巨大的勝利。",
+      "source": "STAT News",
+      "date": "2026-08-06",
+      "url": "https://www.statnews.com/2026/08/06/replimune-melanoma-drug-rp1-fda-approves-phase-3-confirmatory-trial/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "武田獲批迎來新一波安眠藥",
+      "summary": "根據華爾街估計，美國食藥局（FDA） 的批准基本上為 Orzeyful 進入一個價值數十億美元的促進「食慾素」蛋白藥物市場掃清了道路。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-06",
+      "url": "https://www.biopharmadive.com/news/takeda-fda-sleep-drug-approval-orexin-orzeyful-narcolepsy/827190/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "心臟藥物開發商 Braveheart 在 首次公開上市（IPO） 中籌集了超過 3.82 億美元資金",
+      "summary": "Braveheart 是計劃於本週進行 首次公開上市（IPO） 定價的五家生技公司之一。他們總共可以從公共投資者籌集超過 10 億美元。",
       "source": "BioPharma Dive",
       "date": "2026-08-05",
       "url": "https://www.biopharmadive.com/news/braveheart-cardiac-drugs-ipo-pricing/826973/",
@@ -19,38 +35,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "來自中國的一種慢性阻塞性肺病藥物獲得了 1.15 億美元的風險投資",
-      "summary": "Expedition Therapeutics 迄今已籌集近 3 億美元，正在研究一種藥物，它認為無論是在開發中還是在市場上，該藥物都比其他慢性阻塞性肺病治療方法具有顯著優勢。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-05",
-      "url": "https://www.biopharmadive.com/news/expedition-therapeutics-series-b-dpp1-copd-general-atlantic/826874/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "輝瑞擴大數十億美元的成本削減計劃",
-      "summary": "這項重組始於三年前，目前預計將帶來 10 億美元的新成本削減，並透過簡化藥品生產為輝瑞再節省 15 億美元。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-04",
-      "url": "https://www.biopharmadive.com/news/pfizer-cost-cuts-savings-2q-2026-earnings/826930/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "強生製藥領導人退休；克里斯塔爾因基因治療失誤而暴跌",
-      "summary": "珍妮佛陶伯特 (Jennifer Taubert) 在長期領導強生製藥業務後將辭職。在其他地方，定價問題阻礙了華爾街分析師認為原本強勁的基因療法的推出。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-04",
-      "url": "https://www.biopharmadive.com/news/johnson-taubert-krystal-vyjuvek-merck-prometheus-pathos-pluvicto/826859/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "阿斯特捷利康與布里斯托邁爾斯的大型合併？華爾街並不興奮。",
-      "summary": "事實上，在有報道稱製藥巨頭之間可能存在合作之後，前者的市值損失了數百億美元。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-03",
-      "url": "https://www.biopharmadive.com/news/astrazeneca-bristol-myers-acquisition-rumors-deal-megamerger/826843/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "一家眼藥生技公司存有 1.18 億美元資金並儲備其高階主管套件",
       "summary": "ks 其高階主管套件 BioPharma Dive",
       "source": "BioPharma Dive",
@@ -59,19 +43,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Dimension 補充 8 億美元庫存，以利用人工智慧的“快速崛起”",
-      "summary": "關注人工智慧的「快速崛起」生物製藥潛水",
-      "source": "BioPharma Dive",
-      "date": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbk5zbjZXNEdNbEM1NFQxM296SXNFWHpDUlhKRkNESXkyWXZ0Z1hDdTdUMjF3b0NIeDhHWXppVDg0UVo5UmhRUEVFeGdRRk9MV0ZpSXp4bXlEcmg4QUs4VWViWTVJcWlRRnM0UnF5cnEtMThuanBSdlcyZXRuMUFMWE1WLW5tWHNmbEVVV0RLbmkxdw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "「總有第一次」：美國生技公司Axiom為何選擇在香港啟動首次公開募股（IPO）？",
-      "summary": "美國生技公司Axiom打破慣例，選擇在香港進行首次公開募股（IPO），引發業界關注。",
+      "title": "「總有一個第一」：為何美國生技公司 Axiom 將在香港開啟 首次公開上市（IPO） 之旅",
+      "summary": "h Axiom 將在香港開始 首次公開上市（IPO） 之旅 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-07-21",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "儘管創投反彈，生技新創企業資金缺口仍在擴大",
+      "summary": "創投反彈 生物製藥 Dive",
+      "source": "BioPharma Dive",
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGhDM3hXSTRJVjFiQ19JeTRzZmMyRGd5Yng5T2N4c3JHYUJzTWVtSmNGcXdPR0JvSzlUcG1zRG90UHFxVnhxLUViSkVSVU9Qa0cwVnoycWRmVUJYUG9jLU9seDNES0tJaExKaVNwc25mTWpETG5Ia19BdEhxZ2VNZmV3UnFrbHRfQ3V0VS1tOGl3ejVY?oc=5",
       "lang": "zh-TW"
     }
   ]

@@ -1,26 +1,50 @@
 {
   "module": "regulation",
-  "updated": "2026-08-06T12:53:35.444562+00:00",
+  "updated": "2026-08-07T01:43:15.002014+00:00",
   "items": [
     {
-      "title": "COVID-19疫苗的開發與核准",
-      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）發布針對業界的指引，說明COVID-19疫苗的開發與核准流程，確保生物製劑的品質與安全。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-08-06",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 批准針對難治性晚期黑色素瘤患者的新型病毒免疫療法",
+      "summary": "美國食品藥物管理局今天加速批准 Tudriqev (vusolimogene oderparepvec-wtpg)，這是一種基因改造溶瘤病毒療法，用於治療晚期難治性黑色素瘤。",
+      "source": "FDA Biologics",
+      "date": "2026-08-06",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "OTP 市政廳：CMC 為基因治療 BLA 做好準備",
+      "summary": "美國食藥局（FDA） 生物製品評估和研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2024 年 6 月 4 日星期二舉辦下一次虛擬市政廳會議，回答利益相關者有關化學、製造和控制的問題（C",
+      "source": "06/04/2024",
+      "date": "2026-08-06",
+      "url": "http://www.fda.gov/news-events/otp-town-hall-cmc-readiness-gene-therapy-blas-06042024",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "OTP Town Hall：細胞和基因治療產品的非臨床評估",
+      "summary": "CBER 和 OTP 將於 2023 年 8 月 30 日星期三舉辦下一次虛擬市政廳活動，回答利益相關者有關細胞和基因治療產品非臨床評估的問題。 OTP 藥理學/毒理學辦公室的專家將在場",
+      "source": "08/30/2023",
+      "date": "2026-08-06",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-nonclinical-assessment-cell-and-gene-therapy-products-08302023",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "預防 COVID-19 的疫苗的開發和許可",
+      "summary": "這是工業、預防 COVID-19、CBER、生物製品指南",
       "source": "FDA Biologics",
       "date": "2026-08-03",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/development-and-licensure-vaccines-prevent-covid-19",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）發布最新消息，涵蓋生物製劑領域的法規更新、新技術發展與產業趨勢，提供業界重要參考資訊。",
-      "source": "FDA Biologics",
-      "date": "2026-08-03",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "基因編輯人類基因療法產品開發中，如何善用",
-      "summary": "",
+      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
+      "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
       "source": "FDA Biologics",
       "date": "2026-08-03",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
@@ -28,7 +52,7 @@
     },
     {
       "title": "阿爾法納特",
-      "summary": "產品核准資訊用於：\n•控制及預防A型血友病或後天因子VIII (FVIII) 缺乏症患者的出血(1.1)\n•血管性血友病成人和兒童病患的外科和/或侵入性手術",
+      "summary": "產品核准資訊用於：\n•控制及預防 A 型血友病或後天因子 VIII (FVIII) 缺乏症患者的出血 (1.1)\n•血管性血友病成人和兒童病患的外科和/或侵入性手術",
       "source": "FDA Biologics",
       "date": "2026-07-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/alphanate",
