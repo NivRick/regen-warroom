@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-08-07T01:42:31.380892+00:00",
+  "updated": "2026-08-07T11:39:04.636791+00:00",
   "items": [
     {
-      "title": "活性PiggyBac轉座子的挖掘與工程化",
-      "summary": "PiggyBac轉座子是一種常用於基因工程的工具。",
+      "title": "主動式PiggyBac轉座子系統的挖掘與工程改造",
+      "summary": "本文探討如何發掘與改造具活性的PiggyBac轉座子系統，應用於基因工程與基因療法。",
       "source": "PubMed",
       "date": "2026-08-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42529264/",
       "lang": "zh-TW"
     },
     {
-      "title": "黃耆苷（Calycosin）鎖定MAPK-EGR1訊號軸，抑制細胞與人類結腸類器官中的腸病毒71複製",
+      "title": "Calycosin透過靶向MAPK-EGR1訊號軸抑制腸病毒",
       "summary": "",
       "source": "PubMed",
       "date": "2026-08-07",
@@ -20,7 +20,7 @@
     },
     {
       "title": "一種基質適應的 RNA 萃取策略，用於對人類羊膜支架上培養的牙周膜成纖維細胞進行靶向 RT-qPCR 分析。",
-      "summary": "Human amniotic membrane (HAM) is a promising 生物支架 for periodontal 組織工程, supporting favorable cellular responses of human periodontal ligament fibroblasts (HPDLFs). However, molecular characterization of cells cultured on HAM is frequently hindered by extracellular matrix-derived co...",
+      "summary": "人類羊膜（HAM）是牙周組織工程的一種有前途的支架，支持人類牙周膜成纖維細胞（HPDLF）的有利細胞反應。然而，HAM 上培養的細胞的分子表徵經常受到細胞外基質衍生成分的阻礙...",
       "source": "PubMed",
       "date": "2026-08-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42548905/",
@@ -67,15 +67,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "異種發育基質水凝膠與氧化錳（MnO）",
-      "summary": "類固醇相關骨壞死（SON）的特點是難治性骨缺損微環境，涉及氧化壓力與持續性發炎。",
+      "title": "含氧化錳（MnO）的異種發育基質水凝膠",
+      "summary": "類固醇相關性骨壞死（SON）的特徵是難治性骨缺損微環境，涉及氧化壓力與持續性發炎。",
       "source": "PubMed",
       "date": "2026-08-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494751/",
       "lang": "zh-TW"
     },
     {
-      "title": "氣體分子及相關因子在膝關節軟骨損傷",
+      "title": "氣體分子及相關因子在膝關",
       "summary": "",
       "source": "PubMed",
       "date": "2026-08-07",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "整合霍夫邁斯特處理PVA水凝膠與膠原蛋白包覆PCL微球的新型雙層軟骨下骨支架",
-      "summary": "軟骨下骨組織工程雖然前景看好，但極具挑戰性，因為有效的支架必須具備漸層特性，才能符合異質性的組織需求。",
+      "title": "新型雙層軟骨支架，結合經霍夫邁斯特處理的聚乙烯醇（PVA）水凝膠與膠原蛋白包覆的聚己內酯（PCL）微球",
+      "summary": "軟骨組織工程前景看好但挑戰重重，因為有效的支架必須具備梯度特性，以",
       "source": "PubMed",
       "date": "2026-08-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42456236/",
@@ -179,8 +179,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[一期臨床] Axatilimab 結合嵌合抗原受體T細胞療法（CAR-T）治療高風險淋巴癌",
-      "summary": "狀態：尚未開始招募｜主辦：Northside Hospital, Inc.｜這項研究將評估 Axatilimab 結合嵌合抗原受體T細胞療法（CAR",
+      "title": "[一期臨床] Axatilimab 結合 嵌合抗原受體T細胞療法（CAR-T）治療高風險淋巴瘤",
+      "summary": "狀態：尚未招募｜主辦：Northside Hospital, Inc.｜Axatilimab 結合 嵌合抗原受體T細胞療法（CAR-T",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-08-07",
       "url": "https://clinicaltrials.gov/study/NCT07638982",
@@ -211,8 +211,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[臨床一/二期] 評估LB-DTK-BKV在異體造血幹細胞移植後BK病毒相關出血性膀胱炎患者的安全性與療效",
-      "summary": "狀態：尚未招募｜主辦：LucasBio｜這項臨床試驗旨在評估BK病毒特異性T細胞",
+      "title": "異體造血幹細胞移植後，針對BK病毒相關出血性膀胱炎患者，評估LB-DTK-BKV的安全性與療效（臨床一/二期）",
+      "summary": "狀態：尚未開始招募｜主辦：LucasBio｜這項臨床試驗旨在評估BK病毒特異性T",
       "source": "ClinicalTrials.gov｜South Korea",
       "date": "2026-08-07",
       "url": "https://clinicaltrials.gov/study/NCT07638332",
@@ -251,27 +251,27 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Cartesian Therapeutics 公布2026年第二季財報，推進Descartes-08臨床試驗並與WestGene建立體內合作夥伴關係",
-      "summary": "Cartesian Therapeutics公布最新財報，並在Descartes-08臨床試驗及與WestGene的體內合作上取得進展。",
-      "source": "Quiver Quantitative",
-      "date": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdU5lRTRQMUdIcW5Vc1h6SWQ0QlJzX3lxZTJiMW5RSnJueWlVZ0JYYzhZTGprUlkwa1U1RHBWaHp1QlVJTXVSSEFBMVZMbUtSMGdYNTRYWVlIbGtvcGMxUDlFRmZGZmRlMWZkRXdFQTNZdGJHaFdnbm9SdEpHV2FFMDZMaXBJT1REODA0S3FkRnphemlCRmtGcUxsT0ZTNU9Zd1ZOWUZyb05ZTjRBLThsRlo1ZG0ya0tONF9XWDN5TmYtNV9OSXdzMW9CZXFqVy1RS09aRWVVc0YyUXRrMnZRc3FwN09CY01B?oc=5",
+      "title": "Lineage Cell Therapeutics 公布 2026 年第二季財報並提供業務更新",
+      "summary": "Lineage Cell Therapeutics 公布 2026 年第二季財報，並說明公司最新業務進展。",
+      "source": "Investing News Network",
+      "date": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZlYzNnF1Xy1oTTJOV2hLTDc0T3hXT0V5U3k4RW5uZktVMEtqWWxKa1BXY0FkMkNCcWUzLUMwclE5YjBzUjZsQWFRSzlpWURXcTJBVlJfT2pnTFY0YlVSSEJRUkREcl90VjhPblRTS0NDN2lHSVhjSmsyRjFpbFhZd2d6YlZqQXZhR2xLYWtRVVR6WHN5aThIamlVZjVZeTJHeUZpbDdWaHB4Si1zLVVYY3Y0XzZvQktFbkFFOU1yRk5Ga190Snc?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "IN8bio 公布2026年第二季財報及近期業務亮",
-      "summary": "",
+      "title": "IN8bio 公布 2026 年第二季財報及近期業務亮點",
+      "summary": "IN8bio 揭露 2026 年第二季財報，並分享公司近期業務發展重點。",
       "source": "GlobeNewswire",
       "date": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUG5iV2xtVkxFc3R0cjQyNXV2YkZSY2hnQXp3RlRuZjRuNUtCdVQxNG9JVmhSNk5yZl91Y3YxQVBRU05jODdjR0dWTUhSaHFKTGRPRGhvcnFveHNtS2xHX1dGSi1yamVrM05QcVVlclFOS2lhM0wybERHOGhsLVA0cGVSZ0J5LXV3dmt5Y0lnNVJ0V0xURlhtZFd1OVFFdU9neTd3YnB5eDFOU2QwNVZZRmEzSmlJX294RTFkbXZtblRKMkpNNXZqbnBXT3hMandLaFNCUVFacWMzc2ZIaEUwd0Z0Q2RHaGhqVDU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVGRQMWh4ZTBDbjNNWmRDMXZRZThBQ0c0X2E1RWVJMDdSN05hTE5Ra2RxMVBkOEFzUU9uUTcxYkNnNHhSZmt4Umxndzd6SnA1QkRXcm1SZFdRZzJlTmxfaGVweDVvSl9FTmhocnhqUW11SVZ5VS1IREJ5OU9TOEFaQjI1OVdmQnUwc04yYS0zMFRHY01VTnZFUnlRZ1pOY3VOYXMwVE9mQ244RWNZQjI1bXBJQUl1ZUZOeHV1U2Vhd0RnUkFNLWdLaEFra1M1Q3h5WnF6azBtX2Mxc3RxZV8wVG9GaWxTWC04N2pz?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Artiva Biotherapeutics 報告 2026 年第二季財務業績與近期業務亮點",
-      "summary": "2026 年財務表現及近期業務亮點 《馬尼拉時報》",
-      "source": "The Manila Times",
+      "title": "Cartesian Therapeutics 公布 2026 年第二季財報，並推進 Descartes-08 臨床試驗與 WestGene 的體內（In Vivo）合作案",
+      "summary": "Cartesian Therapeutics 公布第二季財報，並宣布 Descartes-08 臨床試驗進展與 WestGene 的體內合作案。",
+      "source": "Quiver Quantitative",
       "date": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMEdSaFh4QVJ0ZE1IVGZhYzc1ZHdlcTZkM1ZkeFpyQmNxMDRHdTVzeWlveEVCbllVNXdjdXQtOUlxUHlrQnJGbEpDTzdqRnBUX0R3SklQMnJtMVFLUjJ1VE1fZDZFRW5ta0RMMElpRVlHbndkelZBZXp0TGMyWlZwYXh0RktRYmtDYWtpUVdFdmNMbHhjNGVlQlFBdmZ4LUM3TF9hNTZLNDNsLUItc1lXVjBtb3BjZDJzQTFwd2MzMm9xZGJWcjZQNFhKWGdEdjZTYl93VVpJaW42Q3laYmVVckxpV3N5MDYzMnRsN1JRUTVWbzJCLXR1azZGX0FIY0pHRlZR0gGIAkFVX3lxTE9zbWh4dW55ZzkzZTRscHdNeFNuSWxScUdyNGctVHUyd2N3QnVtNXJoTzM0TWhHVFNBUEp1TVhZX1dQcks3ZWZnVDM0WDNyM3BpUnBNSkx6LVczWjN3NXBycEUtZ1otdno1dzB0NTFVaHNYbmU3TDhvaDNiRjk2U1hVVjB4cUphelMteFI3Njd3TWR1c2dRaTRJS3M0T3B5TFhkOXNyQ1BkNjdMSUZBRmJhcUV4SFVta0tDdVB1LW1RUWlHMkU3ZHNCVm5kYnEzbXBmSXhabk05VFVHQVB4enNma01QcUZwTjliZ3VyVWJKYmhzamVSckJHWHJDaGlROWE0ZjVWNW5NSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNemsyVVBJdVVscThkOGpSZ3RUeFAwUHZ0MVM4UDB1VnFrUUd3LW1rYjd5WE1vU2RyRFZJMHM3V0hpd211ZUJ5allldDA4aWRoWEhCUVVqSThhRElwV0E4LUZsMkhzdVdVOEF4YmxEa0RiRFlyYnJaVWp5WmlIUV83NWZmWG1OSjlQM0pEM3dHUXk1YnlWWUVDX1hwbnRLOWRkLXo2VUpoNDhOLUhMd05ZR19ZQVhQQzRpclNtNTBscHZSQzJBX1cxZ1hQbkpCOVlUTF9xY0ZOVm9YOFNXbkJoYlpKeFRfdw?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -288,14 +288,6 @@
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-01",
       "url": "https://clinicaltrials.gov/study/NCT07191379",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） AdComm 投票反對推薦 Deramiocel 批准，Tazbentetol 在 AD 中顯示出持久的認知益處，Salanersen 的 美國食藥局（FDA） 突破性指定的含義",
-      "summary": "ramiocel 獲批，Tazbentetol 對 AD 具有持久的認知益處，Salanersen 獲得 美國食藥局（FDA） 突破性認定意味著 NeurologyLive",
-      "source": "NeurologyLive",
-      "date": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZjRrTEViY0MtckM3VXFocDROT2FqeERrVTcyZUdjSW9KN09NWndhWVJqRm5nSnkxdEVrZ3R0QUVnR1NkVTAzeDhYbm95SC1hUUt2RlVYRDZqZ05JRl9XQ2g3OTJYVFRiM1NrZ2tjRlE5dHVrSVFJS29NV0pHTkVWQmtnM0lRb3NrS2RyWXJKWGdpUGlQZUtYbXY5c2RtV2dUUngwMkF0b2hLY2Z1M0VRSjFkOFlhYlhYb0FXcTYyZmFFcXFmbFFuRjFHc01uX2FHaGV5NGVSdkducUlQLXJfMHEtSlBRMUlyY0ZiYlJsaFNXeUZXNEktNDIzNlltY2Z5TXRjX0MyY3ZQdTFQYnBnNWVZeDJmdw?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -331,8 +323,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "3 期試驗顯示研究性細胞療法可減緩杜氏肌肉營養不良症的疾病進展",
-      "summary": "治療減緩杜氏肌肉營養不良症的疾病進展 加州大學戴維斯分校健康中心",
+      "title": "第三期臨床試驗顯示，試驗中的細胞療法能減緩杜興氏肌肉失養症（Duchenne muscular dystrophy）的疾病進",
+      "summary": "",
       "source": "UC Davis Health",
       "date": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ3hSVlJCRXhLdjhMcDh4Sml5TXBORnhfOHJ0ZHBwb25ZOWphVkFCS2lCQWhucEFzVlVMV3RVN2FzazB6R21mNG56Q1FjamtiazdYeFo0bTJrYVROd1VOamVzV3ZYUTNTa2RTcmkyMzhxSjRycFBzNlc3eDJxLWhnVUFIX1NKc2w0U0VoTXp1MkFsSWpISUNHclpRNE5aX1Z0bDhZbzRHVE4yU0hBME9uTkJmb2ZVd2loMTRlOF9VYkoxa2VoUHBIZWxZRFpSRXVNUEhnWTlXMmlXbFVMM0tkUlFKVmJmYk00SkR2bw?oc=5",
@@ -387,9 +379,9 @@
       "lang": "zh-TW"
     },
     {
-      "title": "腫瘤異質性：發展、機制與治療應用潛示",
-      "summary": "這篇研究探討腫瘤異質性的發展、作用機制，以及對癌症治療策略的深遠影響。",
-      "source": "Nature",
+      "title": "腫瘤異質性：發展、機制與治療意義",
+      "summary": "主義和治療意義 nature.com",
+      "source": "nature.com",
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xOHRwY3A2cEhNTmRLZnMzaVM2NVpabzI1ZUhjYXpOUzQzMVhNaFNETDZiSzg0b3JyTl9iVzV5Q0VkM1hrQ2w4MDBSVG1EdzFOSThfeFpta3pQYXB6Sk1J?oc=5",
       "lang": "zh-TW"
