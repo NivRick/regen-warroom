@@ -1,18 +1,26 @@
 {
   "module": "research",
-  "updated": "2026-08-08T11:22:20.167664+00:00",
+  "updated": "2026-08-08T23:18:08.614812+00:00",
   "items": [
     {
-      "title": "主動式PiggyBac轉座子系統的探索與工程化",
-      "summary": "本研究旨在深入挖掘並改造具活性的PiggyBac轉座子系統，以提升其在基因編輯與治療應用上的效率與精準度。",
+      "title": "主動式豬籠草轉座子（PiggyBac）的挖掘與工程應用",
+      "summary": "豬籠草轉座子（PiggyBac）是一種高效的基因轉座系統，廣泛應用於基因編輯與細胞工程領域。",
       "source": "PubMed",
       "date": "2026-08-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42529264/",
       "lang": "zh-TW"
     },
     {
-      "title": "丹參酮（Calycosin）透過靶向",
+      "title": "從神經發育到再生醫學",
       "summary": "",
+      "source": "PubMed",
+      "date": "2026-08-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42568821/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "毛蕊異黃酮以 MAPK-EGR1 訊號軸為靶點，抑制腸病毒 71 在細胞和人類結腸類器官中的複製。",
+      "summary": "在腸病毒 71 (EV71) 感染期間介導 MAPK 通路促病毒功能的下游效應器仍不清楚。在這裡，我們表明早期生長反應 1 (EGR1) 受到三個經典 MAPK 分支的獨立調節，包括細胞外信號調節...",
       "source": "PubMed",
       "date": "2026-08-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42555528/",
@@ -59,24 +67,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "用於再生的翻譯後修飾調節生物材料。",
-      "summary": "翻譯後修飾 (PTM) 是指蛋白質生物合成後發生的共價化學改變，包括磷酸化、乙醯化、泛素化和數百種其他已記錄的變異。這些修飾充當動態分子代碼，精確調節...",
+      "title": "轉譯後修飾調控生醫材料在再生醫學的應用",
+      "summary": "轉譯後修飾（PTM）指的是蛋白質在生物合成後，發生的共價化學修飾，包含磷酸化等。",
       "source": "PubMed",
       "date": "2026-08-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494753/",
       "lang": "zh-TW"
     },
     {
-      "title": "結合氧化錳的異種發育基質水凝膠",
-      "summary": "類固醇相關骨壞死（SON）的特點是難治性骨缺損微環境，其中涉及氧化壓力與持續性發炎。",
+      "title": "結合氧化錳（MnO）的異種發育基",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-08-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494751/",
       "lang": "zh-TW"
     },
     {
-      "title": "氣體分子及相關因子在膝關節軟骨損傷與",
-      "summary": "",
+      "title": "氣體分子及相關因素在膝關節軟骨損傷與修復中的作用：研究熱點的文獻計量可視化分析。",
+      "summary": "JOURNAL/mgres/04.03/01612956-202612000-00012/figure1/v/2026-07-23T200825Z/r/image-tiff 膝關節軟骨損傷後，自我修復能力有限，容易進展為骨關節炎。最近，氣體訊號分子如一氧化氮和氧氣，以及活性氧...",
       "source": "PubMed",
       "date": "2026-08-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42493773/",
@@ -123,24 +131,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Triclocarban 透過 SLC7A11/GSH/GPX4 軸觸發鐵死亡來驅動肝內膽管細胞損傷。",
-      "summary": "三氯生 (TCS) 和三氯卡班 (TCC) 廣泛用作抗菌劑，由於環境釋放量不斷增加，會直接與人類接觸。由於擔心 TCS 對環境的影響和潛在的肝毒性，許多國家正在逐步淘汰它...",
+      "title": "三氯卡班透過SLC7A11/GSH/GPX4路徑觸發鐵死亡，導致肝內膽管細胞損傷",
+      "summary": "三氯沙（TCS）和三氯卡班（TCC）是廣泛使用的抗菌劑，因其日益增加的應用，會與人體直接接觸。",
       "source": "PubMed",
       "date": "2026-08-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42476445/",
       "lang": "zh-TW"
     },
     {
-      "title": "拉曼光譜在組織內植入海藻酸水凝膠的精準偵測與高解析度定位應用",
-      "summary": "海藻酸水凝膠在生醫領域應用廣泛，例如作為組織工程的支架，以及細胞治療的載體，潛力十足。",
+      "title": "利用拉曼光譜對組織中植入的藻酸鹽水凝膠進行穩健檢測和高解析度繪圖。",
+      "summary": "海藻酸鹽水凝膠對於各種生物醫學應用具有很高的價值，例如組織工程的支架和細胞治療的載體。海藻酸鹽是一種從褐藻中提取的天然多醣，其獨特之處在於它能夠在 Ca 存在下形成水凝膠。",
       "source": "PubMed",
       "date": "2026-08-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42470815/",
       "lang": "zh-TW"
     },
     {
-      "title": "創新雙",
-      "summary": "",
+      "title": "一種新型雙層骨軟骨支架，將 Hofmeister 處理的 PVA 基水凝膠與膠原蛋白塗層 PCL 微球結合。",
+      "summary": "骨軟骨組織工程前景廣闊，但也充滿挑戰，因為有效的支架必須呈現與異質骨軟骨組織相符的梯度特性，同時為植入後負荷提供足夠的機械支撐。在這裡，一種新型的雙層支架是根據...",
       "source": "PubMed",
       "date": "2026-08-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42456236/",
@@ -155,17 +163,9 @@
       "lang": "zh-TW"
     },
     {
-      "title": "心血管-腎臟-代謝症候群的生物標記引導藥物治療：精準藥物選擇和監測的三維框架。",
-      "summary": "心血管-腎臟-代謝 (CKM) 症候群由美國心臟協會於 2023 年正式定義，影響約 90% 的符合 1 期或更高階段標準的美國成年人。多種藥物類別對 CKM 路徑、SGLT2 抑制劑、finerenone、GLP-1 受體 ag 的快速融合...",
-      "source": "PubMed",
-      "date": "2026-08-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42492739/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "[第 3 期] 一項評估注射依騰米加口服泊馬度胺與標準療法治療成人復發性或難治性多發性骨髓瘤的不良事件和疾病活動變化的研究",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：艾伯維｜多發性骨髓瘤（MM）是一種漿細胞惡性腫瘤，其特徵是骨髓中克隆漿細胞的增生。此疾病主要局限於骨骼和骨髓，導致血球減少、骨痛、骨折、感染、",
-      "source": "ClinicalTrials.gov｜France, Hungary, Netherlands",
+      "source": "ClinicalTrials.gov｜United Kingdom, France, Spain",
       "date": "2026-08-08",
       "url": "https://clinicaltrials.gov/study/NCT07728188",
       "lang": "zh-TW"
@@ -179,8 +179,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "臨床一期：神經導航聚焦超音波結合Nivolumab，治療復發性與進展性瀰漫性中線膠質瘤（DMG）及其他高度惡性腦瘤",
-      "summary": "狀態：尚未開始招募｜主辦：美國國家兒童醫學中心研究機構｜這是一項",
+      "title": "[第一期] NgFUS NIVO：神經導航引導聚焦超音波結合Nivolumab治療復發性與進展性瀰漫性中線膠質瘤（DMG）及其他高惡性度腦瘤",
+      "summary": "狀態：尚未開始招募｜主辦：美國國家兒童醫學",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-08",
       "url": "https://clinicaltrials.gov/study/NCT07664176",
@@ -259,16 +259,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Adicet Bio 公布 2026 年第二季財報並提供業務更新",
-      "summary": "生技公司 Adicet Bio 公布最新財報，並說明其第二季營運狀況與未來展望。",
+      "title": "新聞稿服務：Adicet Bio 公布 2026 年第二季財報並提供業務更新",
+      "summary": "Adicet Bio 公布了 2026 年第二季的財務表現，並同步更新了公司最新的業務進展。這份報告將讓投資人與業界了解 Adicet Bio",
       "source": "CRISPR Medicine News",
       "date": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNC1TTUNsTkktY0FFUzJFamFfVzl6bl93MGo5TTF0RE4tLTQxMThWVHQwSVRRWE1BUEVUVVRqaEdzYndZT2dTMDh1S1pCTmZlMm9FeVBfSllIdDdSdTZzSF9LdWkyV1VjVDVPN1VXME5JQ3ctNjRTU29tb05xVWJKMm9QU1JqS0hzV1lOVDJLTS01OUlMb01EcWpVZ1RHLUFBX19uNHNXT1pmWTM3WV9HYW5HRFlJdnpJY0tmOWVtc2tQMjdPeFpPaXlNR0ZqYlZOcHIycGxzUE1ZTk9kMEE?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Lineage Cell Therapeutics 公布 2026 年第二季財報",
-      "summary": "",
+      "title": "Lineage Cell Therapeutics 報告 2026 年第二季財務業績並提供業務更新",
+      "summary": "2026 年季度財務業績並提供業務更新 投資新聞網絡",
       "source": "Investing News Network",
       "date": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZlYzNnF1Xy1oTTJOV2hLTDc0T3hXT0V5U3k4RW5uZktVMEtqWWxKa1BXY0FkMkNCcWUzLUMwclE5YjBzUjZsQWFRSzlpWURXcTJBVlJfT2pnTFY0YlVSSEJRUkREcl90VjhPblRTS0NDN2lHSVhjSmsyRjFpbFhZd2d6YlZqQXZhR2xLYWtRVVR6WHN5aThIamlVZjVZeTJHeUZpbDdWaHB4Si1zLVVYY3Y0XzZvQktFbkFFOU1yRk5Ga190Snc?oc=5",
@@ -291,6 +291,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "美國食藥局（FDA） 於 2026 年 7 月授予快速通道和優先審查資格",
+      "summary": "國家於 2026 年 7 月授予 腫瘤學新聞中心",
+      "source": "Oncology News Central",
+      "date": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVhBSzZwQ2RrbTRoVjA2cnhteUNHTkFJTVltYjhlODBUbnJPWGkxcjVSaVp5bFZEMzRLMzRpM2lsQjdLeVBtdDl4YmprUFNMR2liNEJ6bnVQZkFRSEwtUjhJN0d6OG9mcTY0ajFEQ2E5SkFtaThDR3djTkZMRHV4UFlvQk1DLThJM1pZWjVkb3FlaFpZeW12elpQdjZXWVJma1A4a3hhQXl6d285WFQzZ1k3NkpqLU1pYmhyTVZtdw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "[NA] 為 BMT 護理人員開發基於正念的智慧型手機應用程式",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：H. Lee Moffitt 癌症中心和研究所｜這項試驗研究評估了智慧型手機為造血幹細胞移植 (HCT) 患者的照護者提供正念介入的可行性、可接受性、可用性和參與度。三十名護理人員將使用該應用程序，我們六人",
       "source": "ClinicalTrials.gov｜United States",
@@ -299,9 +307,9 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第一/二期：GEB-101注射劑治療TGFBI相關角膜失養症患者的安全性與有效性研究",
-      "summary": "這項臨床試驗由GenEditBio Limited主辦，旨在評估GEB-101注射劑在患有TGFBI相關角膜失養症受試者",
-      "source": "ClinicalTrials.gov｜China, United States",
+      "title": "針對TGFBI相關角膜失養症患者，評估GEB-101注射劑的安全性與療效（臨床一/二期）",
+      "summary": "狀態：尚未招募｜主辦：GenEditBio 有限公司｜這項臨床試驗旨在評估GEB-101注射劑在患者",
+      "source": "ClinicalTrials.gov｜United States, China",
       "date": "2026-08",
       "url": "https://clinicaltrials.gov/study/NCT07750678",
       "lang": "zh-TW"
@@ -344,14 +352,6 @@
       "source": "UC Davis Health",
       "date": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ3hSVlJCRXhLdjhMcDh4Sml5TXBORnhfOHJ0ZHBwb25ZOWphVkFCS2lCQWhucEFzVlVMV3RVN2FzazB6R21mNG56Q1FjamtiazdYeFo0bTJrYVROd1VOamVzV3ZYUTNTa2RTcmkyMzhxSjRycFBzNlc3eDJxLWhnVUFIX1NKc2w0U0VoTXp1MkFsSWpISUNHclpRNE5aX1Z0bDhZbzRHVE4yU0hBME9uTkJmb2ZVd2loMTRlOF9VYkoxa2VoUHBIZWxZRFpSRXVNUEhnWTlXMmlXbFVMM0tkUlFKVmJmYk00SkR2bw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "誘導型多能幹細胞（iPSC） 衍生的神經祖細胞療法治療亞急性脊髓損傷：具有長期追蹤的 1 期試驗",
-      "summary": "亞急性脊髓損傷的治療：長期追蹤的 1 期試驗 Nature",
-      "source": "Nature",
-      "date": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VUVh1SmFkcFJhUklPU0prTUFSaGR1SmRqTXh0b2tCLTdLM1p4NFRtNmNfSTZLT2lqT0RGcENVTzM1ZzEtNWZRemRxUmhXYTg0aHZhcF9JX0k4VWFSM3hz?oc=5",
       "lang": "zh-TW"
     },
     {
