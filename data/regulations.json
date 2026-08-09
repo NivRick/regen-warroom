@@ -1,6 +1,6 @@
 {
   "module": "regulation",
-  "updated": "2026-08-09T11:22:12.478241+00:00",
+  "updated": "2026-08-09T23:21:43.411558+00:00",
   "items": [
     {
       "title": "生物製劑最新動態",
@@ -11,8 +11,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "FDA核准新型基因改造病毒免疫療法，用於治療對現有療法產生抗性的晚期黑色素瘤患者",
-      "summary": "美國食品",
+      "title": "美國FDA核准新型基因改造病毒免疫療法，用於治療頑固性晚期黑色素瘤患者",
+      "summary": "美國食品藥物管理局",
       "source": "FDA Biologics",
       "date": "2026-08-06",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
@@ -51,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026年誘導型多功能幹細胞（iPSC）衍生的細胞療法產品線展望",
-      "summary": "本篇分析將聚焦2026年誘導型多功能幹細胞（iPSC）衍生的細胞療法，探討其研發進程與市場前景。",
+      "title": "2026年誘導型多功能幹細胞（iPSC）衍生的細胞療法研發進程",
+      "summary": "探討2026年誘導型多功能幹細胞（iPSC）衍生的細胞療法，分析其研發進程與市場潛力。",
       "source": "BioInformant",
       "date": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
@@ -60,7 +60,7 @@
     },
     {
       "title": "阿爾法納特",
-      "summary": "產品核准資訊用於：\n•控制及預防 A 型血友病或後天因子 VIII (FVIII) 缺乏症患者的出血 (1.1)\n•血管性血友病成人和兒童病患的外科和/或侵入性手術",
+      "summary": "產品核准資訊用於：\n•控制及預防A型血友病或後天因子VIII (FVIII) 缺乏症患者的出血(1.1)\n•血管性血友病成人和兒童病患的外科和/或侵入性手術",
       "source": "FDA Biologics",
       "date": "2026-07-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/alphanate",
@@ -82,9 +82,9 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
     },
     {
-      "title": "ACROBiosystems取得日本醫藥品醫療機器綜合機構（PMDA）對優良製造規範（GMP）等級介白素-15（IL-15）的材料適用性確認，確保品質可靠並強化生技藥品核准流程",
-      "summary": "ACROBiosystems獲日本PMDA核可GMP等級介白素-15材料適用性，有助提升生技藥品品質與加速核准。",
-      "source": "The Manila Times",
+      "title": "ACROBiosystems取得日本醫藥品醫療機器綜合機構（PMDA）針對GMP等級介白素-15（IL-15）的材料適用性確認，確保品質可靠並強化生技藥品核准流程",
+      "summary": "ACROBiosystems獲得日本PMDA對其GMP等級IL-15的材料適用性確認，有助於提升品質並加速生技藥品核准。",
+      "source": "manilatimes.net",
       "date": "2026-07-15",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVDhXbmRScjhpSER2VUFabkp6UDg3QmZ1eXpKNjRVTlZvV3czWW1ERVVGMi1HdXZud0lFWnMzSnpNa0REV25XM2xCMWcwQmgzZEdVdk05TlV1SS00R01mTDZCUTF1NElKOGtEOXdRcVJQWm5CSFpIOENXQlFYMGZyN1hzZ201cHJaZUNXb05abF9OOHQtZEFheHpPT3hhYm1pUnYwLUVQdG5SR0pMem5DZWpLRG5rYTNWX1lIbVVmbDJIaFMyZDFmVFVoU1RkU2k4WXBjZ2dlUno1TExvQ1p1UHhTMWxHeGVFUHBzcUU4WXprVVFjTlJIWXYzS0hnbEl4UzVZMEktMHBRd3I3Z0Jrdk1OSnUzZFRhSy13THpJYTdEWXVnTUF3eVJjX0pYaVVmMFNLUk81WUZib1AtQV84Nng0dGx0WlZqNVpOLVBMWnc4ZGpFZUpz0gHcAkFVX3lxTE1HYUwwWmJwd3RSY3d2UG5qYmlyTzNfLWo4c2hyWW55dlc5RUR6RjZKbGkxcWQ2WW5qbVJpUTgxQWg0QWh4UkFwa2pkV3gwbzMzM080elA4Tk5MTXZZY0V6bXFCVVBqMzZZRndldFg0aERwNmhTVUJhXy1pcGZ5UGlPMFdla094bmRTYVVLSXRLY3o5a25vSzlKbDZ4Y0FFSndkSUprY09PVnhpWi1NY0k5X1doN0JpRVdJbl9FVTBzazN5b0xiUV9uQVdUNGZWRnFWNFdtTXlNRU5zaTlOaUhpYjBvNXY4R25wNXphLWVUQmtQMk5iazdLVEJpaTNJX2dBd1U5SkNTVmhKcm1RNFplVFhqX1VSbEFURW9DVG8zc0R6UWtoUXhSVEpjSklsWnY4TThqWm8xVmU1b3J2RzBBWVpUZ2pmRVlNLVhrZWhxSDFHQlBSa1QxTEo3OQ?oc=5",
       "lang": "zh-TW"
