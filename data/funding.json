@@ -1,18 +1,42 @@
 {
   "module": "funding",
-  "updated": "2026-08-10T11:45:07.837734+00:00",
+  "updated": "2026-08-10T23:29:04.460959+00:00",
   "items": [
     {
-      "title": "觀點：我們為伊波拉做了準備，但不是這種伊波拉",
-      "summary": "Krutika Kuppalli 和 Placide Mbala 指出，「準備工作不能只針對過去的疫情來優化每一筆投資。」",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關賽諾菲藥品短缺、Jazz Pharma 交易等的信息",
+      "summary": "在 美國食藥局（FDA） 就生產問題向賽諾菲公司發出警告後，該公司正面臨兩種用於治療龐貝氏症的藥物短缺的問題",
       "source": "STAT News",
       "date": "2026-08-10",
-      "url": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundiugyo-diagnostics-therapeutics/?utm_campaign=rss",
+      "url": "https://www.statnews.com/pharmalot/2026/08/10/sanofi-drug-shortage-jazz-pharma-deal/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：美國國家衛生研究院（NIH）計畫限制持簽證國際研究",
-      "summary": "",
+      "title": "意見：我們為伊波拉做好了準備——但不是這次伊波拉",
+      "summary": "「做好準備並不意味著針對昨天的流行病優化每項投資，」克魯蒂卡·庫帕利和普拉西德·姆巴拉寫道。",
+      "source": "STAT News",
+      "date": "2026-08-10",
+      "url": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundibugyo-diagnostics-therapeutics/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "爵士隊將以 1.3B 美元的潛在交易收購罕見癲癇製藥商",
+      "summary": "Actio Biosciences 將在這筆交易中獲得 8.2 億美元的預付款，這進一步推動了今年私人生物技術收購的大幅成長。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-10",
+      "url": "https://www.biopharmadive.com/news/jazz-actio-acquisition-deal-rare-neurological-epilepsy/827409/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Scribe 的 Benjamin Oakes 進行罕見的 首次公開上市（IPO），並將 基因剪輯技術（CRISPR） 帶給大眾",
+      "summary": "這位執行長在接受 BioPharma Dive 採訪時談到如何說服投資者購買兩年多來首次基因編輯 首次公開上市（IPO）。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-10",
+      "url": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-benjamin-oakes-epigenetic-pcsk9/827432/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：NIH 計劃阻止持有簽證的國際研究人員獲得關鍵資助管道",
+      "summary": "The NIH plans to close the door on one of the few pathways available to international students on visas to forge a career in biomedical research in the U.S.",
       "source": "STAT News",
       "date": "2026-08-07",
       "url": "https://www.statnews.com/2026/08/07/nih-k99-pathways-independence-awards-scientists-on-visas-barred/?utm_campaign=rss",
@@ -27,27 +51,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+： 美國食藥局（FDA） 核准 Replimune 黑色素瘤藥物，先前曾兩度被拒絕",
-      "summary": "美國食藥局（FDA） 批准了 Replimune 治療晚期黑色素瘤的藥物，這為公司和患者倡導者在經歷了一場混亂的傳奇之後取得了巨大的勝利。",
-      "source": "STAT News",
-      "date": "2026-08-06",
-      "url": "https://www.statnews.com/2026/08/06/replimune-melanoma-drug-rp1-fda-approves-phase-3-confirmatory-trial/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "武田獲批迎來新一波安眠藥",
       "summary": "根據華爾街估計，美國食藥局（FDA） 的批准基本上為 Orzeyful 進入一個價值數十億美元的促進「食慾素」蛋白藥物市場掃清了道路。",
       "source": "BioPharma Dive",
       "date": "2026-08-06",
       "url": "https://www.biopharmadive.com/news/takeda-fda-sleep-drug-approval-orexin-orzeyful-narcolepsy/827190/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "心臟藥物開發商 Braveheart 在 首次公開上市（IPO） 中籌集了超過 3.82 億美元資金",
-      "summary": "Braveheart 是計劃於本週進行 首次公開上市（IPO） 定價的五家生技公司之一。他們總共可以從公共投資者籌集超過 10 億美元。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-05",
-      "url": "https://www.biopharmadive.com/news/braveheart-cardiac-drugs-ipo-pricing/826973/",
       "lang": "zh-TW"
     },
     {
