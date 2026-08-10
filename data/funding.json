@@ -1,17 +1,25 @@
 {
   "module": "funding",
-  "updated": "2026-08-09T23:22:01.869021+00:00",
+  "updated": "2026-08-10T11:45:07.837734+00:00",
   "items": [
     {
-      "title": "STAT+：NIH 計畫阻止持有簽證的國際研究人員獲得關鍵資助管道",
-      "summary": "美國國立衛生研究院計劃關閉國際學生在美國從事生物醫學研究職業的少數途徑之一。",
+      "title": "觀點：我們為伊波拉做了準備，但不是這種伊波拉",
+      "summary": "Krutika Kuppalli 和 Placide Mbala 指出，「準備工作不能只針對過去的疫情來優化每一筆投資。」",
+      "source": "STAT News",
+      "date": "2026-08-10",
+      "url": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundiugyo-diagnostics-therapeutics/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：美國國家衛生研究院（NIH）計畫限制持簽證國際研究",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-08-07",
       "url": "https://www.statnews.com/2026/08/07/nih-k99-pathways-independence-awards-scientists-on-visas-barred/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Latigo 首次公開上市（IPO） 籌集近 3.5 億美元用於止痛藥開發",
+      "title": "Latigo 首次公開上市（IPO） 籌集近 3.5 億美元用於止痛藥物開發",
       "summary": "該公司可以在新興的非鴉片類離子通道阻斷止痛藥市場上與福泰 (Vertex) 和禮來 (Lilly) 競爭。它的發行也增加了近期大型生物技術首次公開募股的顯著成長。",
       "source": "BioPharma Dive",
       "date": "2026-08-07",
@@ -40,14 +48,6 @@
       "source": "BioPharma Dive",
       "date": "2026-08-05",
       "url": "https://www.biopharmadive.com/news/braveheart-cardiac-drugs-ipo-pricing/826973/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Attovia 發行 2.89 億美元，增強生物科技 首次公開上市（IPO） 勢頭",
-      "summary": "根據 BioPharma Dive 的數據，這家新創公司是今年第 12 家在 首次公開上市（IPO） 中籌集至少 2.5 億美元資金的製藥公司，幾乎與該行業大流行高峰期間的總額相當。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-05",
-      "url": "https://www.biopharmadive.com/news/attovia-biotech-ipo-price-eczema-pruritis-drugs/827061/",
       "lang": "zh-TW"
     },
     {
