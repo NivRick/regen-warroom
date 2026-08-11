@@ -1,21 +1,37 @@
 {
   "module": "funding",
-  "updated": "2026-08-11T11:40:05.079449+00:00",
+  "updated": "2026-08-11T23:33:32.626423+00:00",
   "items": [
     {
-      "title": "STAT+：製藥小道消息：賽諾菲藥品短缺、Jazz製藥交易等最新動態",
-      "summary": "美國食品藥物管理局（FDA）因生產問題向賽諾菲（Sanofi）發出警告後，該公司用於治療龐貝氏症的兩種藥品面臨短缺。",
+      "title": "醫療補助將停止支付一些針對變性未成年人的性別確認照護費用",
+      "summary": "川普政府計劃終止對跨性別未成年人的部分護理的聯邦資助。",
       "source": "STAT News",
-      "date": "2026-08-10",
-      "url": "https://www.statnews.com/pharmalot/2026/08/10/sanofi-drug-shortage-jazz-pharma-deal/?utm_campaign=rss",
+      "date": "2026-08-11",
+      "url": "https://www.statnews.com/2026/08/11/medicaid-to-end-funding-gender-affirming-care-transgender-youth/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "意見：我們為伊波拉做好了準備——但不是這次伊波拉",
-      "summary": "「做好準備並不意味著針對昨天的流行病優化每項投資，」克魯蒂卡·庫帕利和普拉西德·姆巴拉寫道。",
+      "title": "STAT+：Skylark Bio 啟動新的耳聾基因療法試驗",
+      "summary": "美國、法國和中國的生物技術新創公司正在競相透過針對不同的基因突變來開發新的耳聾基因療法。",
+      "source": "STAT News",
+      "date": "2026-08-11",
+      "url": "https://www.statnews.com/2026/08/11/skylark-bio-gjb2-otoferlin-gene-therapies-for-deafness/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Fierce Biotech 籌款追蹤 '26：Vaderis 在 B 輪融資中淨賺 1.52 億美元； Epirispr 增加 9,000 萬美元",
+      "summary": "Vaderis B 輪融資淨額 1.52 億美元； Epicrispr 向 Fierce Biotech 增資 9,000 萬美元",
+      "source": "Fierce Biotech",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關賽諾菲藥品短缺、Jazz Pharma 交易等的信息",
+      "summary": "在 美國食藥局（FDA） 就生產問題向賽諾菲發出警告後，該公司正面臨兩種用於治療龐貝氏症的藥物短缺的問題",
       "source": "STAT News",
       "date": "2026-08-10",
-      "url": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundibugyo-diagnostics-therapeutics/?utm_campaign=rss",
+      "url": "https://www.statnews.com/pharmalot/2026/08/10/sanofi-drug-shortage-jazz-pharma-deal/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -32,14 +48,6 @@
       "source": "BioPharma Dive",
       "date": "2026-08-10",
       "url": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-benjamin-oakes-epigenetic-pcsk9/827432/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Latigo 首次公開上市（IPO） 籌集近 3.5 億美元用於止痛藥物開發",
-      "summary": "該公司可以在新興的非鴉片類離子通道阻斷止痛藥市場上與福泰 (Vertex) 和禮來 (Lilly) 競爭。它的發行也增加了近期大型生物技術首次公開募股的顯著成長。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-07",
-      "url": "https://www.biopharmadive.com/news/latigo-ipo-public-biotech-pain-drug-nasdaq/827300/",
       "lang": "zh-TW"
     },
     {

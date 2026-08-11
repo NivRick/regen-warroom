@@ -1,26 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-08-11T11:39:52.195945+00:00",
+  "updated": "2026-08-11T23:33:18.509387+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "雙特異性抗體純化的複雜性問題及其解決方法",
+      "summary": "雙特異性抗體正在蓄勢待發，對下游純化的需求將持續成長。這裡介紹的案例研究說明了分析洞察力如何構成有效流程開發的基礎。\n退出後的問題",
+      "source": "GEN News",
+      "date": "2026-08-11",
+      "url": "https://www.genengnews.com/sponsored/bispecific-antibody-purifications-complexity-problem-and-how-to-fix-it/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-08-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "BaseMap ABE 推出用於鹼基編輯治療開發中的脫靶表徵",
-      "summary": "與基於預測的方法不同，Broken String Biosciences 表示 BaseMap ABE 直接從生物學相關細胞產生全基因組數據，使研究人員能夠清楚地了解生理相關細胞下的編輯器特異性。",
-      "source": "GEN News",
-      "date": "2026-08-10",
-      "url": "https://www.genengnews.com/topics/genome-editing/basemap-abe-launched-for-off-target-characterization-in-base-editing-therapeutic-development/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國FDA核准新型基因改造病毒免疫療法，用於治療頑固型晚期黑色素瘤患者",
-      "summary": "美國食品藥",
+      "title": "美國食藥局（FDA） 批准針對難治性晚期黑色素瘤患者的新型病毒免疫療法",
+      "summary": "美國食品藥物管理局今天加速批准 Tudriqev (vusolimogene oderparepvec-wtpg)，這是一種基因改造溶瘤病毒療法，用於治療晚期難治性黑色素瘤。",
       "source": "FDA Biologics",
       "date": "2026-08-06",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
@@ -60,7 +60,7 @@
     },
     {
       "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
-      "summary": "2026 年的兒科 bioinformant.com",
+      "summary": "peutics in 2026 bioinformant.com",
       "source": "bioinformant.com",
       "date": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
@@ -68,7 +68,7 @@
     },
     {
       "title": "阿爾法納特",
-      "summary": "產品核准資訊用於：\n•控制及預防 A 型血友病或後天因子 VIII (FVIII) 缺乏症患者的出血 (1.1)\n•血管性血友病成人和兒童病患的外科和/或侵入性手術",
+      "summary": "產品核准資訊用於：\n•控制及預防A型血友病或後天因子VIII (FVIII) 缺乏症患者的出血(1.1)\n•血管性血友病成人和兒童病患的外科和/或侵入性手術",
       "source": "FDA Biologics",
       "date": "2026-07-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/alphanate",
