@@ -1,6 +1,6 @@
 {
   "module": "regulation",
-  "updated": "2026-08-10T23:28:32.179016+00:00",
+  "updated": "2026-08-11T11:39:52.195945+00:00",
   "items": [
     {
       "title": "生物製劑最新動態",
@@ -19,8 +19,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA核准新型基因改造病毒免疫療法，用於治療難治性晚期黑色素瘤患者",
-      "summary": "美國食品",
+      "title": "美國FDA核准新型基因改造病毒免疫療法，用於治療頑固型晚期黑色素瘤患者",
+      "summary": "美國食品藥",
       "source": "FDA Biologics",
       "date": "2026-08-06",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "OTP Town Hall: Nonclinical Assessment of Cell and 基因療法 Products",
+      "title": "OTP Town Hall：細胞和基因治療產品的非臨床評估",
       "summary": "CBER 和 OTP 將於 2023 年 8 月 30 日星期三舉辦下一次虛擬市政廳活動，回答利益相關者有關細胞和基因治療產品非臨床評估的問題。 OTP 藥理學/毒理學辦公室的專家將在場",
       "source": "08/30/2023",
       "date": "2026-08-06",

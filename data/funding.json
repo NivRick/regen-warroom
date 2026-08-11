@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-08-10T23:29:04.460959+00:00",
+  "updated": "2026-08-11T11:40:05.079449+00:00",
   "items": [
     {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關賽諾菲藥品短缺、Jazz Pharma 交易等的信息",
-      "summary": "在 美國食藥局（FDA） 就生產問題向賽諾菲公司發出警告後，該公司正面臨兩種用於治療龐貝氏症的藥物短缺的問題",
+      "title": "STAT+：製藥小道消息：賽諾菲藥品短缺、Jazz製藥交易等最新動態",
+      "summary": "美國食品藥物管理局（FDA）因生產問題向賽諾菲（Sanofi）發出警告後，該公司用於治療龐貝氏症的兩種藥品面臨短缺。",
       "source": "STAT News",
       "date": "2026-08-10",
       "url": "https://www.statnews.com/pharmalot/2026/08/10/sanofi-drug-shortage-jazz-pharma-deal/?utm_campaign=rss",
@@ -35,27 +35,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：NIH 計劃阻止持有簽證的國際研究人員獲得關鍵資助管道",
-      "summary": "The NIH plans to close the door on one of the few pathways available to international students on visas to forge a career in biomedical research in the U.S.",
-      "source": "STAT News",
-      "date": "2026-08-07",
-      "url": "https://www.statnews.com/2026/08/07/nih-k99-pathways-independence-awards-scientists-on-visas-barred/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Latigo 首次公開上市（IPO） 籌集近 3.5 億美元用於止痛藥物開發",
       "summary": "該公司可以在新興的非鴉片類離子通道阻斷止痛藥市場上與福泰 (Vertex) 和禮來 (Lilly) 競爭。它的發行也增加了近期大型生物技術首次公開募股的顯著成長。",
       "source": "BioPharma Dive",
       "date": "2026-08-07",
       "url": "https://www.biopharmadive.com/news/latigo-ipo-public-biotech-pain-drug-nasdaq/827300/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "武田獲批迎來新一波安眠藥",
-      "summary": "根據華爾街估計，美國食藥局（FDA） 的批准基本上為 Orzeyful 進入一個價值數十億美元的促進「食慾素」蛋白藥物市場掃清了道路。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-06",
-      "url": "https://www.biopharmadive.com/news/takeda-fda-sleep-drug-approval-orexin-orzeyful-narcolepsy/827190/",
       "lang": "zh-TW"
     },
     {
