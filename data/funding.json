@@ -1,7 +1,23 @@
 {
   "module": "funding",
-  "updated": "2026-08-11T23:33:32.626423+00:00",
+  "updated": "2026-08-12T11:41:45.945573+00:00",
   "items": [
+    {
+      "title": "STAT+：估值70億美元的矽谷新創公司，如何瘋狂搶攻醫療產業自動化商機？",
+      "summary": "Commure想用人工智慧（AI）來自動化醫療行政事務。這篇報導深入探討了這家新創公司雄心勃勃的目標背後，所面臨",
+      "source": "STAT News",
+      "date": "2026-08-12",
+      "url": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Fierce Biotech 籌款追蹤 '26：Vaderis 在 B 輪融資中淨賺 1.52 億美元； Epirispr 增加 9,000 萬美元",
+      "summary": "Vaderis B 輪融資淨額 1.52 億美元； Epicrispr 向 Fierce Biotech 增資 9,000 萬美元",
+      "source": "Fierce Biotech",
+      "date": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "lang": "zh-TW"
+    },
     {
       "title": "醫療補助將停止支付一些針對變性未成年人的性別確認照護費用",
       "summary": "川普政府計劃終止對跨性別未成年人的部分護理的聯邦資助。",
@@ -16,22 +32,6 @@
       "source": "STAT News",
       "date": "2026-08-11",
       "url": "https://www.statnews.com/2026/08/11/skylark-bio-gjb2-otoferlin-gene-therapies-for-deafness/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 籌款追蹤 '26：Vaderis 在 B 輪融資中淨賺 1.52 億美元； Epirispr 增加 9,000 萬美元",
-      "summary": "Vaderis B 輪融資淨額 1.52 億美元； Epicrispr 向 Fierce Biotech 增資 9,000 萬美元",
-      "source": "Fierce Biotech",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關賽諾菲藥品短缺、Jazz Pharma 交易等的信息",
-      "summary": "在 美國食藥局（FDA） 就生產問題向賽諾菲發出警告後，該公司正面臨兩種用於治療龐貝氏症的藥物短缺的問題",
-      "source": "STAT News",
-      "date": "2026-08-10",
-      "url": "https://www.statnews.com/pharmalot/2026/08/10/sanofi-drug-shortage-jazz-pharma-deal/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -59,11 +59,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "「總有一個第一」：為何美國生技公司 Axiom 將在香港開啟 首次公開上市（IPO） 之旅",
-      "summary": "h Axiom 將在香港開始 首次公開上市（IPO） 之旅 Fierce Biotech",
+      "title": "「總有第一次」！美國生技公司Axiom為何選擇香港作為首次公開募股（IPO）起點？",
+      "summary": "美國生技公司Axiom將在香港啟動首次公開募股（IPO），此舉引發業界關注。",
       "source": "Fierce Biotech",
       "date": "2026-07-21",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "儘管創投反彈，生技新創企業資金缺口仍在擴大",
+      "summary": "創投反彈 生物製藥 Dive",
+      "source": "BioPharma Dive",
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGhDM3hXSTRJVjFiQ19JeTRzZmMyRGd5Yng5T2N4c3JHYUJzTWVtSmNGcXdPR0JvSzlUcG1zRG90UHFxVnhxLUViSkVSVU9Qa0cwVnoycWRmVUJYUG9jLU9seDNES0tJaExKaVNwc25mTWpETG5Ia19BdEhxZ2VNZmV3UnFrbHRfQ3V0VS1tOGl3ejVY?oc=5",
       "lang": "zh-TW"
     }
   ]
