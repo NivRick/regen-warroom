@@ -1,53 +1,37 @@
 {
   "module": "funding",
-  "updated": "2026-08-12T11:41:45.945573+00:00",
+  "updated": "2026-08-12T23:32:59.590811+00:00",
   "items": [
     {
-      "title": "STAT+：估值70億美元的矽谷新創公司，如何瘋狂搶攻醫療產業自動化商機？",
-      "summary": "Commure想用人工智慧（AI）來自動化醫療行政事務。這篇報導深入探討了這家新創公司雄心勃勃的目標背後，所面臨",
+      "title": "STAT+：深入探討矽谷一家估值70億美元新創公司，如何瘋狂衝刺醫療保健自動化業務",
+      "summary": "Commure這家公司想用人工智慧（AI）來自動化醫療保健的行政事務。這篇報導將深入探討這家新創公司雄心勃勃的目標",
       "source": "STAT News",
       "date": "2026-08-12",
       "url": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech 籌款追蹤 '26：Vaderis 在 B 輪融資中淨賺 1.52 億美元； Epirispr 增加 9,000 萬美元",
-      "summary": "Vaderis B 輪融資淨額 1.52 億美元； Epicrispr 向 Fierce Biotech 增資 9,000 萬美元",
+      "title": "迷幻藥開發商 Definium 為 LSD 藥丸取得了更多積極數據",
+      "summary": "一項針對廣泛性焦慮症的後期研究結果對分析師來說是一次“乾淨利落的勝利”，他們認為 Definium 是一種具有數十億美元銷售潛力的藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-12",
+      "url": "https://www.biopharmadive.com/news/definium-lsd-psychedelics-trial-results-gad-anxiety/827669/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Fierce Biotech 籌款追蹤 '26：InduPro 籌集了 7,700 萬美元；Vaderis B 輪融資淨額 1.52 億美元",
+      "summary": "InduPro 籌集了 7,700 萬美元； Vaderis 在 B 輪融資中淨賺 1.52 億美元 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "醫療補助將停止支付一些針對變性未成年人的性別確認照護費用",
+      "title": "醫療補助將停止支付一些針對跨性別未成年人的性別確認照護費用",
       "summary": "川普政府計劃終止對跨性別未成年人的部分護理的聯邦資助。",
       "source": "STAT News",
       "date": "2026-08-11",
       "url": "https://www.statnews.com/2026/08/11/medicaid-to-end-funding-gender-affirming-care-transgender-youth/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Skylark Bio 啟動新的耳聾基因療法試驗",
-      "summary": "美國、法國和中國的生物技術新創公司正在競相透過針對不同的基因突變來開發新的耳聾基因療法。",
-      "source": "STAT News",
-      "date": "2026-08-11",
-      "url": "https://www.statnews.com/2026/08/11/skylark-bio-gjb2-otoferlin-gene-therapies-for-deafness/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "爵士隊將以 1.3B 美元的潛在交易收購罕見癲癇製藥商",
-      "summary": "Actio Biosciences 將在這筆交易中獲得 8.2 億美元的預付款，這進一步推動了今年私人生物技術收購的大幅成長。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-10",
-      "url": "https://www.biopharmadive.com/news/jazz-actio-acquisition-deal-rare-neurological-epilepsy/827409/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Scribe 的 Benjamin Oakes 進行罕見的 首次公開上市（IPO），並將 基因剪輯技術（CRISPR） 帶給大眾",
-      "summary": "這位執行長在接受 BioPharma Dive 採訪時談到如何說服投資者購買兩年多來首次基因編輯 首次公開上市（IPO）。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-10",
-      "url": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-benjamin-oakes-epigenetic-pcsk9/827432/",
       "lang": "zh-TW"
     },
     {
@@ -59,8 +43,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "「總有第一次」！美國生技公司Axiom為何選擇香港作為首次公開募股（IPO）起點？",
-      "summary": "美國生技公司Axiom將在香港啟動首次公開募股（IPO），此舉引發業界關注。",
+      "title": "「總有一個第一」：為何美國生技公司 Axiom 將在香港開啟 首次公開上市（IPO） 之旅",
+      "summary": "h Axiom 將在香港開始 首次公開上市（IPO） 之旅 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-07-21",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
