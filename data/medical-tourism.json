@@ -1,5 +1,30 @@
 {
   "module": "tourism",
-  "updated": "2026-08-13T11:46:39.180582+00:00",
-  "items": []
+  "updated": "2026-08-13T23:35:41.731991+00:00",
+  "items": [
+    {
+      "title": "PlacidWay 和 Cell Grand Clinic 宣布合作，將全球患者與日本再生醫學聯繫起來",
+      "summary": "合作夥伴將全球患者與日本再生醫學聯繫起來 EIN 新聞",
+      "source": "EIN News",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVVg0bmNsUDVBcDlLdE1xVXltaWptX0JSdHdGbUtSMm02ZzJZYUU4MVNQNzNrUUFNalRFWEx5OGxyU0hkcXQzb3hMb25Ra29yWndFQ2hVSU9ZU0V1cEhlU1FETkdIWExHMkc0UW14TXJybGozekx1Y0VIX0hCTy1xUzQ3OG1UWW5IZVhhUmRNME5NWURFcEtBQzFLRE81bGl4MnBMUXRweTJKMGdqUkJSVG9QT25mMThVV05JTWxBYkhuUWctU3FkYkNGN2Job2Z1bmZtdjNWUW9RRG5BYU1fcFM1MmNucmlvYjgyZQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "出國整容風險更大",
+      "summary": "",
+      "source": "Taipei Times",
+      "date": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rMGh6cXhrSVZpSUZ1RmFpMGNta0FybEt5TXhETnhkT0xTQUFvanNDVl9MOHRNdTkxTDR6TENMSjRBR1dYVzFVZzNNb2tYZkpqa2RoWkNBa1BNUWV5N0lETURzWmt2a2IwWENmLTBia2xlSE95LXZHXzhR?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "再生醫療 Market Size to Hit USD 234.85 Billion by 2035",
+      "summary": "到 2035 年將達到 2,348.5 億美元 先行研究",
+      "source": "Precedence Research",
+      "date": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tN2JFWlpOTTJCUWdoSG9ZZlpTblpEelkzVi1GNlhNWVZRem1IRUdfNldOaVdLMDBpWVVXaXB5Z1UtWlEwWmptT0JaM05BVGNDOENOTlcteGFDY215YTdQTUE0WDFjNktjS1BhZlBVaXg?oc=5",
+      "lang": "zh-TW"
+    }
+  ]
 }

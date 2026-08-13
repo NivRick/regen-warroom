@@ -1,13 +1,61 @@
 {
   "module": "funding",
-  "updated": "2026-08-13T11:46:09.486673+00:00",
+  "updated": "2026-08-13T23:34:53.239234+00:00",
   "items": [
     {
-      "title": "迷幻藥物開發商Definium的LSD口服藥，再傳正面數據",
-      "summary": "Definium開發的LSD口服藥，在治療廣泛性焦慮症的後期臨床試驗中，取得分析師口中的「乾淨勝利」，市場看好其藥物潛力。",
+      "title": "禮來藥廠瞄準減肥新藥Retatrutide的黑市商機",
+      "summary": "Khartis募得口服免疫學研究資金，Neurocrine藥物安全引發疑慮，以及更多來自The Readout的生技新聞。",
+      "source": "STAT News",
+      "date": "2026-08-13",
+      "url": "https://www.statnews.com/2026/08/13/biotech-news-eli-lilly-targets-booming-retatrutide-black-market/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "PTC藥廠看好Sangamo的",
+      "summary": "",
+      "source": "BioPharma Dive",
+      "date": "2026-08-13",
+      "url": "https://www.biopharmadive.com/news/ptc-sangamo-fabry-gene-therapy-bankruptcy-sale-lilly/827767/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Fierce Biotech 籌款追蹤 '26：InduPro 籌集了 7,700 萬美元；Vaderis B 輪融資淨額 1.52 億美元",
+      "summary": "InduPro 籌集了 7,700 萬美元； Vaderis 在 B 輪融資中淨賺 1.52 億美元 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "迷幻藥開發商 Definium 為 LSD 藥丸取得了更多積極數據",
+      "summary": "一項針對廣泛性焦慮症的後期研究結果對分析師來說是一次“乾淨利落的勝利”，他們認為 Definium 是一種具有數十億美元銷售潛力的藥物。",
       "source": "BioPharma Dive",
       "date": "2026-08-12",
       "url": "https://www.biopharmadive.com/news/definium-lsd-psychedelics-trial-results-gad-anxiety/827669/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Longeveron Q2 Results: Net loss rises 22% to $6.1 million",
+      "summary": "% to $6.1 million scanx.trade",
+      "source": "scanx.trade",
+      "date": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnE0d19OTlNyMmlBS3VOeUFSRnA4NUc4Sjh5aUtlOWM2R0ZQN0lHbXkyaHpvV2QxdkkwWU51c2NjOER4YWZzRk5idkJ4djRpRzVGNl9OWjA1NkhIYklkelp3bUdsZEo5VzNqNmR0eUE2UVVCNEZpblg3UVRjczhxVXowM2xvRzhEemNfYUtYMjQ0X19WTmNkajhEaHE3SENEeUQ3SW9Ra3lQT1FX?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "一家眼藥生技公司存有 1.18 億美元資金並儲備其高階主管套件",
+      "summary": "ks 其高階主管套件 BioPharma Dive",
+      "source": "BioPharma Dive",
+      "date": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "「總有一個第一」：為何美國生技公司 Axiom 將在香港開啟 首次公開上市（IPO） 之旅",
+      "summary": "h Axiom will begin its 首次公開上市（IPO） journey in Hong Kong Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
       "lang": "zh-TW"
     }
   ]
