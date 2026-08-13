@@ -1,26 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-08-12T23:32:35.379468+00:00",
+  "updated": "2026-08-13T11:45:16.799861+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-08-12",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 報告 2026 年第二季業務亮點和財務業績",
-      "summary": "業務亮點與財務業績 馬尼拉時報",
-      "source": "The Manila Times",
-      "date": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZXQyQjV5U05ua3FJTnllVFcweWx5NXFMTE1Hd2UyV3d3ekZQRi1sRUJwTy1BbXRCUFRnSEZ6MWxhOGIzUUNlRHV0dW92Ny1zOTE3UGE3eURaNTEzdFRBN2ZYRHpNWktYcE5NZkljUVpDSnp6VWVmQW94cnAzX2hsTDA2S2NSbkQwdTR4VC1YVWdWdXE2dmJIZl96Mi1tc05SblJTUjF5S3VhN0h1OFBDTE9KUUVZMGhzZlMyQVVXN0dkZ2ZGcDBsdDRSTUU1aVA3d2IyaWo3dVNjYmF3dHotODBlOVVfV25kcTgxd0Vn0gHuAUFVX3lxTE1ldDJCNXlTTm5rcUlOeWVUVzB5bHk1cUxMTUd3ZTJXd3d6RlBGLWxFQnBPLUFtdEJQVGdIRnoxbGE4YjNRQ2VEdXR1b3Y3LXM5MTdQYTd5RFo1MTN0VEE3ZlhEek1aS1hwTk1mSWNRWkNKenpVZWZBb3hycDNfaGxMMDZLY1JuRDB1NHhULVhVZ1Z1cTZ2YkhmX3oyLW1zTlJuUlNSMXlLdWE3SHU4UENMT0pRRVkwaHNmUzJBVVc3R2RnZkZwMGx0NFJNRTVpUDd3YjJpajd1U2NiYXd0ei04MGU5VV9XbmRxODF3RWc?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 批准針對難治性晚期黑色素瘤患者的新型病毒免疫療法",
-      "summary": "美國食品藥物管理局今天加速批准 Tudriqev (vusolimogene oderparepvec-wtpg)，這是一種基因改造溶瘤病毒療法，用於治療晚期難治性黑色素瘤。",
+      "title": "FDA核准新型基因改造病毒免疫療法，用於治療對現有療法產生抗性的晚期黑色素瘤患者",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-08-06",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
@@ -59,14 +51,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
-      "summary": "2026 年的兒科 bioinformant.com",
-      "source": "bioinformant.com",
-      "date": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "阿爾法納特",
       "summary": "產品核准資訊用於：\n•控制及預防A型血友病或後天因子VIII (FVIII) 缺乏症患者的出血(1.1)\n•血管性血友病成人和兒童病患的外科和/或侵入性手術",
       "source": "FDA Biologics",
@@ -81,13 +65,6 @@
       "date": "2026-07-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
-    },
-    {
-      "title": "齊碁生醫獲美國FDA IND 核准以臺美雙報確立衰弱症細胞治療的國際法規位階| 唐可欣 | 品味生活",
-      "summary": "",
-      "source": "風傳媒",
-      "date": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
     }
   ]
 }

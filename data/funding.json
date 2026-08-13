@@ -1,61 +1,13 @@
 {
   "module": "funding",
-  "updated": "2026-08-12T23:32:59.590811+00:00",
+  "updated": "2026-08-13T11:46:09.486673+00:00",
   "items": [
     {
-      "title": "STAT+：深入探討矽谷一家估值70億美元新創公司，如何瘋狂衝刺醫療保健自動化業務",
-      "summary": "Commure這家公司想用人工智慧（AI）來自動化醫療保健的行政事務。這篇報導將深入探討這家新創公司雄心勃勃的目標",
-      "source": "STAT News",
-      "date": "2026-08-12",
-      "url": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "迷幻藥開發商 Definium 為 LSD 藥丸取得了更多積極數據",
-      "summary": "一項針對廣泛性焦慮症的後期研究結果對分析師來說是一次“乾淨利落的勝利”，他們認為 Definium 是一種具有數十億美元銷售潛力的藥物。",
+      "title": "迷幻藥物開發商Definium的LSD口服藥，再傳正面數據",
+      "summary": "Definium開發的LSD口服藥，在治療廣泛性焦慮症的後期臨床試驗中，取得分析師口中的「乾淨勝利」，市場看好其藥物潛力。",
       "source": "BioPharma Dive",
       "date": "2026-08-12",
       "url": "https://www.biopharmadive.com/news/definium-lsd-psychedelics-trial-results-gad-anxiety/827669/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 籌款追蹤 '26：InduPro 籌集了 7,700 萬美元；Vaderis B 輪融資淨額 1.52 億美元",
-      "summary": "InduPro 籌集了 7,700 萬美元； Vaderis 在 B 輪融資中淨賺 1.52 億美元 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "醫療補助將停止支付一些針對跨性別未成年人的性別確認照護費用",
-      "summary": "川普政府計劃終止對跨性別未成年人的部分護理的聯邦資助。",
-      "source": "STAT News",
-      "date": "2026-08-11",
-      "url": "https://www.statnews.com/2026/08/11/medicaid-to-end-funding-gender-affirming-care-transgender-youth/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "一家眼藥生技公司存有 1.18 億美元資金並儲備其高階主管套件",
-      "summary": "ks 其高階主管套件 BioPharma Dive",
-      "source": "BioPharma Dive",
-      "date": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "「總有一個第一」：為何美國生技公司 Axiom 將在香港開啟 首次公開上市（IPO） 之旅",
-      "summary": "h Axiom 將在香港開始 首次公開上市（IPO） 之旅 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yclJISkFackZ4T3dIY3MzWGR0NmZsZ0pDVXdadEZBLUtVdW5ZNXdOUkhDdk5BeUdDYlQ4VVczVmZvbzdLWFE4eGhXTzY4QS1zb1NxSGZCSC1YNjVfNTlrMlpCUGdaZXRlR3Z0UHBXLVBhbVlYZTFXd19zdw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "儘管創投反彈，生技新創企業資金缺口仍在擴大",
-      "summary": "創投反彈 生物製藥 Dive",
-      "source": "BioPharma Dive",
-      "date": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGhDM3hXSTRJVjFiQ19JeTRzZmMyRGd5Yng5T2N4c3JHYUJzTWVtSmNGcXdPR0JvSzlUcG1zRG90UHFxVnhxLUViSkVSVU9Qa0cwVnoycWRmVUJYUG9jLU9seDNES0tJaExKaVNwc25mTWpETG5Ia19BdEhxZ2VNZmV3UnFrbHRfQ3V0VS1tOGl3ejVY?oc=5",
       "lang": "zh-TW"
     }
   ]
