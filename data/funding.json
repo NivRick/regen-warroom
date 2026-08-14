@@ -1,42 +1,50 @@
 {
   "module": "funding",
-  "updated": "2026-08-14T11:38:46.932403+00:00",
+  "updated": "2026-08-14T23:14:06.820314+00:00",
   "items": [
     {
-      "title": "更多地區競相成為生技重鎮，生技產業發展計畫加速推進",
-      "summary": "從賓州到堪薩斯城，新的政府資金正強化生技聚落，但專家認為光有錢並非決定性因素。",
+      "title": "Capricor 股價因執行長",
+      "summary": "",
+      "source": "BioPharma Dive",
+      "date": "2026-08-14",
+      "url": "https://www.biopharmadive.com/news/capricor-fda-cytokinetics-lawsuit-valneva-indupro-rusfertide-veppanu/827770/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "隨著更多地區競相成為中心，生技措施不斷湧現",
+      "summary": "New government funding from Pennsylvania to Kansas City is strengthening biotech hubs &mdash; but experts say money alone won&rsquo;t determine where pharma builds next.",
       "source": "BioPharma Dive",
       "date": "2026-08-14",
       "url": "https://www.biopharmadive.com/news/biotech-hub-race-investments-new-york-kansas-city-pennsylvania-central-virginia/827835/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：禮來藥廠鎖定Retatrutide藥品蓬勃發展的黑市",
-      "summary": "Khartis募得口服免疫學資金，Neurocrine藥品安全引發疑慮，以及更多生技新聞。",
+      "title": "STAT+: Eli Lilly 鎖定 Retatrutide 蓬勃發展的黑市",
+      "summary": "Khartis 募得口服免疫學資金，Neurocrine 藥物安全性引發疑慮，以及更多來自 The Readout 的生技新聞。",
       "source": "STAT News",
       "date": "2026-08-13",
       "url": "https://www.statnews.com/2026/08/13/biotech-news-eli-lilly-targets-booming-retatrutide-black-market/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "PTC藥廠押寶Sangamo的法布瑞氏症基因療法",
-      "summary": "華爾街分析師認為這項交易是高風險高報酬的賭注，該療法可能即將獲得核准，且潛力優於現有藥物。",
+      "title": "PTC 在 Sangamo 的法布里病基因療法上抓住了機會",
+      "summary": "華爾街分析師認為，這筆交易是一項高風險、高回報的押注，押注於一種即將獲得監管部門批准且可能優於現有藥物的治療方法。",
       "source": "BioPharma Dive",
       "date": "2026-08-13",
       "url": "https://www.biopharmadive.com/news/ptc-sangamo-fabry-gene-therapy-bankruptcy-sale-lilly/827767/",
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech 2026年募資追蹤：InduPro募得7,700萬美元",
-      "summary": "",
+      "title": "Fierce Biotech 籌款追蹤 '26：InduPro 籌集了 7,700 萬美元；Vaderis B 輪融資淨額 1.52 億美元",
+      "summary": "InduPro 籌集了 7,700 萬美元； Vaderis 在 B 輪融資中淨賺 1.52 億美元 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "迷幻藥開發商Definium的LSD藥丸再獲正面數據",
-      "summary": "針對廣泛性焦慮症的後期臨床試驗結果，分析師認為是「乾淨的勝利」，相信Definium擁有一款具潛力的藥物。",
+      "title": "迷幻藥開發商 Definium 為 LSD 藥丸取得了更多積極數據",
+      "summary": "一項針對廣泛性焦慮症的後期研究結果對分析師來說是一次“乾淨利落的勝利”，他們認為 Definium 是一種具有數十億美元銷售潛力的藥物。",
       "source": "BioPharma Dive",
       "date": "2026-08-12",
       "url": "https://www.biopharmadive.com/news/definium-lsd-psychedelics-trial-results-gad-anxiety/827669/",
@@ -52,8 +60,8 @@
     },
     {
       "title": "一家眼藥生技公司存有 1.18 億美元資金並儲備其高階主管套件",
-      "summary": "ks 其行政套房 biopharmadive.com",
-      "source": "biopharmadive.com",
+      "summary": "ks 其高階主管套件 BioPharma Dive",
+      "source": "BioPharma Dive",
       "date": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",
       "lang": "zh-TW"

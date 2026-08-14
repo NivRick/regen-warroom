@@ -1,12 +1,12 @@
 {
   "module": "regulation",
-  "updated": "2026-08-14T11:38:31.095074+00:00",
+  "updated": "2026-08-14T23:13:42.720900+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
@@ -19,8 +19,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA核准新型基因改造病毒免疫療法，用於治療頑固性晚期黑色素瘤患者",
-      "summary": "美國食品藥物管理局",
+      "title": "美國食藥局（FDA） 批准針對難治性晚期黑色素瘤患者的新型病毒免疫療法",
+      "summary": "美國食品藥物管理局今天加速批准 Tudriqev (vusolimogene oderparepvec-wtpg)，這是一種基因改造溶瘤病毒療法，用於治療晚期難治性黑色素瘤。",
       "source": "FDA Biologics",
       "date": "2026-08-06",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
@@ -40,14 +40,6 @@
       "source": "08/30/2023",
       "date": "2026-08-06",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-nonclinical-assessment-cell-and-gene-therapy-products-08302023",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
-      "summary": "2026 年的兒科 bioinformant.com",
-      "source": "bioinformant.com",
-      "date": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
       "lang": "zh-TW"
     },
     {
