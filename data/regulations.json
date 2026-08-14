@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-08-13T23:34:28.892048+00:00",
+  "updated": "2026-08-14T11:38:31.095074+00:00",
   "items": [
     {
-      "title": "生物製劑最新消息",
-      "summary": "來自美國食品藥物管理局生物製劑評估與研究中心（CBER）的最新動態。",
+      "title": "生物製劑新知",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-08-13",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -19,7 +19,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA核准新型基因改造病毒免疫療法，用於治療抗藥性晚期黑色素瘤患者",
+      "title": "美國FDA核准新型基因改造病毒免疫療法，用於治療頑固性晚期黑色素瘤患者",
       "summary": "美國食品藥物管理局",
       "source": "FDA Biologics",
       "date": "2026-08-06",
@@ -44,7 +44,7 @@
     },
     {
       "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
-      "summary": "peutics in 2026 bioinformant.com",
+      "summary": "2026 年的兒科 bioinformant.com",
       "source": "bioinformant.com",
       "date": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
