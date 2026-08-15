@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-08-15T11:16:24.615222+00:00",
+  "updated": "2026-08-15T23:11:41.528551+00:00",
   "items": [
     {
-      "title": "What’s New for Biologics",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-08-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -19,8 +19,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） Approves New Engineered Viral 免疫療法 for Patients with Treatment-Resistant Advanced Melanoma",
-      "summary": "The U.S. Food and Drug Administration today granted accelerated approval to Tudriqev (vusolimogene oderparepvec-wtpg), a genetically modified oncolytic viral therapy for the treatment of advanced, refractory melanoma.",
+      "title": "FDA核准新型基因改造病毒免疫療法，用於治療抗藥性晚期黑色素瘤患者",
+      "summary": "美國FDA加速核准基因",
       "source": "FDA Biologics",
       "date": "2026-08-06",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
@@ -28,7 +28,7 @@
     },
     {
       "title": "OTP 市政廳：CMC 為基因治療 BLA 做好準備",
-      "summary": "The 美國食藥局（FDA）’s Center for Biologics Evaluation and Research (CBER) Office of Therapeutic Products (OTP) is hosting its next virtual town hall on Tuesday, June 4, 2024, to answer stakeholder questions regarding the chemistry, manufacturing, and controls (C",
+      "summary": "美國食藥局（FDA） 生物製品評估和研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2024 年 6 月 4 日星期二舉辦下一次虛擬市政廳會議，回答利益相關者有關化學、製造和控制的問題（C",
       "source": "06/04/2024",
       "date": "2026-08-06",
       "url": "http://www.fda.gov/news-events/otp-town-hall-cmc-readiness-gene-therapy-blas-06042024",
@@ -40,6 +40,14 @@
       "source": "08/30/2023",
       "date": "2026-08-06",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-nonclinical-assessment-cell-and-gene-therapy-products-08302023",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Insmed 報告 2026 年第二季財務業績並提供業務更新",
+      "summary": "財務績效並提供業務更新 Insmed Incorporated 投資者關係",
+      "source": "Insmed Incorporated Investor Relations",
+      "date": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQanJqV21palpuajlWVG05ZkVHSnB0WXNTZ3FHWjRTcVp1SVgxM3lzbnlpc28ycXJmTElTazZxV2pIRjhUR2xUZUcyNnpzUEw0eG9vd0xPcHVnQWMtQU9Na3lKUnVva08yQ0kxNDVLRmxZaGxfb1czLWxpaWFzMmotM2xDc2ZqUC1RU3pEanAyZXRvR0dZdk9UMnFTeXB2V3YxR2dDR3JEV2tYYnBiUmVIT3dTRm9vTVVYanFwUw?oc=5",
       "lang": "zh-TW"
     },
     {
