@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-08-16T11:12:57.487806+00:00",
+  "updated": "2026-08-16T23:10:15.577736+00:00",
   "items": [
     {
-      "title": "挖掘與改造活性 PiggyBac 轉座子",
-      "summary": "探討如何挖掘並改造具活性的 PiggyBac 轉座子系統，以應用於基因工程領域。",
+      "title": "挖掘與改造活性PiggyBac (PB) 轉座子以強化基因療法",
+      "summary": "PiggyBac (PB) 轉座子是基因療法中強大的工具，能有效且穩定地將治療基因整合到宿主基因組中。這篇回顧總結了在挖掘與改造活性PB轉座子方面的",
       "source": "PubMed",
       "date": "2026-08-16",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42529264/",
       "lang": "zh-TW"
     },
     {
-      "title": "將傳訊核糖核酸（mRNA）精準遞送至免疫細胞的應用",
-      "summary": "",
+      "title": "將 信使RNA（mRNA） 標靶遞送至免疫細胞",
+      "summary": "信使 RNA (信使RNA（mRNA）) 療法透過實現直接治療，徹底改變了生物醫學",
       "source": "PubMed",
       "date": "2026-08-16",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42590834/",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "毛茛苷瞄準MAPK-EGR1訊號軸線，抑制細胞與人類結腸類器官中的腸病毒71型複製。",
-      "summary": "腸病毒71型（EV71）感染時，MAPK路徑如何促進病毒複製的下游機制仍不清楚。",
+      "title": "黃耆苷元鎖定MAPK-EGR1訊號軸，抑制腸病毒71型（EV71）在細胞與人類結腸類器官中的複製",
+      "summary": "腸病毒71型（EV71）感染期間，介導MAPK路徑促病毒功能的下游效應子仍不明確",
       "source": "PubMed",
       "date": "2026-08-16",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42555528/",
@@ -131,15 +131,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "異種發育基質水凝膠與氧化錳",
-      "summary": "類固醇相關骨壞死（SON）的特點是難治性骨缺損微環境，涉及氧化壓力與持續性發炎。",
+      "title": "異種發育基質水凝膠與氧化錳（MnO）",
+      "summary": "類固醇相關性骨壞死（SON）的特點是難治性骨缺損微環境，涉及氧化壓力與持續性發炎。",
       "source": "PubMed",
       "date": "2026-08-16",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494751/",
       "lang": "zh-TW"
     },
     {
-      "title": "氣體分子及相關因子在膝關節軟骨損傷與修復",
+      "title": "氣體分子及相關因子在膝關節軟骨",
       "summary": "",
       "source": "PubMed",
       "date": "2026-08-16",
@@ -147,7 +147,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Research trends and hotspots of CAR-T細胞療法 細胞治療 for acute lymphoblastic leukemia: A bibliometric analysis.",
+      "title": "急性淋巴性白血病CAR-T細胞治療的研究趨勢與熱點：文獻計量分析。",
       "summary": "本研究旨在透過文獻計量分析來分析 ALL CAR-T細胞療法 細胞治療的全球研究模式和新興趨勢。出版物是從 Web of Science 核心合集資料庫中檢索的。文獻計量分析利用了 VOSviewer、CiteSpace 和 R 套件「bibliom...",
       "source": "PubMed",
       "date": "2026-08-16",
@@ -179,8 +179,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第二期臨床試驗：國家肝臟再生醫學合作中心（NC-CHRM）評估間質幹細胞療法治療非病毒性急性慢性肝衰竭（ACLF）病患",
-      "summary": "狀態：尚未開始招募｜主辦單位：印度肝膽科學研究所｜印度肝病死亡人數不斷攀",
+      "title": "國家肝臟再生醫學合作中心（NC-CHRM）第二期臨床試驗：評估間質幹細胞療法治療非病毒性急性慢性肝衰竭（ACLF）患者",
+      "summary": "狀態：尚未開始招募｜主辦：印度肝膽科學研究所｜印度肝病死亡人數不斷攀升，但肝",
       "source": "ClinicalTrials.gov｜India",
       "date": "2026-08-16",
       "url": "https://clinicaltrials.gov/study/NCT07131306",
@@ -195,7 +195,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE2] FLUDARABINE-TREOSULFAN REDUCED INTENSITY CONDITIONING REGIMEN PRIOR HAPLOIDENTICAL 幹細胞 TRANSPLANTATION WITH POST TRANSPLANTATION CYCLOPHOSPHAMIDE FOR OLDER AND/OR FRAIL PATIENTS WITH AML",
+      "title": "[第 2 期] 針對老年和/或體弱的 AML 患者，半相合幹細胞移植前使用氟達拉濱-茶硫芬降低強度調理方案，移植後使用環磷酰胺",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Institut Paoli-Calmettes｜急性骨髓性白血病（AML）和高危險群骨髓增生異常症候群（MDS）主要影響老年人，其發生率隨著年齡的增長而持續上升。對許多患者來說，異體造血幹細胞移植（allo-HSCT）是可行的",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-16",
@@ -211,7 +211,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE2] Testing Mosunetuzumab Alone, With Zanubrutinib, or With Polatuzumab Vedotin for Treating Marginal Zone Lymphoma That Came Back or Didn't Get Better With Treatment",
+      "title": "[第 2 階段] 測試單獨使用 Mosunetuzumab、合併 Zanubrutinib 或合併 Polatuzumab Vedotin 治療復發或治療後未改善的邊緣區淋巴瘤",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：SWOG癌症研究網絡｜這項II期試驗比較了單用莫蘇奈珠單抗與莫蘇奈珠單抗聯合扎努布替尼或波拉圖珠單抗維多汀治療邊緣區淋巴瘤患者的效果，這些患者在一段時間的改善（復發）後復發或對治療無反應",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-16",
@@ -219,8 +219,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "這項臨床試驗是一項單臂、非隨機的先導性試驗，旨在評估自體抗C19細胞（ARI-0001）給藥的安全性，以及本地生產嵌合抗原受體T細胞療法（CAR-T）的可行性。",
-      "summary": "狀態：",
+      "title": "這項臨床試驗是一項單臂、非隨機的先導性試驗，旨在評估自體抗C19細胞（ARI-0001）給藥的安全性，以及在當地生產嵌合抗原受體T細胞（CAR-T）的可行性",
+      "summary": "狀態：尚未招募｜",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-16",
       "url": "https://clinicaltrials.gov/study/NCT07412405",
@@ -237,7 +237,7 @@
     {
       "title": "[第 3 階段] 一項研究，比較 BMS-986353（Zolacabtagene-Autoleucel / Zola-cel）、CD19-CAR-T細胞療法 細胞與活動性系統性硬化症參與者的護理標準的療效和安全性",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Juno Therapeutics, Inc., a Bristol-Myers Squibb Company｜The purpose of this study is to compare the efficacy and safety of BMS-986353 versus standard of care in participants with active Systemic Sclerosis",
-      "source": "ClinicalTrials.gov｜Belgium, Spain, Switzerland",
+      "source": "ClinicalTrials.gov｜Japan, Switzerland, Canada",
       "date": "2026-08-16",
       "url": "https://clinicaltrials.gov/study/NCT07335562",
       "lang": "zh-TW"
@@ -251,16 +251,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Longeveron 公布 2026 年第二季財報並提供業務更新",
-      "summary": "財報與業務更新 (BioSpace)",
+      "title": "2026年8月癌症研究動態快速總結",
+      "summary": "腫瘤新聞中心發布2026年8月重點報導。",
+      "source": "Oncology News Central",
+      "date": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemQ3Z284X0FSUnRuREVMLU1YdW1mZ1NRaUZCeWl6M1FJZmUwcExpMU5iMVNWaFlFNW42Ri16Q05oN1NrTHptS25UaGhKN1FYWWxhUlUtZXlTX1JhWkFrT3RGSm5zWGFsdWhWdGdYazVva2lqWWRxY0prR1psRDMyRmNJbE9yZzFxU1FmUkliS29vZi1zRm9HTUowVEpyWDQ1?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Longeveron公布2026年第二季財報並提供業務最新進展",
+      "summary": "BioSpace報導Longever",
       "source": "BioSpace",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZVA4M2JsNEctTUExRlI3NlZlYkkxa1M2dVBZQ054UGlNNlhVSDVKNHR0VmRYQ29IcE9vZVRiV1RFYkljNUZ1RXBPeUVrQzlwWmdod09PX0lZUi1Ka2FYVmpRMXdxLVNBMUNabE5paV83NUktaXFxeU9waURhZmEwNEVMWlhzTHZtbXJ4bGJzLUZ3MzlLeHBJWGJSb2pqS0x3Rl9tV01OUjJSVFJCdS1SNFRFVU0zV0FmVDdDbnFxOGNDN1Y2X2c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Fate Therapeutics 公布 2026 年第二季財報與業務更新",
-      "summary": "2026 年財報與業務更新 (",
+      "title": "Fate Therapeutics 報告 2026 年第二季財務表現與業務更新",
+      "summary": "2026 年財務業績和業務更新 GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU2hnbldOV3RRVG9aczVmaElGNnVBUXVmVW8tYnNIc0MxdVFGRXJpNjhwZHljdnVVNHh1Mmg5Mks4cjBZOGhja3BkdW9Wd0lXV1FsZVBPaGhXb1ZhS3pKMmV0RnZ1Y3dhTFFGclU4VlVzMlh6M2ZfMWtEdVQ4VW83bXgwdnZZVTVYUktsU0RrUnlfSUFjQmFkVTdnOVloQlpPdFdTNUZObjlvYnM3akljTHpoX3FndkV4bEtqSlZqOXFuTnlhNlFwTGdiQ3JkVFo2SUVyb1ZNX3NjMUdpTFN2VXpxODBoVTRpcWo0Rg?oc=5",
@@ -352,14 +360,6 @@
       "source": "UC Davis Health",
       "date": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ3hSVlJCRXhLdjhMcDh4Sml5TXBORnhfOHJ0ZHBwb25ZOWphVkFCS2lCQWhucEFzVlVMV3RVN2FzazB6R21mNG56Q1FjamtiazdYeFo0bTJrYVROd1VOamVzV3ZYUTNTa2RTcmkyMzhxSjRycFBzNlc3eDJxLWhnVUFIX1NKc2w0U0VoTXp1MkFsSWpISUNHclpRNE5aX1Z0bDhZbzRHVE4yU0hBME9uTkJmb2ZVd2loMTRlOF9VYkoxa2VoUHBIZWxZRFpSRXVNUEhnWTlXMmlXbFVMM0tkUlFKVmJmYk00SkR2bw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "細胞療法 TG-C 在膝骨關節炎第 3 期試驗中未達主要終點",
-      "summary": "膝骨關節炎第 3 期試驗 CGTLive®",
-      "source": "CGTLive®",
-      "date": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0ptbmhScmo4TWpCTnpXTi1qWW1OVl9MMVdzVlBvNXlVUFAydnhhV0xETXRtV1NNZlNnS0ZhR2s1RGNTLUc1cXkzZW55bGpUcjVtTkpKX1RScmw1UXdoU0hpMlBVaGx5OUNfZWVwMHNvaWkwZTFLajV4XzYxSDRXdUw3Z2pFUENWMXNGWmNKQi1McDhkS1BQTHlNR2V2RGJRdGpBNDZ1M1c?oc=5",
       "lang": "zh-TW"
     },
     {

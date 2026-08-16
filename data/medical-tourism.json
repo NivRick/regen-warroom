@@ -1,42 +1,34 @@
 {
   "module": "tourism",
-  "updated": "2026-08-16T11:13:47.625472+00:00",
+  "updated": "2026-08-16T23:10:39.491944+00:00",
   "items": [
     {
-      "title": "PlacidWay 和 Cell Grand Clinic 宣布合作，將日本的再生醫學推向全球病患",
-      "summary": "PlacidWay 和 Cell Grand Clinic 攜手合作，要讓全球病患都能接觸到日本的再生醫學。",
+      "title": "PlacidWay 和 Cell Grand Clinic 宣布合作，將全球患者與日本再生醫學聯繫起來",
+      "summary": "合作關係將全球患者與日本再生醫學聯繫起來 EIN 新聞",
       "source": "EIN News",
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVVg0bmNsUDVBcDlLdE1xVXltaWptX0JSdHdGbUtSMm02ZzJZYUU4MVNQNzNrUUFNalRFWEx5OGxyU0hkcXQzb3hMb25Ra29yWndFQ2hVSU9ZU0V1cEhlU1FETkdIWExHMkc0UW14TXJybGozekx1Y0VIX0hCTy1xUzQ3OG1UWW5IZVhhUmRNME5NWURFcEtBQzFLRE81bGl4MnBMUXRweTJKMGdqUkJSVG9QT25mMThVV05JTWxBYkhuUWctU3FkYkNGN2Job2Z1bmZtdjNWUW9RRG5BYU1fcFM1MmNucmlvYjgyZQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "赴海外進行醫美手術潛藏更高風險",
-      "summary": "提醒民眾，到國外尋求醫美服務可能面臨更多潛在風險，包括手術品質、術後照護及法律保障等問題，建議審慎評估，以確保自身權益與安全。",
+      "title": "出國整容風險更大",
+      "summary": "",
       "source": "Taipei Times",
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rMGh6cXhrSVZpSUZ1RmFpMGNta0FybEt5TXhETnhkT0xTQUFvanNDVl9MOHRNdTkxTDR6TENMSjRBR1dYVzFVZzNNb2tYZkpqa2RoWkNBa1BNUWV5N0lETURzWmt2a2IwWENmLTBia2xlSE95LXZHXzhR?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Gilead 考慮在韓國、日本或台灣設立亞洲首座嵌合抗原受體T細胞療法（CAR-T）生產廠",
-      "summary": "根據《首爾經濟日報》報導，生技大廠Gilead正在評估韓國、日本和台灣，希望選定其中一處設立其在亞洲的第一座嵌合抗原受體T細胞療法（CAR-T）生產基地。",
+      "title": "吉利德考慮在韓國、日本和台灣建立首個亞洲 CAR-T細胞療法 工廠",
+      "summary": "亞洲首家 CAR-T細胞療法 工廠首爾經濟日報",
       "source": "Seoul Economic Daily",
       "date": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR1Awd0tNV2sxM0xHR1RKTlJ2WWZia1FxX05iV0J0eGVaeGZneXAxdEhQZ0FUd0xyZkZzQXFrS2poUi1MMVJQVGxRTDAzNTAwWm5FQlBVU1pOaDViakR3RFpPZlo5ZGNhQTVmaG9YNUs2cWlVUHQ0UFlPX2ZFNFowUU5tNFZ3b0VsLThaZXlkZ1FQVTk2ckJnTW5xRzNiZHBPaDNtOQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "組織工程市場規模、市佔率、成長與預測，展望2034年",
-      "summary": "Fortune Business Insights指出，組織工程市場的規模、市佔率、成長趨勢及未來預測，將一路看到2034年。",
-      "source": "Fortune Business Insights",
-      "date": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aZlo2UUJfUkNfeGxHY2hQSlRvRkQ0QzNUQmFRcFQxcUkwa2VBU2hDMzUyQ2pfRVpCd3Zjb3RzQ0M1dFZGeDlGc1FGRGl0blhWNjJkMmN5blhuSmM1aXRySU11Zzk5YVJ0SWc0amVlZjVleUFleDRHb3RGVWU?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "再生醫學市場規模預計在2035年達到2348.5億美元",
-      "summary": "根據Precedence Research的報告，再生醫學市場規模預估到2035年將上看2348.5億美元。",
+      "title": "2035年再生醫學市場規模將達2,348.5億美元",
+      "summary": "到 2035 年將達到 2,348.5 億美元 先行研究",
       "source": "Precedence Research",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tN2JFWlpOTTJCUWdoSG9ZZlpTblpEelkzVi1GNlhNWVZRem1IRUdfNldOaVdLMDBpWVVXaXB5Z1UtWlEwWmptT0JaM05BVGNDOENOTlcteGFDY215YTdQTUE0WDFjNktjS1BhZlBVaXg?oc=5",
