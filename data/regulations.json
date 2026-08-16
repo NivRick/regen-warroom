@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-08-15T23:11:41.528551+00:00",
+  "updated": "2026-08-16T11:13:23.656480+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心發布的最新消息。",
+      "title": "生物製劑最新進展",
+      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）發布最新消息。",
       "source": "FDA Biologics",
       "date": "2026-08-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -19,8 +19,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "FDA核准新型基因改造病毒免疫療法，用於治療抗藥性晚期黑色素瘤患者",
-      "summary": "美國FDA加速核准基因",
+      "title": "美國食品藥物管理局（FDA）核准新型基因改造病毒免疫療法，用於治療抗藥性晚期黑色素瘤患者",
+      "summary": "美國",
       "source": "FDA Biologics",
       "date": "2026-08-06",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
