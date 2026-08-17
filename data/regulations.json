@@ -1,10 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-08-17T11:19:11.133451+00:00",
+  "updated": "2026-08-17T23:14:35.786095+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "出口受 CBER 監管的產品",
+      "summary": "CBER 合規和生物製品品質辦公室 (OCBQ) 內的案例管理部門 (DCM) 指導和協調 CBER 的出口計劃，包括審查未經批准的 CBER 監管產品的出口請求。",
+      "source": "FDA Biologics",
+      "date": "2026-08-17",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/exporting-cber-regulated-products",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-08-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -12,40 +20,16 @@
     },
     {
       "title": "BioCardia 報告 2026 年第二季業務亮點和財務業績",
-      "summary": "業務亮點和財務業績 GlobeNewswire",
-      "source": "GlobeNewswire",
+      "summary": "業務亮點和財務業績globenewswire.com",
+      "source": "globenewswire.com",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "FDA核准新型基因改造病毒免疫療法，用於治療頑固型晚期黑色素瘤患者",
-      "summary": "美國食品藥物",
-      "source": "FDA Biologics",
-      "date": "2026-08-06",
-      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "OTP Town Hall: CMC Readiness for 基因療法 BLAs",
-      "summary": "美國食藥局（FDA） 生物製品評估和研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2024 年 6 月 4 日星期二舉辦下一次虛擬市政廳會議，回答利益相關者有關化學、製造和控制的問題（C",
-      "source": "06/04/2024",
-      "date": "2026-08-06",
-      "url": "http://www.fda.gov/news-events/otp-town-hall-cmc-readiness-gene-therapy-blas-06042024",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "OTP Town Hall：細胞和基因治療產品的非臨床評估",
-      "summary": "CBER 和 OTP 將於 2023 年 8 月 30 日星期三舉辦下一次虛擬市政廳活動，回答利益相關者有關細胞和基因治療產品非臨床評估的問題。 OTP 藥理學/毒理學辦公室的專家將在場",
-      "source": "08/30/2023",
-      "date": "2026-08-06",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-nonclinical-assessment-cell-and-gene-therapy-products-08302023",
-      "lang": "zh-TW"
-    },
-    {
       "title": "齊碁生醫獲美國FDA IND 核准以臺美雙報確立衰弱症細胞治療的國際法規位階| 唐可欣 | 品味生活",
       "summary": "",
-      "source": "風傳媒",
+      "source": "storm.mg",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
     }
