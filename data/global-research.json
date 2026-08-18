@@ -1,21 +1,29 @@
 {
   "module": "research",
-  "updated": "2026-08-18T11:17:17.412570+00:00",
+  "updated": "2026-08-18T23:13:18.274614+00:00",
   "items": [
     {
-      "title": "挖掘與改造活性PiggyBac (轉座子) 元件，以強化基因療法",
-      "summary": "PiggyBac (PB) 轉座子因能有效率地將大片段DNA整合到宿主基因組中，被視為基因療法的重要工具。然而，其治療潛力受限於固有的基因毒性，",
+      "title": "挖掘與工程化活性PiggyBac轉座子",
+      "summary": "本研究探討如何挖掘並工程化具活性的PiggyBac轉座子，以提升基因編輯效率。",
       "source": "PubMed",
       "date": "2026-08-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42529264/",
       "lang": "zh-TW"
     },
     {
-      "title": "將 信使RNA（mRNA） 標靶遞送至免疫細胞",
-      "summary": "信使 RNA (信使RNA（mRNA）) 療法透過實現直接治療，徹底改變了生物醫學",
+      "title": "靶向遞送傳訊核糖核酸（mRNA）至免疫細胞",
+      "summary": "傳訊核糖核酸",
       "source": "PubMed",
       "date": "2026-08-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42590834/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "開發移動式高強度聚焦超音波平台，用於胰臟導管腺癌小鼠模型的臨床前腫瘤微環境調節。",
+      "summary": "高強度聚焦超音波（HIFU）是一種非侵入性消融技術，與臨床前研究和臨床轉化的相關性越來越大。胰腺導管腺癌（PDAC）是最致命的癌症之一，治療選擇有限且對目前治療的反應不佳...",
+      "source": "PubMed",
+      "date": "2026-08-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42609051/",
       "lang": "zh-TW"
     },
     {
@@ -59,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "從神經發育到再生醫學：幹細胞生物學、脊髓修復和基於 誘導型多能幹細胞（iPSC） 的藥物發現的研究之旅。",
-      "summary": "這篇紀念文章回顧了跨越神經發育、幹細胞生物學、再生醫學和基於 誘導型多能幹細胞（iPSC） 的藥物發現的研究歷程。我早期的工作重點是神經系統中 RNA 介導的調節，包括髓磷脂鹼性蛋白基因調節和 ID 的研究。",
+      "title": "從神經發育到再生醫學：幹細胞生物學、脊髓修復與誘導型多功能幹細胞藥物開發的研究歷程",
+      "summary": "這篇紀念文章回顧了一段橫跨神經發育、幹細胞生物學、再生醫學以及誘導型多功能幹細胞（iPSC）藥物",
       "source": "PubMed",
       "date": "2026-08-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42568821/",
       "lang": "zh-TW"
     },
     {
-      "title": "丹參酮素（Calycosin）鎖定MAPK-EGR1訊號軸，抑制腸病毒71型（EV71）在細胞與人類結腸類器官中的複製",
-      "summary": "腸病毒71型（EV71）感染期間，MAPK路徑促進病毒複製的下游效應因子",
+      "title": "毛蕊異黃酮以 MAPK-EGR1 訊號軸為靶點，抑制腸病毒 71 在細胞和人類結腸類器官中的複製。",
+      "summary": "在腸病毒 71 (EV71) 感染期間介導 MAPK 路徑促病毒功能的下游效應器仍不清楚。在這裡，我們表明早期生長反應 1 (EGR1) 受到三個經典 MAPK 分支的獨立調節，包括細胞外信號調節...",
       "source": "PubMed",
       "date": "2026-08-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42555528/",
@@ -123,16 +131,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "含 MnO 的異種發育基質水凝膠",
-      "summary": "類固醇相關性骨壞死（SON）的特徵是難治性骨缺損微環境，涉及氧化壓力、持續發炎和血管化受損，這限制了傳統移植材料的功效。在這裡，我們開發了一種臨時可編程複合材料...",
+      "title": "異種發育基質水凝膠與氧化錳",
+      "summary": "類固醇相關骨壞死（SON）的特點是難治性骨缺損微環境，涉及氧化壓力與持續性發炎。",
       "source": "PubMed",
       "date": "2026-08-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494751/",
       "lang": "zh-TW"
     },
     {
-      "title": "氣體分子及相關因子在膝關節軟骨損傷與修復中的角色：研究熱點的文獻計量視覺化分析",
-      "summary": "這篇文獻計量分析探討氣體分子在膝關節軟骨損傷與修復中的關鍵角色，並視覺化呈現研究熱點。",
+      "title": "氣體分子及相關因子在膝關節軟骨損傷與修",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-08-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42493773/",
@@ -155,99 +163,59 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Triclocarban 透過 SLC7A11/GSH/GPX4 軸觸發鐵死亡來驅動肝內膽管細胞損傷。",
-      "summary": "三氯生 (TCS) 和三氯卡班 (TCC) 廣泛用作抗菌劑，由於環境釋放量不斷增加，會直接與人類接觸。由於擔心 TCS 對環境的影響和潛在的肝毒性，許多國家正在逐步淘汰它...",
-      "source": "PubMed",
+      "title": "[第 2 期] 皮膚鱗狀細胞癌患者的 L19IL2/L19TNF",
+      "summary": "狀態：招募中｜主辦單位：Philogen S.p.A.｜針對經組織學證實的局部晚期皮膚鱗狀細胞癌（LacSCC）患者進行的開放標籤、單臂、多中心研究，這些患者適合瘤內注射，且對免疫檢查點抑製劑治療後病情進展或不耐受",
+      "source": "ClinicalTrials.gov｜United States, Italy, Greece",
       "date": "2026-08-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42476445/",
+      "url": "https://clinicaltrials.gov/study/NCT07228442",
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 期] Tafasitamab 合併 Acalabrutinib 和 Venetoclax 治療慢性淋巴球白血病/小淋巴球淋巴瘤",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：希望之城醫療中心｜這項 II 期試驗測試了 tafasitamab 與 acalabrutinib 和 Venetoclax 聯合治療慢性淋巴細胞白血病 (CLL)/小細胞淋巴瘤 (SLL) 的安全性、副作用以及效果。單株抗體是一種蛋白質",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT07582159",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[EARLY_PHASE1] GC012F 在類風濕關節炎的開放標籤研究。",
-      "summary": "狀態：撤回｜主辦：中國血液疾病研究所醫院｜這是一項評估 GC012F 在難治性（D2T）類風濕關節炎患者中的安全性和有效性的開放標籤研究。",
-      "source": "ClinicalTrials.gov｜China",
-      "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT07315503",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE1] CRISPR",
-      "summary": "",
+      "title": "[第一階段] CD30 CAR-T細胞療法 細胞治療低風險復發性經典霍奇金淋巴瘤",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：紐約醫學院｜復發性低危險CD30經典何杰金氏淋巴瘤患者將獲得自體CD30 CAR T細胞製造。劑量遞增將用於確定 RP2D。淋巴球清除後，將輸注 CAR-T細胞療法 細胞。",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT06752876",
+      "url": "https://clinicaltrials.gov/study/NCT07575893",
       "lang": "zh-TW"
     },
     {
-      "title": "[第一階段] 以逆轉錄病毒載體轉導的自體 T 細胞表達血液惡性腫瘤患者參與者特異性新抗原的 TCR",
-      "summary": "狀態：招募｜主辦：美國國家癌症研究所（NCI）｜背景：\n\n血癌（例如白血病）可能很難治療，尤其是當它們的 TP53 或 RAS 基因發生突變時。這些突變會導致癌細胞產生稱為新表位的物質。研究人員想要測試一種方法",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT06904066",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE2] CD5 CAR 工程化 IL15 轉導的臍帶血衍生 NK 細胞聯合淋巴細胞清除化療治療侵襲性 T 細胞血液惡性腫瘤的 II 期研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：M.D.安德森癌症中心｜確定 iC9/CD5CAR/IL-15 NK 細胞作為鞏固治療首次緩解的侵襲性 T 細胞惡性腫瘤患者的安全性和有效性（1 年 PFS）。",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT07137481",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[第1階段，第2階段]膠質母細胞瘤的聯合免疫療法，包括BreakVax免疫療法（每位患者設計和製造）、化療和抗PD-1療法",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：BreakBio Corp｜本研究的目的是評估這種多成分免疫治療策略在晚期實體瘤患者中的安全性、可行性和初步抗腫瘤活性。該研究旨在評估是否協調增強",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT07762716",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[第 2 期] Teclistamab 合併泊馬度胺以替代方式治療復發或難治性多發性骨髓瘤患者。",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：歐登塞大學醫院｜這項 II 期、開放標籤、多中心研究將評估 teclistamab 與泊馬度胺的聯合使用，使用替代劑量方法對已接受過 1-3 種既往治療的複發性或難度多發性骨髓瘤參與者進行治療。",
-      "source": "ClinicalTrials.gov｜Norway, Finland, Denmark",
-      "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT07757412",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[第一階段] 外用含外泌體液體對健康志願者的安全性",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：西哈薩克馬拉特奧斯帕諾夫醫科大學｜這項第一階段分點試點研究將在 10 名健康成年志願者中評估外用含外泌體液體的安全性和皮膚耐受性。研究液體將應用於完整皮膚的一小塊限定區域。車輛一",
-      "source": "ClinicalTrials.gov｜Kazakhstan",
-      "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT07703969",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "針對復發/難治性急性骨髓性白血病（AML），評估Sonrotoclax、Cladribine與標準劑量Cytarabine的救援性化療，並接續進行造血幹細胞移植（HSCT）的臨床一/二期試驗",
-      "summary": "這項由中國血液病醫院",
+      "title": "[第 2 期] Polatuzumab Vedotin 和 Glofitamab 在 R-CHOP 後 12 個月內復發或難治性瀰漫性大 B 細胞淋巴瘤患者中的研究",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：延世大學｜一線R-CHOP治療原發難治或R-CHOP後12個月內復發的瀰漫性大B細胞淋巴瘤（DLBCL）患者預後不良，治療選擇有限。傳統挽救性化療效果有限",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT07757672",
+      "url": "https://clinicaltrials.gov/study/NCT07702851",
       "lang": "zh-TW"
     },
     {
-      "title": "[NA] 在高風險髓母細胞瘤中針對 MYC",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Fondazione Policlinico Universitario Agostino Gemelli IRCCS｜髓母細胞瘤是兒童最常見的惡性腦瘤。第 3 組髓母細胞瘤 (G3 MB) 代表最具侵襲性的分子亞型，與不良預後相關，特別是在以高表達或 AM 為特徵的病例中",
-      "source": "ClinicalTrials.gov｜Italy",
+      "title": "[第2階段]雙硫崙/銅合併治療新診斷的多形性膠質母細胞瘤",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：奧林匹克醫學中心｜多形性膠質母細胞瘤（GBM）是成人最常見的惡性原發性腦瘤。儘管進行了最大程度的治療，腫瘤仍經常復發並伴隨不良的預後。除其他原因外，據信這可能部分是由於",
+      "source": "ClinicalTrials.gov｜Greece",
       "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT07694622",
+      "url": "https://clinicaltrials.gov/study/NCT01777919",
       "lang": "zh-TW"
     },
     {
-      "title": "[第一階段] NgFUS NIVO：神經導航引導聚焦超音波合併納武單抗治療復發性與進展性 DMG 及其他高階腦腫瘤",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：兒童國家研究所｜這是一項開放標籤的 1 期安全性和可行性研究，評估一種新型聯合療法治療進展性和復發性瀰漫性中線膠質瘤 (DMG) 和其他進展性和復發性高級別腦腫瘤。這項研究結合了靜脈注射",
-      "source": "ClinicalTrials.gov｜Global",
+      "title": "[NA] my.naviGATE：青少年和年輕人治療後效果指南",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：丹娜法伯癌症研究所｜這項研究旨在為患有癌症的青少年和年輕人（AYA）設計和測試一種新穎的個性化數字幹預措施-my.naviGATE。 my.naviGATE 是一款行動應用程序，可提供個人化的生存教育、存取虛擬同儕導航",
+      "source": "ClinicalTrials.gov｜United States",
       "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT07664176",
+      "url": "https://clinicaltrials.gov/study/NCT07516353",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[第 2 期] 評估免疫療法與放射療法合併治療非小細胞肺癌的研究",
+      "summary": "狀態：招募中｜主辦單位：芝加哥大學｜目前正在測試免疫療法與放射療法結合的臨床試驗。",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-08-18",
+      "url": "https://clinicaltrials.gov/study/NCT07603856",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE1, PHASE2] 戈爾卡多胺合併利妥昔單抗治療復發或難治性套細胞淋巴瘤患者",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：City of Hope Medical Center｜本 I/II 期試驗測試戈爾卡多胺合併利妥昔單抗治療經過一段時間改善（復發）或未改善的套細胞淋巴瘤患者的安全性、副作用、最佳劑量和有效性",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-08-18",
+      "url": "https://clinicaltrials.gov/study/NCT07578077",
       "lang": "zh-TW"
     },
     {
@@ -259,32 +227,48 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 期] 使用中期治療腫瘤內轉錄組學治療 B-NHL 的 Glofitamab",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Joshua Brody｜該試驗將招募復發/難治性 DLBCL 和 MCL 患者，有機會儘早在二線接受單藥格洛菲他單抗治療。患者將患有表面可觸及的疾病，以便在手術前進行空心針活檢",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT07748364",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE1] 評估 CE211NS21 在 AQP4-IgG 陽性 NMOSD 復發患者中的安全性和耐受性",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Corestemchemon, Inc.｜評估同種異體骨髓間質幹細胞（CE211NS21）在抗水通道蛋白4-免疫球蛋白G陽性視神經脊髓炎譜系障礙（AQP4-IgG陽性NMOSD）嚴重復發患者中的安全性和耐受性",
+      "title": "[NA] 跟腱病；衝擊波治療的效果",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：西約塔蘭地區｜背景阿基里斯腱病（阿基里斯腱疼痛）是一種常見且往往長期持續的疾病，它限制身體活動和表現，也影響工作能力和生活品質。疼痛位於中港",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT07595965",
+      "url": "https://clinicaltrials.gov/study/NCT07685509",
       "lang": "zh-TW"
     },
     {
-      "title": "[不適用] 接受 I-III 期胃食道癌全身治療的成人身體功能的前瞻性研究，FAST-GO 研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Jonsson 綜合癌症中心｜這項研究評估了胃食道癌治療如何影響接受化療作為胃食道癌治療一部分的患者的身體功能。",
+      "title": "[第 1 期、第 2 期] Enfortumab Vedotin、Pembrolizumab 和 Quemliclustat 用於治療不可切除的局部晚期和轉移性尿路上皮癌",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Fred Hutchinson 癌症中心｜這項 Ib/II 期試驗測試了 quemliclustat 與 enfortumab vedotin 和 pembrolizumab 聯合用藥的安全性、副作用和最佳劑量，並觀察該聯合用藥治療膀胱、腎盂或輸尿管",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-08-18",
-      "url": "https://clinicaltrials.gov/study/NCT07517211",
+      "url": "https://clinicaltrials.gov/study/NCT07667335",
       "lang": "zh-TW"
     },
     {
-      "title": "Immatics 公布 2026 年第二季財報與業務最新進展",
-      "summary": "生技公司 Immatics 宣布了其 2026 年第二季的財務表現，並同步更新了公司在研發管線和營運上的最新進展，提供投資人參考。",
+      "title": "[NA] 透過 FreedomEDGE® 輸注系統皮下注射 Daratumumab 的前瞻性評估",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：里昂臨終關懷醫院｜這項研究正在評估一種新的達拉妥尤單抗治療方法，達拉妥尤單抗是一種常用於治療多發性骨髓瘤和澱粉樣變性的治療方法。多年來，這種治療方法都是透過皮下注射進行，只需幾分鐘",
+      "source": "ClinicalTrials.gov｜France",
+      "date": "2026-08-18",
+      "url": "https://clinicaltrials.gov/study/NCT07721350",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[第 2 期] 針對難治性或首次復發的高風險多發性骨髓瘤患者，測試 Daratumumab 和 Teclistamab 的研究藥物組合與常規治療（Daratumumab、泊馬度胺、地塞米鬆或 Daratumumab、卡非佐米、地塞米松）的比較",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：美國國家癌症研究所（NCI）｜這項 II 期試驗比較了 daratumumab-透明質酸酶（daratumumab）和 teclistamab 聯合治療與常規治療的 daratumumab、泊馬度胺、地塞米鬆或 daratumb、米非松",
+      "source": "ClinicalTrials.gov｜Global",
+      "date": "2026-08-18",
+      "url": "https://clinicaltrials.gov/study/NCT06948084",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "細胞與基因療法開發，法規策略要怎麼佈局？",
+      "summary": "本場網路研討會將探討如何將法規策略有效整合到細胞與基因療法開發中，加速產品上市。",
+      "source": "GEN News",
+      "date": "2026-08-18",
+      "url": "https://www.genengnews.com/multimedia/webinars/embedding-regulatory-strategy-in-cell-and-gene-therapy-development/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Immatics公布2026年第二季財報與業務進展",
+      "summary": "",
       "source": "GlobeNewswire",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNWwwQVhuS3BfWG9BVFBIRl95R0JmdVlmWkd5NDJrMk9MN0tERTZvQ1ZpUzByX3d3OE5JYmdtSmtFQUcyNWFJYVpzbnphblRTRHhlZmpCTHFRdThpV0ZuemVBbmUtbnphTlJVLUd5T3ZZTUxjdE5ZYk5acVRwVjlsYkxHXzJvSGxHcGhVOF96Zml3UDBpamVWX2tjQWJFV1BUcWxXWE13a2k2UUZ5NFYtRkJpVjFsbDdDR3Vjb1FVcF9adWZfZ253TldjMTFCSi1mZWNVSHZkd3l3SXJpXzJ3R0pB?oc=5",
@@ -315,6 +299,22 @@
       "lang": "zh-TW"
     },
     {
+      "title": "[PHASE3] 輸注時機對可切除非小細胞肺癌新輔助免疫治療病理反應的影響",
+      "summary": "狀態：招募中｜主辦：湖南省腫瘤醫院｜本前瞻性研究旨在探討免疫檢查點抑制劑（ICIs）的給藥時間是否影響可切除的II-III期非小細胞肺癌（NSCLC）患者新輔助免疫治療的療效",
+      "source": "ClinicalTrials.gov｜China",
+      "date": "2026-08-12",
+      "url": "https://clinicaltrials.gov/study/NCT07251582",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[第 3 期] BRIDGE-NK：晚期 NKTCL 中免疫療法與化療誘導後進行自體 HSCT",
+      "summary": "狀態：招募中｜主辦：陶榮｜這是一項針對新診斷的 IV 期結外 NK/T 細胞淋巴瘤患者的隨機、開放、前瞻性、多中心 III 期優效性研究。研究比較了兩種一線誘導策略，然後使用 autol 進行鞏固",
+      "source": "ClinicalTrials.gov｜China",
+      "date": "2026-08-11",
+      "url": "https://clinicaltrials.gov/study/NCT07678229",
+      "lang": "zh-TW"
+    },
+    {
       "title": "新聞稿服務：Adicet Bio 報告 2026 年第二季財務業績並提供業務更新",
       "summary": "2026 年第二季財務表現並提供業務更新 基因剪輯技術（CRISPR） Medicine 新聞",
       "source": "CRISPR Medicine News",
@@ -323,43 +323,35 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第三階段] 一項單臂、探索性臨床研究，評估貝伐珠單抗合併安羅替尼和依托泊苷作為一線治療老年小細胞肺癌患者或不耐受強化化療的患​​者的療效和安全性",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：中山大學孫逸仙紀念醫院｜一項觀察和評估貝美斯托巴特聯合安羅替尼和依托泊苷一線治療老年和不耐受小細胞肺癌患者的單臂探索性臨床研究。\n\n符合資格的患者是",
+      "title": "[第 4 期] 多發性骨髓瘤患者自行皮下注射 Daratumumab",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：歐登塞大學醫院｜這項開放標籤、第四階段、前瞻性、非隨機、申辦者發起的多中心研究的主要目標是評估多發性骨髓瘤患者皮下（SC）達雷妥尤單抗自我給藥的可行性和安全性",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-08-01",
-      "url": "https://clinicaltrials.gov/study/NCT07728955",
+      "url": "https://clinicaltrials.gov/study/NCT07191379",
       "lang": "zh-TW"
     },
     {
-      "title": "[NA] 支援產前篩檢的即時同意：INFORM研究",
-      "summary": "狀態：尚未招募｜主辦：凱斯西儲大學｜這項臨床試驗旨在測試一項介入措施，以協助產前基因篩檢的同意流程。",
+      "title": "[第 3 期] 奧西替尼合併或不合併原發性肺腫瘤切除術治療 EGFR 突變寡轉移性非小細胞肺癌",
+      "summary": "狀態：招募中｜主辦：台大醫院｜奧西替尼是一種標準的第一線治療藥物，用於治療表皮生長因子受體外顯子19缺失或外顯子21 L858R突變的轉移性非小細胞肺癌患者。雖然奧希替尼可以提供有效的疾病控制",
+      "source": "ClinicalTrials.gov｜Taiwan",
+      "date": "2026-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT07738172",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[第 2 期] Becotatug Vedotin 合併 Tislelizumab 和低劑量樂伐替尼治療晚期食道鱗狀細胞癌，II 期",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：天津醫科大學腫瘤醫院｜免疫療法合併化療已成為晚期食道鱗狀細胞癌（ESCC）的一線治療標準，顯著提高了患者的存活率。然而，隨著一線免疫療法的廣泛採用，",
+      "source": "ClinicalTrials.gov｜Global",
+      "date": "2026-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT07686926",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[第一階段] 針對達菲無效表型個體的全身抗​​癌治療劑量調整",
+      "summary": "狀態：招募｜主辦：Andrew Hantel，醫學博士｜本研究由主要研究、觀察性研究和可選調查研究組成。正在進行的主要研究是為了了解使用 Duffy null 特異性治療劑量指南是否可以減少或延遲劑量調整併避免中性粒細胞減少",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-01",
-      "url": "https://clinicaltrials.gov/study/NCT07557303",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "【第二期】特瑞普利單抗合併化療治療晚期後線小細胞肺癌",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：河南省腫瘤醫院｜本研究是一項隨機、開放標籤、多中心研究者發起的臨床試驗。符合納入標準的患者接受方案中規定的治療計畫。使用貝葉斯設計來探索藥物的有效性和安全性",
-      "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-08-01",
-      "url": "https://clinicaltrials.gov/study/NCT07698054",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[第 2 期] SKB571 聯合治療非小細胞肺癌 (NSCLC) 參與者的研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：四川科倫博泰生物製藥有限公司｜這是一項開放標籤、多中心、II 期研究。本研究的目的是評估 SKB571 聯合療法在非小細胞肺癌 (NSCLC) 患者中的安全性、耐受性和初步抗腫瘤活性。",
-      "source": "ClinicalTrials.gov｜China",
-      "date": "2026-07-31",
-      "url": "https://clinicaltrials.gov/study/NCT07622186",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE2] 新輔助PD-1抑制劑和EGFR抑制劑治療局部晚期皮膚鱗狀細胞癌",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：黑色素瘤和皮膚癌試驗有限公司｜NEOPECS 試驗是一項 II 期前瞻性、單臂、非隨機介入試驗，針對邊緣性可切除局部晚期皮膚鱗狀細胞癌患者，有 6 名受試者安全引導，以確保聯合用藥的安全性",
-      "source": "ClinicalTrials.gov｜Global",
       "date": "2026-07-30",
-      "url": "https://clinicaltrials.gov/study/NCT06418724",
+      "url": "https://clinicaltrials.gov/study/NCT07341867",
       "lang": "zh-TW"
     },
     {
@@ -368,6 +360,22 @@
       "source": "UC Davis Health",
       "date": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ3hSVlJCRXhLdjhMcDh4Sml5TXBORnhfOHJ0ZHBwb25ZOWphVkFCS2lCQWhucEFzVlVMV3RVN2FzazB6R21mNG56Q1FjamtiazdYeFo0bTJrYVROd1VOamVzV3ZYUTNTa2RTcmkyMzhxSjRycFBzNlc3eDJxLWhnVUFIX1NKc2w0U0VoTXp1MkFsSWpISUNHclpRNE5aX1Z0bDhZbzRHVE4yU0hBME9uTkJmb2ZVd2loMTRlOF9VYkoxa2VoUHBIZWxZRFpSRXVNUEhnWTlXMmlXbFVMM0tkUlFKVmJmYk00SkR2bw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "第二期開放標籤單臂臨床試驗：FT819用於紅斑性狼瘡腎炎患者",
+      "summary": "狀態：收案中｜主辦：Fate Therapeutics｜本試驗主要目標是評估由異體T細胞組成的FT819之療效與安全性。",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-07-27",
+      "url": "https://clinicaltrials.gov/study/NCT07570862",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "CloB2M（氟達拉濱、白消安與美法侖組合）預處理方案在成人急性骨髓性白血病異體造血幹細胞移植中的療效與安全性",
+      "summary": "狀態：尚未招募｜主辦：中國血液病醫院血液學研究所｜這是一項單中心、前瞻",
+      "source": "ClinicalTrials.gov｜Global",
+      "date": "2026-07-20",
+      "url": "https://clinicaltrials.gov/study/NCT07644481",
       "lang": "zh-TW"
     }
   ]

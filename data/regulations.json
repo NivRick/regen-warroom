@@ -1,21 +1,69 @@
 {
   "module": "regulation",
-  "updated": "2026-08-18T11:17:45.171643+00:00",
+  "updated": "2026-08-18T23:14:01.140989+00:00",
   "items": [
     {
-      "title": "CBER (生物製品評估與研究中心) 規範產品出口",
-      "summary": "隸屬於CBER (生物製品評估與研究中心) 法規遵循及生物製劑品質辦公室（OCBQ）的案件管理處（DCM），負責指導與協調CBER的出口計畫。",
-      "source": "FDA Biologics",
-      "date": "2026-08-17",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/exporting-cber-regulated-products",
+      "title": "美國食藥局（FDA） 圓桌會議：加強血液製造的供應鏈",
+      "summary": "2026 年 9 月 29 日，美國食品藥物管理局生物製品評估與研究中心血液研究與審查辦公室將舉辦圓桌會議，討論加強全血採集和製造的供應鏈",
+      "source": "09/29/2026",
+      "date": "2026-08-18",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
       "lang": "zh-TW"
     },
     {
       "title": "生物製品的新動態",
       "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
-      "date": "2026-08-14",
+      "date": "2026-08-18",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "核准的細胞和基因治療產品",
+      "summary": "治療產品辦公室 (OTP) 許可和批准的產品清單。",
+      "source": "FDA Biologics",
+      "date": "2026-08-18",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "OTP 市政廳：基因治療化學、製造和控制 - 2023 年 4 月",
+      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2023 年 4 月 25 日星期二舉辦下一次虛擬市政廳會議。",
+      "source": "04/25/2023",
+      "date": "2026-08-18",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-gene-therapy-chemistry-manufacturing-and-controls-april-2023-04252023",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "OTP 市政廳：細胞治療化學、製造和控制 – 2023 年 6 月",
+      "summary": "該活動將重點關注細胞治療化學、製造和控制 (CMC)，包括受 OTP 監管的組織工程醫療產品，並將是 2022 年 12 月虛擬市政廳的延續。",
+      "source": "06/08/2023",
+      "date": "2026-08-18",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-chemistry-manufacturing-and-controls-june-2023-06082023",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報",
+      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
+      "source": "Via Medica Journals",
+      "date": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "將法規策略整合於細胞與基因療法開發",
+      "summary": "本場網路研討會將探討如何將法規策略融入細胞與基因療法的開發流程中。",
+      "source": "GEN News",
+      "date": "2026-08-18",
+      "url": "https://www.genengnews.com/multimedia/webinars/embedding-regulatory-strategy-in-cell-and-gene-therapy-development/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "出口受 CBER 監管的產品",
+      "summary": "CBER 合規和生物製品品質辦公室 (OCBQ) 內的案例管理部門 (DCM) 指導和協調 CBER 的出口計劃，包括審查未經批准的 CBER 監管產品的出口請求。",
+      "source": "FDA Biologics",
+      "date": "2026-08-17",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/exporting-cber-regulated-products",
       "lang": "zh-TW"
     },
     {

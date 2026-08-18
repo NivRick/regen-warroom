@@ -1,93 +1,93 @@
 {
   "module": "funding",
-  "updated": "2026-08-18T11:18:11.987099+00:00",
+  "updated": "2026-08-18T23:14:26.273469+00:00",
   "items": [
     {
-      "title": "STAT+: 賽諾菲（Sanofi）將在麻州裁員229人，距91億美元收購Blueprint Medicines僅一年",
-      "summary": "賽諾菲（Sanofi）是麻州最大的製藥雇主之一，在收購Blueprint Medicines一年後，將裁員超過200名員工。",
+      "title": "STAT+：非營利醫療系統今年從醫療計費公司的股份中獲利 11 億美元",
+      "summary": "私募股權公司對 Ensemble 等收入週期管理公司表現出了濃厚的興趣。",
+      "source": "STAT News",
+      "date": "2026-08-18",
+      "url": "https://www.statnews.com/2026/08/18/bon-secours-mercy-revenue-cycle-firm-ensemble-2026-payouts/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：麻省總醫院領導、達納法伯癌症研究所等醫院高層在 2024 年獲得大幅加薪",
+      "summary": "主要衛生系統的高層管理人員獲得了大幅加薪，儘管他們的醫院面臨許多挑戰。",
+      "source": "STAT News",
+      "date": "2026-08-18",
+      "url": "https://www.statnews.com/2026/08/18/massachusetts-hospital-ceo-compensation-2024/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BioMarin 以 2.75 億美元收購治療罕見骨病的實驗藥物",
+      "summary": "Alesta 收購有助於為 BioMarin 的管道補充資產，據稱該資產可以“覆蓋我們最大的可尋址患者群體”，並加入其他正在開發的肌肉和骨骼疾病治療藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-18",
+      "url": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "阿斯特捷利康肺癌評分；山德士簽署中國協議",
+      "summary": "阿斯特捷利康的 Tagrisso 和 Hutchmed 的 Orpathys 的組合延長了一些肺癌患者的生存期。在其他地方，MapLight 提出了合作開發自閉症藥物的想法。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-18",
+      "url": "https://www.biopharmadive.com/news/astrazeneca-sandoz-china-bristol-myers-maplight/828058/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Leo Pharma 以 4.35 億美元收購罕見皮膚病藥物",
+      "summary": "Tanabe Pharma 已請求 美國食藥局（FDA） 批准該藥物用於治療兩種對陽光產生嚴重反應的疾病。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-18",
+      "url": "https://www.biopharmadive.com/news/leo-pharma-buys-late-stage-skin-disease-drug-435m-deal/828150/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：在 $9.1B Blueprint Medicines 收購一年後，賽諾菲將在馬薩諸塞州解僱 229 名員工",
+      "summary": "馬薩諸塞州最大的製藥公司之一賽諾菲 (Sanofi) 在收購 Blueprint Medicines 一年後將在當地裁員 200 多名員工。",
       "source": "STAT News",
       "date": "2026-08-17",
       "url": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 美國國稅局（IRS）正調查聯合健康集團（UnitedHealth），私募股權（PE）交易放緩",
-      "summary": "聯合健康集團（UnitedHealth）因稅務支付問題面臨調查，同時我們將探討為何私募股權（PE）收購醫師集團的交易正在放緩。",
+      "title": "STAT+：美國國稅局正在調查聯合健康和私募股權投資放緩",
+      "summary": "聯合健康集團面臨納稅調查，我們研究了為什麼醫生集團的私募股權交易正在放緩。",
       "source": "STAT News",
       "date": "2026-08-17",
       "url": "https://www.statnews.com/2026/08/17/irs-probe-unitedhealth-group-taxes-private-equity-deals-physician-groups/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 州法可能正在抑制私募股權（PE）收購醫師集團",
-      "summary": "私募股權（PE）收購診所管理公司的交易正急劇下降。",
-      "source": "STAT News",
-      "date": "2026-08-17",
-      "url": "https://www.statnews.com/2026/08/17/private-equity-50-percent-drop-physician-practice-management-deals-2026/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "阿斯特捷利康（AstraZeneca）取消肺癌新雙特異性抗體藥物的第三期臨床試驗",
-      "summary": "期中數據檢查顯示，volrustomig這款新藥很可能無法達到預期的存活率目標，而這款藥是這家英國公司寄予厚望的新藥之一。",
+      "title": "阿斯特捷利康取消新型雙特異性肺癌第三階段試驗",
+      "summary": "一項中期數據檢查顯示，volrustomig 很可能無法實現生存目標，該公司正依靠其實現 800 億美元銷售目標的新藥清單中的一種。",
       "source": "BioPharma Dive",
       "date": "2026-08-17",
       "url": "https://www.biopharmadive.com/news/astrazeneca-discontinues-trial-volrustomig-lung-cancer/827999/",
       "lang": "zh-TW"
     },
     {
-      "title": "Slate與Fulcrum將透過反向併購（reverse merger）合併",
-      "summary": "Fulcrum在六月宣布將尋求策略性替代方案，此前美國監管機構對其鐮狀細胞藥物的可行性表達了擔憂。",
+      "title": "Slate與Fulcrum將透過反向併購合併",
+      "summary": "Fulcrum六月時宣布，在美國監管機構對其鐮刀型細胞貧血症藥物的可行性表達疑慮後，將尋求策略選項。",
       "source": "BioPharma Dive",
       "date": "2026-08-17",
       "url": "https://www.biopharmadive.com/news/slate-fulcrum-reverse-merger-migraine-anti-pacap/828007/",
       "lang": "zh-TW"
     },
     {
-      "title": "Epicrispr完成9,000萬美元C輪募資，推進首個FSHD表觀遺傳療法進入關鍵性臨床試驗",
-      "summary": "Epicrispr完成9,000萬美元C輪募資，將推進首個針對面肩肱型肌營養不良症（FSHD）的表觀遺傳療法進入關鍵性臨床試驗。",
+      "title": "Epicrispr完成9000萬美元C輪募資，推動首個FSHD表觀遺傳療法進入關鍵性臨床試驗",
+      "summary": "Epicrispr募資9000萬美元，將首個面肩肱型肌營養不良症（FSHD）表觀遺傳療法推向關鍵性臨床試驗。",
       "source": "Wowtale",
       "date": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5veFF4aTFLa2lGUV8zS2RQUUJ6Zl9nMkhCa0ttRmkxX0NFVXB6ZnZIR3FwNkhVNDlIVF80cll2RExqWE1IZ21BcGRHY1RSMXF5VzFN?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Capricor股價因執行長言論飆升；Cytokinetics控告必治妥施貴寶（Bristol Myers）",
-      "summary": "Capricor執行長表示，美國食品藥物",
+      "title": "Capricor執行長發言帶動股價飆漲；Cytokinetics提告Bristol Myers",
+      "summary": "Capricor執行長表示，美國食品藥物管理局（FDA）「願意審查」其杜興氏肌肉失養症細胞療法更新後的申請文件。",
       "source": "BioPharma Dive",
       "date": "2026-08-14",
       "url": "https://www.biopharmadive.com/news/capricor-fda-cytokinetics-lawsuit-valneva-indupro-rusfertide-veppanu/827770/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "隨著更多地區競相成為中心，生技措施不斷湧現",
-      "summary": "從賓州到堪薩斯城，新的政府資金正在加強生物技術中心，但專家表示，僅靠資金並不能決定製藥公司下一步在哪裡建造。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-14",
-      "url": "https://www.biopharmadive.com/news/biotech-hub-race-investments-new-york-kansas-city-pennsylvania-central-virginia/827835/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "PTC 在 Sangamo 的法布里病基因療法上抓住了機會",
-      "summary": "華爾街分析師認為，這筆交易是一項高風險、高回報的押注，押注於一種即將獲得監管部門批准且可能優於現有藥物的治療方法。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-13",
-      "url": "https://www.biopharmadive.com/news/ptc-sangamo-fabry-gene-therapy-bankruptcy-sale-lilly/827767/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Longeveron公司第二季財報出爐：淨損擴大22%至610萬美元",
-      "summary": "Longeveron公司公布第二季財報，淨損較去年同期增加22%，達到610萬美元。",
-      "source": "scanx.trade",
-      "date": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnE0d19OTlNyMmlBS3VOeUFSRnA4NUc4Sjh5aUtlOWM2R0ZQN0lHbXkyaHpvV2QxdkkwWU51c2NjOER4YWZzRk5idkJ4djRpRzVGNl9OWjA1NkhIYklkelp3bUdsZEo5VzNqNmR0eUE2UVVCNEZpblg3UVRjczhxVXowM2xvRzhEemNfYUtYMjQ0X19WTmNkajhEaHE3SENEeUQ3SW9Ra3lQT1FX?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "眼科藥物生技公司募資1.18億美元，並補齊高階主管團隊",
-      "summary": "一家眼科藥物生技公司成功募得1.18億美元資金，同時也延攬多位高階主管，強化經營團隊。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",
       "lang": "zh-TW"
     }
   ]
