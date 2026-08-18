@@ -1,50 +1,58 @@
 {
   "module": "funding",
-  "updated": "2026-08-17T23:15:04.885630+00:00",
+  "updated": "2026-08-18T11:18:11.987099+00:00",
   "items": [
     {
-      "title": "STAT+：在 $9.1B Blueprint Medicines 收購一年後，賽諾菲將在馬薩諸塞州解僱 229 名員工",
-      "summary": "馬薩諸塞州最大的製藥公司之一賽諾菲 (Sanofi) 在收購 Blueprint Medicines 一年後將在當地裁員 200 多名員工。",
+      "title": "STAT+: 賽諾菲（Sanofi）將在麻州裁員229人，距91億美元收購Blueprint Medicines僅一年",
+      "summary": "賽諾菲（Sanofi）是麻州最大的製藥雇主之一，在收購Blueprint Medicines一年後，將裁員超過200名員工。",
       "source": "STAT News",
       "date": "2026-08-17",
       "url": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：美國國稅局正在調查聯合健康和私募股權投資放緩",
-      "summary": "聯合健康集團面臨納稅調查，我們研究了為什麼醫生集團的私募股權交易正在放緩。",
+      "title": "STAT+: 美國國稅局（IRS）正調查聯合健康集團（UnitedHealth），私募股權（PE）交易放緩",
+      "summary": "聯合健康集團（UnitedHealth）因稅務支付問題面臨調查，同時我們將探討為何私募股權（PE）收購醫師集團的交易正在放緩。",
       "source": "STAT News",
       "date": "2026-08-17",
       "url": "https://www.statnews.com/2026/08/17/irs-probe-unitedhealth-group-taxes-private-equity-deals-physician-groups/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：州法律可能限制私募股權收購醫生集團",
-      "summary": "實踐管理公司的私募股權交易正在急劇下降。",
+      "title": "STAT+: 州法可能正在抑制私募股權（PE）收購醫師集團",
+      "summary": "私募股權（PE）收購診所管理公司的交易正急劇下降。",
       "source": "STAT News",
       "date": "2026-08-17",
       "url": "https://www.statnews.com/2026/08/17/private-equity-50-percent-drop-physician-practice-management-deals-2026/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "阿斯特捷利康取消新型雙特異性肺癌第三階段試驗",
-      "summary": "一項中期數據檢查顯示，volrustomig 很可能無法實現生存目標，該公司正依靠其實現 800 億美元銷售目標的新藥清單中的一種。",
+      "title": "阿斯特捷利康（AstraZeneca）取消肺癌新雙特異性抗體藥物的第三期臨床試驗",
+      "summary": "期中數據檢查顯示，volrustomig這款新藥很可能無法達到預期的存活率目標，而這款藥是這家英國公司寄予厚望的新藥之一。",
       "source": "BioPharma Dive",
       "date": "2026-08-17",
       "url": "https://www.biopharmadive.com/news/astrazeneca-discontinues-trial-volrustomig-lung-cancer/827999/",
       "lang": "zh-TW"
     },
     {
-      "title": "Slate 和 Fulcrum 將透過反向合併進行合併",
-      "summary": "在美國監管機構對其鐮狀細胞藥物的可行性表示擔憂後，Fulcrum 於 6 月宣布將尋求戰略替代方案。",
+      "title": "Slate與Fulcrum將透過反向併購（reverse merger）合併",
+      "summary": "Fulcrum在六月宣布將尋求策略性替代方案，此前美國監管機構對其鐮狀細胞藥物的可行性表達了擔憂。",
       "source": "BioPharma Dive",
       "date": "2026-08-17",
       "url": "https://www.biopharmadive.com/news/slate-fulcrum-reverse-merger-migraine-anti-pacap/828007/",
       "lang": "zh-TW"
     },
     {
-      "title": "Capricor 股價因執行長言論而飆升；細胞動力學起訴百時美施貴寶",
-      "summary": "美國食藥局（FDA） 執行長表示，美國食藥局（FDA）「願意審查」Capricor 的 Duchenne 細胞療法的最新提交文件。在其他地方，一場心臟藥物之戰蔓延到法庭，Rigel 為第一個「Protac」藥物定價。",
+      "title": "Epicrispr完成9,000萬美元C輪募資，推進首個FSHD表觀遺傳療法進入關鍵性臨床試驗",
+      "summary": "Epicrispr完成9,000萬美元C輪募資，將推進首個針對面肩肱型肌營養不良症（FSHD）的表觀遺傳療法進入關鍵性臨床試驗。",
+      "source": "Wowtale",
+      "date": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5veFF4aTFLa2lGUV8zS2RQUUJ6Zl9nMkhCa0ttRmkxX0NFVXB6ZnZIR3FwNkhVNDlIVF80cll2RExqWE1IZ21BcGRHY1RSMXF5VzFN?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Capricor股價因執行長言論飆升；Cytokinetics控告必治妥施貴寶（Bristol Myers）",
+      "summary": "Capricor執行長表示，美國食品藥物",
       "source": "BioPharma Dive",
       "date": "2026-08-14",
       "url": "https://www.biopharmadive.com/news/capricor-fda-cytokinetics-lawsuit-valneva-indupro-rusfertide-veppanu/827770/",
@@ -67,16 +75,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Longeveron 第二季業績：淨虧損上升 22% 至 610 萬美元",
-      "summary": "% 至 610 萬美元 scanx.trade",
+      "title": "Longeveron公司第二季財報出爐：淨損擴大22%至610萬美元",
+      "summary": "Longeveron公司公布第二季財報，淨損較去年同期增加22%，達到610萬美元。",
       "source": "scanx.trade",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnE0d19OTlNyMmlBS3VOeUFSRnA4NUc4Sjh5aUtlOWM2R0ZQN0lHbXkyaHpvV2QxdkkwWU51c2NjOER4YWZzRk5idkJ4djRpRzVGNl9OWjA1NkhIYklkelp3bUdsZEo5VzNqNmR0eUE2UVVCNEZpblg3UVRjczhxVXowM2xvRzhEemNfYUtYMjQ0X19WTmNkajhEaHE3SENEeUQ3SW9Ra3lQT1FX?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "一家眼藥生技公司存有 1.18 億美元資金並儲備其高階主管套件",
-      "summary": "ks 其高階主管套件 BioPharma Dive",
+      "title": "眼科藥物生技公司募資1.18億美元，並補齊高階主管團隊",
+      "summary": "一家眼科藥物生技公司成功募得1.18億美元資金，同時也延攬多位高階主管，強化經營團隊。",
       "source": "BioPharma Dive",
       "date": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",

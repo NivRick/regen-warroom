@@ -1,7 +1,14 @@
 {
   "module": "apac",
-  "updated": "2026-08-17T23:14:25.912696+00:00",
+  "updated": "2026-08-18T11:17:31.960739+00:00",
   "items": [
+    {
+      "title": "再生醫療雙軌出擊 打造生醫第二座神山",
+      "summary": "",
+      "source": "蕃新聞",
+      "date": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96ODhnZnNCRFBjX3h2dWR3M0c3LWM0dGJQMi1raDdvRWRMeGYyS1FXdTk5SzNoTTRHejJ4VzBlR0NVeUJoUUN4T0tvM3RpTHY1T1E?oc=5"
+    },
     {
       "title": "Linesight 的 Stephanie Ledwidge 談如何降低亞太地區生命科學專案的交付風險",
       "summary": "亞太地區生命科學計畫的交付風險 BioSpectrum Asia",
@@ -35,30 +42,22 @@
     },
     {
       "title": "Gaudi Clinical 擴大經由東海道 Mach Bin 至名古屋、大阪的細胞運輸",
-      "summary": "名古屋、大阪，經東海道 Mach Bin jp.ibtimes.com",
-      "source": "jp.ibtimes.com",
+      "summary": "名古屋、大阪經東海道 Mach Bin International Business Times",
+      "source": "International Business Times",
       "date": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTFUd0h6TTluTklvZ1FlUDZ2RmliQ05jSHpLeHRiN1ZCSTJtZjRHeUJUOURwUGtURVd0ellNS1M1cFZleWJUb2wzSk0yZEZCa190VjgyTFQ3RUlZWW5OQU5pM2V5a0RhS0o2cWZIOXB5Xy1vSnhMMGpTd0xURGc3dzFrdU95Qk0yMUEtVXJSU3o1S2hZRG1SRUdaejl4WnJPM0dn?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "總部位於里昂的 Brenus 在 A 輪延期中獲得 1260 萬美元，吸引了第一位亞太投資者",
-      "summary": "延期，吸引了第一位亞太投資者 BioXconomy",
-      "source": "BioXconomy",
-      "date": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUXhuOEF3YnZYWXRhNEdyYVBKc2VvT05HaEZ5cS1NSUdvNjdSVi11clZJU0xRRGJYYXlpVjZleTZHV29mYXpscGpIM0JBSG16c180aW5FZTZOckJrUEQwT1daQU9WbW5qWDE2Y2JVY2ctRjVLN050VXB2T2djMmU0b0E1WHpnWG5wWW5kMXdEWnQxemhjdm9kc2Q0Z2tSUXhXZmltczlvUkNZUlhEQnhoemh5aGdhTTNv?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "再生醫學市場規模預計2035年將達到2348.5億美元",
-      "summary": "預計2035年再生醫學市場規模將達2348.5億美元 (來源：precedenceresearch.com)",
-      "source": "precedenceresearch.com",
+      "title": "再生醫學市場規模預計在2035年達到2348.5億美元",
+      "summary": "Precedence Research預估，再生醫學市場規模在2035年將達到2348.5億美元。",
+      "source": "Precedence Research",
       "date": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tN2JFWlpOTTJCUWdoSG9ZZlpTblpEelkzVi1GNlhNWVZRem1IRUdfNldOaVdLMDBpWVVXaXB5Z1UtWlEwWmptT0JaM05BVGNDOENOTlcteGFDY215YTdQTUE0WDFjNktjS1BhZlBVaXg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "醫學全像",
+      "title": "醫療全像技術市場規模、市",
       "summary": "",
       "source": "Fortune Business Insights",
       "date": "2026-07-20",
