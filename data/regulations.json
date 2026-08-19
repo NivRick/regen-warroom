@@ -1,13 +1,13 @@
 {
   "module": "regulation",
-  "updated": "2026-08-18T23:14:01.140989+00:00",
+  "updated": "2026-08-19T11:17:45.921060+00:00",
   "items": [
     {
-      "title": "美國食藥局（FDA） 圓桌會議：加強血液製造的供應鏈",
-      "summary": "2026 年 9 月 29 日，美國食品藥物管理局生物製品評估與研究中心血液研究與審查辦公室將舉辦圓桌會議，討論加強全血採集和製造的供應鏈",
-      "source": "09/29/2026",
+      "title": "生物製劑的兒童研究公平法案（PREA）審查與標示變更",
+      "summary": "針對聯邦食品、藥品和化妝品法案第505B條規範下的兒科研究，進行兒童研究公平法案（PREA）的標示變更，以及醫學、統計與",
+      "source": "FDA Biologics",
       "date": "2026-08-18",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
+      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
       "lang": "zh-TW"
     },
     {
@@ -16,6 +16,14 @@
       "source": "FDA Biologics",
       "date": "2026-08-18",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 圓桌會議：加強血液製造的供應鏈",
+      "summary": "2026 年 9 月 29 日，美國食品藥物管理局生物製品評估與研究中心血液研究與審查辦公室將舉辦圓桌會議，討論加強全血採集和製造的供應鏈",
+      "source": "09/29/2026",
+      "date": "2026-08-18",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
       "lang": "zh-TW"
     },
     {
@@ -43,16 +51,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報",
-      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
+      "title": "展望2026年多發性骨髓瘤的嵌合抗原受體T細胞療法（CAR-T）：核准適應症、長期療效、毒性、治療順序與新興平台綜述",
+      "summary": "本文綜述2026年多發性骨髓瘤CAR-T療法，探討其核准適應症、長期療效、毒性、治療順序與新興平台。",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "將法規策略整合於細胞與基因療法開發",
-      "summary": "本場網路研討會將探討如何將法規策略融入細胞與基因療法的開發流程中。",
+      "title": "將法規策略融入細胞與基因療法開發",
+      "summary": "本文探討在細胞與基因療法開發過程中，如何有效整合法規策略，以加速產品上市並確保合規性。",
       "source": "GEN News",
       "date": "2026-08-18",
       "url": "https://www.genengnews.com/multimedia/webinars/embedding-regulatory-strategy-in-cell-and-gene-therapy-development/",

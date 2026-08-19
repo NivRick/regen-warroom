@@ -1,18 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-08-18T23:14:26.273469+00:00",
+  "updated": "2026-08-19T11:18:08.119295+00:00",
   "items": [
     {
-      "title": "STAT+：非營利醫療系統今年從醫療計費公司的股份中獲利 11 億美元",
-      "summary": "私募股權公司對 Ensemble 等收入週期管理公司表現出了濃厚的興趣。",
+      "title": "非營利醫療體系靠投資醫療帳務管理公司，今年賺進11億美元",
+      "summary": "私募股權基金對Ensemble這類營收週期管理公司展現濃厚興趣。",
       "source": "STAT News",
       "date": "2026-08-18",
       "url": "https://www.statnews.com/2026/08/18/bon-secours-mercy-revenue-cycle-firm-ensemble-2026-payouts/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：麻省總醫院領導、達納法伯癌症研究所等醫院高層在 2024 年獲得大幅加薪",
-      "summary": "主要衛生系統的高層管理人員獲得了大幅加薪，儘管他們的醫院面臨許多挑戰。",
+      "title": "麻省總醫院、丹娜法伯癌症中心等醫院高層，20",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-08-18",
       "url": "https://www.statnews.com/2026/08/18/massachusetts-hospital-ceo-compensation-2024/?utm_campaign=rss",
@@ -43,22 +43,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：在 $9.1B Blueprint Medicines 收購一年後，賽諾菲將在馬薩諸塞州解僱 229 名員工",
-      "summary": "馬薩諸塞州最大的製藥公司之一賽諾菲 (Sanofi) 在收購 Blueprint Medicines 一年後將在當地裁員 200 多名員工。",
-      "source": "STAT News",
-      "date": "2026-08-17",
-      "url": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：美國國稅局正在調查聯合健康和私募股權投資放緩",
-      "summary": "聯合健康集團面臨納稅調查，我們研究了為什麼醫生集團的私募股權交易正在放緩。",
-      "source": "STAT News",
-      "date": "2026-08-17",
-      "url": "https://www.statnews.com/2026/08/17/irs-probe-unitedhealth-group-taxes-private-equity-deals-physician-groups/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "阿斯特捷利康取消新型雙特異性肺癌第三階段試驗",
       "summary": "一項中期數據檢查顯示，volrustomig 很可能無法實現生存目標，該公司正依靠其實現 800 億美元銷售目標的新藥清單中的一種。",
       "source": "BioPharma Dive",
@@ -67,24 +51,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Slate與Fulcrum將透過反向併購合併",
-      "summary": "Fulcrum六月時宣布，在美國監管機構對其鐮刀型細胞貧血症藥物的可行性表達疑慮後，將尋求策略選項。",
+      "title": "Slate 和 Fulcrum 將透過反向合併進行合併",
+      "summary": "在美國監管機構對其鐮狀細胞藥物的可行性表示擔憂後，Fulcrum 於 6 月宣布將尋求戰略替代方案。",
       "source": "BioPharma Dive",
       "date": "2026-08-17",
       "url": "https://www.biopharmadive.com/news/slate-fulcrum-reverse-merger-migraine-anti-pacap/828007/",
       "lang": "zh-TW"
     },
     {
-      "title": "Epicrispr完成9000萬美元C輪募資，推動首個FSHD表觀遺傳療法進入關鍵性臨床試驗",
-      "summary": "Epicrispr募資9000萬美元，將首個面肩肱型肌營養不良症（FSHD）表觀遺傳療法推向關鍵性臨床試驗。",
+      "title": "Epicrispr完成9千萬美元C輪募資，將推動首款臉肩肱型肌營養不良症（FSHD）表觀遺傳療法進入關鍵性臨床試驗",
+      "summary": "Epicrispr公司成功完成C輪9千萬美元募資，這筆資金將用於加速其全球首創的臉肩肱型肌營養不良症（FSHD）表觀遺傳療法，準備進入關鍵性臨床試驗階段。",
       "source": "Wowtale",
       "date": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5veFF4aTFLa2lGUV8zS2RQUUJ6Zl9nMkhCa0ttRmkxX0NFVXB6ZnZIR3FwNkhVNDlIVF80cll2RExqWE1IZ21BcGRHY1RSMXF5VzFN?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Capricor執行長發言帶動股價飆漲；Cytokinetics提告Bristol Myers",
-      "summary": "Capricor執行長表示，美國食品藥物管理局（FDA）「願意審查」其杜興氏肌肉失養症細胞療法更新後的申請文件。",
+      "title": "Capricor 股價因執行長言論而飆升；細胞動力學起訴百時美施貴寶",
+      "summary": "美國食藥局（FDA） 執行長表示，美國食藥局（FDA）「願意審查」Capricor 的 Duchenne 細胞療法的最新提交文件。在其他地方，一場心臟藥物之戰蔓延到法庭，Rigel 為第一個「Protac」藥物定價。",
       "source": "BioPharma Dive",
       "date": "2026-08-14",
       "url": "https://www.biopharmadive.com/news/capricor-fda-cytokinetics-lawsuit-valneva-indupro-rusfertide-veppanu/827770/",
