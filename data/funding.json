@@ -1,26 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-08-19T11:18:08.119295+00:00",
+  "updated": "2026-08-19T23:16:27.425739+00:00",
   "items": [
     {
-      "title": "非營利醫療體系靠投資醫療帳務管理公司，今年賺進11億美元",
-      "summary": "私募股權基金對Ensemble這類營收週期管理公司展現濃厚興趣。",
+      "title": "STAT+：非營利醫療體系靠投資醫療帳務管理公司，今年賺進11億美元",
+      "summary": "私募股權基金對像Ensemble這類營收循環管理公司展現濃厚興趣。",
       "source": "STAT News",
       "date": "2026-08-18",
       "url": "https://www.statnews.com/2026/08/18/bon-secours-mercy-revenue-cycle-firm-ensemble-2026-payouts/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "麻省總醫院、丹娜法伯癌症中心等醫院高層，20",
-      "summary": "",
-      "source": "STAT News",
-      "date": "2026-08-18",
-      "url": "https://www.statnews.com/2026/08/18/massachusetts-hospital-ceo-compensation-2024/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BioMarin 以 2.75 億美元收購治療罕見骨病的實驗藥物",
-      "summary": "Alesta 收購有助於為 BioMarin 的管道補充資產，據稱該資產可以“覆蓋我們最大的可尋址患者群體”，並加入其他正在開發的肌肉和骨骼疾病治療藥物。",
+      "title": "BioMarin以2.75億美元收購罕見骨骼疾病實驗性藥物",
+      "summary": "這次收購Alesta有助於補充Bio",
       "source": "BioPharma Dive",
       "date": "2026-08-18",
       "url": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
@@ -56,22 +48,6 @@
       "source": "BioPharma Dive",
       "date": "2026-08-17",
       "url": "https://www.biopharmadive.com/news/slate-fulcrum-reverse-merger-migraine-anti-pacap/828007/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Epicrispr完成9千萬美元C輪募資，將推動首款臉肩肱型肌營養不良症（FSHD）表觀遺傳療法進入關鍵性臨床試驗",
-      "summary": "Epicrispr公司成功完成C輪9千萬美元募資，這筆資金將用於加速其全球首創的臉肩肱型肌營養不良症（FSHD）表觀遺傳療法，準備進入關鍵性臨床試驗階段。",
-      "source": "Wowtale",
-      "date": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5veFF4aTFLa2lGUV8zS2RQUUJ6Zl9nMkhCa0ttRmkxX0NFVXB6ZnZIR3FwNkhVNDlIVF80cll2RExqWE1IZ21BcGRHY1RSMXF5VzFN?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Capricor 股價因執行長言論而飆升；細胞動力學起訴百時美施貴寶",
-      "summary": "美國食藥局（FDA） 執行長表示，美國食藥局（FDA）「願意審查」Capricor 的 Duchenne 細胞療法的最新提交文件。在其他地方，一場心臟藥物之戰蔓延到法庭，Rigel 為第一個「Protac」藥物定價。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-14",
-      "url": "https://www.biopharmadive.com/news/capricor-fda-cytokinetics-lawsuit-valneva-indupro-rusfertide-veppanu/827770/",
       "lang": "zh-TW"
     }
   ]

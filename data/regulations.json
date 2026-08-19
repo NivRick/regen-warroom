@@ -1,21 +1,61 @@
 {
   "module": "regulation",
-  "updated": "2026-08-19T11:17:45.921060+00:00",
+  "updated": "2026-08-19T23:16:10.087570+00:00",
   "items": [
     {
-      "title": "生物製劑的兒童研究公平法案（PREA）審查與標示變更",
-      "summary": "針對聯邦食品、藥品和化妝品法案第505B條規範下的兒科研究，進行兒童研究公平法案（PREA）的標示變更，以及醫學、統計與",
+      "title": "美國食藥局（FDA） 核准針對 8 歲及以上 Ia 型肝醣累積病患者的首個治療",
+      "summary": "美國食品藥物管理局 (美國食藥局（FDA）) 今天加快批准 Genglas (pariglasgene brecaparvovec-opnr) 作為首個用於治療患有 Ia 型糖原貯積症 (GSDIa) 的成人和 8 歲及以上兒童的藥物",
       "source": "FDA Biologics",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-therapy-patients-aged-8-years-and-older-glycogen-storage-disease-type-ia",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品 PREA 審查和標籤變更",
+      "summary": "PREA 標籤變更、兒科研究的醫學、統計和臨床藥理學審查根據《聯邦食品、藥品和化妝品法案》（簡稱《法案》）第 505B 條（經 2007 年 美國食藥局（FDA） 修正案法案 (FDAAAA) 修訂）進行。這些評估",
+      "source": "FDA Biologics",
+      "date": "2026-08-19",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品電子閱覽室（eFOIA）",
+      "summary": "生物製劑 eFOI 閱覽室提供對 美國食藥局（FDA）.gov 網站上「疫苗、血液和生物製劑」以及與生物製劑評估和研究中心相關的其他部分發布的文件的存取。",
+      "source": "FDA Biologics",
+      "date": "2026-08-19",
+      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
       "lang": "zh-TW"
     },
     {
       "title": "生物製品的新動態",
       "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "細胞和基因治療指南",
+      "summary": "此頁麵包含細胞和基因治療指南的清單。",
+      "source": "FDA Biologics",
+      "date": "2026-08-19",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "常見問題－開發潛在的細胞和基因治療產品",
+      "summary": "這是潛在細胞和基因治療產品指南",
+      "source": "FDA Biologics",
+      "date": "2026-08-19",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/frequently-asked-questions-developing-potential-cellular-and-gene-therapy-products",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "基因開關利用電磁場遠端操控基因",
+      "summary": "一項新技術「基因開關」能透過電磁場遠端控制基因的開啟與關閉，為基因療法帶來創新應用潛力。",
+      "source": "GEN News",
+      "date": "2026-08-19",
+      "url": "https://www.genengnews.com/topics/omics/gene-switch-uses-electromagnetic-fields-to-control-genes-remotely/",
       "lang": "zh-TW"
     },
     {
@@ -35,48 +75,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "OTP 市政廳：基因治療化學、製造和控制 - 2023 年 4 月",
-      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2023 年 4 月 25 日星期二舉辦下一次虛擬市政廳會議。",
-      "source": "04/25/2023",
-      "date": "2026-08-18",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-gene-therapy-chemistry-manufacturing-and-controls-april-2023-04252023",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "OTP 市政廳：細胞治療化學、製造和控制 – 2023 年 6 月",
-      "summary": "該活動將重點關注細胞治療化學、製造和控制 (CMC)，包括受 OTP 監管的組織工程醫療產品，並將是 2022 年 12 月虛擬市政廳的延續。",
-      "source": "06/08/2023",
-      "date": "2026-08-18",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-chemistry-manufacturing-and-controls-june-2023-06082023",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "展望2026年多發性骨髓瘤的嵌合抗原受體T細胞療法（CAR-T）：核准適應症、長期療效、毒性、治療順序與新興平台綜述",
-      "summary": "本文綜述2026年多發性骨髓瘤CAR-T療法，探討其核准適應症、長期療效、毒性、治療順序與新興平台。",
-      "source": "Via Medica Journals",
-      "date": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "將法規策略融入細胞與基因療法開發",
-      "summary": "本文探討在細胞與基因療法開發過程中，如何有效整合法規策略，以加速產品上市並確保合規性。",
+      "summary": "本次研討會將探討如何將法規策略有效整合到細胞與基因療法（Cell and Gene Therapy）的開發流程中，以加速產品上市。",
       "source": "GEN News",
       "date": "2026-08-18",
       "url": "https://www.genengnews.com/multimedia/webinars/embedding-regulatory-strategy-in-cell-and-gene-therapy-development/",
       "lang": "zh-TW"
     },
     {
-      "title": "出口受 CBER 監管的產品",
-      "summary": "CBER 合規和生物製品品質辦公室 (OCBQ) 內的案例管理部門 (DCM) 指導和協調 CBER 的出口計劃，包括審查未經批准的 CBER 監管產品的出口請求。",
-      "source": "FDA Biologics",
-      "date": "2026-08-17",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/exporting-cber-regulated-products",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BioCardia 報告 2026 年第二季業務亮點和財務業績",
-      "summary": "業務亮點和財務業績 GlobeNewswire",
+      "title": "BioCardia 公布 2026 年第二季營運成果與財報",
+      "summary": "BioCardia 公司公布了其 2026 年第二季的營運重點與財務表現，提供投資人最新資訊。",
       "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
