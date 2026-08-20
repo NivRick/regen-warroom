@@ -1,37 +1,45 @@
 {
   "module": "funding",
-  "updated": "2026-08-19T23:16:27.425739+00:00",
+  "updated": "2026-08-20T11:21:55.949093+00:00",
   "items": [
     {
-      "title": "STAT+：非營利醫療體系靠投資醫療帳務管理公司，今年賺進11億美元",
-      "summary": "私募股權基金對像Ensemble這類營收循環管理公司展現濃厚興趣。",
+      "title": "STAT+: Capricor Therapeutics 的杜氏肌肉失養症療法恐遭美國食品藥物管理局（FDA）駁回",
+      "summary": "Capricor Therapeutics 正努力避免其用於杜氏肌肉失養症的細胞療法被美國食品藥物管理局（FDA）駁回。",
       "source": "STAT News",
-      "date": "2026-08-18",
-      "url": "https://www.statnews.com/2026/08/18/bon-secours-mercy-revenue-cycle-firm-ensemble-2026-payouts/?utm_campaign=rss",
+      "date": "2026-08-20",
+      "url": "https://www.statnews.com/2026/08/20/capricor-therapeutics-duchenne-treatment-fda/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "BioMarin以2.75億美元收購罕見骨骼疾病實驗性藥物",
-      "summary": "這次收購Alesta有助於補充Bio",
+      "title": "BioMarin 以 2.75 億美元收購罕見骨骼疾病實驗性藥物",
+      "summary": "BioMarin 斥資 2.75 億美元，收購一款治療罕見骨骼疾病的實驗性藥物，以擴充其藥物開發產品線。",
       "source": "BioPharma Dive",
       "date": "2026-08-18",
       "url": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
       "lang": "zh-TW"
     },
     {
-      "title": "阿斯特捷利康肺癌評分；山德士簽署中國協議",
-      "summary": "阿斯特捷利康的 Tagrisso 和 Hutchmed 的 Orpathys 的組合延長了一些肺癌患者的生存期。在其他地方，MapLight 提出了合作開發自閉症藥物的想法。",
+      "title": "阿斯特捷利康（AstraZeneca）肺癌藥物傳捷報；山德士（Sandoz）簽署中國市場協議",
+      "summary": "阿斯特捷利康的肺癌藥物組合療法展現成效，延長部分患者存活期；同時，山德士也與中國市場達成合作協議。",
       "source": "BioPharma Dive",
       "date": "2026-08-18",
       "url": "https://www.biopharmadive.com/news/astrazeneca-sandoz-china-bristol-myers-maplight/828058/",
       "lang": "zh-TW"
     },
     {
-      "title": "Leo Pharma 以 4.35 億美元收購罕見皮膚病藥物",
-      "summary": "Tanabe Pharma 已請求 美國食藥局（FDA） 批准該藥物用於治療兩種對陽光產生嚴重反應的疾病。",
+      "title": "禮奧製藥（Leo Pharma）以 4.35 億美元收購罕見皮膚病藥物",
+      "summary": "田",
       "source": "BioPharma Dive",
       "date": "2026-08-18",
       "url": "https://www.biopharmadive.com/news/leo-pharma-buys-late-stage-skin-disease-drug-435m-deal/828150/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Fierce Biotech 籌款追蹤 '26：Abcuro 籌集 6,600 萬美元； InduPro 籌集了 7,700 萬美元",
+      "summary": "Abcuro 獲得 6,600 萬美元融資； InduPro 斥資 7,700 萬美元組成 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     },
     {

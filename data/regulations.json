@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-08-19T23:16:10.087570+00:00",
+  "updated": "2026-08-20T11:21:36.909722+00:00",
   "items": [
     {
-      "title": "美國食藥局（FDA） 核准針對 8 歲及以上 Ia 型肝醣累積病患者的首個治療",
-      "summary": "美國食品藥物管理局 (美國食藥局（FDA）) 今天加快批准 Genglas (pariglasgene brecaparvovec-opnr) 作為首個用於治療患有 Ia 型糖原貯積症 (GSDIa) 的成人和 8 歲及以上兒童的藥物",
+      "title": "美國FDA核准首款針對8歲以上第一型肝醣儲積症患者的療法",
+      "summary": "美國FDA加速核准Genglycos，這是首款針對8歲以上第一型肝醣儲積症患者的療法。",
       "source": "FDA Biologics",
       "date": "2026-08-19",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-therapy-patients-aged-8-years-and-older-glycogen-storage-disease-type-ia",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品 PREA 審查和標籤變更",
-      "summary": "PREA 標籤變更、兒科研究的醫學、統計和臨床藥理學審查根據《聯邦食品、藥品和化妝品法案》（簡稱《法案》）第 505B 條（經 2007 年 美國食藥局（FDA） 修正案法案 (FDAAAA) 修訂）進行。這些評估",
+      "title": "生物製劑的PREA審查與標示變",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-08-19",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
@@ -51,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "基因開關利用電磁場遠端操控基因",
-      "summary": "一項新技術「基因開關」能透過電磁場遠端控制基因的開啟與關閉，為基因療法帶來創新應用潛力。",
+      "title": "基因開關利用電磁場遠端控制基因",
+      "summary": "DNA調控元件控制特定基因的開啟或關閉時間、地點和程度，科學家可以利用它們來創建基因開關。遠端控制基因的貼文首先出現在 GEN - 基因工程和 Biot 上",
       "source": "GEN News",
       "date": "2026-08-19",
       "url": "https://www.genengnews.com/topics/omics/gene-switch-uses-electromagnetic-fields-to-control-genes-remotely/",
@@ -75,19 +75,27 @@
       "lang": "zh-TW"
     },
     {
-      "title": "將法規策略融入細胞與基因療法開發",
-      "summary": "本次研討會將探討如何將法規策略有效整合到細胞與基因療法（Cell and Gene Therapy）的開發流程中，以加速產品上市。",
+      "title": "將監管策略納入細胞和基因療法開發",
+      "summary": "在本次 GEN 網路研討會中，Rose BioSolutions（由 Charles River Laboratories 業務組成的 CDMO 和細胞解決方案組織）的專家將討論如何在開發的最早階段整合監管策略，從而減少整體風險。",
       "source": "GEN News",
       "date": "2026-08-18",
       "url": "https://www.genengnews.com/multimedia/webinars/embedding-regulatory-strategy-in-cell-and-gene-therapy-development/",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 公布 2026 年第二季營運成果與財報",
-      "summary": "BioCardia 公司公布了其 2026 年第二季的營運重點與財務表現，提供投資人最新資訊。",
+      "title": "BioCardia公布2026年第二季營運亮點與財務表現",
+      "summary": "生技公司BioCardia揭露2026年第二季的營運重點與財報數字，提供投資人最新營運狀況。",
       "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BioCardia (BCDA) 202",
+      "summary": "",
+      "source": "The Globe and Mail",
+      "date": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
       "lang": "zh-TW"
     },
     {
