@@ -1,18 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-08-20T23:17:45.504211+00:00",
+  "updated": "2026-08-21T11:20:41.813831+00:00",
   "items": [
     {
-      "title": "美國食藥署（FDA）核准Ultragenyx的基因療法",
-      "summary": "Regeneron的極罕見疾病藥物獲核准，mRNA研究再獲肯定，以及更多生技新聞。",
+      "title": "觀點：Lil Nas X的躁鬱症診斷與治療的矛盾",
+      "summary": "我們持續美化精神疾病的症狀，尤其在談論成就時。",
+      "source": "STAT News",
+      "date": "2026-08-21",
+      "url": "https://www.statnews.com/2026/08/21/lil-nas-xs-bipolar-diagnosis-treatment-medication-achievement/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：美國食品藥物管理局（FDA）核准Ultragenyx的基因療法",
+      "summary": "Regeneron的超",
       "source": "STAT News",
       "date": "2026-08-20",
       "url": "https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Pharmalittle：我們正在關注Regeneron的罕見疾病藥物、Ultragenyx",
-      "summary": "",
+      "title": "STAT+: Pharmalittle: We’re reading about a Regeneron rare disease drug, an Ultragenyx 基因療法, and more",
+      "summary": "一種再生元藥物用於治療一種極其罕見的疾病，這種疾病會導致骨骼在不應該生長的地方生長，並獲得了美國監管機構的批准，為三年的努力畫下句號",
       "source": "STAT News",
       "date": "2026-08-20",
       "url": "https://www.statnews.com/pharmalot/2026/08/20/regeneron-rare-disease-drug-utragenyx-gene-therapy/?utm_campaign=rss",
@@ -44,7 +52,7 @@
     },
     {
       "title": "BioMarin 以 2.75 億美元收購治療罕見骨病的實驗藥物",
-      "summary": "Alesta 收購有助於為 BioMarin 的管道補充資產，據稱該資產可以“覆蓋我們最大的可尋址患者群體”，並加入其他正在開發的肌肉和骨骼疾病治療藥物。",
+      "summary": "The Alesta buyout helps restock BioMarin's pipeline with an asset it says could &ldquo;reach our largest addressable patient population,&rdquo; joining other muscle and skeletal disease treatments in development.",
       "source": "BioPharma Dive",
       "date": "2026-08-18",
       "url": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
@@ -59,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Leo Pharma 以 4.35 億美元收購罕見皮膚病藥物",
-      "summary": "Tanabe Pharma 已請求 美國食藥局（FDA） 批准該藥物用於治療兩種對陽光產生嚴重反應的疾病。",
+      "title": "Leo Pharma 以4.35億美元收購罕見皮膚病藥物",
+      "summary": "Tanabe Pharma 已向美國食品藥物管理局（FDA）申請核准該藥物，用於治療兩種會導致嚴重陽光過敏反應的疾病。",
       "source": "BioPharma Dive",
       "date": "2026-08-18",
       "url": "https://www.biopharmadive.com/news/leo-pharma-buys-late-stage-skin-disease-drug-435m-deal/828150/",
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech 籌款追蹤 '26：Abcuro 籌集 6,600 萬美元； InduPro 籌集了 7,700 萬美元",
-      "summary": "Abcuro 獲得 6,600 萬美元融資； InduPro 斥資 7,700 萬美元組成 Fierce Biotech",
+      "title": "Fierce Biotech 募資追蹤 '26：Abcuro 募得6,600萬美元；InduPro 籌集7,700萬美元",
+      "summary": "Abcuro 成功募得6,600萬美元，InduPro 也籌集到7,700萬美元，顯示生技產業募資動能強勁。",
       "source": "Fierce Biotech",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
