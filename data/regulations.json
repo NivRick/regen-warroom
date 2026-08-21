@@ -1,34 +1,42 @@
 {
   "module": "regulation",
-  "updated": "2026-08-21T11:20:07.892298+00:00",
+  "updated": "2026-08-21T23:17:57.157618+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "已核准的細胞與基因治療產品",
-      "summary": "治療產品辦公室（OTP）公布已獲許可及核准的產品清單。",
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
+      "source": "FDA Biologics",
+      "date": "2026-08-21",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "核准的細胞和基因治療產品",
+      "summary": "治療產品辦公室 (OTP) 許可和批准的產品清單。",
       "source": "FDA Biologics",
       "date": "2026-08-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞與基因治療產品開發常見問答",
-      "summary": "針對潛在細胞與基因治療產品開發的指引文件。",
+      "title": "常見問題－開發潛在的細胞和基因治療產品",
+      "summary": "這是潛在細胞和基因治療產品指南",
       "source": "FDA Biologics",
       "date": "2026-08-20",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/frequently-asked-questions-developing-potential-cellular-and-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA核准首款針對8歲以上第一型肝醣儲積症患者的療法",
-      "summary": "美國",
+      "title": "美國食藥局（FDA） 核准針對 8 歲及以上 Ia 型肝醣累積病患者的首個治療",
+      "summary": "美國食品藥物管理局 (美國食藥局（FDA）) 今天加快批准 Genglas (pariglasgene brecaparvovec-opnr) 作為首個用於治療患有 Ia 型糖原貯積症 (GSDIa) 的成人和 8 歲及以上兒童的藥物",
       "source": "FDA Biologics",
       "date": "2026-08-19",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-therapy-patients-aged-8-years-and-older-glycogen-storage-disease-type-ia",
@@ -57,37 +65,6 @@
       "date": "2026-08-19",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
       "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 圓桌會議：加強血液製造的供應鏈",
-      "summary": "2026 年 9 月 29 日，美國食品藥物管理局生物製品評估與研究中心血液研究與審查辦公室將舉辦圓桌會議，討論加強全血採集和製造的供應鏈",
-      "source": "09/29/2026",
-      "date": "2026-08-18",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BioCardia 公布2026年第二季營運重點與財務表現",
-      "summary": "生技公司BioCardia發布2026年第二季財報，重點說明公司營運成果與財務狀況。",
-      "source": "GlobeNewswire",
-      "date": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BioCardia（BCDA）公司2026年第二季法說會逐字稿",
-      "summary": "BioCardia（BCDA）公布2026年第二季法說會逐字稿，供投資人深入了解公司營運與財務細節。",
-      "source": "The Globe and Mail",
-      "date": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "齊碁生醫獲美國FDA IND 核准以臺美雙報確立衰弱症細胞治療的國際法規位階| 唐可欣 | 品味生活",
-      "summary": "",
-      "source": "風傳媒",
-      "date": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53VlZDTWxzTnczTWhDM2pfNE9VUWlteF9GaXNLUi0tZTZZbmFyVXJiX0FEcVZOczNpUkVzRHVjbmZSRWtpX3lkLXpmQ2UwZw?oc=5"
     }
   ]
 }
