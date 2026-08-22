@@ -1,6 +1,6 @@
 {
   "module": "funding",
-  "updated": "2026-08-21T23:18:39.900199+00:00",
+  "updated": "2026-08-22T11:18:04.055630+00:00",
   "items": [
     {
       "title": "STAT+：Pharmalittle：我們正在閱讀有關羅氏在美國的巨額投資、雌激素貼片短缺等信息",
@@ -67,27 +67,35 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioMarin 以 2.75 億美元收購治療罕見骨病的實驗藥物",
-      "summary": "Alesta 收購有助於為 BioMarin 的管道補充資產，據稱該資產可以“覆蓋我們最大的可尋址患者群體”，並加入其他正在開發的肌肉和骨骼疾病治療藥物。",
+      "title": "BioMarin 以 2.75 億美元收購實驗性罕見骨病藥物",
+      "summary": "Alesta 的收購案有助於 BioMarin 補充其產品線，該公司表示這項資產有望「觸及我們最大的潛在病患族群」。",
       "source": "BioPharma Dive",
       "date": "2026-08-18",
       "url": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
       "lang": "zh-TW"
     },
     {
-      "title": "阿斯特捷利康肺癌評分；山德士簽署中國協議",
-      "summary": "阿斯特捷利康的 Tagrisso 和 Hutchmed 的 Orpathys 的組合延長了一些肺癌患者的生存期。在其他地方，MapLight 提出了合作開發自閉症藥物的想法。",
+      "title": "阿斯特捷利康（AstraZeneca）在肺癌領域傳捷報；山德士（Sandoz）簽署中國市場協議",
+      "summary": "阿斯特捷利康（AstraZeneca）的 Tagrisso 結合和記黃埔醫藥（Hutchmed）的 Orpathys，延長了部分肺癌病患的存活期。",
       "source": "BioPharma Dive",
       "date": "2026-08-18",
       "url": "https://www.biopharmadive.com/news/astrazeneca-sandoz-china-bristol-myers-maplight/828058/",
       "lang": "zh-TW"
     },
     {
-      "title": "Leo Pharma 以 4.35 億美元收購罕見皮膚病藥物",
-      "summary": "Tanabe Pharma 已請求 美國食藥局（FDA） 批准該藥物用於治療兩種對陽光產生嚴重反應的疾病。",
+      "title": "禮奧製藥（Leo Pharma）以 4.35 億美元收購罕見皮膚病藥物",
+      "summary": "田邊三菱製藥（Tanabe Pharma）已向美國食品藥物管理局（FDA）申請核准該藥物，用於治療兩種會導致對陽光產生嚴重反應的病症。",
       "source": "BioPharma Dive",
       "date": "2026-08-18",
       "url": "https://www.biopharmadive.com/news/leo-pharma-buys-late-stage-skin-disease-drug-435m-deal/828150/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Fierce Biotech 募資追蹤報告 '26：Abcuro",
+      "summary": "",
+      "source": "Fierce Biotech",
+      "date": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     }
   ]
