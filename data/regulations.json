@@ -1,98 +1,98 @@
 {
   "module": "regulation",
-  "updated": "2026-08-23T11:15:03.756853+00:00",
+  "updated": "2026-08-23T23:12:02.891697+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "生物製劑評估與研究中心（CBER）發布的最新消息，涵蓋生物製劑領域的發展與重要更新，是業界人士不可錯過的重點資訊。",
+      "title": "What’s New for Biologics",
+      "summary": "Latest news from the Center for Biologics Evaluation and Research",
       "source": "FDA Biologics",
       "date": "2026-08-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關程序（SOPPs）",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）內部人員執行業務時所依循的標準作業程序與政策（SOPPs），確保法規遵循與作業效率。",
+      "title": "Biologics Procedures (SOPPs)",
+      "summary": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in 美國食藥局（FDA）'s Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as t",
       "source": "FDA Biologics",
       "date": "2026-08-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "已核准的細胞與基因治療產品",
-      "summary": "治療產品辦公室（OTP）公布的已獲許可與核准的細胞治療和基因療法產品清單，提供業界追蹤市場動態的重要參考。",
+      "title": "Approved Cellular and 基因療法 Products",
+      "summary": "Listing of licensed and approved products from the Office of Therapeutic Products (OTP).",
       "source": "FDA Biologics",
       "date": "2026-08-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞與基因治療產品開發常見問答",
-      "summary": "針對潛在細胞治療與基因療法產品開發的常見問題與指引，協助業者釐清法規要求與開發流程，加速產品上市。",
+      "title": "Frequently Asked Questions — Developing Potential Cellular and 基因療法 Products",
+      "summary": "This is the guidance Potential Cellular and 基因療法 Products",
       "source": "FDA Biologics",
       "date": "2026-08-20",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/frequently-asked-questions-developing-potential-cellular-and-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA加速核准首款治療8歲以上Ia型肝醣儲積症的基因療法",
-      "summary": "美國食品藥物管理局（FDA）今日宣布，加速核准Genglycos（pariglasgene brecaparvovec-opnr）作為首款治療8歲以上Ia型肝醣儲積症患者的療法，為病患帶來新希望。",
+      "title": "美國食藥局（FDA） Approves First Therapy for Patients aged 8 years and older with Glycogen Storage Disease Type Ia",
+      "summary": "The U.S. Food and Drug Administration today issued an accelerated approval for Genglycos (pariglasgene brecaparvovec-opnr) as the first-ever treatment for adults and children 8 years of age and older with glycogen storage disease type Ia (GSDIa)",
       "source": "FDA Biologics",
       "date": "2026-08-19",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-therapy-patients-aged-8-years-and-older-glycogen-storage-disease-type-ia",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑小兒研究公平法案（PREA）審查與標示變更",
-      "summary": "依據聯邦食品、藥物和化妝品法案第505B節，針對小兒研究進行的醫療、統計與臨床藥理學",
+      "title": "Biologics PREA Reviews and Labeling Changes",
+      "summary": "PREA Labeling Changes, Medical, Statistical, and Clinical Pharmacology Reviews of Pediatric Studies Conducted under Section 505B of the Federal Food, Drug, and Cosmetic Act (the Act), as amended by the 美國食藥局（FDA） Amendments Act of 2007 (FDAAA). These assess",
       "source": "FDA Biologics",
       "date": "2026-08-19",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品電子閱覽室（eFOIA）",
-      "summary": "生物製劑 eFOI 閱覽室提供對 美國食藥局（FDA）.gov 網站上「疫苗、血液和生物製劑」以及與生物製劑評估和研究中心相關的其他部分發布的文件的存取。",
+      "title": "Biologics Electronic Reading Room (eFOIA)",
+      "summary": "The Biologics eFOI Reading Room provides access to documents posted throughout the \"Vaccines, Blood & Biologics\" and other sections related to the Center for Biologics Evaluation and Research on the 美國食藥局（FDA）.gov Web site.",
       "source": "FDA Biologics",
       "date": "2026-08-19",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞和基因治療指南",
-      "summary": "此頁麵包含細胞和基因治療指南的清單。",
+      "title": "Cellular & 基因療法 Guidances",
+      "summary": "This page contains a listing of cellular and 基因療法 guidances.",
       "source": "FDA Biologics",
       "date": "2026-08-19",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報",
-      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
+      "title": "嵌合抗原受體 T-細胞治療 in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica",
+      "summary": "in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica Via Medica Journals",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 公布 2026 年第二季營運亮點與財務報告",
-      "summary": "BioCardia 揭露 2026 年第二季的營運成果與財務狀況。",
+      "title": "BioCardia Reports Second Quarter 2026 Business Highlights and Financial Results",
+      "summary": "siness Highlights and Financial Results GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia (BCDA) 2026 年第二季財報電話會議紀錄",
-      "summary": "環球郵報手稿",
+      "title": "BioCardia (BCDA) Q2 2026 Earnings Call Transcript",
+      "summary": "ranscript The Globe and Mail",
       "source": "The Globe and Mail",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "日本生醫材料市場規模、市佔率、趨勢與成長分析報告，2030 年",
-      "summary": "深入分析日本生",
+      "title": "JAPAN Biomaterials Market Size, Share,Trends, Growth Analysis Report, 2030",
+      "summary": "ends, Growth Analysis Report, 2030 MarketsandMarkets",
       "source": "MarketsandMarkets",
       "date": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmhMMTkwel9YaFRZOGUxYVMxWGt3SVJ3WXpxck1WX2xOOTlZck1Qc0IyYXZBOEstaVI2SzVpNTM3SGJJcUlTZjZwOVUtWmF6djNtb0VGQV8yendNWldxNmtmZ1NTdDRaWG5URm5KNEdOemp6eU5vb0dtMDh4TUFfaXVtVQ?oc=5",
