@@ -1,20 +1,12 @@
 {
   "module": "research",
-  "updated": "2026-08-23T23:11:35.449224+00:00",
+  "updated": "2026-08-24T11:19:59.187503+00:00",
   "items": [
     {
-      "title": "挖掘與改造具活性的PiggyBac轉座子",
-      "summary": "深入探討如何挖掘與改造具活性的PiggyBac轉座子，以應用於基因工程及相關療法開發。",
+      "title": "多功能DECM/PLMA水凝膠結合工程化富血小板血漿（PRP）來源外泌體，透過抑制PHD2基因表現，促進皮膚傷口修復",
+      "summary": "皮膚缺損修復一直是臨床上的巨大挑戰，主要面臨持續感染、血管新生不足以及發炎反應失調等",
       "source": "PubMed",
-      "date": "2026-08-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42529264/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "結合工程化PRP（血小板豐富血漿）外泌體，可抑制PHD2",
-      "summary": "",
-      "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42620350/",
       "lang": "zh-TW"
     },
@@ -22,7 +14,7 @@
       "title": "CD7 CAR-T細胞療法 cells eliminate chronic myeloid leukemia 幹細胞 specifically and effectively.",
       "summary": "Leukemia 幹細胞 (LSCs) in chronic myeloid leukemia (CML) are associated with disease recurrence and progression, cannot be eliminated by tyrosine kinase inhibitors (TKIs), and affect TKI discontinuation in CML patients. 嵌合抗原受體 T cells (CAR-T細胞療法) therapy can eliminate tumor cells ...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42629973/",
       "lang": "zh-TW"
     },
@@ -30,7 +22,7 @@
       "title": "Preclinical evaluation of homodimeric FAPI target modules for UniCAR-mediated targeting of FAP-expressing tumor and stromal cells.",
       "summary": "Due to its overexpression in the tumor microenvironment of most solid malignancies, fibroblast activation protein (FAP) has emerged as an ideal target for (immuno)theranostic applications. The clinically tested UniCAR system represents a promising adapter CAR-T細胞療法-cell approach, in which CAR-T細胞療法-cell act...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42627862/",
       "lang": "zh-TW"
     },
@@ -38,7 +30,7 @@
       "title": "Targeted delivery of 信使RNA（mRNA） to immune cells for",
       "summary": "Messenger RNA (信使RNA（mRNA）) therapeutics have revolutionized biomedicine by enabling direct",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42590834/",
       "lang": "zh-TW"
     },
@@ -46,7 +38,7 @@
       "title": "Research advances in microneedle-外泌體 delivery systems for the treatment of multisystem diseases.",
       "summary": "The combined application of microneedles (MNs) and 外泌體 represents a significant research direction in the fields of targeted drug delivery and 再生醫療. Their synergistic and complementary effects not only address key technical challenges associated with 外泌體 delivery-such as lo...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42633397/",
       "lang": "zh-TW"
     },
@@ -54,7 +46,7 @@
       "title": "Global trends in CAR-T細胞療法 細胞治療 for multiple myeloma: A bibliometric analysis, 2013-2025.",
       "summary": "CAR-T細胞療法 細胞治療 has dramatically changed the treatment paradigm for relapsed/refractory multiple myeloma (R/R MM). Nevertheless, there is a notable paucity of comprehensive bibliometric analyses within this specialized domain. On January 26, 2026, publications on CAR-T細胞療法 細胞治療 for MM (2013-2...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42623170/",
       "lang": "zh-TW"
     },
@@ -62,23 +54,23 @@
       "title": "Performance of a modular robotic cluster matches skilled human operators for complex 細胞治療 manufacturing tasks.",
       "summary": "Although numerous cell and gene therapies have received regulatory approval, their adoption has been hampered by high cost and challenges in scaling out manufacturing. Many 自體（取自患者本人） cell therapies are individually manufactured for each patient using traditional manual methods in high-cost environm...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42621923/",
       "lang": "zh-TW"
     },
     {
-      "title": "開發行動式高強度聚焦超音波（HIFU）平台，用於胰臟導管腺癌小鼠模型的臨床前腫瘤微環境調控研究",
-      "summary": "高強度聚焦超音波（HIFU）是一種非侵入性消融技術，在臨床前研究和臨床轉譯應用上日益重要。",
+      "title": "Development of a mobile high-intensity focused ultrasound platform for preclinical tumor microenvironment modulation in a pancreatic ductal adenocarcinoma mouse model.",
+      "summary": "High-intensity focused ultrasound (HIFU) is a noninvasive ablation technology with increasing relevance for preclinical research and clinical translation. Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal cancers, with limited therapeutic options and poor response to current treatment...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42609051/",
       "lang": "zh-TW"
     },
     {
-      "title": "Newborn screening and biobanking for preventable genetic disorders in Mongolia: A developing country perspective.",
-      "summary": "Newborn screening (NBS) is an important public health program, yet its implementation is highly uneven globally, with developing countries like Mongolia facing significant resource and infrastructure limitations that hinder early detection of preventable genetic disorders. Meanwhile, induced pluripo...",
+      "title": "新生兒篩檢與生物樣本庫在蒙古預防性遺傳疾病的應用：一個開發中國家的視角。",
+      "summary": "新生兒篩檢（NBS）是一項重要的公共衛生計畫，然而其在全球的推動狀況卻極不平衡，像蒙古這樣的開發中國家尤其如此。",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42604025/",
       "lang": "zh-TW"
     },
@@ -86,7 +78,7 @@
       "title": "An accessible and open-source workflow for fabrication of custom PDMS culture chambers using 3D printing.",
       "summary": "Custom cell culture platforms are widely used in 組織工程 applications. However, their fabrication often requires specialized microfabrication equipment and advanced technical skills, limiting accessibility. This work presents an accessible and open-source workflow for the fabrication of c...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42603966/",
       "lang": "zh-TW"
     },
@@ -94,7 +86,7 @@
       "title": "The hormetic landscape: from evolutionary origination to mechanistic pathways in therapeutics.",
       "summary": "Hormesis is a biphasic dose-response, where mild stress triggers adaptive defense responses that increase cellular resilience. The hormesis is now recognized as a core concept with applications in toxicology, metabolism, aging, and evolutionary biology. A historical review, evolutionary explanations...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42599026/",
       "lang": "zh-TW"
     },
@@ -102,7 +94,7 @@
       "title": "Impact on health outcomes of treating all eligible large B-cell lymphoma patients with axicabtagene ciloleucel in Portugal - A modeling approach.",
       "summary": "This study aimed to quantify the health benefits that can be achieved by treating axicabtagene-ciloleucel (axi-cel)-eligible large B-cell lymphoma patients with axi-cel instead of historical standard of care (hSoC) in Portugal. \"Estimated Opportunity Lost\" quantified the difference in outcomes in 20...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42596901/",
       "lang": "zh-TW"
     },
@@ -110,7 +102,7 @@
       "title": "Host-state 生物標記 and clinical factors for stratification and optimization of 細胞治療 trials in chronic limb-threatening ischemia: A review.",
       "summary": "Chronic limb-threatening ischemia (CLTI) is a severe manifestation of peripheral arterial disease associated with high risks of amputation and mortality. Trials of cell-based therapies in patients unsuitable for revascularization (\"no-option\" or \"poor-option\" CLTI) have produced inconsistent results...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42571258/",
       "lang": "zh-TW"
     },
@@ -118,7 +110,7 @@
       "title": "From neural development to 再生醫療: A research journey in 幹細胞 biology, spinal cord repair, and 誘導型多能幹細胞（iPSC）-based drug discovery.",
       "summary": "This commemorative article reflects on a research journey spanning neural development, 幹細胞 biology, 再生醫療, and 誘導型多能幹細胞（iPSC）-based drug discovery. My early work focused on RNA-mediated regulation in the nervous system, including studies on myelin basic protein gene regulation and the id...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42568821/",
       "lang": "zh-TW"
     },
@@ -126,23 +118,23 @@
       "title": "Calycosin targets the MAPK-EGR1 signaling axis to inhibit enterovirus 71 replication in cells and human colonic 類器官.",
       "summary": "The downstream effectors that mediate the pro‑viral function of the MAPK pathway during enterovirus 71 (EV71) infection remain poorly defined. Here we show that early growth response 1 (EGR1) is independently regulated by each of the three classical MAPK branches including extracellular signal-regul...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42555528/",
       "lang": "zh-TW"
     },
     {
-      "title": "牙周組織工程新進展：優化RNA萃取策略，精準分析人類羊膜支架上牙周韌帶纖維母細胞",
-      "summary": "人類羊膜（HAM）在牙周組織工程領域是極具潛力的支架材料，能有效促進人類牙周細胞的良好反應。",
+      "title": "A matrix-adapted RNA extraction strategy for targeted RT-qPCR analysis of periodontal ligament fibroblasts cultured on human amniotic membrane 生物支架.",
+      "summary": "Human amniotic membrane (HAM) is a promising 生物支架 for periodontal 組織工程, supporting favorable cellular responses of human periodontal ligament fibroblasts (HPDLFs). However, molecular characterization of cells cultured on HAM is frequently hindered by extracellular matrix-derived co...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42548905/",
       "lang": "zh-TW"
     },
     {
-      "title": "類器官-based evaluation of SA55 and Pemivibart against evolving SARS-CoV-2 variants.",
-      "summary": "Pemivibart, a class 1/4 monoclonal antibody (mAb), is currently the only 美國食藥局（FDA）-authorized SARS-CoV-2 mAb under an Emergency Use Authorization (EUA) in clinical use. The emergence of subvariants, including KP.3.1.1 and XFG, raises concerns about antibody efficacy. SA55, a fully human class 1/4 mAb, is ...",
+      "title": "類器官評估SA55與Pemivibart對抗不斷演變的SARS-CoV-2變異株",
+      "summary": "Pemivibart是一種1/4類型的單株抗體（mAb），目前是唯一獲得美國食品藥物管理局（FDA）透過緊急使用授權（EUA）核准的SARS-",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42545256/",
       "lang": "zh-TW"
     },
@@ -150,7 +142,7 @@
       "title": "Mosunetuzumab: A bispecific CD20 × CD3 antibody for follicular lymphoma with promising evidence in other B-NHL subtypes.",
       "summary": "Mosunetuzumab is a bispecific antibody targeting CD20 x CD3 re-directing T cells to target and destroy CD20-positive B cells. T-cell-based therapies including bispecific antibodies have revolutionized B-cell NHL treatment. Mosunetuzumab is approved for follicular lymphoma with at least 2 prior lines...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42532836/",
       "lang": "zh-TW"
     },
@@ -158,23 +150,31 @@
       "title": "The evolution of cellular therapies in sarcoma: Breakthroughs, challenges, and future directions.",
       "summary": "Cellular therapies representa promising area of 免疫療法 for advanced cancers,therapies including T cell receptor (TCR) therapies, 嵌合抗原受體 (CAR) T cell therapies, tumor-infiltrating lymphocyte (TIL) therapies, and natural killer (NK) cell therapies.Sarcomas pose unique challen...",
       "source": "PubMed",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42517272/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Super-resolution imaging reveals altered actin architecture at CAR-T細胞療法 cell immune synapses.",
+      "summary": "The actin cytoskeleton plays a key integrative role in immunological synapse (IS) formation during T cell activation, but how these dynamics are altered in 嵌合抗原受體 (CAR)-T cells remains unclear. Here, we used stimulated emission depletion (STED) microscopy to perform the first supe...",
+      "source": "PubMed",
+      "date": "2026-08-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42554735/",
       "lang": "zh-TW"
     },
     {
       "title": "[PHASE2] Disulfiram/Copper Combination In The Treatment of Newly Diagnosed Glioblastoma Multiform",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Olympion Medical Center｜Glioblastoma multiform (GBM) is the most common malignant primary brain tumor in adults. Despite maximal treatment tumor relapse occurs regularly accompanied by unfavourable prognosis. Among other reasons, it is believed that this could be in part du",
       "source": "ClinicalTrials.gov｜Greece",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT01777919",
       "lang": "zh-TW"
     },
     {
-      "title": "OLIG2抑制劑CT-179治療復發性與新診斷膠質母細胞瘤進入一期臨床試驗",
-      "summary": "奧莉薇亞紐頓強癌症研究中心主辦，這項首次人體一期臨床試驗，將採兩部分、開放標示、多中心、劑量遞增",
+      "title": "第一期臨床試驗：OLIG2抑制劑CT-179治療復發性與新診斷膠質母細胞瘤",
+      "summary": "狀態：尚未開始招募｜主辦：奧莉薇亞紐頓強癌症研究中心｜這是一項首次人體試驗的第一期、兩部分、開放標示",
       "source": "ClinicalTrials.gov｜Australia",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT07739017",
       "lang": "zh-TW"
     },
@@ -182,7 +182,7 @@
       "title": "[PHASE3] Primary Radiotherapy In MEtastatic Lung Cancer",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Trans Tasman Radiation Oncology Group｜Lung cancer has the highest mortality rate of all cancers in Australia and is an area of unmet need. It starts in the lung (the primary tumour), and then spreads (metastasise) to other organs. The PRIME-Lung 臨床試驗 will investigate if radioth",
       "source": "ClinicalTrials.gov｜Australia",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT07135882",
       "lang": "zh-TW"
     },
@@ -190,7 +190,7 @@
       "title": "[PHASE2] A Study to Evaluate the Efficacy of Botulinum Toxin in Patients With Hidradenitis Suppurativa",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：University of Massachusetts, Worcester｜This study will build on data from mice and humans implicating TRPV1 nociceptors in the pathogenesis of the type-17 chronic inflammatory skin disease hidradenitis suppurativa (HS). In this study, the investigators will extend data from a 12-week pilo",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT07756346",
       "lang": "zh-TW"
     },
@@ -198,7 +198,7 @@
       "title": "[PHASE2] 幹細胞 Transplantation for Participants With Germline RUNX1 Associated Blood Cancers",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：National Cancer Institute (NCI)｜Background:\n\nSome blood cancers can be caused by germline variants (changes) in a person s RUNX1 gene. Germline variants are genetic inherited changes a person is born with. 幹細胞 transplants are used to treat many diseases including blood cancer",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT07524530",
       "lang": "zh-TW"
     },
@@ -206,23 +206,23 @@
       "title": "[PHASE1] GPC3 CAR-T細胞療法 Cells With IL-15 and IL-21 for Recurrent ATRT and CNS Rhabdoid Tumors (RADIANT)",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Baylor College of Medicine｜This study is being conducted in patients with GPC3-positive brain tumors that have recurred or have not responded to standard therapy. Atypical teratoid rhabdoid tumors (ATRT) are aggressive tumors with poor outcomes and limited treatment options, p",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT07513194",
       "lang": "zh-TW"
     },
     {
-      "title": "使用Resilience PRO電子化病人自述結果應用程式監測IDH突變型膠質瘤患者的神經學症狀、治療耐受性與生活品質",
-      "summary": "狀態：尚未招募｜主辦：巴黎公立醫院集團｜IDH突變型膠質瘤患者常出現疲勞、癲",
+      "title": "[NA] Monitoring of Neurological Symptoms, Treatment Tolerance, and Quality of Life Using the Resilience PRO Electronic Patient-reported Outcome Application in Patients With IDH-mutated Glioma",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Assistance Publique - Hôpitaux de Paris｜Patients with IDH-mutant glioma frequently experience symptoms such as fatigue, seizures, headaches, cognitive impairments (primarily attentional), and mood changes, which can significantly affect their health-related quality of life (HRQoL). Disease",
       "source": "ClinicalTrials.gov｜France",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT07439302",
       "lang": "zh-TW"
     },
     {
-      "title": "[NA] Orelabrutinib Combined With Pola-R-CHP as First-Line Treatment for Patients With Intermediate- to High-Risk DLBCL",
-      "summary": "狀態：RECRUITING｜主辦：The First Affiliated Hospital of Xiamen University｜To evaluate orelabrutinib in combination with polatuzumab vedotin, rituximab, cyclophosphamide, doxorubicin, and prednisone (Pola-R-CHP) as first-line treatment for patients with intermediate- to high-risk diffuse large B-cell lymphoma (DLBCL).",
+      "title": "奧布替尼合併Pola-R-CHP作為中高風險瀰漫性大B細胞淋巴瘤（DLBCL）患者的一線治療",
+      "summary": "狀態：招募中｜主辦單位：廈門大學附屬第一醫院｜本試驗旨在評估奧布替尼合併波拉妥珠單抗（pol",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT07778212",
       "lang": "zh-TW"
     },
@@ -230,7 +230,7 @@
       "title": "[PHASE1] Epcoritamab and Pola-R-mini-CHP for the Treatment of Diffuse Large B Cell Lymphoma in Elderly or Unfit Patients",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Jonsson Comprehensive Cancer Center｜This 第一期試驗 trial tests the safety, side effects and best dose of epcoritamab alone and epcoritamab with polatuzumab vedotin, rituximab, cyclophosphamide, doxorubicin, and prednisone (pola-R- mini-CHP) for the treatment of diffuse large B cell lymph",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT07714421",
       "lang": "zh-TW"
     },
@@ -238,7 +238,7 @@
       "title": "[PHASE2] 第二期試驗 Trial Of Sacituzumab Tirumotecan For Treatment Of Refractory Metastatic Or Unresectable Squamous Cell Carcinoma Of The Anus/Rectum",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：M.D. Anderson Cancer Center｜To look at the effectiveness of sacituzumab tirumotecan (MK-2870) in treating participants with treatment-refractory unresectable and/or metastatic anal/rectal cancer.",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT07511023",
       "lang": "zh-TW"
     },
@@ -246,7 +246,7 @@
       "title": "[PHASE4] BLOOD-dose: A Platform Trial Evaluating Dose Optimization in Hematological Diseases.",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Anne Louise Tølbøll Sørensen｜BLOOD-dose is a multicentre, adaptive, randomized, multidomain platform trial designed to optimize treatment dosing strategies in adult patients with haematological diseases.\n\nThe BLOOD-dose core protocol outlines the overall 臨床試驗 design th",
       "source": "ClinicalTrials.gov｜Denmark",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT07474961",
       "lang": "zh-TW"
     },
@@ -254,7 +254,7 @@
       "title": "[N/A] Long-term Follow-up (LTFU) of Participants Who Received Azer-Cel",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：TG Therapeutics, Inc.｜The main objective of this study is to collect data on the long-term safety of azer-cel, primarily through the capture of clinical events of interest (CEI) for up to 15 years following participation in TG-Azercel -101 study.",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT07577583",
       "lang": "zh-TW"
     },
@@ -262,29 +262,37 @@
       "title": "[PHASE1] Circadian-Optimized Light Therapy for the Treatment of Patients With Advanced Melanoma Receiving Tumor-Infiltrating Lymphocyte Therapy",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：City of Hope Medical Center｜This 第一期試驗 trial tests the effect of Circadian-Optimized Light Therapy (COLT) in conjunction with standard of care tumor-infiltrating lymphocytes (TIL) therapy in treating patients with melanoma that may have spread from where it first started to n",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "url": "https://clinicaltrials.gov/study/NCT07628894",
       "lang": "zh-TW"
     },
     {
-      "title": "培養五年的人類腦類器官，揭示人類發育新見解",
-      "summary": "研究人員成功將人類腦類器官培養超過五年，發現其成熟過程與人類大腦發育相似，且時間更長，為研究人類大腦發展提供新模型。",
+      "title": "[NA] A Home-Based Exercise Intervention (CAREFit-BMT) in Improving Heart Function Among Patients With High Risk Acute Myeloid Leukemia Undergoing 幹細胞 Transplant",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：University of Washington｜This 臨床試驗 studies how well a home-based exercise intervention called Cardiorespiratory Fitness in Bone Marrow Transplant Program (CAREFit-BMT) works in improving heart function among patients with high risk acute myeloid leukemia (AML) unde",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-08-24",
+      "url": "https://clinicaltrials.gov/study/NCT07616921",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "五年期腦類器官研究，揭示人類發展新見解",
+      "summary": "研究人員成功讓人類腦類器官發育超過五年，揭示其長期成熟過程與人類大腦發育相似，為人類發展研究帶來新突破。",
       "source": "GEN News",
       "date": "2026-08-21",
       "url": "https://www.genengnews.com/topics/translational-medicine/five-year-brain-organoids-reveal-new-insights-into-human-development/",
       "lang": "zh-TW"
     },
     {
-      "title": "實驗室培養的新皮質模型，成功模擬早期大腦組織",
-      "summary": "科學家利用",
+      "title": "實驗室培養新皮質模型，成功模擬早期大腦組織",
+      "summary": "科學家透過化學訊號引導細胞形成不同區域特徵，成功培養出模擬早期大腦發育的人類類器官。",
       "source": "GEN News",
       "date": "2026-08-21",
       "url": "https://www.genengnews.com/topics/translational-medicine/lab-grown-neocortex-models-mimic-early-brain-organization/",
       "lang": "zh-TW"
     },
     {
-      "title": "\"Off-the-Shelf\" CAR-T細胞療法-細胞治療 Shows Mixed Early Results",
-      "summary": "Mixed Early Results Inside Precision Medicine",
+      "title": "通用型嵌合抗原受",
+      "summary": "",
       "source": "Inside Precision Medicine",
       "date": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpR202aXpIdXdRd2FoUzFyR3dEVEczMVBfVnhLRWtHNVMzb0hqVWJJcUhyeU5rQmtrdjZjdTZYOWxlelNKZ3I1S0pUclBSRklhRWJCbFczbHlWVkVNbHc?oc=5",
@@ -360,14 +368,6 @@
       "source": "UC Davis Health",
       "date": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ3hSVlJCRXhLdjhMcDh4Sml5TXBORnhfOHJ0ZHBwb25ZOWphVkFCS2lCQWhucEFzVlVMV3RVN2FzazB6R21mNG56Q1FjamtiazdYeFo0bTJrYVROd1VOamVzV3ZYUTNTa2RTcmkyMzhxSjRycFBzNlc3eDJxLWhnVUFIX1NKc2w0U0VoTXp1MkFsSWpISUNHclpRNE5aX1Z0bDhZbzRHVE4yU0hBME9uTkJmb2ZVd2loMTRlOF9VYkoxa2VoUHBIZWxZRFpSRXVNUEhnWTlXMmlXbFVMM0tkUlFKVmJmYk00SkR2bw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[NA] Gustabor 第二期試驗 - Treating Taste Changes During Cancer Therapy: A Randomized Study Evaluating an AI- Based Nutrition Intervention",
-      "summary": "狀態：RECRUITING｜主辦：Wuerzburg University Hospital｜The study investigates taste disorders that commonly occur during or after cancer treatment, often leading to issues such as malnutrition and treatment discontinuation. Although many non-pharmacological recommendations exist, it is unclear which meth",
-      "source": "ClinicalTrials.gov｜Germany",
-      "date": "2026-07-24",
-      "url": "https://clinicaltrials.gov/study/NCT07649681",
       "lang": "zh-TW"
     }
   ]

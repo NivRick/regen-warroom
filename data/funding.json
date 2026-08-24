@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-08-23T23:12:29.431961+00:00",
+  "updated": "2026-08-24T11:21:25.285701+00:00",
   "items": [
     {
-      "title": "STAT+: 藥業小道消息：羅氏在美國大手筆投資、雌激素貼片短缺等最新消息",
-      "summary": "羅氏（Roche）旗下的基因泰克（Genentech）將投資7.5億美元，把其在奧勒岡州的現有生產設施規模擴大一倍。",
+      "title": "STAT+: 藥廠小道消息：羅氏在美國大手筆投資、雌激素貼片短缺等最新報導",
+      "summary": "羅氏（Roche）旗下基因泰克（Genentech）將投資 7.5 億美元，把其在奧勒岡州（Oregon）現有生產設施的規模",
       "source": "STAT News",
       "date": "2026-08-21",
       "url": "https://www.statnews.com/pharmalot/2026/08/21/roche-genentech-investment-estrogen-patch-shortages/?utm_campaign=rss",
@@ -43,14 +43,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Capricor Therapeutics’ Duchenne treatment is heading for an 美國食藥局（FDA） rejection",
-      "summary": "Capricor Therapeutics is trying to stave off 美國食藥局（FDA） rejection of its 細胞治療 for Duchenne muscular dystrophy.",
-      "source": "STAT News",
-      "date": "2026-08-20",
-      "url": "https://www.statnews.com/2026/08/20/capricor-therapeutics-duchenne-treatment-fda/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Cancer vaccine win restores Wall Street’s faith in Moderna",
       "summary": "Moderna gained $45 billion in market value in a single day, a surge that brought the company&rsquo;s stock to levels not seen since 2024 &mdash; and saddled it with expectations that may be tough to meet.",
       "source": "BioPharma Dive",
@@ -75,32 +67,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "AstraZeneca scores in lung cancer; Sandoz inks a China deal",
-      "summary": "A combination of AstraZeneca&rsquo;s Tagrisso and Hutchmed&rsquo;s Orpathys extended survival for some lung cancer patients. Elsewhere, MapLight floated the idea of partnering on its autism drug.",
+      "title": "阿斯特捷利康肺癌新藥傳捷報；山德士簽署中國合作案",
+      "summary": "阿斯特捷利康肺癌組合療法延長患者存活期，展現潛力。山德士則與中國藥廠簽署合作案。",
       "source": "BioPharma Dive",
       "date": "2026-08-18",
       "url": "https://www.biopharmadive.com/news/astrazeneca-sandoz-china-bristol-myers-maplight/828058/",
       "lang": "zh-TW"
     },
     {
-      "title": "Leo Pharma buys rare skin disease drug in $435M deal",
-      "summary": "Tanabe Pharma has already asked the 美國食藥局（FDA） to approve the medicine for two conditions that cause severe reactions to sunlight.",
-      "source": "BioPharma Dive",
-      "date": "2026-08-18",
-      "url": "https://www.biopharmadive.com/news/leo-pharma-buys-late-stage-skin-disease-drug-435m-deal/828150/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech Fundraising Tracker '26: Abcuro secures $66M; InduPro assembles $77M",
-      "summary": "Abcuro secures $66M; InduPro assembles $77M Fierce Biotech",
+      "title": "Fierce Biotech 2026年募資追蹤報告：Abcuro 募得 6600 萬美元；InduPro 募得 7700 萬美元",
+      "summary": "Abcuro 成功募資 6600 萬美元，InduPro 也募得 7700 萬美元，生技產業募資動能強勁。",
       "source": "Fierce Biotech",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "An eye drug biotech banks $118M and stocks its executive suite",
-      "summary": "ks its executive suite BioPharma Dive",
+      "title": "眼科藥物生技公司募得 1.18 億美元，並補齊高階主管團隊",
+      "summary": "一家眼科藥物生技公司成功募資 1.18 億美元，並積極延攬高階主管，為發展奠基。",
       "source": "BioPharma Dive",
       "date": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",
