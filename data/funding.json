@@ -1,10 +1,58 @@
 {
   "module": "funding",
-  "updated": "2026-08-24T11:21:25.285701+00:00",
+  "updated": "2026-08-24T23:15:22.838374+00:00",
   "items": [
     {
-      "title": "STAT+: 藥廠小道消息：羅氏在美國大手筆投資、雌激素貼片短缺等最新報導",
-      "summary": "羅氏（Roche）旗下基因泰克（Genentech）將投資 7.5 億美元，把其在奧勒岡州（Oregon）現有生產設施的規模",
+      "title": "STAT+: Pharmalittle: We’re reading about Medicaid obesity-drug coverage, a Regenxbio 基因療法, and more",
+      "summary": "President Trump’s pledge to make pricey weight loss drugs widely available for low-income Americans through Medicaid is not panning out",
+      "source": "STAT News",
+      "date": "2026-08-24",
+      "url": "https://www.statnews.com/pharmalot/2026/08/24/state-medicaid-obesity-drugs-regenxbio-gene-therapy/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: 美國食藥局（FDA） pauses Regenxbio 基因療法 trial again due to safety concerns",
+      "summary": "The 美國食藥局（FDA） put a hold on a Regenxbio 基因療法 trial again after new safety concerns emerged.",
+      "source": "STAT News",
+      "date": "2026-08-24",
+      "url": "https://www.statnews.com/2026/08/24/fda-pauses-regenxbio-gene-therapy-trial-hunter-syndrome-safety-concerns/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Safety concerns spur 美國食藥局（FDA） to again halt testing of Regenxbio 基因療法",
+      "summary": "Investigators detected masses on the spines of five patients who received its Hunter syndrome treatment, leading to the program&rsquo;s second clinical hold this year.",
+      "source": "BioPharma Dive",
+      "date": "2026-08-24",
+      "url": "https://www.biopharmadive.com/news/regenxbio-fda-hunter-syndrome-hold-mri-safety/828578/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） extends review of Capricor 細胞治療; Pain drug startup to go public",
+      "summary": "The agency is now reviewing an updated application for deramiocel with a &ldquo;refined&rdquo; indication. Elsewhere, a startup co-founded by Vivek Ramaswamy is taking a speedy path to the public markets.",
+      "source": "BioPharma Dive",
+      "date": "2026-08-24",
+      "url": "https://www.biopharmadive.com/news/capricor-fda-gsk-hibsago-ambros-werewolf-united-ralinepag/828560/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Cellares, a 細胞治療 manufacturing specialist, to lay off 100 employees",
+      "summary": "The restructuring comes after an unnamed \"large pharmaceutical customer\" terminated a contract with the company, Cellares CEO Fabian Gerlinghaus posted on LinkedIn.",
+      "source": "BioPharma Dive",
+      "date": "2026-08-24",
+      "url": "https://www.biopharmadive.com/news/cellares-layoffs-cell-therapy-manufacturing/828588/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Roche commits to lean-mass preservation with Hanmi obesity deal",
+      "summary": "For $190 million up front and as much as $2.3 billion overall, the Swiss drugmaker is building its portfolio with a shot that aims to spur weight loss but spare muscle tissue.",
+      "source": "BioPharma Dive",
+      "date": "2026-08-24",
+      "url": "https://www.biopharmadive.com/news/roche-lean-mass-preservation-hanmi-obesity-deal/828579/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a big Roche investment in the U.S., estrogen patch shortages, and more",
+      "summary": "Roche's Genentech will invest $750 million to double the size of its existing production facility in Oregon",
       "source": "STAT News",
       "date": "2026-08-21",
       "url": "https://www.statnews.com/pharmalot/2026/08/21/roche-genentech-investment-estrogen-patch-shortages/?utm_campaign=rss",
@@ -19,72 +67,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Shareholder pressures Capricor; Lilly dives deeper into vaccines",
-      "summary": "Kaos Capital wants a &ldquo;governance reset&rdquo; to alter the Duchenne 細胞治療 maker&rsquo;s strategic course. Elsewhere, Bristol Myers furthered efforts to build an &ldquo;AI-powered&rdquo; discovery engine.",
+      "title": "股東施壓Capricor，禮來（Lilly）深化疫苗布局",
+      "summary": "Kaos Capital要求Capricor「重整公司治理」，以改變這家專攻杜氏肌肉失養症（Duchenne）細胞治療公司的策略方向。另一方面，必治妥施貴寶（Bristol Myers Squibb）也...",
       "source": "BioPharma Dive",
       "date": "2026-08-21",
       "url": "https://www.biopharmadive.com/news/capricor-kaos-bristol-myers-chai-lilly-amplitude-kynexis/828284/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 美國食藥局（FDA） approves Ultragenyx 基因療法",
-      "summary": "Regeneron wins ultra-rare disease drug approval, a validating win for 信使RNA（mRNA） research, and more biotech news from The Readout",
-      "source": "STAT News",
-      "date": "2026-08-20",
-      "url": "https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about a Regeneron rare disease drug, an Ultragenyx 基因療法, and more",
-      "summary": "A Regeneron drug for an ultra-rare disease that causes bone to grow where it shouldn't won U.S. regulatory approval, capping a three-decade effort",
-      "source": "STAT News",
-      "date": "2026-08-20",
-      "url": "https://www.statnews.com/pharmalot/2026/08/20/regeneron-rare-disease-drug-utragenyx-gene-therapy/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Cancer vaccine win restores Wall Street’s faith in Moderna",
-      "summary": "Moderna gained $45 billion in market value in a single day, a surge that brought the company&rsquo;s stock to levels not seen since 2024 &mdash; and saddled it with expectations that may be tough to meet.",
+      "title": "癌症疫苗報捷，華爾街重拾對莫德納（Moderna）的信心",
+      "summary": "莫德納（Moderna）單日市值暴增450億美元，股價飆升至2024年以來未見的高點，並...",
       "source": "BioPharma Dive",
       "date": "2026-08-20",
       "url": "https://www.biopharmadive.com/news/moderna-merck-intismeran-melanoma-vaccine-stock-reaction/828332/",
       "lang": "zh-TW"
     },
     {
-      "title": "Ultragenyx, after setbacks, nabs first 基因療法 approval",
-      "summary": "The clearance of Genglycos for a rare glycogen storage disease gives Ultragenyx a sellable voucher and momentum ahead of an eagerly anticipated study readout.",
-      "source": "BioPharma Dive",
-      "date": "2026-08-20",
-      "url": "https://www.biopharmadive.com/news/ultragenyx-fda-approve-genglycos-GSDIa-gene-therapy/828369/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
-      "summary": "The Alesta buyout helps restock BioMarin's pipeline with an asset it says could &ldquo;reach our largest addressable patient population,&rdquo; joining other muscle and skeletal disease treatments in development.",
-      "source": "BioPharma Dive",
-      "date": "2026-08-18",
-      "url": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "阿斯特捷利康肺癌新藥傳捷報；山德士簽署中國合作案",
-      "summary": "阿斯特捷利康肺癌組合療法延長患者存活期，展現潛力。山德士則與中國藥廠簽署合作案。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-18",
-      "url": "https://www.biopharmadive.com/news/astrazeneca-sandoz-china-bristol-myers-maplight/828058/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 2026年募資追蹤報告：Abcuro 募得 6600 萬美元；InduPro 募得 7700 萬美元",
-      "summary": "Abcuro 成功募資 6600 萬美元，InduPro 也募得 7700 萬美元，生技產業募資動能強勁。",
-      "source": "Fierce Biotech",
-      "date": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "眼科藥物生技公司募得 1.18 億美元，並補齊高階主管團隊",
-      "summary": "一家眼科藥物生技公司成功募資 1.18 億美元，並積極延攬高階主管，為發展奠基。",
+      "title": "眼科藥物生技公司募資1.18億美元，並補齊高階主管團隊",
+      "summary": "某眼科藥物生技公司募得1.18億美元，並延攬多位高階主管。",
       "source": "BioPharma Dive",
       "date": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",
