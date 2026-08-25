@@ -1,7 +1,23 @@
 {
   "module": "funding",
-  "updated": "2026-08-25T11:20:08.575371+00:00",
+  "updated": "2026-08-25T23:17:51.059317+00:00",
   "items": [
+    {
+      "title": "STAT+: How Trump’s funding cuts are reshaping the health system",
+      "summary": "STAT examines Republicans’ health care funding cuts, 信使RNA（mRNA） science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+      "source": "STAT News",
+      "date": "2026-08-25",
+      "url": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Will a ‘reset’ reignite investment in women’s health startups?",
+      "summary": "After peaking in 2024, venture investments in startups involved in the space declined last year. But a broader adoption of AI and a widening definition of what constitutes women&rsquo;s health could spur a rebound, some say.",
+      "source": "BioPharma Dive",
+      "date": "2026-08-25",
+      "url": "https://www.biopharmadive.com/news/womens-health-startups-venture-investment-svb-report/828632/",
+      "lang": "zh-TW"
+    },
     {
       "title": "Young startups miss out on biotech venture funding rebound, MassBio says",
       "summary": "A new report found that the sizes of seed rounds and A輪融資 financings for Massachusetts biotech startups are going in opposite directions, as funding slows for young companies with the &ldquo;riskiest science.&rdquo;",
@@ -11,8 +27,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+ 藥聞快訊：聯邦醫療補助（Medicaid）的肥胖藥物給付、Regenxbio基因療法等最新消息",
-      "summary": "川普總統曾承諾，要透過聯邦醫療補助（Medicaid）讓低收入美國民眾廣泛取得昂貴的減重藥物，",
+      "title": "STAT+: Pharmalittle: We’re reading about Medicaid obesity-drug coverage, a Regenxbio 基因療法, and more",
+      "summary": "President Trump’s pledge to make pricey weight loss drugs widely available for low-income Americans through Medicaid is not panning out",
       "source": "STAT News",
       "date": "2026-08-24",
       "url": "https://www.statnews.com/pharmalot/2026/08/24/state-medicaid-obesity-drugs-regenxbio-gene-therapy/?utm_campaign=rss",
@@ -56,30 +72,6 @@
       "source": "BioPharma Dive",
       "date": "2026-08-24",
       "url": "https://www.biopharmadive.com/news/roche-lean-mass-preservation-hanmi-obesity-deal/828579/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about a big Roche investment in the U.S., estrogen patch shortages, and more",
-      "summary": "Roche's Genentech will invest $750 million to double the size of its existing production facility in Oregon",
-      "source": "STAT News",
-      "date": "2026-08-21",
-      "url": "https://www.statnews.com/pharmalot/2026/08/21/roche-genentech-investment-estrogen-patch-shortages/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "股東施壓Capricor，禮來加碼投入疫苗市場",
-      "summary": "生技公司Capricor因股東施壓面臨策略調整，同時藥廠巨頭禮來（Lilly）也宣布將加碼投入疫苗研發與市場布局。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-21",
-      "url": "https://www.biopharmadive.com/news/capricor-kaos-bristol-myers-chai-lilly-amplitude-kynexis/828284/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "眼科藥物生技公司募資1.18億美元，延攬高階人才",
-      "summary": "一家專注於眼科藥物開發的生技公司，近期成功完成1.18億美元的募資，同時也積極延攬多位高階主管，強化其經營管理團隊。",
-      "source": "BioPharma Dive",
-      "date": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",
       "lang": "zh-TW"
     }
   ]
