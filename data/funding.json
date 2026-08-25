@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-08-24T23:15:22.838374+00:00",
+  "updated": "2026-08-25T11:20:08.575371+00:00",
   "items": [
     {
-      "title": "STAT+: Pharmalittle: We’re reading about Medicaid obesity-drug coverage, a Regenxbio 基因療法, and more",
-      "summary": "President Trump’s pledge to make pricey weight loss drugs widely available for low-income Americans through Medicaid is not panning out",
+      "title": "Young startups miss out on biotech venture funding rebound, MassBio says",
+      "summary": "A new report found that the sizes of seed rounds and A輪融資 financings for Massachusetts biotech startups are going in opposite directions, as funding slows for young companies with the &ldquo;riskiest science.&rdquo;",
+      "source": "BioPharma Dive",
+      "date": "2026-08-25",
+      "url": "https://www.biopharmadive.com/news/massbio-industry-biotech-vc-ipo-funding-licensing/828621/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+ 藥聞快訊：聯邦醫療補助（Medicaid）的肥胖藥物給付、Regenxbio基因療法等最新消息",
+      "summary": "川普總統曾承諾，要透過聯邦醫療補助（Medicaid）讓低收入美國民眾廣泛取得昂貴的減重藥物，",
       "source": "STAT News",
       "date": "2026-08-24",
       "url": "https://www.statnews.com/pharmalot/2026/08/24/state-medicaid-obesity-drugs-regenxbio-gene-therapy/?utm_campaign=rss",
@@ -59,32 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Opinion: Lil Nas X’s bipolar diagnosis and the paradox of treatment",
-      "summary": "We continue to romanticize the symptoms of mental health problems, especially when we talk about achievement.",
-      "source": "STAT News",
-      "date": "2026-08-21",
-      "url": "https://www.statnews.com/2026/08/21/lil-nas-xs-bipolar-diagnosis-treatment-medication-achievement/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "股東施壓Capricor，禮來（Lilly）深化疫苗布局",
-      "summary": "Kaos Capital要求Capricor「重整公司治理」，以改變這家專攻杜氏肌肉失養症（Duchenne）細胞治療公司的策略方向。另一方面，必治妥施貴寶（Bristol Myers Squibb）也...",
+      "title": "股東施壓Capricor，禮來加碼投入疫苗市場",
+      "summary": "生技公司Capricor因股東施壓面臨策略調整，同時藥廠巨頭禮來（Lilly）也宣布將加碼投入疫苗研發與市場布局。",
       "source": "BioPharma Dive",
       "date": "2026-08-21",
       "url": "https://www.biopharmadive.com/news/capricor-kaos-bristol-myers-chai-lilly-amplitude-kynexis/828284/",
       "lang": "zh-TW"
     },
     {
-      "title": "癌症疫苗報捷，華爾街重拾對莫德納（Moderna）的信心",
-      "summary": "莫德納（Moderna）單日市值暴增450億美元，股價飆升至2024年以來未見的高點，並...",
-      "source": "BioPharma Dive",
-      "date": "2026-08-20",
-      "url": "https://www.biopharmadive.com/news/moderna-merck-intismeran-melanoma-vaccine-stock-reaction/828332/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "眼科藥物生技公司募資1.18億美元，並補齊高階主管團隊",
-      "summary": "某眼科藥物生技公司募得1.18億美元，並延攬多位高階主管。",
+      "title": "眼科藥物生技公司募資1.18億美元，延攬高階人才",
+      "summary": "一家專注於眼科藥物開發的生技公司，近期成功完成1.18億美元的募資，同時也積極延攬多位高階主管，強化其經營管理團隊。",
       "source": "BioPharma Dive",
       "date": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmFMVVprb0ZNbDVTanczTndscFdpUkFvX2xMcTNWd1FGS1dmRDRyZnpvLXQ2QTNsTjh6c0otYVplNm9JaTFZRXRlbmMzcVpfekN3dS1COTd0UTJiLXhMUXpuMURHd1lFYnpPbDJHN0RGbGMzSmwyVjRUOTdDUG1qaHpZd3QwOEZOZTQ1TW1EUQ?oc=5",
