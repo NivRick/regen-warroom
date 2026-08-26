@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-08-25T23:17:32.994365+00:00",
+  "updated": "2026-08-26T11:23:52.480240+00:00",
   "items": [
     {
-      "title": "Ongoing | Infectious Disease Accelerated Approvals Vaccines",
-      "summary": "Biologic Accelerated Approvals Based on a Surrogate Endpoint",
+      "title": "進行中 | 傳染病疫苗的加速核准",
+      "summary": "生物製劑依據替代性終點的加速核准。",
       "source": "FDA Biologics",
       "date": "2026-08-25",
       "url": "http://www.fda.gov/drugs/accelerated-approval-program/ongoing-infectious-disease-accelerated-approvals-vaccines",
       "lang": "zh-TW"
     },
     {
-      "title": "What’s New for Biologics",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "title": "生物製劑的最新進展",
+      "summary": "來自生物製劑評估與研究中心的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-08-25",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -27,7 +27,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 Biological License Application Approvals",
+      "title": "20",
       "summary": "",
       "source": "FDA Biologics",
       "date": "2026-08-24",

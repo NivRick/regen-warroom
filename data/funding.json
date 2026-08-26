@@ -1,7 +1,15 @@
 {
   "module": "funding",
-  "updated": "2026-08-25T23:17:51.059317+00:00",
+  "updated": "2026-08-26T11:24:09.126792+00:00",
   "items": [
+    {
+      "title": "新療法將上市，瞄準常見心血管風險因子，商機上看數十億美元",
+      "summary": "高膽固醇可用藥物控制，但另一種常見心血管風險因子「高脂蛋白(a)」（Lp(a)）目前無藥可醫。藥廠正積極開發新藥，希望能改變",
+      "source": "STAT News",
+      "date": "2026-08-26",
+      "url": "https://www.statnews.com/2026/08/26/lp-a-drugs-novartis-amgen-lilly-potential-heart-disease-blockbuster/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+: How Trump’s funding cuts are reshaping the health system",
       "summary": "STAT examines Republicans’ health care funding cuts, 信使RNA（mRNA） science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
@@ -24,22 +32,6 @@
       "source": "BioPharma Dive",
       "date": "2026-08-25",
       "url": "https://www.biopharmadive.com/news/massbio-industry-biotech-vc-ipo-funding-licensing/828621/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about Medicaid obesity-drug coverage, a Regenxbio 基因療法, and more",
-      "summary": "President Trump’s pledge to make pricey weight loss drugs widely available for low-income Americans through Medicaid is not panning out",
-      "source": "STAT News",
-      "date": "2026-08-24",
-      "url": "https://www.statnews.com/pharmalot/2026/08/24/state-medicaid-obesity-drugs-regenxbio-gene-therapy/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: 美國食藥局（FDA） pauses Regenxbio 基因療法 trial again due to safety concerns",
-      "summary": "The 美國食藥局（FDA） put a hold on a Regenxbio 基因療法 trial again after new safety concerns emerged.",
-      "source": "STAT News",
-      "date": "2026-08-24",
-      "url": "https://www.statnews.com/2026/08/24/fda-pauses-regenxbio-gene-therapy-trial-hunter-syndrome-safety-concerns/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
