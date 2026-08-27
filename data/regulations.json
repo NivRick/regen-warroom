@@ -1,10 +1,41 @@
 {
   "module": "regulation",
-  "updated": "2026-08-27T04:12:33.689281+00:00",
+  "updated": "2026-08-27T20:56:11.115102+00:00",
   "items": [
     {
-      "title": "Seraclone 血型鑑定試劑與抗人類球蛋白試劑 (STN# 125213, 125215, 125217, 125219)",
-      "summary": "這項產品核准資訊，主要是用於紅血球上的血型抗原鑑定",
+      "title": "生物製劑新知",
+      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
+      "source": "FDA Biologics",
+      "date": "2026-08-27",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食品藥物管理局（FDA）圓桌會議：強化血液製品製造供應鏈",
+      "summary": "美國FDA將舉辦圓桌會議，探討如何強化血液製品製造的",
+      "source": "09/29/2026",
+      "date": "2026-08-27",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "泰尼維克",
+      "summary": "是一項產品批准，適用於 7 歲及以上人士主動免疫預防破傷風和白喉。",
+      "source": "FDA Biologics",
+      "date": "2026-08-27",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/tenivac",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
+      "summary": "",
+      "source": "報導者The Reporter",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
+    },
+    {
+      "title": "Seraclone 血型試劑和抗人球蛋白試劑（STN# 125213、125215、125217、125219",
+      "summary": "產品核准資訊用於確定紅血球上的血型抗原以及使用管測試檢測體內和/或體外紅血球塗層。",
       "source": "125233, 125242)",
       "date": "2026-08-26",
       "url": "http://www.fda.gov/vaccines-blood-biologics/seraclone-blood-grouping-reagents-and-anti-human-globulin-reagents-stn-125213-125215-125217-125219",
@@ -16,14 +47,6 @@
       "source": "FDA Biologics",
       "date": "2026-08-26",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/recombinate",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-08-26",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
@@ -59,22 +82,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "正在進行中 |傳染病疫苗加速審批",
-      "summary": "基於替代終點的生物加速審批",
-      "source": "FDA Biologics",
-      "date": "2026-08-25",
-      "url": "http://www.fda.gov/drugs/accelerated-approval-program/ongoing-infectious-disease-accelerated-approvals-vaccines",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "2026年生物許可證申請核准",
-      "summary": "",
-      "source": "FDA Biologics",
-      "date": "2026-08-24",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/2026-biological-license-application-approvals",
-      "lang": "zh-TW"
-    },
-    {
       "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報",
       "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
       "source": "Via Medica Journals",
@@ -83,8 +90,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 報告 2026 年第二季業務亮點和財務業績",
-      "summary": "業務亮點和財務業績 GlobeNewswire",
+      "title": "BioCardia 公布 2026 年第二季營運亮點與財務報告",
+      "summary": "GlobeNewswire 報導 BioCardia 公布 2026 年第二季營運亮點與財務報告。",
       "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
@@ -99,8 +106,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "日本生物材料市場規模、份額、趨勢、成長分析報告，2030 年",
-      "summary": "結束，成長分析報告，2030 年 MarketsandMarkets",
+      "title": "2030 年日本生醫材料市場規模、市佔率",
+      "summary": "",
       "source": "MarketsandMarkets",
       "date": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmhMMTkwel9YaFRZOGUxYVMxWGt3SVJ3WXpxck1WX2xOOTlZck1Qc0IyYXZBOEstaVI2SzVpNTM3SGJJcUlTZjZwOVUtWmF6djNtb0VGQV8yendNWldxNmtmZ1NTdDRaWG5URm5KNEdOemp6eU5vb0dtMDh4TUFfaXVtVQ?oc=5",

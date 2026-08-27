@@ -1,21 +1,53 @@
 {
   "module": "funding",
-  "updated": "2026-08-27T04:13:16.211011+00:00",
+  "updated": "2026-08-27T20:57:21.437762+00:00",
   "items": [
     {
-      "title": "STAT+: 新型心血管藥物關鍵數據即將揭曉",
-      "summary": "新型心血管藥物的重要臨床數據即將公布，可能影響未來治療趨勢。",
+      "title": "STAT+：醫院計畫應對經費削減",
+      "summary": "醫院準備進行遊說活動，小羅伯特·甘迺迪面臨更多關於麻疹的壞消息，而幫助本·薩斯的抗癌藥物獲得批准。",
       "source": "STAT News",
-      "date": "2026-08-26",
-      "url": "https://www.statnews.com/2026/08/26/biotech-news-key-data-on-new-class-of-cardio-drugs-coming/?utm_campaign=rss",
+      "date": "2026-08-27",
+      "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 針對常見心血管風險因子，數十億美元商機的新療法即將上市",
-      "summary": "高膽",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關胰腺癌藥物批准、川普與生物技術公司達成的協議等等",
+      "summary": "美國食藥局（FDA） 批准了 Revolution Medicines 的晚期胰腺癌延長生命治療方法，這是第一個針對遺傳原因的治療方法",
+      "source": "STAT News",
+      "date": "2026-08-27",
+      "url": "https://www.statnews.com/pharmalot/2026/08/27/pancreatic-cancer-drug-approved-trump-deal-with-biotechs/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：卡西迪在新報告中批評 美國食藥局（FDA） 對墮胎藥製造商的監督",
+      "summary": "該報告給海蒂·奧弗頓（Heidi Overton）提出了一個備受矚目的問題，因為她將被任命為 美國食藥局（FDA） 專員。",
+      "source": "STAT News",
+      "date": "2026-08-27",
+      "url": "https://www.statnews.com/2026/08/27/bill-cassidy-louisiana-senator-new-report-mifepristone-heidi-overton/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "一個州向治安官提供了 20% 的阿片類藥物結算現金。我們跟著錢",
+      "summary": "KFF 健康新聞調查了治安官如何使用阿片類藥物和解金，發現他們在警用裝備上花費了數百萬美元。",
+      "source": "STAT News",
+      "date": "2026-08-27",
+      "url": "https://www.statnews.com/2026/08/27/opioid-settlement-funds-enforcement-or-treatment-louisiana-sheriff-investigation/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "醫院正在密謀一項不太可能的舉措，以減少 1 兆美元的醫療補助削減",
+      "summary": "衛生系統為緩解大規模資金削減所做的努力。",
+      "source": "STAT News",
+      "date": "2026-08-27",
+      "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-reverse-medicaid-cuts-part-2-unraveled-series/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：新型心臟藥物的關鍵數據即將到來",
+      "summary": "葛蘭素史克的帶狀皰疹疫苗、對女性健康的新財務投資以及更多來自 The Readout 的生物技術新聞",
       "source": "STAT News",
       "date": "2026-08-26",
-      "url": "https://www.statnews.com/2026/08/26/lp-a-drugs-novartis-amgen-lilly-potential-heart-disease-blockbuster/?utm_campaign=rss",
+      "url": "https://www.statnews.com/2026/08/26/biotech-news-key-data-on-new-class-of-cardio-drugs-coming/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -35,51 +67,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "研究表明，Zepbound 可能會降低醫療費用；峰會，康方藥品在另一項中國試驗中取得成功",
-      "summary": "一項現實世界的研究表明，Zepbound 的使用可以降低住院率和急診室就診率。在其他地方，麥克森突然提出了一項價值數十億美元的交易，強生公司也獲得了值得注意的批准。",
+      "title": "Zepbound可能降低醫療成本，研究指出；信達生物、康方生物藥物在中國另一項試驗中傳出捷報",
+      "summary": "一項研究指出Zepbound有望降低醫療費用。此外，信達生物與康方生物的藥物在中國臨床試驗中再次取得成功。",
       "source": "BioPharma Dive",
       "date": "2026-08-26",
       "url": "https://www.biopharmadive.com/news/zepbound-costs-ivonescimab-mckesson-sentivera-imaavy-bausch/828680/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：川普的經費削減如何重塑衛生系統",
-      "summary": "STAT 審查了共和黨的醫療保健資金削減，信使RNA（mRNA） 科學擊敗了政治，醫療補助嘗試了一種拒絕藥物承保的新方法。",
-      "source": "STAT News",
-      "date": "2026-08-25",
-      "url": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "「重置」會重新激發對女性健康新創公司的投資嗎？",
-      "summary": "在 2024 年達到頂峰後，對該領域新創企業的風險投資去年有所下降。但有人表示，人工智慧的更廣泛採用以及對女性健康組成的定義的擴大可能會刺激經濟反彈。",
+      "title": "「重啟」能否再次點燃女性健康新創的投資熱潮？",
+      "summary": "創投對女性健康新創的投資在去年下滑，但業界期待透過「重啟」策略，結合AI應用，能再次吸引資金。",
       "source": "BioPharma Dive",
       "date": "2026-08-25",
       "url": "https://www.biopharmadive.com/news/womens-health-startups-venture-investment-svb-report/828632/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "MassBio 表示，年輕的新創公司錯過了生物技術創投的反彈",
-      "summary": "一份新報告發現，馬薩諸塞州生物技術新創公司的種子輪融資和 A 輪融資規模正走向相反的方向，因為對「風險最高的科學」的年輕公司的融資放緩。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-25",
-      "url": "https://www.biopharmadive.com/news/massbio-industry-biotech-vc-ipo-funding-licensing/828621/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "安全疑慮促使 美國食藥局（FDA） 再次停止 Regenxbio 基因療法的測試",
-      "summary": "研究人員在接受亨特氏症治療的五名患者的脊椎上發現了腫塊，導致該計畫今年進行了第二次臨床試驗。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-24",
-      "url": "https://www.biopharmadive.com/news/regenxbio-fda-hunter-syndrome-hold-mri-safety/828578/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "FDA延長了對Capricor細胞療法的審查；止痛藥新創公司擬上市",
-      "summary": "該機構目前正在審查 deramiocel 的更新申請，並註明「改進」的適應症。在其他地方，由 Vivek Ramaswamy 共同創立的一家新創公司正在快速進入公開市場。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-24",
-      "url": "https://www.biopharmadive.com/news/capricor-fda-gsk-hibsago-ambros-werewolf-united-ralinepag/828560/",
       "lang": "zh-TW"
     }
   ]
