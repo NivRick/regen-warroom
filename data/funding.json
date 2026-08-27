@@ -1,69 +1,85 @@
 {
   "module": "funding",
-  "updated": "2026-08-26T11:24:09.126792+00:00",
+  "updated": "2026-08-27T04:13:16.211011+00:00",
   "items": [
     {
-      "title": "新療法將上市，瞄準常見心血管風險因子，商機上看數十億美元",
-      "summary": "高膽固醇可用藥物控制，但另一種常見心血管風險因子「高脂蛋白(a)」（Lp(a)）目前無藥可醫。藥廠正積極開發新藥，希望能改變",
+      "title": "STAT+: 新型心血管藥物關鍵數據即將揭曉",
+      "summary": "新型心血管藥物的重要臨床數據即將公布，可能影響未來治療趨勢。",
+      "source": "STAT News",
+      "date": "2026-08-26",
+      "url": "https://www.statnews.com/2026/08/26/biotech-news-key-data-on-new-class-of-cardio-drugs-coming/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: 針對常見心血管風險因子，數十億美元商機的新療法即將上市",
+      "summary": "高膽",
       "source": "STAT News",
       "date": "2026-08-26",
       "url": "https://www.statnews.com/2026/08/26/lp-a-drugs-novartis-amgen-lilly-potential-heart-disease-blockbuster/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: How Trump’s funding cuts are reshaping the health system",
-      "summary": "STAT examines Republicans’ health care funding cuts, 信使RNA（mRNA） science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+      "title": "Spyre 因免疫藥物在類風濕性關節炎中未能發揮作用而下跌",
+      "summary": "結果使超過 10 億美元的市場價值消失，並引發了人們對阻斷 TL1A 蛋白的藥物對治療這種疾病的影響有多大的疑問。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-26",
+      "url": "https://www.biopharmadive.com/news/spyre-rheumatoid-arthritis-drug-study-results-skyway/828809/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Biohaven 透過 7.95 億美元的癲癇藥物交易以現金換取“上行空間”",
+      "summary": "經過一系列研究挫折後，面對銀行帳戶不斷減少的情況，Biohaven 放棄了其最先進的實驗藥物，一位分析師認為這是「令人驚訝」的交易。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-26",
+      "url": "https://www.biopharmadive.com/news/biohaven-sk-opakalim-epilepsy-drug-deal/828799/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "研究表明，Zepbound 可能會降低醫療費用；峰會，康方藥品在另一項中國試驗中取得成功",
+      "summary": "一項現實世界的研究表明，Zepbound 的使用可以降低住院率和急診室就診率。在其他地方，麥克森突然提出了一項價值數十億美元的交易，強生公司也獲得了值得注意的批准。",
+      "source": "BioPharma Dive",
+      "date": "2026-08-26",
+      "url": "https://www.biopharmadive.com/news/zepbound-costs-ivonescimab-mckesson-sentivera-imaavy-bausch/828680/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：川普的經費削減如何重塑衛生系統",
+      "summary": "STAT 審查了共和黨的醫療保健資金削減，信使RNA（mRNA） 科學擊敗了政治，醫療補助嘗試了一種拒絕藥物承保的新方法。",
       "source": "STAT News",
       "date": "2026-08-25",
       "url": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Will a ‘reset’ reignite investment in women’s health startups?",
-      "summary": "After peaking in 2024, venture investments in startups involved in the space declined last year. But a broader adoption of AI and a widening definition of what constitutes women&rsquo;s health could spur a rebound, some say.",
+      "title": "「重置」會重新激發對女性健康新創公司的投資嗎？",
+      "summary": "在 2024 年達到頂峰後，對該領域新創企業的風險投資去年有所下降。但有人表示，人工智慧的更廣泛採用以及對女性健康組成的定義的擴大可能會刺激經濟反彈。",
       "source": "BioPharma Dive",
       "date": "2026-08-25",
       "url": "https://www.biopharmadive.com/news/womens-health-startups-venture-investment-svb-report/828632/",
       "lang": "zh-TW"
     },
     {
-      "title": "Young startups miss out on biotech venture funding rebound, MassBio says",
-      "summary": "A new report found that the sizes of seed rounds and A輪融資 financings for Massachusetts biotech startups are going in opposite directions, as funding slows for young companies with the &ldquo;riskiest science.&rdquo;",
+      "title": "MassBio 表示，年輕的新創公司錯過了生物技術創投的反彈",
+      "summary": "一份新報告發現，馬薩諸塞州生物技術新創公司的種子輪融資和 A 輪融資規模正走向相反的方向，因為對「風險最高的科學」的年輕公司的融資放緩。",
       "source": "BioPharma Dive",
       "date": "2026-08-25",
       "url": "https://www.biopharmadive.com/news/massbio-industry-biotech-vc-ipo-funding-licensing/828621/",
       "lang": "zh-TW"
     },
     {
-      "title": "Safety concerns spur 美國食藥局（FDA） to again halt testing of Regenxbio 基因療法",
-      "summary": "Investigators detected masses on the spines of five patients who received its Hunter syndrome treatment, leading to the program&rsquo;s second clinical hold this year.",
+      "title": "安全疑慮促使 美國食藥局（FDA） 再次停止 Regenxbio 基因療法的測試",
+      "summary": "研究人員在接受亨特氏症治療的五名患者的脊椎上發現了腫塊，導致該計畫今年進行了第二次臨床試驗。",
       "source": "BioPharma Dive",
       "date": "2026-08-24",
       "url": "https://www.biopharmadive.com/news/regenxbio-fda-hunter-syndrome-hold-mri-safety/828578/",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） extends review of Capricor 細胞治療; Pain drug startup to go public",
-      "summary": "The agency is now reviewing an updated application for deramiocel with a &ldquo;refined&rdquo; indication. Elsewhere, a startup co-founded by Vivek Ramaswamy is taking a speedy path to the public markets.",
+      "title": "FDA延長了對Capricor細胞療法的審查；止痛藥新創公司擬上市",
+      "summary": "該機構目前正在審查 deramiocel 的更新申請，並註明「改進」的適應症。在其他地方，由 Vivek Ramaswamy 共同創立的一家新創公司正在快速進入公開市場。",
       "source": "BioPharma Dive",
       "date": "2026-08-24",
       "url": "https://www.biopharmadive.com/news/capricor-fda-gsk-hibsago-ambros-werewolf-united-ralinepag/828560/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Cellares, a 細胞治療 manufacturing specialist, to lay off 100 employees",
-      "summary": "The restructuring comes after an unnamed \"large pharmaceutical customer\" terminated a contract with the company, Cellares CEO Fabian Gerlinghaus posted on LinkedIn.",
-      "source": "BioPharma Dive",
-      "date": "2026-08-24",
-      "url": "https://www.biopharmadive.com/news/cellares-layoffs-cell-therapy-manufacturing/828588/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Roche commits to lean-mass preservation with Hanmi obesity deal",
-      "summary": "For $190 million up front and as much as $2.3 billion overall, the Swiss drugmaker is building its portfolio with a shot that aims to spur weight loss but spare muscle tissue.",
-      "source": "BioPharma Dive",
-      "date": "2026-08-24",
-      "url": "https://www.biopharmadive.com/news/roche-lean-mass-preservation-hanmi-obesity-deal/828579/",
       "lang": "zh-TW"
     }
   ]

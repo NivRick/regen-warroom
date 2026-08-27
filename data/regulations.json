@@ -1,33 +1,73 @@
 {
   "module": "regulation",
-  "updated": "2026-08-26T11:23:52.480240+00:00",
+  "updated": "2026-08-27T04:12:33.689281+00:00",
   "items": [
     {
-      "title": "進行中 | 傳染病疫苗的加速核准",
-      "summary": "生物製劑依據替代性終點的加速核准。",
+      "title": "Seraclone 血型鑑定試劑與抗人類球蛋白試劑 (STN# 125213, 125215, 125217, 125219)",
+      "summary": "這項產品核准資訊，主要是用於紅血球上的血型抗原鑑定",
+      "source": "125233, 125242)",
+      "date": "2026-08-26",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/seraclone-blood-grouping-reagents-and-anti-human-globulin-reagents-stn-125213-125215-125217-125219",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "重組",
+      "summary": "產品核准資訊適用於 A 型血友病（經典血友病）患者的圍手術期管理和出血事件的控制。",
+      "source": "FDA Biologics",
+      "date": "2026-08-26",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/recombinate",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-08-26",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "凱德布明",
+      "summary": "產品核准資訊適用於： o 低血容休克\no 低蛋白血症\no 預防肝硬化腹水所引起的腹腔穿刺後中心容量不足\no 卵巢過度刺激症候群 (OHSS)\no 成人呼吸窘迫症候群",
+      "source": "FDA Biologics",
+      "date": "2026-08-26",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/kedbumin",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "瑞威泰克",
+      "summary": "用於治療短豚草花粉誘發的過敏性鼻炎（伴有或不伴有結膜炎）的產品批准信息，通過短豚草花粉的花粉特異性 IgE 抗體陽性皮膚試驗或體外檢測證實",
+      "source": "FDA Biologics",
+      "date": "2026-08-26",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/allergenics/ragwitek",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
+      "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
+      "source": "FDA Biologics",
+      "date": "2026-08-26",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026-2035 年製藥 CDMO 市場規模報告",
+      "summary": "2026-2035 全球市場洞察公司",
+      "source": "Global Market Insights Inc.",
+      "date": "2026-08-26",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sbFlWbTJCOXVmZUhlaXRRVG5iZVVpWjRoelJwVTBWZGExMnYxaDZLX1JZRVdyRDNrQWJ4OEFIYk5PVlgwQ0Y1d19TdGRVbVF0QlRfMEJOUG9MVVVJVzJyR1M5SDRLS3RqaGJHTzJlLUxrUW5meHJwVmFJOA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "正在進行中 |傳染病疫苗加速審批",
+      "summary": "基於替代終點的生物加速審批",
       "source": "FDA Biologics",
       "date": "2026-08-25",
       "url": "http://www.fda.gov/drugs/accelerated-approval-program/ongoing-infectious-disease-accelerated-approvals-vaccines",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑的最新進展",
-      "summary": "來自生物製劑評估與研究中心的最新消息。",
-      "source": "FDA Biologics",
-      "date": "2026-08-25",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Neural Mechanism Identified That Drives Increased Alcohol Use in Isolated Male Mice",
-      "summary": "A study in mice has found that loneliness can reprogram the brain in ways that promote alcohol consumption, and identified a neural mechanism through which isolation escalates alcohol use in male mice, but suppresses it in females. The post Increased",
-      "source": "GEN News",
-      "date": "2026-08-25",
-      "url": "https://www.genengnews.com/topics/translational-medicine/neural-mechanism-identified-that-drives-increased-alcohol-use-in-isolated-male-mice/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "20",
+      "title": "2026年生物許可證申請核准",
       "summary": "",
       "source": "FDA Biologics",
       "date": "2026-08-24",
@@ -35,72 +75,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Biologics Procedures (SOPPs)",
-      "summary": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in 美國食藥局（FDA）'s Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as t",
-      "source": "FDA Biologics",
-      "date": "2026-08-21",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Approved Cellular and 基因療法 Products",
-      "summary": "Listing of licensed and approved products from the Office of Therapeutic Products (OTP).",
-      "source": "FDA Biologics",
-      "date": "2026-08-20",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Frequently Asked Questions — Developing Potential Cellular and 基因療法 Products",
-      "summary": "This is the guidance Potential Cellular and 基因療法 Products",
-      "source": "FDA Biologics",
-      "date": "2026-08-20",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/frequently-asked-questions-developing-potential-cellular-and-gene-therapy-products",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） Approves First Therapy for Patients aged 8 years and older with Glycogen Storage Disease Type Ia",
-      "summary": "The U.S. Food and Drug Administration today issued an accelerated approval for Genglycos (pariglasgene brecaparvovec-opnr) as the first-ever treatment for adults and children 8 years of age and older with glycogen storage disease type Ia (GSDIa)",
-      "source": "FDA Biologics",
-      "date": "2026-08-19",
-      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-therapy-patients-aged-8-years-and-older-glycogen-storage-disease-type-ia",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Biologics PREA Reviews and Labeling Changes",
-      "summary": "PREA Labeling Changes, Medical, Statistical, and Clinical Pharmacology Reviews of Pediatric Studies Conducted under Section 505B of the Federal Food, Drug, and Cosmetic Act (the Act), as amended by the 美國食藥局（FDA） Amendments Act of 2007 (FDAAA). These assess",
-      "source": "FDA Biologics",
-      "date": "2026-08-19",
-      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "嵌合抗原受體 T-細胞治療 in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica",
-      "summary": "in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica Via Medica Journals",
+      "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報",
+      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia Reports Second Quarter 2026 Business Highlights and Financial Results",
-      "summary": "siness Highlights and Financial Results GlobeNewswire",
+      "title": "BioCardia 報告 2026 年第二季業務亮點和財務業績",
+      "summary": "業務亮點和財務業績 GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia (BCDA) Q2 2026 Earnings Call Transcript",
-      "summary": "ranscript The Globe and Mail",
+      "title": "BioCardia (BCDA) 2026 年第二季財報電話會議紀錄",
+      "summary": "環球郵報手稿",
       "source": "The Globe and Mail",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "JAPAN Biomaterials Market Size, Share,Trends, Growth Analysis Report, 2030",
-      "summary": "ends, Growth Analysis Report, 2030 MarketsandMarkets",
+      "title": "日本生物材料市場規模、份額、趨勢、成長分析報告，2030 年",
+      "summary": "結束，成長分析報告，2030 年 MarketsandMarkets",
       "source": "MarketsandMarkets",
       "date": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmhMMTkwel9YaFRZOGUxYVMxWGt3SVJ3WXpxck1WX2xOOTlZck1Qc0IyYXZBOEstaVI2SzVpNTM3SGJJcUlTZjZwOVUtWmF6djNtb0VGQV8yendNWldxNmtmZ1NTdDRaWG5URm5KNEdOemp6eU5vb0dtMDh4TUFfaXVtVQ?oc=5",
