@@ -1,7 +1,39 @@
 {
   "module": "funding",
-  "updated": "2026-08-28T06:28:03.041923+00:00",
+  "updated": "2026-08-28T21:22:15.027423+00:00",
   "items": [
+    {
+      "title": "阿斯特捷利康（AstraZeneca）從失敗的心臟病研究解剖報告中，對「基因靜默藥物」提出更廣泛的質疑",
+      "summary": "阿斯特捷利康（AstraZeneca）詳細說明了一項備受關注的心臟病臨床試驗意外失敗的原因，這項研究的",
+      "source": "STAT News",
+      "date": "2026-08-28",
+      "url": "https://www.statnews.com/2026/08/28/astrazeneca-ionis-wainua-eplontersen-attr-cm-study-failure-bridgebio-alnylam/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Vaccines take center stage at federal autism advisory committee",
+      "summary": "Comments about vaccines overshadowed an advisory committee meeting to discuss a plan for boosting federal funding for autism research.",
+      "source": "STAT News",
+      "date": "2026-08-28",
+      "url": "https://www.statnews.com/2026/08/28/vaccines-autism-advisory-committee-strategic-plan-boost-research-funding/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Moderna raises $2.6B to support cancer work; 美國食藥局（FDA） clears updated COVID vaccines",
+      "summary": "Moderna&rsquo;s upsized note offering quickly followed a big win in a crucial study. Elsewhere, a biotech&rsquo;s shares tumbled after study data were &ldquo;inadvertently&rdquo; published ahead of a medical meeting.",
+      "source": "BioPharma Dive",
+      "date": "2026-08-28",
+      "url": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "This week in charts: Biotech’s rebound is undeniable",
+      "summary": "Not only is the XBI continuing to hover around a historic high, but drug companies can&rsquo;t seem to get enough of both large IPOs and big-ticket M&A.",
+      "source": "BioPharma Dive",
+      "date": "2026-08-28",
+      "url": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+: Hospitals plot their response to funding cuts",
       "summary": "Hospital prep a lobbying push, RFK Jr. faces more bad news on measles, and the cancer drug that helped Ben Sasse gets approved.",
@@ -27,30 +59,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money",
-      "summary": "KFF Health News examines how sheriffs are spending opioid settlement money, finds they're spending millions on police gear.",
-      "source": "STAT News",
-      "date": "2026-08-27",
-      "url": "https://www.statnews.com/2026/08/27/opioid-settlement-funds-enforcement-or-treatment-louisiana-sheriff-investigation/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Hospitals are plotting a long-shot push to roll back $1 trillion in Medicaid cuts",
-      "summary": "Inside health systems' efforts to mitigate massive funding cuts.",
-      "source": "STAT News",
-      "date": "2026-08-27",
-      "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-reverse-medicaid-cuts-part-2-unraveled-series/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Key data on a new class of cardio drugs are coming",
-      "summary": "GSK's shingles vaccine, new financial investment in women's health, and more biotech news from The Readout",
-      "source": "STAT News",
-      "date": "2026-08-26",
-      "url": "https://www.statnews.com/2026/08/26/biotech-news-key-data-on-new-class-of-cardio-drugs-coming/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Spyre tumbles as immune drug misses mark in rheumatoid arthritis",
       "summary": "The results erased more than $1 billion in market value and raised questions about how impactful drugs that block the TL1A protein might be against the condition.",
       "source": "BioPharma Dive",
@@ -59,35 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Biohaven trades cash for ‘upside’ with $795M epilepsy drug deal",
-      "summary": "Faced with a dwindling bank account after a series of research setbacks, Biohaven is letting go of its most advanced experimental drug in a deal one analyst viewed as a &ldquo;surprising&rdquo; transaction.",
+      "title": "Biohaven為換取未來潛力，以7.95億美元出售癲癇藥物",
+      "summary": "Biohaven因研究受挫，以7.95億美元出售癲癇藥物，換取現金與未來發展機會。",
       "source": "BioPharma Dive",
       "date": "2026-08-26",
       "url": "https://www.biopharmadive.com/news/biohaven-sk-opakalim-epilepsy-drug-deal/828799/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Zepbound may cut healthcare costs, study says; Summit, Akeso drug hits in another China trial",
-      "summary": "A real-world study suggests Zepbound use could reduce the rates of hospital stays and ER visits. Elsewhere, McKesson sprung for a multibillion-dollar deal and J&J nabbed a noteworthy approval.",
-      "source": "BioPharma Dive",
-      "date": "2026-08-26",
-      "url": "https://www.biopharmadive.com/news/zepbound-costs-ivonescimab-mckesson-sentivera-imaavy-bausch/828680/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Will a ‘reset’ reignite investment in women’s health startups?",
-      "summary": "After peaking in 2024, venture investments in startups involved in the space declined last year. But a broader adoption of AI and a widening definition of what constitutes women&rsquo;s health could spur a rebound, some say.",
-      "source": "BioPharma Dive",
-      "date": "2026-08-25",
-      "url": "https://www.biopharmadive.com/news/womens-health-startups-venture-investment-svb-report/828632/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Longeveron Q2 EPS $(0.19) Misses Estimate, Sales Fall 9%",
-      "summary": "e, Sales Fall 9% scanx.trade",
-      "source": "scanx.trade",
-      "date": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnE0d19OTlNyMmlBS3VOeUFSRnA4NUc4Sjh5aUtlOWM2R0ZQN0lHbXkyaHpvV2QxdkkwWU51c2NjOER4YWZzRk5idkJ4djRpRzVGNl9OWjA1NkhIYklkelp3bUdsZEo5VzNqNmR0eUE2UVVCNEZpblg3UVRjczhxVXowM2xvRzhEemNfYUtYMjQ0X19WTmNkajhEaHE3SENEeUQ3SW9Ra3lQT1FX?oc=5",
       "lang": "zh-TW"
     }
   ]
