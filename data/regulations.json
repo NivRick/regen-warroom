@@ -1,26 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-08-27T20:56:11.115102+00:00",
+  "updated": "2026-08-28T06:27:44.876623+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
-      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-08-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品藥物管理局（FDA）圓桌會議：強化血液製品製造供應鏈",
-      "summary": "美國FDA將舉辦圓桌會議，探討如何強化血液製品製造的",
+      "title": "美國食品藥物管理局（FDA）圓桌會議：強化血液製品供應鏈",
+      "summary": "美國食品藥物管理局（FDA）",
       "source": "09/29/2026",
       "date": "2026-08-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
       "lang": "zh-TW"
     },
     {
-      "title": "泰尼維克",
-      "summary": "是一項產品批准，適用於 7 歲及以上人士主動免疫預防破傷風和白喉。",
+      "title": "TENIVAC",
+      "summary": "is a product approval Indicated for active immunization for the prevention of tetanus and diphtheria in persons 7 years of age and older.",
       "source": "FDA Biologics",
       "date": "2026-08-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/tenivac",
@@ -34,80 +34,80 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     },
     {
-      "title": "Seraclone 血型試劑和抗人球蛋白試劑（STN# 125213、125215、125217、125219",
-      "summary": "產品核准資訊用於確定紅血球上的血型抗原以及使用管測試檢測體內和/或體外紅血球塗層。",
+      "title": "Seraclone Blood Grouping Reagents and Anti-Human Globulin Reagents (STN# 125213, 125215, 125217, 125219",
+      "summary": "Product approval information is indicated for the determination of the blood group antigens on red blood cells and detecting 體內實驗 and /or 體外實驗 coating of red blood cells using the tube test.",
       "source": "125233, 125242)",
       "date": "2026-08-26",
       "url": "http://www.fda.gov/vaccines-blood-biologics/seraclone-blood-grouping-reagents-and-anti-human-globulin-reagents-stn-125213-125215-125217-125219",
       "lang": "zh-TW"
     },
     {
-      "title": "重組",
-      "summary": "產品核准資訊適用於 A 型血友病（經典血友病）患者的圍手術期管理和出血事件的控制。",
+      "title": "Recombinate",
+      "summary": "Product approval information is indicated in the perioperative management of patients with hemophilia A (classical hemophilia) and control of hemorrhagic episodes.",
       "source": "FDA Biologics",
       "date": "2026-08-26",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/recombinate",
       "lang": "zh-TW"
     },
     {
-      "title": "凱德布明",
-      "summary": "產品核准資訊適用於： o 低血容休克\no 低蛋白血症\no 預防肝硬化腹水所引起的腹腔穿刺後中心容量不足\no 卵巢過度刺激症候群 (OHSS)\no 成人呼吸窘迫症候群",
+      "title": "Kedbumin",
+      "summary": "Product approval information is indicated for: o\tHypovolemic shock\no\tHypoalbuminemia\no\tPrevention of central volume depletion after paracentesis due to cirrhotic ascites\no\tOvarian Hyperstimulation Syndrome (OHSS)\no\tAdult Respiratory Distress Syndrome",
       "source": "FDA Biologics",
       "date": "2026-08-26",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/kedbumin",
       "lang": "zh-TW"
     },
     {
-      "title": "瑞威泰克",
-      "summary": "用於治療短豚草花粉誘發的過敏性鼻炎（伴有或不伴有結膜炎）的產品批准信息，通過短豚草花粉的花粉特異性 IgE 抗體陽性皮膚試驗或體外檢測證實",
+      "title": "RAGWITEK",
+      "summary": "Product approval information for the treatment of short ragweed pollen-induced allergic rhinitis, with or without conjunctivitis, confirmed by positive skin test or 體外實驗 testing for pollen-specific IgE antibodies for short ragweed pollen approved",
       "source": "FDA Biologics",
       "date": "2026-08-26",
       "url": "http://www.fda.gov/vaccines-blood-biologics/allergenics/ragwitek",
       "lang": "zh-TW"
     },
     {
-      "title": "利用先驗知識開發結合基因組編輯的人類基因治療產品",
-      "summary": "這是包含基因組編輯的人類基因治療產品的產業指南草案",
+      "title": "Leveraging Prior Knowledge in the Development of Human 基因療法 Products Incorporating Genome Editing",
+      "summary": "This is the Draft Guidance for Industry, pment of Human 基因療法 Products Incorporating Genome Editing",
       "source": "FDA Biologics",
       "date": "2026-08-26",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/leveraging-prior-knowledge-development-human-gene-therapy-products-incorporating-genome-editing",
       "lang": "zh-TW"
     },
     {
-      "title": "2026-2035 年製藥 CDMO 市場規模報告",
-      "summary": "2026-2035 全球市場洞察公司",
+      "title": "Pharmaceutical CDMO Market Size, Report 2026-2035",
+      "summary": "2026-2035 Global Market Insights Inc.",
       "source": "Global Market Insights Inc.",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sbFlWbTJCOXVmZUhlaXRRVG5iZVVpWjRoelJwVTBWZGExMnYxaDZLX1JZRVdyRDNrQWJ4OEFIYk5PVlgwQ0Y1d19TdGRVbVF0QlRfMEJOUG9MVVVJVzJyR1M5SDRLS3RqaGJHTzJlLUxrUW5meHJwVmFJOA?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報",
-      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
+      "title": "嵌合抗原受體 T-細胞治療 in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica",
+      "summary": "in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica Via Medica Journals",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 公布 2026 年第二季營運亮點與財務報告",
-      "summary": "GlobeNewswire 報導 BioCardia 公布 2026 年第二季營運亮點與財務報告。",
+      "title": "BioCardia Reports Second Quarter 2026 Business Highlights and Financial Results",
+      "summary": "siness Highlights and Financial Results GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia (BCDA) 2026 年第二季財報電話會議紀錄",
-      "summary": "環球郵報手稿",
+      "title": "BioCardia (BCDA) Q2 2026 Earnings Call Transcript",
+      "summary": "ranscript The Globe and Mail",
       "source": "The Globe and Mail",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "2030 年日本生醫材料市場規模、市佔率",
-      "summary": "",
+      "title": "JAPAN Biomaterials Market Size, Share,Trends, Growth Analysis Report, 2030",
+      "summary": "ends, Growth Analysis Report, 2030 MarketsandMarkets",
       "source": "MarketsandMarkets",
       "date": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmhMMTkwel9YaFRZOGUxYVMxWGt3SVJ3WXpxck1WX2xOOTlZck1Qc0IyYXZBOEstaVI2SzVpNTM3SGJJcUlTZjZwOVUtWmF6djNtb0VGQV8yendNWldxNmtmZ1NTdDRaWG5URm5KNEdOemp6eU5vb0dtMDh4TUFfaXVtVQ?oc=5",

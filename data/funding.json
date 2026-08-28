@@ -1,85 +1,93 @@
 {
   "module": "funding",
-  "updated": "2026-08-27T20:57:21.437762+00:00",
+  "updated": "2026-08-28T06:28:03.041923+00:00",
   "items": [
     {
-      "title": "STAT+：醫院計畫應對經費削減",
-      "summary": "醫院準備進行遊說活動，小羅伯特·甘迺迪面臨更多關於麻疹的壞消息，而幫助本·薩斯的抗癌藥物獲得批准。",
+      "title": "STAT+: Hospitals plot their response to funding cuts",
+      "summary": "Hospital prep a lobbying push, RFK Jr. faces more bad news on measles, and the cancer drug that helped Ben Sasse gets approved.",
       "source": "STAT News",
       "date": "2026-08-27",
       "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關胰腺癌藥物批准、川普與生物技術公司達成的協議等等",
-      "summary": "美國食藥局（FDA） 批准了 Revolution Medicines 的晚期胰腺癌延長生命治療方法，這是第一個針對遺傳原因的治療方法",
+      "title": "STAT+: Pharmalittle: We’re reading about a pancreatic cancer drug approval, a Trump deal with biotechs, and more",
+      "summary": "The 美國食藥局（FDA） approved a life-extending treatment for advanced pancreatic cancer from Revolution Medicines that is the first to attack a genetic cause",
       "source": "STAT News",
       "date": "2026-08-27",
       "url": "https://www.statnews.com/pharmalot/2026/08/27/pancreatic-cancer-drug-approved-trump-deal-with-biotechs/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：卡西迪在新報告中批評 美國食藥局（FDA） 對墮胎藥製造商的監督",
-      "summary": "該報告給海蒂·奧弗頓（Heidi Overton）提出了一個備受矚目的問題，因為她將被任命為 美國食藥局（FDA） 專員。",
+      "title": "STAT+: Cassidy criticizes 美國食藥局（FDA） oversight of abortion pill manufacturers in new report",
+      "summary": "The report raises a high-profile issue for Heidi Overton as she faces confirmation as 美國食藥局（FDA） commissioner.",
       "source": "STAT News",
       "date": "2026-08-27",
       "url": "https://www.statnews.com/2026/08/27/bill-cassidy-louisiana-senator-new-report-mifepristone-heidi-overton/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "一個州向治安官提供了 20% 的阿片類藥物結算現金。我們跟著錢",
-      "summary": "KFF 健康新聞調查了治安官如何使用阿片類藥物和解金，發現他們在警用裝備上花費了數百萬美元。",
+      "title": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money",
+      "summary": "KFF Health News examines how sheriffs are spending opioid settlement money, finds they're spending millions on police gear.",
       "source": "STAT News",
       "date": "2026-08-27",
       "url": "https://www.statnews.com/2026/08/27/opioid-settlement-funds-enforcement-or-treatment-louisiana-sheriff-investigation/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "醫院正在密謀一項不太可能的舉措，以減少 1 兆美元的醫療補助削減",
-      "summary": "衛生系統為緩解大規模資金削減所做的努力。",
+      "title": "Hospitals are plotting a long-shot push to roll back $1 trillion in Medicaid cuts",
+      "summary": "Inside health systems' efforts to mitigate massive funding cuts.",
       "source": "STAT News",
       "date": "2026-08-27",
       "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-reverse-medicaid-cuts-part-2-unraveled-series/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：新型心臟藥物的關鍵數據即將到來",
-      "summary": "葛蘭素史克的帶狀皰疹疫苗、對女性健康的新財務投資以及更多來自 The Readout 的生物技術新聞",
+      "title": "STAT+: Key data on a new class of cardio drugs are coming",
+      "summary": "GSK's shingles vaccine, new financial investment in women's health, and more biotech news from The Readout",
       "source": "STAT News",
       "date": "2026-08-26",
       "url": "https://www.statnews.com/2026/08/26/biotech-news-key-data-on-new-class-of-cardio-drugs-coming/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Spyre 因免疫藥物在類風濕性關節炎中未能發揮作用而下跌",
-      "summary": "結果使超過 10 億美元的市場價值消失，並引發了人們對阻斷 TL1A 蛋白的藥物對治療這種疾病的影響有多大的疑問。",
+      "title": "Spyre tumbles as immune drug misses mark in rheumatoid arthritis",
+      "summary": "The results erased more than $1 billion in market value and raised questions about how impactful drugs that block the TL1A protein might be against the condition.",
       "source": "BioPharma Dive",
       "date": "2026-08-26",
       "url": "https://www.biopharmadive.com/news/spyre-rheumatoid-arthritis-drug-study-results-skyway/828809/",
       "lang": "zh-TW"
     },
     {
-      "title": "Biohaven 透過 7.95 億美元的癲癇藥物交易以現金換取“上行空間”",
-      "summary": "經過一系列研究挫折後，面對銀行帳戶不斷減少的情況，Biohaven 放棄了其最先進的實驗藥物，一位分析師認為這是「令人驚訝」的交易。",
+      "title": "Biohaven trades cash for ‘upside’ with $795M epilepsy drug deal",
+      "summary": "Faced with a dwindling bank account after a series of research setbacks, Biohaven is letting go of its most advanced experimental drug in a deal one analyst viewed as a &ldquo;surprising&rdquo; transaction.",
       "source": "BioPharma Dive",
       "date": "2026-08-26",
       "url": "https://www.biopharmadive.com/news/biohaven-sk-opakalim-epilepsy-drug-deal/828799/",
       "lang": "zh-TW"
     },
     {
-      "title": "Zepbound可能降低醫療成本，研究指出；信達生物、康方生物藥物在中國另一項試驗中傳出捷報",
-      "summary": "一項研究指出Zepbound有望降低醫療費用。此外，信達生物與康方生物的藥物在中國臨床試驗中再次取得成功。",
+      "title": "Zepbound may cut healthcare costs, study says; Summit, Akeso drug hits in another China trial",
+      "summary": "A real-world study suggests Zepbound use could reduce the rates of hospital stays and ER visits. Elsewhere, McKesson sprung for a multibillion-dollar deal and J&J nabbed a noteworthy approval.",
       "source": "BioPharma Dive",
       "date": "2026-08-26",
       "url": "https://www.biopharmadive.com/news/zepbound-costs-ivonescimab-mckesson-sentivera-imaavy-bausch/828680/",
       "lang": "zh-TW"
     },
     {
-      "title": "「重啟」能否再次點燃女性健康新創的投資熱潮？",
-      "summary": "創投對女性健康新創的投資在去年下滑，但業界期待透過「重啟」策略，結合AI應用，能再次吸引資金。",
+      "title": "Will a ‘reset’ reignite investment in women’s health startups?",
+      "summary": "After peaking in 2024, venture investments in startups involved in the space declined last year. But a broader adoption of AI and a widening definition of what constitutes women&rsquo;s health could spur a rebound, some say.",
       "source": "BioPharma Dive",
       "date": "2026-08-25",
       "url": "https://www.biopharmadive.com/news/womens-health-startups-venture-investment-svb-report/828632/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Longeveron Q2 EPS $(0.19) Misses Estimate, Sales Fall 9%",
+      "summary": "e, Sales Fall 9% scanx.trade",
+      "source": "scanx.trade",
+      "date": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnE0d19OTlNyMmlBS3VOeUFSRnA4NUc4Sjh5aUtlOWM2R0ZQN0lHbXkyaHpvV2QxdkkwWU51c2NjOER4YWZzRk5idkJ4djRpRzVGNl9OWjA1NkhIYklkelp3bUdsZEo5VzNqNmR0eUE2UVVCNEZpblg3UVRjczhxVXowM2xvRzhEemNfYUtYMjQ0X19WTmNkajhEaHE3SENEeUQ3SW9Ra3lQT1FX?oc=5",
       "lang": "zh-TW"
     }
   ]
