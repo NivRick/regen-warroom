@@ -1,18 +1,50 @@
 {
   "module": "regulation",
-  "updated": "2026-08-28T21:20:56.593479+00:00",
+  "updated": "2026-08-29T04:00:53.264114+00:00",
   "items": [
     {
-      "title": "生物製劑相關研討會、會議與論壇",
-      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）主辦或協辦的各類生物製劑相關會議、研討會與論壇資訊，旨在教育大眾並徵求意見。",
+      "title": "What’s New for Biologics",
+      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "source": "FDA Biologics",
+      "date": "2026-08-28",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Biologics Procedures (SOPPs)",
+      "summary": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in 美國食藥局（FDA）'s Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as t",
+      "source": "FDA Biologics",
+      "date": "2026-08-28",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Regulatory Education for Industry (REdI) Annual Conference 2026: Innovative Regulatory Strategies to Advance Medical Products",
+      "summary": "Learn directly from the 美國食藥局（FDA）’s regulatory experts in medical product centers: drugs, devices, and biologics.",
+      "source": "05/19/2026",
+      "date": "2026-08-28",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/regulatory-education-industry-redi-annual-conference-2026-innovative-regulatory-strategies-advance",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） Roundtable: Strengthening the Supply Chain for Blood Manufacturing",
+      "summary": "On September 29, 2026, the Food and Drug Administration’s, Center for Biologics Evaluation and Research, Office of Blood Research and Review is hosting a roundtable on strengthening the supply chain for the collection and manufacturing of Whole Blood",
+      "source": "09/29/2026",
+      "date": "2026-08-28",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Workshops, Meetings & Conferences (Biologics)",
+      "summary": "Information on CBER sponsored or co-sponsored meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties.",
       "source": "FDA Biologics",
       "date": "2026-08-28",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物",
-      "summary": "",
+      "title": "News & Events (Biologics)",
+      "summary": "Information on recently posted Web pages, meetings, conferences, and workshops.",
       "source": "FDA Biologics",
       "date": "2026-08-28",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics",
@@ -35,43 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） Roundtable: Strengthening the Supply Chain for Blood Manufacturing",
-      "summary": "On September 29, 2026, the Food and Drug Administration’s, Center for Biologics Evaluation and Research, Office of Blood Research and Review is hosting a roundtable on strengthening the supply chain for the collection and manufacturing of Whole Blood",
-      "source": "09/29/2026",
-      "date": "2026-08-28",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "What’s New for Biologics",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
-      "source": "FDA Biologics",
-      "date": "2026-08-27",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "TENIVAC",
-      "summary": "is a product approval Indicated for active immunization for the prevention of tetanus and diphtheria in persons 7 years of age and older.",
-      "source": "FDA Biologics",
-      "date": "2026-08-27",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/tenivac",
-      "lang": "zh-TW"
-    },
-    {
       "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
       "summary": "",
       "source": "報導者The Reporter",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
-    },
-    {
-      "title": "Seraclone Blood Grouping Reagents and Anti-Human Globulin Reagents (STN# 125213, 125215, 125217, 125219",
-      "summary": "Product approval information is indicated for the determination of the blood group antigens on red blood cells and detecting 體內實驗 and /or 體外實驗 coating of red blood cells using the tube test.",
-      "source": "125233, 125242)",
-      "date": "2026-08-26",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/seraclone-blood-grouping-reagents-and-anti-human-globulin-reagents-stn-125213-125215-125217-125219",
-      "lang": "zh-TW"
     },
     {
       "title": "Pharmaceutical CDMO Market Size, Report 2026-2035",
@@ -90,8 +90,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia公布2026年第二季營運亮點與財報結果",
-      "summary": "BioCardia公布2026年第二季營運亮點與財報結果，提供投資人最新營運概況。",
+      "title": "BioCardia Reports Second Quarter 2026 Business Highlights and Financial Results",
+      "summary": "siness Highlights and Financial Results GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
@@ -106,8 +106,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "日本生醫材料市場規模、市佔率、趨",
-      "summary": "",
+      "title": "JAPAN Biomaterials Market Size, Share,Trends, Growth Analysis Report, 2030",
+      "summary": "ends, Growth Analysis Report, 2030 MarketsandMarkets",
       "source": "MarketsandMarkets",
       "date": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmhMMTkwel9YaFRZOGUxYVMxWGt3SVJ3WXpxck1WX2xOOTlZck1Qc0IyYXZBOEstaVI2SzVpNTM3SGJJcUlTZjZwOVUtWmF6djNtb0VGQV8yendNWldxNmtmZ1NTdDRaWG5URm5KNEdOemp6eU5vb0dtMDh4TUFfaXVtVQ?oc=5",
