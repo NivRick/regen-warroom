@@ -1,66 +1,66 @@
 {
   "module": "regulation",
-  "updated": "2026-08-29T04:00:53.264114+00:00",
+  "updated": "2026-08-29T15:26:40.347318+00:00",
   "items": [
     {
-      "title": "What’s New for Biologics",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-08-28",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "Biologics Procedures (SOPPs)",
-      "summary": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in 美國食藥局（FDA）'s Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as t",
+      "title": "生物製劑相關程序（標準作業程序與政策，SOPPs）",
+      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）員工執行業務時所依循的規範。",
       "source": "FDA Biologics",
       "date": "2026-08-28",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "Regulatory Education for Industry (REdI) Annual Conference 2026: Innovative Regulatory Strategies to Advance Medical Products",
-      "summary": "Learn directly from the 美國食藥局（FDA）’s regulatory experts in medical product centers: drugs, devices, and biologics.",
+      "title": "2026年產業法規教育（REdI）年會：推動醫療產品創新的法規策略",
+      "summary": "直接向美國食品藥物管理局（FDA）藥品、醫材及生物製劑等醫療產品中心的法規專家學習。",
       "source": "05/19/2026",
       "date": "2026-08-28",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/regulatory-education-industry-redi-annual-conference-2026-innovative-regulatory-strategies-advance",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） Roundtable: Strengthening the Supply Chain for Blood Manufacturing",
-      "summary": "On September 29, 2026, the Food and Drug Administration’s, Center for Biologics Evaluation and Research, Office of Blood Research and Review is hosting a roundtable on strengthening the supply chain for the collection and manufacturing of Whole Blood",
+      "title": "美國食品藥物管理局（FDA）圓桌會議：強化血液製品供應鏈",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的血液研究與審查辦公室，將於2026年9月29日舉辦此會議。",
       "source": "09/29/2026",
       "date": "2026-08-28",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
       "lang": "zh-TW"
     },
     {
-      "title": "Workshops, Meetings & Conferences (Biologics)",
-      "summary": "Information on CBER sponsored or co-sponsored meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties.",
+      "title": "生物製劑相關研討會、會議與論壇",
+      "summary": "提供美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）主辦或協辦的各類生物製劑相關會議、論壇與研討會資訊，旨在教育大眾並徵求意見。",
       "source": "FDA Biologics",
       "date": "2026-08-28",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "News & Events (Biologics)",
-      "summary": "Information on recently posted Web pages, meetings, conferences, and workshops.",
+      "title": "生物製劑相關新聞與活動",
+      "summary": "提供近期發布的網頁、會議、論壇與研討會等資訊。",
       "source": "FDA Biologics",
       "date": "2026-08-28",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "Meeting 1: Patient and Care Partner Perspectives on Safety Considerations for Approved 基因療法 Treatments for Rare Diseases",
-      "summary": "美國食藥局（FDA） CBER Patient Listening Meeting: Patient and Care Partner Perspectives on Safety Considerations for Approved 基因療法 Treatments for Rare Diseases",
+      "title": "會議一：罕見疾病已核准基因療法之安全考量，病患與照護夥伴觀點",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）舉辦的病患意見交流會，探討罕見疾病已核准基因療法治療的安全考量，並聽取病患與照護夥伴的觀點。",
       "source": "09/20/2024",
       "date": "2026-08-28",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/meeting-1-patient-and-care-partner-perspectives-safety-considerations-approved-gene-therapy",
       "lang": "zh-TW"
     },
     {
-      "title": "Meeting 2: Patient and Care Partner Perspectives on Early Enrollment into 基因療法 臨床試驗 for Rare Diseases",
-      "summary": "基因療法 trials inform risks & benefits for informed decisions. Long-term follow-up crucial for safety & durability assessment.",
+      "title": "會議二：罕見疾病基因療法臨床試驗早期收案，病患與照護夥伴觀點",
+      "summary": "基因療法臨床試驗能提供風險與效益資訊，以利做出知情決定；長期追蹤對評估安全性與療效持久性至關重要。",
       "source": "FDA Biologics",
       "date": "2026-08-28",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/meeting-2-patient-and-care-partner-perspectives-early-enrollment-gene-therapy-clinical-trials-rare",
@@ -74,40 +74,40 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     },
     {
-      "title": "Pharmaceutical CDMO Market Size, Report 2026-2035",
-      "summary": "2026-2035 Global Market Insights Inc.",
+      "title": "2026-2035年製藥委託開發製造服務（CDMO）市場規模報告",
+      "summary": "本報告預測2026至2035年全球製藥委託開發製造服務（CDMO）市場規模。",
       "source": "Global Market Insights Inc.",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sbFlWbTJCOXVmZUhlaXRRVG5iZVVpWjRoelJwVTBWZGExMnYxaDZLX1JZRVdyRDNrQWJ4OEFIYk5PVlgwQ0Y1d19TdGRVbVF0QlRfMEJOUG9MVVVJVzJyR1M5SDRLS3RqaGJHTzJlLUxrUW5meHJwVmFJOA?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "嵌合抗原受體 T-細胞治療 in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica",
-      "summary": "in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica Via Medica Journals",
+      "title": "2026年嵌合抗原受體T細胞療法（CAR-T）於多發性骨髓瘤的應用：核准適應症、長期療效、毒性、治療順序與新興平台綜述",
+      "summary": "本文回顧2026年嵌合抗原受體T細胞療法（CAR-T）在多發性骨髓瘤的應用現況與未來發展。",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia Reports Second Quarter 2026 Business Highlights and Financial Results",
-      "summary": "siness Highlights and Financial Results GlobeNewswire",
+      "title": "BioCardia 公布2026年第二季營運亮點與財務表現",
+      "summary": "BioCardia發布2026年第二季財報，揭露公司營運重點與財務狀況。",
       "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia (BCDA) Q2 2026 Earnings Call Transcript",
-      "summary": "ranscript The Globe and Mail",
+      "title": "BioCardia (BCDA) 2026年第二季法說會逐字稿",
+      "summary": "BioCardia (BCDA) 公布2026年第二季財報電話會議的完整逐字稿。",
       "source": "The Globe and Mail",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "JAPAN Biomaterials Market Size, Share,Trends, Growth Analysis Report, 2030",
-      "summary": "ends, Growth Analysis Report, 2030 MarketsandMarkets",
+      "title": "2030年日本生物材料市場規模、市佔、趨勢與成長分析報告",
+      "summary": "本報告深入分析2030年日本生物材料市場，涵蓋規模、市佔率、趨勢及成長潛力。",
       "source": "MarketsandMarkets",
       "date": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmhMMTkwel9YaFRZOGUxYVMxWGt3SVJ3WXpxck1WX2xOOTlZck1Qc0IyYXZBOEstaVI2SzVpNTM3SGJJcUlTZjZwOVUtWmF6djNtb0VGQV8yendNWldxNmtmZ1NTdDRaWG5URm5KNEdOemp6eU5vb0dtMDh4TUFfaXVtVQ?oc=5",

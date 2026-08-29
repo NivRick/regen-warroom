@@ -1,74 +1,66 @@
 {
   "module": "funding",
-  "updated": "2026-08-29T04:01:10.768472+00:00",
+  "updated": "2026-08-29T15:27:06.278517+00:00",
   "items": [
     {
-      "title": "STAT+: In autopsy of failed heart disease study, AstraZeneca raises broader questions about silencer drugs",
-      "summary": "AstraZeneca detailed the surprise failure of a closely watched heart disease trial, a study with ripple effects for a competitive billion-dollar market.",
+      "title": "阿斯特捷利康心臟病研究失利解剖，引發對基因靜默藥物更廣泛的質疑",
+      "summary": "阿斯特捷利康（AstraZeneca）詳細說明了一項備受關注的心臟病臨床試驗意外失利，這項研究對競爭激烈的數十億美元",
       "source": "STAT News",
       "date": "2026-08-28",
       "url": "https://www.statnews.com/2026/08/28/astrazeneca-ionis-wainua-eplontersen-attr-cm-study-failure-bridgebio-alnylam/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Vaccines take center stage at federal autism advisory committee",
-      "summary": "Comments about vaccines overshadowed an advisory committee meeting to discuss a plan for boosting federal funding for autism research.",
+      "title": "疫苗成為聯邦自閉症諮詢委員會的焦點",
+      "summary": "有關疫苗的評論給諮詢委員會會議蒙上了陰影，該會議討論了增加自閉症研究聯邦資金的計劃。",
       "source": "STAT News",
       "date": "2026-08-28",
       "url": "https://www.statnews.com/2026/08/28/vaccines-autism-advisory-committee-strategic-plan-boost-research-funding/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Moderna raises $2.6B to support cancer work; 美國食藥局（FDA） clears updated COVID vaccines",
-      "summary": "Moderna&rsquo;s upsized note offering quickly followed a big win in a crucial study. Elsewhere, a biotech&rsquo;s shares tumbled after study data were &ldquo;inadvertently&rdquo; published ahead of a medical meeting.",
+      "title": "Moderna 籌集了 $2.6B 以支持癌症工作； 美國食藥局（FDA） 批准更新的新冠疫苗",
+      "summary": "在一項重要研究取得重大勝利後，Moderna 很快就推出了大額紙幣發行。在其他地方，由於研究數據在醫學會議之前「無意中」發布，一家生物技術公司的股價暴跌。",
       "source": "BioPharma Dive",
       "date": "2026-08-28",
       "url": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
       "lang": "zh-TW"
     },
     {
-      "title": "This week in charts: Biotech’s rebound is undeniable",
-      "summary": "Not only is the XBI continuing to hover around a historic high, but drug companies can&rsquo;t seem to get enough of both large IPOs and big-ticket M&A.",
+      "title": "本週圖表：生物技術的反彈是不可否認的",
+      "summary": "XBI 不僅繼續徘徊在歷史高點附近，而且製藥公司似乎對大型 首次公開上市（IPO） 和大額併購還不夠。",
       "source": "BioPharma Dive",
       "date": "2026-08-28",
       "url": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Hospitals plot their response to funding cuts",
-      "summary": "Hospital prep a lobbying push, RFK Jr. faces more bad news on measles, and the cancer drug that helped Ben Sasse gets approved.",
+      "title": "STAT+：醫院計畫應對經費削減",
+      "summary": "醫院準備進行遊說活動，小羅伯特·甘迺迪面臨更多關於麻疹的壞消息，而幫助本·薩斯的抗癌藥物獲得批准。",
       "source": "STAT News",
       "date": "2026-08-27",
       "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Pharmalittle: We’re reading about a pancreatic cancer drug approval, a Trump deal with biotechs, and more",
-      "summary": "The 美國食藥局（FDA） approved a life-extending treatment for advanced pancreatic cancer from Revolution Medicines that is the first to attack a genetic cause",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關胰腺癌藥物批准、川普與生物技術公司達成的協議等等",
+      "summary": "美國食藥局（FDA） 批准了 Revolution Medicines 的晚期胰腺癌延長生命治療方法，這是第一個針對遺傳原因的治療方法",
       "source": "STAT News",
       "date": "2026-08-27",
       "url": "https://www.statnews.com/pharmalot/2026/08/27/pancreatic-cancer-drug-approved-trump-deal-with-biotechs/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Cassidy criticizes 美國食藥局（FDA） oversight of abortion pill manufacturers in new report",
-      "summary": "The report raises a high-profile issue for Heidi Overton as she faces confirmation as 美國食藥局（FDA） commissioner.",
-      "source": "STAT News",
-      "date": "2026-08-27",
-      "url": "https://www.statnews.com/2026/08/27/bill-cassidy-louisiana-senator-new-report-mifepristone-heidi-overton/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Spyre tumbles as immune drug misses mark in rheumatoid arthritis",
-      "summary": "The results erased more than $1 billion in market value and raised questions about how impactful drugs that block the TL1A protein might be against the condition.",
+      "title": "Spyre 因免疫藥物在類風濕性關節炎中未能發揮作用而下跌",
+      "summary": "結果使超過 10 億美元的市場價值消失，並引發了人們對阻斷 TL1A 蛋白的藥物對治療這種疾病的影響有多大的疑問。",
       "source": "BioPharma Dive",
       "date": "2026-08-26",
       "url": "https://www.biopharmadive.com/news/spyre-rheumatoid-arthritis-drug-study-results-skyway/828809/",
       "lang": "zh-TW"
     },
     {
-      "title": "Biohaven trades cash for ‘upside’ with $795M epilepsy drug deal",
-      "summary": "Faced with a dwindling bank account after a series of research setbacks, Biohaven is letting go of its most advanced experimental drug in a deal one analyst viewed as a &ldquo;surprising&rdquo; transaction.",
+      "title": "Biohaven 透過 7.95 億美元的癲癇藥物交易以現金換取“上行空間”",
+      "summary": "經過一系列研究挫折後，面對銀行帳戶不斷減少的情況，Biohaven 放棄了其最先進的實驗藥物，一位分析師認為這是「令人驚訝」的交易。",
       "source": "BioPharma Dive",
       "date": "2026-08-26",
       "url": "https://www.biopharmadive.com/news/biohaven-sk-opakalim-epilepsy-drug-deal/828799/",
