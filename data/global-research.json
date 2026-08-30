@@ -1,10 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-08-30T00:53:51.542633+00:00",
+  "updated": "2026-08-30T15:09:20.439160+00:00",
   "items": [
     {
-      "title": "結合工程化PRP外泌體、能讓PHD2基因靜默的多功能DECM/PLMA水凝膠，用於皮膚傷口修復",
-      "summary": "皮膚缺損修復一直是臨床上的大難題，常面臨持續感染、血管新生不足及發炎反應失調等問題。",
+      "title": "超分子工程將纖維蛋白原轉化為具增強生物活性的纖維蛋白基質",
+      "summary": "纖維蛋白是血液凝固的關鍵成分，透過提供機械支撐、結合生長因子並促進細胞生長，來支持傷口癒合。",
+      "source": "PubMed",
+      "date": "2026-08-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668467/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "結合工程",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-08-30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42620350/",
@@ -35,6 +43,22 @@
       "lang": "zh-TW"
     },
     {
+      "title": "Advanced therapy medicinal products in Saudi Arabia: Regulation and development.",
+      "summary": "Advanced therapeutic medicinal products (ATMPs) such as gene, somatic cell, and tissue-engineered therapies have transformed modern healthcare by treating previously unmanageable genetic, oncologic, and degenerative diseases. Although regulatory and developmental frameworks for ATMPs are established...",
+      "source": "PubMed",
+      "date": "2026-08-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668627/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Optimizing nucleic acid delivery using PF14 peptide and lipid nanoparticle systems.",
+      "summary": "Nucleic acid-based therapeutics are a rapidly expanding class of precision medicines capable of directly modulating gene expression. However, their clinical application is limited by challenges in cellular delivery, including large molecular size, hydrophilicity, and susceptibility to enzymatic degr...",
+      "source": "PubMed",
+      "date": "2026-08-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668503/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "Animal 類器官 as models for integrated One Health research.",
       "summary": "Emerging infectious diseases, driven by climate change, urbanization, and global wildlife trade, pose significant threats to public health, ecosystems, and biodiversity. The One Health (OH) approach, which emphasizes the interconnectedness of human, animal, and environmental health, is critical to a...",
       "source": "PubMed",
@@ -43,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Research advances in microneedle-外泌體 delivery systems for the treatment of multisystem diseases.",
-      "summary": "The combined application of microneedles (MNs) and 外泌體 represents a significant research direction in the fields of targeted drug delivery and 再生醫療. Their synergistic and complementary effects not only address key technical challenges associated with 外泌體 delivery-such as lo...",
+      "title": "微針-外泌體遞送系統在多系統疾病治療上的研究進展",
+      "summary": "微針（MNs）與外泌體的結合應用，在靶向藥物遞送等領域，代表著一個重要的研究方向。",
       "source": "PubMed",
       "date": "2026-08-30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42633397/",
       "lang": "zh-TW"
     },
     {
-      "title": "Global trends in CAR-T細胞療法 細胞治療 for multiple myeloma: A bibliometric analysis, 2013-2025.",
-      "summary": "CAR-T細胞療法 細胞治療 has dramatically changed the treatment paradigm for relapsed/refractory multiple myeloma (R/R MM). Nevertheless, there is a notable paucity of comprehensive bibliometric analyses within this specialized domain. On January 26, 2026, publications on CAR-T細胞療法 細胞治療 for MM (2013-2...",
+      "title": "嵌合抗原受體T細胞療法（CAR-",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-08-30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42623170/",
@@ -67,8 +91,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "開發行動式高強度聚焦超音波平台，用於胰臟導管腺癌小鼠模型之臨床前腫瘤微環境調控",
-      "summary": "高強度聚焦超音波（HIFU）是一種非侵入性的消融技術，在臨床前研究和臨床轉譯應用上日益重要。",
+      "title": "Development of a mobile high-intensity focused ultrasound platform for preclinical tumor microenvironment modulation in a pancreatic ductal adenocarcinoma mouse model.",
+      "summary": "High-intensity focused ultrasound (HIFU) is a noninvasive ablation technology with increasing relevance for preclinical research and clinical translation. Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal cancers, with limited therapeutic options and poor response to current treatment...",
       "source": "PubMed",
       "date": "2026-08-30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42609051/",
@@ -107,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "From neural development to 再生醫療: A research journey in 幹細胞 biology, spinal cord repair, and 誘導型多能幹細胞（iPSC）-based drug discovery.",
-      "summary": "This commemorative article reflects on a research journey spanning neural development, 幹細胞 biology, 再生醫療, and 誘導型多能幹細胞（iPSC）-based drug discovery. My early work focused on RNA-mediated regulation in the nervous system, including studies on myelin basic protein gene regulation and the id...",
+      "title": "從神經發育到再生醫學：幹細胞生物學、脊髓修復與誘導性多功能幹細胞（iPSC）藥物開發的研究旅程",
+      "summary": "這篇紀念文章回顧了一段跨足神經發育、幹細胞生物學、再生醫學以及誘導性多功能幹細胞（",
       "source": "PubMed",
       "date": "2026-08-30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42568821/",
@@ -131,35 +155,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "超高解析度影像揭示嵌合抗原受體T細胞（CAR-T）免疫突觸中肌動蛋白結構的改變",
-      "summary": "肌動蛋白細胞骨架在T細胞活化過程中，對於免疫突觸（IS）的形成扮演關鍵的整合角色，但這些動態如何改變...",
+      "title": "Super-resolution imaging reveals altered actin architecture at CAR-T細胞療法 cell immune synapses.",
+      "summary": "The actin cytoskeleton plays a key integrative role in immunological synapse (IS) formation during T cell activation, but how these dynamics are altered in 嵌合抗原受體 (CAR)-T cells remains unclear. Here, we used stimulated emission depletion (STED) microscopy to perform the first supe...",
       "source": "PubMed",
       "date": "2026-08-30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42554735/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Claudin-18.2: Molecular mechanisms to clinical translation in solid tumors (Review).",
-      "summary": "Claudin 18.2 (CLDN18.2) is a functional subtype generated by alternative splicing of the CLDN18 gene. It is aberrantly overexpressed in a variety of gastrointestinal solid tumors such as gastric cancer and pancreatic cancer, and has emerged as a promising target for tumor targeted therapy. To date, ...",
-      "source": "PubMed",
-      "date": "2026-08-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42630705/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "A surgically compatible shape memory alloy electroporation electrode for delivering DNA to the living retina.",
-      "summary": "The successful application of adeno-associated virus (AAV)-mediated DNA delivery has opened a new era in the 基因療法 of retinal diseases. Electroporation (EP) has the potential to avoid the drawbacks of AAV-mediated delivery, such as limited cargo size and unresolved safety concerns. Unfortunat...",
-      "source": "PubMed",
-      "date": "2026-08-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42621064/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Metabolic reprogramming in pancreatic cancer: interplay of glucose, lipid, and amino acid metabolism in tumor progression.",
-      "summary": "Pancreatic cancer is one of the most malignant solid tumors, with a five-year survival rate of less than 10%. The therapeutic challenges primarily stem from difficulties in early diagnosis, high heterogeneity, and extensive resistance to chemotherapy, targeted therapy, and 免疫療法. Recent stud...",
-      "source": "PubMed",
-      "date": "2026-08-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42603919/",
       "lang": "zh-TW"
     },
     {
@@ -179,8 +179,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[一/二期臨床] ABBV-383用於治療復發性/難治性華氏巨球蛋白血症",
-      "summary": "狀態：尚未招募｜主辦：梅約診所｜這項一/二期臨床試驗旨在研究ABBV-383的副作用、最佳劑量及其",
+      "title": "[第一/二期臨床試驗] ABBV-383用於治療復發性/難治性華氏巨球蛋白血症",
+      "summary": "狀態：尚未開始招募｜主辦單位：梅約診所｜這項第一/二期臨床試驗旨在評估ABBV-383的",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-08-30",
       "url": "https://clinicaltrials.gov/study/NCT07420959",
@@ -221,7 +221,7 @@
     {
       "title": "[PHASE2] Teclistamab in Combination With Pomalidomide Administered in Alternative Fashion in Participants With Relapsed or Refractory Multiple Myeloma.",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Odense University Hospital｜This 第二期試驗, open-label, multicenter study will evaluate teclistamab in combination with pomalidomide administered using an alternative dosing approach in participants with relapsed or refractory multiple myeloma who have received 1-3 prior lines o",
-      "source": "ClinicalTrials.gov｜Finland, Denmark, Estonia",
+      "source": "ClinicalTrials.gov｜Norway, Finland, Estonia",
       "date": "2026-08-30",
       "url": "https://clinicaltrials.gov/study/NCT07757412",
       "lang": "zh-TW"
@@ -251,8 +251,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Notch Signaling Switch Enables Scalable Helper T Cell Production for CAR-T細胞療法",
-      "summary": "By modulating Notch and T cell receptor signaling, scientists have produced functional CD4+ T cells from 誘導型多能幹細胞（iPSC）, potentially advancing scalable, off-the-shelf CAR-T細胞療法 therapies.\nThe post Helper T Cell Production for CAR-T細胞療法 appeared first on GEN - Genetic",
+      "title": "A cancer therapy put severe rheumatoid arthritis into remission",
+      "summary": "rthritis into remission Science Daily",
+      "source": "Science Daily",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSDJmei1icmFpdjdWck55amhTYldjaTlYcWpiVWpfLTE5RUp1TzYxOWVwYWx2NVZyamtXeFB6OU5URUtJb3ZGUWNhWGUwd0pWakV3bGkwQlFKeF9SYkNkbkpSNGlRM1JjOEFnSHQ2TQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Notch訊號開關助攻CAR T療法，實現輔助型T細胞規模化生產",
+      "summary": "科學家透過調控Notch與T細胞受體訊號，已成功從誘導性多功能幹細胞（iPSCs）生產出具功能的CD4+ T細胞，有望推動可規模化",
       "source": "GEN News",
       "date": "2026-08-28",
       "url": "https://www.genengnews.com/topics/translational-medicine/notch-signaling-switch-enables-scalable-helper-t-cell-production-for-car-t/",
@@ -284,26 +292,18 @@
     },
     {
       "title": "局長國家優先審查憑證（CNPV）試行計畫",
-      "summary": "這是美國食品藥物管理局（FDA）推動的局長國家優先審查憑證（CNPV）試行計畫，旨在加速特定藥物的審查與核准。",
+      "summary": "美國FDA推動的CNPV試行計畫，旨在加速特定藥品審查與核准。",
       "source": "fda.gov",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "2026年得獎者",
-      "summary": "這份名單預示了2026年可能在生醫領域獲得殊榮的頂尖科學家。這些研究成果將引領未來醫學發展，值得業界持續關注。",
+      "title": "2026年桂冠得主",
+      "summary": "預告2026年將公布",
       "source": "Breakthrough Prize",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RX21WSGw2MllwVGVMY2JIekZTUmRIdm9FUDRhT2Jud1ROa2FvbncxM1ZYMWExdU5FUWlNeHVDSDd2c3NDTFhCNUlHbkdCemttenFqbkoxVlpLdw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CARsgen Therapeutics Announces 2026 Interim Results",
-      "summary": "",
-      "source": "PR Newswire",
-      "date": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWtnLTdyLVFlMTl6a1ZMXzNub3ZGTVNqaG15SV9vU1VLZWszZUVzaGRGMjFHV1ppZVQ1bkpjTmR0YnBidUttdjJtZVVPY0k5SGhoU2dDS09wNjFpZ2dFMkUyV2JMM0JMR0lTTVhTSi1fcUlOZGVUdjJaWDFKNjQySnc4VWlpbGh6NEZoeXoxQlZxRG5tTVRYUzBMd05KY0dPb2l1Z29OdVM1SWM?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -323,19 +323,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "臨床二期：Nemtabrutinib與Pembrolizumab用於治療瑞氏轉化之瀰漫性大B細胞淋巴瘤亞型",
-      "summary": "狀態：正在招募中｜主辦：Roswell Park Cancer Institute｜此臨床二期試驗旨在評估Nemtabrutinib合併Pembrolizumab治療病患的療",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-15",
-      "url": "https://clinicaltrials.gov/study/NCT06863402",
+      "title": "Update on eVOLVE-Lung02 第三期試驗 trial of volrustomig plus chemotherapy in metastatic non-small cell lung cancer",
+      "summary": "of volrustomig plus chemotherapy in metastatic non-small cell lung cancer AstraZeneca",
+      "source": "AstraZeneca",
+      "date": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUlleDBnQmFlTEVxdFNJOHNzVmdZUTI3WDZMWWZocElKdzhYQi16ejFDUmpLbUFod0FJdjBSODg1dmhPYUdxbDdEXzZZU2RGa1NXWmx4WTBtZ1Vxc0p4MTRRVVhkaV80WUNxVFRYVGxBbW5GZ1pzUHVDZURCM2VXbmI3LWZfMlVEWVZTWjhUcGw5SXdyUVlwUzFXMktnaldOMGdJN2NrN1I?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Cancer Research Concerns: Rapid Roundup for August 2026",
-      "summary": "for August 2026 Oncology News Central",
-      "source": "Oncology News Central",
-      "date": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemQ3Z284X0FSUnRuREVMLU1YdW1mZ1NRaUZCeWl6M1FJZmUwcExpMU5iMVNWaFlFNW42Ri16Q05oN1NrTHptS25UaGhKN1FYWWxhUlUtZXlTX1JhWkFrT3RGSm5zWGFsdWhWdGdYazVva2lqWWRxY0prR1psRDMyRmNJbE9yZzFxU1FmUkliS29vZi1zRm9HTUowVEpyWDQ1?oc=5",
+      "title": "第二期臨床試驗：Nemtabrutinib 併用 Pembrolizumab 治療 Richter氏轉化之瀰漫性大B細胞淋巴瘤亞型",
+      "summary": "狀態：收案中｜主導單位：羅斯威爾公園癌症中心｜這項第二期臨床試驗，旨在評估 Nemtabrutinib",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-08-15",
+      "url": "https://clinicaltrials.gov/study/NCT06863402",
       "lang": "zh-TW"
     },
     {
@@ -347,16 +347,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "嵌合抗原受體T細胞療法（CAR-T）跨足癌症以外領域：現況、挑戰與未來展望",
-      "summary": "這篇刊登於《自然》（Nature）期刊的報導，深入探討嵌合抗原受體T細胞療法（CAR-T）在癌症以外疾病的應用潛力，分析其發展現況、面臨的挑戰及未來發展前景。",
+      "title": "CAR-T細胞療法 細胞治療 beyond cancer: current status, challenges and future prospects",
+      "summary": "t status, challenges and future prospects Nature",
       "source": "Nature",
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43WVRRMkY3elBIcnp0TUJpV01HNEpabVNXcDY0WldTN3NEbk1faDNmWDdCdHVBNGtkOHlveVJwMnJ3b0dURUVvWV9rLVBKUzhsOVpmVU5LQ2tBNTA5ZVpN?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "微針輔助的細胞傳輸與治療",
-      "summary": "這篇發表在《科學合作期刊》（Science Partner Journals）的研究，探討微針技術如何輔助細胞傳輸，進而應用於各種細胞治療，為藥物遞送與再生醫學帶來新契機。",
+      "title": "Microneedle-Assisted Cell Delivery and Therapy",
+      "summary": "herapy Science Partner Journals",
       "source": "Science Partner Journals",
       "date": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GcEFybU54ZXVOZ3B1VXdSUmpoRUY3Q2s4QUFUb09lN2cta3lhWTVCSThWNldLbDRkdnVYZVVUaWdqdFBHN2ZhLWJqWGx6S2xsQzl0dkZwYzhzWW93RW5r?oc=5",
