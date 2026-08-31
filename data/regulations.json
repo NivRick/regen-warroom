@@ -1,21 +1,45 @@
 {
   "module": "regulation",
-  "updated": "2026-08-31T01:00:07.928213+00:00",
+  "updated": "2026-08-31T17:49:27.035893+00:00",
   "items": [
     {
-      "title": "StockWatch: Revolution Shares Stay Flat Despite Historic 美國食藥局（FDA） Approval of Oral Pancreatic Cancer Therapy",
-      "summary": "In April, Revolution shares rocketed 54% after the company announced dazzling data from its 第三期試驗 RASolute 302 trial (NCT06625320) evaluating Rasonque in patients with metastatic pancreatic ductal adenocarcinoma (PDAC) who had been previously tre",
-      "source": "GEN News",
-      "date": "2026-08-30",
-      "url": "https://www.genengnews.com/topics/cancer/stockwatch-revolution-shares-stay-flat-despite-historic-fda-approval-of-oral-pancreatic-cancer-therapy/",
+      "title": "VARIZIG",
+      "summary": "VARIZIG的產品核准資訊，主要用於高風險族群的暴露後預防，例如免疫功能不全的兒童。",
+      "source": "FDA Biologics",
+      "date": "2026-08-31",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/varizig",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "LUXTURNA",
+      "summary": "LUXTURNA是一種腺相關病毒載體基因療法，專門治療經確診",
+      "source": "FDA Biologics",
+      "date": "2026-08-31",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/luxturna",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Center for Biologics Evaluation and Research (CBER) 2022 Science Symposium Meeting Agenda",
+      "summary": "arch (CBER) 2022 Science Symposium Meeting Agenda September 20-22, 2022",
+      "source": "FDA Biologics",
+      "date": "2026-08-31",
+      "url": "http://www.fda.gov/news-events/center-biologics-evaluation-and-research-cber-2022-science-symposium-meeting-agenda",
       "lang": "zh-TW"
     },
     {
       "title": "What’s New for Biologics",
       "summary": "Latest news from the Center for Biologics Evaluation and Research",
       "source": "FDA Biologics",
-      "date": "2026-08-28",
+      "date": "2026-08-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "StockWatch: Revolution Shares Stay Flat Despite Historic 美國食藥局（FDA） Approval of Oral Pancreatic Cancer Therapy",
+      "summary": "In April, Revolution shares rocketed 54% after the company announced dazzling data from its 第三期試驗 RASolute 302 trial (NCT06625320) evaluating Rasonque in patients with metastatic pancreatic ductal adenocarcinoma (PDAC) who had been previously tre",
+      "source": "GEN News",
+      "date": "2026-08-30",
+      "url": "https://www.genengnews.com/topics/cancer/stockwatch-revolution-shares-stay-flat-despite-historic-fda-approval-of-oral-pancreatic-cancer-therapy/",
       "lang": "zh-TW"
     },
     {
@@ -51,30 +75,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "News & Events (Biologics)",
-      "summary": "Information on recently posted Web pages, meetings, conferences, and workshops.",
-      "source": "FDA Biologics",
-      "date": "2026-08-28",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Meeting 1: Patient and Care Partner Perspectives on Safety Considerations for Approved 基因療法 Treatments for Rare Diseases",
-      "summary": "美國食藥局（FDA） CBER Patient Listening Meeting: Patient and Care Partner Perspectives on Safety Considerations for Approved 基因療法 Treatments for Rare Diseases",
-      "source": "09/20/2024",
-      "date": "2026-08-28",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/meeting-1-patient-and-care-partner-perspectives-safety-considerations-approved-gene-therapy",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Meeting 2: Patient and Care Partner Perspectives on Early Enrollment into 基因療法 臨床試驗 for Rare Diseases",
-      "summary": "基因療法 trials inform risks & benefits for informed decisions. Long-term follow-up crucial for safety & durability assessment.",
-      "source": "FDA Biologics",
-      "date": "2026-08-28",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/meeting-2-patient-and-care-partner-perspectives-early-enrollment-gene-therapy-clinical-trials-rare",
-      "lang": "zh-TW"
-    },
-    {
       "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
       "summary": "",
       "source": "報導者The Reporter",
@@ -90,32 +90,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia (BCDA) Q2 2026 Earnings Call Transcript",
-      "summary": "ranscript The Globe and Mail",
+      "title": "BioCardia (BCDA) 2026 年第二季財報電話會議逐字稿",
+      "summary": "BioCardia (BCDA) 2026 年第二季財報電話會議的完整逐字稿，揭露公司最新營運狀況。",
       "source": "The Globe and Mail",
       "date": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "嵌合抗原受體 T-細胞治療 in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica",
-      "summary": "in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica Via Medica Journals",
+      "title": "2026 年多發性骨髓瘤的嵌合抗原受體T細胞療法（CAR-T）：核准適應症、長期療效、毒性、治療順序與新興平台：一篇敘述性回顧 | Legiec | Acta Haemato",
+      "summary": "回顧 2026 年多發性骨髓瘤",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia Reports Second Quarter 2026 Business Highlights and Financial Results",
-      "summary": "siness Highlights and Financial Results GlobeNewswire",
+      "title": "BioCardia 公布 2026 年第二季營運亮點與財務報告",
+      "summary": "BioCardia 公布 2026 年第二季營運成果與財務狀況，提供投資人最新資訊。",
       "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "JAPAN Biomaterials Market Size, Share,Trends, Growth Analysis Report, 2030",
-      "summary": "ends, Growth Analysis Report, 2030 MarketsandMarkets",
+      "title": "2030 年日本生醫材料市場規模、市佔率、趨勢與成長分析報告",
+      "summary": "報告深入分析日本生醫材料市場，預測至 2030 年的規模、趨勢與成長潛力。",
       "source": "MarketsandMarkets",
       "date": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmhMMTkwel9YaFRZOGUxYVMxWGt3SVJ3WXpxck1WX2xOOTlZck1Qc0IyYXZBOEstaVI2SzVpNTM3SGJJcUlTZjZwOVUtWmF6djNtb0VGQV8yendNWldxNmtmZ1NTdDRaWG5URm5KNEdOemp6eU5vb0dtMDh4TUFfaXVtVQ?oc=5",

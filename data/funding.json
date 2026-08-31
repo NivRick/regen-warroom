@@ -1,7 +1,39 @@
 {
   "module": "funding",
-  "updated": "2026-08-31T01:00:24.435141+00:00",
+  "updated": "2026-08-31T17:49:55.649222+00:00",
   "items": [
+    {
+      "title": "STAT+：買藥品專利申請案，是不是想延長市場獨佔期？",
+      "summary": "一宗涉及安進（Amgen）的藥品專利案備受關注，因為它可能對整個製藥業的專利交易產生廣泛影響。",
+      "source": "STAT News",
+      "date": "2026-08-31",
+      "url": "https://www.statnews.com/pharmalot/2026/08/31/pending-drug-patent-applications-amgen-carefirst/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-08-31",
+      "url": "https://www.statnews.com/pharmalot/2026/08/31/drug-pricing-deals-polycythemia-vera-mimrylo-pharmalittle-newsletter/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） OKs Takeda, Protagonist drug for rare blood cancer",
+      "summary": "The clearance and broader-than-expected label for Mimrylo open up a yearly revenue opportunity for Takeda that some analysts expect to reach $2 billion or more.",
+      "source": "BioPharma Dive",
+      "date": "2026-08-31",
+      "url": "https://www.biopharmadive.com/news/fda-approve-mimrylo-takeda-protagonist-polycythemia-vera/829153/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Lilly adds to immune drug pipeline with $2.9B Merida buyout",
+      "summary": "The big drugmaker&rsquo;s latest company acquisition this year is centered around a technology designed to degrade proteins that malfunction in autoimmune disorders.",
+      "source": "BioPharma Dive",
+      "date": "2026-08-31",
+      "url": "https://www.biopharmadive.com/news/lilly-merida-acquire-deal-immune-drugs-graves-disease/829152/",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+: In autopsy of failed heart disease study, AstraZeneca raises broader questions about silencer drugs",
       "summary": "AstraZeneca detailed the surprise failure of a closely watched heart disease trial, a study with ripple effects for a competitive billion-dollar market.",
@@ -35,43 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech Fundraising Tracker '26: AusperBio adds $120M; Abcuro secures $66M",
-      "summary": "AusperBio adds $120M; Abcuro secures $66M Fierce Biotech",
-      "source": "Fierce Biotech",
+      "title": "Fierce Biotech 2026年募資追蹤報告：AusperBio 再募得 1.2億美元，Abcuro 募得 6,600萬美元",
+      "summary": "生技募資熱潮持續！AusperBio 募得 1.2億美元，Abcuro 也成功募得 6,600萬美元。",
+      "source": "fiercebiotech.com",
       "date": "2026-08-28",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Hospitals plot their response to funding cuts",
-      "summary": "Hospital prep a lobbying push, RFK Jr. faces more bad news on measles, and the cancer drug that helped Ben Sasse gets approved.",
-      "source": "STAT News",
-      "date": "2026-08-27",
-      "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about a pancreatic cancer drug approval, a Trump deal with biotechs, and more",
-      "summary": "The 美國食藥局（FDA） approved a life-extending treatment for advanced pancreatic cancer from Revolution Medicines that is the first to attack a genetic cause",
-      "source": "STAT News",
-      "date": "2026-08-27",
-      "url": "https://www.statnews.com/pharmalot/2026/08/27/pancreatic-cancer-drug-approved-trump-deal-with-biotechs/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Spyre tumbles as immune drug misses mark in rheumatoid arthritis",
-      "summary": "The results erased more than $1 billion in market value and raised questions about how impactful drugs that block the TL1A protein might be against the condition.",
-      "source": "BioPharma Dive",
-      "date": "2026-08-26",
-      "url": "https://www.biopharmadive.com/news/spyre-rheumatoid-arthritis-drug-study-results-skyway/828809/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Biohaven trades cash for ‘upside’ with $795M epilepsy drug deal",
-      "summary": "Faced with a dwindling bank account after a series of research setbacks, Biohaven is letting go of its most advanced experimental drug in a deal one analyst viewed as a &ldquo;surprising&rdquo; transaction.",
-      "source": "BioPharma Dive",
-      "date": "2026-08-26",
-      "url": "https://www.biopharmadive.com/news/biohaven-sk-opakalim-epilepsy-drug-deal/828799/",
       "lang": "zh-TW"
     }
   ]
