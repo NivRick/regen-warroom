@@ -1,20 +1,20 @@
 {
   "module": "research",
-  "updated": "2026-08-31T17:48:25.758579+00:00",
+  "updated": "2026-09-01T01:31:48.103636+00:00",
   "items": [
     {
-      "title": "超分子工程將纖維蛋白原轉化為具強化生物活性的纖維蛋白基質",
-      "summary": "纖維蛋白是血液凝固的關鍵成分，透過提供機械支撐、結合生長因子並促進細胞生長，來支援傷口癒合。",
+      "title": "透過超分子工程，將纖維蛋白原轉化為具強化生物活性的纖維蛋白基質",
+      "summary": "纖維蛋白是血液凝固的關鍵成分，能透過提供機械支撐、結合生長因子等方式，協助傷口癒合。",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42668467/",
       "lang": "zh-TW"
     },
     {
-      "title": "結合工程化富血",
+      "title": "一種結合工程化",
       "summary": "",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42620350/",
       "lang": "zh-TW"
     },
@@ -22,7 +22,7 @@
       "title": "CD7 CAR-T細胞療法 cells eliminate chronic myeloid leukemia 幹細胞 specifically and effectively.",
       "summary": "Leukemia 幹細胞 (LSCs) in chronic myeloid leukemia (CML) are associated with disease recurrence and progression, cannot be eliminated by tyrosine kinase inhibitors (TKIs), and affect TKI discontinuation in CML patients. 嵌合抗原受體 T cells (CAR-T細胞療法) therapy can eliminate tumor cells ...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42629973/",
       "lang": "zh-TW"
     },
@@ -30,7 +30,7 @@
       "title": "Preclinical evaluation of homodimeric FAPI target modules for UniCAR-mediated targeting of FAP-expressing tumor and stromal cells.",
       "summary": "Due to its overexpression in the tumor microenvironment of most solid malignancies, fibroblast activation protein (FAP) has emerged as an ideal target for (immuno)theranostic applications. The clinically tested UniCAR system represents a promising adapter CAR-T細胞療法-cell approach, in which CAR-T細胞療法-cell act...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42627862/",
       "lang": "zh-TW"
     },
@@ -38,7 +38,7 @@
       "title": "Targeted delivery of 信使RNA（mRNA） to immune cells for",
       "summary": "Messenger RNA (信使RNA（mRNA）) therapeutics have revolutionized biomedicine by enabling direct",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42590834/",
       "lang": "zh-TW"
     },
@@ -46,7 +46,7 @@
       "title": "Advanced therapy medicinal products in Saudi Arabia: Regulation and development.",
       "summary": "Advanced therapeutic medicinal products (ATMPs) such as gene, somatic cell, and tissue-engineered therapies have transformed modern healthcare by treating previously unmanageable genetic, oncologic, and degenerative diseases. Although regulatory and developmental frameworks for ATMPs are established...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42668627/",
       "lang": "zh-TW"
     },
@@ -54,7 +54,7 @@
       "title": "Optimizing nucleic acid delivery using PF14 peptide and lipid nanoparticle systems.",
       "summary": "Nucleic acid-based therapeutics are a rapidly expanding class of precision medicines capable of directly modulating gene expression. However, their clinical application is limited by challenges in cellular delivery, including large molecular size, hydrophilicity, and susceptibility to enzymatic degr...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42668503/",
       "lang": "zh-TW"
     },
@@ -62,7 +62,7 @@
       "title": "Animal 類器官 as models for integrated One Health research.",
       "summary": "Emerging infectious diseases, driven by climate change, urbanization, and global wildlife trade, pose significant threats to public health, ecosystems, and biodiversity. The One Health (OH) approach, which emphasizes the interconnectedness of human, animal, and environmental health, is critical to a...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42662732/",
       "lang": "zh-TW"
     },
@@ -70,15 +70,15 @@
       "title": "微針-外泌體遞送系統在多系統疾病治療上的研究進展",
       "summary": "微針（MNs）與外泌體的結合應用，在靶向藥物遞送領域代表了一個重要的研究方向。",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42633397/",
       "lang": "zh-TW"
     },
     {
-      "title": "嵌合抗原受體T細胞療法（CAR-T）治療多",
+      "title": "2013-2025年嵌合抗原受",
       "summary": "",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42623170/",
       "lang": "zh-TW"
     },
@@ -86,7 +86,7 @@
       "title": "Performance of a modular robotic cluster matches skilled human operators for complex 細胞治療 manufacturing tasks.",
       "summary": "Although numerous cell and gene therapies have received regulatory approval, their adoption has been hampered by high cost and challenges in scaling out manufacturing. Many 自體（取自患者本人） cell therapies are individually manufactured for each patient using traditional manual methods in high-cost environm...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42621923/",
       "lang": "zh-TW"
     },
@@ -94,7 +94,7 @@
       "title": "Development of a mobile high-intensity focused ultrasound platform for preclinical tumor microenvironment modulation in a pancreatic ductal adenocarcinoma mouse model.",
       "summary": "High-intensity focused ultrasound (HIFU) is a noninvasive ablation technology with increasing relevance for preclinical research and clinical translation. Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal cancers, with limited therapeutic options and poor response to current treatment...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42609051/",
       "lang": "zh-TW"
     },
@@ -102,7 +102,7 @@
       "title": "Newborn screening and biobanking for preventable genetic disorders in Mongolia: A developing country perspective.",
       "summary": "Newborn screening (NBS) is an important public health program, yet its implementation is highly uneven globally, with developing countries like Mongolia facing significant resource and infrastructure limitations that hinder early detection of preventable genetic disorders. Meanwhile, induced pluripo...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42604025/",
       "lang": "zh-TW"
     },
@@ -110,7 +110,7 @@
       "title": "An accessible and open-source workflow for fabrication of custom PDMS culture chambers using 3D printing.",
       "summary": "Custom cell culture platforms are widely used in 組織工程 applications. However, their fabrication often requires specialized microfabrication equipment and advanced technical skills, limiting accessibility. This work presents an accessible and open-source workflow for the fabrication of c...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42603966/",
       "lang": "zh-TW"
     },
@@ -118,7 +118,7 @@
       "title": "The hormetic landscape: from evolutionary origination to mechanistic pathways in therapeutics.",
       "summary": "Hormesis is a biphasic dose-response, where mild stress triggers adaptive defense responses that increase cellular resilience. The hormesis is now recognized as a core concept with applications in toxicology, metabolism, aging, and evolutionary biology. A historical review, evolutionary explanations...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42599026/",
       "lang": "zh-TW"
     },
@@ -126,15 +126,15 @@
       "title": "Impact on health outcomes of treating all eligible large B-cell lymphoma patients with axicabtagene ciloleucel in Portugal - A modeling approach.",
       "summary": "This study aimed to quantify the health benefits that can be achieved by treating axicabtagene-ciloleucel (axi-cel)-eligible large B-cell lymphoma patients with axi-cel instead of historical standard of care (hSoC) in Portugal. \"Estimated Opportunity Lost\" quantified the difference in outcomes in 20...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42596901/",
       "lang": "zh-TW"
     },
     {
-      "title": "從神經發育到再生醫學：幹細胞生物學、脊髓修復與誘導型多功能幹細胞（iPSC）藥物開發的研究旅程",
-      "summary": "這篇紀念性文章回顧了在神經發育、幹細胞生物學、再生醫學以及誘導型多功能幹細胞（iPSC）",
+      "title": "從神經發育到再生醫學：幹細胞生物學、脊髓修復與誘導型多功能幹細胞（iPSC）藥物開發的研究歷程",
+      "summary": "這篇紀念文章回顧了在神經發育、幹細胞生物學、再生醫學以及誘導型多功能幹細胞（iPSC）藥",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42568821/",
       "lang": "zh-TW"
     },
@@ -142,7 +142,7 @@
       "title": "Calycosin targets the MAPK-EGR1 signaling axis to inhibit enterovirus 71 replication in cells and human colonic 類器官.",
       "summary": "The downstream effectors that mediate the pro‑viral function of the MAPK pathway during enterovirus 71 (EV71) infection remain poorly defined. Here we show that early growth response 1 (EGR1) is independently regulated by each of the three classical MAPK branches including extracellular signal-regul...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42555528/",
       "lang": "zh-TW"
     },
@@ -150,7 +150,7 @@
       "title": "類器官-based evaluation of SA55 and Pemivibart against evolving SARS-CoV-2 variants.",
       "summary": "Pemivibart, a class 1/4 monoclonal antibody (mAb), is currently the only 美國食藥局（FDA）-authorized SARS-CoV-2 mAb under an Emergency Use Authorization (EUA) in clinical use. The emergence of subvariants, including KP.3.1.1 and XFG, raises concerns about antibody efficacy. SA55, a fully human class 1/4 mAb, is ...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42545256/",
       "lang": "zh-TW"
     },
@@ -158,7 +158,7 @@
       "title": "Super-resolution imaging reveals altered actin architecture at CAR-T細胞療法 cell immune synapses.",
       "summary": "The actin cytoskeleton plays a key integrative role in immunological synapse (IS) formation during T cell activation, but how these dynamics are altered in 嵌合抗原受體 (CAR)-T cells remains unclear. Here, we used stimulated emission depletion (STED) microscopy to perform the first supe...",
       "source": "PubMed",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42554735/",
       "lang": "zh-TW"
     },
@@ -166,7 +166,7 @@
       "title": "[PHASE2] Study of Zanubrutinib in Older Patients With Previously Untreated Chronic Lymphocytic Leukemia (CLL)",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：The Lymphoma Academic Research Organisation｜This 第二期試驗, open-label, multicenter study evaluates zanubrutinib in patients aged 80 years and older with previously untreated chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL) who require treatment.\n\nCLL and SLL are slow-grow",
       "source": "ClinicalTrials.gov｜France",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT07739459",
       "lang": "zh-TW"
     },
@@ -174,7 +174,7 @@
       "title": "[NA] GMPA Versus PPI for Gastric Protection and aGVHD Risk",
       "summary": "狀態：RECRUITING｜主辦：First Affiliated Hospital of Zhejiang University｜The goal of this 臨床試驗 is to observe whether different gastric protection strategies affect the incidence of acute graft-versus-host disease (aGVHD) in patients undergoing 異體（取自捐贈者） hematopoietic 幹細胞 transplantation (allo-HSCT). Proto",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT07791849",
       "lang": "zh-TW"
     },
@@ -182,7 +182,7 @@
       "title": "[PHASE2] Total Marrow and Lymphoid Irradiation in Combination With Fludarabine and Melphalan as Conditioning for 異體（取自捐贈者） Peripheral Blood 幹細胞 Hematopoietic Cell Transplant in Older Patients With Refractory and Relapsed Acute Myeloid Leukemia and High-risk Myelodysplastic Syndrome",
       "summary": "狀態：RECRUITING｜主辦：City of Hope Medical Center｜This 第二期試驗 trial tests the effect of total marrow and lymphoid irradiation (TMLI) in combination with fludarabine and melphalan as conditioning regimen in older patients with acute myeloid leukemia or high-risk myelodysplastic syndrome that has no",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT07582172",
       "lang": "zh-TW"
     },
@@ -190,7 +190,7 @@
       "title": "[PHASE1] A PET Imaging Agent (64Cu-DOTA-Pembrolizumab) for Determining Treatment Response Among Patients With Stage IV Non-small Cell Lung Cancer Receiving Pembrolizumab",
       "summary": "狀態：RECRUITING｜主辦：City of Hope Medical Center｜This 第一期試驗 trial studies the safety and side effects of a new positron emission tomography (PET) imaging agent called 64Cu-DOTA-pembrolizumab to see how well it works in determining treatment response for patients with stage IV non-small cell lung ",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT07619599",
       "lang": "zh-TW"
     },
@@ -198,7 +198,7 @@
       "title": "[N/A] Prospective Multiomic Analysis in Small-Cell Lung Cancer",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Ohio State University Comprehensive Cancer Center｜This is an observational study to collects blood samples and tumor tissue from adults with relapsed small-cell lung cancer (SCLC) receicing standard of care commercial DLL3 T cell engager. The goal of the study is to understand the changes in tumor m",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT07795411",
       "lang": "zh-TW"
     },
@@ -206,23 +206,15 @@
       "title": "[PHASE2] E-CEL UVEC Cell Injection Treatment of Perianal Fistulas",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Angiocrine Bioscience｜The purpose of this study is to determine if experimental therapy (E-CEL UVEC Cells), a very minimally invasive procedure, can treat patients with perianal fistulas.",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT07557134",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[NA] Tissue Modeling in Systemic Sclerosis Using Induced Pluripotent 幹細胞 (誘導型多能幹細胞（iPSC）)",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：University Hospital, Montpellier｜The objective of the study is to establish an 體外實驗 model using 誘導型多能幹細胞（iPSC） to test the hypotheses developed.\n\nThe primary objective is to generate, via the SAFE-IPS platform, 8 誘導型多能幹細胞（iPSC） lines derived from blood samples taken from:\n\n* Two patients with seve",
-      "source": "ClinicalTrials.gov｜France",
-      "date": "2026-08-31",
-      "url": "https://clinicaltrials.gov/study/NCT07650565",
       "lang": "zh-TW"
     },
     {
       "title": "[PHASE1, PHASE2] Prenatal Transplantation for Fetuses With Fanconi Anemia",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Agnieszka Czechowicz｜The investigators aim to evaluate the safety and efficacy of in utero hematopoietic 幹細胞 transplantation (IUHSCT) for the treatment of fetuses diagnosed with Fanconi anemia (FA) during pregnancy.",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT07408583",
       "lang": "zh-TW"
     },
@@ -230,7 +222,7 @@
       "title": "[PHASE4] Ebastine for Adjuvant Treatment of Tumor Budding-Positive Liver Cancer After Surgery",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Second Affiliated Hospital of Xi'an Jiaotong University｜This study evaluates ebastine, an FAK (focal adhesion kinase) inhibitor, as adjuvant therapy to reduce the risk of recurrence in patients with hepatocellular carcinoma (HCC) who have undergone curative hepatectomy and whose tumors show a histopatholo",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT07734766",
       "lang": "zh-TW"
     },
@@ -238,15 +230,15 @@
       "title": "[PHASE1, PHASE2] Multi-CAR-T細胞療法 Cells Targeting B Cell Lymphomas",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Shenzhen Geno-Immune Medical Institute｜This study aims to evaluate safety and efficacy of a combination of 4th generation 嵌合抗原受體 gene-modified T cells targeting B cell surface molecules including CD19 and alternative CARTs as booster and consolidation treatment for pati",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT04429438",
       "lang": "zh-TW"
     },
     {
-      "title": "第一/二期人類臍帶間質幹細胞（19#iSCLife®-MDS）治療骨髓增生不良症候群（MDS）的臨床研究",
-      "summary": "狀態：暫停｜主辦單位：Sclnow Biotechnology Co., Ltd.｜這項研究旨在評估人類臍帶間",
+      "title": "[PHASE1, PHASE2] Research for Human Umbilical Cord Mesenchymal 幹細胞 (19#iSCLife®-MDS) in the Treatment of Myelodysplastic Syndrome (MDS)",
+      "summary": "狀態：SUSPENDED｜主辦：Sclnow Biotechnology Co., Ltd.｜The purposes of the study is to determine the safety and efficacy of human umbilical cord mesenchymal 幹細胞 (hUC-MSC) in treating Myelodysplastic Syndrome patients.",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT03184935",
       "lang": "zh-TW"
     },
@@ -254,7 +246,7 @@
       "title": "[PHASE1] Lentiviral FIX 基因療法",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Shenzhen Geno-Immune Medical Institute｜This study is a 第一期試驗 trial using an advanced lentiviral vector to deliver a functional gene for human clotting factor IX into patients with hemophilia B, to evaluate the safety and efficacy of infusion of lentiviral gene modified 自體（取自患者本人） stem c",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT03961243",
       "lang": "zh-TW"
     },
@@ -262,7 +254,7 @@
       "title": "[N/A] BIO-FUNCTION for Prediction Non Relapse Mortality in Transplant and 細胞治療",
       "summary": "狀態：RECRUITING｜主辦：Henry Ford Health System｜The purpose of this research is test if combination of physical tests and blood tests drawn before SCTCT can predict NRM.",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT07769151",
       "lang": "zh-TW"
     },
@@ -270,7 +262,7 @@
       "title": "[PHASE2, PHASE3] HEME-25: Open-Label Feasibility Study of Elranatamab Utilized in Newly Diagnosed Plasmablastic Lymphoma With or Without HIV",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：University of Illinois at Chicago｜This is a single-arm feasibility trial in which patients with histologically confirmed plasmablastic lymphoma (PBL) with or without HIV, who have achieved a Complete Response or Partial Response after definitive frontline chemotherapy, will receive E",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT07647432",
       "lang": "zh-TW"
     },
@@ -278,8 +270,32 @@
       "title": "[PHASE1] Universal 4SCAR7U Targeting CD7-positive Malignancies",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Shenzhen Geno-Immune Medical Institute｜The purpose of this 臨床試驗 is to assess the feasibility, safety and efficacy of universal CAR-T細胞療法 cells based on 4SCAR7U design against CD7-positive hematological malignancies using CD7 specific universal CAR-T細胞療法 cells. The study also aims to lea",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT05995028",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[NA] ZVS101e in Patients With Bietti's Crystalline Dystrophy",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Chigenovo Co., Ltd｜The goal of this 臨床試驗 is to evaluate the safety and early effectiveness of ZVS101e in patients with Bietti crystalline dystrophy who meet the eligibility criteria for treatment under the translational application program in the Hainan Boao ",
+      "source": "ClinicalTrials.gov｜China",
+      "date": "2026-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT07653971",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE2] Temozolomide and Survivin Long Peptide Vaccine (SurVaxM) for the Treatment of Patients With Progressing Metastatic Neuroendocrine Carcinomas",
+      "summary": "狀態：SUSPENDED｜主辦：Roswell Park Cancer Institute｜This phase IIa trial compares the safety and effect of temozolomide combined with survivin long peptide vaccine (SurVaxM) to temozolomide alone in patients with neuroendocrine tumors (NET) that has spread from where it first started (primary site) to",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT06202066",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[NA] Tissue Modeling in Systemic Sclerosis Using Induced Pluripotent 幹細胞 (誘導型多能幹細胞（iPSC）)",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：University Hospital, Montpellier｜The objective of the study is to establish an 體外實驗 model using 誘導型多能幹細胞（iPSC） to test the hypotheses developed.\n\nThe primary objective is to generate, via the SAFE-IPS platform, 8 誘導型多能幹細胞（iPSC） lines derived from blood samples taken from:\n\n* Two patients with seve",
+      "source": "ClinicalTrials.gov｜France",
+      "date": "2026-09",
+      "url": "https://clinicaltrials.gov/study/NCT07650565",
       "lang": "zh-TW"
     },
     {
@@ -307,40 +323,40 @@
       "lang": "zh-TW"
     },
     {
-      "title": "一種癌症療法讓嚴重類風濕性關節炎患者病情緩解",
-      "summary": "癌症療法讓嚴重類風濕性關節炎患者病情緩解，展現跨領域治療潛力。",
-      "source": "Science Daily",
+      "title": "A cancer therapy put severe rheumatoid arthritis into remission",
+      "summary": "rthritis into remission sciencedaily.com",
+      "source": "sciencedaily.com",
       "date": "2026-08-30",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSDJmei1icmFpdjdWck55amhTYldjaTlYcWpiVWpfLTE5RUp1TzYxOWVwYWx2NVZyamtXeFB6OU5URUtJb3ZGUWNhWGUwd0pWakV3bGkwQlFKeF9SYkNkbkpSNGlRM1JjOEFnSHQ2TQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Notch Signaling Switch Enables Scalable Helper T Cell Production for CAR-T細胞療法",
-      "summary": "By modulating Notch and T cell receptor signaling, scientists have produced functional CD4+ T cells from 誘導型多能幹細胞（iPSC）, potentially advancing scalable, off-the-shelf CAR-T細胞療法 therapies.\nThe post Helper T Cell Production for CAR-T細胞療法 appeared first on GEN - Genetic",
+      "title": "Notch訊號調控實現CAR-T輔助型T細胞規模化生產",
+      "summary": "科學家透過調控Notch與T細胞受體訊號，成功從誘導型多功能幹細胞（iPSCs）製造出具功能性的CD4+ T細胞，有望推動可規模化、現成（off-",
       "source": "GEN News",
       "date": "2026-08-28",
       "url": "https://www.genengnews.com/topics/translational-medicine/notch-signaling-switch-enables-scalable-helper-t-cell-production-for-car-t/",
       "lang": "zh-TW"
     },
     {
-      "title": "嵌合抗原受體T細胞療法（CAR-T）在首個臨床試驗中讓嚴重類風濕性關節炎患者病情緩解",
-      "summary": "德國夏里特醫院（Charité）研究人員公布首個針對難治型類風濕性關節炎的嵌合抗原受體T細胞療法（CAR-T）試驗成果，所有六名患者都展現令人振奮的結果。",
+      "title": "CAR-T細胞療法-細胞治療 Puts Severe Rheumatoid Arthritis Into Remission in First 臨床試驗",
+      "summary": "Researchers at Charité report promising results from the first CAR-T細胞療法-cell trial for treatment-refractory rheumatoid arthritis, with all six patients improving and three achieving sustained medication-free remission.\nThe post d Arthritis Into Remissio",
       "source": "GEN News",
       "date": "2026-08-28",
       "url": "https://www.genengnews.com/topics/translational-medicine/car-t-cell-therapy-puts-severe-rheumatoid-arthritis-into-remission-in-first-clinical-trial/",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞治療在首個臨床",
-      "summary": "",
+      "title": "細胞治療 substantially reduces severe rheumatoid arthritis in first 臨床試驗",
+      "summary": "e rheumatoid arthritis in first 臨床試驗 Medical Xpress",
       "source": "Medical Xpress",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA核准Daraxonrasib用於胰臟癌：病患須知",
-      "summary": "美國FDA核准新藥Daraxonrasib用於胰臟癌治療，提供病患新選擇與相關資訊。",
+      "title": "美國食藥局（FDA） Approves Daraxonrasib for Pancreatic Cancer: What Patients Need To Know",
+      "summary": "Cancer: What Patients Need To Know Memorial Sloan Kettering Cancer Center",
       "source": "Memorial Sloan Kettering Cancer Center",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVW44aHFtT0xweVk4WjItWElHNnA4RU1EbFBUUmZhTGEyakJFRGtpdVlLQmprQVFzeTNlZ2hURzFMV2ZNZjkzd25PRGk3MWdLdXhxaXRWRDdoM2VLTS1VWm1FQjRpSDRPQ2NuM2dkRklaQnY5N1RKQTZtNjF2Y0ZxVXE1T0E4bHZoamZuSmc3dWxhcWVDMlJQMUxoOWZMVXNrUFQ1QXBB?oc=5",
@@ -355,8 +371,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026年得獎者預測",
-      "summary": "展望2026年，生醫界有哪些潛力新星或重大突破，有望角逐國際大獎？",
+      "title": "Laureates 2026",
+      "summary": "",
       "source": "Breakthrough Prize",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RX21WSGw2MllwVGVMY2JIekZTUmRIdm9FUDRhT2Jud1ROa2FvbncxM1ZYMWExdU5FUWlNeHVDSDd2c3NDTFhCNUlHbkdCemttenFqbkoxVlpLdw?oc=5",
@@ -371,35 +387,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗 Shows Promising Results for CAR-T細胞療法-細胞治療 in Advanced Mesothelioma",
-      "summary": "or CAR-T細胞療法-細胞治療 in Advanced Mesothelioma Mesothelioma Guide",
-      "source": "Mesothelioma Guide",
+      "title": "Update on eVOLVE-Lung02 第三期試驗 trial of volrustomig plus chemotherapy in metastatic non-small cell lung cancer",
+      "summary": "of volrustomig plus chemotherapy in metastatic non-small cell lung cancer AstraZeneca",
+      "source": "AstraZeneca",
       "date": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObnByZmdGbjlSMXY5MnpJaTZBWndkWnRPQk5OVW44UkEyUW5fMm91d25US1pPNVVBMjhtYU1RNUVfT0NoemRPdS1SZk1PSzRjX2xaVnVKSkNYMFJHWnlfcHNDczFSMFlkMHNxd09KM2ZYd2JQcjhmNFFDczZNSkphOHBnMEpDV2pPMW5n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUlleDBnQmFlTEVxdFNJOHNzVmdZUTI3WDZMWWZocElKdzhYQi16ejFDUmpLbUFod0FJdjBSODg1dmhPYUdxbDdEXzZZU2RGa1NXWmx4WTBtZ1Vxc0p4MTRRVVhkaV80WUNxVFRYVGxBbW5GZ1pzUHVDZURCM2VXbmI3LWZfMlVEWVZTWjhUcGw5SXdyUVlwUzFXMktnaldOMGdJN2NrN1I?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "嵌合抗原受體T細胞療法（CAR-T）超越癌症應用：現況、挑戰與未來展望",
-      "summary": "",
+      "title": "CAR-T細胞療法 細胞治療 beyond cancer: current status, challenges and future prospects",
+      "summary": "t status, challenges and future prospects Nature",
       "source": "Nature",
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43WVRRMkY3elBIcnp0TUJpV01HNEpabVNXcDY0WldTN3NEbk1faDNmWDdCdHVBNGtkOHlveVJwMnJ3b0dURUVvWV9rLVBKUzhsOVpmVU5LQ2tBNTA5ZVpN?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE2] MRG003 Plus Toripalimab Versus Toripalimab as Neoadjuvant Therapy for PD-L1-Positive, Resectable, Locally Advanced Head and Neck Squamous Cell Carcinoma",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Dongguan People's Hospital｜This is a multicenter, prospective, randomized, controlled 第二期試驗 trial evaluating the safety and efficacy of MRG003 (Becotatug vedotin) combined with Toripalimab versus Toripalimab alone as neoadjuvant therapy for PD-L1-positive, resectable locall",
-      "source": "ClinicalTrials.gov｜China",
-      "date": "2026-08-10",
-      "url": "https://clinicaltrials.gov/study/NCT07677475",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[NA] A Study Using Brain Stimulation and Behavioral Therapy to Increase Extent of Resection in Low-Grade Gliomas",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Medical College of Wisconsin｜This study uses a cranial implant to deliver cortical stimulation that, when paired with physiotherapy, will remap the brain so that critical brain functions can be protected during brain tumor surgery. This pilot study will provide initial evidence ",
-      "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-08-01",
-      "url": "https://clinicaltrials.gov/study/NCT04745156",
       "lang": "zh-TW"
     }
   ]
