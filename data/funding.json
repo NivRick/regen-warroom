@@ -1,74 +1,114 @@
 {
   "module": "funding",
-  "updated": "2026-09-01T01:32:33.890742+00:00",
+  "updated": "2026-09-01T15:24:04.097904+00:00",
   "items": [
     {
+      "title": "STAT+: 川普與藥廠最新協議的5大關鍵問題",
+      "summary": "這裡整理了川普政府與藥廠針對藥價協議所達成的一些關鍵問題。",
+      "source": "STAT News",
+      "date": "2026-09-01",
+      "url": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: 諾華憑藉BTK抑制劑在多發性硬化症領域告捷",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-09-01",
+      "url": "https://www.statnews.com/2026/09/01/biotech-news-novartis-gets-multiple-sclerosis-win-with-btk-inhibitor/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關諾華 (Novartis) 和布里斯托爾 (Bristol) 暫停細胞療法試驗、一種 48 萬美元癌症藥物等的信息",
+      "summary": "諾華 (Novartis) 和百時美施貴寶 (Bristol Myers Squibb) 已暫停多項細胞療法試驗，而 48 萬美元現已成為抗癌藥物的常規價格。閱讀今日最新的藥學頭條新聞",
+      "source": "STAT News",
+      "date": "2026-09-01",
+      "url": "https://www.statnews.com/pharmalot/2026/09/01/novartis-bristol-trials-paused-pancreatic-cancer-drug-price-pharmalittle-newsletter/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "研究發現帕克斯洛維德對新冠病毒長期沒有幫助",
+      "summary": "新的川普藥品定價交易、雜草食用和駕駛研究，以及早間查房的更多健康新聞",
+      "source": "STAT News",
+      "date": "2026-09-01",
+      "url": "https://www.statnews.com/2026/09/01/health-news-paxlovid-did-not-help-long-covid-study-finds/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：眾議院會推遲川普將 NIH 撥款政治化的計畫嗎？",
+      "summary": "聯邦支出法案對研究人員有一項重要規定，川普宣布與製藥公司達成更多最惠國協議。",
+      "source": "STAT News",
+      "date": "2026-09-01",
+      "url": "https://www.statnews.com/2026/09/01/house-spending-bill-vote-grant-rule-trump-mfn-deals-dc-diagnois/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
       "title": "Trump strikes nine more deals with drugmakers to lower prices",
-      "summary": "President Trump on Monday announced the next round of pricing deals with drugmakers, with nine new companies making such agreements.",
+      "summary": "川普總統週一宣布與製藥商達成下一輪定價協議，有九家新公司達成了此類協議。",
       "source": "STAT News",
       "date": "2026-08-31",
       "url": "https://www.statnews.com/2026/08/31/trump-most-favored-nation-drug-pricing-new-round-price-cuts-announced/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Can buying a drug patent application be seen as a bid to prolong a monopoly?",
-      "summary": "A drug patent case involving Amgen is being closely watched given its potential implications for pharmaceutical patent deals broadly.",
+      "title": "STAT+：購買藥品專利申請是否可視為延長壟斷？",
+      "summary": "鑑於其對藥品專利交易的潛在影響，涉及安進的藥品專利案正受到密切關注。",
       "source": "STAT News",
       "date": "2026-08-31",
       "url": "https://www.statnews.com/pharmalot/2026/08/31/pending-drug-patent-applications-amgen-carefirst/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: We’re reading about drug pricing deals, a new cancer therapy approval, and more",
-      "summary": "In today's Pharmalittle newsletter, drug pricing deals, a new cancer therapy approval, and more of the latest pharma headlines.",
+      "title": "STAT+：我們正在閱讀有關藥品定價交易、新的癌症療法批准等的信息",
+      "summary": "在今天的 Pharmalittle 時事通訊中，您將了解藥品定價交易、新的癌症治療方法的批准以及更多最新的製藥頭條新聞。",
       "source": "STAT News",
       "date": "2026-08-31",
       "url": "https://www.statnews.com/pharmalot/2026/08/31/drug-pricing-deals-polycythemia-vera-mimrylo-pharmalittle-newsletter/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Novartis, Bristol Myers pause autoimmune CAR-T細胞療法 trials due to safety concerns",
-      "summary": "Side effects observed in testing have led Novartis to halt development of rap-cel in multiple indications and Bristol Myers to voluntarily pause its zola-cel program.",
+      "title": "諾華（Novartis）、百時美施貴寶（Bristol Myers）因安全疑慮暫停自體免疫嵌合抗原受體T細胞療法（CAR-T）臨床試驗",
+      "summary": "諾華（Novartis）因試驗中觀察到副作用，已暫停rap-cel在多種適",
       "source": "BioPharma Dive",
       "date": "2026-08-31",
       "url": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） OKs Takeda, Protagonist drug for rare blood cancer",
-      "summary": "The clearance and broader-than-expected label for Mimrylo open up a yearly revenue opportunity for Takeda that some analysts expect to reach $2 billion or more.",
+      "title": "美國食藥局（FDA） 批准武田（Takeda）治療罕見血癌的主角藥物",
+      "summary": "Mimrylo 的批准和比預期更廣泛的標籤為武田帶來了年度收入機會，一些分析師預計收入將達到 20 億美元或更多。",
       "source": "BioPharma Dive",
       "date": "2026-08-31",
       "url": "https://www.biopharmadive.com/news/fda-approve-mimrylo-takeda-protagonist-polycythemia-vera/829153/",
       "lang": "zh-TW"
     },
     {
-      "title": "Lilly adds to immune drug pipeline with $2.9B Merida buyout",
-      "summary": "The big drugmaker&rsquo;s latest company acquisition this year is centered around a technology designed to degrade proteins that malfunction in autoimmune disorders.",
+      "title": "禮來公司 (Lilly) 透過 $2.9B 收購 Merida 增加免疫藥物管道",
+      "summary": "這家大型製藥商今年最新的公司收購主要圍繞著一項旨在降解在自體免疫疾病中出現故障的蛋白質的技術。",
       "source": "BioPharma Dive",
       "date": "2026-08-31",
       "url": "https://www.biopharmadive.com/news/lilly-merida-acquire-deal-immune-drugs-graves-disease/829152/",
       "lang": "zh-TW"
     },
     {
-      "title": "Moderna raises $2.6B to support cancer work; 美國食藥局（FDA） clears updated COVID vaccines",
-      "summary": "Moderna&rsquo;s upsized note offering quickly followed a big win in a crucial study. Elsewhere, a biotech&rsquo;s shares tumbled after study data were &ldquo;inadvertently&rdquo; published ahead of a medical meeting.",
+      "title": "Moderna 籌集了 $2.6B 以支持癌症工作； 美國食藥局（FDA） 批准更新的新冠疫苗",
+      "summary": "在一項重要研究取得重大勝利後，Moderna 很快就推出了大額紙幣發行。在其他地方，由於研究數據在醫學會議之前「無意中」發布，一家生物技術公司的股價暴跌。",
       "source": "BioPharma Dive",
       "date": "2026-08-28",
       "url": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
       "lang": "zh-TW"
     },
     {
-      "title": "This week in charts: Biotech’s rebound is undeniable",
-      "summary": "Not only is the XBI continuing to hover around a historic high, but drug companies can&rsquo;t seem to get enough of both large IPOs and big-ticket M&A.",
+      "title": "本週圖表：生物技術的反彈是不可否認的",
+      "summary": "XBI 不僅繼續徘徊在歷史高點附近，而且製藥公司似乎對大型 首次公開上市（IPO） 和大額併購還不夠。",
       "source": "BioPharma Dive",
       "date": "2026-08-28",
       "url": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech Fundraising Tracker '26: AusperBio adds $120M; Abcuro secures $66M",
-      "summary": "AusperBio adds $120M; Abcuro secures $66M Fierce Biotech",
+      "title": "Fierce Biotech 籌款追蹤 '26：AusperBio 增加 1.2 億美元； Abcuro 獲得 6,600 萬美元融資",
+      "summary": "AusperBio 增加 1.2 億美元； Abcuro 獲得 Fierce Biotech 6,600 萬美元融資",
       "source": "Fierce Biotech",
       "date": "2026-08-28",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",

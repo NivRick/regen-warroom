@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-09-01T01:32:16.533586+00:00",
+  "updated": "2026-09-01T15:23:06.427561+00:00",
   "items": [
     {
       "title": "ALPROLIX",
-      "summary": "Product approval information is indicated for adults and children with hemophilia B for: (1) On-demand treatment and control of bleeding episodes, (2) Perioperative management, (3) Routine prophylaxis to reduce the frequency of bleeding episodes.",
+      "summary": "本產品已獲核准用於成人及兒童的B型血友病患者，可按需治療及控制出血事件。",
       "source": "FDA Biologics",
       "date": "2026-08-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/alprolix",
@@ -12,30 +12,30 @@
     },
     {
       "title": "BeneFIX",
-      "summary": "Product approval information is indicated for routine prophylaxis to prevent or reduce the frequency of bleeding episodes in patients with hemophilia B (congenital factor IX deficiency or Christmas disease)",
+      "summary": "本產品已獲核准用於血友病患者的常規預防性治療，以預",
       "source": "FDA Biologics",
       "date": "2026-08-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/benefix",
       "lang": "zh-TW"
     },
     {
-      "title": "CINRYZE",
-      "summary": "Product approval information is indicated for routine prophylaxis against angioedema attacks in adolescent and adult patients with Hereditary Angioedema (HAE).",
+      "title": "辛瑞茲",
+      "summary": "產品核准資訊適用於患有遺傳性血管性水腫 (HAE) 的青少年和成人患者的血管性水腫發作的常規預防。",
       "source": "FDA Biologics",
       "date": "2026-08-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/cinryze",
       "lang": "zh-TW"
     },
     {
-      "title": "Berinert",
-      "summary": "Product approval information is indicated for treatment of acute abdominal or facial attacks of hereditary angioedema (HAE) in adult and adolescent patients.",
+      "title": "貝裡內特",
+      "summary": "產品核准資訊適用於治療成人和青少年患者遺傳性血管性水腫 (HAE) 的急性腹部或臉部發作。",
       "source": "FDA Biologics",
       "date": "2026-08-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/berinert",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 2026 Orphan Approvals (new BLAs)",
+      "title": "CBER 2026 孤兒批准（新 BLA）",
       "summary": "",
       "source": "FDA Biologics",
       "date": "2026-08-31",
@@ -43,32 +43,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BabyBIG",
-      "summary": "Product approval information is indicated for Treatment of infant botulism caused by type A or type B in patients below one year of age.",
+      "title": "寶貝大",
+      "summary": "產品核准資訊用於治療一歲以下患者由 A 型或 B 型引起的嬰兒肉毒桿菌中毒。",
       "source": "FDA Biologics",
       "date": "2026-08-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/babybig",
       "lang": "zh-TW"
     },
     {
-      "title": "VARIZIG",
-      "summary": "Product approval information is indicated for postexposure prophylaxis in high risk individuals. High risk groups include: o\tImmunocompromised children and adults,\no\tNewborns of mothers with varicella shortly before or after delivery,\no\tPremature inf",
+      "title": "瓦里齊格",
+      "summary": "產品核准資訊用於高風險個體的暴露後預防。高危險群包括： o 免疫功能低下的兒童和成人，\no 母親在分娩前後不久就已經有水痘的新生兒，\no 過早的信息",
       "source": "FDA Biologics",
       "date": "2026-08-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/varizig",
       "lang": "zh-TW"
     },
     {
-      "title": "LUXTURNA",
-      "summary": "Is an adeno-associated virus vector-based 基因療法 indicated for the treatment of patients with confirmed biallelic RPE65 mutation-associated retinal dystrophy. Patients must have viable retinal cells as determined by the treating physician(s).",
+      "title": "奢華",
+      "summary": "是一種基於腺相關病毒載體的基因療法，適用於治療已確診的雙等位基因 RPE65 突變相關的視網膜營養不良患者。由治療醫生確定，患者必須具有存活的視網膜細胞。",
       "source": "FDA Biologics",
       "date": "2026-08-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/luxturna",
       "lang": "zh-TW"
     },
     {
-      "title": "StockWatch: Revolution Shares Stay Flat Despite Historic 美國食藥局（FDA） Approval of Oral Pancreatic Cancer Therapy",
-      "summary": "In April, Revolution shares rocketed 54% after the company announced dazzling data from its 第三期試驗 RASolute 302 trial (NCT06625320) evaluating Rasonque in patients with metastatic pancreatic ductal adenocarcinoma (PDAC) who had been previously tre",
+      "title": "股市觀察：儘管口服胰臟癌療法獲美國食品藥物管理局（FDA）歷史性核准，Revolution 股價仍持平",
+      "summary": "四月，Revolution 股價在公司公布其三期臨床試驗 RASolute 302 (NCT06625320) 評估 Raso 的亮眼數據後，飆升了 54%。",
       "source": "GEN News",
       "date": "2026-08-30",
       "url": "https://www.genengnews.com/topics/cancer/stockwatch-revolution-shares-stay-flat-despite-historic-fda-approval-of-oral-pancreatic-cancer-therapy/",
@@ -77,45 +77,45 @@
     {
       "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
       "summary": "",
-      "source": "報導者The Reporter",
+      "source": "twreporter.org",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     },
     {
-      "title": "Pharmaceutical CDMO Market Size, Report 2026-2035",
-      "summary": "2026-2035 Global Market Insights Inc.",
+      "title": "2026-2035 年全球製藥委託開發製造服務（CDMO）市場規模報告",
+      "summary": "這份報告分析 2026 至 2035 年全球製藥 CDMO 市場規模，提供產業發展趨勢與預測。",
       "source": "Global Market Insights Inc.",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sbFlWbTJCOXVmZUhlaXRRVG5iZVVpWjRoelJwVTBWZGExMnYxaDZLX1JZRVdyRDNrQWJ4OEFIYk5PVlgwQ0Y1d19TdGRVbVF0QlRfMEJOUG9MVVVJVzJyR1M5SDRLS3RqaGJHTzJlLUxrUW5meHJwVmFJOA?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia (BCDA) Q2 2026 Earnings Call Transcript",
-      "summary": "ranscript The Globe and Mail",
+      "title": "BioCardia (BCDA) 2026 年第二季財報電話會議逐字稿",
+      "summary": "BioCardia (BCDA) 2026 年第二季財報電話會議的完整逐字稿，提供詳細的營運與財務討論內容。",
       "source": "The Globe and Mail",
       "date": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "嵌合抗原受體 T-細胞治療 in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica",
-      "summary": "in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica Via Medica Journals",
+      "title": "2026 年多發性骨髓瘤的嵌合抗原受體T細胞療法（CAR-T）：核准適應症、長期療效、毒性、治療順序與新興平台之綜述",
+      "summary": "本文綜述 2026 年多發性骨髓瘤的 CAR-T 療法，探討其核准適應症、長期療效、毒性、治療順序及新興平台。",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia Reports Second Quarter 2026 Business Highlights and Financial Results",
-      "summary": "siness Highlights and Financial Results GlobeNewswire",
+      "title": "BioCardia 公布 2026 年第二季營運亮點與財務報告",
+      "summary": "BioCardia 揭露 2026 年第二季的營運成果與財務狀況，提供投資人最新資訊。",
       "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "JAPAN Biomaterials Market Size, Share,Trends, Growth Analysis Report, 2030",
-      "summary": "ends, Growth Analysis Report, 2030 MarketsandMarkets",
+      "title": "日本生醫材料市場規模、市佔率、趨勢與成長分析報告，展望 2030 年",
+      "summary": "這份報告深入分析日本生醫材料市場，涵蓋規模、市佔率、趨勢及未來成長預測至 2030 年。",
       "source": "MarketsandMarkets",
       "date": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmhMMTkwel9YaFRZOGUxYVMxWGt3SVJ3WXpxck1WX2xOOTlZck1Qc0IyYXZBOEstaVI2SzVpNTM3SGJJcUlTZjZwOVUtWmF6djNtb0VGQV8yendNWldxNmtmZ1NTdDRaWG5URm5KNEdOemp6eU5vb0dtMDh4TUFfaXVtVQ?oc=5",
