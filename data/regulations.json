@@ -1,18 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-09-01T15:23:06.427561+00:00",
+  "updated": "2026-09-02T00:43:56.799372+00:00",
   "items": [
     {
-      "title": "ALPROLIX",
-      "summary": "本產品已獲核准用於成人及兒童的B型血友病患者，可按需治療及控制出血事件。",
+      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製劑中外源因子檢測的下一代定序",
+      "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
+      "source": "09/23/2026",
+      "date": "2026-09-01",
+      "url": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/fda-scientific-public-workshop-next-generation-sequencing-adventitious-agent-detection-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "阿爾普羅利克斯",
+      "summary": "針對 B 型血友病成人和兒童的產品核准資訊顯示：(1) 按需治療和控制出血事件，(2) 圍手術期管理，(3) 常規預防，以減少出血事件的頻率。",
       "source": "FDA Biologics",
       "date": "2026-08-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/alprolix",
       "lang": "zh-TW"
     },
     {
-      "title": "BeneFIX",
-      "summary": "本產品已獲核准用於血友病患者的常規預防性治療，以預",
+      "title": "貝尼菲克斯",
+      "summary": "產品核准資訊適用於常規預防，以預防或減少 B 型血友病（先天性因子 IX 缺乏症或聖誕病）患者出血事件的頻率",
       "source": "FDA Biologics",
       "date": "2026-08-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/benefix",
@@ -59,66 +67,42 @@
       "lang": "zh-TW"
     },
     {
-      "title": "奢華",
-      "summary": "是一種基於腺相關病毒載體的基因療法，適用於治療已確診的雙等位基因 RPE65 突變相關的視網膜營養不良患者。由治療醫生確定，患者必須具有存活的視網膜細胞。",
-      "source": "FDA Biologics",
-      "date": "2026-08-31",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/luxturna",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "股市觀察：儘管口服胰臟癌療法獲美國食品藥物管理局（FDA）歷史性核准，Revolution 股價仍持平",
-      "summary": "四月，Revolution 股價在公司公布其三期臨床試驗 RASolute 302 (NCT06625320) 評估 Raso 的亮眼數據後，飆升了 54%。",
-      "source": "GEN News",
-      "date": "2026-08-30",
-      "url": "https://www.genengnews.com/topics/cancer/stockwatch-revolution-shares-stay-flat-despite-historic-fda-approval-of-oral-pancreatic-cancer-therapy/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
       "summary": "",
-      "source": "twreporter.org",
+      "source": "報導者The Reporter",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     },
     {
-      "title": "2026-2035 年全球製藥委託開發製造服務（CDMO）市場規模報告",
-      "summary": "這份報告分析 2026 至 2035 年全球製藥 CDMO 市場規模，提供產業發展趨勢與預測。",
+      "title": "Pharmaceutical CDMO Market Size, Report 2026-2035",
+      "summary": "2026-2035 全球市場洞察公司",
       "source": "Global Market Insights Inc.",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sbFlWbTJCOXVmZUhlaXRRVG5iZVVpWjRoelJwVTBWZGExMnYxaDZLX1JZRVdyRDNrQWJ4OEFIYk5PVlgwQ0Y1d19TdGRVbVF0QlRfMEJOUG9MVVVJVzJyR1M5SDRLS3RqaGJHTzJlLUxrUW5meHJwVmFJOA?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia (BCDA) 2026 年第二季財報電話會議逐字稿",
-      "summary": "BioCardia (BCDA) 2026 年第二季財報電話會議的完整逐字稿，提供詳細的營運與財務討論內容。",
+      "title": "BioCardia (BCDA) 2026 年第二季財報電話會議紀錄",
+      "summary": "環球郵報手稿",
       "source": "The Globe and Mail",
       "date": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年多發性骨髓瘤的嵌合抗原受體T細胞療法（CAR-T）：核准適應症、長期療效、毒性、治療順序與新興平台之綜述",
-      "summary": "本文綜述 2026 年多發性骨髓瘤的 CAR-T 療法，探討其核准適應症、長期療效、毒性、治療順序及新興平台。",
+      "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性綜述 |萊吉克 |波蘭血液學報",
+      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 公布 2026 年第二季營運亮點與財務報告",
-      "summary": "BioCardia 揭露 2026 年第二季的營運成果與財務狀況，提供投資人最新資訊。",
+      "title": "BioCardia 報告 2026 年第二季業務亮點和財務業績",
+      "summary": "業務亮點和財務業績 GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "日本生醫材料市場規模、市佔率、趨勢與成長分析報告，展望 2030 年",
-      "summary": "這份報告深入分析日本生醫材料市場，涵蓋規模、市佔率、趨勢及未來成長預測至 2030 年。",
-      "source": "MarketsandMarkets",
-      "date": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmhMMTkwel9YaFRZOGUxYVMxWGt3SVJ3WXpxck1WX2xOOTlZck1Qc0IyYXZBOEstaVI2SzVpNTM3SGJJcUlTZjZwOVUtWmF6djNtb0VGQV8yendNWldxNmtmZ1NTdDRaWG5URm5KNEdOemp6eU5vb0dtMDh4TUFfaXVtVQ?oc=5",
       "lang": "zh-TW"
     }
   ]

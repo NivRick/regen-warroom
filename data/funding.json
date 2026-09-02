@@ -1,18 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-09-01T15:24:04.097904+00:00",
+  "updated": "2026-09-02T00:44:37.300381+00:00",
   "items": [
     {
-      "title": "STAT+: 川普與藥廠最新協議的5大關鍵問題",
-      "summary": "這裡整理了川普政府與藥廠針對藥價協議所達成的一些關鍵問題。",
+      "title": "STAT+：眾議院投票暫時阻止川普將聯邦撥款政治化的計劃",
+      "summary": "眾議院投票通過了一項權宜之計的撥款法案，該法案目前阻止了白宮一項賦予政治任命者對研究撥款更多控制權的提議。",
+      "source": "STAT News",
+      "date": "2026-09-01",
+      "url": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：有關川普與製藥商最新交易的 5 個迫切問題",
+      "summary": "以下是有關川普政府與製藥商就定價達成的協議的一些關鍵問題。",
       "source": "STAT News",
       "date": "2026-09-01",
       "url": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 諾華憑藉BTK抑制劑在多發性硬化症領域告捷",
-      "summary": "",
+      "title": "STAT+：諾華憑藉 BTK 抑制劑贏得多發性硬化症治療",
+      "summary": "更多川普藥品定價交易、葛蘭素史克加快 信使RNA（mRNA） 流感疫苗的開發等生物技術新聞",
       "source": "STAT News",
       "date": "2026-09-01",
       "url": "https://www.statnews.com/2026/09/01/biotech-news-novartis-gets-multiple-sclerosis-win-with-btk-inhibitor/?utm_campaign=rss",
@@ -20,7 +28,7 @@
     },
     {
       "title": "STAT+：Pharmalittle：我們正在閱讀有關諾華 (Novartis) 和布里斯托爾 (Bristol) 暫停細胞療法試驗、一種 48 萬美元癌症藥物等的信息",
-      "summary": "諾華 (Novartis) 和百時美施貴寶 (Bristol Myers Squibb) 已暫停多項細胞療法試驗，而 48 萬美元現已成為抗癌藥物的常規價格。閱讀今日最新的藥學頭條新聞",
+      "summary": "諾華 (Novartis) 和百時美施貴寶 (Bristol Myers Squibb) 已暫停多項細胞療法試驗，而 48 萬美元現已成為抗癌藥物的常規價格。阅读今日最新的制药头条新闻",
       "source": "STAT News",
       "date": "2026-09-01",
       "url": "https://www.statnews.com/pharmalot/2026/09/01/novartis-bristol-trials-paused-pancreatic-cancer-drug-price-pharmalittle-newsletter/?utm_campaign=rss",
@@ -43,7 +51,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Trump strikes nine more deals with drugmakers to lower prices",
+      "title": "中型生技公司加入川普最新一輪藥品定價交易",
+      "summary": "新協議以醫療補助為重點，現在涉及的不僅僅是大型製藥公司，但預計仍不會對製藥商的利潤產生重大影響。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-01",
+      "url": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：川普與藥廠達成九項協議以降低價格",
       "summary": "川普總統週一宣布與製藥商達成下一輪定價協議，有九家新公司達成了此類協議。",
       "source": "STAT News",
       "date": "2026-08-31",
@@ -67,8 +83,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "諾華（Novartis）、百時美施貴寶（Bristol Myers）因安全疑慮暫停自體免疫嵌合抗原受體T細胞療法（CAR-T）臨床試驗",
-      "summary": "諾華（Novartis）因試驗中觀察到副作用，已暫停rap-cel在多種適",
+      "title": "出於安全考慮，諾華、百時美施貴寶暫停自體免疫 CAR-T細胞療法 試驗",
+      "summary": "三名研究參與者的死亡導致諾華公司停止了 rap-cel 多種適應症的開發，而「短暫」的副作用則促使百時美施貴寶公司自願暫停其 zola-cel 計畫。",
       "source": "BioPharma Dive",
       "date": "2026-08-31",
       "url": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
@@ -84,7 +100,7 @@
     },
     {
       "title": "禮來公司 (Lilly) 透過 $2.9B 收購 Merida 增加免疫藥物管道",
-      "summary": "這家大型製藥商今年最新的公司收購主要圍繞著一項旨在降解在自體免疫疾病中出現故障的蛋白質的技術。",
+      "summary": "The big drugmaker&rsquo;s latest company acquisition this year is centered around a technology designed to degrade proteins that malfunction in autoimmune disorders.",
       "source": "BioPharma Dive",
       "date": "2026-08-31",
       "url": "https://www.biopharmadive.com/news/lilly-merida-acquire-deal-immune-drugs-graves-disease/829152/",
@@ -96,22 +112,6 @@
       "source": "BioPharma Dive",
       "date": "2026-08-28",
       "url": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "本週圖表：生物技術的反彈是不可否認的",
-      "summary": "XBI 不僅繼續徘徊在歷史高點附近，而且製藥公司似乎對大型 首次公開上市（IPO） 和大額併購還不夠。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-28",
-      "url": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 籌款追蹤 '26：AusperBio 增加 1.2 億美元； Abcuro 獲得 6,600 萬美元融資",
-      "summary": "AusperBio 增加 1.2 億美元； Abcuro 獲得 Fierce Biotech 6,600 萬美元融資",
-      "source": "Fierce Biotech",
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     }
   ]
