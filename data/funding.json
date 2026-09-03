@@ -1,10 +1,42 @@
 {
   "module": "funding",
-  "updated": "2026-09-03T00:52:34.442656+00:00",
+  "updated": "2026-09-03T14:51:23.991001+00:00",
   "items": [
     {
-      "title": "STAT+: 美國衛生高級研究計畫局（ARPA-H）資助生技公司研發客製化核糖核酸（RNA）療法",
-      "summary": "羅氏（Roche）取得一款三特異性抗體授權，川普政府新協議恐削弱其自身目標，以及其他生技產業新聞",
+      "title": "西雅圖科學家啟動9500萬美元的人工智慧（AI）生物學計畫",
+      "summary": "Ultragenyx藥物在關鍵性三期臨床試驗中失利，美國食品藥物管理局（FDA）在規範未經證實的幹細胞方面取得成功，以及其他生技新聞。",
+      "source": "STAT News",
+      "date": "2026-09-03",
+      "url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：福奇講話與寫作",
+      "summary": "安東尼福奇正在寫一本書，我們將解析川普最新的藥品定價交易，以及更多來自 STAT 的華盛頓診斷通訊的資訊。",
+      "source": "STAT News",
+      "date": "2026-09-03",
+      "url": "https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "觀點：STAT+：美國食藥局（FDA） 在調節未經證實的幹細胞方面令人驚訝的亮點",
+      "summary": "「這些成功令人驚訝，值得討論，甚至值得慶祝，」STAT Lab Dish 專欄作家 Paul Knoepfler 在談到 美國食藥局（FDA） 和幹細胞時寫道。",
+      "source": "STAT News",
+      "date": "2026-09-03",
+      "url": "https://www.statnews.com/2026/09/03/stem-cell-clinics-fda-cber-warning-letters-marketing/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "The hidden scale-out problem behind CAR-T細胞療法’s growth",
+      "summary": "CAR-T細胞療法 的商業挑戰是讓數千個針對特定患者的生產運作像可靠的系統一樣運作。 「體內」生產技術可能是一種解決方案。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-03",
+      "url": "https://www.biopharmadive.com/news/the-hidden-scale-out-problem-behind-car-t-growth/829405/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：ARPA-H 資助致力於客製化 RNA 療法的生物技術公司",
+      "summary": "羅氏獲得三特異性抗體許可，川普的新交易可能會削弱自身目標，以及其他生物技術新聞",
       "source": "STAT News",
       "date": "2026-09-02",
       "url": "https://www.statnews.com/2026/09/02/biotech-news-arp-h-funds-biotechs-working-on-custom-rna-therapies/?utm_campaign=rss",
@@ -40,54 +72,6 @@
       "source": "BioPharma Dive",
       "date": "2026-09-02",
       "url": "https://www.biopharmadive.com/news/uniqure-submit-fda-approval-huntingtons-gene-therapy/829400/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：眾議院投票暫時阻止川普將聯邦撥款政治化的計劃",
-      "summary": "眾議院投票通過了一項權宜之計的撥款法案，該法案目前阻止了白宮一項賦予政治任命者對研究撥款更多控制權的提議。",
-      "source": "STAT News",
-      "date": "2026-09-01",
-      "url": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：有關川普與製藥商最新交易的 5 個迫切問題",
-      "summary": "以下是有關川普政府與製藥商就定價達成的協議的一些關鍵問題。",
-      "source": "STAT News",
-      "date": "2026-09-01",
-      "url": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：諾華憑藉 BTK 抑制劑贏得多發性硬化症治療",
-      "summary": "更多川普藥品定價交易、葛蘭素史克加快 信使RNA（mRNA） 流感疫苗的開發等生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-09-01",
-      "url": "https://www.statnews.com/2026/09/01/biotech-news-novartis-gets-multiple-sclerosis-win-with-btk-inhibitor/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關諾華 (Novartis) 和布里斯托爾 (Bristol) 暫停細胞療法試驗、一種 48 萬美元癌症藥物等的信息",
-      "summary": "諾華 (Novartis) 和百時美施貴寶 (Bristol Myers Squibb) 已暫停多項細胞療法試驗，而 48 萬美元現已成為抗癌藥物的常規價格。阅读今日最新的制药头条新闻",
-      "source": "STAT News",
-      "date": "2026-09-01",
-      "url": "https://www.statnews.com/pharmalot/2026/09/01/novartis-bristol-trials-paused-pancreatic-cancer-drug-price-pharmalittle-newsletter/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "研究發現帕克斯洛維德對新冠病毒長期沒有幫助",
-      "summary": "新的川普藥品定價交易、雜草食用和駕駛研究，以及早間查房的更多健康新聞",
-      "source": "STAT News",
-      "date": "2026-09-01",
-      "url": "https://www.statnews.com/2026/09/01/health-news-paxlovid-did-not-help-long-covid-study-finds/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：眾議院會推遲川普將 NIH 撥款政治化的計畫嗎？",
-      "summary": "聯邦支出法案對研究人員有一項重要規定，川普宣布與製藥公司達成更多最惠國協議。",
-      "source": "STAT News",
-      "date": "2026-09-01",
-      "url": "https://www.statnews.com/2026/09/01/house-spending-bill-vote-grant-rule-trump-mfn-deals-dc-diagnois/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
