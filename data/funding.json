@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-09-02T14:53:15.351493+00:00",
+  "updated": "2026-09-03T00:52:34.442656+00:00",
   "items": [
     {
-      "title": "美國衛生進階研究計畫署（ARPA-H）挹注資金，支持客製化核糖核酸（RNA）療法生技公司",
-      "summary": "羅氏（Roche）授權三特異性抗體，川普新藥價協議恐與其目標背道而馳，以及其他生技新聞。",
+      "title": "STAT+: 美國衛生高級研究計畫局（ARPA-H）資助生技公司研發客製化核糖核酸（RNA）療法",
+      "summary": "羅氏（Roche）取得一款三特異性抗體授權，川普政府新協議恐削弱其自身目標，以及其他生技產業新聞",
       "source": "STAT News",
       "date": "2026-09-02",
       "url": "https://www.statnews.com/2026/09/02/biotech-news-arp-h-funds-biotechs-working-on-custom-rna-therapies/?utm_campaign=rss",
@@ -24,6 +24,22 @@
       "source": "STAT News",
       "date": "2026-09-02",
       "url": "https://www.statnews.com/2026/09/02/trump-most-favored-nation-drug-pricing-industry-analysts-skeptical/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "諾華、百時美施貴寶研究停止後，自體免疫 CAR-T細胞療法 面臨嚴峻問題",
+      "summary": "華爾街分析師認為，對製造、研究招生和副作用管理採取更謹慎的態度可以幫助開發商避免未來的安全隱患。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-02",
+      "url": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "UniQure 在遭遇挫折後尋求 美國食藥局（FDA） 批准亨廷頓基因療法",
+      "summary": "在與美國監管機構打交道經歷了異常動蕩的一年之後，該公司現在希望其申請能得到肯定的答案。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-02",
+      "url": "https://www.biopharmadive.com/news/uniqure-submit-fda-approval-huntingtons-gene-therapy/829400/",
       "lang": "zh-TW"
     },
     {
@@ -52,7 +68,7 @@
     },
     {
       "title": "STAT+：Pharmalittle：我們正在閱讀有關諾華 (Novartis) 和布里斯托爾 (Bristol) 暫停細胞療法試驗、一種 48 萬美元癌症藥物等的信息",
-      "summary": "諾華 (Novartis) 和百時美施貴寶 (Bristol Myers Squibb) 已暫停多項細胞療法試驗，而 48 萬美元現已成為抗癌藥物的常規價格。閱讀今日最新的藥學頭條新聞",
+      "summary": "諾華 (Novartis) 和百時美施貴寶 (Bristol Myers Squibb) 已暫停多項細胞療法試驗，而 48 萬美元現已成為抗癌藥物的常規價格。阅读今日最新的制药头条新闻",
       "source": "STAT News",
       "date": "2026-09-01",
       "url": "https://www.statnews.com/pharmalot/2026/09/01/novartis-bristol-trials-paused-pancreatic-cancer-drug-price-pharmalittle-newsletter/?utm_campaign=rss",
@@ -67,16 +83,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 眾議院會延遲川普將美國國家衛生研究院（NIH）補助政治化的計畫嗎？",
-      "summary": "眾議院可能延遲川普將美國國家衛生研究院（NIH）補助政治化的計畫，此舉引發業界關注。",
+      "title": "STAT+：眾議院會推遲川普將 NIH 撥款政治化的計畫嗎？",
+      "summary": "聯邦支出法案對研究人員有一項重要規定，川普宣布與製藥公司達成更多最惠國協議。",
       "source": "STAT News",
       "date": "2026-09-01",
       "url": "https://www.statnews.com/2026/09/01/house-spending-bill-vote-grant-rule-trump-mfn-deals-dc-diagnois/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "中型生技公司加入川普",
-      "summary": "",
+      "title": "中型生技公司加入川普最新一輪藥品定價交易",
+      "summary": "新協議以醫療補助為重點，現在涉及的不僅僅是大型製藥公司，但預計仍不會對製藥商的利潤產生重大影響。",
       "source": "BioPharma Dive",
       "date": "2026-09-01",
       "url": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
@@ -100,34 +116,10 @@
     },
     {
       "title": "禮來公司 (Lilly) 透過 $2.9B 收購 Merida 增加免疫藥物管道",
-      "summary": "The big drugmaker&rsquo;s latest company acquisition this year is centered around a technology designed to degrade proteins that malfunction in autoimmune disorders.",
+      "summary": "這家大型製藥商今年最新的公司收購主要圍繞著一項旨在降解在自體免疫疾病中出現故障的蛋白質的技術。",
       "source": "BioPharma Dive",
       "date": "2026-08-31",
       "url": "https://www.biopharmadive.com/news/lilly-merida-acquire-deal-immune-drugs-graves-disease/829152/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Moderna 籌集了 $2.6B 以支持癌症工作； 美國食藥局（FDA） 批准更新的新冠疫苗",
-      "summary": "在一項重要研究取得重大勝利後，Moderna 很快就推出了大額紙幣發行。在其他地方，由於研究數據在醫學會議之前「無意中」發布，一家生物技術公司的股價暴跌。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-28",
-      "url": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 籌款追蹤 '26：AusperBio 增加 1.2 億美元； Abcuro 獲得 6,600 萬美元融資",
-      "summary": "AusperBio 增加 1.2 億美元； Abcuro 獲得 Fierce Biotech 6,600 萬美元融資",
-      "source": "Fierce Biotech",
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "MassBio 表示，年輕的新創公司錯過了生物技術創投的反彈",
-      "summary": "MassBio 表示，再融資反彈",
-      "source": "biopharmadive.com",
-      "date": "2026-08-25",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0MtNmFOTnJXZFRvS0RwdG9FLVAzRmNTZkZ3cllLaG43ME5zNWlvRER1YkU2LWI3Yjl5cGZRdE5aYjJ6SG1XSVlCVXVFOUxkOHRLem1wRnNlR3pqcWtxOXZNN1Y4Vm1pMENRMUhjc0lVQ19PUk41em44NUVPVTBxUU0zVWtpVWM0TS1NTFdZeUM0UjJIZWln?oc=5",
       "lang": "zh-TW"
     }
   ]

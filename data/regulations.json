@@ -1,18 +1,82 @@
 {
   "module": "regulation",
-  "updated": "2026-09-02T14:52:30.374971+00:00",
+  "updated": "2026-09-03T00:51:37.550323+00:00",
   "items": [
     {
-      "title": "FDA科學公開研討會：次世代定序技術在生物製劑中外來病原體檢測的應用",
-      "summary": "這個研討會將邀請各領域專家和重要利害關係人，共同探討次世代定序（NGS）技術在外來病原體（AA）檢測上的成熟度，並找出相關挑戰。",
+      "title": "冠狀病毒 (COVID-19) | CBER 監管的生物製品",
+      "summary": "本頁面和相關連結提供與治療或預防 COVID-19 療法開發相關的指導和建議信息，以及尋求其他資訊或幫助的開發人員的聯絡資訊。",
+      "source": "FDA Biologics",
+      "date": "2026-09-02",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-09-02",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
+      "source": "FDA Biologics",
+      "date": "2026-09-02",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 圓桌會議：加強血液製造的供應鏈",
+      "summary": "2026 年 9 月 29 日，美國食品藥物管理局生物製品評估與研究中心血液研究與審查辦公室將舉辦圓桌會議，討論加強全血採集和製造的供應鏈",
+      "source": "09/29/2026",
+      "date": "2026-09-02",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "穿越監管迷宮：生物技術領導者如何在不確定的監管時代重新思考策略",
+      "summary": "當環境穩定下來時，那些透過清潔、嚴格、全球定位的計畫從不斷變化的監管週期中脫穎而出的公司將發現自己處於結構性優越的競爭地位。\n後生物技術領導者是 Rethi",
+      "source": "GEN News",
+      "date": "2026-09-02",
+      "url": "https://www.genengnews.com/topics/translational-medicine/navigating-the-regulatory-labyrinth-how-biotech-leaders-are-rethinking-strategy-in-an-uncertain-regulatory-era/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "GLP-1 藥物索馬魯肽可延緩小鼠老化並延長壽命",
+      "summary": "索馬魯肽改善了老年雌性小鼠的健康狀況，減少了與老化相關的變化，並延長了壽命，有時甚至優於熱量限制。然而，人類長壽的好處尚未得到證實。\n延長小鼠壽命的貼文首先出現在",
+      "source": "GEN News",
+      "date": "2026-09-02",
+      "url": "https://www.genengnews.com/topics/drug-discovery/glp-1-drug-semaglutide-slows-aging-and-extends-lifespan-in-mice/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "提高細菌生產力的 DNA 平衡法",
+      "summary": "一個新的數學模型追蹤質粒如何在競爭的大腸桿菌群體中移動，揭示抗生素、遺傳成本和質粒丟失如何影響生物技術培養和未來腸道中的益生菌劑量策略。\n郵政專業版",
+      "source": "GEN News",
+      "date": "2026-09-02",
+      "url": "https://www.genengnews.com/topics/bioprocessing/math-model-predicts-plasmid-power-struggles/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "監管要求更多過程控制數據推動創新",
+      "summary": "科技的進步使生物製藥公司更容易接受連續生產。然而，他們也在改變監管機構對製藥公司所使用的製程控制策略的期望。\n後期數據Fue",
+      "source": "GEN News",
+      "date": "2026-09-02",
+      "url": "https://www.genengnews.com/topics/bioprocessing/regulatory-demands-for-more-process-control-data-fueling-innovation/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製劑中外源因子檢測的下一代定序",
+      "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
       "source": "09/23/2026",
       "date": "2026-09-01",
       "url": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/fda-scientific-public-workshop-next-generation-sequencing-adventitious-agent-detection-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "ALPROLIX",
-      "summary": "這項產品已獲核准，適用於成人及兒童的B型血友病",
+      "title": "阿爾普羅利克斯",
+      "summary": "針對 B 型血友病成人和兒童的產品核准資訊顯示：(1) 按需治療和控制出血事件，(2) 圍手術期管理，(3) 常規預防，以減少出血事件的頻率。",
       "source": "FDA Biologics",
       "date": "2026-08-31",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/alprolix",
@@ -35,38 +99,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "貝裡內特",
-      "summary": "產品核准資訊適用於治療成人和青少年患者遺傳性血管性水腫 (HAE) 的急性腹部或臉部發作。",
-      "source": "FDA Biologics",
-      "date": "2026-08-31",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/berinert",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CBER 2026 孤兒批准（新 BLA）",
-      "summary": "",
-      "source": "FDA Biologics",
-      "date": "2026-08-31",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "寶貝大",
-      "summary": "產品核准資訊用於治療一歲以下患者由 A 型或 B 型引起的嬰兒肉毒桿菌中毒。",
-      "source": "FDA Biologics",
-      "date": "2026-08-31",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/babybig",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "瓦里齊格",
-      "summary": "產品核准資訊用於高風險個體的暴露後預防。高危險群包括： o 免疫功能低下的兒童和成人，\no 母親在分娩前後不久就已經有水痘的新生兒，\no 過早的信息",
-      "source": "FDA Biologics",
-      "date": "2026-08-31",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/varizig",
-      "lang": "zh-TW"
-    },
-    {
       "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
       "summary": "",
       "source": "報導者The Reporter",
@@ -74,8 +106,8 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     },
     {
-      "title": "BioCardia (BCDA)",
-      "summary": "",
+      "title": "BioCardia (BCDA) 2026 年第二季財報電話會議紀錄",
+      "summary": "環球郵報手稿",
       "source": "The Globe and Mail",
       "date": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
@@ -83,16 +115,16 @@
     },
     {
       "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性綜述 |萊吉克 |波蘭血液學報",
-      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 | Acta Haematologica Polonica 期刊.viamedica.pl",
-      "source": "journals.viamedica.pl",
+      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
+      "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 公布 2026年第二季營運亮點與財報",
-      "summary": "BioCardia 公布 2026年第二季營運亮點與財務報告，揭露公司最新業務進展與財務表現。",
-      "source": "GlobeNewswire",
+      "title": "BioCardia 報告 2026 年第二季業務亮點和財務業績",
+      "summary": "業務亮點和財務業績globenewswire.com",
+      "source": "globenewswire.com",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
       "lang": "zh-TW"
