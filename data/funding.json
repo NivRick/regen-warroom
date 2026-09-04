@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-09-04T00:33:25.910841+00:00",
+  "updated": "2026-09-04T14:40:54.519016+00:00",
   "items": [
     {
-      "title": "STAT+：西雅圖科學家發起 9,500 萬美元的人工智慧生物學研究",
-      "summary": "Ultragenyx 藥物未能完成關鍵的 3 期試驗、美國食藥局（FDA） 在監管未經證實的幹細胞方面取得成功，以及其他生物技術新聞",
+      "title": "STAT+：百時美施貴寶CAR-T試驗喊卡、輝瑞脫手擱置藥物等最新消息",
+      "summary": "Pharmalittle 電子報為您帶來 Pharmalot 園區的最新藥業動態。",
+      "source": "STAT News",
+      "date": "2026-09-04",
+      "url": "https://www.statnews.com/pharmalot/2026/09/04/pharmalittle-bristol-car-t-trial-pause-pfizer-offloads-shelved-candidate/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：西雅圖科學家啟動",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-09-03",
       "url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
@@ -12,7 +20,7 @@
     },
     {
       "title": "STAT+：福奇講話與寫作",
-      "summary": "安東尼福奇正在寫一本書，我們將解析川普最新的藥品定價交易，以及更多來自 STAT 的華盛頓診斷通訊的資訊。",
+      "summary": "Anthony Fauci is working on a book, we unpack Trump's latest drug pricing deals, and more from STAT's D.C. Diagnosis newsletter.",
       "source": "STAT News",
       "date": "2026-09-03",
       "url": "https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss",
@@ -43,22 +51,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：ARPA-H 資助致力於客製化 RNA 療法的生物技術公司",
-      "summary": "羅氏獲得三特異性抗體許可，川普的新交易可能會削弱自身目標，以及其他生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-09-02",
-      "url": "https://www.statnews.com/2026/09/02/biotech-news-arp-h-funds-biotechs-working-on-custom-rna-therapies/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關亨廷頓舞蹈症基因療法、Novo 挑戰等的內容",
-      "summary": "UniQure 已向 美國食藥局（FDA） 提交了亨廷頓舞蹈症基因療法，投資者對諾和諾德仍然不熱情，今天的 Pharmalittle 時事通訊上有更多最新的製藥頭條新聞。",
-      "source": "STAT News",
-      "date": "2026-09-02",
-      "url": "https://www.statnews.com/pharmalot/2026/09/02/uniqure-huntingtons-fda-novo-nordisk-investors-pharmalittle-newsletter/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "諾華、百時美施貴寶研究停止後，自體免疫 CAR-T細胞療法 面臨嚴峻問題",
       "summary": "華爾街分析師認為，對製造、研究招生和副作用管理採取更謹慎的態度可以幫助開發商避免未來的安全隱患。",
       "source": "BioPharma Dive",
@@ -75,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "中型生技公司加入川普最新一輪藥品定價交易",
-      "summary": "新協議以醫療補助為重點，現在涉及的不僅僅是大型製藥公司，但預計仍不會對製藥商的利潤產生重大影響。",
+      "title": "中型生技公司也加入川普最新藥價協議",
+      "summary": "川普政府最新藥價協議，中型生技公司也加入，但對藥價影響預期不大。",
       "source": "BioPharma Dive",
       "date": "2026-09-01",
       "url": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",

@@ -1,18 +1,34 @@
 {
   "module": "regulation",
-  "updated": "2026-09-04T00:32:51.667578+00:00",
+  "updated": "2026-09-04T14:40:18.886470+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）的生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "title": "細胞與基因治療產品",
+      "summary": "美國食品藥物管理局生物製品評估與研究中心（CBER）負責監督細胞與基因治療產品的臨床試驗，並提供科學與法規建議。",
+      "source": "FDA Biologics",
+      "date": "2026-09-04",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑產業",
+      "summary": "CBER的製造商協助與技術培訓",
+      "source": "FDA Biologics",
+      "date": "2026-09-04",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-09-03",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "冠狀病毒（COVID-19）與CBER管轄的生物製劑",
-      "summary": "本頁面及相關連結",
+      "title": "冠狀病毒 (COVID-19) | CBER 監管的生物製品",
+      "summary": "本頁面和相關連結提供與治療或預防 COVID-19 療法開發相關的指導和建議信息，以及尋求其他資訊或幫助的開發人員的聯絡資訊。",
       "source": "FDA Biologics",
       "date": "2026-09-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
@@ -35,51 +51,28 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生技領袖如何應對法規迷宮：不確定時代的策略再思",
-      "summary": "那些能以嚴謹、全球佈局的計畫，成功度過法規變革週期的生技公司，將在市場上取得結構性優勢。",
+      "title": "應對法規迷宮：生技領袖如何在法規不確定時代重塑策略",
+      "summary": "在法規變動的時代，生技公司需以嚴謹、全球化的策略應對，才能在市場中脫穎而出。",
       "source": "GEN News",
       "date": "2026-09-02",
       "url": "https://www.genengnews.com/topics/translational-medicine/navigating-the-regulatory-labyrinth-how-biotech-leaders-are-rethinking-strategy-in-an-uncertain-regulatory-era/",
       "lang": "zh-TW"
     },
     {
-      "title": "GLP-1藥物Semaglutide：小鼠實驗證實能減緩老化、延長壽命",
-      "summary": "Semaglutide在老年雌性小鼠身上，改善健康、減少老化並延長壽命，效果甚至超越熱量限制，為抗老化研究帶來新希望。",
+      "title": "昇糖素樣胜肽-1（GLP-1）藥物Semaglutide在小鼠身上展現減緩老化與延長壽命潛力",
+      "summary": "Semaglutide在老年雌性小鼠身上，改善健康、減少老化，並延長壽命，效果甚至超越熱量限制。",
       "source": "GEN News",
       "date": "2026-09-02",
       "url": "https://www.genengnews.com/topics/drug-discovery/glp-1-drug-semaglutide-slows-aging-and-extends-lifespan-in-mice/",
       "lang": "zh-TW"
     },
     {
-      "title": "提升細菌生產力的DNA平衡術：質體動態新模型",
-      "summary": "新數學模型追蹤質體（plasmid）在細菌（E. coli）群體中的移動，揭示抗生素、基因成本與質體流失如何影響細菌生產力。",
+      "title": "提升細菌生產力的DNA平衡術",
+      "summary": "新數學模型追蹤質體（plasmid）在大腸桿菌（E. coli）群體中的動態，揭示抗生素、基因成本等影響。",
       "source": "GEN News",
       "date": "2026-09-02",
       "url": "https://www.genengnews.com/topics/bioprocessing/math-model-predicts-plasmid-power-struggles/",
       "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製劑中外源因子檢測的下一代定序",
-      "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
-      "source": "09/23/2026",
-      "date": "2026-09-01",
-      "url": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/fda-scientific-public-workshop-next-generation-sequencing-adventitious-agent-detection-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Advanced Therapy Medicinal Products Market to Reach US$ 121.81 Billion by 2034",
-      "summary": "et to Reach US$ 121.81 Billion by 2034 Market.us Media",
-      "source": "Market.us Media",
-      "date": "2026-09-01",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80TmNuMkJ4WkZGV2lmSU9HVnM4Y1NWRlQ0cy1ZRGFSVktlRnFWM0MtTWhDQkdicHoycWdFRGh3MFYxRUo1cUJBeXZsOEhBQWR6ZG03c0dMV0pYTGdiTW1vcTVUZzNXamhlZjh0RmNpbnc5SmtUXzQwS0pGMVg?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "仲恩布局全球細胞治療市場 串連國際商化、臨床轉譯、智慧製造專家",
-      "summary": "",
-      "source": "news.gbimonthly.com",
-      "date": "2026-08-31",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qU3FBZFZzTUlzY3pnLWZjODVYaE8yNE9GNDZnNlNuZC12cndkT2lER1NQSkZodTM4d3VpVEhwU19xRFlJWktPNGNaem1aN3F1TUcwTmpGbmV3enNrdExYWTdEM1EtLVBRZjZ6ZEhBb2JUa29J?oc=5"
     },
     {
       "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
@@ -90,8 +83,8 @@
     },
     {
       "title": "BioCardia (BCDA) 2026 年第二季財報電話會議紀錄",
-      "summary": "環球郵報手稿",
-      "source": "The Globe and Mail",
+      "summary": "抄寫 theglobeandmail.com",
+      "source": "theglobeandmail.com",
       "date": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
       "lang": "zh-TW"
