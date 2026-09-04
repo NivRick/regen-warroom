@@ -1,25 +1,25 @@
 {
   "module": "regulation",
-  "updated": "2026-09-03T14:50:48.747288+00:00",
+  "updated": "2026-09-04T00:32:51.667578+00:00",
   "items": [
     {
-      "title": "冠狀病毒（COVID-19）與CBER監管的生物製劑",
-      "summary": "本頁面提供CBER針對COVID-19治療與預防藥物開發的相關指引與建議。",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）的生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "source": "FDA Biologics",
+      "date": "2026-09-03",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "冠狀病毒（COVID-19）與CBER管轄的生物製劑",
+      "summary": "本頁面及相關連結",
       "source": "FDA Biologics",
       "date": "2026-09-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新消息",
-      "summary": "來自生物製劑評估與研究中心（CBER）的最新動態。",
-      "source": "FDA Biologics",
-      "date": "2026-09-02",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Biologics Procedures (SOPPs)",
+      "title": "生物製品程序 (SOPP)",
       "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-09-02",
@@ -35,35 +35,27 @@
       "lang": "zh-TW"
     },
     {
-      "title": "穿越法規迷宮：生技領袖如何在不確定的法規時代重新思考策略",
-      "summary": "在法規環境變動劇烈的時代，生技公司必須重新審視其策略。那些能以嚴謹、全球化佈局的計畫脫穎而出的公司，將在市場中佔據有利位置。",
+      "title": "生技領袖如何應對法規迷宮：不確定時代的策略再思",
+      "summary": "那些能以嚴謹、全球佈局的計畫，成功度過法規變革週期的生技公司，將在市場上取得結構性優勢。",
       "source": "GEN News",
       "date": "2026-09-02",
       "url": "https://www.genengnews.com/topics/translational-medicine/navigating-the-regulatory-labyrinth-how-biotech-leaders-are-rethinking-strategy-in-an-uncertain-regulatory-era/",
       "lang": "zh-TW"
     },
     {
-      "title": "GLP-1 藥物 Semaglutide 在小鼠實驗中證實能減緩老化並延長壽命",
-      "summary": "研究顯示，GLP-1 藥物 Semaglutide 不僅改善了老年雌性小鼠的健康狀況，還減少了與老化相關的變化，並有效延長其壽命，效果甚至超越熱量限制。",
+      "title": "GLP-1藥物Semaglutide：小鼠實驗證實能減緩老化、延長壽命",
+      "summary": "Semaglutide在老年雌性小鼠身上，改善健康、減少老化並延長壽命，效果甚至超越熱量限制，為抗老化研究帶來新希望。",
       "source": "GEN News",
       "date": "2026-09-02",
       "url": "https://www.genengnews.com/topics/drug-discovery/glp-1-drug-semaglutide-slows-aging-and-extends-lifespan-in-mice/",
       "lang": "zh-TW"
     },
     {
-      "title": "DNA 平衡法提高細菌生產力",
-      "summary": "一個新的數學模型追蹤質粒如何在競爭的大腸桿菌群體中移動，揭示抗生素、遺傳成本和質粒丟失如何影響生物技術培養和未來腸道中的益生菌劑量策略。\n郵政專業版",
+      "title": "提升細菌生產力的DNA平衡術：質體動態新模型",
+      "summary": "新數學模型追蹤質體（plasmid）在細菌（E. coli）群體中的移動，揭示抗生素、基因成本與質體流失如何影響細菌生產力。",
       "source": "GEN News",
       "date": "2026-09-02",
       "url": "https://www.genengnews.com/topics/bioprocessing/math-model-predicts-plasmid-power-struggles/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Regulatory Demands for More Process Control Data Fueling Innovation",
-      "summary": "科技的進步使生物製藥公司更容易接受連續生產。然而，他們也在改變監管機構對製藥公司所使用的製程控制策略的期望。\n後期數據Fue",
-      "source": "GEN News",
-      "date": "2026-09-02",
-      "url": "https://www.genengnews.com/topics/bioprocessing/regulatory-demands-for-more-process-control-data-fueling-innovation/",
       "lang": "zh-TW"
     },
     {
@@ -75,40 +67,38 @@
       "lang": "zh-TW"
     },
     {
-      "title": "阿爾普羅利克斯",
-      "summary": "針對 B 型血友病成人和兒童的產品核准資訊顯示：(1) 按需治療和控制出血事件，(2) 圍手術期管理，(3) 常規預防，以減少出血事件的頻率。",
-      "source": "FDA Biologics",
-      "date": "2026-08-31",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/alprolix",
+      "title": "Advanced Therapy Medicinal Products Market to Reach US$ 121.81 Billion by 2034",
+      "summary": "et to Reach US$ 121.81 Billion by 2034 Market.us Media",
+      "source": "Market.us Media",
+      "date": "2026-09-01",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80TmNuMkJ4WkZGV2lmSU9HVnM4Y1NWRlQ0cy1ZRGFSVktlRnFWM0MtTWhDQkdicHoycWdFRGh3MFYxRUo1cUJBeXZsOEhBQWR6ZG03c0dMV0pYTGdiTW1vcTVUZzNXamhlZjh0RmNpbnc5SmtUXzQwS0pGMVg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "貝尼菲克斯",
-      "summary": "產品核准資訊適用於常規預防，以預防或減少 B 型血友病（先天性因子 IX 缺乏症或聖誕病）患者出血事件的頻率",
-      "source": "FDA Biologics",
+      "title": "仲恩布局全球細胞治療市場 串連國際商化、臨床轉譯、智慧製造專家",
+      "summary": "",
+      "source": "news.gbimonthly.com",
       "date": "2026-08-31",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/benefix",
-      "lang": "zh-TW"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qU3FBZFZzTUlzY3pnLWZjODVYaE8yNE9GNDZnNlNuZC12cndkT2lER1NQSkZodTM4d3VpVEhwU19xRFlJWktPNGNaem1aN3F1TUcwTmpGbmV3enNrdExYWTdEM1EtLVBRZjZ6ZEhBb2JUa29J?oc=5"
     },
     {
-      "title": "辛瑞茲",
-      "summary": "產品核准資訊適用於患有遺傳性血管性水腫 (HAE) 的青少年和成人患者的血管性水腫發作的常規預防。",
-      "source": "FDA Biologics",
-      "date": "2026-08-31",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/cinryze",
-      "lang": "zh-TW"
+      "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
+      "summary": "",
+      "source": "報導者The Reporter",
+      "date": "2026-08-26",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     },
     {
-      "title": "BioCardia (BCDA) 2026 年第二季財報電話會議逐字稿",
-      "summary": "本文為 BioCardia (BCDA) 2026 年第二季財報電話會議的完整逐字稿，詳細記錄了公司對外說明營運狀況的內容。",
+      "title": "BioCardia (BCDA) 2026 年第二季財報電話會議紀錄",
+      "summary": "環球郵報手稿",
       "source": "The Globe and Mail",
       "date": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 公布 2026 年第二季營運亮點與財務報告",
-      "summary": "BioCardia 宣布其 2026 年第二季度的營運成果與財務表現，提供投資人公司最新發展概況。",
+      "title": "BioCardia 報告 2026 年第二季業務亮點和財務業績",
+      "summary": "業務亮點和財務業績 GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",

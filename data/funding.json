@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-09-03T14:51:23.991001+00:00",
+  "updated": "2026-09-04T00:33:25.910841+00:00",
   "items": [
     {
-      "title": "西雅圖科學家啟動9500萬美元的人工智慧（AI）生物學計畫",
-      "summary": "Ultragenyx藥物在關鍵性三期臨床試驗中失利，美國食品藥物管理局（FDA）在規範未經證實的幹細胞方面取得成功，以及其他生技新聞。",
+      "title": "STAT+：西雅圖科學家發起 9,500 萬美元的人工智慧生物學研究",
+      "summary": "Ultragenyx 藥物未能完成關鍵的 3 期試驗、美國食藥局（FDA） 在監管未經證實的幹細胞方面取得成功，以及其他生物技術新聞",
       "source": "STAT News",
       "date": "2026-09-03",
       "url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
@@ -27,7 +27,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "The hidden scale-out problem behind CAR-T細胞療法’s growth",
+      "title": "人工智慧藥物專家專注於罕見形式的肥胖",
+      "summary": "Superluminal Medicines 籌集了 6000 萬美元資金，用於支持開發一種藥物，該藥物的作用類似於 Rhythm Pharmaceuticals 的上市藥物 Imcivree，但可能比 Rhythm Pharmaceuticals 的上市藥物 Imcivree 更具選擇性。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-03",
+      "url": "https://www.biopharmadive.com/news/superluminal-medicines-obesity-ai-drug-discovery-series-b/829552/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "CAR-T成長背後隱藏的橫向擴展問題",
       "summary": "CAR-T細胞療法 的商業挑戰是讓數千個針對特定患者的生產運作像可靠的系統一樣運作。 「體內」生產技術可能是一種解決方案。",
       "source": "BioPharma Dive",
       "date": "2026-09-03",
@@ -48,14 +56,6 @@
       "source": "STAT News",
       "date": "2026-09-02",
       "url": "https://www.statnews.com/pharmalot/2026/09/02/uniqure-huntingtons-fda-novo-nordisk-investors-pharmalittle-newsletter/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：川普最新的製藥交易可能如何破壞控制藥品成本的努力",
-      "summary": "分析師表示，私人交易涉及藥廠同意降低醫療補助的價格，而醫療補助的價格很低，以換取醫療保險不降價。",
-      "source": "STAT News",
-      "date": "2026-09-02",
-      "url": "https://www.statnews.com/2026/09/02/trump-most-favored-nation-drug-pricing-industry-analysts-skeptical/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -80,30 +80,6 @@
       "source": "BioPharma Dive",
       "date": "2026-09-01",
       "url": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "出於安全考慮，諾華、百時美施貴寶暫停自體免疫 CAR-T細胞療法 試驗",
-      "summary": "三名研究參與者的死亡導致諾華公司停止了 rap-cel 多種適應症的開發，而「短暫」的副作用則促使百時美施貴寶公司自願暫停其 zola-cel 計畫。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-31",
-      "url": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 批准武田（Takeda）治療罕見血癌的主角藥物",
-      "summary": "Mimrylo 的批准和比預期更廣泛的標籤為武田帶來了年度收入機會，一些分析師預計收入將達到 20 億美元或更多。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-31",
-      "url": "https://www.biopharmadive.com/news/fda-approve-mimrylo-takeda-protagonist-polycythemia-vera/829153/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "禮來公司 (Lilly) 透過 $2.9B 收購 Merida 增加免疫藥物管道",
-      "summary": "這家大型製藥商今年最新的公司收購主要圍繞著一項旨在降解在自體免疫疾病中出現故障的蛋白質的技術。",
-      "source": "BioPharma Dive",
-      "date": "2026-08-31",
-      "url": "https://www.biopharmadive.com/news/lilly-merida-acquire-deal-immune-drugs-graves-disease/829152/",
       "lang": "zh-TW"
     }
   ]
