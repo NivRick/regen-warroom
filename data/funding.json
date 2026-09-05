@@ -1,18 +1,34 @@
 {
   "module": "funding",
-  "updated": "2026-09-04T14:40:54.519016+00:00",
+  "updated": "2026-09-05T00:32:00.507998+00:00",
   "items": [
     {
-      "title": "STAT+：百時美施貴寶CAR-T試驗喊卡、輝瑞脫手擱置藥物等最新消息",
-      "summary": "Pharmalittle 電子報為您帶來 Pharmalot 園區的最新藥業動態。",
+      "title": "STAT+：我們正在閱讀有關布里斯托爾 CAR-T細胞療法 試驗暫停、輝瑞出售被擱置的候選藥物等的信息",
+      "summary": "Pharmalittle 電子報為您帶來 Pharmalot 園區的最新製藥新聞",
       "source": "STAT News",
       "date": "2026-09-04",
       "url": "https://www.statnews.com/pharmalot/2026/09/04/pharmalittle-bristol-car-t-trial-pause-pfizer-offloads-shelved-candidate/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：西雅圖科學家啟動",
-      "summary": "",
+      "title": "本週圖表：中國交易、股價持平以及禮來公司的併購熱潮",
+      "summary": "與中國製藥商的交易仍在穩步進行，而本週兩家中型生物技術公司的股價卻大幅下跌。與此同時，禮來公司今年在交易方面超過了其他製藥公司。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-04",
+      "url": "https://www.biopharmadive.com/news/charts-biotech-deals-china-alumis-ultragenyx-stock/829635/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Ionis 罕見神經病變藥物獲準；輝瑞簽署 ADC 協議",
+      "summary": "Zanvastro 現在是第一個獲準治療亞歷山大氏症的藥物。在其他地方，一位免疫系統專家公佈了積極的結果，一位細胞療法開發商則轉向裁員。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-04",
+      "url": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：西雅圖科學家發起 9,500 萬美元的人工智慧生物學研究",
+      "summary": "Ultragenyx 藥物未能完成關鍵的 3 期試驗、美國食藥局（FDA） 在監管未經證實的幹細胞方面取得成功，以及其他生物技術新聞",
       "source": "STAT News",
       "date": "2026-09-03",
       "url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
@@ -20,7 +36,7 @@
     },
     {
       "title": "STAT+：福奇講話與寫作",
-      "summary": "Anthony Fauci is working on a book, we unpack Trump's latest drug pricing deals, and more from STAT's D.C. Diagnosis newsletter.",
+      "summary": "安東尼福奇正在寫一本書，我們將解析川普最新的藥品定價交易，以及更多來自 STAT 的華盛頓診斷通訊的資訊。",
       "source": "STAT News",
       "date": "2026-09-03",
       "url": "https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss",
@@ -51,27 +67,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "諾華、百時美施貴寶研究停止後，自體免疫 CAR-T細胞療法 面臨嚴峻問題",
-      "summary": "華爾街分析師認為，對製造、研究招生和副作用管理採取更謹慎的態度可以幫助開發商避免未來的安全隱患。",
+      "title": "自體免疫CAR-T療法在諾華、必治妥施貴寶中止試驗後，面臨嚴峻考驗",
+      "summary": "諾華與必治妥施貴寶相繼中止自體免疫嵌合抗原受體T細胞療法（CAR-T）臨床試驗，讓這項新興療法前景蒙上陰影。華爾街分析師認為，業者必須在製造、收案與副作用管理上採取更謹慎的策略，才能避免重蹈覆轍，確保病患安全與試驗成功。",
       "source": "BioPharma Dive",
       "date": "2026-09-02",
       "url": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
       "lang": "zh-TW"
     },
     {
-      "title": "UniQure 在遭遇挫折後尋求 美國食藥局（FDA） 批准亨廷頓基因療法",
-      "summary": "在與美國監管機構打交道經歷了異常動蕩的一年之後，該公司現在希望其申請能得到肯定的答案。",
+      "title": "UniQure歷經挫折後，尋求亨丁頓氏症基因療法獲美國食藥署（FDA）核准",
+      "summary": "生技公司UniQure在歷經與美國食品藥物管理局（FDA）一整年波折不斷的溝通後，仍堅持為其亨丁頓氏症基因療法尋求核准。儘管過程艱辛，該公司仍期盼這次申請能獲得正面回應，為病患帶來新希望。",
       "source": "BioPharma Dive",
       "date": "2026-09-02",
       "url": "https://www.biopharmadive.com/news/uniqure-submit-fda-approval-huntingtons-gene-therapy/829400/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "中型生技公司也加入川普最新藥價協議",
-      "summary": "川普政府最新藥價協議，中型生技公司也加入，但對藥價影響預期不大。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-01",
-      "url": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
       "lang": "zh-TW"
     }
   ]
