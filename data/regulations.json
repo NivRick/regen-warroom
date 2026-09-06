@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-09-06T00:23:52.958667+00:00",
+  "updated": "2026-09-06T13:56:15.585101+00:00",
   "items": [
     {
-      "title": "細胞和基因療法產品",
-      "summary": "CBER 為細胞治療產品、人類基因治療產品以及與細胞和基因治療相關的某些設備的醫學研究人員和製造商提供臨床研究監督、主動科學和監管建議。",
+      "title": "細胞與基因治療產品",
+      "summary": "CBER負責監督臨床試驗，並主動提供科學與法規建議給醫療研究人員和細胞治療產品製造商。",
       "source": "FDA Biologics",
       "date": "2026-09-04",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "工業（生物製品）",
-      "summary": "CBER 的製造商援助和技術培訓部門向行業（包括大型和小型製造商和貿易協會）提供援助和培訓，並回應有關 CBER 政策和程序的資訊請求",
+      "title": "生技產業（生物製劑）",
+      "summary": "CBER的製造商協助與技術培訓部門，為業界提供",
       "source": "FDA Biologics",
       "date": "2026-09-04",
       "url": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
@@ -51,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "應對法規迷陣：生技領袖如何在不確定法規時代重塑策略",
-      "summary": "面對變動的法規環境，生技業領袖如何調整策略，以穿越迷宮並取得成功。",
+      "title": "穿越監管迷宮：生物技術領導者如何在不確定的監管時代重新思考策略",
+      "summary": "當環境穩定下來時，那些透過清潔、嚴格、全球定位的計畫從不斷變化的監管週期中脫穎而出的公司將發現自己處於結構性優越的競爭地位。\n後生物技術領導者是 Rethi",
       "source": "GEN News",
       "date": "2026-09-02",
       "url": "https://www.genengnews.com/topics/translational-medicine/navigating-the-regulatory-labyrinth-how-biotech-leaders-are-rethinking-strategy-in-an-uncertain-regulatory-era/",
