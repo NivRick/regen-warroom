@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-09-05T13:42:27.547998+00:00",
+  "updated": "2026-09-06T00:24:21.230550+00:00",
   "items": [
     {
-      "title": "Bristol CAR-T臨床試驗暫停、輝瑞出脫擱置候選藥物等最新消息",
-      "summary": "來自Pharmalittle電子報的最新藥廠動態。",
+      "title": "STAT+：我們正在閱讀有關布里斯托爾 CAR-T細胞療法 試驗暫停、輝瑞出售被擱置的候選藥物等的信息",
+      "summary": "Pharmalittle 電子報為您帶來 Pharmalot 園區的最新製藥新聞",
       "source": "STAT News",
       "date": "2026-09-04",
       "url": "https://www.statnews.com/pharmalot/2026/09/04/pharmalittle-bristol-car-t-trial-pause-pfizer-offloads-shelved-candidate/?utm_campaign=rss",
@@ -19,16 +19,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Ionis 罕見神經病變藥物獲批；輝瑞簽署 ADC 協議",
-      "summary": "Zanvastro 現在是第一個獲準治療亞歷山大氏症的藥物。在其他地方，一位免疫系統專家公佈了積極的結果，一位細胞療法開發商轉向裁員。",
+      "title": "Ionis 罕見神經病變藥物獲準；輝瑞簽署 ADC 協議",
+      "summary": "Zanvastro 現在是第一個獲準治療亞歷山大氏症的藥物。在其他地方，一位免疫系統專家公佈了積極的結果，一位細胞療法開發商則轉向裁員。",
       "source": "BioPharma Dive",
       "date": "2026-09-04",
       "url": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
       "lang": "zh-TW"
     },
     {
-      "title": "西雅圖科學家啟動9500萬美元的人工智慧（AI）生物學計畫",
-      "summary": "",
+      "title": "STAT+：西雅圖科學家發起 9,500 萬美元的人工智慧生物學研究",
+      "summary": "Ultragenyx 藥物未能完成關鍵的 3 期試驗、美國食藥局（FDA） 在監管未經證實的幹細胞方面取得成功，以及其他生物技術新聞",
       "source": "STAT News",
       "date": "2026-09-03",
       "url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
@@ -43,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "人工智慧藥物專家專注於罕見形式的肥胖",
+      "title": "人工智慧藥物專家專注於罕見形式的肥胖症",
       "summary": "Superluminal Medicines 籌集了 6000 萬美元資金，用於支持開發一種藥物，該藥物的作用類似於 Rhythm Pharmaceuticals 的上市藥物 Imcivree，但可能比 Rhythm Pharmaceuticals 的上市藥物 Imcivree 更具選擇性。",
       "source": "BioPharma Dive",
       "date": "2026-09-03",
@@ -52,15 +52,15 @@
     },
     {
       "title": "CAR-T成長背後隱藏的橫向擴展問題",
-      "summary": "CAR-T細胞療法&rsquo;s commercial challenge is making thousands of patient-specific manufacturing runs behave like one reliable system. \"體內實驗\" production techniques could be one solution.",
+      "summary": "CAR-T細胞療法 的商業挑戰是讓數千個針對特定患者的生產運作像可靠的系統一樣運作。 「體內」生產技術可能是一種解決方案。",
       "source": "BioPharma Dive",
       "date": "2026-09-03",
       "url": "https://www.biopharmadive.com/news/the-hidden-scale-out-problem-behind-car-t-growth/829405/",
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech 募資追蹤報告 '26：Superluminal 募得 6,000 萬美元；AusperBio 再獲 1.2 億美元",
-      "summary": "Fierce Biotech 募資追蹤報告顯示，Superluminal 募得 6,000 萬美元，AusperBio 則募得 1.2 億美元。",
+      "title": "Fierce Biotech 2026年募資追蹤報告：Superluminal 募得 6千萬美元，AusperBio 再獲 1.2億美元",
+      "summary": "Fierce Biotech 報導，Superluminal 募得 6千萬美元，AusperBio 再獲 1.2億美元。",
       "source": "Fierce Biotech",
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
@@ -72,14 +72,6 @@
       "source": "BioPharma Dive",
       "date": "2026-09-02",
       "url": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "UniQure 歷經挫折後，尋求美國食品藥物管理局（FDA）核准亨丁頓氏症基因療法",
-      "summary": "該公司在與美國監管機關周旋、度過動盪的一年後，現在期盼其申請案能獲准。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-02",
-      "url": "https://www.biopharmadive.com/news/uniqure-submit-fda-approval-huntingtons-gene-therapy/829400/",
       "lang": "zh-TW"
     }
   ]

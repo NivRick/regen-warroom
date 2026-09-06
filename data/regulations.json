@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-09-05T13:41:47.896302+00:00",
+  "updated": "2026-09-06T00:23:52.958667+00:00",
   "items": [
     {
-      "title": "細胞與基因治療產品",
-      "summary": "美國食品藥物管理局生物製品評估與研究中心（CBER）負責監督細胞治療產品的臨床試驗，並主動提供醫療研究人員與製造商科學及法規建議。",
+      "title": "細胞和基因療法產品",
+      "summary": "CBER 為細胞治療產品、人類基因治療產品以及與細胞和基因治療相關的某些設備的醫學研究人員和製造商提供臨床研究監督、主動科學和監管建議。",
       "source": "FDA Biologics",
       "date": "2026-09-04",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "生技產業（生物製劑）",
-      "summary": "",
+      "title": "工業（生物製品）",
+      "summary": "CBER 的製造商援助和技術培訓部門向行業（包括大型和小型製造商和貿易協會）提供援助和培訓，並回應有關 CBER 政策和程序的資訊請求",
       "source": "FDA Biologics",
       "date": "2026-09-04",
       "url": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
@@ -51,19 +51,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "穿越監管迷宮：生物技術領導者如何在不確定的監管時代重新思考策略",
-      "summary": "當環境穩定下來時，那些透過清潔、嚴格、全球定位的計畫從不斷變化的監管週期中脫穎而出的公司將發現自己處於結構性優越的競爭地位。\n後生物技術領導者是 Rethi",
+      "title": "應對法規迷陣：生技領袖如何在不確定法規時代重塑策略",
+      "summary": "面對變動的法規環境，生技業領袖如何調整策略，以穿越迷宮並取得成功。",
       "source": "GEN News",
       "date": "2026-09-02",
       "url": "https://www.genengnews.com/topics/translational-medicine/navigating-the-regulatory-labyrinth-how-biotech-leaders-are-rethinking-strategy-in-an-uncertain-regulatory-era/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "GLP-1藥物索馬魯肽新發現：不只減肥，還能減緩老化、延長小鼠壽命！",
-      "summary": "索馬魯肽在年老雌性小鼠實驗中，不只改善了健康狀況、減少老化相關變化，還成功延長了牠們的壽命，效果有時甚至比嚴格的熱量限制還要好。",
-      "source": "GEN News",
-      "date": "2026-09-02",
-      "url": "https://www.genengnews.com/topics/drug-discovery/glp-1-drug-semaglutide-slows-aging-and-extends-lifespan-in-mice/",
       "lang": "zh-TW"
     },
     {
@@ -72,6 +64,14 @@
       "source": "報導者The Reporter",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
+    },
+    {
+      "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性綜述 |萊吉克 |波蘭血液學報",
+      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 | Acta Haematologica Polonica 期刊.viamedica.pl",
+      "source": "journals.viamedica.pl",
+      "date": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "BioCardia 報告 2026 年第二季業務亮點和財務業績",
