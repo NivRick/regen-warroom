@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-09-07T00:28:38.888199+00:00",
+  "updated": "2026-09-07T16:13:51.063795+00:00",
   "items": [
     {
       "title": "細胞與基因治療產品",
-      "summary": "CBER（美國食品藥物管理局生物製品評估與研究中心）監督細胞治療產品的臨床試驗，並提供科學與法規建議。",
+      "summary": "生物製劑評估與研究中心 (CBER) 負責監督臨床試驗，並為醫療研究人員與細胞治療產品製造商提供前瞻性的科學與法規建議。",
       "source": "FDA Biologics",
       "date": "2026-09-04",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "產業動態（生物製劑）",
-      "summary": "CBER的製造商協助與技術",
+      "title": "生技產業 (生物製劑)",
+      "summary": "生物製劑",
       "source": "FDA Biologics",
       "date": "2026-09-04",
       "url": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
@@ -51,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "穿越法規迷宮：生技業領袖如何在不確定的法規時代中重新思考策略",
-      "summary": "生技業領袖如何在不確定的法規環境中，重新思考策略，穿越法規迷宮。",
+      "title": "穿梭法規迷宮：生技領袖如何在不確定法規時代重新思考策略",
+      "summary": "面對變動的法規環境，生技業領袖正重新思考策略，以確保公司能脫穎而出，建立嚴謹且具全球競爭力的計畫。",
       "source": "GEN News",
       "date": "2026-09-02",
       "url": "https://www.genengnews.com/topics/translational-medicine/navigating-the-regulatory-labyrinth-how-biotech-leaders-are-rethinking-strategy-in-an-uncertain-regulatory-era/",
@@ -75,8 +75,8 @@
     },
     {
       "title": "BioCardia 報告 2026 年第二季業務亮點和財務業績",
-      "summary": "業務亮點和財務業績 GlobeNewswire",
-      "source": "GlobeNewswire",
+      "summary": "業務亮點和財務業績globenewswire.com",
+      "source": "globenewswire.com",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
       "lang": "zh-TW"
