@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-09-06T13:56:15.585101+00:00",
+  "updated": "2026-09-07T00:28:38.888199+00:00",
   "items": [
     {
       "title": "細胞與基因治療產品",
-      "summary": "CBER負責監督臨床試驗，並主動提供科學與法規建議給醫療研究人員和細胞治療產品製造商。",
+      "summary": "CBER（美國食品藥物管理局生物製品評估與研究中心）監督細胞治療產品的臨床試驗，並提供科學與法規建議。",
       "source": "FDA Biologics",
       "date": "2026-09-04",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "生技產業（生物製劑）",
-      "summary": "CBER的製造商協助與技術培訓部門，為業界提供",
+      "title": "產業動態（生物製劑）",
+      "summary": "CBER的製造商協助與技術",
       "source": "FDA Biologics",
       "date": "2026-09-04",
       "url": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
@@ -51,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "穿越監管迷宮：生物技術領導者如何在不確定的監管時代重新思考策略",
-      "summary": "當環境穩定下來時，那些透過清潔、嚴格、全球定位的計畫從不斷變化的監管週期中脫穎而出的公司將發現自己處於結構性優越的競爭地位。\n後生物技術領導者是 Rethi",
+      "title": "穿越法規迷宮：生技業領袖如何在不確定的法規時代中重新思考策略",
+      "summary": "生技業領袖如何在不確定的法規環境中，重新思考策略，穿越法規迷宮。",
       "source": "GEN News",
       "date": "2026-09-02",
       "url": "https://www.genengnews.com/topics/translational-medicine/navigating-the-regulatory-labyrinth-how-biotech-leaders-are-rethinking-strategy-in-an-uncertain-regulatory-era/",
@@ -67,8 +67,8 @@
     },
     {
       "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性綜述 |萊吉克 |波蘭血液學報",
-      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 | Acta Haematologica Polonica 期刊.viamedica.pl",
-      "source": "journals.viamedica.pl",
+      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
+      "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
       "lang": "zh-TW"
