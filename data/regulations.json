@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-09-07T16:13:51.063795+00:00",
+  "updated": "2026-09-08T00:51:33.400330+00:00",
   "items": [
     {
-      "title": "細胞與基因治療產品",
-      "summary": "生物製劑評估與研究中心 (CBER) 負責監督臨床試驗，並為醫療研究人員與細胞治療產品製造商提供前瞻性的科學與法規建議。",
+      "title": "Cellular & 基因療法 Products",
+      "summary": "CBER 為細胞治療產品、人類基因治療產品以及與細胞和基因治療相關的某些設備的醫學研究人員和製造商提供臨床研究監督、主動科學和監管建議。",
       "source": "FDA Biologics",
       "date": "2026-09-04",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "生技產業 (生物製劑)",
-      "summary": "生物製劑",
+      "title": "Industry (Biologics)",
+      "summary": "CBER 的製造商援助和技術培訓部門向行業（包括大型和小型製造商和貿易協會）提供援助和培訓，並回應有關 CBER 政策和程序的資訊請求",
       "source": "FDA Biologics",
       "date": "2026-09-04",
       "url": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品程序 (SOPP)",
+      "title": "Biologics Procedures (SOPPs)",
       "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-09-02",
@@ -51,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "穿梭法規迷宮：生技領袖如何在不確定法規時代重新思考策略",
-      "summary": "面對變動的法規環境，生技業領袖正重新思考策略，以確保公司能脫穎而出，建立嚴謹且具全球競爭力的計畫。",
+      "title": "駕馭法規迷陣：生技領袖如何在不確定時代重新佈局策略",
+      "summary": "面對法規環境的不確定性，生技業領袖正積極重新思考策略，以期在變局中脫穎而出。",
       "source": "GEN News",
       "date": "2026-09-02",
       "url": "https://www.genengnews.com/topics/translational-medicine/navigating-the-regulatory-labyrinth-how-biotech-leaders-are-rethinking-strategy-in-an-uncertain-regulatory-era/",
@@ -67,16 +67,16 @@
     },
     {
       "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性綜述 |萊吉克 |波蘭血液學報",
-      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
-      "source": "Via Medica Journals",
+      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 | Acta Haematologica Polonica 期刊.viamedica.pl",
+      "source": "journals.viamedica.pl",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
       "lang": "zh-TW"
     },
     {
       "title": "BioCardia 報告 2026 年第二季業務亮點和財務業績",
-      "summary": "業務亮點和財務業績globenewswire.com",
-      "source": "globenewswire.com",
+      "summary": "業務亮點和財務業績 GlobeNewswire",
+      "source": "GlobeNewswire",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
       "lang": "zh-TW"

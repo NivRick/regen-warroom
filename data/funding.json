@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-09-07T16:14:03.606654+00:00",
+  "updated": "2026-09-08T00:52:05.425878+00:00",
   "items": [
     {
-      "title": "STAT+：百時美施貴寶（Bristol Myers Squibb）的嵌合抗原受體T細胞療法（CAR-T）臨床試驗暫停、輝瑞（Pfizer）脫手擱置的候選藥物，以及更多消息",
-      "summary": "Pharmalittle 電子報帶來的最新藥廠消息。",
+      "title": "STAT+：我們正在閱讀有關布里斯托爾 CAR-T細胞療法 試驗暫停、輝瑞出售被擱置的候選藥物等的信息",
+      "summary": "Pharmalittle 電子報為您帶來 Pharmalot 園區的最新製藥新聞",
       "source": "STAT News",
       "date": "2026-09-04",
       "url": "https://www.statnews.com/pharmalot/2026/09/04/pharmalittle-bristol-car-t-trial-pause-pfizer-offloads-shelved-candidate/?utm_campaign=rss",
@@ -19,7 +19,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Ionis 罕見神經病變藥物獲準；輝瑞簽署 ADC 協議",
+      "title": "Ionis’ rare neurology drug approved; Pfizer inks an ADC deal",
       "summary": "Zanvastro 現在是第一個獲準治療亞歷山大氏症的藥物。在其他地方，一位免疫系統專家公佈了積極的結果，一位細胞療法開發商則轉向裁員。",
       "source": "BioPharma Dive",
       "date": "2026-09-04",
@@ -43,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "人工智慧藥物專家專注於罕見形式的肥胖症",
+      "title": "人工智慧藥物專家專注於罕見形式的肥胖",
       "summary": "Superluminal Medicines 籌集了 6000 萬美元資金，用於支持開發一種藥物，該藥物的作用類似於 Rhythm Pharmaceuticals 的上市藥物 Imcivree，但可能比 Rhythm Pharmaceuticals 的上市藥物 Imcivree 更具選擇性。",
       "source": "BioPharma Dive",
       "date": "2026-09-03",
@@ -64,6 +64,14 @@
       "source": "BioPharma Dive",
       "date": "2026-09-02",
       "url": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Epicrispr Closes $90M C輪融資 to Push the First Epigenetic Therapy for FSHD Into Pivotal Trials",
+      "summary": "FSHD 的首個表觀遺傳學療法進入關鍵試驗 Wowtale",
+      "source": "Wowtale",
+      "date": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5veFF4aTFLa2lGUV8zS2RQUUJ6Zl9nMkhCa0ttRmkxX0NFVXB6ZnZIR3FwNkhVNDlIVF80cll2RExqWE1IZ21BcGRHY1RSMXF5VzFN?oc=5",
       "lang": "zh-TW"
     }
   ]
