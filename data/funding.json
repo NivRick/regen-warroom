@@ -1,13 +1,37 @@
 {
   "module": "funding",
-  "updated": "2026-09-08T00:52:05.425878+00:00",
+  "updated": "2026-09-08T14:53:11.241255+00:00",
   "items": [
     {
-      "title": "STAT+：我們正在閱讀有關布里斯托爾 CAR-T細胞療法 試驗暫停、輝瑞出售被擱置的候選藥物等的信息",
-      "summary": "Pharmalittle 電子報為您帶來 Pharmalot 園區的最新製藥新聞",
+      "title": "STAT+: UnitedHealth對民主黨的投資，以及「意外帳單」爭議白熱化",
+      "summary": "UnitedHealth高層大筆捐款給民主黨要角，「無意外帳單法案」的爭議也越來越激烈。",
       "source": "STAT News",
-      "date": "2026-09-04",
-      "url": "https://www.statnews.com/pharmalot/2026/09/04/pharmalittle-bristol-car-t-trial-pause-pfizer-offloads-shelved-candidate/?utm_campaign=rss",
+      "date": "2026-09-08",
+      "url": "https://www.statnews.com/2026/09/08/unitedhealth-campaign-donations-katherine-clark-no-surprises-act-debate/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: 美國FDA核准阿斯特捷利康",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-09-08",
+      "url": "https://www.statnews.com/2026/09/08/biotech-news-fda-approves-astrazeneca-breast-cancer-drug/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Hospitals pursue deals to ensure survival as Trump’s Medicaid cuts loom",
+      "summary": "農村衛生系統正在尋求合作以求生存，這引發了關於競爭和醫療費用上漲的爭論。",
+      "source": "STAT News",
+      "date": "2026-09-08",
+      "url": "https://www.statnews.com/2026/09/08/rural-hospital-mergers-medicaid-cuts-part-3-unraveled-series/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BrainChild 籌集 1.16 億美元用於開發兒童腦癌細胞療法",
+      "summary": "這家新創公司從西雅圖兒童醫院的研究中分離出來，已將針對一種罕見且致命的兒童癌症的 CAR-T細胞療法 療法引入中期測試。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-08",
+      "url": "https://www.biopharmadive.com/news/brainchild-pediatric-brain-tumors-car-t/829463/",
       "lang": "zh-TW"
     },
     {
@@ -19,31 +43,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Ionis’ rare neurology drug approved; Pfizer inks an ADC deal",
-      "summary": "Zanvastro 現在是第一個獲準治療亞歷山大氏症的藥物。在其他地方，一位免疫系統專家公佈了積極的結果，一位細胞療法開發商則轉向裁員。",
+      "title": "Ionis 罕見神經病變藥物獲準；輝瑞簽署 ADC 協議",
+      "summary": "Zanvastro is now the first approved medicine for Alexander disease. Elsewhere, an immune system specialist posted positive results and a 細胞治療 developer turned to layoffs.",
       "source": "BioPharma Dive",
       "date": "2026-09-04",
       "url": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：西雅圖科學家發起 9,500 萬美元的人工智慧生物學研究",
-      "summary": "Ultragenyx 藥物未能完成關鍵的 3 期試驗、美國食藥局（FDA） 在監管未經證實的幹細胞方面取得成功，以及其他生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-09-03",
-      "url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：福奇講話與寫作",
-      "summary": "安東尼福奇正在寫一本書，我們將解析川普最新的藥品定價交易，以及更多來自 STAT 的華盛頓診斷通訊的資訊。",
-      "source": "STAT News",
-      "date": "2026-09-03",
-      "url": "https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "人工智慧藥物專家專注於罕見形式的肥胖",
+      "title": "人工智慧藥物專家專注於罕見形式的肥胖症",
       "summary": "Superluminal Medicines 籌集了 6000 萬美元資金，用於支持開發一種藥物，該藥物的作用類似於 Rhythm Pharmaceuticals 的上市藥物 Imcivree，但可能比 Rhythm Pharmaceuticals 的上市藥物 Imcivree 更具選擇性。",
       "source": "BioPharma Dive",
       "date": "2026-09-03",
@@ -56,22 +64,6 @@
       "source": "BioPharma Dive",
       "date": "2026-09-03",
       "url": "https://www.biopharmadive.com/news/the-hidden-scale-out-problem-behind-car-t-growth/829405/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "諾華、百時美施貴寶研究停止後，自體免疫 CAR-T細胞療法 面臨嚴峻問題",
-      "summary": "華爾街分析師認為，對製造、研究招生和副作用管理採取更謹慎的態度可以幫助開發商避免未來的安全隱患。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-02",
-      "url": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Epicrispr Closes $90M C輪融資 to Push the First Epigenetic Therapy for FSHD Into Pivotal Trials",
-      "summary": "FSHD 的首個表觀遺傳學療法進入關鍵試驗 Wowtale",
-      "source": "Wowtale",
-      "date": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5veFF4aTFLa2lGUV8zS2RQUUJ6Zl9nMkhCa0ttRmkxX0NFVXB6ZnZIR3FwNkhVNDlIVF80cll2RExqWE1IZ21BcGRHY1RSMXF5VzFN?oc=5",
       "lang": "zh-TW"
     }
   ]

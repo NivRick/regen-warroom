@@ -1,61 +1,69 @@
 {
   "module": "regulation",
-  "updated": "2026-09-08T00:51:33.400330+00:00",
+  "updated": "2026-09-08T14:52:38.306099+00:00",
   "items": [
     {
-      "title": "Cellular & 基因療法 Products",
-      "summary": "CBER 為細胞治療產品、人類基因治療產品以及與細胞和基因治療相關的某些設備的醫學研究人員和製造商提供臨床研究監督、主動科學和監管建議。",
+      "title": "出口美國食品藥物管理局生物製品評估與研究中心（CBER）管轄產品",
+      "summary": "美國食品藥物管理局生物製品評估與研究中心（CBER）的法規遵循與生物製品品質辦公室（OCBQ）下轄的案件管理部門（DCM），負責指導與協調CBER的產品出口計畫。",
       "source": "FDA Biologics",
-      "date": "2026-09-04",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
+      "date": "2026-09-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/exporting-cber-regulated-products",
       "lang": "zh-TW"
     },
     {
-      "title": "Industry (Biologics)",
-      "summary": "CBER 的製造商援助和技術培訓部門向行業（包括大型和小型製造商和貿易協會）提供援助和培訓，並回應有關 CBER 政策和程序的資訊請求",
+      "title": "生物製劑通用指引",
+      "summary": "本頁面提供連結，讓您能查閱各項生物製劑的通用指引文件。",
       "source": "FDA Biologics",
-      "date": "2026-09-04",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
+      "date": "2026-09-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/general-biologics-guidances",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑程序（SOPPs）",
+      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）的員工在執行業務時所使用的規範。",
       "source": "FDA Biologics",
-      "date": "2026-09-03",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "冠狀病毒 (COVID-19) | CBER 監管的生物製品",
-      "summary": "本頁面和相關連結提供與治療或預防 COVID-19 療法開發相關的指導和建議信息，以及尋求其他資訊或幫助的開發人員的聯絡資訊。",
-      "source": "FDA Biologics",
-      "date": "2026-09-02",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Biologics Procedures (SOPPs)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
-      "source": "FDA Biologics",
-      "date": "2026-09-02",
+      "date": "2026-09-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 圓桌會議：加強血液製造的供應鏈",
-      "summary": "2026 年 9 月 29 日，美國食品藥物管理局生物製品評估與研究中心血液研究與審查辦公室將舉辦圓桌會議，討論加強全血採集和製造的供應鏈",
-      "source": "09/29/2026",
-      "date": "2026-09-02",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
+      "title": "生物製劑上市後活動",
+      "summary": "生物製劑獲准上市後，仍需持續進行一系列活動，確保產品安全與有效性。這包括藥品不良反應監測、品質管理及法規遵循，以保障病患權益。",
+      "source": "FDA Biologics",
+      "date": "2026-09-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-post-market-activities",
       "lang": "zh-TW"
     },
     {
-      "title": "駕馭法規迷陣：生技領袖如何在不確定時代重新佈局策略",
-      "summary": "面對法規環境的不確定性，生技業領袖正積極重新思考策略，以期在變局中脫穎而出。",
-      "source": "GEN News",
-      "date": "2026-09-02",
-      "url": "https://www.genengnews.com/topics/translational-medicine/navigating-the-regulatory-labyrinth-how-biotech-leaders-are-rethinking-strategy-in-an-uncertain-regulatory-era/",
+      "title": "CBER 監管產品的生物製品授權申請 (BLA)",
+      "summary": "The Biologics License Application is used to request permission to introduce, or deliver a biologic product into interstate commerce.",
+      "source": "FDA Biologics",
+      "date": "2026-09-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/biologics-license-applications-blas-cber-regulated-products",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "指導、合規性和監管資訊（生物製品）",
+      "summary": "這是 Site Studio 網站部分「ation」、區域「MainContent」的區域內容",
+      "source": "FDA Biologics",
+      "date": "2026-09-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品企業註冊",
+      "summary": "",
+      "source": "FDA Biologics",
+      "date": "2026-09-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-establishment-registration",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑規則",
+      "summary": "Proposed & Final Rules specifically related to biologics are organized by biologics product area. Cross-Center and Office of the Commissioner Proposed and Final Rules are posted in the general 美國食藥局（FDA） Rules section.",
+      "source": "FDA Biologics",
+      "date": "2026-09-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-rules",
       "lang": "zh-TW"
     },
     {
@@ -66,19 +74,11 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     },
     {
-      "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性綜述 |萊吉克 |波蘭血液學報",
-      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 | Acta Haematologica Polonica 期刊.viamedica.pl",
-      "source": "journals.viamedica.pl",
+      "title": "展望2026年：多發性骨髓瘤的嵌合抗原受體T細胞療法（CAR-T）——核准適應症、長期療效、毒性、治療順序與新興平台發展",
+      "summary": "本文綜述展望2026年嵌合抗原受體T細胞療法（CAR-T）在多發性骨髓瘤的發展。重點分析其核准適應症、長期療效、毒性、治療順序，並探討新興平台技術，為生醫產業提供前瞻性洞察。",
+      "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BioCardia 報告 2026 年第二季業務亮點和財務業績",
-      "summary": "業務亮點和財務業績 GlobeNewswire",
-      "source": "GlobeNewswire",
-      "date": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONnRSWXExOG5UT2hXckR3Tm1BS1M5YWlER3dnX3d4ZkdLZFhHNWpZay1UVi10WGttREpTQVI1aFpaaDhsT2g1N0VBV25fVVFVLWRtM2JUNnZsaW15ZmlwYjNheTdGb0VydHhNaWdNRnBHLTFzMDhFNkZhc0t3WnU2NUFaTTZwbFdBZFU4WUdWUFEyUGxwUXV1Wkt6bURRUWc1UEJsNHZSN2FQTkt0bXAwcVdDUW9YbExaajAyWkFhZ0NtUDNSdndVdVc5OHJWQlBqM0pBMGU1WlphblRmZlo5ZmhUbXJMdw?oc=5",
       "lang": "zh-TW"
     }
   ]
