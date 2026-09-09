@@ -1,17 +1,17 @@
 {
   "module": "regulation",
-  "updated": "2026-09-09T00:50:49.073526+00:00",
+  "updated": "2026-09-09T14:58:15.701963+00:00",
   "items": [
     {
-      "title": "核准的血液製品",
-      "summary": "這份清單列出了所有已獲核准的血液製品，這些產品都必須符合生物製劑許可申請（BLA）、新藥申請（NDA）等嚴格的法規要求才能上市。",
+      "title": "已核准的血液製品",
+      "summary": "本頁列出依生物製劑許可申請（BLAs）、新藥申請（NDAs）、上市前核准（PMAs）及510(k)上市前通知等法規途徑核准的血液製品。",
       "source": "FDA Biologics",
       "date": "2026-09-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/blood-blood-products/approved-blood-products",
       "lang": "zh-TW"
     },
     {
-      "title": "醫療專業人員專區（生物製劑",
+      "title": "醫療專業人員（",
       "summary": "",
       "source": "FDA Biologics",
       "date": "2026-09-08",
@@ -19,31 +19,31 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Industry (Biologics)",
-      "summary": "CBER’s Manufacturers Assistance and Technical Training Branch provides assistance and training to industry, including large and small manufacturers and trade associations, and to respond to requests for information regarding CBER policies and procedu",
+      "title": "工業（生物製品）",
+      "summary": "CBER 的製造商援助和技術培訓部門向行業（包括大型和小型製造商和貿易協會）提供援助和培訓，並回應有關 CBER 政策和程序的資訊請求",
       "source": "FDA Biologics",
       "date": "2026-09-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "Cellular & 基因療法 Products",
-      "summary": "CBER provides oversight of clinical studies, proactive scientific and regulatory advice to medical researchers and manufacturers of cellular therapy products, human 基因療法 products, and certain devices related to cell and 基因療法.",
+      "title": "細胞和基因療法產品",
+      "summary": "CBER 為細胞治療產品、人類基因治療產品以及與細胞和基因治療相關的某些設備的醫學研究人員和製造商提供臨床研究監督、主動科學和監管建議。",
       "source": "FDA Biologics",
       "date": "2026-09-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "Development & Approval Process (CBER)",
-      "summary": "Key resources and information related to CBER development & approval process.",
+      "title": "開發和批准流程 (CBER)",
+      "summary": "與 CBER 開發和審批流程相關的關鍵資源和資訊。",
       "source": "FDA Biologics",
       "date": "2026-09-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber",
       "lang": "zh-TW"
     },
     {
-      "title": "Exporting CBER-Regulated Products",
+      "title": "出口受 CBER 監管的產品",
       "summary": "The Division of Case Management (DCM) within CBER's Office of Compliance and Biologics Quality (OCBQ) directs and coordinates CBER's export programs, including review of requests for export of unapproved CBER-regulated products.",
       "source": "FDA Biologics",
       "date": "2026-09-08",
@@ -51,32 +51,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "General Biologics Guidances",
-      "summary": "This page displays links to General Biologics Guidance documents.",
+      "title": "一般生物製品指南",
+      "summary": "此頁面顯示一般生物製品指導文件的連結。",
       "source": "FDA Biologics",
       "date": "2026-09-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/general-biologics-guidances",
       "lang": "zh-TW"
     },
     {
-      "title": "Biologics Procedures (SOPPs)",
-      "summary": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in 美國食藥局（FDA）'s Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as t",
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-09-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "NRAS Mutations May Require Mutation-Guided Combination Therapies",
-      "summary": "Mutant NRAS has remained difficult to target in cancer. New findings suggest that its signaling partnership with wild-type HRAS may offer a targetable vulnerability, but effective strategies may need to be tailored to the specific NRAS mutation.\nThe ",
+      "title": "NRAS突變可能需要突變導向的組合療法",
+      "summary": "突變型NRAS在癌症治療中一直難以鎖定。新發現指出，它與野生型HRAS的訊號傳導夥伴關係，可能提供一個可鎖定的治療目標。",
       "source": "GEN News",
       "date": "2026-09-08",
       "url": "https://www.genengnews.com/topics/cancer/nras-mutations-may-require-mutation-guided-combination-therapies/",
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫療 in the Bronze Age: MSCs and MSC-EVs Leading the Way",
-      "summary": "The field of 再生醫療 is gaining momentum. Mesenchymal 幹細胞 (MSCs) remain central to this field, with expanding applications as direct therapies and as producers of MSC-derived extracellular vesicles (MSC-EVs). This article examine",
+      "title": "再生醫學進入青銅時代：間質幹細胞（MSC）與間質幹細胞外泌體（MSC-EV）引領潮流",
+      "summary": "再生醫學領域正蓬勃發展。間質幹細胞（MSC）仍是此領域的核心，其應用範圍持續擴大。",
       "source": "GEN News",
       "date": "2026-09-08",
       "url": "https://www.genengnews.com/sponsored/regenerative-medicine-in-the-bronze-age-mscs-and-msc-evs-leading-the-way/",
@@ -85,13 +85,13 @@
     {
       "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
       "summary": "",
-      "source": "twreporter.org",
+      "source": "報導者The Reporter",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     },
     {
-      "title": "2026年多發性骨髓瘤的嵌合抗原受體T細胞療法（CAR-T）：核准適應症、長期成效、毒性、治療策略與新興平台：一篇綜述",
-      "summary": "綜述2026年CAR-T療法在多發性骨髓瘤的應用",
+      "title": "2026年嵌合抗原受體T細胞療法（CAR-T）在多發性骨髓瘤的應用：核准適應症、長期療效、毒性、治療順序與新興平台綜述 | Legiec | Acta Haemato",
+      "summary": "本篇綜述探討2026年嵌合抗原受體T細胞療法（CAR-T）在多發性骨髓瘤的應用，包含核准適應症、長期療效、毒性、治療順序及新興平台。",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
