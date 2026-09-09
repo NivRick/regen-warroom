@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-09-08T14:53:11.241255+00:00",
+  "updated": "2026-09-09T00:51:15.209079+00:00",
   "items": [
     {
       "title": "STAT+: UnitedHealth對民主黨的投資，以及「意外帳單」爭議白熱化",
-      "summary": "UnitedHealth高層大筆捐款給民主黨要角，「無意外帳單法案」的爭議也越來越激烈。",
+      "summary": "UnitedHealth高層金援民主黨大老，而「無意外帳單法案」的爭議也持續升溫。",
       "source": "STAT News",
       "date": "2026-09-08",
       "url": "https://www.statnews.com/2026/09/08/unitedhealth-campaign-donations-katherine-clark-no-surprises-act-debate/?utm_campaign=rss",
@@ -20,30 +20,46 @@
     },
     {
       "title": "Hospitals pursue deals to ensure survival as Trump’s Medicaid cuts loom",
-      "summary": "農村衛生系統正在尋求合作以求生存，這引發了關於競爭和醫療費用上漲的爭論。",
+      "summary": "Rural health systems are seeking partnership to survive, fueling a debate over competition and the rising cost of medical care.",
       "source": "STAT News",
       "date": "2026-09-08",
       "url": "https://www.statnews.com/2026/09/08/rural-hospital-mergers-medicaid-cuts-part-3-unraveled-series/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "BrainChild 籌集 1.16 億美元用於開發兒童腦癌細胞療法",
-      "summary": "這家新創公司從西雅圖兒童醫院的研究中分離出來，已將針對一種罕見且致命的兒童癌症的 CAR-T細胞療法 療法引入中期測試。",
+      "title": "Roivant surges on ‘exceptional’ results; Bristol Myers touts first-of-its-kind CAR-T細胞療法 therapy",
+      "summary": "One analyst views Roivant&rsquo;s pulmonary hypertension drug as a future $10 billion-plus seller. Elsewhere, AstraZeneca overcame a negative advisory committee vote and Pharvaris claimed success in a key study.",
+      "source": "BioPharma Dive",
+      "date": "2026-09-08",
+      "url": "https://www.biopharmadive.com/news/roivant-astrazeneca-etcamah-GPRC5D-pharvaris-inhibrx/829763/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Novartis RNA drug falls short in rare muscle disease study",
+      "summary": "The failure of &ldquo;del-desiran,&rdquo; which Novartis got through a $12 billion acquisition, could raise questions about the company&rsquo;s business development acumen, according to one analyst.",
+      "source": "BioPharma Dive",
+      "date": "2026-09-08",
+      "url": "https://www.biopharmadive.com/news/novartis-rna-drug-failure-dm1-avidity-del-desiran/829778/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BrainChild hauls in $116M to make cell therapies for childhood brain cancers",
+      "summary": "Spun out of research at Seattle Children&rsquo;s Hospital, the startup has brought a CAR-T細胞療法 treatment for a rare and deadly pediatric cancer into mid-stage testing.",
       "source": "BioPharma Dive",
       "date": "2026-09-08",
       "url": "https://www.biopharmadive.com/news/brainchild-pediatric-brain-tumors-car-t/829463/",
       "lang": "zh-TW"
     },
     {
-      "title": "本週圖表：中國交易、股價持平以及禮來公司的併購熱潮",
-      "summary": "與中國製藥商的交易仍在穩步進行，而本週兩家中型生物技術公司的股價卻大幅下跌。與此同時，禮來公司今年在交易方面超過了其他製藥公司。",
+      "title": "This week in charts: China deals, stock flatlines and Lilly’s M&A spree",
+      "summary": "Deals with Chinese drugmakers are continuing at a steady pace, while two mid-cap biotechs' stock prices took a tumble this week. Meanwhile, Lilly has outpaced other pharmas in dealmaking this year.",
       "source": "BioPharma Dive",
       "date": "2026-09-04",
       "url": "https://www.biopharmadive.com/news/charts-biotech-deals-china-alumis-ultragenyx-stock/829635/",
       "lang": "zh-TW"
     },
     {
-      "title": "Ionis 罕見神經病變藥物獲準；輝瑞簽署 ADC 協議",
+      "title": "Ionis’ rare neurology drug approved; Pfizer inks an ADC deal",
       "summary": "Zanvastro is now the first approved medicine for Alexander disease. Elsewhere, an immune system specialist posted positive results and a 細胞治療 developer turned to layoffs.",
       "source": "BioPharma Dive",
       "date": "2026-09-04",
@@ -51,19 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "人工智慧藥物專家專注於罕見形式的肥胖症",
-      "summary": "Superluminal Medicines 籌集了 6000 萬美元資金，用於支持開發一種藥物，該藥物的作用類似於 Rhythm Pharmaceuticals 的上市藥物 Imcivree，但可能比 Rhythm Pharmaceuticals 的上市藥物 Imcivree 更具選擇性。",
+      "title": "An AI drug specialist zeroes in on rare forms of obesity",
+      "summary": "Superluminal Medicines banked $60 million in funding to support development of a drug designed to work similarly to &mdash; but potentially be more selectively than &mdash; Rhythm Pharmaceuticals&rsquo; marketed medicine Imcivree.",
       "source": "BioPharma Dive",
       "date": "2026-09-03",
       "url": "https://www.biopharmadive.com/news/superluminal-medicines-obesity-ai-drug-discovery-series-b/829552/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CAR-T成長背後隱藏的橫向擴展問題",
-      "summary": "CAR-T細胞療法 的商業挑戰是讓數千個針對特定患者的生產運作像可靠的系統一樣運作。 「體內」生產技術可能是一種解決方案。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-03",
-      "url": "https://www.biopharmadive.com/news/the-hidden-scale-out-problem-behind-car-t-growth/829405/",
       "lang": "zh-TW"
     }
   ]
