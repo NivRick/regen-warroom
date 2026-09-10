@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-09-09T14:58:55.163894+00:00",
+  "updated": "2026-09-10T00:46:55.298037+00:00",
   "items": [
     {
-      "title": "STAT+：白血病藥物數據暗示糖尿病新療法，新興生技公司將驗證此概念",
-      "summary": "Caspian Therapeutics 成立，募得 5,000 萬美元資金，旨在開發用於糖尿病及其他心血管代謝疾病的 menin 抑制劑。",
+      "title": "STAT+：ARPA-H 將投資 6,200 萬美元開發 美國食藥局（FDA） 授權的人工智慧，以幫助治療心臟衰竭",
+      "summary": "ARPA-H 是資助尖端健康研究的政府機構，計劃投入 6,270 萬美元開發直接治療心臟衰竭的人工智慧機器人。",
+      "source": "STAT News",
+      "date": "2026-09-09",
+      "url": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：白血病藥物數據提出了治療糖尿病的不同方法。一項新的生物技術將測試這個想法",
+      "summary": "Caspian Therapeutics 正在融資 5,000 萬美元，用於開發治療糖尿病和其他心臟代謝疾病的 menin 抑制劑。",
       "source": "STAT News",
       "date": "2026-09-09",
       "url": "https://www.statnews.com/2026/09/09/kura-oncology-spins-off-diabetes-focused-caspian-therapeutics/?utm_campaign=rss",
@@ -59,19 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "本週圖表：中國交易、股價持平以及禮來公司的併購熱潮",
-      "summary": "與中國製藥商的交易仍在穩步進行，而本週兩家中型生物技術公司的股價卻大幅下跌。與此同時，禮來公司今年在交易方面超過了其他製藥公司。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-04",
-      "url": "https://www.biopharmadive.com/news/charts-biotech-deals-china-alumis-ultragenyx-stock/829635/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Ionis 罕見神經病變藥物獲準；輝瑞簽署 ADC 協議",
-      "summary": "Zanvastro 現在是第一個獲準治療亞歷山大氏症的藥物。在其他地方，一位免疫系統專家公佈了積極的結果，一位細胞療法開發商則轉向裁員。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-04",
-      "url": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
+      "title": "人工智慧藥物專家專注於罕見形式的肥胖症",
+      "summary": "肥胖的形式 biopharmadive.com",
+      "source": "biopharmadive.com",
+      "date": "2026-09-03",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaDdMb2gzcU42WHloMFdKTGRVWHJDNml2Mkh3ajJjNDltVEFtdjVPUUxKbDA0dDJYNFV1Vm5CaFNiWmU1T2dSbVcyZEVXMDI1OU5pdTcyLTZLU3V0REhXRzdLUGEwdXdlT0RXR3o4VGxaNWpzVUJBS2xPSUFRS2wxbGFNSzJuakZFaGJ1Q3c5X1FILWtxYzFGdkFJd0ZtVHo3dUE?oc=5",
       "lang": "zh-TW"
     }
   ]

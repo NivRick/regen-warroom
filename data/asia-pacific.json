@@ -1,61 +1,54 @@
 {
   "module": "apac",
-  "updated": "2026-09-09T14:57:31.106106+00:00",
+  "updated": "2026-09-10T00:45:37.026269+00:00",
   "items": [
     {
-      "title": "新興免疫腫瘤公司募資2.25億美元，開發次世代藥物",
-      "summary": "Solstice Oncology正推進中國和鉑醫藥（Harbour BioMed）的藥物，該公司相信此藥能解決針對CTLA-靶點藥物的弱點。",
+      "title": "一項新的免疫腫瘤學計畫為下一代藥物籌集了 2.25 億美元",
+      "summary": "Solstice Oncology 正在開發一種來自中國和鉑醫藥的藥物，它相信該藥物能夠解決針對 CTLA-4 的藥物的弱點，CTLA-4 是一種流行但棘手的癌症免疫治療標靶。",
       "source": "BioPharma Dive",
       "date": "2026-09-09",
       "url": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
       "lang": "zh-TW"
     },
     {
-      "title": "亞太區生技公司重新思考合作策略",
-      "summary": "亞太區生技業者正調整其合作模式，以應對市場變化，尋求新的成長機會。",
+      "title": "亞太地區生技公司重新思考合作策略",
+      "summary": "",
       "source": "BioWorld News",
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZTlaUkI1aWRBOE5wSGxxOE4wd1FtSTJ6RmFQNTNmQ1RMem5IR2E3WmhnSUFqenZqT2dibGM5NzRpaHlpUzBTWXRRUU5oaXNJU0xwOHNzdHA1d0FtOVRLMW5mUms0SXV3b2REcldqZkZVYnd3UV9QUm00ZDVyZE81REVYY0E2RTNzNFE?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "本週圖表分析：中國交易案、股價停滯與禮來（Lilly）的併購熱潮",
-      "summary": "本週圖表分析：中國藥廠交易持續，兩家中型生技股價重挫，禮來（Lilly）則展開併購熱潮。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-04",
-      "url": "https://www.biopharmadive.com/news/charts-biotech-deals-china-alumis-ultragenyx-stock/829635/",
+      "title": "隨著亞太生命科學產業的起飛，新加坡吸引了國際生技創投公司",
+      "summary": "亞太生命科學產業起飛 新加坡經濟發展局 (EDB)",
+      "source": "Singapore Economic Development Board (EDB)",
+      "date": "2026-09-02",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVJqQjl1cTVOZ3MyRXJjdGd2cWFmTFVtNnJXZUJtM3hRQjlWLUlhS2Rfb0Jnb1dhdmlWbkt6a0tOdThfc0lBZkZrdTB2T3NrNjdRdU9wZTVOMUhuZzVoMXlDZW5NNU5VSFV5QThwWWZ3VDF3MktWZnlGa1hwQmVHV3A4VGtwZ3U5N1lOT09FSmNfbG5MSXpBTGxQTlNPbmkzYjhZVTdVaFk0eFVLZUZycnJRd0ZfeHFoaXFUTEpOdzZKaDR6b3VzZQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "「我們的長期願景是將新加坡打造成異體細胞治療的全球樞紐」",
-      "summary": "異體細胞治療的全球樞紐，BioSpectrum Asia報導。",
+      "title": "“我們的長期願景是將新加坡打造成全球同種異體細胞治療中心”",
+      "summary": "恩加坡作為全球同種異體細胞治療中心”BioSpectrum Asia",
       "source": "BioSpectrum Asia",
       "date": "2026-09-01",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNelBSaW9CRS11cUhESVMzVnQxbWJ6eFNYaEo3QTFXWGdCcXU5RVlHN2ZIWjd3cm10a1hoTktBdi1ZamV1RkZtT3lLdmU0VGNqdUZDTFVYQzM5ejdLYmlYWTlQYVl5cWhRamRkNGRhLVFhTXJRaWtXVVZhdTNZdm9yMnhndndPb1lFR1Q4NE13N0hzSXd1MFU2YTJIV01HeUpVU3dCMzlzZ2tzajhlX2NLSGhfZ1dTUzB6bm1CdUVwTHowRnJNQllhYU5wOHhLWnVRMHU5LUk3NVdodVlZbjBHbw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞臍帶血市場規模報告，2033年",
-      "summary": "2033年市場規模報告，Grand View Research發布。",
-      "source": "Grand View Research",
+      "title": "幹細胞臍帶血市場規模報告，2033 年",
+      "summary": "澤報告，2033 grandviewresearch.com",
+      "source": "grandviewresearch.com",
       "date": "2026-08-25",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2JpVzEwOFNCdGdBVDYzb3hmMzN1RXppdjBIUlEtNUpMY2tycDB6RDlWV2lpc1MtNG52YXRVdkZKUVJGNUxkaXdobi1GTFUxc2hpZzNWcE9TTVZPM3JpdEVuLWJYNjdQNjFlcGpLUGlZR1E3T3U3SDdXNjA3d25MOVJUWGEzcXJfekZ6X0JXR2N0clVTV21HbFBrV3Y?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "間質幹細胞市場規模、市佔率與成長趨勢，2034年",
-      "summary": "2034年市場規模、市佔率與成長趨勢，Straits Research發布。",
+      "title": "間質幹細胞市場規模、份額、成長，2034 年",
+      "summary": "e，成長，2034 海峽研究",
       "source": "Straits Research",
       "date": "2026-08-24",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EbTVpeE53eXItOXdnbWo0TE5ueThLWDhpOWFMcGt2X2tZNkxncE4xUXNvaHo0X3U3U1ZvMHNLMmIyanE1N3piaTNnRkd6dnNwMDFYaDBabHB5LU4tc25sWW02QlBTVFdTcThsWGhRamFaUQ?oc=5",
       "lang": "zh-TW"
-    },
-    {
-      "title": "生命科學、智慧產權、品牌金融國際高峰論壇登場 | 產業動態 | 商情",
-      "summary": "",
-      "source": "經濟日報",
-      "date": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a0JvOHlrVVp2eE5hbDFmTUpDdTYwVk9mUDA5bDRVRzNEWTVkZHZxeGtPaE5oYnh3SVh3UE5UT1lad2NnbXQwemV2Mkx0VUtLVXN4dWhTSU5qb0E?oc=5"
     },
     {
       "title": "再生醫療雙軌出擊 打造生醫第二座神山",
@@ -65,25 +58,25 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96ODhnZnNCRFBjX3h2dWR3M0c3LWM0dGJQMi1raDdvRWRMeGYyS1FXdTk5SzNoTTRHejJ4VzBlR0NVeUJoUUN4T0tvM3RpTHY1T1E?oc=5"
     },
     {
-      "title": "醫療保健領域4D列印市場規模、市佔率與預測，2034年",
-      "summary": "2034年市場規模、市佔率與預測，Fortune Business Insights發布。",
+      "title": "4D 列印在醫療保健市場規模、份額、預測，2034 年",
+      "summary": "野兔，預測，2034 年《財星》商業洞察",
       "source": "Fortune Business Insights",
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGJUNTg1Rl9qeTk0Rnl5aHVTS3lHVk4zdmNsOTVtT3p2YUQ1S3VHa0k1aVQ2cV9TWjRrS3IxOWFjdVBpZTAwb3d6Mi1kVzZnZllaMmZOV1pzSklWczNJZnUyNXhjNGgyX1N6S1JXekx5ZDd4UmdYRnBKOUF5ZkZ1em5iOGVkdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "亞太區CRISPR（基因編輯技術）市場規模、市佔率、趨勢與成長分析報告，2030年",
-      "summary": "2030年市場規模、市佔率、趨勢與成長分析報告，MarketsandMarkets發布。",
-      "source": "MarketsandMarkets",
+      "title": "2030 年亞太地區 基因剪輯技術（CRISPR） 市場規模、份額、趨勢、成長分析報告",
+      "summary": "rends，成長分析報告，2030 年 marketandmarkets.com",
+      "source": "marketsandmarkets.com",
       "date": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObG03SWFucHBkc1p5ODFtbUJSa29qcW0yelpLOWs1c29SZ0tMUmZLRXlvNGQ0bEJybGdSdndxdmZrOXYtWldQYTRGQUwyQU9xSmpWMVllYkhKSzMxblJZMm01dHVqNGw4T1A2YkpLZ3Q1TUtPMmtmOUNudWJHdVpoSG80QXJJUU10RkgxYkFScVFkSDN2TjdSZFZDdG0?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "歐洲細胞治療技術市場規模、市佔率、趨勢與成長分析報告，2030年",
-      "summary": "2030年市場規模、市佔率、趨勢與成長分析報告，MarketsandMarkets發布。",
-      "source": "MarketsandMarkets",
+      "title": "歐洲細胞治療技術市場規模、份額、趨勢、成長分析報告，2030 年",
+      "summary": "規模、份額、趨勢、成長分析報告，2030 年 marketandmarkets.com",
+      "source": "marketsandmarkets.com",
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZF96bHpiLU9acmdLOXk4dzF6OGdHSlZ6a0hrTXBlSnlmNmVvNDJ2VjdCMGJUT2EwejE2UHpfd3MzV2dZSnhzLUtJeW4xYUpJQl9iZ3ZQR0JCbS10M0p4bW83WkY3V2diUE1KaTVCeXNtZm9Fb1duQWdWeXFQbWVTSGdYZVN0MUVGQVhlNENMRjI3Z2Y1VHNBVU1adndGclk?oc=5",
       "lang": "zh-TW"

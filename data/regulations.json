@@ -1,18 +1,58 @@
 {
   "module": "regulation",
-  "updated": "2026-09-09T14:58:15.701963+00:00",
+  "updated": "2026-09-10T00:46:21.965318+00:00",
   "items": [
     {
-      "title": "已核准的血液製品",
-      "summary": "本頁列出依生物製劑許可申請（BLAs）、新藥申請（NDAs）、上市前核准（PMAs）及510(k)上市前通知等法規途徑核准的血液製品。",
+      "title": "2022年生物製品評估與研究中心（CBER）科學研討會",
+      "summary": "公共研討會將討論與生物製品監管相關的科學主題，並強調 CBER 進行的科學活動將包括來自學術機構、政府機構和研究機構的專家的演講。",
+      "source": "09/20/2022",
+      "date": "2026-09-09",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/2022-center-biologics-evaluation-and-research-cber-science-symposium-09202022",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-09-09",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "OTAT Town Hall: 基因療法 Chemistry, Manufacturing, and Controls",
+      "summary": "美國食藥局（FDA） 的生物製品評估和研究中心 (CBER) 組織和先進療法辦公室 (OTAT) 正在舉辦一個虛擬市政廳，以回答利益相關者有關基因療法化學、製造和控制的問題。本次活動是",
+      "source": "09/29/2022",
+      "date": "2026-09-09",
+      "url": "http://www.fda.gov/news-events/otat-town-hall-gene-therapy-chemistry-manufacturing-and-controls-09292022",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "OTAT Town Hall：罕見疾病基因治療產品的臨床開發",
+      "summary": "美國食藥局（FDA） 生物製品評估和研究中心 (CBER) 組織和先進療法辦公室 (OTAT) 正在舉辦虛擬市政廳，以回答利益相關者與罕見疾病基因治療產品臨床開發相關的問題",
+      "source": "02/07/2023",
+      "date": "2026-09-09",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otat-town-hall-clinical-development-gene-therapy-products-rare-diseases-02072023",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "瑞比寧",
+      "summary": "產品核准資訊用於治療患有先天性纖維蛋白原缺乏症（包括無纖維蛋白原血症和低纖維蛋白原血症）的成人和青少年的急性出血事件。用於患有 B 型血友病的成人和兒童",
+      "source": "FDA Biologics",
+      "date": "2026-09-09",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/rebinyn",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "核准的血液製品",
+      "summary": "受生物製劑許可申請 (BLA)、新藥申請 (NDAS)、上市前批准 (PMA) 和 510(k) 監管的產品。",
       "source": "FDA Biologics",
       "date": "2026-09-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/blood-blood-products/approved-blood-products",
       "lang": "zh-TW"
     },
     {
-      "title": "醫療專業人員（",
-      "summary": "",
+      "title": "醫療保健提供者（生物製品）",
+      "summary": "醫療保健提供者有關生物製品的資源。",
       "source": "FDA Biologics",
       "date": "2026-09-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics",
@@ -27,59 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "細胞和基因療法產品",
-      "summary": "CBER 為細胞治療產品、人類基因治療產品以及與細胞和基因治療相關的某些設備的醫學研究人員和製造商提供臨床研究監督、主動科學和監管建議。",
-      "source": "FDA Biologics",
-      "date": "2026-09-08",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "開發和批准流程 (CBER)",
-      "summary": "與 CBER 開發和審批流程相關的關鍵資源和資訊。",
-      "source": "FDA Biologics",
-      "date": "2026-09-08",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "出口受 CBER 監管的產品",
-      "summary": "The Division of Case Management (DCM) within CBER's Office of Compliance and Biologics Quality (OCBQ) directs and coordinates CBER's export programs, including review of requests for export of unapproved CBER-regulated products.",
-      "source": "FDA Biologics",
-      "date": "2026-09-08",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/exporting-cber-regulated-products",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "一般生物製品指南",
-      "summary": "此頁面顯示一般生物製品指導文件的連結。",
-      "source": "FDA Biologics",
-      "date": "2026-09-08",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/general-biologics-guidances",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品程序 (SOPP)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
-      "source": "FDA Biologics",
-      "date": "2026-09-08",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "NRAS突變可能需要突變導向的組合療法",
-      "summary": "突變型NRAS在癌症治療中一直難以鎖定。新發現指出，它與野生型HRAS的訊號傳導夥伴關係，可能提供一個可鎖定的治療目標。",
+      "title": "NRAS 突變可能需要突變引導的聯合治療",
+      "summary": "突變的 NRAS 仍然難以標靶治療癌症。新的研究結果表明，其與野生型 HRAS 的訊號傳導夥伴關係可能會提供可針對的漏洞，但可能需要針對特定的 NRAS 突變客製化有效的策略。\n這",
       "source": "GEN News",
       "date": "2026-09-08",
       "url": "https://www.genengnews.com/topics/cancer/nras-mutations-may-require-mutation-guided-combination-therapies/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "再生醫學進入青銅時代：間質幹細胞（MSC）與間質幹細胞外泌體（MSC-EV）引領潮流",
-      "summary": "再生醫學領域正蓬勃發展。間質幹細胞（MSC）仍是此領域的核心，其應用範圍持續擴大。",
-      "source": "GEN News",
-      "date": "2026-09-08",
-      "url": "https://www.genengnews.com/sponsored/regenerative-medicine-in-the-bronze-age-mscs-and-msc-evs-leading-the-way/",
       "lang": "zh-TW"
     },
     {
@@ -90,8 +82,8 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     },
     {
-      "title": "2026年嵌合抗原受體T細胞療法（CAR-T）在多發性骨髓瘤的應用：核准適應症、長期療效、毒性、治療順序與新興平台綜述 | Legiec | Acta Haemato",
-      "summary": "本篇綜述探討2026年嵌合抗原受體T細胞療法（CAR-T）在多發性骨髓瘤的應用，包含核准適應症、長期療效、毒性、治療順序及新興平台。",
+      "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性綜述 |萊吉克 |波蘭血液學報",
+      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
