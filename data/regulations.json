@@ -1,10 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-09-10T00:46:21.965318+00:00",
+  "updated": "2026-09-10T14:46:02.150957+00:00",
   "items": [
     {
+      "title": "會議一：已核准罕見疾病基因療法之安全考量—病患與照護夥伴觀點",
+      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）舉辦病患意見交流會，針對已核准罕見疾病基因療法之安全考量，聽取病患與",
+      "source": "09/20/2024",
+      "date": "2026-09-10",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/meeting-1-patient-and-care-partner-perspectives-safety-considerations-approved-gene-therapy",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "研討會、會議和大會（生物製品）",
+      "summary": "有關 CBER 主辦或共同主辦的有關各種生物製品的會議、大會和研討會的信息，以便教育公眾並徵求有關各方的意見。",
+      "source": "FDA Biologics",
+      "date": "2026-09-10",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
+      "lang": "zh-TW"
+    },
+    {
       "title": "2022年生物製品評估與研究中心（CBER）科學研討會",
-      "summary": "公共研討會將討論與生物製品監管相關的科學主題，並強調 CBER 進行的科學活動將包括來自學術機構、政府機構和研究機構的專家的演講。",
+      "summary": "The public symposium is to discuss scientific topics related to the regulation of biologics and highlight science conducted at CBER will include presentations by experts from academic institutions, government agencies and research institutions.",
       "source": "09/20/2022",
       "date": "2026-09-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/2022-center-biologics-evaluation-and-research-cber-science-symposium-09202022",
@@ -19,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "OTAT Town Hall: 基因療法 Chemistry, Manufacturing, and Controls",
+      "title": "OTAT 市政廳：基因治療化學、製造和控制",
       "summary": "美國食藥局（FDA） 的生物製品評估和研究中心 (CBER) 組織和先進療法辦公室 (OTAT) 正在舉辦一個虛擬市政廳，以回答利益相關者有關基因療法化學、製造和控制的問題。本次活動是",
       "source": "09/29/2022",
       "date": "2026-09-09",
@@ -51,24 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "醫療保健提供者（生物製品）",
-      "summary": "醫療保健提供者有關生物製品的資源。",
-      "source": "FDA Biologics",
-      "date": "2026-09-08",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "工業（生物製品）",
-      "summary": "CBER 的製造商援助和技術培訓部門向行業（包括大型和小型製造商和貿易協會）提供援助和培訓，並回應有關 CBER 政策和程序的資訊請求",
-      "source": "FDA Biologics",
-      "date": "2026-09-08",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "NRAS 突變可能需要突變引導的聯合治療",
-      "summary": "突變的 NRAS 仍然難以標靶治療癌症。新的研究結果表明，其與野生型 HRAS 的訊號傳導夥伴關係可能會提供可針對的漏洞，但可能需要針對特定的 NRAS 突變客製化有效的策略。\n這",
+      "title": "NRAS基因突變可能需要突變導向的組合療法",
+      "summary": "帶有NRAS突變的癌症，其治療一直以來都是一大挑戰。然而，最新研究發現，NRAS突變型與野生型HRAS之間的訊號傳導合作關係，可能提供一個新的治療標的，為開發突變導向的組合療法帶來新契機。",
       "source": "GEN News",
       "date": "2026-09-08",
       "url": "https://www.genengnews.com/topics/cancer/nras-mutations-may-require-mutation-guided-combination-therapies/",
@@ -82,8 +82,8 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     },
     {
-      "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性綜述 |萊吉克 |波蘭血液學報",
-      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
+      "title": "展望2026年多發性骨髓瘤的嵌合抗原受體T細胞療法（CAR-T）：核准適應症、長期療效、毒性、治療順序與新興平台綜述",
+      "summary": "本文綜述2026年多發性骨髓瘤的嵌合抗原受體T細胞療法（CAR-T）發展，探討其核准適應症、長期療效、潛在毒性、在治療流程中的定位，以及未來可能出現的新興治療平台，為產業提供前瞻性分析。",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",

@@ -1,7 +1,31 @@
 {
   "module": "funding",
-  "updated": "2026-09-10T00:46:55.298037+00:00",
+  "updated": "2026-09-10T14:47:08.510832+00:00",
   "items": [
+    {
+      "title": "STAT+: 展望UniQure即將公布的亨丁頓氏症基因療法數據",
+      "summary": "UniQure預計九月底前公布亨丁頓氏症基因療法四年期臨床數據。",
+      "source": "STAT News",
+      "date": "2026-09-10",
+      "url": "https://www.statnews.com/2026/09/10/uniqure-huntingtons-gene-therapy-trial-readout/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Roivant是生技界最精明的交易高手之一，它還有一個",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-09-10",
+      "url": "https://www.statnews.com/2026/09/10/roivant-biotech-dealmaking-mosliciguat-origins/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "華爾街蓬勃發展的企業希望更多的生技公司悄悄消亡",
+      "summary": "Once disparaged, reverse mergers have become so popular that some deal experts question whether there are enough quality shell companies to meet the demand.",
+      "source": "BioPharma Dive",
+      "date": "2026-09-10",
+      "url": "https://www.biopharmadive.com/news/biotech-reverse-mergers-public-markets-ipo/829197/",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：ARPA-H 將投資 6,200 萬美元開發 美國食藥局（FDA） 授權的人工智慧，以幫助治療心臟衰竭",
       "summary": "ARPA-H 是資助尖端健康研究的政府機構，計劃投入 6,270 萬美元開發直接治療心臟衰竭的人工智慧機器人。",
@@ -12,7 +36,7 @@
     },
     {
       "title": "STAT+：白血病藥物數據提出了治療糖尿病的不同方法。一項新的生物技術將測試這個想法",
-      "summary": "Caspian Therapeutics 正在融資 5,000 萬美元，用於開發治療糖尿病和其他心臟代謝疾病的 menin 抑制劑。",
+      "summary": "Caspian Therapeutics, is launching with $50 million in financing to develop menin inhibitors for diabetes and other cardiometabolic diseases.",
       "source": "STAT News",
       "date": "2026-09-09",
       "url": "https://www.statnews.com/2026/09/09/kura-oncology-spins-off-diabetes-focused-caspian-therapeutics/?utm_campaign=rss",
@@ -24,22 +48,6 @@
       "source": "BioPharma Dive",
       "date": "2026-09-09",
       "url": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：聯合健康的民主黨投資，以及令人驚訝的帳單膨脹辯論",
-      "summary": "聯合健康保險的高層向民主黨高層慷慨解囊，《無意外法案》的爭論愈演愈烈。",
-      "source": "STAT News",
-      "date": "2026-09-08",
-      "url": "https://www.statnews.com/2026/09/08/unitedhealth-campaign-donations-katherine-clark-no-surprises-act-debate/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+： 美國食藥局（FDA） 核准阿斯特捷利康乳癌藥物",
-      "summary": "Roivant 藥物取得中期成果，Moonwalk 籌集資金開發更持久的肥胖藥物，以及更多生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-09-08",
-      "url": "https://www.statnews.com/2026/09/08/biotech-news-fda-approves-astrazeneca-breast-cancer-drug/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -68,8 +76,8 @@
     },
     {
       "title": "人工智慧藥物專家專注於罕見形式的肥胖症",
-      "summary": "肥胖的形式 biopharmadive.com",
-      "source": "biopharmadive.com",
+      "summary": "肥胖的形式 BioPharma Dive",
+      "source": "BioPharma Dive",
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaDdMb2gzcU42WHloMFdKTGRVWHJDNml2Mkh3ajJjNDltVEFtdjVPUUxKbDA0dDJYNFV1Vm5CaFNiWmU1T2dSbVcyZEVXMDI1OU5pdTcyLTZLU3V0REhXRzdLUGEwdXdlT0RXR3o4VGxaNWpzVUJBS2xPSUFRS2wxbGFNSzJuakZFaGJ1Q3c5X1FILWtxYzFGdkFJd0ZtVHo3dUE?oc=5",
       "lang": "zh-TW"
