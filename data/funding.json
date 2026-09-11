@@ -1,61 +1,61 @@
 {
   "module": "funding",
-  "updated": "2026-09-11T00:40:57.862334+00:00",
+  "updated": "2026-09-11T14:47:24.830598+00:00",
   "items": [
     {
-      "title": "STAT+: What to expect from UniQure’s upcoming Huntington’s 基因療法 readout",
-      "summary": "Before the end of September, UniQure is expected to report four-year results from the closely tracked 臨床試驗 of its 基因療法 for Huntington’s disease.",
+      "title": "STAT+: Pharmalittle：諾華投資人焦慮不安、生物製劑專利到期等議題",
+      "summary": "諾華（Novartis）投資人對公司併購策略感到不安，同時生物製劑專利到期問題也引發關注。",
+      "source": "STAT News",
+      "date": "2026-09-11",
+      "url": "https://www.statnews.com/pharmalot/2026/09/11/anxious-novartis-investors-biologics-facing-patent-expirations/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Karyopharm 延後償還債務；安進 (Amgen) 擴大 Imdelltra 的使用範圍",
+      "summary": "Karyopharm 獲得了額外的一個月時間來與債權人進行談判或尋求達成協議。在其他地方，BridgeBio Pharma 的腫瘤學分拆公司改變了其開發計劃，一家專注於大腦的基因療法新創公司籌集了 2.75 億美元資金。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-11",
+      "url": "https://www.biopharmadive.com/news/imdelltra-bridgebio-oncology-evommune-encoded-tectora/830056/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: UniQure 即將公布",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-09-10",
       "url": "https://www.statnews.com/2026/09/10/uniqure-huntingtons-gene-therapy-trial-readout/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Roivant is one of the savviest dealmakers in biotech. It also has a secret weapon",
-      "summary": "A Roivant lung disease drug has succeeded in a mid-stage study. But the drug’s origins are another fascinating aspect to the story.",
+      "title": "STAT+：Roivant 是生技領域最精明的交易撮合者之一。它還有一個秘密武器",
+      "summary": "Roivant 肺病藥物已在中期研究中取得成功。但這種藥物的起源是這個故事的另一個迷人的方面。",
       "source": "STAT News",
       "date": "2026-09-10",
       "url": "https://www.statnews.com/2026/09/10/roivant-biotech-dealmaking-mosliciguat-origins/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "A booming business on Wall Street would love more biotechs to quietly die",
-      "summary": "Once disparaged, reverse mergers have become so popular that some deal experts question whether there are enough quality shell companies to meet the demand.",
+      "title": "華爾街蓬勃發展的企業希望更多的生技公司悄悄消亡",
+      "summary": "一度遭到貶低的反向併購現在變得如此流行，以至於一些交易專家質疑是否有足夠的優質空殼公司來滿足需求。",
       "source": "BioPharma Dive",
       "date": "2026-09-10",
       "url": "https://www.biopharmadive.com/news/biotech-reverse-mergers-public-markets-ipo/829197/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: ARPA-H to invest $62 million to develop 美國食藥局（FDA）-authorized AI to help treat heart failure",
-      "summary": "ARPA-H, the government agency that funds cutting edge health research, plans to commit $62.7 million to develop artificial intelligence bots that direct treatment of heart failure.",
-      "source": "STAT News",
-      "date": "2026-09-09",
-      "url": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "A new immuno-oncology play raises $225M for a next-generation drug",
-      "summary": "Solstice Oncology is advancing a medicine from China&rsquo;s Harbour BioMed that it believes is able to address the weaknesses of drugs aimed at CTLA-4, a popular but tricky cancer 免疫療法 target.",
+      "title": "一項新的免疫腫瘤學計畫為下一代藥物籌集了 2.25 億美元",
+      "summary": "Solstice Oncology 正在開發一種來自中國和鉑醫藥的藥物，它相信該藥物能夠解決針對 CTLA-4 的藥物的弱點，CTLA-4 是一種流行但棘手的癌症免疫治療標靶。",
       "source": "BioPharma Dive",
       "date": "2026-09-09",
       "url": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
       "lang": "zh-TW"
     },
     {
-      "title": "Roivant surges on ‘exceptional’ results; Bristol Myers touts first-of-its-kind CAR-T細胞療法 therapy",
-      "summary": "One analyst views Roivant&rsquo;s pulmonary hypertension drug as a future $10 billion-plus seller. Elsewhere, AstraZeneca overcame a negative advisory committee vote and Pharvaris claimed success in a key study.",
-      "source": "BioPharma Dive",
-      "date": "2026-09-08",
-      "url": "https://www.biopharmadive.com/news/roivant-astrazeneca-etcamah-GPRC5D-pharvaris-inhibrx/829763/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "An AI drug specialist zeroes in on rare forms of obesity",
-      "summary": "forms of obesity BioPharma Dive",
-      "source": "BioPharma Dive",
-      "date": "2026-09-03",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaDdMb2gzcU42WHloMFdKTGRVWHJDNml2Mkh3ajJjNDltVEFtdjVPUUxKbDA0dDJYNFV1Vm5CaFNiWmU1T2dSbVcyZEVXMDI1OU5pdTcyLTZLU3V0REhXRzdLUGEwdXdlT0RXR3o4VGxaNWpzVUJBS2xPSUFRS2wxbGFNSzJuakZFaGJ1Q3c5X1FILWtxYzFGdkFJd0ZtVHo3dUE?oc=5",
+      "title": "Fierce Biotech Fundraising Tracker '26: Encoded finagles $275M series F; Solstice 股價上漲 2.25 億美元",
+      "summary": "編碼騙局 F 系列價值 2.75 億美元； Solstice 股價上漲 2.25 億美元 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-09-09",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     }
   ]
