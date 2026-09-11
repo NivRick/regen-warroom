@@ -1,25 +1,25 @@
 {
   "module": "funding",
-  "updated": "2026-09-10T14:47:08.510832+00:00",
+  "updated": "2026-09-11T00:40:57.862334+00:00",
   "items": [
     {
-      "title": "STAT+: 展望UniQure即將公布的亨丁頓氏症基因療法數據",
-      "summary": "UniQure預計九月底前公布亨丁頓氏症基因療法四年期臨床數據。",
+      "title": "STAT+: What to expect from UniQure’s upcoming Huntington’s 基因療法 readout",
+      "summary": "Before the end of September, UniQure is expected to report four-year results from the closely tracked 臨床試驗 of its 基因療法 for Huntington’s disease.",
       "source": "STAT News",
       "date": "2026-09-10",
       "url": "https://www.statnews.com/2026/09/10/uniqure-huntingtons-gene-therapy-trial-readout/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Roivant是生技界最精明的交易高手之一，它還有一個",
-      "summary": "",
+      "title": "STAT+: Roivant is one of the savviest dealmakers in biotech. It also has a secret weapon",
+      "summary": "A Roivant lung disease drug has succeeded in a mid-stage study. But the drug’s origins are another fascinating aspect to the story.",
       "source": "STAT News",
       "date": "2026-09-10",
       "url": "https://www.statnews.com/2026/09/10/roivant-biotech-dealmaking-mosliciguat-origins/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "華爾街蓬勃發展的企業希望更多的生技公司悄悄消亡",
+      "title": "A booming business on Wall Street would love more biotechs to quietly die",
       "summary": "Once disparaged, reverse mergers have become so popular that some deal experts question whether there are enough quality shell companies to meet the demand.",
       "source": "BioPharma Dive",
       "date": "2026-09-10",
@@ -27,56 +27,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：ARPA-H 將投資 6,200 萬美元開發 美國食藥局（FDA） 授權的人工智慧，以幫助治療心臟衰竭",
-      "summary": "ARPA-H 是資助尖端健康研究的政府機構，計劃投入 6,270 萬美元開發直接治療心臟衰竭的人工智慧機器人。",
+      "title": "STAT+: ARPA-H to invest $62 million to develop 美國食藥局（FDA）-authorized AI to help treat heart failure",
+      "summary": "ARPA-H, the government agency that funds cutting edge health research, plans to commit $62.7 million to develop artificial intelligence bots that direct treatment of heart failure.",
       "source": "STAT News",
       "date": "2026-09-09",
       "url": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：白血病藥物數據提出了治療糖尿病的不同方法。一項新的生物技術將測試這個想法",
-      "summary": "Caspian Therapeutics, is launching with $50 million in financing to develop menin inhibitors for diabetes and other cardiometabolic diseases.",
-      "source": "STAT News",
-      "date": "2026-09-09",
-      "url": "https://www.statnews.com/2026/09/09/kura-oncology-spins-off-diabetes-focused-caspian-therapeutics/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "一項新的免疫腫瘤學計畫為下一代藥物籌集了 2.25 億美元",
-      "summary": "Solstice Oncology 正在開發一種來自中國和鉑醫藥的藥物，它相信該藥物能夠解決針對 CTLA-4 的藥物的弱點，CTLA-4 是一種流行但棘手的癌症免疫治療標靶。",
+      "title": "A new immuno-oncology play raises $225M for a next-generation drug",
+      "summary": "Solstice Oncology is advancing a medicine from China&rsquo;s Harbour BioMed that it believes is able to address the weaknesses of drugs aimed at CTLA-4, a popular but tricky cancer 免疫療法 target.",
       "source": "BioPharma Dive",
       "date": "2026-09-09",
       "url": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
       "lang": "zh-TW"
     },
     {
-      "title": "Roivant 因「卓越」業績而飆升；百時美施貴寶推出首個 CAR-T細胞療法 療法",
-      "summary": "一位分析師認為 Roivant 的肺動脈高壓藥物未來的銷售額將超過 100 億美元。在其他地方，阿斯特捷利康（AstraZeneca）克服了諮詢委員會的負面投票，法瓦里斯（Pharvaris）聲稱在一項關鍵研究中取得了成功。",
+      "title": "Roivant surges on ‘exceptional’ results; Bristol Myers touts first-of-its-kind CAR-T細胞療法 therapy",
+      "summary": "One analyst views Roivant&rsquo;s pulmonary hypertension drug as a future $10 billion-plus seller. Elsewhere, AstraZeneca overcame a negative advisory committee vote and Pharvaris claimed success in a key study.",
       "source": "BioPharma Dive",
       "date": "2026-09-08",
       "url": "https://www.biopharmadive.com/news/roivant-astrazeneca-etcamah-GPRC5D-pharvaris-inhibrx/829763/",
       "lang": "zh-TW"
     },
     {
-      "title": "諾華 RNA 藥物在罕見肌肉疾病研究中表現不佳",
-      "summary": "一位分析師表示，諾華透過 120 億美元收購的「del-desiran」的失敗可能會引發人們對該公司業務發展智慧的質疑。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-08",
-      "url": "https://www.biopharmadive.com/news/novartis-rna-drug-failure-dm1-avidity-del-desiran/829778/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BrainChild 籌集 1.16 億美元用於開發兒童腦癌細胞療法",
-      "summary": "這家新創公司從西雅圖兒童醫院的研究中分離出來，已將針對一種罕見且致命的兒童癌症的 CAR-T細胞療法 療法引入中期測試。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-08",
-      "url": "https://www.biopharmadive.com/news/brainchild-pediatric-brain-tumors-car-t/829463/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "人工智慧藥物專家專注於罕見形式的肥胖症",
-      "summary": "肥胖的形式 BioPharma Dive",
+      "title": "An AI drug specialist zeroes in on rare forms of obesity",
+      "summary": "forms of obesity BioPharma Dive",
       "source": "BioPharma Dive",
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaDdMb2gzcU42WHloMFdKTGRVWHJDNml2Mkh3ajJjNDltVEFtdjVPUUxKbDA0dDJYNFV1Vm5CaFNiWmU1T2dSbVcyZEVXMDI1OU5pdTcyLTZLU3V0REhXRzdLUGEwdXdlT0RXR3o4VGxaNWpzVUJBS2xPSUFRS2wxbGFNSzJuakZFaGJ1Q3c5X1FILWtxYzFGdkFJd0ZtVHo3dUE?oc=5",

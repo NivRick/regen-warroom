@@ -1,77 +1,69 @@
 {
   "module": "regulation",
-  "updated": "2026-09-10T14:46:02.150957+00:00",
+  "updated": "2026-09-11T00:40:49.680996+00:00",
   "items": [
     {
-      "title": "會議一：已核准罕見疾病基因療法之安全考量—病患與照護夥伴觀點",
-      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）舉辦病患意見交流會，針對已核准罕見疾病基因療法之安全考量，聽取病患與",
-      "source": "09/20/2024",
-      "date": "2026-09-10",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/meeting-1-patient-and-care-partner-perspectives-safety-considerations-approved-gene-therapy",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "研討會、會議和大會（生物製品）",
-      "summary": "有關 CBER 主辦或共同主辦的有關各種生物製品的會議、大會和研討會的信息，以便教育公眾並徵求有關各方的意見。",
+      "title": "Workshops, Meetings & Conferences (Biologics)",
+      "summary": "Information on CBER sponsored or co-sponsored meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties.",
       "source": "FDA Biologics",
       "date": "2026-09-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "2022年生物製品評估與研究中心（CBER）科學研討會",
+      "title": "OTP Town Hall: CMC Readiness for 基因療法 BLAs",
+      "summary": "The 美國食藥局（FDA）’s Center for Biologics Evaluation and Research (CBER) Office of Therapeutic Products (OTP) is hosting its next virtual town hall on Tuesday, June 4, 2024, to answer stakeholder questions regarding the chemistry, manufacturing, and controls (C",
+      "source": "06/04/2024",
+      "date": "2026-09-10",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/otp-town-hall-cmc-readiness-gene-therapy-blas-06042024",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "OTAT Town Hall: 基因療法 Chemistry, Manufacturing, and Controls",
+      "summary": "The 美國食藥局（FDA）’s Center for Biologics Evaluation and Research (CBER) Office of Tissues and Advanced Therapies (OTAT) is hosting a virtual town hall to answer stakeholder questions related to 基因療法 chemistry, manufacturing, and controls. This event is",
+      "source": "09/22/2022",
+      "date": "2026-09-10",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/otat-town-hall-gene-therapy-chemistry-manufacturing-and-controls-09222022",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Information for Practitioners - 美國食藥局（FDA）’s Regulatory Oversight of 再生醫療 Products",
+      "summary": "The 美國食藥局（FDA）’s Center for Biologics Evaluation and Research (CBER) is hosting a public webinar on November 17, 2022, at 11:00 am.",
+      "source": "11/17/2022",
+      "date": "2026-09-10",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/information-practitioners-fdas-regulatory-oversight-regenerative-medicine-products-11172022",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "TENIVAC",
+      "summary": "is a product approval Indicated for active immunization for the prevention of tetanus and diphtheria in persons 7 years of age and older.",
+      "source": "FDA Biologics",
+      "date": "2026-09-10",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/tenivac",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "INFANRIX",
+      "summary": "Product approval information for Diphtheria Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed also known as .",
+      "source": "FDA Biologics",
+      "date": "2026-09-10",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/infanrix",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2022 Center for Biologics Evaluation and Research (CBER) Science Symposium",
       "summary": "The public symposium is to discuss scientific topics related to the regulation of biologics and highlight science conducted at CBER will include presentations by experts from academic institutions, government agencies and research institutions.",
       "source": "09/20/2022",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/2022-center-biologics-evaluation-and-research-cber-science-symposium-09202022",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "Center for Biologics Evaluation and Research (CBER) 2022 Science Symposium Meeting Agenda",
+      "summary": "arch (CBER) 2022 Science Symposium Meeting Agenda September 20-22, 2022",
       "source": "FDA Biologics",
-      "date": "2026-09-09",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "OTAT 市政廳：基因治療化學、製造和控制",
-      "summary": "美國食藥局（FDA） 的生物製品評估和研究中心 (CBER) 組織和先進療法辦公室 (OTAT) 正在舉辦一個虛擬市政廳，以回答利益相關者有關基因療法化學、製造和控制的問題。本次活動是",
-      "source": "09/29/2022",
-      "date": "2026-09-09",
-      "url": "http://www.fda.gov/news-events/otat-town-hall-gene-therapy-chemistry-manufacturing-and-controls-09292022",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "OTAT Town Hall：罕見疾病基因治療產品的臨床開發",
-      "summary": "美國食藥局（FDA） 生物製品評估和研究中心 (CBER) 組織和先進療法辦公室 (OTAT) 正在舉辦虛擬市政廳，以回答利益相關者與罕見疾病基因治療產品臨床開發相關的問題",
-      "source": "02/07/2023",
-      "date": "2026-09-09",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otat-town-hall-clinical-development-gene-therapy-products-rare-diseases-02072023",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "瑞比寧",
-      "summary": "產品核准資訊用於治療患有先天性纖維蛋白原缺乏症（包括無纖維蛋白原血症和低纖維蛋白原血症）的成人和青少年的急性出血事件。用於患有 B 型血友病的成人和兒童",
-      "source": "FDA Biologics",
-      "date": "2026-09-09",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/rebinyn",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "核准的血液製品",
-      "summary": "受生物製劑許可申請 (BLA)、新藥申請 (NDAS)、上市前批准 (PMA) 和 510(k) 監管的產品。",
-      "source": "FDA Biologics",
-      "date": "2026-09-08",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/blood-blood-products/approved-blood-products",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "NRAS基因突變可能需要突變導向的組合療法",
-      "summary": "帶有NRAS突變的癌症，其治療一直以來都是一大挑戰。然而，最新研究發現，NRAS突變型與野生型HRAS之間的訊號傳導合作關係，可能提供一個新的治療標的，為開發突變導向的組合療法帶來新契機。",
-      "source": "GEN News",
-      "date": "2026-09-08",
-      "url": "https://www.genengnews.com/topics/cancer/nras-mutations-may-require-mutation-guided-combination-therapies/",
+      "date": "2026-09-10",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/center-biologics-evaluation-and-research-cber-2022-science-symposium-meeting-agenda",
       "lang": "zh-TW"
     },
     {
@@ -82,8 +74,16 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     },
     {
-      "title": "展望2026年多發性骨髓瘤的嵌合抗原受體T細胞療法（CAR-T）：核准適應症、長期療效、毒性、治療順序與新興平台綜述",
-      "summary": "本文綜述2026年多發性骨髓瘤的嵌合抗原受體T細胞療法（CAR-T）發展，探討其核准適應症、長期療效、潛在毒性、在治療流程中的定位，以及未來可能出現的新興治療平台，為產業提供前瞻性分析。",
+      "title": "BioCardia (BCDA) Q2 2026 Earnings Call Transcript",
+      "summary": "ranscript The Globe and Mail",
+      "source": "The Globe and Mail",
+      "date": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVFuLWlqUlZHSkFtWWNPUVlxbnIxNmUwdW1sbjVqYVk3Y2ItTGhTZm1aZ2RvNUJDbkFHZnN5NThjM1diMmM2WXdpcDRITDFDRUcwNXRtTDlYVlhULThlWnZScm5IVlFnRnN3VlQxNmduanQ4ZTd2WVRiaGlfdXhIRWRud1NjempRaHY3MkY1R2gtX2JzaWJoZ0dBOU1ZZUxyUDN5SjgzZTBtcFNCMmVSQUJ5eFBGNWdVVGFTdmxPMkZNbGUt?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "嵌合抗原受體 T-細胞治療 in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica",
+      "summary": "in multiple myeloma in 2026: approved indications, long-term outcomes, toxicity, sequencing, and emerging platforms: a narrative review | Legiec | Acta Haematologica Polonica Via Medica Journals",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
