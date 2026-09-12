@@ -1,13 +1,21 @@
 {
   "module": "funding",
-  "updated": "2026-09-11T14:47:24.830598+00:00",
+  "updated": "2026-09-12T00:49:31.568104+00:00",
   "items": [
     {
-      "title": "STAT+: Pharmalittle：諾華投資人焦慮不安、生物製劑專利到期等議題",
-      "summary": "諾華（Novartis）投資人對公司併購策略感到不安，同時生物製劑專利到期問題也引發關注。",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關焦慮的諾華投資者、生物製劑專利到期等等的信息",
+      "summary": "諾華公司透過併購獲得的藥品遭遇挫折後，投資人正在加強對該公司交易的審查",
       "source": "STAT News",
       "date": "2026-09-11",
       "url": "https://www.statnews.com/pharmalot/2026/09/11/anxious-novartis-investors-biologics-facing-patent-expirations/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "本週圖表：RA 的貪得無厭、諾華的大幅下滑以及反向併購熱潮",
+      "summary": "RA Capital 9 月已參與四筆生技融資。同時，據吉爾馬丁集團稱，Janus Henderson 一直是今年生物技術反向併購交易最多產的支持者。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-11",
+      "url": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
       "lang": "zh-TW"
     },
     {
@@ -16,22 +24,6 @@
       "source": "BioPharma Dive",
       "date": "2026-09-11",
       "url": "https://www.biopharmadive.com/news/imdelltra-bridgebio-oncology-evommune-encoded-tectora/830056/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: UniQure 即將公布",
-      "summary": "",
-      "source": "STAT News",
-      "date": "2026-09-10",
-      "url": "https://www.statnews.com/2026/09/10/uniqure-huntingtons-gene-therapy-trial-readout/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Roivant 是生技領域最精明的交易撮合者之一。它還有一個秘密武器",
-      "summary": "Roivant 肺病藥物已在中期研究中取得成功。但這種藥物的起源是這個故事的另一個迷人的方面。",
-      "source": "STAT News",
-      "date": "2026-09-10",
-      "url": "https://www.statnews.com/2026/09/10/roivant-biotech-dealmaking-mosliciguat-origins/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -51,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech Fundraising Tracker '26: Encoded finagles $275M series F; Solstice 股價上漲 2.25 億美元",
+      "title": "Fierce Biotech 籌款追蹤器 '26：編碼 Finagles F 系列 2.75 億美元； Solstice 股價上漲 2.25 億美元",
       "summary": "編碼騙局 F 系列價值 2.75 億美元； Solstice 股價上漲 2.25 億美元 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-09-09",
