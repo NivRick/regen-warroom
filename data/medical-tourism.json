@@ -1,5 +1,14 @@
 {
   "module": "tourism",
-  "updated": "2026-09-12T00:49:33.430188+00:00",
-  "items": []
+  "updated": "2026-09-12T13:51:47.563773+00:00",
+  "items": [
+    {
+      "title": "韓國「江南姐姐」醫美平台發生資料外洩事件，影響22萬用戶，導致療程與支付紀錄外洩",
+      "summary": "韓國醫美平台「江南姐姐」發生資安事件，22萬用戶個資與療程支付紀錄外洩。",
+      "source": "finance.biggo.com",
+      "date": "2026-09-08",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZLU9KV2xHTlUzZUJHRlN1UlNRYlRTaTBocU1pcDBYM1l2Q1ZoaTVYNFhmVnFnR09ZRTRaRTFZSFV0aGlJRjRsTGJGcHIxd1hORkN0eTJSOUpUdlJ3cjRqOTBlU2hIQlFmSm52bFA5aEliQjZZMUE?oc=5",
+      "lang": "zh-TW"
+    }
+  ]
 }
