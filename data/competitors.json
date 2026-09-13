@@ -1,10 +1,10 @@
 {
   "module": "competitor",
-  "updated": "2026-09-12T13:52:05.590301+00:00",
+  "updated": "2026-09-13T00:31:42.698708+00:00",
   "items": [
     {
-      "title": "《刺胳針》數據揭露：PeproMene的BAFF-R嵌合抗原受體T細胞療法（CAR-T），在CD19嵌合抗原受體T細胞療法（CAR-T）失效後仍展現持久療效",
-      "summary": "PeproMene的BAFF-R嵌合抗",
+      "title": "《柳葉刀》數據顯示，在 CD19 CAR-T細胞療法 失敗後，PeproMene 的 BAFF-R CAR-T細胞療法 具有持久的反應",
+      "summary": "PeproMene's BAFF-R CAR-T細胞療法 after CD19 CAR-T細胞療法 failure AllSci",
       "source": "AllSci",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTF0bDRWc2x6TWR4ZHE0UWdaN2ZBOUp0UkV1NXYzUkFqS1I1RjJncW5Wc2ZTLUFCTWZzb3VOdGhpU2dyLV9HUXN2dWxfbkExY3FkeGtoMXFEVkRjdWd2QnMtb0pLNDlobDFuV1hVNkxocWp3UHl3dGZOY19RS1FucnYxWWhWUHBD?oc=5",
@@ -16,6 +16,14 @@
       "source": "TradingView",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ21zUmQ0OG9HbDkzS3Q3QUJLT0hYUHhGWE5MTVZNeHV3RlNlanFJS21qRzhTeGlFQmhfbnp5TjI5Z3ZHQ3ducU0xNVVCNDhQZC1kdXZfNEhWNDVQZUpVSF84MzBqX0tiWnduOEl6TDdNaDNEaTVuRVlQZURhWW5yX25yczk1dmpGc2dyclNzcjVXUERYN0tucHdJSWloX3lpUHRDcEJ1WXJIRGRhdGpxa0lLdi1leHo1YXJZandn?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "裁員追蹤：默克公司在新澤西州增加了 53 個工作崗位",
+      "summary": "w 澤西砧板 BioSpace",
+      "source": "BioSpace",
+      "date": "2026-09-09",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -43,7 +51,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "患者死亡後諾華停止 CAR-T細胞療法 試驗",
+      "title": "Novartis halts CAR-T細胞療法 trials after patient deaths",
       "summary": "",
       "source": "pharmaphorum",
       "date": "2026-09-01",

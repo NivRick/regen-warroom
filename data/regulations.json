@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-09-12T13:51:29.793522+00:00",
+  "updated": "2026-09-13T00:31:12.724372+00:00",
   "items": [
     {
       "title": "血液研究",
-      "summary": "提供生物製劑相關計畫的清單。",
+      "summary": "彙整血液研究領域中，各項生物製劑相關計畫的最新資訊。",
       "source": "FDA Biologics",
       "date": "2026-09-11",
       "url": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research",
@@ -12,7 +12,7 @@
     },
     {
       "title": "美國食品藥物管理局（FDA）圓桌會議：強化血液製品製造供應鏈",
-      "summary": "美國食品藥物管理局（FDA）的生物製劑評估與研究中心（CBER）血液研究與審查辦",
+      "summary": "美國FDA將舉辦圓桌會議，探討如何強化血液製品的製造供應",
       "source": "09/29/2026",
       "date": "2026-09-11",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "研討會、會議和大會（生物製品）",
+      "title": "研討會、會議和大會（生物製劑）",
       "summary": "有關 CBER 主辦或共同主辦的有關各種生物製品的會議、大會和研討會的信息，以便教育公眾並徵求有關各方的意見。",
       "source": "FDA Biologics",
       "date": "2026-09-10",
@@ -51,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "OTAT 市政廳：基因治療化學、製造和控制",
-      "summary": "美國食藥局（FDA） 的生物製品評估和研究中心 (CBER) 組織和先進療法辦公室 (OTAT) 正在舉辦一個虛擬市政廳，以回答利益相關者有關基因療法化學、製造和控制的問題。本次活動是",
+      "title": "OTAT Town Hall: 基因療法 Chemistry, Manufacturing, and Controls",
+      "summary": "美國食藥局（FDA） 的生物制品评估和研究中心 (CBER) 组织和先进疗法办公室 (OTAT) 正在举办一个虚拟市政厅，以回答利益相关者有关基因治疗化学、制造和控制的问题。本次活動是",
       "source": "09/22/2022",
       "date": "2026-09-10",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/otat-town-hall-gene-therapy-chemistry-manufacturing-and-controls-09222022",
@@ -69,13 +69,13 @@
     {
       "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
       "summary": "",
-      "source": "twreporter.org",
+      "source": "報導者The Reporter",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     },
     {
-      "title": "2026年多發性骨髓瘤的嵌合抗原受體T細胞療法（CAR-T）：核准適應症、長期療效、毒性、治療順序與新興平台：一篇綜述 | Legiec | Acta Haemato",
-      "summary": "剖析2026年CAR-T細胞療法於多發性骨髓瘤的核准、療效、毒性及新興趨勢。",
+      "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性綜述 |萊吉克 |波蘭血液學報",
+      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
       "source": "Via Medica Journals",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
