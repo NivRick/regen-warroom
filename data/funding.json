@@ -1,18 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-09-13T14:47:14.040366+00:00",
+  "updated": "2026-09-14T00:33:11.071791+00:00",
   "items": [
     {
-      "title": "諾華投資人焦慮、生物製劑專利到期等議題",
-      "summary": "諾華（Novartis）投資人正加強審視公司的併購策略，因為透過併購取得的藥物遭遇挫敗。",
+      "title": "STAT+：分析指出，川普的秘密藥廠交易恐削弱「最惠國待遇」藥價政策",
+      "summary": "一項新分析指出，川普「最惠國待遇」藥價政策預期的節省金額，恐因與藥廠的秘密交易而大幅縮水。",
+      "source": "STAT News",
+      "date": "2026-09-13",
+      "url": "https://www.statnews.com/pharmalot/2026/09/13/trump-secretive-pharma-deals-undermine-most-favored-nation-pricing/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關焦慮的諾華投資者、生物製劑專利到期等等的信息",
+      "summary": "諾華公司透過併購獲得的藥品遭遇挫折後，投資人正在加強對該公司交易的審查",
       "source": "STAT News",
       "date": "2026-09-11",
       "url": "https://www.statnews.com/pharmalot/2026/09/11/anxious-novartis-investors-biologics-facing-patent-expirations/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "本週圖表觀察：RA Capital的強勁投資胃",
-      "summary": "",
+      "title": "本週圖表：RA 的貪得無厭、諾華的大幅下滑以及反向併購熱潮",
+      "summary": "RA Capital 9 月已參與四筆生技融資。同時，據吉爾馬丁集團稱，Janus Henderson 一直是今年生物技術反向併購交易最多產的支持者。",
       "source": "BioPharma Dive",
       "date": "2026-09-11",
       "url": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
