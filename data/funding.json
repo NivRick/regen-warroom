@@ -1,66 +1,66 @@
 {
   "module": "funding",
-  "updated": "2026-09-14T16:44:11.034030+00:00",
+  "updated": "2026-09-15T01:08:33.086109+00:00",
   "items": [
     {
-      "title": "共和黨500億美元鄉村醫療基金，醫院主管稱「不夠用」",
-      "summary": "醫院主管們原本對鄉村醫療轉型基金抱持高度期待，但仔細審閱條款後，發現資金恐有不足。",
+      "title": "雅培同意就關閉美國最大嬰兒配方奶粉工廠達成和解",
+      "summary": "雅培已同意就關閉美國最大嬰兒配方奶粉工廠達成 3.85 億美元和解協議，該工廠關閉導致 2022 年供應短缺。",
+      "source": "STAT News",
+      "date": "2026-09-14",
+      "url": "https://www.statnews.com/2026/09/14/abbott-settlement-closure-baby-formula-plant-shortages/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "醫院領導人表示，共和黨 500 億美元的農村衛生基金即將短缺",
+      "summary": "醫院領導層對農村衛生轉型基金感到非常興奮，直到他們看到了細則。",
       "source": "STAT News",
       "date": "2026-09-14",
       "url": "https://www.statnews.com/2026/09/14/rural-health-transformation-fund-skepticism-shortcomings-part-5-unraveled-series/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Cellectis quits CAR-T細胞療法 and pivots to ‘體內實驗’ gene editing",
-      "summary": "Long a frontrunner in donor-derived 細胞治療 research, the French biotech cited a shifting landscape in changing course and choosing to offload its lead programs.",
+      "title": "Cellectis 退出 CAR-T細胞療法 並轉向「體內」基因編輯",
+      "summary": "這家法國生物技術公司長期以來一直是供體來源的細胞療法研究的領導者，它在改變路線並選擇卸載其主導項目時提到了情況的變化。",
       "source": "BioPharma Dive",
       "date": "2026-09-14",
       "url": "https://www.biopharmadive.com/news/cellectis-restructure-in-vivo-gene-editing-allogeneic-heart-disease/830281/",
       "lang": "zh-TW"
     },
     {
-      "title": "分析指出：川普秘密藥廠",
-      "summary": "",
+      "title": "STAT+: Trump’s secretive pharma deals may undermine ‘most-favored nation’ pricing, an analysis suggests",
+      "summary": "一項新的分析發現，川普「最惠國」定價政策的預計節省可能會因與製藥公司的秘密交易而大幅減少。",
       "source": "STAT News",
       "date": "2026-09-13",
       "url": "https://www.statnews.com/pharmalot/2026/09/13/trump-secretive-pharma-deals-undermine-most-favored-nation-pricing/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Pharmalittle: We’re reading about anxious Novartis investors, patent expirations for biologics, and more",
-      "summary": "Novartis investors are stepping up scrutiny of the company's dealmaking after setbacks to drugs it acquired through mergers and acquisitions",
-      "source": "STAT News",
-      "date": "2026-09-11",
-      "url": "https://www.statnews.com/pharmalot/2026/09/11/anxious-novartis-investors-biologics-facing-patent-expirations/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree",
-      "summary": "RA Capital has already participated in four biotech financings in September. Meanwhile, Janus Henderson has been the year's most prolific backer of biotech reverse merger deals, according to Gilmartin Group.",
+      "title": "本週圖表：RA 的貪得無厭、諾華的大幅下滑以及反向併購熱潮",
+      "summary": "RA Capital 9 月已參與四筆生技融資。同時，據吉爾馬丁集團稱，Janus Henderson 一直是今年生物技術反向併購交易最多產的支持者。",
       "source": "BioPharma Dive",
       "date": "2026-09-11",
       "url": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
       "lang": "zh-TW"
     },
     {
-      "title": "Karyopharm pushes off debt payment; Amgen eyes broader Imdelltra use",
-      "summary": "Karyopharm bought an extra month to negotiate with creditors or pursue a deal. Elsewhere, BridgeBio Pharma&rsquo;s oncology spinout shook up its development plans and a brain-focused 基因療法 startup banked $275 million.",
+      "title": "Karyopharm 延後償還債務；安進 (Amgen) 擴大 Imdelltra 的使用範圍",
+      "summary": "Karyopharm 获得了额外的一个月时间来与债权人进行谈判或寻求达成协议。在其他地方，BridgeBio Pharma 的腫瘤學分拆公司改變了其開發計劃，一家專注於大腦的基因療法新創公司籌集了 2.75 億美元資金。",
       "source": "BioPharma Dive",
       "date": "2026-09-11",
       "url": "https://www.biopharmadive.com/news/imdelltra-bridgebio-oncology-evommune-encoded-tectora/830056/",
       "lang": "zh-TW"
     },
     {
-      "title": "A booming business on Wall Street would love more biotechs to quietly die",
-      "summary": "Once disparaged, reverse mergers have become so popular that some deal experts question whether there are enough quality shell companies to meet the demand.",
+      "title": "華爾街蓬勃發展的企業希望更多的生技公司悄悄消亡",
+      "summary": "一度遭到貶低的反向併購現在變得如此流行，以至於一些交易專家質疑是否有足夠的優質空殼公司來滿足需求。",
       "source": "BioPharma Dive",
       "date": "2026-09-10",
       "url": "https://www.biopharmadive.com/news/biotech-reverse-mergers-public-markets-ipo/829197/",
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech Fundraising Tracker '26: Encoded finagles $275M series F; Solstice rises with $225M",
-      "summary": "Encoded finagles $275M series F; Solstice rises with $225M Fierce Biotech",
+      "title": "Fierce Biotech 籌款追蹤器 '26：編碼 Finagles F 系列 2.75 億美元； Solstice 股價上漲 2.25 億美元",
+      "summary": "編碼騙局 F 系列價值 2.75 億美元； Solstice 股價上漲 2.25 億美元 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
