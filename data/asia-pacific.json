@@ -1,7 +1,15 @@
 {
   "module": "apac",
-  "updated": "2026-09-15T15:24:09.876264+00:00",
+  "updated": "2026-09-16T00:57:37.198331+00:00",
   "items": [
+    {
+      "title": "WCLC ‘26：新的「ADC時代」、中國議題與阿斯特捷利康的關注",
+      "summary": "今年最大的肺癌研究會議的特色數據顯示了侵襲性腫瘤的新治療標準，以及有關中國研究結果可靠性的爭論。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-15",
+      "url": "https://www.biopharmadive.com/news/wclc-2026-adc-b7h3-china-study-results-astrazeneca/830247/",
+      "lang": "zh-TW"
+    },
     {
       "title": "天演藥業 (Adagene) 宣布 Third Arc Bio 已根據修訂後的策略合作選擇了第一個主要候選藥物，以利用 SAFEbody® 技術開發掩蔽 CD3 T 細胞接合劑",
       "summary": "根據修訂後的策略合作選定第一位首席候選人，利用 SAFEbody® 技術開發掩蔽 CD3 T 細胞接合劑 - 馬尼拉時報",
@@ -11,19 +19,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫學市場：公司、規模與趨勢分析（2026-2035）",
-      "summary": "Precedence Research報告指出，再生醫學市場在2026至2035年間的規模與趨勢分析。",
+      "title": "再生醫學市場：公司、規模與趨勢分析（2026-2035年）",
+      "summary": "Precedence Research報告指出，再生醫學市場在2026至2035年間的規模與趨勢。",
       "source": "Precedence Research",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tN2JFWlpOTTJCUWdoSG9ZZlpTblpEelkzVi1GNlhNWVZRem1IRUdfNldOaVdLMDBpWVVXaXB5Z1UtWlEwWmptT0JaM05BVGNDOENOTlcteGFDY215YTdQTUE0WDFjNktjS1BhZlBVaXg?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CGT 製造市場中的人工智慧公司、規模和趨勢 2026-2035",
-      "summary": "、規模與趨勢 2026-2035 年優先研究",
-      "source": "Precedence Research",
-      "date": "2026-09-09",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fOU03a2FydDhfcktucjJOTURsWWdfSnJoazVwWnpOS0dyM1JBR2NHSGQySEZ4YXM2clFKUmxkRHpHSlZNYk5GbGpvc084WjFuTDk5ZzBNYy1pa0JHTFZzaWdzU3pnLVNycFFraF9uZmQ3UTQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -35,35 +35,35 @@
       "lang": "zh-TW"
     },
     {
-      "title": "4D 列印在醫療保健市場規模、份額、預測，2034 年",
-      "summary": "野兔，預測，2034 年《財星》商業洞察",
-      "source": "Fortune Business Insights",
-      "date": "2026-08-31",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGJUNTg1Rl9qeTk0Rnl5aHVTS3lHVk4zdmNsOTVtT3p2YUQ1S3VHa0k1aVQ2cV9TWjRrS3IxOWFjdVBpZTAwb3d6Mi1kVzZnZllaMmZOV1pzSklWczNJZnUyNXhjNGgyX1N6S1JXekx5ZDd4UmdYRnBKOUF5ZkZ1em5iOGVkdw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "新加坡吸引國際生技創投，亞太生技醫療產業起飛",
-      "summary": "隨著亞太生技醫療產業蓬勃發展，新加坡經濟發展局（EDB）成功吸引國際創投目光。",
+      "title": "隨著亞太生命科學產業的起飛，新加坡吸引了國際生技創投公司",
+      "summary": "亞太生命科學產業起飛 新加坡經濟發展局 (EDB)",
       "source": "Singapore Economic Development Board (EDB)",
       "date": "2026-08-30",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞臍帶血市場規模報告，2033 年",
-      "summary": "ze 報告，2033 年 Grand View Research",
+      "title": "幹細胞臍帶血市場規模報告（",
+      "summary": "",
       "source": "Grand View Research",
       "date": "2026-08-25",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2JpVzEwOFNCdGdBVDYzb3hmMzN1RXppdjBIUlEtNUpMY2tycDB6RDlWV2lpc1MtNG52YXRVdkZKUVJGNUxkaXdobi1GTFUxc2hpZzNWcE9TTVZPM3JpdEVuLWJYNjdQNjFlcGpLUGlZR1E3T3U3SDdXNjA3d25MOVJUWGEzcXJfekZ6X0JXR2N0clVTV21HbFBrV3Y?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "間質幹細胞市場：規模、市",
-      "summary": "",
+      "title": "間質幹細胞市場規模、份額、成長，2034 年",
+      "summary": "e，成長，2034 海峽研究",
       "source": "Straits Research",
       "date": "2026-08-24",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EbTVpeE53eXItOXdnbWo0TE5ueThLWDhpOWFMcGt2X2tZNkxncE4xUXNvaHo0X3U3U1ZvMHNLMmIyanE1N3piaTNnRkd6dnNwMDFYaDBabHB5LU4tc25sWW02QlBTVFdTcThsWGhRamFaUQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "4D 列印在醫療保健市場規模、份額、預測，2034 年",
+      "summary": "野兔，預測，2034 年《財星》商業洞察",
+      "source": "Fortune Business Insights",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGJUNTg1Rl9qeTk0Rnl5aHVTS3lHVk4zdmNsOTVtT3p2YUQ1S3VHa0k1aVQ2cV9TWjRrS3IxOWFjdVBpZTAwb3d6Mi1kVzZnZllaMmZOV1pzSklWczNJZnUyNXhjNGgyX1N6S1JXekx5ZDd4UmdYRnBKOUF5ZkZ1em5iOGVkdw?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -75,16 +75,9 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026生命科學˙智慧產權˙品牌金融國際高峰論壇 談再生醫療國際接軌 串聯產官學研醫共築產業新局",
-      "summary": "",
-      "source": "PChome Online新聞",
-      "date": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZTdZUURYUnJubzBXd1lwUTV2cGg0RkZqcVdOeDZ3Q2JKNWtsU0pfd2xVTlhGbS04bUhuOU1TUmMzSWZFZmNvUm1Ya2UyX1dHYVdveFBSak5zQUpfUXVXSUotTDN5LTFiWmxuemY4LTFleDlpb2EwWTFUcFQzNG5DUVZRZGItMk5aTUtWakN1R0Zzdw?oc=5"
-    },
-    {
       "title": "再生醫療雙軌出擊 打造生醫第二座神山",
       "summary": "",
-      "source": "蕃新聞",
+      "source": "n.yam.com",
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96ODhnZnNCRFBjX3h2dWR3M0c3LWM0dGJQMi1raDdvRWRMeGYyS1FXdTk5SzNoTTRHejJ4VzBlR0NVeUJoUUN4T0tvM3RpTHY1T1E?oc=5"
     }
