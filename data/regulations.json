@@ -1,6 +1,6 @@
 {
   "module": "regulation",
-  "updated": "2026-09-16T00:58:33.484094+00:00",
+  "updated": "2026-09-16T15:16:24.665717+00:00",
   "items": [
     {
       "title": "OTP 線上座談會：細胞治療後期臨床試驗申請（IND）的化學製造與管制（CMC）準備",
@@ -11,7 +11,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Warrior Families: Advancing 再生醫療 Through Science",
+      "title": "戰士家庭：透過科學推廣再生醫學",
       "summary": "這場網路研討會「科學醫學」將邀請一群家庭分享他們的倡議經驗，並為患有罕見疾病的兒童開發治療產品做出貢獻。",
       "source": "10/05/2023",
       "date": "2026-09-15",
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Finding Your Support Team While Participating in a 臨床試驗",
+      "title": "參與臨床試驗時尋找您的支援團隊",
       "summary": "美國食藥局（FDA） 生物製品評估和研究中心 (CBER) 治療產品辦公室 (OTP) 將於 10 月 30 日星期三中午 12:00 舉辦公共虛擬網路研討會。 – 下午 1:15等。",
       "source": "10/30/2024",
       "date": "2026-09-15",
@@ -52,14 +52,14 @@
     },
     {
       "title": "美國食藥局（FDA） 藥房學生體驗計劃",
-      "summary": "The m provides an opportunity to learn about the 美國食藥局（FDA）’s multidisciplinary processes for addressing public health issues involving drugs, biologics, and medical devices. Pharmacy students who participate in the m acquire k",
+      "summary": "該課程提供了了解 美國食藥局（FDA） 解決涉及藥物、生物製劑和醫療器材的公共衛生問題的多學科流程的機會。參加 m 的藥學學生獲得 k",
       "source": "FDA Biologics",
       "date": "2026-09-15",
       "url": "http://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品評估和研究中心病患參與計劃",
+      "title": "生物製品評估與研究中心病患參與計劃",
       "summary": "病人的意見是 CBER 了解疾病和狀況的重要組成部分。與患者接觸並聽取他們對疾病和治療的看法可能有助於該中心推進以患者為中心的醫療產品開發。",
       "source": "FDA Biologics",
       "date": "2026-09-15",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
-      "summary": "rld data The Pharma Letter",
+      "title": "美國FDA與歐盟EMA對真實世界數據的接受現況",
+      "summary": "探討美國FDA與歐盟EMA在藥品審查中，如何採納真實世界數據(RWD)的最新標準與趨勢。",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "正確的樹脂，正確的順序：雙特異性抗體的兩步驟優化策略",
-      "summary": "在本次 GEN 網路研討會中，我們的專家演講者 Emily Gaither 將介紹從高通量樹脂篩選到兩個拋光步驟的選擇和定序的系統路徑，並使用 emicizumab（一種不對稱 IgG4 bsAb）作為案例研究。该帖子是",
+      "title": "選對樹脂、排對順序：雙特異性抗體",
+      "summary": "",
       "source": "GEN News",
       "date": "2026-09-15",
       "url": "https://www.genengnews.com/multimedia/webinars/right-resin-right-order-a-two-step-polishing-strategy-for-bispecific-antibodies/",
@@ -84,7 +84,7 @@
     },
     {
       "title": "StockWatch：諾華在第三階段失敗後損失超過市場價值",
-      "summary": "最大股東宣稱，“派對結束了”，並要求這家製藥巨頭的董事會密切關注收購事宜；分析師指出競爭對手可能會受益，而一些市場觀察人士則下調了 DM1 候選產品的峰值銷售預測。\n後凱特·瓦",
+      "summary": "“派對結束了”，大股東宣稱，並要求這家製藥巨頭的董事會密切關注收購事宜；分析師指出競爭對手可能會受益，而一些市場觀察人士則下調了 DM1 候選產品的峰值銷售預測。\n後凱特·瓦",
       "source": "GEN News",
       "date": "2026-09-13",
       "url": "https://www.genengnews.com/topics/translational-medicine/stockwatch-novartis-loses-more-than-market-value-after-phase-iii-failure/",
@@ -96,14 +96,6 @@
       "source": "報導者The Reporter",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
-    },
-    {
-      "title": "2026 年多發性骨髓瘤嵌合抗原受體 T 細胞療法：批准的適應症、長期結果、毒性、測序和新興平台：敘述性綜述 |萊吉克 |波蘭血液學報",
-      "summary": "2026 年多發性骨髓瘤：批准的適應症、長期結果、毒性、測序和新興平台：敘述性回顧 |萊吉克 |波蘭血液學報 Via Medica 期刊",
-      "source": "Via Medica Journals",
-      "date": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVhyVXNDT2ZPaS12Y0lDM1gyck45MU50aE4yenJGbjJmaWVidm9oSEJTdTlzd2puVUV4UHpDMHpKTF9JeXpnNkdDaUV5Y3BiVHIyUkF4R1pvOG1ySkRYTE9PRzd3Ynp3aUNPaE5BX2hDQ2NpMFVzemZ6MUsyTTBJUjRqZw?oc=5",
-      "lang": "zh-TW"
     }
   ]
 }
