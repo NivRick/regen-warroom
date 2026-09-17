@@ -1,37 +1,37 @@
 {
   "module": "funding",
-  "updated": "2026-09-16T15:16:34.818188+00:00",
+  "updated": "2026-09-17T01:01:51.773597+00:00",
   "items": [
     {
-      "title": "GSK與中國藥廠達成藥品授權協議，擴充產品線",
-      "summary": "GSK持續擴充產品線，取得中國開發的多發性骨髓瘤療法全球獨家授權。",
+      "title": "諾華斥資 1.25 億美元購買血腦障壁跨越平台",
+      "summary": "該交易使諾華公司獲得了 Sironax 開發的技術的全球權利，該交易的收益將有助於推進該新創公司所說的具有「同類最佳」潛力的三項候選藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-16",
+      "url": "https://www.biopharmadive.com/news/novartis-125m-for-blood-brain-barrier-crossing-platform-Sironax/830560/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關葛蘭素史克（GSK）從中國購買藥品的交易、美國失業等信息",
+      "summary": "葛蘭素史克繼續努力擴大其產品線，獲得中國開發的多發性骨髓瘤治療藥物的全球權利",
       "source": "STAT News",
       "date": "2026-09-15",
       "url": "https://www.statnews.com/pharmalot/2026/09/15/gsk-china-drug-licensing-deal-job-losses/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "企業可申請美國國家衛生研究院（NIH）補助",
-      "summary": "美國國家衛生研究院（NIH）開放企業申請研究經費，鼓勵生醫產業創新發展。",
+      "title": "企業現在可以申請 NIH 資助",
+      "summary": "小羅伯特甘迺迪 (RFK Jr.) 將在兒童健康防禦會議上發表演講，介紹如何在外太空保護您的心臟，以及更多健康新聞",
       "source": "STAT News",
       "date": "2026-09-15",
       "url": "https://www.statnews.com/2026/09/15/health-news-businesses-can-now-apply-for-nih-funding/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Cellectis放棄嵌合抗原受體T細胞療法（CAR-T），轉攻「體內」基因編輯",
-      "summary": "法國生技公司Cellectis曾是異體細胞療法研究先驅，因應產業趨勢轉變，決定放棄CAR-T業務，轉型發展體內基因編輯技術。",
+      "title": "Cellectis 退出 CAR-T細胞療法 並轉向「體內」基因編輯",
+      "summary": "這家法國生物技術公司長期以來一直是供體來源的細胞療法研究的領導者，它在改變路線並選擇卸載其主導項目時提到了情況的變化。",
       "source": "BioPharma Dive",
       "date": "2026-09-14",
       "url": "https://www.biopharmadive.com/news/cellectis-restructure-in-vivo-gene-editing-allogeneic-heart-disease/830281/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "本週圖表觀察：RA Capital投資熱潮、諾華（Novartis）股價下滑與反向併購潮",
-      "summary": "RA Capital九月已參與四起生技募資案，展現強勁投資動能；而Janus Henderson則是今年生技產業最活躍的投資者。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-11",
-      "url": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
       "lang": "zh-TW"
     }
   ]
