@@ -1,37 +1,37 @@
 {
   "module": "funding",
-  "updated": "2026-09-17T01:01:51.773597+00:00",
+  "updated": "2026-09-17T15:25:56.796265+00:00",
   "items": [
     {
-      "title": "諾華斥資 1.25 億美元購買血腦障壁跨越平台",
-      "summary": "該交易使諾華公司獲得了 Sironax 開發的技術的全球權利，該交易的收益將有助於推進該新創公司所說的具有「同類最佳」潛力的三項候選藥物。",
+      "title": "英國將給付阿斯特捷利康乳癌藥物，歸功於英美藥品定價協議",
+      "summary": "阿斯特捷利康（AstraZeneca）的乳癌藥物，在達成定價協議後，將於英國上市並納入給付，這部分歸功於英美兩國的藥業合作協議。",
+      "source": "STAT News",
+      "date": "2026-09-17",
+      "url": "https://www.statnews.com/2026/09/17/astrazeneca-enhertu-breast-cancer-england-nice-pricing-agreement-us-trade-deal/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "羅氏與Dualitas攜手，開發免疫疾病雙特異性藥物",
+      "summary": "透過一項價值上看10億美元的研究合作案，Dualitas將篩選超過30萬種潛在的雙特異性藥物組合，希望能為免疫疾病找出突破性的療法。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-17",
+      "url": "https://www.biopharmadive.com/news/roche-dualitas-bispecific-antibodies-immune/830573/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "諾華斥資1.25億美元，收購可穿透血腦屏障的技術平台",
+      "summary": "這筆交易讓諾華（Novartis）取得Sironax開發的技術全球獨家權利，其資金將有助於推動這家新創公司旗下三項候選藥物的開發進度。",
       "source": "BioPharma Dive",
       "date": "2026-09-16",
       "url": "https://www.biopharmadive.com/news/novartis-125m-for-blood-brain-barrier-crossing-platform-Sironax/830560/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關葛蘭素史克（GSK）從中國購買藥品的交易、美國失業等信息",
-      "summary": "葛蘭素史克繼續努力擴大其產品線，獲得中國開發的多發性骨髓瘤治療藥物的全球權利",
-      "source": "STAT News",
+      "title": "Fierce Biotech 2026年募資追蹤：Sling募得1.23億美元，Circle募得9,250萬美元",
+      "summary": "根據Fierce Biotech的報導，生技公司Sling成功募得1.23億美元，而Circle也募得了9,250萬美元，顯示生技產業的募資動能持續強勁。",
+      "source": "Fierce Biotech",
       "date": "2026-09-15",
-      "url": "https://www.statnews.com/pharmalot/2026/09/15/gsk-china-drug-licensing-deal-job-losses/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "企業現在可以申請 NIH 資助",
-      "summary": "小羅伯特甘迺迪 (RFK Jr.) 將在兒童健康防禦會議上發表演講，介紹如何在外太空保護您的心臟，以及更多健康新聞",
-      "source": "STAT News",
-      "date": "2026-09-15",
-      "url": "https://www.statnews.com/2026/09/15/health-news-businesses-can-now-apply-for-nih-funding/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Cellectis 退出 CAR-T細胞療法 並轉向「體內」基因編輯",
-      "summary": "這家法國生物技術公司長期以來一直是供體來源的細胞療法研究的領導者，它在改變路線並選擇卸載其主導項目時提到了情況的變化。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-14",
-      "url": "https://www.biopharmadive.com/news/cellectis-restructure-in-vivo-gene-editing-allogeneic-heart-disease/830281/",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     }
   ]

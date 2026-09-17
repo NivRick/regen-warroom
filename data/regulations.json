@@ -1,85 +1,77 @@
 {
   "module": "regulation",
-  "updated": "2026-09-17T01:01:39.408195+00:00",
+  "updated": "2026-09-17T15:25:45.192887+00:00",
   "items": [
     {
-      "title": "美國食品藥物管理局（FDA）藥學系學生實習計畫",
-      "summary": "這個計畫讓學生有機會了解美國食品藥物管理局（FDA）如何透過跨領域流程，處理藥品、生物製劑等相關的公共衛生議題。",
+      "title": "捐贈者傳染性病原體篩檢與愛滋病毒（HIV）診斷試驗完整清單",
+      "summary": "這裡提供各類捐贈者篩檢試驗的連結，每個試驗都附有詳細表格，包含商品名稱、傳染性病原體等資訊。",
+      "source": "FDA Biologics",
+      "date": "2026-09-17",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/complete-list-donor-screening-assays-infectious-agents-and-hiv-diagnostic-assays",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "上市前批准申請 (PMA) 的電子提交模板",
+      "summary": "本指南提供了以電子格式提交 PMA 所需的標準、時間表以及豁免這些要求的標準。",
+      "source": "FDA Biologics",
+      "date": "2026-09-17",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/electronic-submission-template-premarket-approval-applications-pma",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "動物規則訊息",
+      "summary": "了解有關動物規則的更多信息，當人類挑戰研究不符合道德且人類功效研究不可行時，該規則可用於授予某些產品的營銷批准。",
+      "source": "FDA Biologics",
+      "date": "2026-09-17",
+      "url": "http://www.fda.gov/emergency-preparedness-and-response/preparedness-research/animal-rule-information",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 藥房學生體驗計劃",
+      "summary": "該課程提供了了解 美國食藥局（FDA） 解決涉及藥物、生物製劑和醫療器材的公共衛生問題的多學科流程的機會。參加 m 的藥學學生獲得 k",
       "source": "FDA Biologics",
       "date": "2026-09-16",
       "url": "http://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關研討會、會議與論壇",
-      "summary": "這裡提供美國食品藥物管理局生物製劑評估與研究中心（CBER）主辦或協辦的各類生物製劑相關會議、研討會資訊，旨在教育大眾並徵求意見。",
+      "title": "研討會、會議和大會（生物製劑）",
+      "summary": "有關 CBER 主辦或共同主辦的有關各種生物製品的會議、大會和研討會的信息，以便教育公眾並徵求有關各方的意見。",
       "source": "FDA Biologics",
       "date": "2026-09-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新消息",
-      "summary": "這是美國食品藥物管理局生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-09-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品藥物管理局（FDA）科學公開研討會：次世代定序（NGS）在生物製劑中外來因子檢測的應用 – 2026年9月23日",
-      "summary": "本次研討會將邀請領域專家與主要利害關係人，共同討論次世代定序（NGS）技術在外來因子（AA）檢測的成熟度，並找出挑戰。",
+      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製劑中外源性因子檢測的下一代定序 - 2026 年 9 月 23 日",
+      "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
       "source": "09/23/2026",
       "date": "2026-09-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/fda-scientific-public-workshop-next-generation-sequencing-adventitious-agent-detection-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "感染性因子捐贈者篩檢試劑與愛滋病（HIV）診斷試劑完整清單",
-      "summary": "這裡提供各類捐贈者篩檢試劑的連結，每種試劑都附有詳細表格，包含商品名稱、感染性因子等資訊。",
-      "source": "FDA Biologics",
-      "date": "2026-09-16",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/complete-list-donor-screening-assays-infectious-agents-and-hiv-diagnostic-assays",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食品藥物管理局治療產品辦公室（OTP）線上座談會：細胞治療後期臨床試驗申請（IND）的CMC準備",
-      "summary": "",
+      "title": "OTP 市政廳：細胞療法 CMC 為後期 IND 做好準備",
+      "summary": "這個虛擬市政廳的重點是回答與支持細胞治療和組織工程產品後期 IND 所需的 CMC 數據和資訊相關的問題。",
       "source": "09/05/2024",
       "date": "2026-09-15",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-cmc-readiness-late-stage-inds-09052024",
       "lang": "zh-TW"
     },
     {
-      "title": "戰士家庭：透過科學推廣再生醫學",
-      "summary": "這場網路研討會「科學醫學」將邀請一群家庭分享他們的倡議經驗，並為患有罕見疾病的兒童開發治療產品做出貢獻。",
-      "source": "10/05/2023",
-      "date": "2026-09-15",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/warrior-families-advancing-regenerative-medicine-through-science-10052023",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） CBER 網路研討會：開發 CAR-T細胞療法 細胞產品的注意事項",
-      "summary": "美國食藥局（FDA） 生物製品評估和研究中心 (CBER) 治療產品辦公室 (OTP) 將於 3 月 7 日星期四下午 1:00 舉辦虛擬公共網路研討會。",
-      "source": "03/07/2024",
-      "date": "2026-09-15",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-cber-webinar-considerations-development-car-t-cell-products-03072024",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
-      "summary": "rd 數據 Pharma Letter",
-      "source": "The Pharma Letter",
+      "title": "美國FDA與歐洲EMA對真實世界數據（RWD）的最新採納標準",
+      "summary": "美國FDA與歐洲EMA正逐步擴大對真實世界數據（RWD）的應用與接受度，這將對藥物開發與監管帶來新變革。",
+      "source": "thepharmaletter.com",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "正確的樹脂，正確的順序：雙特異性抗體的兩步驟優化策略",
-      "summary": "在本次 GEN 網路研討會中，我們的專家演講者 Emily Gaither 將介紹從高通量樹脂篩選到兩個拋光步驟的選擇和定序的系統路徑，並使用 emicizumab（一種不對稱 IgG4 bsAb）作為案例研究。該帖子是",
-      "source": "GEN News",
-      "date": "2026-09-15",
-      "url": "https://www.genengnews.com/multimedia/webinars/right-resin-right-order-a-two-step-polishing-strategy-for-bispecific-antibodies/",
       "lang": "zh-TW"
     },
     {

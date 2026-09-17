@@ -1,13 +1,20 @@
 {
   "module": "taiwan",
-  "updated": "2026-09-17T00:56:43.029676+00:00",
+  "updated": "2026-09-17T15:21:37.937390+00:00",
   "items": [
     {
-      "title": "全福生技 (6885)  \n公告本公司115年09月22日受邀參加台新綜合證券舉辦之法人說明會，說明公司營運概況及未來展望。",
-      "summary": "序號：1 發言日期：115/09/16 發言時間：17:25:00 發言人：郭美慧 發言人職稱：營運長 發言人\nRead More",
+      "title": "台康竹北微生物新廠啟用，產能躍升搶攻全球 CDMO 商機",
+      "summary": "台灣生物藥 CDMO 大廠台康生技（EirGenix，6589）位於竹北的微生物二廠已於昨（16）日正式啟用。\nRead More",
       "source": "GeneOnline",
-      "date": "2026-09-16",
-      "url": "https://geneonline.news/%E5%85%A8%E7%A6%8F%E7%94%9F%E6%8A%80-6885-%E5%85%AC%E5%91%8A%E6%9C%AC%E5%85%AC%E5%8F%B8115%E5%B9%B409%E6%9C%8822%E6%97%A5%E5%8F%97%E9%82%80%E5%8F%83%E5%8A%A0%E5%8F%B0%E6%96%B0%E7%B6%9C/"
+      "date": "2026-09-17",
+      "url": "https://geneonline.news/eirgenix-new-zhubei-microbial-facility-inauguration-cdmo-034/"
+    },
+    {
+      "title": "台灣醫界聯盟基金會作媒 日本 Sony 集團來台找細胞治療合作夥伴",
+      "summary": "",
+      "source": "udn.com",
+      "date": "2026-09-17",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85TGtZTEdwYkgtUmM3Qm9WSXZxOXY2QnJBOFh0M3ZNMFk3aDdLY3JhMVZhU1liSjNmbzgyeVY4aFludkwwQVFQRWtLLXFBTmtJSVNNa2Vn0gFWQVVfeXFMTzlMa1lMR3BiSC1SYzdCb1ZJdnE5djZCckE4WHQzdk0wWTdoN0tjcmExVmFTWWJKM2ZvODJ5VjhoWW52TDBBUVBFa0stcUFOa0lJU01rZWc?oc=5"
     },
     {
       "title": "再生醫療雙法上路！葉明功：法規路徑漸明 人才、製造與市場仍可精進",
@@ -15,13 +22,6 @@
       "source": "健康醫療網",
       "date": "2026-09-16",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xWkQybmgydENQSVJyMW9OQ0xQaDRURnlGNXFPVzRlNk9GMFluaEMxVHlpcUdta0RoS0YwVnBrNXZYVnU3YmU4ZVFfSTNSczFCTll2dVd3?oc=5"
-    },
-    {
-      "title": "瞄準全球兆元商機益禧打造再生醫療國際版圖- 商情",
-      "summary": "",
-      "source": "工商時報",
-      "date": "2026-09-09",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HcFRVVTRHUnNta1J0Qk9xRWRqb0tzZUl6NGJJQ2wybEw5SVlQaWNvWk9wZVktb3ZlWDJRR2tDeXk0RjNuTHZPcjdFa1FVR0I5UVFGYVpmTnBBN296dElR?oc=5"
     },
     {
       "title": "照護線上》確診瀰漫性大B細胞淋巴瘤先別慌！CAR-T細胞免疫治療為患者爭取疾病控制、治癒希望，專科醫師圖文解析",
@@ -33,9 +33,16 @@
     {
       "title": "台灣再生醫療雙法如何為急重症病患，走出創新與安全鋼索間的活路？",
       "summary": "",
-      "source": "geneonline.news",
+      "source": "GeneOnline",
       "date": "2026-09-02",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTm9TSG82dEdGemR2ZG10NTJGM05sVWxhWGVaNkRwZDBweEgwUlBZYUJIZDdIdUt1dFdZNkVCYWZQaVJkVTlaTFJZeHZaYVRXX0dQU3ktU2JUcWtPeUtKQzR0TkdGWUs4UGFmQ1l0S1RfM3BiMnZ6TTZpR3A3NEZyR0FCaXYwMTU3eWxGb28tVVpuSnVQXzZ6RWxWclpBTGJsZkZRUzZJNnctMjFRYTk1VkZjRlVOcEFrS1BtUU9wUHd6Q2FKMUFhUlNn?oc=5"
+    },
+    {
+      "title": "億元基因治療納健保患者須簽約長期追蹤看療效| 生活",
+      "summary": "",
+      "source": "中央社 CNA",
+      "date": "2026-08-31",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4engzeWJNQ194eXhkWWlWVDE3YzdjMk1XaVZxYWtyNjZvZFoxTXVjTHdzdnJzSHIyWUx4MDVwRHJLTFBHWVdpc2hCc0w1SkJfUmpQT3FzdGpCUkpNVnQ0?oc=5"
     },
     {
       "title": "億元基因治療納健保 患者須與健保署簽治療協議長期追蹤",
@@ -43,13 +50,6 @@
       "source": "rti.org.tw",
       "date": "2026-08-31",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hZml0NEFHVnBZUk1SSGNGUFhQbWVobVRpbjhjb091R0c4aHQ3TDExMXpsU19qR3VjNmJteGhWWFl0amtrRnJSek96bHdIVldtT2xHWGphZw?oc=5"
-    },
-    {
-      "title": "億元基因治療納健保患者須簽約長期追蹤看療效| 生活",
-      "summary": "",
-      "source": "cna.com.tw",
-      "date": "2026-08-31",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4engzeWJNQ194eXhkWWlWVDE3YzdjMk1XaVZxYWtyNjZvZFoxTXVjTHdzdnJzSHIyWUx4MDVwRHJLTFBHWVdpc2hCc0w1SkJfUmpQT3FzdGpCUkpNVnQ0?oc=5"
     },
     {
       "title": "細胞治療攻骨科！台灣退化性關節炎開發多路並進 哪些業者搶進市場？",
