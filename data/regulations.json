@@ -1,75 +1,75 @@
 {
   "module": "regulation",
-  "updated": "2026-09-18T00:56:33.210400+00:00",
+  "updated": "2026-09-18T14:45:11.316053+00:00",
   "items": [
     {
-      "title": "2026年生物許可證申請核准",
-      "summary": "",
+      "title": "2026年生物製劑許可申請核准概況",
+      "summary": "預計2026年將有哪些生物製劑許可申請獲得核准？掌握最新動態，洞悉產業未來趨勢。",
       "source": "FDA Biologics",
       "date": "2026-09-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/2026-biological-license-application-approvals",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-09-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "核准的細胞和基因治療產品",
-      "summary": "治療產品辦公室 (OTP) 許可和批准的產品清單。",
+      "title": "已核准的細胞與基因治療產品",
+      "summary": "治療產品辦公室（OTP）公布已獲許可及核准的細胞與基因治療產品清單。",
       "source": "FDA Biologics",
       "date": "2026-09-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "動物規則訊息",
-      "summary": "了解有關動物規則的更多信息，當人類挑戰研究不符合道德且人類功效研究不可行時，該規則可用於授予某些產品的營銷批准。",
+      "title": "動物法則（Animal Rule）資訊",
+      "summary": "了解「動物法則」，當人體挑戰性研究不符倫理時，此法則可用於核准特定產品上市。",
       "source": "FDA Biologics",
       "date": "2026-09-17",
       "url": "http://www.fda.gov/emergency-preparedness-and-response/preparedness-research/animal-rule-information",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 批准首個針對 A 型 Sanfilippo 症候群兒科患者的基因療法",
-      "summary": "美國食品藥物管理局今天批准了 Fayuvi (rebisufligene etisparvovec-hopf)，這是第一個治療 IIIA 型黏多醣貯積症 (MPS IIIA) 兒科患者的藥物，也稱為 A 型 Sanfilippo 症候群。",
+      "title": "FDA核准首款治療A型黏多醣症（Sanfilippo Syndrome Type A）兒童患者的基因療法",
+      "summary": "美國食品藥物管理局（FDA）今日核准Fayuvi（rebisufligene etisparvovec-hopf），這是首款用於治療黏多醣症A型兒童患者的療法。",
       "source": "FDA Biologics",
       "date": "2026-09-17",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
       "lang": "zh-TW"
     },
     {
-      "title": "Complete List of Donor Screening Assays for Infectious Agents and HIV Diagnostic Assays",
-      "summary": "不同類型供體篩選測定的連結。每個檢測的表格都提供了詳細信息，例如商品名、傳染原、格式、樣本、用途、製造商、批准日期和 STN。",
+      "title": "傳染性病原體捐贈者篩檢試劑與愛滋病（HIV）診斷試劑完整清單",
+      "summary": "提供各類捐贈者篩檢試劑的連結，並附上詳細表格，包含商品名稱、傳染性病原體等資訊。",
       "source": "FDA Biologics",
       "date": "2026-09-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/complete-list-donor-screening-assays-infectious-agents-and-hiv-diagnostic-assays",
       "lang": "zh-TW"
     },
     {
-      "title": "上市前批准申請 (PMA) 的電子提交模板",
-      "summary": "本指南提供了以電子格式提交 PMA 所需的標準、時間表以及豁免這些要求的標準。",
+      "title": "上市前核准申請（PMA）電子送件範本",
+      "summary": "本指引提供上市前核准申請（PMA）以電子格式提交的必要標準、時程，以及豁免這些要求的條件。",
       "source": "FDA Biologics",
       "date": "2026-09-17",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/electronic-submission-template-premarket-approval-applications-pma",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 藥房學生體驗計劃",
-      "summary": "該課程提供了了解 美國食藥局（FDA） 解決涉及藥物、生物製劑和醫療器材的公共衛生問題的多學科流程的機會。參加 m 的藥學學生獲得 k",
+      "title": "FDA藥學系學生實習計畫",
+      "summary": "此計畫提供學生機會，了解美國食品藥物管理局（FDA）如何以跨領域方式處理藥品、生物製劑等公共衛生議題。",
       "source": "FDA Biologics",
       "date": "2026-09-16",
       "url": "http://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
-      "summary": "rld 資料 thepharmaletter.com",
-      "source": "thepharmaletter.com",
+      "title": "FDA與EMA如何運用真實世界數據（RWD）",
+      "summary": "美國FDA與歐洲EMA正積極探討並擴大真實世界數據（RWD）在藥物審查與監管上的應用，為新藥開發帶來新契機。",
+      "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
       "lang": "zh-TW"

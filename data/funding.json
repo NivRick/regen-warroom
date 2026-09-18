@@ -1,21 +1,45 @@
 {
   "module": "funding",
-  "updated": "2026-09-18T00:56:58.427222+00:00",
+  "updated": "2026-09-18T14:45:50.312493+00:00",
   "items": [
+    {
+      "title": "STAT+：羅氏（Roche）在波士頓擴大版圖，設立新研究中心",
+      "summary": "基因療法獲核准用於聖菲利普症候群，Xenon Pharma 傳出好壞消息，以及更多生技產業新聞。",
+      "source": "STAT News",
+      "date": "2026-09-18",
+      "url": "https://www.statnews.com/2026/09/18/biotech-news-roche-expands-it-boston-footprint-with-research-center/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：藥業小點",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-09-18",
+      "url": "https://www.statnews.com/pharmalot/2026/09/18/rules-for-china-licensing-deals-making-drugs-in-space/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "本週圖表：葛蘭素史克 (GSK) 在中國的交易、3 億美元 首次公開上市（IPO） 俱樂部以及出售新聞",
+      "summary": "BioPharma Dive 以視覺化為重點的新系列的最新一期講述了令華爾街分析師感到困惑的股票拋售，以及對行業領先的合作夥伴關係的深入研究。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-18",
+      "url": "https://www.biopharmadive.com/news/biotech-charts-gsk-china-electra-ipo-scholar-rock/830514/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Ultragenyx 將 Sanfilippo 基因療法定價為 400 萬美元；百時美施貴寶下架奧魯姆藥物",
+      "summary": "Ultragenyx 自 8 月以來第二次獲得基因療法批准，這給它帶來了另一張可銷售的優惠券。在其他地方，羅氏宣布一項血癌試驗取得成功，一家細胞療法製造商正在削減成本。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-18",
+      "url": "https://www.biopharmadive.com/news/ultragenyx-fayuvi-orum-bristol-lunsumio-longeveron-rocket-danon/830512/",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：美國食藥局（FDA） 批准了一種治療極為罕見疾病 Sanfilippo 症候群的新基因療法",
       "summary": "美國食藥局（FDA） 批准了一種針對 A 型 Sanfilippo 綜合徵的新基因療法，這是一種極其罕見的疾病，有時被稱為兒童阿茲海默症。",
       "source": "STAT News",
       "date": "2026-09-17",
       "url": "https://www.statnews.com/2026/09/17/sanfilippo-syndrome-treatment-ultragenyx-approval/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：英國將承保阿斯特捷利康乳癌藥物，這是英美合作的結果藥品定價交易",
-      "summary": "在達成定價協議後，阿斯特捷利康的一種乳癌藥物現在將在英國上市，部分原因是美英製藥協議的結果。",
-      "source": "STAT News",
-      "date": "2026-09-17",
-      "url": "https://www.statnews.com/2026/09/17/astrazeneca-enhertu-breast-cancer-england-nice-pricing-agreement-us-trade-deal/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -27,6 +51,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "Lisata 交易將 Marea 的藥品管道推向華爾街",
+      "summary": "Marea 被 Lisata 收購，加上一筆 2.25 億美元的融資交易，將支持兩種用於心血管和內分泌疾病的中期測試藥物的開發。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-17",
+      "url": "https://www.biopharmadive.com/news/lisata-marea-deal-acquire-cardiovascular-endocrine-disease-drugs/830717/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "Novo與Orbis合作，深化對口服勝肽藥物的投資",
       "summary": "兩家公司可能達成價值 14 億美元的聯盟，合作開發“大環化合物”，從而產生治療心臟代謝疾病的口服藥物。",
       "source": "BioPharma Dive",
@@ -35,24 +67,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "North Immunology 透過 Aethlon 交易加入生技反向併購熱潮",
-      "summary": "這家新創公司擁有 1.8 億美元的資金和一種針對濕疹的雙效抗體，正在利用情緒的變化導致反向併購交易突然激增。",
+      "title": "North Immunology 透過與 Aethlon 交易，搭上生技反向併購熱潮",
+      "summary": "這家新創公司帶著 1.8 億美元資金和治療濕疹的雙效抗體，正利用市場情緒轉變帶來的突然飆升機會。",
       "source": "BioPharma Dive",
       "date": "2026-09-17",
       "url": "https://www.biopharmadive.com/news/north-immunology-aethlon-biotech-reverse-merger-eczema-drug/830631/",
       "lang": "zh-TW"
     },
     {
-      "title": "羅氏與 Dualitas 聯手尋找治療免疫疾病的雙特異性藥物",
-      "summary": "透過一項價值高達 10 億美元的研究協議，Dualitas 將篩選超過 30 萬種可能的雙特異性組合，以期發現新的差異化治療方法。",
+      "title": "羅氏（Roche）與 Dualitas 攜手尋找免疫疾病雙特異性藥物",
+      "summary": "透過這項價值上看 10 億美元的研究合作案，Dualitas 將篩選超過 30 萬種可能的雙特異性組合，希望能找出潛力藥物。",
       "source": "BioPharma Dive",
       "date": "2026-09-17",
       "url": "https://www.biopharmadive.com/news/roche-dualitas-bispecific-antibodies-immune/830573/",
       "lang": "zh-TW"
     },
     {
-      "title": "諾華斥資 1.25 億美元購買血腦障壁跨越平台",
-      "summary": "該交易使諾華公司獲得了 Sironax 開發的技術的全球權利，該交易的收益將有助於推進該新創公司所說的具有「同類最佳」潛力的三項候選藥物。",
+      "title": "諾華（Novartis）斥資 1.25 億美元收購血腦屏障穿透平台",
+      "summary": "這項交易將 Sironax 開發的技術全球獨家",
       "source": "BioPharma Dive",
       "date": "2026-09-16",
       "url": "https://www.biopharmadive.com/news/novartis-125m-for-blood-brain-barrier-crossing-platform-Sironax/830560/",
