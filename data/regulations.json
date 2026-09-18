@@ -1,10 +1,50 @@
 {
   "module": "regulation",
-  "updated": "2026-09-17T15:25:45.192887+00:00",
+  "updated": "2026-09-18T00:56:33.210400+00:00",
   "items": [
     {
-      "title": "捐贈者傳染性病原體篩檢與愛滋病毒（HIV）診斷試驗完整清單",
-      "summary": "這裡提供各類捐贈者篩檢試驗的連結，每個試驗都附有詳細表格，包含商品名稱、傳染性病原體等資訊。",
+      "title": "2026年生物許可證申請核准",
+      "summary": "",
+      "source": "FDA Biologics",
+      "date": "2026-09-17",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/2026-biological-license-application-approvals",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-09-17",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "核准的細胞和基因治療產品",
+      "summary": "治療產品辦公室 (OTP) 許可和批准的產品清單。",
+      "source": "FDA Biologics",
+      "date": "2026-09-17",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "動物規則訊息",
+      "summary": "了解有關動物規則的更多信息，當人類挑戰研究不符合道德且人類功效研究不可行時，該規則可用於授予某些產品的營銷批准。",
+      "source": "FDA Biologics",
+      "date": "2026-09-17",
+      "url": "http://www.fda.gov/emergency-preparedness-and-response/preparedness-research/animal-rule-information",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 批准首個針對 A 型 Sanfilippo 症候群兒科患者的基因療法",
+      "summary": "美國食品藥物管理局今天批准了 Fayuvi (rebisufligene etisparvovec-hopf)，這是第一個治療 IIIA 型黏多醣貯積症 (MPS IIIA) 兒科患者的藥物，也稱為 A 型 Sanfilippo 症候群。",
+      "source": "FDA Biologics",
+      "date": "2026-09-17",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Complete List of Donor Screening Assays for Infectious Agents and HIV Diagnostic Assays",
+      "summary": "不同類型供體篩選測定的連結。每個檢測的表格都提供了詳細信息，例如商品名、傳染原、格式、樣本、用途、製造商、批准日期和 STN。",
       "source": "FDA Biologics",
       "date": "2026-09-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/complete-list-donor-screening-assays-infectious-agents-and-hiv-diagnostic-assays",
@@ -19,14 +59,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "動物規則訊息",
-      "summary": "了解有關動物規則的更多信息，當人類挑戰研究不符合道德且人類功效研究不可行時，該規則可用於授予某些產品的營銷批准。",
-      "source": "FDA Biologics",
-      "date": "2026-09-17",
-      "url": "http://www.fda.gov/emergency-preparedness-and-response/preparedness-research/animal-rule-information",
-      "lang": "zh-TW"
-    },
-    {
       "title": "美國食藥局（FDA） 藥房學生體驗計劃",
       "summary": "該課程提供了了解 美國食藥局（FDA） 解決涉及藥物、生物製劑和醫療器材的公共衛生問題的多學科流程的機會。參加 m 的藥學學生獲得 k",
       "source": "FDA Biologics",
@@ -35,40 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "研討會、會議和大會（生物製劑）",
-      "summary": "有關 CBER 主辦或共同主辦的有關各種生物製品的會議、大會和研討會的信息，以便教育公眾並徵求有關各方的意見。",
-      "source": "FDA Biologics",
-      "date": "2026-09-16",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-09-16",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製劑中外源性因子檢測的下一代定序 - 2026 年 9 月 23 日",
-      "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
-      "source": "09/23/2026",
-      "date": "2026-09-16",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/fda-scientific-public-workshop-next-generation-sequencing-adventitious-agent-detection-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "OTP 市政廳：細胞療法 CMC 為後期 IND 做好準備",
-      "summary": "這個虛擬市政廳的重點是回答與支持細胞治療和組織工程產品後期 IND 所需的 CMC 數據和資訊相關的問題。",
-      "source": "09/05/2024",
-      "date": "2026-09-15",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-cmc-readiness-late-stage-inds-09052024",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國FDA與歐洲EMA對真實世界數據（RWD）的最新採納標準",
-      "summary": "美國FDA與歐洲EMA正逐步擴大對真實世界數據（RWD）的應用與接受度，這將對藥物開發與監管帶來新變革。",
+      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
+      "summary": "rld 資料 thepharmaletter.com",
       "source": "thepharmaletter.com",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",

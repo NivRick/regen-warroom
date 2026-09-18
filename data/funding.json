@@ -1,34 +1,66 @@
 {
   "module": "funding",
-  "updated": "2026-09-17T15:25:56.796265+00:00",
+  "updated": "2026-09-18T00:56:58.427222+00:00",
   "items": [
     {
-      "title": "英國將給付阿斯特捷利康乳癌藥物，歸功於英美藥品定價協議",
-      "summary": "阿斯特捷利康（AstraZeneca）的乳癌藥物，在達成定價協議後，將於英國上市並納入給付，這部分歸功於英美兩國的藥業合作協議。",
+      "title": "STAT+：美國食藥局（FDA） 批准了一種治療極為罕見疾病 Sanfilippo 症候群的新基因療法",
+      "summary": "美國食藥局（FDA） 批准了一種針對 A 型 Sanfilippo 綜合徵的新基因療法，這是一種極其罕見的疾病，有時被稱為兒童阿茲海默症。",
+      "source": "STAT News",
+      "date": "2026-09-17",
+      "url": "https://www.statnews.com/2026/09/17/sanfilippo-syndrome-treatment-ultragenyx-approval/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：英國將承保阿斯特捷利康乳癌藥物，這是英美合作的結果藥品定價交易",
+      "summary": "在達成定價協議後，阿斯特捷利康的一種乳癌藥物現在將在英國上市，部分原因是美英製藥協議的結果。",
       "source": "STAT News",
       "date": "2026-09-17",
       "url": "https://www.statnews.com/2026/09/17/astrazeneca-enhertu-breast-cancer-england-nice-pricing-agreement-us-trade-deal/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "羅氏與Dualitas攜手，開發免疫疾病雙特異性藥物",
-      "summary": "透過一項價值上看10億美元的研究合作案，Dualitas將篩選超過30萬種潛在的雙特異性藥物組合，希望能為免疫疾病找出突破性的療法。",
+      "title": "Electra 在生技公司最新的大型 首次公開上市（IPO） 中籌集了 3.5 億美元資金",
+      "summary": "BioPharma Dive 的數據顯示，近十幾家生技公司在 2026 年的首次公開募股中匹配或籌集了超過 3 億美元的資金，這是自 2021 年新股銷售達到頂峰以來的最高數字。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-17",
+      "url": "https://www.biopharmadive.com/news/electra-biotech-ipo-price-secondary-hlh/830698/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Novo與Orbis合作，深化對口服勝肽藥物的投資",
+      "summary": "兩家公司可能達成價值 14 億美元的聯盟，合作開發“大環化合物”，從而產生治療心臟代謝疾病的口服藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-17",
+      "url": "https://www.biopharmadive.com/news/novo-orbis-macrocyclic-peptides-oral-obesity-drugs/830645/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "North Immunology 透過 Aethlon 交易加入生技反向併購熱潮",
+      "summary": "這家新創公司擁有 1.8 億美元的資金和一種針對濕疹的雙效抗體，正在利用情緒的變化導致反向併購交易突然激增。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-17",
+      "url": "https://www.biopharmadive.com/news/north-immunology-aethlon-biotech-reverse-merger-eczema-drug/830631/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "羅氏與 Dualitas 聯手尋找治療免疫疾病的雙特異性藥物",
+      "summary": "透過一項價值高達 10 億美元的研究協議，Dualitas 將篩選超過 30 萬種可能的雙特異性組合，以期發現新的差異化治療方法。",
       "source": "BioPharma Dive",
       "date": "2026-09-17",
       "url": "https://www.biopharmadive.com/news/roche-dualitas-bispecific-antibodies-immune/830573/",
       "lang": "zh-TW"
     },
     {
-      "title": "諾華斥資1.25億美元，收購可穿透血腦屏障的技術平台",
-      "summary": "這筆交易讓諾華（Novartis）取得Sironax開發的技術全球獨家權利，其資金將有助於推動這家新創公司旗下三項候選藥物的開發進度。",
+      "title": "諾華斥資 1.25 億美元購買血腦障壁跨越平台",
+      "summary": "該交易使諾華公司獲得了 Sironax 開發的技術的全球權利，該交易的收益將有助於推進該新創公司所說的具有「同類最佳」潛力的三項候選藥物。",
       "source": "BioPharma Dive",
       "date": "2026-09-16",
       "url": "https://www.biopharmadive.com/news/novartis-125m-for-blood-brain-barrier-crossing-platform-Sironax/830560/",
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech 2026年募資追蹤：Sling募得1.23億美元，Circle募得9,250萬美元",
-      "summary": "根據Fierce Biotech的報導，生技公司Sling成功募得1.23億美元，而Circle也募得了9,250萬美元，顯示生技產業的募資動能持續強勁。",
+      "title": "Fierce Biotech 籌款追蹤器 '26：Sling 籌集了 1.23 億美元； Circle 籌集 9,250 萬美元",
+      "summary": "Sling 捲軸收入 1.23 億美元； Circle 籌集 9,250 萬美元 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
