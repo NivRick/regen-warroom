@@ -1,18 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-09-18T14:45:50.312493+00:00",
+  "updated": "2026-09-19T00:48:42.939013+00:00",
   "items": [
     {
-      "title": "STAT+：羅氏（Roche）在波士頓擴大版圖，設立新研究中心",
-      "summary": "基因療法獲核准用於聖菲利普症候群，Xenon Pharma 傳出好壞消息，以及更多生技產業新聞。",
+      "title": "STAT+: Trump touts pharma deals to offer cheaper drugs to state Medicaid programs",
+      "summary": "每個州都將參與 GENEROUS 計劃，但許多細節尚不清楚。",
+      "source": "STAT News",
+      "date": "2026-09-18",
+      "url": "https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：羅氏透過新研究中心擴大波士頓足跡",
+      "summary": "A 基因療法 approved for Sanfilippo syndrome, good and bad news for Xenon Pharma, and more biotech news",
       "source": "STAT News",
       "date": "2026-09-18",
       "url": "https://www.statnews.com/2026/09/18/biotech-news-roche-expands-it-boston-footprint-with-research-center/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：藥業小點",
-      "summary": "",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關與中國的許可協議、在太空製造藥物等的信息",
+      "summary": "美國正在製定在華投資規則，這可能會保留製藥公司達成大多數中國藥品許可交易的能力",
       "source": "STAT News",
       "date": "2026-09-18",
       "url": "https://www.statnews.com/pharmalot/2026/09/18/rules-for-china-licensing-deals-making-drugs-in-space/?utm_campaign=rss",
@@ -27,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Ultragenyx 將 Sanfilippo 基因療法定價為 400 萬美元；百時美施貴寶下架奧魯姆藥物",
+      "title": "Ultragenyx prices Sanfilippo 基因療法 at $4M; Bristol Myers shelves Orum drug",
       "summary": "Ultragenyx 自 8 月以來第二次獲得基因療法批准，這給它帶來了另一張可銷售的優惠券。在其他地方，羅氏宣布一項血癌試驗取得成功，一家細胞療法製造商正在削減成本。",
       "source": "BioPharma Dive",
       "date": "2026-09-18",
@@ -43,7 +51,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Electra 在生技公司最新的大型 首次公開上市（IPO） 中籌集了 3.5 億美元資金",
+      "title": "Electra amasses $350M in biotech’s latest big 首次公開上市（IPO）",
       "summary": "BioPharma Dive 的數據顯示，近十幾家生技公司在 2026 年的首次公開募股中匹配或籌集了超過 3 億美元的資金，這是自 2021 年新股銷售達到頂峰以來的最高數字。",
       "source": "BioPharma Dive",
       "date": "2026-09-17",
@@ -67,24 +75,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "North Immunology 透過與 Aethlon 交易，搭上生技反向併購熱潮",
-      "summary": "這家新創公司帶著 1.8 億美元資金和治療濕疹的雙效抗體，正利用市場情緒轉變帶來的突然飆升機會。",
+      "title": "North Immunology 透過 Aethlon 交易加入生技反向併購熱潮",
+      "summary": "這家新創公司擁有 1.8 億美元的資金和一種針對濕疹的雙效抗體，正在利用情緒的變化導致反向併購交易突然激增。",
       "source": "BioPharma Dive",
       "date": "2026-09-17",
       "url": "https://www.biopharmadive.com/news/north-immunology-aethlon-biotech-reverse-merger-eczema-drug/830631/",
       "lang": "zh-TW"
     },
     {
-      "title": "羅氏（Roche）與 Dualitas 攜手尋找免疫疾病雙特異性藥物",
-      "summary": "透過這項價值上看 10 億美元的研究合作案，Dualitas 將篩選超過 30 萬種可能的雙特異性組合，希望能找出潛力藥物。",
+      "title": "羅氏與 Dualitas 聯手尋找治療免疫疾病的雙特異性藥物",
+      "summary": "透過一項價值高達 10 億美元的研究協議，Dualitas 將篩選超過 30 萬種可能的雙特異性組合，以期發現新的差異化治療方法。",
       "source": "BioPharma Dive",
       "date": "2026-09-17",
       "url": "https://www.biopharmadive.com/news/roche-dualitas-bispecific-antibodies-immune/830573/",
       "lang": "zh-TW"
     },
     {
-      "title": "諾華（Novartis）斥資 1.25 億美元收購血腦屏障穿透平台",
-      "summary": "這項交易將 Sironax 開發的技術全球獨家",
+      "title": "諾華斥資 1.25 億美元購買血腦障壁跨越平台",
+      "summary": "該交易使諾華公司獲得了 Sironax 開發的技術的全球權利，該交易的收益將有助於推進該新創公司所說的具有「同類最佳」潛力的三項候選藥物。",
       "source": "BioPharma Dive",
       "date": "2026-09-16",
       "url": "https://www.biopharmadive.com/news/novartis-125m-for-blood-brain-barrier-crossing-platform-Sironax/830560/",
