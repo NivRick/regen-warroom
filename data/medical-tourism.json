@@ -1,21 +1,29 @@
 {
   "module": "tourism",
-  "updated": "2026-09-19T00:48:47.688947+00:00",
+  "updated": "2026-09-19T14:06:51.767558+00:00",
   "items": [
     {
-      "title": "專題：隨著再生醫學治療的普及，日本考慮收緊規則",
-      "summary": "再生醫學治療方法在日本共同新聞社 Japan Wire 中傳播",
+      "title": "專題報導：日本再生醫學治療普及，政府考慮收緊法規",
+      "summary": "日本再生醫學治療日益普及，政府正研擬更嚴格的法規，以確保治療品質與安全。",
       "source": "Japan Wire by Kyodo News",
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WOHZLZmVGLXJmX0tzQjMxeGdGakxSRFhGWUpJTFVLVjY2YU9CdmRwTlpXWU5lX0J0T1MtMVJlN09uNlJaSjFFaHZVMjdmNHBLMHA3V25jaWFHdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫學市場公司、規模和趨勢 2026-2035",
-      "summary": "規模和趨勢 2026-2035 優先研究",
+      "title": "再生醫學市場：企業、規模與2026-2035年趨勢",
+      "summary": "這份報告深入分析再生醫學市場的企業動態、市場規模，並預測2026至2035年的產業趨勢。",
       "source": "Precedence Research",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tN2JFWlpOTTJCUWdoSG9ZZlpTblpEelkzVi1GNlhNWVZRem1IRUdfNldOaVdLMDBpWVVXaXB5Z1UtWlEwWmptT0JaM05BVGNDOENOTlcteGFDY215YTdQTUE0WDFjNktjS1BhZlBVaXg?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "韓國「江南姐姐」美容平台爆資料外洩，22萬用戶治療與支付紀錄恐曝光",
+      "summary": "韓國「江南姐姐」美容平台驚傳資料外洩，高達22萬用戶的治療與支付紀錄恐已曝光。",
+      "source": "finance.biggo.com",
+      "date": "2026-09-08",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZLU9KV2xHTlUzZUJHRlN1UlNRYlRTaTBocU1pcDBYM1l2Q1ZoaTVYNFhmVnFnR09ZRTRaRTFZSFV0aGlJRjRsTGJGcHIxd1hORkN0eTJSOUpUdlJ3cjRqOTBlU2hIQlFmSm52bFA5aEliQjZZMUE?oc=5",
       "lang": "zh-TW"
     }
   ]
