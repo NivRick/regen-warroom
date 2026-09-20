@@ -1,18 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-09-20T00:31:54.310828+00:00",
+  "updated": "2026-09-20T14:27:16.634577+00:00",
   "items": [
     {
-      "title": "STAT+：川普吹捧製藥交易，為國家醫療補助計劃提供更便宜的藥品",
-      "summary": "每個州都將參與 GENEROUS 計劃，但許多細節尚不清楚。",
+      "title": "STAT+: 川普宣傳藥廠協議，為各州醫療補助計畫提供更便宜藥品",
+      "summary": "各州都將參與這項「慷慨」計畫，但許多細節仍不明朗。",
       "source": "STAT News",
       "date": "2026-09-18",
       "url": "https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：羅氏透過新研究中心擴大波士頓足跡",
-      "summary": "一種基因療法已被批准用於治療 Sanfilippo 綜合徵，Xenon Pharma 的好消息和壞消息以及更多生物技術新聞",
+      "title": "STAT+: 羅氏（Roche）在波士頓擴大版圖",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-09-18",
       "url": "https://www.statnews.com/2026/09/18/biotech-news-roche-expands-it-boston-footprint-with-research-center/?utm_campaign=rss",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Novo與Orbis合作，深化對口服勝肽藥物的投資",
-      "summary": "兩家公司可能達成價值 14 億美元的聯盟，合作開發“大環化合物”，從而產生治療心臟代謝疾病的口服藥物。",
+      "title": "諾和諾德攜手Orbis，深化口服胜肽藥物佈局",
+      "summary": "諾和諾德與Orbis建立潛在14億美元的合作，共同開發用於心血管疾病的口服胜肽藥物「巨環分子」。",
       "source": "BioPharma Dive",
       "date": "2026-09-17",
       "url": "https://www.biopharmadive.com/news/novo-orbis-macrocyclic-peptides-oral-obesity-drugs/830645/",
       "lang": "zh-TW"
     },
     {
-      "title": "North Immunology 透過 Aethlon 交易加入生技反向併購熱潮",
-      "summary": "這家新創公司擁有 1.8 億美元的資金和一種針對濕疹的雙效抗體，正在利用情緒的變化導致反向併購交易突然激增。",
+      "title": "North Immunology透過與Aethlon",
+      "summary": "",
       "source": "BioPharma Dive",
       "date": "2026-09-17",
       "url": "https://www.biopharmadive.com/news/north-immunology-aethlon-biotech-reverse-merger-eczema-drug/830631/",
