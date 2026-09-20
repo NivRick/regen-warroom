@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-09-19T14:06:06.019659+00:00",
+  "updated": "2026-09-20T00:31:41.974984+00:00",
   "items": [
     {
-      "title": "OTP 公聽會：細胞治療的化學、製造與品管 – 2023年6月",
-      "summary": "這場活動將聚焦在細胞治療的化學、製造與品管（CMC），內容涵蓋由治療產品辦公室（OTP）規範的組織工程醫療產品。",
+      "title": "OTP 市政廳：細胞治療化學、製造和控制 – 2023 年 6 月",
+      "summary": "該活動將重點關注細胞治療化學、製造和控制 (CMC)，包括受 OTP 監管的組織工程醫療產品，並將是 2022 年 12 月虛擬市政廳的延續。",
       "source": "06/08/2023",
       "date": "2026-09-18",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-chemistry-manufacturing-and-controls-june-2023-06082023",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "FDA與EMA對真實世界數據（RWD）的最新應用與接受標準",
-      "summary": "台灣食品藥物管理署（FDA）與歐洲藥品管理局（EMA）正逐步擴大對真實世界數據（RWD）的應用。本文將解析兩大監管機構目前接受RWD的最新標準，以及其在藥品開發與上市後監管的潛力與挑戰。",
+      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
+      "summary": "rd 數據 Pharma Letter",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
