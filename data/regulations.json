@@ -1,6 +1,6 @@
 {
   "module": "regulation",
-  "updated": "2026-09-20T14:26:37.736731+00:00",
+  "updated": "2026-09-21T00:38:39.494109+00:00",
   "items": [
     {
       "title": "隨著治療方法不再依賴日常藥物，長效植入物和細胞改變了現代醫學",
@@ -11,15 +11,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "OTP 公聽會：細胞治療的化學、製造與品管 – 2023年6月",
-      "summary": "本次活動將聚焦於細胞治療的化學、製造與品管（CMC），包含由治療產品辦公室（OTP）規範的組織工程醫療產品。",
+      "title": "OTP 市政廳：細胞治療化學、製造和控制 – 2023 年 6 月",
+      "summary": "該活動將重點關注細胞治療化學、製造和控制 (CMC)，包括受 OTP 監管的組織工程醫療產品，並將是 2022 年 12 月虛擬市政廳的延續。",
       "source": "06/08/2023",
       "date": "2026-09-18",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-chemistry-manufacturing-and-controls-june-2023-06082023",
       "lang": "zh-TW"
     },
     {
-      "title": "20",
+      "title": "2026年生物許可證申請核准",
       "summary": "",
       "source": "FDA Biologics",
       "date": "2026-09-17",
@@ -43,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Animal Rule Information",
+      "title": "動物規則訊息",
       "summary": "了解有關動物規則的更多信息，當人類挑戰研究不符合道德且人類功效研究不可行時，該規則可用於授予某些產品的營銷批准。",
       "source": "FDA Biologics",
       "date": "2026-09-17",
@@ -60,7 +60,7 @@
     },
     {
       "title": "傳染源捐贈者篩檢試驗和 HIV 診斷試驗的完整列表",
-      "summary": "不同類型供體篩選測定的連結。每種檢測的表格均提供詳細信息，如商品名、傳染原、格式、樣本、用途、製造商、批准日期和 STN。",
+      "summary": "不同類型供體篩選測定的連結。每個檢測的表格都提供了詳細信息，例如商品名、傳染原、格式、樣本、用途、製造商、批准日期和 STN。",
       "source": "FDA Biologics",
       "date": "2026-09-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/complete-list-donor-screening-assays-infectious-agents-and-hiv-diagnostic-assays",
@@ -75,16 +75,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026年誘導型多功能幹細胞（iPSC）衍生細胞療法的發展藍圖",
-      "summary": "這份報告將深入探討2026年iPSC衍生細胞治療的產業趨勢與未來潛力。",
+      "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
+      "summary": "2026 年生物資訊學",
       "source": "BioInformant",
       "date": "2026-09-17",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品藥物管理局（FDA）與歐洲藥品管理局",
-      "summary": "",
+      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
+      "summary": "rd 數據 Pharma Letter",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
@@ -93,7 +93,7 @@
     {
       "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
       "summary": "",
-      "source": "報導者The Reporter",
+      "source": "twreporter.org",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     }
