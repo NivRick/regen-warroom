@@ -1,66 +1,89 @@
 {
   "module": "apac",
-  "updated": "2026-09-21T00:38:25.155911+00:00",
+  "updated": "2026-09-21T16:44:57.702948+00:00",
   "items": [
     {
-      "title": "本週圖表：葛蘭素史克 (GSK) 在中國的交易、3 億美元 首次公開上市（IPO） 俱樂部以及出售新聞",
-      "summary": "BioPharma Dive 以視覺化為重點的新系列的最新一期講述了令華爾街分析師感到困惑的股票拋售，以及對行業領先的合作夥伴關係的深入研究。",
+      "title": "新加坡吸引國際生技創投，亞太生技產業起飛",
+      "summary": "新加坡憑藉其優勢，吸引全球生技創投目光，帶動亞太區生技產業蓬勃發展。",
+      "source": "Singapore Economic Development Board (EDB)",
+      "date": "2026-09-21",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "mRNA研究下一步？亞太專家齊聚台灣 聚焦傳染病、腫瘤與罕病應用",
+      "summary": "",
+      "source": "健康醫療網",
+      "date": "2026-09-21",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6Q3k2MmozajdOVUtLZnlCTFNUNXZlTHlqUm5fRUx5aktDY056QWE4UzVQNk8xMWJGYnhKbE1BYy1mWW14Y0dhbVJxRE9GY2NwaGlYbEtB?oc=5"
+    },
+    {
+      "title": "亞太地區一次性生物反應器市場規模、市佔率、趨勢與成長分析報告，2031",
+      "summary": "市場規模、市佔率、趨勢與成長分析報告，2031 MarketsandMarkets",
+      "source": "MarketsandMarkets",
+      "date": "2026-09-20",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTTJlSVRsemo0VlowR1VNeVowZXNtNm9oTHcyLWpKbkRzcV9uNzdhSHlaMk9jR1NUZXNMVFR3WFMwUlhCRlN2Z091Q1kzWFNzZU1zcmFwR05rZWUtQ3B3N21LYUJwbEZhZmFtb1o3VG5xSnhYTGRqY052cVlEVWVLbEJpd3prVHA2SDdDN1U2WnA1WnZDRjNPekNMMjBNeUt3N2c?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "本週圖表觀察：葛蘭素史克（GSK）的中國交易、3億美元首次公開募股（IPO）俱樂部與消息面出貨",
+      "summary": "生技製藥深度報導（BioPharma Dive）最新圖表系列，探討讓華爾街分析師摸不著頭緒的股票拋售潮。",
       "source": "BioPharma Dive",
       "date": "2026-09-18",
       "url": "https://www.biopharmadive.com/news/biotech-charts-gsk-china-electra-ipo-scholar-rock/830514/",
       "lang": "zh-TW"
     },
     {
-      "title": "隨著亞太生命科學產業的起飛，新加坡吸引了國際生技創投公司",
-      "summary": "亞太生命科學產業起飛 新加坡經濟發展局 (EDB)",
-      "source": "Singapore Economic Development Board (EDB)",
-      "date": "2026-09-16",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "藥品合作夥伴選擇了第一個主要候選藥物。天演藥業的合作夥伴將資助臨床測試。",
-      "summary": "候選人。天演藥業的合作夥伴將資助臨床測試。庫存泰坦",
+      "title": "藥物合作夥伴選定首個主要候選藥物。Adagene的合作夥伴將資助臨床試驗。",
+      "summary": "候選藥物。Adagene的合作夥伴將資助臨床試驗。Stock Titan",
       "source": "Stock Titan",
       "date": "2026-09-10",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNODNta0x1S1RpUnNCVHQ2RXZQTjVmZHpienVFWllfVzVFRGdJbnh2eS1Hel9oVGdhRXdyeWw1ZllKV1JpZ2tWQkozbGRyME5LZXVkeURuUFBndGsybXdsNGwxTTRkZ0RZRFRtVEdqbmZKamR3WTNXQTh3VUZqRkY2bjNybWMxNmk1d0xuMVptbVo5MU1KbHQtQVgxY1ctSnU3ZVpWaFFadDd5ZWRmTGNWY3VkSXdEdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "天演藥業 (Adagene) 宣布 Third Arc Bio 已根據修訂後的策略合作選擇了第一個主要候選藥物，以利用 SAFEbody® 技術開發掩蔽 CD3 T 細胞接合劑",
-      "summary": "根據修訂後的策略合作選定第一位首席候選人，利用 SAFEbody® 技術開發掩蔽 CD3 T 細胞接合劑 - 馬尼拉時報",
+      "title": "Adagene宣布Third Arc Bio在修訂後的策略合作下，已選定首個主要候選藥物，用於開發採用SAFEbody®技術的遮蔽型CD3 T細胞銜接器",
+      "summary": "在修訂後的策略合作下，選定首個主要候選藥物，用於開發採用SAFEbody®技術的遮蔽型CD3 T細胞銜接器 The M",
       "source": "The Manila Times",
       "date": "2026-09-10",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNV3YzbVl3SDFQQVF6UHVoZXhwWjYxNlluaHFEcmpfZE9ZWS1YR0IxYUJNV092WWZfdTVEUlVUdkZpVklBNWZLWkx3V3dwZExXY2lDOE5RUkNPSF9nSGdJWDMta0lnaTFzOG9LbENHQkFuSnZkUUxRR1V6ZVdGNDBfakN2ZnRSSkFJandrTzZsN01oT2lKbWtGVXdSUTM2Wm5vanlSVHRIR24zUXA1S2tSMzMxdUphZWpycHRpVW5xRXh3UlBEdW91dlNpMzNlRDEwSmIxcERzeVFFYjZlX1BTbUxDTmRlX2E3UFlRbVZ6NW1rUTZKbDRqUUNfSU9hQlhleWhCSUFoSGU5VzZJN2dxeXFSWGF6S0tmZ0JYRUstNmNiSWVTOUktU0hCeWVxLUlKVThqMzBBRUE2b1h0QVZhb2Q2dzlVV1d1UzVMS0ZqZzZFMlNadWUyZmZNM3BzcVUxZkxLaWN1VlBObXZfd2E1SVI5WVLSAfoCQVVfeXFMTjdUTjVvTHNmdHo2dXJMTFdib1o5NUlNWnRHUTBBRGNVdXppVVBFcjNJM0ktSThrblJHcDY5aE5neTZlN3VyRVVWbV85bjMxYjhGc2h1ZW0tYWFQV3VYaEllSk0wTlVvZ3VwUUlFMEkyNXE2OV9kajhTWHlSNW9Jc1lHZ05KX3pJa0txSTRaTHdwSVJYYnd4YWhLS0pxZkZlcTdJc0M4ZmhpRHJqVDc4NVJRZWMwVHZ3SlBlRTltNHZpS2tKRmFUa1dfbzZQYkVxVmRRUDZCVUpyNWwtV1BIVi1JX2JiMHFaWVFCYkx2dUU0U1MtV2lCdlNZenJ6T1cxMGVrVkFXMURfS1E3dk9SdFFfOW83N2NpS3hYWmR5NUNVVnEtTlVUZy1ZVXFmV0dKdVJDMGMzLVN5R0hxb3BtR2gzNk9Zc0RnLWxrQjRmejdCaGdjUWlZVXhuNHQwWE9lMHFfWG1IREVKTVhlNmtpbDZEUWgxeHdFWmtn?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫學市場：企業、規模與趨勢分析（2026-2035）",
-      "summary": "Precedence Research報告指出，再生醫學市場規模與趨勢預計將持續成長至2035年。",
+      "title": "再生醫學市場公司、規模與趨勢 2026-2035",
+      "summary": "規模與趨勢 2026-2035 Precedence Research",
       "source": "Precedence Research",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tN2JFWlpOTTJCUWdoSG9ZZlpTblpEelkzVi1GNlhNWVZRem1IRUdfNldOaVdLMDBpWVVXaXB5Z1UtWlEwWmptT0JaM05BVGNDOENOTlcteGFDY215YTdQTUE0WDFjNktjS1BhZlBVaXg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "CGT 製造市場中的人工智慧公司、規模和趨勢 2026-2035",
-      "summary": "、規模與趨勢 2026-2035 年優先研究",
+      "title": "人工智慧（AI）在細胞與基因療法（CGT）製造市場的公司、規模與趨勢 2026-2035",
+      "summary": "規模與趨勢 2026-2035 Precedence Research",
       "source": "Precedence Research",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fOU03a2FydDhfcktucjJOTURsWWdfSnJoazVwWnpOS0dyM1JBR2NHSGQySEZ4YXM2clFKUmxkRHpHSlZNYk5GbGpvc084WjFuTDk5ZzBNYy1pa0JHTFZzaWdzU3pnLVNycFFraF9uZmQ3UTQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "“我們的長期願景是將新加坡打造成全球同種異體細胞治療中心”",
-      "summary": "恩加坡作為全球同種異體細胞治療中心”BioSpectrum Asia",
+      "title": "YAKIN打造馬來西亞的再生醫學未來",
+      "summary": "YAKIN公司正積極推動馬來西亞的再生醫學發展，目標是建立該國在再生醫學領域的領先地位，為未來醫療帶來新希望。",
+      "source": "NST Online",
+      "date": "2026-09-09",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnY5NW1lMFU1YVM3QnE1bHczQ3NDUnFEWVJ0UWJ6d0Q1Tk9KLUcxaEY3NkVSOXAtMTdCMWtJS0NkN2xlTGJDY1pRaHpzRW52OXJXcWc0dWkxeGZmRnZKM3Zqa0IzenRJbVBTdUNnUko2ZXlLQWpXc1dGSWdXOGkyUTR0YmpYQnFXdV93SUg4c3Ryd2djSUR4bS1KZGRET250YUFEWW9IT2tyS2tkWnc?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "「我們的長期願景是將新加坡打造成異體細胞治療的全球中心」",
+      "summary": "新加坡成為異體細胞治療的全球中心 BioSpectrum Asia",
       "source": "BioSpectrum Asia",
       "date": "2026-09-01",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNelBSaW9CRS11cUhESVMzVnQxbWJ6eFNYaEo3QTFXWGdCcXU5RVlHN2ZIWjd3cm10a1hoTktBdi1ZamV1RkZtT3lLdmU0VGNqdUZDTFVYQzM5ejdLYmlYWTlQYVl5cWhRamRkNGRhLVFhTXJRaWtXVVZhdTNZdm9yMnhndndPb1lFR1Q4NE13N0hzSXd1MFU2YTJIV01HeUpVU3dCMzlzZ2tzajhlX2NLSGhfZ1dTUzB6bm1CdUVwTHowRnJNQllhYU5wOHhLWnVRMHU5LUk3NVdodVlZbjBHbw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞臍帶血市場規模報告（",
-      "summary": "",
+      "title": "幹細胞臍帶血市場規模報告，2033",
+      "summary": "規模報告，2033 Grand View Research",
       "source": "Grand View Research",
       "date": "2026-08-25",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2JpVzEwOFNCdGdBVDYzb3hmMzN1RXppdjBIUlEtNUpMY2tycDB6RDlWV2lpc1MtNG52YXRVdkZKUVJGNUxkaXdobi1GTFUxc2hpZzNWcE9TTVZPM3JpdEVuLWJYNjdQNjFlcGpLUGlZR1E3T3U3SDdXNjA3d25MOVJUWGEzcXJfekZ6X0JXR2N0clVTV21HbFBrV3Y?oc=5",

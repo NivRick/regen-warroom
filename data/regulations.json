@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-09-21T00:38:39.494109+00:00",
+  "updated": "2026-09-21T16:45:37.427154+00:00",
   "items": [
     {
-      "title": "隨著治療方法不再依賴日常藥物，長效植入物和細胞改變了現代醫學",
-      "summary": "現代醫學的治療方法不再是每日服用藥物 Philenews",
-      "source": "Philenews",
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjdPUFI2OHNNODc1azVlb2FZU2k0UDFXbnpDRm9Ldy1qX1NXaHhoSjU5WnRlUTBUSVNKZXlVcElPSWVBeWpSRDRCX2Q3eDVlSWQ2UXZjT09QOUIyT2RHWEIxMkdCVURwUS14bC1id2dSOEl3MlRYaFZBbzhEVmN0UmJPT3hlTlNqSzNXVUwzbVpBUjQ?oc=5",
+      "title": "Andelyn Curator 生物製造平台助力Fayuvi基因療法取得核准",
+      "summary": "A型黏多醣症（MPS IIIA）是一種罕見且致命的溶小體儲積症，主要影響中樞神經系統，並以快速",
+      "source": "GEN News",
+      "date": "2026-09-21",
+      "url": "https://www.genengnews.com/topics/omics/andelyn-curator-biomanufacturing-platform-supports-fayuvi-gene-therapy-approval/",
       "lang": "zh-TW"
     },
     {
-      "title": "OTP 市政廳：細胞治療化學、製造和控制 – 2023 年 6 月",
-      "summary": "該活動將重點關注細胞治療化學、製造和控制 (CMC)，包括受 OTP 監管的組織工程醫療產品，並將是 2022 年 12 月虛擬市政廳的延續。",
+      "title": "OTP舉辦座談會：聚焦細胞治療的化學、製造與管制（CMC）— 2023年6月",
+      "summary": "這場活動將聚焦在細胞治療的化學、製造與管制（CMC），以及由美國食品藥物管理局（FDA）治療產品辦公室（OTP）所規範",
       "source": "06/08/2023",
       "date": "2026-09-18",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-chemistry-manufacturing-and-controls-june-2023-06082023",
@@ -75,16 +75,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
-      "summary": "2026 年生物資訊學",
+      "title": "2026年誘導型多功能幹細胞（iPSC）衍生細胞療法的研發管線",
+      "summary": "這份報告深入探討2026年誘導型多功能幹細胞（iPSC）衍生細胞治療的全球研發進展與市場潛力。",
       "source": "BioInformant",
       "date": "2026-09-17",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
-      "summary": "rd 數據 Pharma Letter",
+      "title": "美國FDA與歐洲EMA對真實世界數據的最新採納標準",
+      "summary": "本文探討美國食品藥物管理局（FDA）與歐洲藥品管理局（EMA）如何將真實世界數據納入藥物審查，及其對產業的影響。",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
@@ -93,7 +93,7 @@
     {
       "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
       "summary": "",
-      "source": "twreporter.org",
+      "source": "報導者The Reporter",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     }

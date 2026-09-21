@@ -1,7 +1,39 @@
 {
   "module": "funding",
-  "updated": "2026-09-21T00:38:51.206460+00:00",
+  "updated": "2026-09-21T16:46:21.253481+00:00",
   "items": [
+    {
+      "title": "意見：STAT+：NIH 預算每年應為 1000 億美元",
+      "summary": "「我們應該加強對 NIH 的投資，而不是拆除它，」里德·賈伯斯寫道。",
+      "source": "STAT News",
+      "date": "2026-09-21",
+      "url": "https://www.statnews.com/2026/09/21/nih-budget-double-100-billion-reed-jobs/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Novo 談論新藥上市以贏回投資者",
+      "summary": "在倫敦的「資本市場日」上，高層概述了一個路線圖，以更好地與主要競爭對手禮來公司競爭，並很快推出幾種數十億美元的產品。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-21",
+      "url": "https://www.biopharmadive.com/news/novo-capital-markets-day-obesity-sales-outlook/830882/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Telix 收購 ITM，打造“放射性製藥巨頭”",
+      "summary": "一位分析師寫道，這筆交易前期價值 16.5 億美元，結合了兩條大型管道和製造網絡，有可能幫助 Telix「壟斷放射性藥物產業」。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-21",
+      "url": "https://www.biopharmadive.com/news/telix-itm-radiopharmaceuticals-deal-acquire-lutetium-novartis/830859/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "比利時 Novadip Biosciences 融資 1,040 萬歐元，資助關鍵臨床試驗並解鎖 EIB 貸款",
+      "summary": "40 萬美元用於資助關鍵臨床試驗並解鎖 EIB 貸款部分 EU-Startups",
+      "source": "EU-Startups",
+      "date": "2026-09-21",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：川普吹捧製藥交易，為國家醫療補助計劃提供更便宜的藥品",
       "summary": "每個州都將參與 GENEROUS 計劃，但許多細節尚不清楚。",
@@ -43,16 +75,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：美國食藥局（FDA） 批准了一種治療極為罕見疾病 Sanfilippo 症候群的新基因療法",
-      "summary": "美國食藥局（FDA） 批准了一種針對 A 型 Sanfilippo 綜合徵的新基因療法，這是一種極其罕見的疾病，有時被稱為兒童阿茲海默症。",
-      "source": "STAT News",
-      "date": "2026-09-17",
-      "url": "https://www.statnews.com/2026/09/17/sanfilippo-syndrome-treatment-ultragenyx-approval/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Electra 在生技公司最新的大型 首次公開上市（IPO） 中籌集了 3.5 億美元資金",
-      "summary": "BioPharma Dive 的數據顯示，近十幾家生技公司在 2026 年的首次公開募股中匹配或籌集了超過 3 億美元的資金，這是自 2021 年新股銷售達到頂峰以來的最高數字。",
+      "title": "Electra 在生技產業最新一波大型首次公開募股 (IPO) 中募得3.5億美元",
+      "summary": "Electra 生技公司近期透過首次公開募股 (IPO) 成功募得3.5億美元，成為生技產業最新一筆大型募資案。這顯示儘管市場",
       "source": "BioPharma Dive",
       "date": "2026-09-17",
       "url": "https://www.biopharmadive.com/news/electra-biotech-ipo-price-secondary-hlh/830698/",
@@ -64,46 +88,6 @@
       "source": "BioPharma Dive",
       "date": "2026-09-17",
       "url": "https://www.biopharmadive.com/news/lisata-marea-deal-acquire-cardiovascular-endocrine-disease-drugs/830717/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Novo與Orbis合作，深化對口服勝肽藥物的投資",
-      "summary": "兩家公司可能達成價值 14 億美元的聯盟，合作開發“大環化合物”，從而產生治療心臟代謝疾病的口服藥物。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-17",
-      "url": "https://www.biopharmadive.com/news/novo-orbis-macrocyclic-peptides-oral-obesity-drugs/830645/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "North Immunology 透過 Aethlon 交易加入生技反向併購熱潮",
-      "summary": "這家新創公司擁有 1.8 億美元的資金和一種針對濕疹的雙效抗體，正在利用情緒的變化導致反向併購交易突然激增。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-17",
-      "url": "https://www.biopharmadive.com/news/north-immunology-aethlon-biotech-reverse-merger-eczema-drug/830631/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "羅氏與 Dualitas 聯手尋找治療免疫疾病的雙特異性藥物",
-      "summary": "透過一項價值高達 10 億美元的研究協議，Dualitas 將篩選超過 30 萬種可能的雙特異性組合，以期發現新的差異化治療方法。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-17",
-      "url": "https://www.biopharmadive.com/news/roche-dualitas-bispecific-antibodies-immune/830573/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "諾華斥資 1.25 億美元購買血腦障壁跨越平台",
-      "summary": "該交易使諾華公司獲得了 Sironax 開發的技術的全球權利，該交易的收益將有助於推進該新創公司所說的具有「同類最佳」潛力的三項候選藥物。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-16",
-      "url": "https://www.biopharmadive.com/news/novartis-125m-for-blood-brain-barrier-crossing-platform-Sironax/830560/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 籌款追蹤器 '26：Sling 籌集了 1.23 億美元； Circle 籌集 9,250 萬美元",
-      "summary": "Sling 捲軸收入 1.23 億美元； Circle 籌集 9,250 萬美元 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     }
   ]
