@@ -1,6 +1,6 @@
 {
   "module": "funding",
-  "updated": "2026-09-21T16:46:21.253481+00:00",
+  "updated": "2026-09-22T01:23:33.065792+00:00",
   "items": [
     {
       "title": "意見：STAT+：NIH 預算每年應為 1000 億美元",
@@ -8,6 +8,14 @@
       "source": "STAT News",
       "date": "2026-09-21",
       "url": "https://www.statnews.com/2026/09/21/nih-budget-double-100-billion-reed-jobs/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "信標眼基因療法在後期研究中取得成功",
+      "summary": "Beacon 聲稱，這些發現代表 X 連鎖色素性視網膜炎（一種罕見且可能致盲的疾病）的治療方法首次在一項關鍵試驗中實現了其主要目標。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-21",
+      "url": "https://www.biopharmadive.com/news/beacon-xlrp-laru-zova-phase-3-study-results/830918/",
       "lang": "zh-TW"
     },
     {
@@ -20,7 +28,7 @@
     },
     {
       "title": "Telix 收購 ITM，打造“放射性製藥巨頭”",
-      "summary": "一位分析師寫道，這筆交易前期價值 16.5 億美元，結合了兩條大型管道和製造網絡，有可能幫助 Telix「壟斷放射性藥物產業」。",
+      "summary": "Worth $1.65 billion up front, the deal combines two large pipelines and manufacturing networks, helping Telix potentially &ldquo;corner the industry&rdquo; for radiopharmaceuticals, one analyst wrote.",
       "source": "BioPharma Dive",
       "date": "2026-09-21",
       "url": "https://www.biopharmadive.com/news/telix-itm-radiopharmaceuticals-deal-acquire-lutetium-novartis/830859/",
@@ -35,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：川普吹捧製藥交易，為國家醫療補助計劃提供更便宜的藥品",
+      "title": "STAT+: Trump touts pharma deals to offer cheaper drugs to state Medicaid programs",
       "summary": "每個州都將參與 GENEROUS 計劃，但許多細節尚不清楚。",
       "source": "STAT News",
       "date": "2026-09-18",
@@ -75,19 +83,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Electra 在生技產業最新一波大型首次公開募股 (IPO) 中募得3.5億美元",
-      "summary": "Electra 生技公司近期透過首次公開募股 (IPO) 成功募得3.5億美元，成為生技產業最新一筆大型募資案。這顯示儘管市場",
+      "title": "Electra 在生技公司最新的大型 首次公開上市（IPO） 中籌集了 3.5 億美元資金",
+      "summary": "BioPharma Dive 的數據顯示，近十幾家生技公司在 2026 年的首次公開募股中匹配或籌集了超過 3 億美元的資金，這是自 2021 年新股銷售達到頂峰以來的最高數字。",
       "source": "BioPharma Dive",
       "date": "2026-09-17",
       "url": "https://www.biopharmadive.com/news/electra-biotech-ipo-price-secondary-hlh/830698/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Lisata 交易將 Marea 的藥品管道推向華爾街",
-      "summary": "Marea 被 Lisata 收購，加上一筆 2.25 億美元的融資交易，將支持兩種用於心血管和內分泌疾病的中期測試藥物的開發。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-17",
-      "url": "https://www.biopharmadive.com/news/lisata-marea-deal-acquire-cardiovascular-endocrine-disease-drugs/830717/",
       "lang": "zh-TW"
     }
   ]
