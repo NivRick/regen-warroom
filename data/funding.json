@@ -1,7 +1,47 @@
 {
   "module": "funding",
-  "updated": "2026-09-22T01:23:33.065792+00:00",
+  "updated": "2026-09-22T15:21:09.134745+00:00",
   "items": [
+    {
+      "title": "STAT+：諾和諾德（Novo Nordisk）可能在Medicare的Bridge計畫中獲得比預期更好的待遇",
+      "summary": "禮來（Eli Lilly）和諾和諾德（Novo Nordisk）已經從川普政府涵蓋老年人肥胖症藥物的試點計畫中獲益良多。",
+      "source": "STAT News",
+      "date": "2026-09-22",
+      "url": "https://www.statnews.com/2026/09/22/biotech-news-novo-may-be-getting-a-better-deal-than-expected-with-medicare-bridge/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關尋求保護中國交易的製藥公司、羅氏肥胖藥物等的信息",
+      "summary": "西方製藥公司敦促川普政府允許他們繼續與中國公司進行候選藥物交易",
+      "source": "STAT News",
+      "date": "2026-09-22",
+      "url": "https://www.statnews.com/pharmalot/2026/09/22/pharma-seeks-to-protect-china-deals-roche-obesity-drug/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "新任聯邦自閉症委員會主席與甲醯四氫葉酸有經濟關係",
+      "summary": "RFK Jr. 任命兒科神經學家約翰蓋塔尼斯 (John Gaitanis) 為機構間自閉症協調委員會的新主席，該委員會幫助聯邦政府決定如何分配約 20 億美元",
+      "source": "STAT News",
+      "date": "2026-09-22",
+      "url": "https://www.statnews.com/2026/09/22/health-news-federal-autism-committee-head-has-financial-ties-to-leucovorin/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "食慾素藥物治療過動症的「概念驗證」； Cue 的「毫無根據」的分享幻燈片",
+      "summary": "Alkermes 的結果增強了人們對 2027 年即將公佈的結果的預期。在其他地方，艾伯維 (AbbVie) 專注於人工智慧藥物發現，美國食藥局（FDA） 擴大了禮來 (Eli Lilly) 乳癌藥物的使用。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-22",
+      "url": "https://www.biopharmadive.com/news/orexin-adhd-cue-urticaria-/830847/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "A hidden tradeoff in Trump’s drug pricing deals",
+      "summary": "The government has announced &ldquo;most-favored-nation&rdquo; pricing agreements with 26 pharma companies. But the deals could stymie other plans to lower the country&rsquo;s spending on prescription drugs.",
+      "source": "BioPharma Dive",
+      "date": "2026-09-22",
+      "url": "https://www.biopharmadive.com/news/trump-mfn-drug-deals-medicare-savings/830922/",
+      "lang": "zh-TW"
+    },
     {
       "title": "意見：STAT+：NIH 預算每年應為 1000 億美元",
       "summary": "「我們應該加強對 NIH 的投資，而不是拆除它，」里德·賈伯斯寫道。",
@@ -27,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Telix 收購 ITM，打造“放射性製藥巨頭”",
-      "summary": "Worth $1.65 billion up front, the deal combines two large pipelines and manufacturing networks, helping Telix potentially &ldquo;corner the industry&rdquo; for radiopharmaceuticals, one analyst wrote.",
+      "title": "Telix 收購 ITM，旨在打造「放射性藥物巨擘」",
+      "summary": "Telix 以 16.5 億美元收購 ITM，結合雙方龐大產品線與製造網絡，目標是成為放射性藥物產業的龍頭，搶佔市場先機。",
       "source": "BioPharma Dive",
       "date": "2026-09-21",
       "url": "https://www.biopharmadive.com/news/telix-itm-radiopharmaceuticals-deal-acquire-lutetium-novartis/830859/",
@@ -43,51 +83,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Trump touts pharma deals to offer cheaper drugs to state Medicaid programs",
-      "summary": "每個州都將參與 GENEROUS 計劃，但許多細節尚不清楚。",
-      "source": "STAT News",
-      "date": "2026-09-18",
-      "url": "https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：羅氏透過新研究中心擴大波士頓足跡",
-      "summary": "一種基因療法已被批准用於治療 Sanfilippo 綜合徵，Xenon Pharma 的好消息和壞消息以及更多生物技術新聞",
-      "source": "STAT News",
-      "date": "2026-09-18",
-      "url": "https://www.statnews.com/2026/09/18/biotech-news-roche-expands-it-boston-footprint-with-research-center/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關與中國的許可協議、在太空製造藥物等的信息",
-      "summary": "美國正在製定在華投資規則，這可能會保留製藥公司達成大多數中國藥品許可交易的能力",
-      "source": "STAT News",
-      "date": "2026-09-18",
-      "url": "https://www.statnews.com/pharmalot/2026/09/18/rules-for-china-licensing-deals-making-drugs-in-space/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "本週圖表：葛蘭素史克 (GSK) 在中國的交易、3 億美元 首次公開上市（IPO） 俱樂部以及出售新聞",
       "summary": "BioPharma Dive 以視覺化為重點的新系列的最新一期講述了令華爾街分析師感到困惑的股票拋售，以及對行業領先的合作夥伴關係的深入研究。",
       "source": "BioPharma Dive",
       "date": "2026-09-18",
       "url": "https://www.biopharmadive.com/news/biotech-charts-gsk-china-electra-ipo-scholar-rock/830514/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Ultragenyx 將 Sanfilippo 基因療法定價為 400 萬美元；百時美施貴寶下架奧魯姆藥物",
-      "summary": "Ultragenyx 自 8 月以來第二次獲得基因療法批准，這給它帶來了另一張可銷售的優惠券。在其他地方，羅氏宣布一項血癌試驗取得成功，一家細胞療法製造商正在削減成本。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-18",
-      "url": "https://www.biopharmadive.com/news/ultragenyx-fayuvi-orum-bristol-lunsumio-longeveron-rocket-danon/830512/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Electra 在生技公司最新的大型 首次公開上市（IPO） 中籌集了 3.5 億美元資金",
-      "summary": "BioPharma Dive 的數據顯示，近十幾家生技公司在 2026 年的首次公開募股中匹配或籌集了超過 3 億美元的資金，這是自 2021 年新股銷售達到頂峰以來的最高數字。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-17",
-      "url": "https://www.biopharmadive.com/news/electra-biotech-ipo-price-secondary-hlh/830698/",
       "lang": "zh-TW"
     }
   ]

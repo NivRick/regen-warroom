@@ -1,7 +1,23 @@
 {
   "module": "regulation",
-  "updated": "2026-09-22T01:23:13.938702+00:00",
+  "updated": "2026-09-22T15:20:12.955864+00:00",
   "items": [
+    {
+      "title": "2026 年亞太地區首次獲準：完整列表",
+      "summary": "",
+      "source": "BioPharma APAC",
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlE0akdmVllVQkljR21UM3FaSkhNamEwMUdNaWZ0R0Vaa2pZQjlmcEhDUmkxdFpmNzU1SmczSzdyZHB6TEsxVlpYNEVpYmRqSEh2RDkyM2gtbURBM202UnRUNGVTS2ZWTjhzdjZkT3VfZjlXWHhhRmZuYjlIUUdTZGhvQVJ0NGZiSUxVUFgyVE1sWUduM2U2UkhZNA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "西方墨點法（Western Blotting）數據完整性的最佳實務規範",
+      "summary": "儘管質譜法等其他蛋白質體學方法不斷進步，西方墨點法（Western Blotting）仍是生命科學領域最廣泛使用的技術之一。",
+      "source": "GEN News",
+      "date": "2026-09-22",
+      "url": "https://www.genengnews.com/topics/bioprocessing/best-practices-for-establishing-data-integrity-in-western-blotting/",
+      "lang": "zh-TW"
+    },
     {
       "title": "生物製劑最新消息",
       "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
@@ -12,7 +28,7 @@
     },
     {
       "title": "生物製劑相關程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）是美國食品",
+      "summary": "這些標準作業程序與政策（SOPPs）供美國食品藥物",
       "source": "FDA Biologics",
       "date": "2026-09-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -27,8 +43,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Andelyn Curator Biomanufacturing Platform Supports Fayuvi 基因療法 Approval",
-      "summary": "A 型聖菲利波症候群 (MPS IIIA) 是一種罕見的致命性溶小體貯積症，主要影響中樞神經系統，其特徵是從兒童早期開始出現快速神經退化性變。帖子m支持Fayuvi基因疗法获批",
+      "title": "Andelyn Curator生物製造平台助力Fayuvi基因療法獲准",
+      "summary": "A型黏多醣症（MPS IIIA）是一種罕見且致命的溶小體儲積症，主要影響中樞神經系統，並導致快速退化。",
       "source": "GEN News",
       "date": "2026-09-21",
       "url": "https://www.genengnews.com/topics/omics/andelyn-curator-biomanufacturing-platform-supports-fayuvi-gene-therapy-approval/",
@@ -59,33 +75,17 @@
       "lang": "zh-TW"
     },
     {
-      "title": "動物規則訊息",
-      "summary": "了解有關動物規則的更多信息，當人類挑戰研究不符合道德且人類功效研究不可行時，該規則可用於授予某些產品的營銷批准。",
-      "source": "FDA Biologics",
-      "date": "2026-09-17",
-      "url": "http://www.fda.gov/emergency-preparedness-and-response/preparedness-research/animal-rule-information",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 批准首個針對 A 型 Sanfilippo 症候群兒科患者的基因療法",
-      "summary": "美國食品藥物管理局今天批准了 Fayuvi (rebisufligene etisparvovec-hopf)，這是第一個治療 IIIA 型黏多醣貯積症 (MPS IIIA) 兒科患者的藥物，也稱為 A 型 Sanfilippo 症候群。",
-      "source": "FDA Biologics",
-      "date": "2026-09-17",
-      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
-      "lang": "zh-TW"
-    },
-    {
       "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
-      "summary": "2026 年生物資訊學",
-      "source": "BioInformant",
+      "summary": "2026 年的兒科 bioinformant.com",
+      "source": "bioinformant.com",
       "date": "2026-09-17",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
-      "summary": "rld 資料 thepharmaletter.com",
-      "source": "thepharmaletter.com",
+      "title": "美國FDA與歐洲EMA對真實世界數據（RWD）的採納現況",
+      "summary": "探討美國FDA與歐洲EMA如何看待並採納真實世界數據（RWD），及其對藥品審查的影響。",
+      "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
       "lang": "zh-TW"
