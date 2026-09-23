@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-09-22T15:21:09.134745+00:00",
+  "updated": "2026-09-23T01:02:50.939524+00:00",
   "items": [
     {
-      "title": "STAT+：諾和諾德（Novo Nordisk）可能在Medicare的Bridge計畫中獲得比預期更好的待遇",
-      "summary": "禮來（Eli Lilly）和諾和諾德（Novo Nordisk）已經從川普政府涵蓋老年人肥胖症藥物的試點計畫中獲益良多。",
+      "title": "STAT+：Novo 可能會透過 Medicare 的 Bridge 計劃獲得比預期更好的交易",
+      "summary": "禮來公司 (Eli Lilly) 和諾和諾德公司 (Novo Nordisk) 已經從川普政府的試點計畫中獲益匪淺，該計畫為老年人提供每月 245 美元的肥胖藥物。它",
       "source": "STAT News",
       "date": "2026-09-22",
       "url": "https://www.statnews.com/2026/09/22/biotech-news-novo-may-be-getting-a-better-deal-than-expected-with-medicare-bridge/?utm_campaign=rss",
@@ -35,8 +35,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "A hidden tradeoff in Trump’s drug pricing deals",
-      "summary": "The government has announced &ldquo;most-favored-nation&rdquo; pricing agreements with 26 pharma companies. But the deals could stymie other plans to lower the country&rsquo;s spending on prescription drugs.",
+      "title": "川普藥品定價交易隱藏的權衡",
+      "summary": "政府已宣布與 26 家製藥公司達成「最惠國」定價協議。但這些交易可能會阻礙其他降低該國處方藥支出的計畫。",
       "source": "BioPharma Dive",
       "date": "2026-09-22",
       "url": "https://www.biopharmadive.com/news/trump-mfn-drug-deals-medicare-savings/830922/",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Telix 收購 ITM，旨在打造「放射性藥物巨擘」",
-      "summary": "Telix 以 16.5 億美元收購 ITM，結合雙方龐大產品線與製造網絡，目標是成為放射性藥物產業的龍頭，搶佔市場先機。",
+      "title": "Telix 收購 ITM，打造“放射性製藥巨頭”",
+      "summary": "一位分析師寫道，這筆交易前期價值 16.5 億美元，結合了兩條大型管道和製造網絡，有可能幫助 Telix「壟斷放射性藥物產業」。",
       "source": "BioPharma Dive",
       "date": "2026-09-21",
       "url": "https://www.biopharmadive.com/news/telix-itm-radiopharmaceuticals-deal-acquire-lutetium-novartis/830859/",
@@ -80,14 +80,6 @@
       "source": "EU-Startups",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "本週圖表：葛蘭素史克 (GSK) 在中國的交易、3 億美元 首次公開上市（IPO） 俱樂部以及出售新聞",
-      "summary": "BioPharma Dive 以視覺化為重點的新系列的最新一期講述了令華爾街分析師感到困惑的股票拋售，以及對行業領先的合作夥伴關係的深入研究。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-18",
-      "url": "https://www.biopharmadive.com/news/biotech-charts-gsk-china-electra-ipo-scholar-rock/830514/",
       "lang": "zh-TW"
     }
   ]

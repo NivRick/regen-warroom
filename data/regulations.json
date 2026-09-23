@@ -1,7 +1,15 @@
 {
   "module": "regulation",
-  "updated": "2026-09-22T15:20:12.955864+00:00",
+  "updated": "2026-09-23T01:02:32.755021+00:00",
   "items": [
+    {
+      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製品中外源因子檢測的下一代定序 – 2026 年 9 月 23 日",
+      "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
+      "source": "09/23/2026",
+      "date": "2026-09-22",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/fda-scientific-public-workshop-next-generation-sequencing-adventitious-agent-detection-biologics",
+      "lang": "zh-TW"
+    },
     {
       "title": "2026 年亞太地區首次獲準：完整列表",
       "summary": "",
@@ -11,24 +19,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "西方墨點法（Western Blotting）數據完整性的最佳實務規範",
-      "summary": "儘管質譜法等其他蛋白質體學方法不斷進步，西方墨點法（Western Blotting）仍是生命科學領域最廣泛使用的技術之一。",
+      "title": "在蛋白質印跡中建立資料完整性的最佳實踐",
+      "summary": "儘管包括質譜法在內的其他蛋白質體學方法取得了進步，但蛋白質印跡法由於其經濟性、特異性和廣泛的可及性，仍然是生命科學研究中最廣泛使用的技術之一。\n埃格里郵報",
       "source": "GEN News",
       "date": "2026-09-22",
       "url": "https://www.genengnews.com/topics/bioprocessing/best-practices-for-establishing-data-integrity-in-western-blotting/",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新消息",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-09-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）供美國食品藥物",
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-09-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -40,14 +48,6 @@
       "source": "FDA Biologics",
       "date": "2026-09-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Andelyn Curator生物製造平台助力Fayuvi基因療法獲准",
-      "summary": "A型黏多醣症（MPS IIIA）是一種罕見且致命的溶小體儲積症，主要影響中樞神經系統，並導致快速退化。",
-      "source": "GEN News",
-      "date": "2026-09-21",
-      "url": "https://www.genengnews.com/topics/omics/andelyn-curator-biomanufacturing-platform-supports-fayuvi-gene-therapy-approval/",
       "lang": "zh-TW"
     },
     {
@@ -67,14 +67,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "核准的細胞和基因治療產品",
-      "summary": "治療產品辦公室 (OTP) 許可和批准的產品清單。",
-      "source": "FDA Biologics",
-      "date": "2026-09-17",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
-      "lang": "zh-TW"
-    },
-    {
       "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
       "summary": "2026 年的兒科 bioinformant.com",
       "source": "bioinformant.com",
@@ -83,8 +75,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA與歐洲EMA對真實世界數據（RWD）的採納現況",
-      "summary": "探討美國FDA與歐洲EMA如何看待並採納真實世界數據（RWD），及其對藥品審查的影響。",
+      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
+      "summary": "rd 數據 Pharma Letter",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",

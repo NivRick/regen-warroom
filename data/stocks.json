@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T15:22:05.034783+00:00",
+  "updated": "2026-09-23T01:03:38.732411+00:00",
   "stocks": [
     {
       "code": "1784",
@@ -8,7 +8,7 @@
       "close": "60.40",
       "change": "+2.00",
       "change_pct": 3.42,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "OTC"
     },
     {
@@ -18,7 +18,7 @@
       "close": "12.90",
       "change": "+0.34",
       "change_pct": 2.71,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "ESB"
     },
     {
@@ -28,7 +28,7 @@
       "close": "7.20",
       "change": "+0.13",
       "change_pct": 1.84,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "ESB"
     },
     {
@@ -38,7 +38,7 @@
       "close": "24.15",
       "change": "-0.65",
       "change_pct": -2.62,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "OTC"
     },
     {
@@ -48,17 +48,17 @@
       "close": "160.00",
       "change": "+2.00",
       "change_pct": 1.27,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "OTC"
     },
     {
       "code": "6794",
       "name": "向榮生技",
       "tier": "上游",
-      "close": "75.50",
-      "change": "0.00",
-      "change_pct": 0.0,
-      "date": "115/09/21",
+      "close": "74.20",
+      "change": "-1.30",
+      "change_pct": -1.72,
+      "date": "115/09/22",
       "market": "TWSE"
     },
     {
@@ -66,9 +66,9 @@
       "name": "台新藥",
       "tier": "上游",
       "close": "23.90",
-      "change": "+0.25",
-      "change_pct": 1.06,
-      "date": "115/09/21",
+      "change": "0.00",
+      "change_pct": 0.0,
+      "date": "115/09/22",
       "market": "TWSE"
     },
     {
@@ -78,7 +78,7 @@
       "close": "38.55",
       "change": "-1.02",
       "change_pct": -2.58,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "ESB"
     },
     {
@@ -88,7 +88,7 @@
       "close": "26.55",
       "change": "+0.64",
       "change_pct": 2.47,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "ESB"
     },
     {
@@ -98,7 +98,7 @@
       "close": "21.50",
       "change": "+0.95",
       "change_pct": 4.62,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "ESB"
     },
     {
@@ -108,7 +108,7 @@
       "close": "9.35",
       "change": "-0.28",
       "change_pct": -2.91,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "ESB"
     },
     {
@@ -118,7 +118,7 @@
       "close": "58.30",
       "change": "-1.65",
       "change_pct": -2.75,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "ESB"
     },
     {
@@ -128,7 +128,7 @@
       "close": "45.25",
       "change": "+1.05",
       "change_pct": 2.38,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "OTC"
     },
     {
@@ -138,7 +138,7 @@
       "close": "214.00",
       "change": "-0.87",
       "change_pct": -0.4,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "ESB"
     },
     {
@@ -148,7 +148,7 @@
       "close": "35.00",
       "change": "+0.40",
       "change_pct": 1.16,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "ESB"
     },
     {
@@ -158,17 +158,17 @@
       "close": "12.55",
       "change": "-0.53",
       "change_pct": -4.05,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "ESB"
     },
     {
       "code": "6949",
       "name": "沛爾生醫",
       "tier": "中游",
-      "close": "53.80",
-      "change": "-0.70",
-      "change_pct": -1.28,
-      "date": "115/09/21",
+      "close": "50.80",
+      "change": "-3.00",
+      "change_pct": -5.58,
+      "date": "115/09/22",
       "market": "TWSE"
     },
     {
@@ -178,7 +178,7 @@
       "close": "31.40",
       "change": "-0.15",
       "change_pct": -0.48,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "OTC"
     },
     {
@@ -188,7 +188,7 @@
       "close": "31.90",
       "change": "-0.10",
       "change_pct": -0.31,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "OTC"
     },
     {
@@ -198,7 +198,7 @@
       "close": "28.50",
       "change": "+0.30",
       "change_pct": 1.06,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "OTC"
     },
     {
@@ -208,7 +208,7 @@
       "close": "18.90",
       "change": "+0.76",
       "change_pct": 4.19,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "ESB"
     },
     {
@@ -218,7 +218,7 @@
       "close": "19.30",
       "change": "+0.46",
       "change_pct": 2.44,
-      "date": "115/09/22",
+      "date": "115/09/23",
       "market": "ESB"
     }
   ]
