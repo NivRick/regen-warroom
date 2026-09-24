@@ -1,10 +1,34 @@
 {
   "module": "funding",
-  "updated": "2026-09-24T00:59:55.084840+00:00",
+  "updated": "2026-09-24T15:40:49.616286+00:00",
   "items": [
     {
-      "title": "STAT+：旗艦獲得五角大廈合約",
-      "summary": "生物技術投資公司 Flagship Pioneering 已獲得國防部的一份合同，以推進針對生物威脅的對策技術。",
+      "title": "STAT+: Kyverna的細胞療法展現持久的自體免疫疾病療效",
+      "summary": "Kyverna Therapeutics 離推出首款自體免疫疾病細胞療法又近一步，最新數據顯示許多患者病情緩解。",
+      "source": "STAT News",
+      "date": "2026-09-24",
+      "url": "https://www.statnews.com/2026/09/24/biotech-news-kyverna-cell-therapy-shows-lasting-autoimmune-benefit/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "默克透露研究成功，以及可能的安全擔憂，眼科藥物有望上市",
+      "summary": "以 13 億美元收購獲得的一種藥物在糖尿病性黃斑水腫兩項關鍵研究中的第一項中獲得通過，儘管有關該藥物安全性的言論引起了分析師的爭論。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-24",
+      "url": "https://www.biopharmadive.com/news/merck-remigromig-dme-study-results-eyebio/831234/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "禮來公司最新的中國藥品交易； Immunovant 在狼瘡治療中遭遇挫折",
+      "summary": "禮來公司在其自 2025 年 1 月以來的第四個以中國為重點的聯盟中投入了高達 33.5 億美元的資金。在其他方面，分析師現在對福泰 (Vertex) 的一個最大前景更有信心，並且一種 RNA 藥物成功治療了一種罕見的 ALS。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-24",
+      "url": "https://www.biopharmadive.com/news/lilly-innocare-immunovant-vertex-inaxaplin-otsuka-ionis/831044/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Flagship 獲得美國國防部合約",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-09-23",
       "url": "https://www.statnews.com/2026/09/23/biotech-news-flagship-gets-a-pentagon-contract/?utm_campaign=rss",
@@ -16,30 +40,6 @@
       "source": "BioPharma Dive",
       "date": "2026-09-23",
       "url": "https://www.biopharmadive.com/news/enveda-ai-drug-discovery-series-e/831161/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Novo 可能會透過 Medicare 的 Bridge 計劃獲得比預期更好的交易",
-      "summary": "禮來公司 (Eli Lilly) 和諾和諾德公司 (Novo Nordisk) 已經從川普政府的試點計畫中獲益匪淺，該計畫為老年人提供每月 245 美元的肥胖藥物。它",
-      "source": "STAT News",
-      "date": "2026-09-22",
-      "url": "https://www.statnews.com/2026/09/22/biotech-news-novo-may-be-getting-a-better-deal-than-expected-with-medicare-bridge/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關尋求保護中國交易的製藥公司、羅氏肥胖藥物等的信息",
-      "summary": "西方製藥公司敦促川普政府允許他們繼續與中國公司進行候選藥物交易",
-      "source": "STAT News",
-      "date": "2026-09-22",
-      "url": "https://www.statnews.com/pharmalot/2026/09/22/pharma-seeks-to-protect-china-deals-roche-obesity-drug/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "新任聯邦自閉症委員會主席與甲醯四氫葉酸有經濟聯繫",
-      "summary": "RFK Jr. 任命兒科神經學家約翰蓋塔尼斯 (John Gaitanis) 為機構間自閉症協調委員會的新主席，該委員會幫助聯邦政府決定如何分配約 20 億美元",
-      "source": "STAT News",
-      "date": "2026-09-22",
-      "url": "https://www.statnews.com/2026/09/22/health-news-federal-autism-committee-head-has-financial-ties-to-leucovorin/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -56,22 +56,6 @@
       "source": "BioPharma Dive",
       "date": "2026-09-22",
       "url": "https://www.biopharmadive.com/news/trump-mfn-drug-deals-medicare-savings/830922/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "信標眼基因療法在後期研究中取得成功",
-      "summary": "Beacon 聲稱，這些發現代表 X 連鎖色素性視網膜炎（一種罕見且可能致盲的疾病）的治療方法首次在一項關鍵試驗中實現了其主要目標。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-21",
-      "url": "https://www.biopharmadive.com/news/beacon-xlrp-laru-zova-phase-3-study-results/830918/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Novo 談論新藥上市以贏回投資者",
-      "summary": "在倫敦的「資本市場日」上，高層概述了一個路線圖，以更好地與主要競爭對手禮來公司競爭，並很快推出幾種數十億美元的產品。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-21",
-      "url": "https://www.biopharmadive.com/news/novo-capital-markets-day-obesity-sales-outlook/830882/",
       "lang": "zh-TW"
     },
     {
