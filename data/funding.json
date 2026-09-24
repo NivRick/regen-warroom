@@ -1,18 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-09-23T15:18:11.225735+00:00",
+  "updated": "2026-09-24T00:59:55.084840+00:00",
   "items": [
     {
-      "title": "Flagship 獲美國國防部合約",
-      "summary": "生技投資公司 Flagship Pioneering 獲得美國國防部合約，將推進對抗生物威脅的防禦技術。",
+      "title": "STAT+：旗艦獲得五角大廈合約",
+      "summary": "生物技術投資公司 Flagship Pioneering 已獲得國防部的一份合同，以推進針對生物威脅的對策技術。",
       "source": "STAT News",
       "date": "2026-09-23",
       "url": "https://www.statnews.com/2026/09/23/biotech-news-flagship-gets-a-pentagon-contract/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "諾和諾德（Novo）在聯邦醫療保險（Medicare）Bridge 計畫中可能",
-      "summary": "",
+      "title": "人工智慧製藥商 Enveda 獲得 3.11 億美元風險投資",
+      "summary": "Enveda 正在使用人工智慧工具挖掘植物和微生物以尋找藥物前景，該公司在免疫疾病和肥胖症的人體測試方面擁有三種候選藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-23",
+      "url": "https://www.biopharmadive.com/news/enveda-ai-drug-discovery-series-e/831161/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Novo 可能會透過 Medicare 的 Bridge 計劃獲得比預期更好的交易",
+      "summary": "禮來公司 (Eli Lilly) 和諾和諾德公司 (Novo Nordisk) 已經從川普政府的試點計畫中獲益匪淺，該計畫為老年人提供每月 245 美元的肥胖藥物。它",
       "source": "STAT News",
       "date": "2026-09-22",
       "url": "https://www.statnews.com/2026/09/22/biotech-news-novo-may-be-getting-a-better-deal-than-expected-with-medicare-bridge/?utm_campaign=rss",
@@ -67,16 +75,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Telix 收購 ITM，旨在打造「放射性藥物巨擘」",
-      "summary": "這筆交易前期價值 16.5 億美元，結合了兩家公司龐大的產品線（pipeline）和生產網絡，有助於 Telix 潛力「稱霸業界」。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-21",
-      "url": "https://www.biopharmadive.com/news/telix-itm-radiopharmaceuticals-deal-acquire-lutetium-novartis/830859/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "比利時 Novadip Biosciences 募資 1040 萬歐元，用於資助關鍵性臨床試驗並啟動歐洲投資銀行（EIB）的貸款額度",
-      "summary": "Novadip Biosciences 募資 1040 萬歐元，將用於推動其關鍵性臨床試驗，並解鎖歐洲投資銀行（EIB）的貸款。",
+      "title": "比利時 Novadip Biosciences 融資 1,040 萬歐元，資助關鍵臨床試驗並解鎖 EIB 貸款",
+      "summary": "40 萬美元用於資助關鍵臨床試驗並解鎖 EIB 貸款部分 EU-Startups",
       "source": "EU-Startups",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",

@@ -1,69 +1,61 @@
 {
   "module": "regulation",
-  "updated": "2026-09-23T15:17:31.873609+00:00",
+  "updated": "2026-09-24T00:59:34.568166+00:00",
   "items": [
     {
-      "title": "美國食品藥物管理局（FDA）科學公開研討會：2026年9月23日生物製劑中外來病原體檢測的次世代定序（NGS）技術應用",
-      "summary": "這場研討會將邀請各領域專家和重要利害關係人，討論次世代定序",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "source": "FDA Biologics",
+      "date": "2026-09-23",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026年亞太地區（APAC）首次核准藥物：完整清單",
+      "summary": "盤點2026年亞太地區（APAC）各國首次獲得核准上市的藥物與療法，提供業界參考的完整名單。",
+      "source": "BioPharma APAC",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUJUb21RX3JlQkdYOXM4SU05X29TUXZoajkxNW1ldFhVNVNDVGpVQ0RLX1RMUkMzXzljS1lwWXVZd3VKUkw5aXRuZUJSbFpZbFhYbmx1aXh0cnVmRDRMNjNubVJtQXpJV3BBZTc0cFQyYXkyRXYtcmhYREhFcFlndjVlVzNhWGRZeTZQak1uOUoxMV9RUWVtV1lyZTI?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "新的脂質體設計可以提供有效的緩釋藥物傳遞系統",
+      "summary": "緩釋脂質體系統可對大鼠進行數週的局部麻醉，有可能實現更持久的神經阻斷和新的疼痛管理方法。\n後緩釋給藥系統首次亮相GEN - 基因引擎",
+      "source": "GEN News",
+      "date": "2026-09-23",
+      "url": "https://www.genengnews.com/topics/drug-discovery/new-liposome-design-could-provide-effective-slow-release-drug-delivery-system/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食品藥物管理局（FDA）科學公開研討會：次世代定序（NGS）在生物製劑中外來病原體檢測的應用 – 2026年9月23日",
+      "summary": "本次研討會將邀請專家學者與重要利害關係人，共同探討次世代定序（NGS）技術在外來病原體（AA）檢測的成熟度，並找出相關挑戰。",
       "source": "09/23/2026",
       "date": "2026-09-22",
       "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/fda-scientific-public-workshop-next-generation-sequencing-adventitious-agent-detection-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年亞太地區首次獲準：完整列表",
-      "summary": "",
-      "source": "BioPharma APAC",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlE0akdmVllVQkljR21UM3FaSkhNamEwMUdNaWZ0R0Vaa2pZQjlmcEhDUmkxdFpmNzU1SmczSzdyZHB6TEsxVlpYNEVpYmRqSEh2RDkyM2gtbURBM202UnRUNGVTS2ZWTjhzdjZkT3VfZjlXWHhhRmZuYjlIUUdTZGhvQVJ0NGZiSUxVUFgyVE1sWUduM2U2UkhZNA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Western Blotting（西方墨點法）確保數據完整性的最佳實踐",
-      "summary": "儘管其他蛋白質體學方法（包括質譜法）有所進展，Western Blotting（西方墨點法）仍是生命科學領域最廣泛使用的技術之一。",
-      "source": "GEN News",
-      "date": "2026-09-22",
-      "url": "https://www.genengnews.com/topics/bioprocessing/best-practices-for-establishing-data-integrity-in-western-blotting/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-09-21",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品程序 (SOPP)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
+      "title": "生物製劑相關作業程序（SOPPs）",
+      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）員工執行業務時所依循的規範。",
       "source": "FDA Biologics",
       "date": "2026-09-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 2026 孤兒批准（新 BLA）",
-      "summary": "",
+      "title": "生物製劑評估與研究中心（CBER）2026年孤兒藥核准清單（新生物製劑許可申請）",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）公布2026年新核准的孤兒藥與生物製劑許可申請（BLA）完整名單。",
       "source": "FDA Biologics",
       "date": "2026-09-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
       "lang": "zh-TW"
     },
     {
-      "title": "OTP 市政廳：細胞治療化學、製造和控制 – 2023 年 6 月",
-      "summary": "該活動將重點關注細胞治療化學、製造和控制 (CMC)，包括受 OTP 監管的組織工程醫療產品，並將是 2022 年 12 月虛擬市政廳的延續。",
+      "title": "組織與先進療法辦公室（OTP）市民大會：細胞治療的化學、製造與管制（CMC） – 2023年6月",
+      "summary": "本次活動將聚焦細胞治療的化學、製造與管制（CMC），包含由組織與先進療法辦公室（OTP）管轄的組織工程醫療產品。",
       "source": "06/08/2023",
       "date": "2026-09-18",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-chemistry-manufacturing-and-controls-june-2023-06082023",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "2026年生物許可證申請核准",
-      "summary": "",
-      "source": "FDA Biologics",
-      "date": "2026-09-17",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/2026-biological-license-application-approvals",
       "lang": "zh-TW"
     },
     {
@@ -75,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA與歐盟EMA現在接受哪些真實世界數據（RWD）？",
-      "summary": "探討美國食品藥物管理局（FDA）與歐洲藥品管理局（EMA）如何運用真實世界數據（RWD）進行藥品審查。",
+      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
+      "summary": "rd 數據 Pharma Letter",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
