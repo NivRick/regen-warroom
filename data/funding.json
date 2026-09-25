@@ -1,13 +1,21 @@
 {
   "module": "funding",
-  "updated": "2026-09-24T15:40:49.616286+00:00",
+  "updated": "2026-09-25T01:02:05.500885+00:00",
   "items": [
     {
-      "title": "STAT+: Kyverna的細胞療法展現持久的自體免疫疾病療效",
-      "summary": "Kyverna Therapeutics 離推出首款自體免疫疾病細胞療法又近一步，最新數據顯示許多患者病情緩解。",
+      "title": "STAT+：Kyverna 的細胞療法顯示出持久的自身免疫益處",
+      "summary": "Kyverna Therapeutics 距離推出首個針對自體免疫疾病的細胞療法又近了一步，現有的新數據顯示許多患者仍未接受其他療法",
       "source": "STAT News",
       "date": "2026-09-24",
       "url": "https://www.statnews.com/2026/09/24/biotech-news-kyverna-cell-therapy-shows-lasting-autoimmune-benefit/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "RNAi 藥物專家 ADARx 首次公開募股籌集 4.46 億美元",
+      "summary": "ADARx 是自 2024 年以來唯一一家上市的 RNA 藥物製造商，也是十多年來首家在美國進行 首次公開上市（IPO） 定價的 RNAi 生物技術公司。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-24",
+      "url": "https://www.biopharmadive.com/news/adarx-rnai-biotech-ipo-stock-pricing/831262/",
       "lang": "zh-TW"
     },
     {
@@ -27,8 +35,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Flagship 獲得美國國防部合約",
-      "summary": "",
+      "title": "STAT+：旗艦獲得五角大廈合約",
+      "summary": "生物技術投資公司 Flagship Pioneering 已獲得國防部的一份合同，以推進針對生物威脅的對策技術。",
       "source": "STAT News",
       "date": "2026-09-23",
       "url": "https://www.statnews.com/2026/09/23/biotech-news-flagship-gets-a-pentagon-contract/?utm_campaign=rss",
@@ -43,25 +51,9 @@
       "lang": "zh-TW"
     },
     {
-      "title": "食慾素藥物治療過動症的「概念驗證」； Cue 的「毫無根據」的分享幻燈片",
-      "summary": "Alkermes 的結果增強了人們對 2027 年即將公佈的結果的預期。在其他地方，艾伯維 (AbbVie) 專注於人工智慧藥物發現，美國食藥局（FDA） 擴大了禮來 (Eli Lilly) 乳癌藥物的使用。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-22",
-      "url": "https://www.biopharmadive.com/news/orexin-adhd-cue-urticaria-/830847/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "川普藥品定價交易隱藏的權衡",
-      "summary": "政府已宣布與 26 家製藥公司達成「最惠國」定價協議。但這些交易可能會阻礙其他降低該國處方藥支出的計畫。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-22",
-      "url": "https://www.biopharmadive.com/news/trump-mfn-drug-deals-medicare-savings/830922/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "比利時 Novadip Biosciences 融資 1,040 萬歐元，資助關鍵臨床試驗並解鎖 EIB 貸款",
-      "summary": "40 萬美元用於資助關鍵臨床試驗並解鎖 EIB 貸款部分 EU-Startups",
-      "source": "EU-Startups",
+      "summary": "40 萬美元用於資助關鍵臨床試驗並解鎖 EIB 貸款部分 eu-startups.com",
+      "source": "eu-startups.com",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",
       "lang": "zh-TW"

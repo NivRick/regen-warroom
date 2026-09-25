@@ -1,10 +1,10 @@
 {
   "module": "apac",
-  "updated": "2026-09-24T15:39:38.978015+00:00",
+  "updated": "2026-09-25T01:01:31.305737+00:00",
   "items": [
     {
-      "title": "禮來（Lilly）最新中國藥品交易；Immunovant紅斑性狼瘡治療遭遇挫折",
-      "summary": "禮來（Lilly）自2025年1月以來，已投入高達33.5億美元，達成第四個聚焦中國市場的藥品合作案。同時，Immunovant在紅斑性狼瘡（lupus）治療的進展則面臨挑戰。",
+      "title": "禮來公司最新的中國藥品交易； Immunovant 在狼瘡治療中遭遇挫折",
+      "summary": "禮來公司在其自 2025 年 1 月以來的第四個以中國為重點的聯盟中投入了高達 33.5 億美元的資金。在其他方面，分析師現在對福泰 (Vertex) 的一個最大前景更有信心，並且一種 RNA 藥物成功治療了一種罕見的 ALS。",
       "source": "BioPharma Dive",
       "date": "2026-09-24",
       "url": "https://www.biopharmadive.com/news/lilly-innocare-immunovant-vertex-inaxaplin-otsuka-ionis/831044/",
@@ -19,6 +19,13 @@
       "lang": "zh-TW"
     },
     {
+      "title": "台灣再生醫療業者拓展日本市場 從美容應用到生技合作布局",
+      "summary": "",
+      "source": "Yahoo新聞",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQcnB4eW1TVVN5WEVmRS16aW5NRkgyMG5hVHB2SkxxRWhQWjRiZjhuRHRpa2czYzdKbE15eE1veFhiMHI0dFZZZ3hveGhhLWpScmhNR0FDV0o0bUxEWTBySWVleG5Qbi1lWmV3bWdQWi0wNnh5YzMzX0pic3FlRjVQeVN1NjVYMHhwdnB3bGotZUtFRXhHOHJ3TXBuQjdsLVc4TmM2THBncmVLcW9ZMmszQ19BTFpqZ0lneS1fX1pobUxZT0dXNnB3SVRFcjB5ZGQxU1ZXSmNQaG1lZHZ3QkR4RGlZQmtfLVNpSUdWNE9TOWJEdy1LSUdiSU9seDFMd3p1TDJkdC1qSXBVenhUYktPWXFmNmJ5UkNjVGZyeFZVZzYtalBwbk91VGQtOHJiNFhVSXlJMmNwekx6LVhfY2x3Vm9zWHdVSEh6VmJsRmFqNVN6QjEzR3U5VEx0YXpOU3N1TGRRVy1Tb0RfVXRtbjNad2JFdEF1UjVYX1JfeWFfSG00cWdxaGtSLU9fTzI?oc=5"
+    },
+    {
       "title": "布局亞洲再生醫學市場 國璽進軍日本美容、生技雙展推動臨床技術走向日常應用",
       "summary": "",
       "source": "理財周刊",
@@ -26,24 +33,17 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5neFlvWEp4eDk5Sk9CWGtTaVhTTGlYU29tZXctTDlDbF9fX1FsV2V0S2JTcy00Q2I4aWk2VTBadVNkRFV0TVFkT1IzMU15bG91VTRIMEVRT3Z3cmlTOThxVGxhS2JKMk9NYy1uNHJ6dw?oc=5"
     },
     {
-      "title": "台灣再生醫療業者拓展日本市場 從美容應用到生技合作布局",
-      "summary": "",
-      "source": "mnews.tw",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40bzlfWVRZdDkyY3Mxa3VJQlZiRTZxdnQ1UVNTZjFmTkdZbWxnVXhCazdCZFJlbFZ1WHFOUERva294NEpLSGVsdTBtZWpXR3JWckZoM0FSVDM?oc=5"
-    },
-    {
       "title": "九大藥廠巨頭對歐洲生技產業衰退敲響警鐘",
-      "summary": "歐洲生技產業衰退，相較美國與中國已失去競爭力，令業界沮喪。多家頂尖藥廠呼籲加速臨床試驗（clinical trials）審批，以重振歐洲生技發展。",
+      "summary": "歐洲生技產業在與美中競爭中落後，九大藥廠巨頭對此敲響警鐘，呼籲加速臨床試驗以重振產業。",
       "source": "BioPharma Dive",
       "date": "2026-09-23",
       "url": "https://www.biopharmadive.com/news/europe-biotech-investment-decline-letter-pharma-chairs/831112/",
       "lang": "zh-TW"
     },
     {
-      "title": "亞太生技醫療產業起飛，新加坡吸引國際生技創投目光",
-      "summary": "新加坡憑藉亞太生技醫療產業的蓬勃發展，成功吸引全球生技創投（VC）業者進駐，展現其在區域內的領導地位。",
-      "source": "Singapore Economic Development Board (EDB)",
+      "title": "隨著亞太生命科學產業的起飛，新加坡吸引了國際生技創投公司",
+      "summary": "s as Asia-Pacific life sciences sector takes off edb.gov.sg",
+      "source": "edb.gov.sg",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
       "lang": "zh-TW"
@@ -64,19 +64,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "基因療法 Market Companies, Size & Trends 2026-2035",
+      "title": "基因治療市場公司、規模和趨勢 2026-2035",
       "summary": "結束 2026-2035 優先研究",
       "source": "Precedence Research",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01NklZci11aHpUaEhMVlhnb1FxQWFfYVFYOU5wMHd4WF9pb3Y2cWZaR05fN3ZadWhXOXZUemIxTGczLU1VTUtoTUdFdFdnMVFsSGNqVjJWMXlVU2JCWlQ4b3RSb0s?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "藥品合作夥伴選擇了第一個主要候選藥物。天演藥業的合作夥伴將資助臨床測試。",
-      "summary": "候選人。天演藥業的合作夥伴將資助臨床測試。庫存泰坦",
-      "source": "Stock Titan",
-      "date": "2026-09-10",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNODNta0x1S1RpUnNCVHQ2RXZQTjVmZHpienVFWllfVzVFRGdJbnh2eS1Hel9oVGdhRXdyeWw1ZllKV1JpZ2tWQkozbGRyME5LZXVkeURuUFBndGsybXdsNGwxTTRkZ0RZRFRtVEdqbmZKamR3WTNXQTh3VUZqRkY2bjNybWMxNmk1d0xuMVptbVo5MU1KbHQtQVgxY1ctSnU3ZVpWaFFadDd5ZWRmTGNWY3VkSXdEdw?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -88,8 +80,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫學市場：廠商、規模與趨勢（2026-2035年）",
-      "summary": "這份報告深入分析2026至2035年間再生醫學市場的規模與發展趨勢。",
+      "title": "再生醫學市場公司、規模和趨勢 2026-2035",
+      "summary": "規模和趨勢 2026-2035 優先研究",
       "source": "Precedence Research",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tN2JFWlpOTTJCUWdoSG9ZZlpTblpEelkzVi1GNlhNWVZRem1IRUdfNldOaVdLMDBpWVVXaXB5Z1UtWlEwWmptT0JaM05BVGNDOENOTlcteGFDY215YTdQTUE0WDFjNktjS1BhZlBVaXg?oc=5",
@@ -101,14 +93,6 @@
       "source": "Precedence Research",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fOU03a2FydDhfcktucjJOTURsWWdfSnJoazVwWnpOS0dyM1JBR2NHSGQySEZ4YXM2clFKUmxkRHpHSlZNYk5GbGpvc084WjFuTDk5ZzBNYy1pa0JHTFZzaWdzU3pnLVNycFFraF9uZmQ3UTQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "幹細胞臍帶血市場規模報告（203",
-      "summary": "",
-      "source": "Grand View Research",
-      "date": "2026-08-25",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2JpVzEwOFNCdGdBVDYzb3hmMzN1RXppdjBIUlEtNUpMY2tycDB6RDlWV2lpc1MtNG52YXRVdkZKUVJGNUxkaXdobi1GTFUxc2hpZzNWcE9TTVZPM3JpdEVuLWJYNjdQNjFlcGpLUGlZR1E3T3U3SDdXNjA3d25MOVJUWGEzcXJfekZ6X0JXR2N0clVTV21HbFBrV3Y?oc=5",
       "lang": "zh-TW"
     }
   ]

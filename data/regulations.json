@@ -1,10 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-09-24T15:40:10.289554+00:00",
+  "updated": "2026-09-25T01:01:52.806911+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "Altruist Biologics蘇州廠區取得歐洲藥品管理局（EMA）優良製造規範（GMP）認證",
+      "summary": "該公司的品質風險管理框架，使其能主動識別法規遵循風險，並降低與跨區域相關的不確定性。",
+      "source": "GEN News",
+      "date": "2026-09-24",
+      "url": "https://www.genengnews.com/topics/bioprocessing/altruist-biologics-suzhou-site-receives-ema-gmp-certification/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-09-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -19,16 +27,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "新型脂質體設計有望提供有效的緩釋藥物傳輸系統",
-      "summary": "新型脂質體設計，可望打造高效緩釋藥物傳輸系統。",
+      "title": "新型脂質體設計有望",
+      "summary": "",
       "source": "GEN News",
       "date": "2026-09-23",
       "url": "https://www.genengnews.com/topics/drug-discovery/new-liposome-design-could-provide-effective-slow-release-drug-delivery-system/",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品藥物管理局（FDA）科學公開研討會：2026年9月23日生物製劑外來病原體檢測",
-      "summary": "",
+      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製品中外源因子檢測的下一代定序 – 2026 年 9 月 23 日",
+      "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
       "source": "09/23/2026",
       "date": "2026-09-22",
       "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/fda-scientific-public-workshop-next-generation-sequencing-adventitious-agent-detection-biologics",
@@ -59,7 +67,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "The Pipeline for 誘導型多能幹細胞（iPSC）-Derived Cell Therapeutics in 2026",
+      "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
       "summary": "2026 年生物資訊學",
       "source": "BioInformant",
       "date": "2026-09-17",
@@ -77,7 +85,7 @@
     {
       "title": "不明針劑揭開的外泌體亂象：地下施打、療效話術與新興生醫監管難題",
       "summary": "",
-      "source": "報導者The Reporter",
+      "source": "twreporter.org",
       "date": "2026-08-26",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RV3MzbFJwTU9ZQ2hRMWQwc3d3SDdHb3BRcVFLbmVPVXlvWkp1N1psMGFPWWpVVnktUi1OR1NYa0s5M0ZwcVh1ZWVOZ3p2Vll5NFA5NTRRekdQbkE2Wk9TMTFhQk1sWTQ0UEFLT3hMT3FjMEhOaVZJYXM0MVJPQQ?oc=5"
     }
