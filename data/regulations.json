@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-09-26T01:07:03.251491+00:00",
+  "updated": "2026-09-26T14:52:36.210519+00:00",
   "items": [
     {
-      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製品中外源因子檢測的下一代定序 – 2026 年 9 月 23 日",
-      "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
+      "title": "美國食品藥物管理局（FDA）科學公開研討會：2026年9月23日探討次世代定序（NGS）在生物製劑外來病原體檢測的應用",
+      "summary": "這場研討會將邀請各領域專家與重要利害關係人，共同討論次世代",
       "source": "09/23/2026",
       "date": "2026-09-25",
       "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/fda-scientific-public-workshop-next-generation-sequencing-adventitious-agent-detection-biologics",
@@ -27,7 +27,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Every First Approval in APAC, 2026: The Full List",
+      "title": "2026 年亞太地區首次獲準：完整列表",
       "summary": "完整列表 biopharmaapac.com",
       "source": "biopharmaapac.com",
       "date": "2026-09-23",
@@ -35,8 +35,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "新型脂質體設計有望提供高效緩釋藥物傳輸系統",
-      "summary": "新型脂質體設計，有望實現藥物緩釋，提供更持久的治療效果。",
+      "title": "New Liposome Design Could Provide Effective Slow-Release Drug Delivery System",
+      "summary": "A slow-release liposome system delivered local anesthesia for weeks in rats, potentially enabling longer-lasting nerve blocks and new approaches to pain management.\nThe post ive Slow-Release Drug Delivery System appeared first on GEN - Genetic Engine",
       "source": "GEN News",
       "date": "2026-09-23",
       "url": "https://www.genengnews.com/topics/drug-discovery/new-liposome-design-could-provide-effective-slow-release-drug-delivery-system/",
@@ -60,14 +60,14 @@
     },
     {
       "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
-      "summary": "2026 年生物資訊學",
-      "source": "BioInformant",
+      "summary": "peutics in 2026 bioinformant.com",
+      "source": "bioinformant.com",
       "date": "2026-09-17",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
+      "title": "What 美國食藥局（FDA） and 歐洲藥品管理局（EMA） now accept from real-world data",
       "summary": "rd 數據 Pharma Letter",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
