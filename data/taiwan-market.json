@@ -1,6 +1,6 @@
 {
   "module": "taiwan",
-  "updated": "2026-09-25T15:39:20.713329+00:00",
+  "updated": "2026-09-26T01:01:09.060535+00:00",
   "items": [
     {
       "title": "漢康生技第二屆研發日：實體瘤臨床數據亮眼，AI 驅動全開發週期決策",
@@ -19,7 +19,7 @@
     {
       "title": "台灣再生醫療業者拓展日本市場 從美容應用到生技合作布局",
       "summary": "",
-      "source": "健康醫療網",
+      "source": "healthnews.com.tw",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93WXJkSVVHZlNaZzFyeDdZTlhNSmZzbldYWF9rcEw0eW0zOWRuZmZqZlV6bnZUTkVpZ0l4SmVaZkdrTlJqTGVjaEh6UnUtSFhJX3JaUEV3?oc=5"
     },
@@ -38,13 +38,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10alV3eGJhSWV3dEowUE50UDVNNlZKV25ISDI2S3dfZ1gyZ2ZNcmpPNEJVY0Q0RUExRGp1M2NKQ1BpZ284eFFDMHgxaWcyaVJXazdYY1ZhSWN0WGdaZ0FTaVlydi0?oc=5"
     },
     {
-      "title": "長庚醫院與吉立亞簽MOU將進行4大癌藥試驗　爭取CAR-T細胞治療國內臨床",
-      "summary": "",
-      "source": "三立新聞網SETN.com",
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OUXhnTDZMSVlzSnJoTTBrSldrQTBHYUF1SUJYU3dxVEVRdnNHSk5xOEw0b3pLYWwwSEhMUGhQSzNKa3ZhY1FRNdIBTEFVX3lxTFBuNUxmVjZzWXJxU3VBUV81WXlHLXNTRHM5WnM1ZDhvdE9zWEl0bFRFMm12ZmNxcnNNWm1VcG9ObFk2d21kc29GU1JyZ04?oc=5"
-    },
-    {
       "title": "CAR-T攻肺癌現曙光 唐獎得主預測治療困境可望反轉",
       "summary": "",
       "source": "信吉衛視+",
@@ -52,16 +45,23 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtc09VSXdiWElCXzFkNnhJMWF4WWVfbmg0Nk90WXhVWHRTUUpNNE1zeUlGWVpLRTBBSGtkRGFpOHR2QjRCSHBVbERoMmplVWFGcHdZOFFnV3MyLWc?oc=5"
     },
     {
-      "title": "訊聯生技四大動能齊發 再生醫療2.0時代布局加速",
+      "title": "中醫大附醫首登《Newsweek》全球前125強 台灣唯一上榜、CAR-T腦瘤治療展現成果",
       "summary": "",
-      "source": "自由時報",
-      "date": "2026-09-19",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lYUNnUDRYbW5pdG9wNEZ0RUVsalMxcXpTNWJrazRTMkg1WmptaFVRbVgzRmhRTFJlV0REdkNwT0pacnhpeV9jQTZHSmtlaFZxNlRfTnFwdW8?oc=5"
+      "source": "atanews.net",
+      "date": "2026-09-20",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94OTZGRFpvaFZGSGdvZnlmSlNiWWlNVkp2ZWdEd0xIWDFzUFdVTEJQX0E0VEUxaGtYTWM3S2IzN05adEpRUTF0WHU2OG1uLTQybzZQcjJ4NVJjUjlBTGtLMXBrQlFCSjdpdW1ZeQ?oc=5"
+    },
+    {
+      "title": "台灣唯一神經外科上榜！中醫大附醫榮獲2027《Newsweek》全球最佳專科醫院 入列全球神經外科前125強 精準醫療與CAR-T細胞治療獲國際肯定",
+      "summary": "入列全球神經外科前125強 精準醫療與CAR-T細胞治療獲國際肯定 元氣網",
+      "source": "元氣網",
+      "date": "2026-09-18",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YU1ZHT2FMZXU4Y2xydUtodlFybFU2SHc3Mk5Ba1duQXpMMVNIWFlnRy0zMG5RSXZjaGpqcnRYU2s5eDRPaWQ1Z25nODlmdWtJTnVXcDBQQ1B4ekQt0gFiQVVfeXFMUGhmMnpNNGFxVi1qUHdWdDJMcFkyM25fY1RMbXcwTG8zVXAxVzJvYjBsQXFBQTZ2c28wQVdMODI4MW9fdV96UTRXMUpWUHh5TGpEMjFEMmE3bWt2YWZjbWs0Unc?oc=5"
     },
     {
       "title": "仲恩生醫漲42% 蟬聯冠軍",
       "summary": "",
-      "source": "工研院產科國際所",
+      "source": "ieknet.iek.org.tw",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTXNqTjdXTy1EQXdTZHpoTTN2dnBRODBiMXpVU3N6UzgzVzRybXQ0YXBWOFFZQ2llS0lFa2R2ZXEyaElrandQM3hZQmVOT2VkLVVkNmp4ZHhITTdyTWNfeEFtd0h5ME90TGxnbWRfbVVySVUxbmM5TURMZWt3d1JHdE9SbjIzZnNJSGdGejVoM2hwZw?oc=5"
     },
@@ -71,6 +71,13 @@
       "source": "公視新聞網PNN",
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80TTF2eVE1TFNCVHVQSnBqOGIxQTNFTWViM3JNeHdNdHlybUZOV1d3bDhHN2UxM185WWJYQnNWT3pXUVcyNWxkOTd1Z3dVUkU?oc=5"
+    },
+    {
+      "title": "【9/9日股價漲幅】仲恩生醫(+47.06%)、暐世(+29.63%)、朗齊生醫*(+13.92%)",
+      "summary": "",
+      "source": "genetinfo.com",
+      "date": "2026-09-09",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXeUNacXdaLVd6aGNzdU85djhKVXFlSUJFUkh3TmptM2c5alFpaDNMOFBqRzVtM1ZteWZ4ckl1TDFNZUtaaHJFbW5RdlQ1VHlYSVEwVlhGSmR5cC1fS19oUlBSTDNWVnZWcWdIUlVB?oc=5"
     },
     {
       "title": "800萬CAR-T拚健保提前救命 次世代細胞療法CDMO接軌國際",
@@ -99,13 +106,6 @@
       "source": "中央社 CNA",
       "date": "2026-08-31",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4engzeWJNQ194eXhkWWlWVDE3YzdjMk1XaVZxYWtyNjZvZFoxTXVjTHdzdnJzSHIyWUx4MDVwRHJLTFBHWVdpc2hCc0w1SkJfUmpQT3FzdGpCUkpNVnQ0?oc=5"
-    },
-    {
-      "title": "國家級生醫計畫如何捲入細胞治療詐騙案？北醫台大狀告自家教授侵占研究成果冰山之下",
-      "summary": "",
-      "source": "報導者The Reporter",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUowNl9PZnZEVXRSMHBBd2ZCY1dfcF93UWZBT3RQTjVqcEJJNnlOZkJJOFU5YkNGck9pVWVaV1dZYXpnZEtSeU9tYWpDOGEyWXpFdTJaTDJDeWVScW1qbV9oaURZdGRGUHBqY1JoRkpYVmVZRlZ6YVkwWHlrUlVLTDZ6c1pZVG9kRWNQYnZzc0NjRGFwcDd5QThJc0VBOWs?oc=5"
     }
   ]
 }
