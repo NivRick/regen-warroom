@@ -1,10 +1,10 @@
 {
   "module": "research",
-  "updated": "2026-09-27T01:03:23.795300+00:00",
+  "updated": "2026-09-27T15:29:01.163481+00:00",
   "items": [
     {
-      "title": "可設計的扭轉緻密化途徑，打造具生物活性膠原蛋白水凝膠纖維，力學特性媲美肌腱",
-      "summary": "重組膠原蛋白水凝膠具備承重組織工程所需的生物活性，但其模量（彈性係數）從帕斯卡到低千帕，限制",
+      "title": "可設計的扭轉緻密化路徑，打造具生物活性、力學特性媲美肌腱的膠原蛋白水凝膠纖維。",
+      "summary": "重組膠原蛋白水凝膠具備承重組織工程所需的生物活性，但其帕斯卡（Pascal）到低千帕（kPa）",
       "source": "PubMed",
       "date": "2026-09-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42781499/",
@@ -20,7 +20,7 @@
     },
     {
       "title": "點擊化學修飾的心肌細胞增強心肌收縮力並防止缺血再灌注損傷的心臟重塑。",
-      "summary": "使用源自人類多能幹細胞（hPSC-CM）的心肌細胞進行心臟細胞治療的挑戰之一是它們在梗塞組織中的植入和存活率較差。点击化学和脂质插入是用胶原蛋白杂化物修饰 hPSC-CM 表面的简单方法...",
+      "summary": "使用源自人類多能幹細胞（hPSC-CM）的心肌細胞進行心臟細胞治療的挑戰之一是它們在梗塞組織中的植入和存活率較差。點擊化學和脂質插入是用膠原蛋白雜化物修飾 hPSC-CM 表面的簡單方法...",
       "source": "PubMed",
       "date": "2026-09-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42780908/",
@@ -44,7 +44,7 @@
     },
     {
       "title": "用於傷口修復的生物活性檸檬酸鹽水凝膠：從結構功能設計到微環境調節。",
-      "summary": "慢性不癒合傷口的特徵是持續感染、慢性發炎和血管生成缺陷的複雜微環境，對再生醫學構成了重大障礙。 Citrate-based chemistry has emerged as a sophisticated platform for engineering bio-instructive mater...",
+      "summary": "慢性不癒合傷口的特徵是持續感染、慢性發炎和血管生成缺陷的複雜微環境，對再生醫學構成了重大障礙。基於檸檬酸鹽的化學已成為工程生物指導材料的複雜平台...",
       "source": "PubMed",
       "date": "2026-09-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42741660/",
@@ -52,7 +52,7 @@
     },
     {
       "title": "類器官智慧形態組學：透過人工智慧從表型量化到機制洞察對類器官形態組進行解碼。",
-      "summary": "類器官, as three-dimensional bioactive microtissues capable of recapitulating native organ architecture and function, have become valuable models in biomedical research. However, their broad adoption is constrained by subjective morphological assessment and endpoint assays that compromise standar...",
+      "summary": "類器官作為能夠重現天然器官結構和功能的三維生物活性微組織，已成為生物醫學研究中有價值的模型。然而，它們的廣泛採用受到主觀形態學評估和終點檢測的限制，這些評估和終點檢測損害了標準…",
       "source": "PubMed",
       "date": "2026-09-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42733575/",
@@ -67,15 +67,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物分子凝聚介導的材料：相態、相變與生醫應用",
-      "summary": "探討生物分子凝聚介導材料的相態、相變過程，及其在生醫領域的應用潛力。",
+      "title": "生物分子凝聚介導材料：相態、相變與生醫應用",
+      "summary": "生物分子凝聚（coacervation）正日益被視為一種相演化過程，其中包含液-液相分離（LLPS），進而產生...",
       "source": "PubMed",
       "date": "2026-09-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42729408/",
       "lang": "zh-TW"
     },
     {
-      "title": "可程式化4D列印永續多功能光敏樹脂，具",
+      "title": "可程式化4D列印永續多功能",
       "summary": "",
       "source": "PubMed",
       "date": "2026-09-27",
@@ -107,8 +107,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Unraveling the drug resistance web in IBD: The gut microbiota-immunity-epigenetics axis.",
-      "summary": "Drug resistance in inflammatory bowel disease (IBD) precision therapy remains a critical barrier to clinical outcomes, with traditional studies focusing on single molecules or isolated pathways but failing to systematically dissect the bidirectional, context-dependent dynamic crosstalk among gut mic...",
+      "title": "揭開 IBD 的抗藥性網絡：腸道微生物群-免疫-表觀遺傳學軸。",
+      "summary": "發炎性腸道疾病（IBD）精準治療中的抗藥性仍然是臨床結果的關鍵障礙，傳統研究專注於單分子或孤立的途徑，但未能係統地剖析腸道微生物之間的雙向、上下文相關的動態串擾。",
       "source": "PubMed",
       "date": "2026-09-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42678063/",
@@ -116,7 +116,7 @@
     },
     {
       "title": "Transduction efficiency in clinical CAR-T細胞療法 cell products: A retrospective study at a single center.",
-      "summary": "轉導效率（TE）是衡量CAR T細胞製造品質的關鍵指標；然而，其變異性以及與最終產品表型的關係仍未完全了解。在这项回顾性研究中，我们评估了 204 种 GMP 制造的 CAR-T細胞療法 细胞产品的 TE，整合了制造...",
+      "summary": "轉導效率（TE）是衡量CAR T細胞製造品質的關鍵指標；然而，其變異性以及與最終產品表型的關係仍未完全了解。在這項回顧性研究中，我們評估了 204 種 GMP 製造的 CAR-T細胞療法 細胞產品的 TE，整合了製造...",
       "source": "PubMed",
       "date": "2026-09-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42774806/",
@@ -131,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "使用無細胞 DNA (cfDNA) 和 RNA (cfRNA) 診斷和監測原發性和轉移性中樞神經系統腫瘤。",
-      "summary": "腦脊髓液 (CSF) 是一種相對容易獲得的生物樣本，使用新一代定序 (NGS) 進行液體活檢 (LBx) 檢測可提供有關基因組異常的可操作信息，從而指導臨床決策和治療選擇。 To evaluate the potential clinical utility of...",
+      "title": "利用無細胞DNA (cfDNA) 和RNA (cfRNA) 診斷與監測原發性和轉移性中樞神經系統 (CNS) 腫瘤",
+      "summary": "腦脊髓液 (CSF) 是一種相對容易取得的生物檢體，而運用次世代定序 (NGS) 的液態",
       "source": "PubMed",
       "date": "2026-09-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42779982/",
@@ -140,7 +140,7 @@
     },
     {
       "title": "AI 輔助的 Cryo-ET 工作流程可在細胞分化過程中實現染色質的 3D 視覺化。",
-      "summary": "了解染色質結構在細胞分化過程中如何變化需要能夠以高解析度解析天然基因組組織的結構方法。 Here, we present an AI-assisted cryo-electron tomography (cryo-ET) and segmentation workflow to quantify chromatin compaction ...",
+      "summary": "了解染色質結構在細胞分化過程中如何變化需要能夠以高解析度解析天然基因組組織的結構方法。在這裡，我們提出了人工智慧輔助的冷凍電子斷層掃描（cryo-ET）和分割工作流程來量化染色質壓縮...",
       "source": "PubMed",
       "date": "2026-09-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42757094/",
@@ -155,7 +155,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Multifunctional TPU-HAp/HA-TiO",
+      "title": "多功能TPU-HAp/HA-TiO",
       "summary": "骨缺損和植入物相關感染仍然是骨科重建的主要挑戰，需要能夠促進骨整合同時防止細菌定植的多功能生物材料。這項工作旨在開發一種基於熱塑性塑膠的電紡奈米纖維膜...",
       "source": "PubMed",
       "date": "2026-09-27",
@@ -179,8 +179,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第一階段] 確認局部晚期可手術肺癌現有疾病後進行手術：一項試驗研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：蒙特利爾大學中心醫院 (CHUM)｜SAVED LUNG 研究是一項 I 期試驗，旨在評估在 Neoadj 後獲得完全臨床緩解的可手術 II-III 期（不包括 N3）NSCLC 患者（PD-L1 ≥50%）中的安全性與標準護理手術可行性",
+      "title": "[第一期臨床] 局部晚期可手術肺癌患者，術前確認現有疾病的試驗性研究",
+      "summary": "狀態：尚未招募｜主辦：蒙特婁大學醫院（CHUM）｜SAVED LUNG研究是一項第一期試驗性臨床試驗，旨在評估安全性與可行性",
       "source": "ClinicalTrials.gov｜Canada",
       "date": "2026-09-27",
       "url": "https://clinicaltrials.gov/study/NCT06743555",
@@ -219,8 +219,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "OLIG2抑制劑CT-179用於復發性及新診斷膠質母細胞瘤的一期臨床試驗",
-      "summary": "狀態：尚未招募｜主辦：Olivia Newton-John癌症研究中心｜這是一項首次人體的一期臨床試驗，採開放標籤、多中心、兩部分",
+      "title": "OLIG2抑制劑CT-179治療復發性與新診斷膠質母細胞瘤的第一期臨床試驗",
+      "summary": "這是一項首次人體試驗，將評估OLIG2抑制劑CT-179在復發性與新診斷膠質母細胞瘤患者的安全性與",
       "source": "ClinicalTrials.gov｜Australia",
       "date": "2026-09-27",
       "url": "https://clinicaltrials.gov/study/NCT07739017",
@@ -275,24 +275,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "新型CRISPR基因編輯工具實現噬菌體全基因組誘變",
-      "summary": "一種基於CRISPR的技術已開發出來，能破壞噬菌體基因組中的基因，為更快揭示基因功能並進行工程化改造開闢新途徑。",
+      "title": "新型CRISPR基因編輯工具，實現噬菌體全基因組誘變",
+      "summary": "一種基於CRISPR的基因編輯方法已開發成功，能破壞噬菌體基因組中的基因，加速找出基因功能並進行工程改造。",
       "source": "GEN News",
       "date": "2026-09-25",
       "url": "https://www.genengnews.com/topics/genome-editing/new-crispr-based-tool-enables-genome-wide-mutagenesis-of-bacteriophages/",
       "lang": "zh-TW"
     },
     {
-      "title": "《眼科世界週",
+      "title": "新型CAR-T療法治療難治型多",
       "summary": "",
-      "source": "eyeworld.org",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HYXlnWTZ2QlBDd0k4N0hmYjVnZUJPOGlkb3JLQkVxcVMxQzhpRkVBTHN4dmJtQkdQOWZPMkMtOGVxQjZRTWxiQkw5WExDdzctYmQzVDJnYzR0aE9FUlVnX0cxeG1nekdMZFRscEN4Rks5UQ?oc=5",
+      "source": "Medical Xpress",
+      "date": "2026-09-24",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWDJRT3JxOUhxVFJqSExOSVV6TnJHcEFsM01wRGh1QWNTbkV1aXpFNHZXWkVUcUZyVkJwOW9HY3Z4TXltSS04S2lkdi1JaVlHcVFfTE02cm5RcF9MQWRsc2trT3d6UmpZMzQyWEdkVmlxQ3p4NmdONEloRFNISWVzRDJRQWlFUEE?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞與外泌體為癌症治療後腎臟損傷帶來新希望",
-      "summary": "幹細胞與外泌體研究，為癌症治療後腎臟損傷提供潛在療法，帶來復原曙光。",
+      "title": "幹細胞與外泌體，為癌症治療受損的腎臟帶來曙光",
+      "summary": "研究顯示，幹細胞和外泌體有望修復癌症治療造成的腎臟損傷，為病患帶來新希望。",
       "source": "Bioengineer.org",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1WSHJBcy1VWVZvekNXWlc1R2lkWlBxQTMxYjJOY29VU2ZPNF9rNU1EWFczZWVMSEkyNW1pWVpmZ0FjUnFWZ242c2lhZjFFSXdlUkJFQm1DY19NQkVpcWItLWFpZFlYc2NPYU5FRGNhUmNNX0Q1c0phZGZ2Z0JvUW9BWlk3ZHBRemltcGh0V1kzUVdnbExjNFZITDJudw?oc=5",
@@ -316,8 +316,8 @@
     },
     {
       "title": "MSK 斯隆研究摘要，2026 年 9 月 14 日",
-      "summary": "026 紀念斯隆凱特琳癌症中心",
-      "source": "Memorial Sloan Kettering Cancer Center",
+      "summary": "",
+      "source": "mskcc.org",
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01cWhiU2M5VW1IUDhoM1FyQTd6Z3U1QWN1ODBoSy1MdUZvaVEzUFlUWXluSjQwUlBXaWRSWVhWRjZpYmtiaWo5MWZxRUthSjBDOVVhY1NNMnRic0lSb2QzT0pmVGstd1hUSGxuZURpc2FUUmZ2TThv?oc=5",
       "lang": "zh-TW"
