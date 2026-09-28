@@ -1,7 +1,15 @@
 {
   "module": "regulation",
-  "updated": "2026-09-28T01:20:43.909317+00:00",
+  "updated": "2026-09-28T18:21:16.511399+00:00",
   "items": [
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-09-28",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
     {
       "title": "美國食藥局（FDA） 科學公共研討會：用於生物製劑中外源性因子檢測的下一代定序 - 2026 年 9 月 23 日",
       "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
@@ -11,25 +19,9 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Altruist Biologics蘇州工廠獲得EMA GMP認證",
-      "summary": "該公司的品質風險管理框架能夠主動識別合規風險，減少與跨區域技術轉移相關的不確定性，並隨著療法向監管邁進提供更大的可預測性",
-      "source": "GEN News",
-      "date": "2026-09-24",
-      "url": "https://www.genengnews.com/topics/bioprocessing/altruist-biologics-suzhou-site-receives-ema-gmp-certification/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-09-23",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
       "title": "2026 年亞太地區首次獲批：完整列表",
-      "summary": "完整列表 biopharmaapac.com",
-      "source": "biopharmaapac.com",
+      "summary": "",
+      "source": "BioPharma APAC",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUJUb21RX3JlQkdYOXM4SU05X29TUXZoajkxNW1ldFhVNVNDVGpVQ0RLX1RMUkMzXzljS1lwWXVZd3VKUkw5aXRuZUJSbFpZbFhYbmx1aXh0cnVmRDRMNjNubVJtQXpJV3BBZTc0cFQyYXkyRXYtcmhYREhFcFlndjVlVzNhWGRZeTZQak1uOUoxMV9RUWVtV1lyZTI?oc=5",
       "lang": "zh-TW"

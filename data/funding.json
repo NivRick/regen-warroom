@@ -1,7 +1,39 @@
 {
   "module": "funding",
-  "updated": "2026-09-28T01:21:21.469507+00:00",
+  "updated": "2026-09-28T18:21:47.655470+00:00",
   "items": [
+    {
+      "title": "川普動用「備受爭議」權力，大砍衛生及公共服務部（HHS）更多經費",
+      "summary": "川普政府在週五深夜追回國會核准的將近10億美元開支，主要鎖定衛生及公共服務部（HHS）的多項計畫。",
+      "source": "STAT News",
+      "date": "2026-09-28",
+      "url": "https://www.statnews.com/2026/09/28/health-news-trump-uses-contested-power-to-cut-more-funding-to-hhs/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Once described as obesity medicines for ‘patients,’ GLP-1s are increasingly lifestyle drugs for ‘customers’",
+      "summary": "重磅炸彈 GLP-1 藥物改變了數百萬人的生活。最近，他们正在进行自己的改造。",
+      "source": "STAT News",
+      "date": "2026-09-28",
+      "url": "https://www.statnews.com/2026/09/28/glp1-marketing-shift-obesity-medicine-weight-loss-drug/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Kodiak skyrockets on positive study data for 2 eye drugs",
+      "summary": "第三階段的研究結果表明，Kodiak 可能對 Regeneron 的 Eylea 構成多重威脅，並使該公司的市值增加了超過 30 億美元。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-28",
+      "url": "https://www.biopharmadive.com/news/kodiak-tabirafusp-wet-amd-daybreak-study-results/831467/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "An ‘off-the-shelf’ CAR-T細胞療法 therapy from Adicet shows promise against lupus",
+      "summary": "一項早期試驗的數據顯示，該公司的「gamma delta」細胞療法超過了在狼瘡中測試的個人化 CAR-T細胞療法 療法設定的基準。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-28",
+      "url": "https://www.biopharmadive.com/news/adicet-gamma-delta-cell-therapy-lupus-study-results/831483/",
+      "lang": "zh-TW"
+    },
     {
       "title": "川普政府利用罕見的權力收回國會批准的近 10 億美元支出",
       "summary": "川普總統將取消國會批准的近 10 億美元支出，其中大部分削減都集中在為難民和無人陪伴的未成年人提供服務的 HHS 項目上。",
@@ -27,14 +59,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Kyverna 的細胞療法顯示出持久的自身免疫益處",
-      "summary": "Kyverna Therapeutics is one step closer to launching the first 細胞治療 for an autoimmune disease, with new data in hand showing many patients remained off of other therapies a",
-      "source": "STAT News",
-      "date": "2026-09-24",
-      "url": "https://www.statnews.com/2026/09/24/biotech-news-kyverna-cell-therapy-shows-lasting-autoimmune-benefit/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "RNAi 藥物專家 ADARx 首次公開募股籌集 4.46 億美元",
       "summary": "ADARx 是自 2024 年以來唯一一家上市的 RNA 藥物製造商，也是十多年來首家在美國進行 首次公開上市（IPO） 定價的 RNAi 生物技術公司。",
       "source": "BioPharma Dive",
@@ -43,32 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Merck reveals study success, and possible safety worries, for eye drug hopeful",
-      "summary": "以 13 億美元收購獲得的一種藥物在糖尿病性黃斑水腫兩項關鍵研究中的第一項中獲得通過，儘管有關該藥物安全性的言論引起了分析師的爭論。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-24",
-      "url": "https://www.biopharmadive.com/news/merck-remigromig-dme-study-results-eyebio/831234/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "禮來公司最新的中國藥品交易； Immunovant 在狼瘡治療中遭遇挫折",
-      "summary": "禮來公司在其自 2025 年 1 月以來的第四個以中國為重點的聯盟中投入了高達 33.5 億美元的資金。在其他方面，分析師現在對福泰 (Vertex) 的一個最大前景更有信心，並且一種 RNA 藥物成功治療了一種罕見的 ALS。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-24",
-      "url": "https://www.biopharmadive.com/news/lilly-innocare-immunovant-vertex-inaxaplin-otsuka-ionis/831044/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "人工智慧製藥商 Enveda 獲得 3.11 億美元風險投資",
-      "summary": "Enveda 正在使用人工智慧工具挖掘植物和微生物以尋找藥物前景，該公司在免疫疾病和肥胖症的人體測試方面擁有三種候選藥物。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-23",
-      "url": "https://www.biopharmadive.com/news/enveda-ai-drug-discovery-series-e/831161/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Belgium's Novadip Biosciences raises €10.4 million to fund pivotal 臨床試驗 and unlock EIB loan tranche",
-      "summary": "40 萬美元用於資助關鍵臨床試驗並解鎖 EIB 貸款部分 EU-Startups",
+      "title": "比利時 Novadip Biosciences 募得約1120萬美元，將用於資助關鍵性臨床試驗並啟動歐洲投資銀行（EIB）的貸款額度",
+      "summary": "Novadip Biosciences 募得約1120萬美元，將用於關鍵性臨床試驗及啟動歐洲投資銀行（EIB）貸款。",
       "source": "EU-Startups",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",
