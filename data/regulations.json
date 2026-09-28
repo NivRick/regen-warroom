@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-09-27T15:29:39.871451+00:00",
+  "updated": "2026-09-28T01:20:43.909317+00:00",
   "items": [
     {
-      "title": "美國食藥署（FDA）科學公開研討會：2026年9月23日探討次世代定序（NGS）在生物製劑外來病原體檢測的應用",
-      "summary": "這場研討會將邀請各領域專家和重要利害關係人，共同討論次世代定序",
+      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製劑中外源性因子檢測的下一代定序 - 2026 年 9 月 23 日",
+      "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
       "source": "09/23/2026",
       "date": "2026-09-25",
       "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/fda-scientific-public-workshop-next-generation-sequencing-adventitious-agent-detection-biologics",
@@ -27,19 +27,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年亞太地區首次獲準：完整列表",
-      "summary": "",
-      "source": "BioPharma APAC",
+      "title": "2026 年亞太地區首次獲批：完整列表",
+      "summary": "完整列表 biopharmaapac.com",
+      "source": "biopharmaapac.com",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUJUb21RX3JlQkdYOXM4SU05X29TUXZoajkxNW1ldFhVNVNDVGpVQ0RLX1RMUkMzXzljS1lwWXVZd3VKUkw5aXRuZUJSbFpZbFhYbmx1aXh0cnVmRDRMNjNubVJtQXpJV3BBZTc0cFQyYXkyRXYtcmhYREhFcFlndjVlVzNhWGRZeTZQak1uOUoxMV9RUWVtV1lyZTI?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "新型脂質體設計有望提供高效緩釋藥物傳輸系統",
-      "summary": "這項新型脂質體設計，有望為藥物傳輸帶來突破，提供更長效的緩釋效果。",
-      "source": "GEN News",
-      "date": "2026-09-23",
-      "url": "https://www.genengnews.com/topics/drug-discovery/new-liposome-design-could-provide-effective-slow-release-drug-delivery-system/",
       "lang": "zh-TW"
     },
     {
