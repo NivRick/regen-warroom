@@ -1,13 +1,29 @@
 {
   "module": "regulation",
-  "updated": "2026-09-29T02:25:23.371950+00:00",
+  "updated": "2026-09-29T16:44:27.319189+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑新知",
+      "summary": "這是美國FDA生物製劑評估與研究中心（CBER）的最新消息。",
+      "source": "FDA Biologics",
+      "date": "2026-09-29",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑相關程序（SOPPs）",
+      "summary": "這些標準作業程序與政策（SOPPs），是美國FDA生物製劑研究與審查中心",
+      "source": "FDA Biologics",
+      "date": "2026-09-29",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "羅塔利克斯",
+      "summary": "核准頁面顯示用於預防 G1 和非 G1 型（G3、G4 和 G9）引起的輪狀病毒胃腸炎，用於 6 週至 24 週齡的嬰兒。",
       "source": "FDA Biologics",
       "date": "2026-09-28",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/rotarix",
       "lang": "zh-TW"
     },
     {
@@ -23,15 +39,7 @@
       "summary": "",
       "source": "BioPharma APAC",
       "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUJUb21RX3JlQkdYOXM4SU05X29TUXZoajkxNW1ldFhVNVNDVGpVQ0RLX1RMUkMzXzljS1lwWXVZd3VKUkw5aXRuZUJSbFpZbFhYbmx1aXh0cnVmRDRMNjNubVJtQXpJV3BBZTc0cFQyYXkyRXYtcmhYREhFcFlndjVlVzNhWGRZeTZQak1uOUoxMV9RUWVtV1lyZTI?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品程序 (SOPP)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
-      "source": "FDA Biologics",
-      "date": "2026-09-21",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONm12Y05RVXQwekRIWGgzSVM2T0REcWdHamR6QUo1YmNKWHdEaDZiX2tiRjIteUI2MkRCMEFid0hIYXRQNVVMcEp0SEt1WFd4MkN4OTZFenJlUlZ4T2JtUWRKSFp3THhOS0pTWXBvaFdUdXllSVNub1IxbWFhdnB6RkViaDhtTzhiNEtCdmt6dzJZR3FyXy1lSllMQQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -44,8 +52,8 @@
     },
     {
       "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
-      "summary": "rd 數據 Pharma Letter",
-      "source": "The Pharma Letter",
+      "summary": "rld 資料 thepharmaletter.com",
+      "source": "thepharmaletter.com",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
       "lang": "zh-TW"

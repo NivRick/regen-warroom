@@ -1,7 +1,71 @@
 {
   "module": "funding",
-  "updated": "2026-09-29T02:25:52.679423+00:00",
+  "updated": "2026-09-29T16:45:07.129277+00:00",
   "items": [
+    {
+      "title": "STAT+: Anthropic 加入 ARPA-H 臨床人工智慧（AI）登月計畫，將舉辦閉門醫療保健活動",
+      "summary": "本期 STAT 醫療科技報導：Oura 延後首次公開募股（IPO）計畫，Anthropic 加入 ARPA-H 的臨床人工智慧（AI）計畫，以及",
+      "source": "STAT News",
+      "date": "2026-09-29",
+      "url": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：阿斯特捷利康向 Summit Therapeutics 投資 20 億美元",
+      "summary": "阿斯特捷利康正在與 Summit Therapeutics 合作，測試其 PD-1/VEGF 雙特異性 ivonescimab 以及阿斯特捷利康的抗體藥物偶聯物。",
+      "source": "STAT News",
+      "date": "2026-09-29",
+      "url": "https://www.statnews.com/2026/09/29/biotech-news-astrazeneca-invests-2-billion-in-summit-therapeautics/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關 Novo 獲得中國減肥藥許可、默克公司撤回抗生素等信息",
+      "summary": "Novo 已同意支付高達 26 億美元，從中國恆瑞製藥獲得實驗性每週減肥藥的許可",
+      "source": "STAT News",
+      "date": "2026-09-29",
+      "url": "https://www.statnews.com/pharmalot/2026/09/29/novo-licenses-obesity-pill-from-china-merck-pulls-antibiotic/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：UniQure 的基因療法四年後繼續減緩亨丁頓舞蹈症的進展",
+      "summary": "四年後，UniQure 的基因療法持續減緩亨廷頓舞蹈症的進展。但與一年前的類似分析相比，收益的幅度有所減弱。",
+      "source": "STAT News",
+      "date": "2026-09-29",
+      "url": "https://www.statnews.com/2026/09/29/uniqure-huntingtons-gene-therapy-slows-disease-progression-four-years/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：藥品定價、醫療補助與研究經費：中期選舉面臨的關鍵政策議題",
+      "summary": "醫療保健政策可能會出現重大轉變，具體取決於誰贏得中期選舉，從而影響醫院和製藥公司。",
+      "source": "STAT News",
+      "date": "2026-09-29",
+      "url": "https://www.statnews.com/2026/09/29/healthcare-industry-midterm-elections-analysis/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Novo 將向恆瑞支付高達 $2.6B 的每週一次的減肥藥",
+      "summary": "這項交易使 Novo 成為禮來公司市場領先的 Zepbound 的挑戰者，這家丹麥製藥商希望平息投資者對其未來的擔憂。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-29",
+      "url": "https://www.biopharmadive.com/news/novo-hengrui-oral-obesity-drug-deal/831607/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "UniQure 亨丁頓基因療法最新數據出爐，股價應聲重挫",
+      "summary": "分析師猜測，投資人期待在支持該藥物潛在核准的關鍵試驗四年追蹤數據中，看到更強的持久性結果。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-29",
+      "url": "https://www.biopharmadive.com/news/uniqure-huntingtons-four-year-data-gene-therapy-results/831611/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "AstraZeneca 投資",
+      "summary": "",
+      "source": "BioPharma Dive",
+      "date": "2026-09-29",
+      "url": "https://www.biopharmadive.com/news/summit-astrazeneca-ivonescimab-deal-pd1-vegf/752865/",
+      "lang": "zh-TW"
+    },
     {
       "title": "川普利用「有爭議的」權力削減對衛生與公眾服務部的更多資助",
       "summary": "週五深夜，川普政府收回了國會批准的近 10 億美元支出，針對許多關注移民和多元化的 HHS 項目",
@@ -27,43 +91,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "An ‘off-the-shelf’ CAR-T細胞療法 therapy from Adicet shows promise against lupus",
+      "title": "Adicet 的「現成」CAR-T細胞療法 療法顯示出對抗狼瘡的希望",
       "summary": "一項早期試驗的數據顯示，該公司的「gamma delta」細胞療法超過了在狼瘡中測試的個人化 CAR-T細胞療法 療法設定的基準。",
       "source": "BioPharma Dive",
       "date": "2026-09-28",
       "url": "https://www.biopharmadive.com/news/adicet-gamma-delta-cell-therapy-lupus-study-results/831483/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "川普政府利用罕見的權力收回國會批准的近 10 億美元支出",
-      "summary": "川普總統將取消國會批准的近 10 億美元支出，其中大部分削減都集中在為難民和無人陪伴的未成年人提供服務的 HHS 項目上。",
-      "source": "STAT News",
-      "date": "2026-09-26",
-      "url": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：羅氏流感藥物仿製藥許可交易旨在為大流行做好準備",
-      "summary": "著眼於大流行的防範，一個聯合國支持的機構簽署了與羅氏流感治療藥物仿製藥相關的分許可協議。",
-      "source": "STAT News",
-      "date": "2026-09-25",
-      "url": "https://www.statnews.com/pharmalot/2026/09/25/roche-xofluza-influenza-treatment-agreements/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關一位沉默寡言的 美國食藥局（FDA） 委員會提名人、一項 Novo 交易等的信息",
-      "summary": "川普總統的 美國食藥局（FDA） 領導提名人遭到參議員圍繞中國、疫苗和墮胎等熱門話題的盤問",
-      "source": "STAT News",
-      "date": "2026-09-25",
-      "url": "https://www.statnews.com/pharmalot/2026/09/25/reticent-fda-commish-nominee-novo-deal/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "RNAi drug specialist ADARx raises $446M 首次公開上市（IPO）",
-      "summary": "ADARx 是自 2024 年以來唯一一家上市的 RNA 藥物製造商，也是十多年來首家在美國進行 首次公開上市（IPO） 定價的 RNAi 生物技術公司。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-24",
-      "url": "https://www.biopharmadive.com/news/adarx-rnai-biotech-ipo-stock-pricing/831262/",
       "lang": "zh-TW"
     },
     {
