@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-09-29T16:44:27.319189+00:00",
+  "updated": "2026-09-30T01:47:06.476586+00:00",
   "items": [
     {
       "title": "生物製劑新知",
-      "summary": "這是美國FDA生物製劑評估與研究中心（CBER）的最新消息。",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
       "source": "FDA Biologics",
       "date": "2026-09-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -12,10 +12,18 @@
     },
     {
       "title": "生物製劑相關程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs），是美國FDA生物製劑研究與審查中心",
+      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局",
       "source": "FDA Biologics",
       "date": "2026-09-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "默克 (Merck) 與 SciBrunch 啟動高達 2.13B 美元的合作，開發臨床前 KRAS 抑制分子膠",
+      "summary": "默克同意向 SciBrunch 支付高達 21.3 億美元的費用，其中包括 4 億美元的預付款，其餘款項與實現多個適應症的里程碑有關。\n開發臨床前 KRAS 抑制分子膠應用程式的後期實驗",
+      "source": "GEN News",
+      "date": "2026-09-29",
+      "url": "https://www.genengnews.com/topics/cancer/merck-scibrunch-launch-up-to-2-13b-collaboration-to-develop-preclinical-kras-inhibiting-molecular-glue/",
       "lang": "zh-TW"
     },
     {
@@ -35,11 +43,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年亞太地區首次獲準：完整列表",
+      "title": "2026 年亞太地區首次獲批：完整列表",
       "summary": "",
       "source": "BioPharma APAC",
       "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONm12Y05RVXQwekRIWGgzSVM2T0REcWdHamR6QUo1YmNKWHdEaDZiX2tiRjIteUI2MkRCMEFid0hIYXRQNVVMcEp0SEt1WFd4MkN4OTZFenJlUlZ4T2JtUWRKSFp3THhOS0pTWXBvaFdUdXllSVNub1IxbWFhdnB6RkViaDhtTzhiNEtCdmt6dzJZR3FyXy1lSllMQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUJUb21RX3JlQkdYOXM4SU05X29TUXZoajkxNW1ldFhVNVNDVGpVQ0RLX1RMUkMzXzljS1lwWXVZd3VKUkw5aXRuZUJSbFpZbFhYbmx1aXh0cnVmRDRMNjNubVJtQXpJV3BBZTc0cFQyYXkyRXYtcmhYREhFcFlndjVlVzNhWGRZeTZQak1uOUoxMV9RUWVtV1lyZTI?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -52,8 +60,8 @@
     },
     {
       "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
-      "summary": "rld 資料 thepharmaletter.com",
-      "source": "thepharmaletter.com",
+      "summary": "rd 數據 Pharma Letter",
+      "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
       "lang": "zh-TW"

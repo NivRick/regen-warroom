@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-09-29T16:45:07.129277+00:00",
+  "updated": "2026-09-30T01:47:55.062780+00:00",
   "items": [
     {
-      "title": "STAT+: Anthropic 加入 ARPA-H 臨床人工智慧（AI）登月計畫，將舉辦閉門醫療保健活動",
-      "summary": "本期 STAT 醫療科技報導：Oura 延後首次公開募股（IPO）計畫，Anthropic 加入 ARPA-H 的臨床人工智慧（AI）計畫，以及",
+      "title": "STAT+：Beam Therapeutics 起訴中國生物技術、創投支持的新創公司，指控其竊取智慧財產權",
+      "summary": "基因編輯公司 Beam Therapeutics 指控其一名科學家竊取了智慧財產權，並利用其共同創立了一家與創投公司達成交易的中國公司。",
+      "source": "STAT News",
+      "date": "2026-09-29",
+      "url": "https://www.statnews.com/2026/09/29/beam-therapeutics-yoltech-serapha-gene-editing-lawsuit/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Anthropic 加入 ARPA-H 臨床人工智慧登月計劃，將舉辦閉門醫療保健活動",
+      "summary": "在本期 STAT Health Tech 中：Oura 推遲 首次公開上市（IPO） 計劃、Anthropic 加入 ARPA-H 的臨床人工智慧工作以及 MAHA 的健康數據目標。",
       "source": "STAT News",
       "date": "2026-09-29",
       "url": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
@@ -51,35 +59,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "UniQure 亨丁頓基因療法最新數據出爐，股價應聲重挫",
-      "summary": "分析師猜測，投資人期待在支持該藥物潛在核准的關鍵試驗四年追蹤數據中，看到更強的持久性結果。",
+      "title": "UniQure 亨廷頓基因治療的最新數據大跌",
+      "summary": "分析師猜測，投資者希望在支持「AMT-130」潛在批准的關鍵試驗的四年檢查中看到更強的耐久性結果。",
       "source": "BioPharma Dive",
       "date": "2026-09-29",
       "url": "https://www.biopharmadive.com/news/uniqure-huntingtons-four-year-data-gene-therapy-results/831611/",
       "lang": "zh-TW"
     },
     {
-      "title": "AstraZeneca 投資",
-      "summary": "",
+      "title": "阿斯特捷利康在 Summit 投資 20 億美元，為 PD-1/VEGF 藥物推廣贏得“席位”",
+      "summary": "此次股權投資與一項測試 Summit 的 ivonescimab 以及潛在的許多阿斯特捷利康藥物的協議一起進行，但並未授予這家製藥公司任何所有權。",
       "source": "BioPharma Dive",
       "date": "2026-09-29",
       "url": "https://www.biopharmadive.com/news/summit-astrazeneca-ivonescimab-deal-pd1-vegf/752865/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "川普利用「有爭議的」權力削減對衛生與公眾服務部的更多資助",
-      "summary": "週五深夜，川普政府收回了國會批准的近 10 億美元支出，針對許多關注移民和多元化的 HHS 項目",
-      "source": "STAT News",
-      "date": "2026-09-28",
-      "url": "https://www.statnews.com/2026/09/28/health-news-trump-uses-contested-power-to-cut-more-funding-to-hhs/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：GLP-1 曾經被描述為「患者」的肥胖藥物，現在越來越多地成為「顧客」的生活方式藥物",
-      "summary": "重磅炸彈 GLP-1 藥物改變了數百萬人的生活。最近，他們正在進行自己的改造。",
-      "source": "STAT News",
-      "date": "2026-09-28",
-      "url": "https://www.statnews.com/2026/09/28/glp1-marketing-shift-obesity-medicine-weight-loss-drug/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
