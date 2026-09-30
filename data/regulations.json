@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-09-30T01:47:06.476586+00:00",
+  "updated": "2026-09-30T16:35:59.249920+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-09-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局",
+      "title": "生物製劑相關作業程序（SOPPs）",
+      "summary": "這些標準作業程序與政策（SOPPs）是美國",
       "source": "FDA Biologics",
       "date": "2026-09-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -46,8 +46,8 @@
       "title": "2026 年亞太地區首次獲批：完整列表",
       "summary": "",
       "source": "BioPharma APAC",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUJUb21RX3JlQkdYOXM4SU05X29TUXZoajkxNW1ldFhVNVNDVGpVQ0RLX1RMUkMzXzljS1lwWXVZd3VKUkw5aXRuZUJSbFpZbFhYbmx1aXh0cnVmRDRMNjNubVJtQXpJV3BBZTc0cFQyYXkyRXYtcmhYREhFcFlndjVlVzNhWGRZeTZQak1uOUoxMV9RUWVtV1lyZTI?oc=5",
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUhLWGNrT0p0TzJ2b05LWHFUZTFua01weUhPdkp2a2RfbnBSZE0tbzh4Vm0tandUdTRPR2hubThmX3hnaXcyNXd6dFlHZzA4VTBUOFhXOV9vSEFfRF90UDJKN2ZJTnFOaGdHMWtINmc3M2dSOEhYdTRtUUJES254QTFQYjM5WWdkaTE4eURlUFZZNFB0cEdHc1p6Zw?oc=5",
       "lang": "zh-TW"
     },
     {

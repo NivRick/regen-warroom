@@ -1,42 +1,42 @@
 {
   "module": "tourism",
-  "updated": "2026-09-30T01:48:05.527087+00:00",
+  "updated": "2026-09-30T16:36:51.705659+00:00",
   "items": [
     {
-      "title": "報導指出：美國新指引闡明百分之百關稅的豁免條款",
-      "summary": "根據報導，美國發布了新的指導方針，詳細說明了針對特定產品實施百分之百關稅的豁免條件，為相關產業帶來潛在影響。",
+      "title": "美國免除從印度和其他19個國家進口的特殊藥品關稅",
+      "summary": "來自印度和其他 19 個國家的 AIR 新聞",
+      "source": "News On AIR",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWxrUkJmUGRWMTVJRFlyRXI0U2NvQkZZMUplNDdQWFJpWWJVMXFjOENnQmM5Z3hoR1ZiV0s1QVZFbEhNYVlZa1E4NTZfQmJ3R0FxRkhTUGktdEhaSTM1OGxyV0gyMGxZN0xJWndLcXVSaUJHdWxBbWRIZUd0V1RzX09yR2p4Y01EdHNwYzBla1ZIRWZibjlMajlUYU5heC1ldjZoR1RMOA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "報導：美國新指引闡明百分之百關稅的豁免條",
+      "summary": "",
       "source": "Pharmaceutical Executive",
       "date": "2026-09-29",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeG44ZlVCcmgyZHBZbTZPazhfTXNvc0FndXFqUHFVVzJoNy03X2l2NGxZNF9IVVRVVkxrd216MVc2UXRrVm5DSU8xQ1g1aUo1eURiSks1MXVlVjNjbV9Fc1hsc1FEdVV2b3gtX0dRTTcwZk5ZbWQyTHEzclN5dW91ZEFpS2dFam1ra3NkYk9R?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國核准孟加拉部分特殊藥品享零關稅待遇",
-      "summary": "美國政府已批准對孟加拉國出口的特定特殊藥品實施零關稅政策，此舉預計將有助於孟加拉藥品產業的發展。",
+      "title": "美國對部分孟加拉國特種藥品給予零關稅",
+      "summary": "德氏特種藥物 thefinancialtoday.net",
       "source": "thefinancetoday.net",
       "date": "2026-09-29",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ldFpEM2FSUy1ObjU5VWZFaktfcXN6azNCRlVsZVgzcUtQY2J0MFhYSG5KbVFtRzhIVDQ5S25YWVhLVlRmR1g3S1M0bUl1c0dlTmZJay1LU1BuOElJaXRYNFhn?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "印度獲得美國特殊藥品關稅減免",
-      "summary": "美國政府已決定給予印度出口的特殊藥品關稅減免待遇，這項政策預計將有助於降低印度藥品進入美國市場的成本，對印度生醫產業是一大利多。",
+      "title": "印度獲得美國特種藥品關稅減免",
+      "summary": "",
       "source": "thehitavada.com",
       "date": "2026-09-29",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYlVRYk0yMUxtZVV5VDljcWkzM2tsYld5Y05ST1N2MTdzX2lnNlJXYThLeFBpNzRDNnlwUHNYZEJ6dmVUWl9URG9MdDF6V0NXYjk1UHozZHlIMHFlZWE4MXhvM0lidEg4bWZ2WW5KbHNtUXZGRElRYzNJVEpqRjRuVnlRRzczSjVKMUlrMnVGRzZCa05Ddld3?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國豁免孟加拉及其他19國特殊藥品關稅",
-      "summary": "美國政府宣布，將對來自孟加拉國以及其他19個國家的特殊藥品實施關稅豁免，此舉將影響多國的藥品出口與貿易。",
-      "source": "TheReport.live",
-      "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUGVhdkVRRmNmaURJak5RWFhuZUJDd2RmSkFPVU5UaGh4UUFfeDlBamEyWVlveV9nWnNpSXF5TE9jTUZnQTd0ZGh3UjJHd3lRbGFGTnoyb016enJ0UzE0N1REcmZFNFlPaXVMQURFTWt3QjVQcDFfenpsSGowSjlucnVEOU5BSVhCeHJoWmozVU1PdXMxclVOYWdoaWU5cHdvVXJaYUNKSDhGdlFBbkFYNWhlLTA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "專題報導：再生醫療普及，日本考慮加強監管",
-      "summary": "隨著再生醫療技術在日本日益普及，日本政府正審慎評估並考慮制定更嚴格的法規，以確保治療的安全與品質。",
+      "title": "專題報導：日本研擬收緊再生醫療法規，因應療法普及",
+      "summary": "共同社報導，隨著再生醫療療法在日本越來越普及，日本政府正考量收緊相關法規。",
       "source": "Japan Wire by Kyodo News",
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WOHZLZmVGLXJmX0tzQjMxeGdGakxSRFhGWUpJTFVLVjY2YU9CdmRwTlpXWU5lX0J0T1MtMVJlN09uNlJaSjFFaHZVMjdmNHBLMHA3V25jaWFHdw?oc=5",

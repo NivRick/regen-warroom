@@ -1,10 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-09-30T01:47:55.062780+00:00",
+  "updated": "2026-09-30T16:36:33.341444+00:00",
   "items": [
     {
-      "title": "STAT+：Beam Therapeutics 起訴中國生物技術、創投支持的新創公司，指控其竊取智慧財產權",
-      "summary": "基因編輯公司 Beam Therapeutics 指控其一名科學家竊取了智慧財產權，並利用其共同創立了一家與創投公司達成交易的中國公司。",
+      "title": "STAT+：生技產業三則快訊：竊盜疑雲與遊說新舵手",
+      "summary": "Beam Therapeutics 提起訴訟，指控其一名前科學家竊取智慧財產，並利用這些資料與他人共同創立一家中國公司。",
+      "source": "STAT News",
+      "date": "2026-09-30",
+      "url": "https://www.statnews.com/2026/09/30/biotech-news-updates-accusations-of-theft-new-phrma-guy/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "PhRMA 任命下一任執行長；皮爾法伯 (Pierre Fabre) 在埃布瓦洛 (Ebvallo) 獲得批准後第三次行動",
+      "summary": "一位前國會議員將接替著名說客史蒂夫·烏布爾(Steve Ubl)。在其他地方，最近的收購交易為 Mirum 和 AbbVie 帶來了股息。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-30",
+      "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Beam Therapeutics 控",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-09-29",
       "url": "https://www.statnews.com/2026/09/29/beam-therapeutics-yoltech-serapha-gene-editing-lawsuit/?utm_campaign=rss",
@@ -43,14 +59,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：藥品定價、醫療補助與研究經費：中期選舉面臨的關鍵政策議題",
-      "summary": "醫療保健政策可能會出現重大轉變，具體取決於誰贏得中期選舉，從而影響醫院和製藥公司。",
-      "source": "STAT News",
-      "date": "2026-09-29",
-      "url": "https://www.statnews.com/2026/09/29/healthcare-industry-midterm-elections-analysis/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Novo 將向恆瑞支付高達 $2.6B 的每週一次的減肥藥",
       "summary": "這項交易使 Novo 成為禮來公司市場領先的 Zepbound 的挑戰者，這家丹麥製藥商希望平息投資者對其未來的擔憂。",
       "source": "BioPharma Dive",
@@ -59,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "UniQure 亨廷頓基因治療的最新數據大跌",
-      "summary": "分析師猜測，投資者希望在支持「AMT-130」潛在批准的關鍵試驗的四年檢查中看到更強的耐久性結果。",
+      "title": "UniQure亨丁頓基因療法最新數據出爐，股價應聲重挫",
+      "summary": "分析師猜測，投資人希望在關鍵試驗的四年追蹤中，看到更強的持久性數據，以支持該療法未來可能獲得核准。",
       "source": "BioPharma Dive",
       "date": "2026-09-29",
       "url": "https://www.biopharmadive.com/news/uniqure-huntingtons-four-year-data-gene-therapy-results/831611/",
       "lang": "zh-TW"
     },
     {
-      "title": "阿斯特捷利康在 Summit 投資 20 億美元，為 PD-1/VEGF 藥物推廣贏得“席位”",
-      "summary": "此次股權投資與一項測試 Summit 的 ivonescimab 以及潛在的許多阿斯特捷利康藥物的協議一起進行，但並未授予這家製藥公司任何所有權。",
+      "title": "阿斯特捷",
+      "summary": "",
       "source": "BioPharma Dive",
       "date": "2026-09-29",
       "url": "https://www.biopharmadive.com/news/summit-astrazeneca-ivonescimab-deal-pd1-vegf/752865/",
@@ -92,8 +100,8 @@
     },
     {
       "title": "比利時 Novadip Biosciences 融資 1,040 萬歐元，資助關鍵臨床試驗並解鎖 EIB 貸款",
-      "summary": "40 萬美元用於資助關鍵臨床試驗並解鎖 EIB 貸款部分 EU-Startups",
-      "source": "EU-Startups",
+      "summary": "40 萬美元用於資助關鍵臨床試驗並解鎖 EIB 貸款部分 eu-startups.com",
+      "source": "eu-startups.com",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",
       "lang": "zh-TW"
