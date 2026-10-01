@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-10-01T01:42:57.927007+00:00",
+  "updated": "2026-10-01T17:14:53.856973+00:00",
   "items": [
     {
       "title": "BIVIGAM",
-      "summary": "這項產品核准資訊指出，它主要用於治療原發性體液免疫缺陷。",
+      "summary": "這項產品已獲核准，可用於治療原發性體液免疫缺陷。",
       "source": "FDA Biologics",
       "date": "2026-09-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/bivigam",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "這是美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的",
+      "title": "生物製劑新訊",
+      "summary": "這是美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-09-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -35,15 +35,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "默克 (Merck) 與 SciBrunch 啟動高達 2.13B 美元的合作，開發臨床前 KRAS 抑制分子膠",
-      "summary": "默克同意向 SciBrunch 支付高達 21.3 億美元的費用，其中包括 4 億美元的預付款，其餘款項與實現多個適應症的里程碑有關。\n開發臨床前 KRAS 抑制分子膠應用程式的後期實驗",
+      "title": "默克、SciBrunch啟動最高達21.3億美元合作案，共同開發臨床前KRAS抑制型分子膠藥物",
+      "summary": "默克（Merck）與SciBrunch攜手，啟動一項最高達21.3億美元的合作案，目標是共同開發臨床前階段的KRAS抑制型分子膠藥物，鎖定癌症治療新方向。",
       "source": "GEN News",
       "date": "2026-09-29",
       "url": "https://www.genengnews.com/topics/cancer/merck-scibrunch-launch-up-to-2-13b-collaboration-to-develop-preclinical-kras-inhibiting-molecular-glue/",
       "lang": "zh-TW"
     },
     {
-      "title": "羅塔利克斯",
+      "title": "ROTARIX",
       "summary": "核准頁面顯示用於預防 G1 和非 G1 型（G3、G4 和 G9）引起的輪狀病毒胃腸炎，用於 6 週至 24 週齡的嬰兒。",
       "source": "FDA Biologics",
       "date": "2026-09-28",
@@ -64,14 +64,6 @@
       "source": "BioPharma APAC",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUhLWGNrT0p0TzJ2b05LWHFUZTFua01weUhPdkp2a2RfbnBSZE0tbzh4Vm0tandUdTRPR2hubThmX3hnaXcyNXd6dFlHZzA4VTBUOFhXOV9vSEFfRF90UDJKN2ZJTnFOaGdHMWtINmc3M2dSOEhYdTRtUUJES254QTFQYjM5WWdkaTE4eURlUFZZNFB0cEdHc1p6Zw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CBER 2026 孤兒批准（新 BLA）",
-      "summary": "",
-      "source": "FDA Biologics",
-      "date": "2026-09-21",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
       "lang": "zh-TW"
     },
     {

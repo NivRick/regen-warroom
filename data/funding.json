@@ -1,13 +1,45 @@
 {
   "module": "funding",
-  "updated": "2026-10-01T01:43:20.658845+00:00",
+  "updated": "2026-10-01T17:15:28.070057+00:00",
   "items": [
     {
-      "title": "STAT+：三個生物技術更新，包括竊盜指控和新的遊說領袖",
-      "summary": "Beam Therapeutics 提起訴訟，指控其一名前科學家竊取智慧財產權，並利用其共同創立了一家中國公司，該公司最近與著名風險投資公司達成了一項交易",
+      "title": "科學信任危機與備受矚目的基因編輯訴訟案",
+      "summary": "本週節目將深入探討美國民眾對科學信任度下降的原因，並解析一宗備受矚目的基因編輯訴訟案的最新進展。",
       "source": "STAT News",
-      "date": "2026-09-30",
-      "url": "https://www.statnews.com/2026/09/30/biotech-news-updates-accusations-of-theft-new-phrma-guy/?utm_campaign=rss",
+      "date": "2026-10-01",
+      "url": "https://www.statnews.com/2026/10/01/readout-loud-podcast-trust-in-science-gene-editing-lawsuit/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：為何亨丁頓氏症患者對Uni",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-10-01",
+      "url": "https://www.statnews.com/2026/10/01/huntingtons-disease-uniqure-drug-study-results-patients/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：在上海“科學城”，中國方興未艾的生物技術走向世界",
+      "summary": "一場雄心勃勃的小型會議反映了中國生物技術的快速發展，並與同樣以交易聞名的美國生物技術聚會進行了比較。",
+      "source": "STAT News",
+      "date": "2026-10-01",
+      "url": "https://www.statnews.com/2026/10/01/china-biotech-boom-jefferies-conference-shanghai/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "賽諾菲 (Sanofi) 與再生元 (Regeneron) 擴大聯盟，尋找下一個 Dupixent",
+      "summary": "該交易包含 10 億美元的預付款，並要求兩家公司開發長效抗體藥物，目標與他們的重磅抗發炎藥物相同。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-01",
+      "url": "https://www.biopharmadive.com/news/sanofi-regeneron-alliance-expanded-dupixent-immunology-drugs-development/831894/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "隨著中國競爭的臨近，美國衛生與公眾服務部啟動新計畫以加速臨床試驗速度",
+      "summary": "該部門正在為提出創新提案的團隊提供資金，因為它正在考慮結束傳統的分階段臨床試驗系統。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-01",
+      "url": "https://www.biopharmadive.com/news/hhs-clinical-trial-speed-arpa-h-drug-testing/831909/",
       "lang": "zh-TW"
     },
     {
@@ -16,30 +48,6 @@
       "source": "BioPharma Dive",
       "date": "2026-09-30",
       "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Beam Therapeutics 起訴中國生物技術、創投支持的新創公司，指控其竊取智慧財產權",
-      "summary": "基因編輯公司 Beam Therapeutics 指控其一名科學家竊取了智慧財產權，並利用其共同創立了一家與創投公司達成交易的中國公司。",
-      "source": "STAT News",
-      "date": "2026-09-29",
-      "url": "https://www.statnews.com/2026/09/29/beam-therapeutics-yoltech-serapha-gene-editing-lawsuit/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Anthropic 加入 ARPA-H 臨床人工智慧登月計劃，將舉辦閉門醫療保健活動",
-      "summary": "在本期 STAT Health Tech 中：Oura 推遲 首次公開上市（IPO） 計劃、Anthropic 加入 ARPA-H 的臨床人工智慧工作以及 MAHA 的健康數據目標。",
-      "source": "STAT News",
-      "date": "2026-09-29",
-      "url": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：阿斯特捷利康向 Summit Therapeutics 投資 20 億美元",
-      "summary": "阿斯特捷利康正在與 Summit Therapeutics 合作，測試其 PD-1/VEGF 雙特異性 ivonescimab 以及阿斯特捷利康的抗體藥物偶聯物。",
-      "source": "STAT News",
-      "date": "2026-09-29",
-      "url": "https://www.statnews.com/2026/09/29/biotech-news-astrazeneca-invests-2-billion-in-summit-therapeautics/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -59,32 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "阿斯特捷利康在 Summit 投資 20 億美元，為 PD-1/VEGF 藥物推廣贏得“席位”",
-      "summary": "此次股權投資與一項測試 Summit 的 ivonescimab 以及潛在的許多阿斯特捷利康藥物的協議一起進行，但並未授予這家製藥公司任何所有權。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-29",
-      "url": "https://www.biopharmadive.com/news/summit-astrazeneca-ivonescimab-deal-pd1-vegf/752865/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Kodiak 因 2 種眼科藥物的積極研究數據而飆升",
-      "summary": "第三階段的研究結果表明，Kodiak 可能對 Regeneron 的 Eylea 構成多重威脅，並使該公司的市值增加了超過 30 億美元。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-28",
-      "url": "https://www.biopharmadive.com/news/kodiak-tabirafusp-wet-amd-daybreak-study-results/831467/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Adicet 的「現成」CAR-T細胞療法 療法顯示出對抗狼瘡的希望",
-      "summary": "一項早期試驗的數據顯示，該公司的「gamma delta」細胞療法超過了在狼瘡中測試的個人化 CAR-T細胞療法 療法設定的基準。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-28",
-      "url": "https://www.biopharmadive.com/news/adicet-gamma-delta-cell-therapy-lupus-study-results/831483/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "比利時 Novadip Biosciences 融資 1,040 萬歐元，資助關鍵臨床試驗並解鎖 EIB 貸款",
-      "summary": "40 萬美元用於資助關鍵臨床試驗並解鎖 EIB 貸款部分 EU-Startups",
+      "title": "比利時 Novadip Biosciences 募得約 1123 萬美元，以資助關鍵性臨床試驗並啟動歐洲投資銀行（EIB）的貸款額度",
+      "summary": "比利時生技公司 Novadip Biosciences 成功募得約 1123 萬美元，這筆資金將用於推動其關鍵性臨床試驗，並進一步啟動歐洲投資銀行（EIB）的貸款額度，加速產品開發。",
       "source": "EU-Startups",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",
