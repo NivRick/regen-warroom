@@ -1,20 +1,20 @@
 {
   "module": "research",
-  "updated": "2026-09-30T16:35:22.976228+00:00",
+  "updated": "2026-10-01T01:42:22.361631+00:00",
   "items": [
     {
-      "title": "可設計的扭轉緻密化途徑，打造具生物活性膠原蛋白水凝膠纖維，力學特性媲美肌腱",
-      "summary": "重組膠原蛋白水凝膠具備承重組織工程所需的生物活性，但其模數（從帕斯卡到低千帕）限制了其應用。",
+      "title": "可設計的扭轉緻密化途徑，打造具生物活性膠原蛋白水凝膠紗線，力學特性媲美肌腱",
+      "summary": "重組膠原蛋白水凝膠具備承重組織工程所需的生物活性，但其帕斯卡（Pascal）到低千帕（kPa）的模",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42781499/",
       "lang": "zh-TW"
     },
     {
       "title": "可自交聯、黏性的腸源性細胞外基質水凝膠可增強類器官的保留並恢復腸道屏障的完整性。",
-      "summary": "腸道屏障的破壞會損害胃腸道的基本功能並引發嚴重的發炎。因此，腸道類器官移植透過促進再生來恢復受損腸道屏障的完整性。然而，動態黏膜微...",
+      "summary": "腸道屏障的破壞會損害胃腸道的基本功能並引發嚴重的發炎。因此，腸道類器官的移植透過促進再生來恢復受損腸道屏障的完整性。然而，動態黏膜微...",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42781296/",
       "lang": "zh-TW"
     },
@@ -22,7 +22,7 @@
       "title": "點擊化學修飾的心肌細胞增強心肌收縮力並防止缺血再灌注損傷的心臟重塑。",
       "summary": "使用源自人類多能幹細胞（hPSC-CM）的心肌細胞進行心臟細胞治療的挑戰之一是它們在梗塞組織中的植入和存活率較差。點擊化學和脂質插入是用膠原蛋白雜化物修飾 hPSC-CM 表面的簡單方法...",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42780908/",
       "lang": "zh-TW"
     },
@@ -30,7 +30,7 @@
       "title": "在雙層微腔陣列中設計卵巢不對稱機械生態位可增強小鼠次級卵泡發育和卵母細胞能力。",
       "summary": "隨著全球人口老化和生育率下降，保護生殖健康已成為一項重要的生物醫學挑戰。",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42761305/",
       "lang": "zh-TW"
     },
@@ -38,7 +38,7 @@
       "title": "用於骨再生的釋氫生物材料：機制、設計策略與應用。",
       "summary": "由於其多方面的病理微環境，複雜的骨缺損仍然是主要的臨床挑戰。近年來，氫（H",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42751209/",
       "lang": "zh-TW"
     },
@@ -46,7 +46,7 @@
       "title": "用於傷口修復的生物活性檸檬酸鹽水凝膠：從結構功能設計到微環境調節。",
       "summary": "慢性不癒合傷口的特徵是持續感染、慢性發炎和血管生成缺陷的複雜微環境，對再生醫學構成了重大障礙。基於檸檬酸鹽的化學已成為工程生物指導材料的複雜平台...",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42741660/",
       "lang": "zh-TW"
     },
@@ -54,7 +54,7 @@
       "title": "類器官智慧形態組學：透過人工智慧從表型量化到機制洞察對類器官形態組進行解碼。",
       "summary": "類器官作為能夠重現天然器官結構和功能的三維生物活性微組織，已成為生物醫學研究中有價值的模型。然而，它們的廣泛採用受到主觀形態學評估和終點檢測的限制，這些評估和終點檢測損害了標準…",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42733575/",
       "lang": "zh-TW"
     },
@@ -62,23 +62,23 @@
       "title": "用於組織工程再生週邊神經介面的超音波激活壓電肌肉結構。",
       "summary": "再生週邊神經介面（RPNI）是能夠將神經活動轉化為可控肌電訊號的新興平台。然而，目前的臨床 RPNI 依賴肌肉自體移植，限制了其可擴展性和廣泛採用。在這裡，我們報告了一種生物活性、超音波修復...",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42729621/",
       "lang": "zh-TW"
     },
     {
       "title": "生物分子凝聚介導材料：相態、相變與生醫應用",
-      "summary": "生物分子凝聚（coacervation）越來越被視為一種相演化過程，包含液-液相分離（LLPS），進而形成...",
+      "summary": "生物分子凝聚作用越來越被視為一種相態演化過程，其中包含液-液相分離（LLPS）。",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42729408/",
       "lang": "zh-TW"
     },
     {
-      "title": "可程式化四維（4D）列印永",
+      "title": "可程式化四維列印永續多功能光敏樹脂，具備組織匹配",
       "summary": "",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42761431/",
       "lang": "zh-TW"
     },
@@ -86,7 +86,7 @@
       "title": "圍手術期高壓氧治療：機轉、證據及臨床應用。",
       "summary": "高壓氧療法在高於大氣壓力的壓力下提供 100% 的氧氣，使血漿氧含量和組織氧合作用高於正常含氧量水平。高壓氧治療曾經僅限於減壓疾病，現在作為一種圍手術期輔助手段而得到認可，有可能減輕...",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42734465/",
       "lang": "zh-TW"
     },
@@ -94,15 +94,15 @@
       "title": "成纖維細胞相關的 TPM2 將細胞基質重塑與肝內膽管癌中的 EMT-Notch 訊號傳導和吉西他濱抗藥性聯繫起來。",
       "summary": "肝內膽管癌（ICC）是一種侵襲性肝臟惡性腫瘤，對基於吉西他濱的化療具有異質性反應。與吉西他濱反應相關的細胞和微環境程序仍未完全了解。本研究旨在確定腫瘤微環境...",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42766730/",
       "lang": "zh-TW"
     },
     {
-      "title": "免疫檢查點敲除篩選揭示 TIGIT-CD155 交互作用是急性骨髓性白血病中接頭 CAR-T細胞療法 細胞功能的重要調節因子。",
+      "title": "免疫檢查點敲除篩選揭示 TIGIT-CD155 交互作用是急性髓性白血病中接頭 CAR-T細胞療法 細胞功能的重要調節因子。",
       "summary": "急性骨髓性白血病 (AML) 的嵌合抗原受體 (CAR) T 細胞療法面臨嚴峻挑戰，包括嚴重的脫靶毒性、抗原異質性和主要免疫逃脫機制。為了解決這些限制，我們之前開發了適配器 CAR (AdCAR) 平台...",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42750591/",
       "lang": "zh-TW"
     },
@@ -110,7 +110,7 @@
       "title": "揭開 IBD 的抗藥性網絡：腸道微生物群-免疫-表觀遺傳學軸。",
       "summary": "發炎性腸道疾病（IBD）精準治療中的抗藥性仍然是臨床結果的關鍵障礙，傳統研究專注於單分子或孤立的途徑，但未能係統地剖析腸道微生物之間的雙向、上下文相關的動態串擾。",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42678063/",
       "lang": "zh-TW"
     },
@@ -118,7 +118,7 @@
       "title": "臨床 CAR-T細胞療法 細胞產品的轉導效率：單中心回顧性研究。",
       "summary": "轉導效率（TE）是衡量CAR T細胞製造品質的關鍵指標；然而，其變異性以及與最終產品表型的關係仍未完全了解。在這項回顧性研究中，我們評估了 204 種 GMP 製造的 CAR-T細胞療法 細胞產品的 TE，整合了製造...",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42774806/",
       "lang": "zh-TW"
     },
@@ -126,15 +126,15 @@
       "title": "平衡地形引導和空間容量：優化微圖案絲的空間密度，以增強週邊神經再生。",
       "summary": "神經引導導管（NGC）需要腔內填充物來橋接臨界大小的周邊神經缺陷，但平衡地形引導與足夠的再生空間仍然是一個基本的「空間悖論」。在此，設計了一種分層複合神經支持導管，包括...",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42787987/",
       "lang": "zh-TW"
     },
     {
-      "title": "利用無細胞去氧核醣核酸 (cfDNA) 與無細胞核醣核酸 (cfRNA) 診斷及監測原發性與轉移性中樞神經系統 (CNS) 腫瘤",
-      "summary": "腦脊髓液 (CSF) 是一種相對容易取得的生物檢體，而",
+      "title": "利用無細胞去氧核醣核酸（cfDNA）與核醣核酸（cfRNA）診斷及監測原發性與轉移性中樞神經系統腫瘤",
+      "summary": "腦脊髓液（CSF）是一種相對容易取得的生物檢體，而利用次世代定序（NGS）進行的",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42779982/",
       "lang": "zh-TW"
     },
@@ -142,7 +142,7 @@
       "title": "AI 輔助的 Cryo-ET 工作流程可在細胞分化過程中實現染色質的 3D 視覺化。",
       "summary": "了解染色質結構在細胞分化過程中如何變化需要能夠以高解析度解析天然基因組組織的結構方法。在這裡，我們提出了人工智慧輔助的冷凍電子斷層掃描（cryo-ET）和分割工作流程來量化染色質壓縮...",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42757094/",
       "lang": "zh-TW"
     },
@@ -150,23 +150,23 @@
       "title": "幹細胞製造中宏基因組驅動的預測生物安全和污染可追溯性：將疫情基因組學轉化為再生醫學。",
       "summary": "由於複雜的處理工作流程、廣泛的操作、長時間的培養條件和持續的環境暴露，幹細胞製造和再生醫學實驗室非常容易受到微生物污染。傳統的微生物學方法仍然是...",
       "source": "PubMed",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42756829/",
       "lang": "zh-TW"
     },
     {
-      "title": "多功能TPU-HAp/HA-TiO",
-      "summary": "骨缺損和植入物相關感染仍然是骨科重建的主要挑戰，需要能夠促進骨整合同時防止細菌定植的多功能生物材料。這項工作旨在開發一種基於熱塑性塑膠的電紡奈米纖維膜...",
+      "title": "對培養的口腔黏膜上皮細胞片的波動運動進行非侵入性、無標記和定量評估的粗粒化分析。",
+      "summary": "培養的口腔黏膜上皮細胞片（COMECS）代表了一種有前途的上皮修復治療方法，例如角膜重建或食道黏膜缺損；然而，目前的品質評估方法在很大程度上是侵入性和破壞性的。雖然基於光流（OF）的分析...",
       "source": "PubMed",
-      "date": "2026-09-30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42751347/",
+      "date": "2026-10-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733435/",
       "lang": "zh-TW"
     },
     {
       "title": "[NA] MM-CARE：成人多發性骨髓瘤的心血管風險評估",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：佛蒙特大學醫學中心｜多發性骨髓瘤患者可能有健康問題或接受的治療會增加心臟和血管問題的風險。這項試驗研究將評估結構化心臟健康評估是否可以成功完成，以及",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07783607",
       "lang": "zh-TW"
     },
@@ -174,7 +174,7 @@
       "title": "[PHASE2] 與界面活性劑相關基因變異相關的間質性肺病的免疫調節治療",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Assistance Publique - Hôpitaux de Paris｜科學依據：界面活性劑相關基因（SRG）的變異解釋了大約 6% 的家族性肺纖維化（FPF）。\n\n病理生理學尚不清楚，似乎與第 2 型肺泡上皮細胞的內質網壓力有關",
       "source": "ClinicalTrials.gov｜France",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07443436",
       "lang": "zh-TW"
     },
@@ -182,71 +182,47 @@
       "title": "[第 1 階段、第 2 階段] 西羅莫司 + 魯索替尼 + 嗎替麥考酚酯用於對 CNI 不耐受的接受 Haplo-HSCT 的患者預防 aGVHD",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：北京大學人民醫院｜移植物抗宿主疾病（GVHD）是移植後的重要併發症，發生率達40-60%，如果控制不好，會增加非復發死亡率。目前，GVHD的標準預防方法是合併環孢素和",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07796620",
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1] Axatilimab + CAR-T細胞療法 for High-Risk Lymphoma",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Northside Hospital, Inc.｜Axatilimab + CAR-T細胞療法 in High-Risk Lymphoma",
+      "title": "[第一期臨床試驗] Axatilimab 結合 嵌合抗原受體T細胞療法（CAR-T）治療高風險淋巴瘤",
+      "summary": "狀態：尚未招募｜主辦：北區醫院公司｜Axatilimab 結合 嵌合抗原受體T細胞療法（CAR-T）治療高",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07638982",
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1] Testing the Addition of an Anti-Cancer Drug, Glofitamab, to the Usual Chemotherapy Treatment (Alternating R-CHOP/R-DHAP) for Previously Untreated Mantle Cell Lymphoma",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：美國國家癌症研究所（NCI）｜本第一期試驗測試格洛菲他單抗與利妥昔單抗、環磷酰胺、多柔比星、長春新鹼和潑尼松（R-CHOP）/利妥昔單抗、地塞米松、阿糖胞苷和順毒副作用",
+      "title": "[第 1 期] 測試在常規化療（交替 R-CHOP/R-DHAP）中添加抗癌藥物 Glofitamab 用於治療先前未經治療的套細胞淋巴瘤",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：美國國家癌症研究所（NCI）｜本第一期試驗測試格洛菲他單抗與利妥昔單抗、環磷酰胺、多柔比星、長春新鹼和潑尼松（R-CHOP）/利妥昔單抗、地塞米松、阿糖胞苷和順副作用（R-APDH）",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07444710",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[第 2 期] 肉毒桿菌毒素阻斷免疫細胞神經元訊號作為化膿性汗腺炎的新型治療方法",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：馬薩諸塞大學伍斯特分校｜這項研究將建立在小鼠和人類的數據基礎上，這些數據表明 TRPV1 傷害感受器與 17 型慢性發炎性皮膚病化膿性汗腺炎 (HS) 的發病機制有關。在這項研究中，研究人員將擴展 12 週試驗的數據",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-09-30",
-      "url": "https://clinicaltrials.gov/study/NCT07756346",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[第一階段] 來自相關或無關捐贈者的α/β T 細胞耗盡的造血幹細胞移植，用於治療兒童和年輕人的血液疾病",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：威斯康辛大學麥迪遜分校｜這項研究的目的是看看研究人員是否可以從成年家庭成員或密切匹配的無關捐贈者身上獲取外周血幹細胞，並通過特殊的實驗室儀器運行它們以去除α/β T細胞和B細胞",
-      "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-09-30",
-      "url": "https://clinicaltrials.gov/study/NCT04806347",
       "lang": "zh-TW"
     },
     {
       "title": "[NA] 頭頸副神經節瘤患者的初步積極追蹤和治療護理對功能結果和生活品質的比較",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：里昂臨終關懷醫院｜頭頸副神經節瘤（HNPG）主要是非分​​離性、良性且生長緩慢的腫瘤。儘管大多數患者仍然無症狀，但高達 30% 的患者出現與局部腫瘤生長相關的症狀，不到 5-10% 的患者出現轉移性疾病",
       "source": "ClinicalTrials.gov｜France",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07784595",
       "lang": "zh-TW"
     },
     {
-      "title": "二期臨床試驗：CD5 嵌合抗原受體（CAR）工程化IL-15轉導臍帶血來源自然殺手細胞（NK Cells）結合淋巴清除化療，治療侵襲性T細胞血液惡性腫瘤",
-      "summary": "狀態：尚未開始招募｜主辦：安德",
+      "title": "[PHASE2] CD5 CAR 改造的 IL15 轉導的臍帶血來源的 NK 細胞聯合淋巴細胞清除化療治療侵襲性 T 細胞血液惡性腫瘤的 II 期研究",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：M.D.安德森癌症中心｜確定 iC9/CD5CAR/IL-15 NK 細胞作為鞏固治療首次緩解的侵襲性 T 細胞惡性腫瘤患者的安全性和有效性（1 年 PFS）。",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07137481",
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 階段] Epcoritama 作為 BTKI 上患有 CLL 的高風險患者的鞏固療法",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：加州大學歐文分校｜這是一項 2 期、單臂、開放標籤臨床試驗，確定 Epcoritamab 對慢性淋巴細胞白血病 (CLL) 受試者使用 Burton 酪氨酸激酶抑製劑 (BTKi) 的療效。",
+      "title": "[二期臨床] BCMA雙特異性抗體療法用於BCMA嵌合抗原受體T細胞療法（CAR-T）後復發（RECLAIM）",
+      "summary": "評估BCMA雙特異性抗體療法，治療CAR-T治療後復發患者的療效與安全性。",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-09-30",
-      "url": "https://clinicaltrials.gov/study/NCT07819214",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[第 2 期]BCMA 雙特異性抗體治療 BCMA CAR-T細胞療法 細胞治療後復發 (RECLAIM)",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：威斯康辛醫學院｜這是一項單中心、單臂、2 期研究，旨在評估 linvoseltamab 在 BCMA CAR-T細胞療法 細胞治療後復發的多發性骨髓瘤 (MM) 患者中的療效和安全性，無論是標準護理還是研究性治療。",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07009899",
       "lang": "zh-TW"
     },
@@ -254,7 +230,7 @@
       "title": "[第一階段] 211At-OKT10-B10 和氟達拉濱單獨使用或與環磷酰胺和低劑量 TBI 聯合使用供體幹細胞移植治療新診斷、復發或難治性高危險多發性骨髓瘤",
       "summary": "狀態：撤回｜主辦：Fred Hutchinson 癌症中心｜這項 I 期試驗研究了 211At-OKT10-B10 與氟達拉濱單獨或與環磷酰胺聯合使用以及在供體幹細胞移植治療前低劑量全身照射 (TBI) 時的副作用和最佳劑量",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT04579523",
       "lang": "zh-TW"
     },
@@ -262,7 +238,7 @@
       "title": "[PHASE1, PHASE2] 多重CAR T細胞療法治療多發性骨髓瘤",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：深圳基因免疫醫學研究院｜本次臨床試驗旨在評估針對多種癌細胞表面抗原的自體CAR T細胞免疫療法治療復發難治性多發性骨髓瘤患者的可行性、安全性和有效性。該研究的另一個目標是",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT03271632",
       "lang": "zh-TW"
     },
@@ -270,16 +246,56 @@
       "title": "[第一階段] KITE-753 在 R/R B 細胞 ALL 的研究",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：M.D.安德森癌症中心｜這項臨床研究的目標是找到 KITE-753 在復發/難治性 B 細胞 ALL 患者中的建議劑量。 KITE-753的安全性也將被研究。",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07674823",
       "lang": "zh-TW"
     },
     {
-      "title": "腦類器官從研究模型邁向規模化平台",
-      "summary": "本場網路研討會將探討腦類器官如何從實驗室研究走向大規模應用，提升其在生醫領域的潛力。",
+      "title": "[第 2 期] 肉毒桿菌毒素阻斷免疫細胞神經元訊號作為化膿性汗腺炎的新型治療方法",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：馬薩諸塞大學伍斯特分校｜這項研究將建立在小鼠和人類的數據基礎上，這些數據表明 TRPV1 傷害感受器與 17 型慢性發炎性皮膚病化膿性汗腺炎 (HS) 的發病機制有關。在這項研究中，研究人員將擴展 12 週試驗的數據",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-10",
+      "url": "https://clinicaltrials.gov/study/NCT07756346",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[第一階段] 來自相關或無關捐贈者的α/β T 細胞耗盡的造血幹細胞移植，用於治療兒童和年輕人的血液疾病",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：威斯康辛大學麥迪遜分校｜這項研究的目的是看看研究人員是否可以從成年家庭成員或密切匹配的無關捐贈者身上獲取外周血幹細胞，並通過特殊的實驗室儀器運行它們以去除α/β T細胞和B細胞",
+      "source": "ClinicalTrials.gov｜Global",
+      "date": "2026-10",
+      "url": "https://clinicaltrials.gov/study/NCT04806347",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[第 2 階段] Epcoritama 作為 BTKI 上患有 CLL 的高風險患者的鞏固療法",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：加州大學歐文分校｜這是一項 2 期、單臂、開放標籤臨床試驗，確定 Epcoritamab 對慢性淋巴細胞白血病 (CLL) 受試者使用 Burton 酪氨酸激酶抑製劑 (BTKi) 的療效。",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-10",
+      "url": "https://clinicaltrials.gov/study/NCT07819214",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "全基因組分析將 BACH2 確定為潛在的胎兒血紅蛋白活化標靶",
+      "summary": "這條路徑被作者稱為“BACH2-NRF2 軸”，獨立於眾所周知的 BCL11A 轉錄調節因子，而 BCL11A 轉錄調節因子是已批准的鐮狀細胞疾病 (SCD) 細胞療法 Casgevy 的標靶。\n胎兒潛在血紅素活化後",
+      "source": "GEN News",
+      "date": "2026-09-30",
+      "url": "https://www.genengnews.com/topics/omics/genome-wide-analysis-identifies-bach2-as-potential-fetal-hemoglobin-activation-target/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "推動腦類器官從研究模型邁向可規模化平台",
+      "summary": "在這場GEN網路研討會中，Ottimo Pharma技術開發與製造副總裁Joseph Shultz與Asimov商業銷售副總裁Imroz Ghangas將探討如何將腦類器官從實驗室研究模型轉化為可擴展",
       "source": "GEN News",
       "date": "2026-09-30",
       "url": "https://www.genengnews.com/multimedia/webinars/advancing-brain-organoids-from-research-models-to-scalable-platforms/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Longeveron將參加三場長壽/老化投資會議",
+      "summary": "vity/老化投資會議 馬尼拉時報",
+      "source": "The Manila Times",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeE9LSWlId01vZm5VTUwxQTlZYnFQZDRIYkNHMGdmWENDdjJLTmFyNS1hUjBtUHlHaDAxTklNVnBQT3JUNDZqZGVORDNmcW9zaXhhM1Q5dVBQVU93MHpIazlvVzYySURhOUZkaXd0T2xwTGpOUmgxQkVVdnczV3N5aEt3TGhnYk5WX3N5QnJJYWlLUXk4MGxVbXBhMWVSbUUxM1dnT2x5MEJIRlpLZ3VLTGxKWWRHVVVHOUxvcks4WGhwNzlvMmFUVXlpR0sybDlvWldZMGtqVWJvdTA2eDRB0gHkAUFVX3lxTE1COFBsRnlfVVFpSi1SU2lkcnZrZ293emJSU0oybUp5MV9nMFFDZ0ZWa2xnYW1qWFpFVXY1dGRNQVFxYXJnbEhkN2piR3ZJYkg3Zk9tZ2RUdC1zX0VqczIxMlc0U2lUQUNTMTBTb1M1cE5KRFFHUHFSdE4xbFh5WmhfQmFsRnVNd0V5MHpqS1FGSzdvc29XN0o4ZDh3MGZwZktEdE04OWpBNE1rUGRsQ2VJOHROZXp1NGNZU3h3aTZ0R01IbHJQX1g0YzU2M3BKSDRRV1Bxd3dtT0gxT2I3cGFFX3doXw?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -291,19 +307,27 @@
       "lang": "zh-TW"
     },
     {
-      "title": "CRISPR 技術有望助醫師精準打擊血癌，同時不傷及",
-      "summary": "",
-      "source": "ScienceDaily",
+      "title": "基因剪輯技術（CRISPR） 可以幫助醫生在不破壞健康細胞的情況下攻擊血癌",
+      "summary": "不破壞健康細胞的癌症 sciencedaily.com",
+      "source": "sciencedaily.com",
       "date": "2026-09-25",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pVjJ4dGd4azdtZDF3NWZuNnpiWmt2ZHBOaWVlOGZSd01xRE1xTFktd1FCLU51UHdNUTAzaTM2ZlV3T0dBOGhQWVVKamJhWkJOa2pRMlRPN2l4ZFdiVEZHNXBhTGFxWk1FaGFMQmhwSQ?oc=5",
       "lang": "zh-TW"
     },
     {
       "title": "幹細胞和外泌體為癌症治療受損的腎臟帶來希望",
-      "summary": "idneys 因癌症治療而受損 bioengineer.org",
-      "source": "bioengineer.org",
+      "summary": "癌症治療損害了idneys Bioengineer.org",
+      "source": "Bioengineer.org",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1WSHJBcy1VWVZvekNXWlc1R2lkWlBxQTMxYjJOY29VU2ZPNF9rNU1EWFczZWVMSEkyNW1pWVpmZ0FjUnFWZ242c2lhZjFFSXdlUkJFQm1DY19NQkVpcWItLWFpZFlYc2NPYU5FRGNhUmNNX0Q1c0phZGZ2Z0JvUW9BWlk3ZHBRemltcGh0V1kzUVdnbExjNFZITDJudw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[第 2 期] Becotatug Vedotin 加 Pucotenlimab 和卡培他濱隨後同步放化療-免疫療法治療局部晚期肛管鱗狀細胞癌",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：王欣｜這是一項單臂、探索性臨床研究，旨在招募 EGFR 陽性局部晚期肛管鱗狀細胞癌（T2-4N0-1M0）患者。患者将首先接受 2 个周期的诱导治疗，包括 Becotatug",
+      "source": "ClinicalTrials.gov｜China",
+      "date": "2026-09-20",
+      "url": "https://clinicaltrials.gov/study/NCT07800000",
       "lang": "zh-TW"
     },
     {
@@ -320,6 +344,14 @@
       "source": "Pharmaceutical Executive",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2IzWWllSW0yOTBWeWo1b1lpSk1CNkxlR3lLME10Z2FCVG5rNGwxdkVHeXkySVFTaU1PNW5EVE9fYXFCLThwNGM2Z01Sd0g2N3NXNTlHSHM0VzJ2RUZrSE5ZcEROc3g5Y2xSLUd2NHdoZTY3cmtLRVE0c2J3MWdFRUpTVmEzdzE2OEh4enQ2N0wxYWtuVl9vVmZwaW0?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Extracellular vesicles in the immune regulation of hematological malignancies: mechanisms, prognostic significance, and therapeutic opportunities",
+      "summary": "血液系統惡性腫瘤的分析：機制、預後意義和治療機會 Frontiers",
+      "source": "Frontiers",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0s5NW43U01pUmZ0MlVqbi1JODdYZ1R6QTN0ajA5bGxKdmxhbGhpekJVdWgyVDBoM3puMEFjY3d0dXB1c3dnSl9PWExPNXZVZjVqbzl4ZEJKOVR2ZlZENUR6NE5qX210Z3JQUHpDOS0wcWlpWGdERURDS2p4bGE4SzNvWHU2NFBsN19VZjJMMHI3ZnBlQm9RSVdkOW43UDF6V3pNSDdUZy1oak1L?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -368,22 +400,6 @@
       "source": "ClinicalTrials.gov｜South Korea",
       "date": "2026-09-01",
       "url": "https://clinicaltrials.gov/study/NCT07638332",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "第二期臨床試驗：Glofitamab治療B細胞非何杰金氏淋巴瘤，並運用治療中期腫瘤內轉錄體學分析",
-      "summary": "狀態：尚未開始招募｜主辦：Joshua Brody｜這項臨床試驗將招募復發/難治型瀰漫性大B細胞淋巴",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-09",
-      "url": "https://clinicaltrials.gov/study/NCT07748364",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE1, PHASE2] 人類臍帶間質基質細胞治療 UDCA 難治性原發性膽汁性膽管炎的 I/II 期試驗",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：北京302醫院｜本I/II期臨床試驗評估人類臍帶間質幹細胞（hUC-MSC）注射治療原發性膽汁性膽管炎（PBC）患者。 I期成分採用3+3劑量遞增設計，單獨的單劑量a",
-      "source": "ClinicalTrials.gov｜China",
-      "date": "2026-08-31",
-      "url": "https://clinicaltrials.gov/study/NCT07795151",
       "lang": "zh-TW"
     }
   ]

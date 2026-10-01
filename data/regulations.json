@@ -1,18 +1,34 @@
 {
   "module": "regulation",
-  "updated": "2026-09-30T16:35:59.249920+00:00",
+  "updated": "2026-10-01T01:42:57.927007+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "BIVIGAM",
+      "summary": "這項產品核准資訊指出，它主要用於治療原發性體液免疫缺陷。",
       "source": "FDA Biologics",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/bivigam",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑最新動態",
+      "summary": "這是美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的",
+      "source": "FDA Biologics",
+      "date": "2026-09-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關作業程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）是美國",
+      "title": "全基因組分析將 BACH2 確定為潛在的胎兒血紅蛋白活化標靶",
+      "summary": "這條路徑被作者稱為“BACH2-NRF2 軸”，獨立於眾所周知的 BCL11A 轉錄調節因子，而 BCL11A 轉錄調節因子是已批准的鐮狀細胞疾病 (SCD) 細胞療法 Casgevy 的標靶。\n胎兒潛在血紅素活化後",
+      "source": "GEN News",
+      "date": "2026-09-30",
+      "url": "https://www.genengnews.com/topics/omics/genome-wide-analysis-identifies-bach2-as-potential-fetal-hemoglobin-activation-target/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-09-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -43,7 +59,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年亞太地區首次獲批：完整列表",
+      "title": "2026 年亞太地區首次獲準：完整列表",
       "summary": "",
       "source": "BioPharma APAC",
       "date": "2026-09-22",
