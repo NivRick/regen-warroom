@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-10-01T17:14:53.856973+00:00",
+  "updated": "2026-10-02T01:56:02.957843+00:00",
   "items": [
     {
-      "title": "BIVIGAM",
-      "summary": "這項產品已獲核准，可用於治療原發性體液免疫缺陷。",
+      "title": "比維加姆",
+      "summary": "產品核准資訊用於治療原發性體液免疫缺陷",
       "source": "FDA Biologics",
       "date": "2026-09-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/bivigam",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑新訊",
-      "summary": "這是美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "Latest news from the Center for Biologics Evaluation and Research",
       "source": "FDA Biologics",
       "date": "2026-09-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -35,15 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "默克、SciBrunch啟動最高達21.3億美元合作案，共同開發臨床前KRAS抑制型分子膠藥物",
-      "summary": "默克（Merck）與SciBrunch攜手，啟動一項最高達21.3億美元的合作案，目標是共同開發臨床前階段的KRAS抑制型分子膠藥物，鎖定癌症治療新方向。",
-      "source": "GEN News",
-      "date": "2026-09-29",
-      "url": "https://www.genengnews.com/topics/cancer/merck-scibrunch-launch-up-to-2-13b-collaboration-to-develop-preclinical-kras-inhibiting-molecular-glue/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "ROTARIX",
+      "title": "羅塔利克斯",
       "summary": "核准頁面顯示用於預防 G1 和非 G1 型（G3、G4 和 G9）引起的輪狀病毒胃腸炎，用於 6 週至 24 週齡的嬰兒。",
       "source": "FDA Biologics",
       "date": "2026-09-28",
@@ -51,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製品中外源因子檢測的下一代定序 – 2026 年 9 月 23 日",
+      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製劑中外源性因子檢測的下一代定序 - 2026 年 9 月 23 日",
       "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
       "source": "09/23/2026",
       "date": "2026-09-25",
@@ -60,8 +52,8 @@
     },
     {
       "title": "2026 年亞太地區首次獲準：完整列表",
-      "summary": "",
-      "source": "BioPharma APAC",
+      "summary": "完整列表 biopharmaapac.com",
+      "source": "biopharmaapac.com",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUhLWGNrT0p0TzJ2b05LWHFUZTFua01weUhPdkp2a2RfbnBSZE0tbzh4Vm0tandUdTRPR2hubThmX3hnaXcyNXd6dFlHZzA4VTBUOFhXOV9vSEFfRF90UDJKN2ZJTnFOaGdHMWtINmc3M2dSOEhYdTRtUUJES254QTFQYjM5WWdkaTE4eURlUFZZNFB0cEdHc1p6Zw?oc=5",
       "lang": "zh-TW"
