@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-10-02T01:56:02.957843+00:00",
+  "updated": "2026-10-02T16:29:17.224875+00:00",
   "items": [
     {
-      "title": "比維加姆",
-      "summary": "產品核准資訊用於治療原發性體液免疫缺陷",
+      "title": "BIVIGAM",
+      "summary": "這項產品已獲核准，主要用於治療原發性體液免疫缺陷。",
       "source": "FDA Biologics",
       "date": "2026-09-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/bivigam",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "title": "生物製劑新知",
+      "summary": "來自美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-09-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -20,7 +20,7 @@
     },
     {
       "title": "全基因組分析將 BACH2 確定為潛在的胎兒血紅蛋白活化標靶",
-      "summary": "這條路徑被作者稱為“BACH2-NRF2 軸”，獨立於眾所周知的 BCL11A 轉錄調節因子，而 BCL11A 轉錄調節因子是已批准的鐮狀細胞疾病 (SCD) 細胞療法 Casgevy 的標靶。\n胎兒潛在血紅素活化後",
+      "summary": "這條路徑被作者稱為“BACH2-NRF2 軸”，獨立於眾所周知的 BCL11A 轉錄調節因子，而 BCL11A 轉錄調節因子是已批准的鐮狀細胞疾病 (SCD) 細胞療法 Casgevy 的靶點。\n胎兒潛在血紅素活化後",
       "source": "GEN News",
       "date": "2026-09-30",
       "url": "https://www.genengnews.com/topics/omics/genome-wide-analysis-identifies-bach2-as-potential-fetal-hemoglobin-activation-target/",
@@ -43,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製劑中外源性因子檢測的下一代定序 - 2026 年 9 月 23 日",
+      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製品中外源因子檢測的下一代定序 – 2026 年 9 月 23 日",
       "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
       "source": "09/23/2026",
       "date": "2026-09-25",
@@ -51,11 +51,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年亞太地區首次獲準：完整列表",
-      "summary": "完整列表 biopharmaapac.com",
-      "source": "biopharmaapac.com",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUhLWGNrT0p0TzJ2b05LWHFUZTFua01weUhPdkp2a2RfbnBSZE0tbzh4Vm0tandUdTRPR2hubThmX3hnaXcyNXd6dFlHZzA4VTBUOFhXOV9vSEFfRF90UDJKN2ZJTnFOaGdHMWtINmc3M2dSOEhYdTRtUUJES254QTFQYjM5WWdkaTE4eURlUFZZNFB0cEdHc1p6Zw?oc=5",
+      "title": "2026 年亞太地區首次獲批：完整列表",
+      "summary": "",
+      "source": "BioPharma APAC",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONm12Y05RVXQwekRIWGgzSVM2T0REcWdHamR6QUo1YmNKWHdEaDZiX2tiRjIteUI2MkRCMEFid0hIYXRQNVVMcEp0SEt1WFd4MkN4OTZFenJlUlZ4T2JtUWRKSFp3THhOS0pTWXBvaFdUdXllSVNub1IxbWFhdnB6RkViaDhtTzhiNEtCdmt6dzJZR3FyXy1lSllMQQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -65,6 +65,13 @@
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
       "lang": "zh-TW"
+    },
+    {
+      "title": "再生醫療雙法納管「外泌體」 今年上路已4醫美廣告違規",
+      "summary": "",
+      "source": "你的公共電視",
+      "date": "2026-09-14",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaa1JsTHNmd1ZBcm52NklDdURVWWQtMkRNSExKVWUwR1hRNGJiRzdPbTh3MU1sRTRKVmd1U1hZVnpybUVkeVJkWVdCemw2Q2s?oc=5"
     }
   ]
 }
