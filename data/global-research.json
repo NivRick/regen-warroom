@@ -1,10 +1,10 @@
 {
   "module": "research",
-  "updated": "2026-10-03T01:33:56.957200+00:00",
+  "updated": "2026-10-03T15:00:36.902257+00:00",
   "items": [
     {
-      "title": "可設計的扭轉緻密化路徑，打造具生物活性的膠原蛋白水凝膠紗線，力學特性媲美肌腱。",
-      "summary": "重組膠原蛋白水凝膠具備承重組織工程所需的生物活性，但其帕斯卡（Pascal）到低千帕（kPa）的模",
+      "title": "可設計的扭轉緻密化途徑，打造具肌腱般力學特性的生物活性膠原蛋白水凝膠紗線",
+      "summary": "開發新方法製備具生物活性且強度媲美肌腱的膠原蛋白水凝膠紗線，有望用於承重組織工程。",
       "source": "PubMed",
       "date": "2026-10-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42781499/",
@@ -59,7 +59,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "One-pot fabrication and 體外實驗 characterization of hydroxyapatite-enriched cryogels for bone 組織工程.",
+      "title": "用於骨組織工程的富含羥基磷灰石的冷凍凝膠的一鍋法製造和體外表徵。",
       "summary": "Cryogel 已成為骨組織工程 (BTE) 中細胞外基質模擬的有前途的仿生支架。在這項研究中，我們研究了羥基磷灰石 (HA) 的摻入如何影響基於甲基丙烯酰基 D 的冷凍凝膠的物理化學、機械和生物性能。",
       "source": "PubMed",
       "date": "2026-10-03",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "深度探討人工智慧在生醫材料科學的應用：從機器學習、可解釋人工智慧到即時自適應材料",
-      "summary": "人工智慧（AI），特別是機器學習（ML）和深度學習（DL），正快速顛覆生醫材料科學。這些運算技術...",
+      "title": "深入探討人工智慧在生醫材料科學的應用：從機器學習、可解釋性人工智慧到即時自適應材料",
+      "summary": "人工智慧（AI），特別是機器學習（ML）和深度學習（DL），正快速改變生醫材料科學。這些運算技術...",
       "source": "PubMed",
       "date": "2026-10-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42777682/",
       "lang": "zh-TW"
     },
     {
-      "title": "矽氧烷基材料的進展增強了混合水凝膠及其生物醫學應用。",
-      "summary": "水凝膠具有高含水量、優異的生物相容性和刺激響應特性，在藥物傳輸、組織工程和傷口癒合等生物醫學領域有著廣泛的應用。然而，傳統的水凝膠常常受到...",
+      "title": "矽",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-10-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42772198/",
@@ -131,24 +131,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "基因工程改造的低免疫原性誘導型多功能幹細胞（iPSC）：臨床應用策略與考量",
-      "summary": "以誘導型多功能幹細胞（iPSC）為基礎的細胞療法正快速邁向臨床應用，相關臨床試驗與核准數量持續增加。",
+      "title": "基因改造低免疫原性誘導型多功能幹細胞（iPSCs）：臨床應用策略與考量",
+      "summary": "誘導型多功能幹細胞（iPSC）療法正快速邁向臨床應用，相關臨床試驗與核准數量持續增加。",
       "source": "PubMed",
       "date": "2026-10-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42825016/",
       "lang": "zh-TW"
     },
     {
-      "title": "高擬真骨類器官的工程化：操作分類、多譜系交互作用、生物製造證據與轉譯驗證",
-      "summary": "骨類器官正逐漸成為骨骼發育、疾病研究與再生醫學領域的三維模型，但目前「骨類器官」一詞的應用仍不一致。",
+      "title": "建構高擬真骨",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-10-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42824489/",
       "lang": "zh-TW"
     },
     {
-      "title": "第12屆癌症免疫療法大會（ITOC12",
-      "summary": "",
+      "title": "第十二屆癌症免疫治療會議 (ITOC12)：會議報告。",
+      "summary": "癌症免疫治療 (ITOC) 會議是一次領先的國際會議，匯集了來自世界各地的免疫腫瘤學研究人員和臨床醫生，展示和討論該領域的新興研究和最新進展。該會議現已第 12 屆在慕尼黑舉行...",
       "source": "PubMed",
       "date": "2026-10-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42822041/",
@@ -219,8 +219,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[二期臨床] 立體定位放射治療（SBRT）合併Anlotinib與Bimepolizumab治療局部晚期或轉移性腎細胞癌",
-      "summary": "目前進度：尚未開始收案｜主導單位：福建省腫瘤醫院｜旨在評估立體定位放射治療（SBRT）合併",
+      "title": "[PHASE2] SBRT Plus Anlotinib and Bimepolizumab in Locally Advanced or Metastatic Renal Cell Carcinoma",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：福建省腫瘤醫院｜探討立體定位放射治療（SBRT）合併安羅替尼和貝羅珠單抗治療局部晚期/轉移性腎細胞癌的客觀緩解率（ORR）。",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-10-03",
       "url": "https://clinicaltrials.gov/study/NCT07470840",
@@ -235,7 +235,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1] Adipose-Derived Mesenchymal 幹細胞 for Preventing Biliary Complications",
+      "title": "[PHASE1] 脂肪間質幹細胞預防膽道併發症",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Mayo Clinic｜本研究的目的是評估自體脂肪間質幹細胞用於活體肝移植期間進行導管-導管吻合術的終末期肝病患者的安全性。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-10-03",
@@ -275,19 +275,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "細胞療法能夠在實驗室模型中殺死免疫療法抗藥性的結腸癌細胞",
-      "summary": "實驗室模式 Stock Titan 中的治療抗藥性結腸癌細胞",
+      "title": "實驗性硬皮症治療使用基因發生改變的免疫細胞。早期数据将于 11 月 8 日公布。",
+      "summary": "es 免疫细胞基因发生改变。早期数据将于 11 月 8 日公布。 Stock Titan",
       "source": "Stock Titan",
       "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM1dUS085eWJ4cThTRU5VbXpuTGZSeWtTc0VGeGg5c3ZDaktiVlA5ZHMxNWljQW1LLTVNb09GTUV1NW9fQnVlT3JzR2RCckZ2UEhyeGZrZ1pkaEdxTjlrTlk2Nno1TzFuelFCLVBpbmhxZHBqYmtybzQ5R0JLQ3cydUcyRGx4V1JtTHdVdk1VYlBKN3o2V1Y5N2hfNWJWRTJhTExOM24xbjJFV21jekRnckRyeGhvZ1pPYUx1OTJNV0o?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "MiNK Therapeutics 將在 SITC 2026 上展示抗藥性大腸直腸癌以及老化腫瘤細胞和纖維母細胞清除的數據",
-      "summary": "SITC 2026 上的抗結直腸癌以及衰老腫瘤細胞和成纖維細胞的清除 馬尼拉時報",
-      "source": "The Manila Times",
-      "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPdHAxSGRzNjJoTzJKTHFFYWVpMmlVTy1XcVZNVnJpaDhLLUx5M05mcTBUc04xUnd0TVY2aGl2WXZvbXNKLTJCQ2RJX09BcElubHVIdG83Q3N6XzRzQXRVd1IwNjhCTmkyLW5HVjd2ZWxGeDAtRXFKSGNJSUZYeXNCZ2hSVjNWeXNSUWxURHozWHdQV095QkRWZk96OEFFbEF5VXF2SzBvRFluYmg4UUpRRmk1WWhNak1XRFRCNVBLUUNWSmpMenIyYUJubGtERWUtc0N4VDNNRFZZSWF4VHNlTlhVNzBaX19rS2tSVFZvZmtab2ZsRUlXTFVCcnIwcjFwQXhYOXBNWXNiaDVOdW4tXzEtckhCWE42ZHlTbVQtYUlEcEJucUREVXJMT1VWNmUtS3RrZXpTcExLZVZY0gHCAkFVX3lxTFBrcW9PbmY0emJHSUE0ZVdwNjdJSHNOcXR5WEJwaGl5Xy1ydDIyMHhlMWpnU0ZmRW5LYnRQRTVOT2hSbHBtYXJOWk9Da0pMbXJfc2QxZjNDbERocnAzcEdNVE1hSTZ3X0h2TFNMdnhhNTZoTXJpT1hvX0JxVWlveUZ5cjAxLTRZbG16OEZyWUJBSDBiQ001ekFpZFkzVTNjSDF1em1oaXl2YnF6Y0tUekVvc0NnbFM0MXVqazhBNmMySHVfa0hmMjBnMFR5al9pbDdZMVVTZGdFQTlVODlGNHlwLTJwWHVkaUpQZUJxV3g1eWZ4cGpvZXlhYTYzQ081STNFelhIOWF1NVNaN1NHMGtMTXpic1k0aW9vWXpHRVBJdlpHQXFxT2s2QmVxeXZTa1VOU3hVVWtuX2ZkaXBYQWNyUWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT2REN2NtVVBmZ290Tl94TzZPQkJUeVBPbVVjd1ZybTNYZ0dLdk82WnZDTGpuc0pWejE3dDFZaWFaTy0wY2o0WWtzR1ptWGhnNUhwOWpKVVBaSDlLRzFONmxTLXRaWVNrUHkzX2FJeUUyTGFPUWtBN3FzRGVUTndFampWejRIQlNQUy0xdGNLNFNVV0RwZXN4VWFWUjR3MmlEZjRNTzczU2dGRXhNUW92RXZQTXdHMzg?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -332,7 +324,7 @@
     },
     {
       "title": "基因剪輯技術（CRISPR） 可以幫助醫生在不破壞健康細胞的情況下攻擊血癌",
-      "summary": "ancer without destroying healthy cells ScienceDaily",
+      "summary": "癌症而不破壞健康細胞 ScienceDaily",
       "source": "ScienceDaily",
       "date": "2026-09-25",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pVjJ4dGd4azdtZDF3NWZuNnpiWmt2ZHBOaWVlOGZSd01xRE1xTFktd1FCLU51UHdNUTAzaTM2ZlV3T0dBOGhQWVVKamJhWkJOa2pRMlRPN2l4ZFdiVEZHNXBhTGFxWk1FaGFMQmhwSQ?oc=5",
@@ -347,7 +339,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） Approves Fayuvi for Pediatric Patients with Sanfilippo Syndrome Type A",
+      "title": "美國食藥局（FDA） 批准 Fayuvi 用於治療 A 型 Sanfilippo 綜合徵兒科患者",
       "summary": "患有 A 型聖菲利波綜合症的 ts 製藥高管",
       "source": "Pharmaceutical Executive",
       "date": "2026-09-18",
@@ -355,8 +347,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "細胞外囊泡在血液惡性腫瘤免疫調節中的角色：機制、預後意義與治療潛力",
-      "summary": "這篇研究探討細胞外囊泡（EVs）在血液惡性腫瘤免疫調節中的關鍵作用，分析其作用機制、對疾病預後的影響，並揭示其作為新型診斷標誌物及治療策略的廣闊潛力。",
+      "title": "細胞外囊泡在血液惡性腫瘤免疫調節中的作用：機制、預後意義和治療機會",
+      "summary": "血液系統惡性腫瘤的分析：機制、預後意義和治療機會 Frontiers",
       "source": "Frontiers",
       "date": "2026-09-16",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0s5NW43U01pUmZ0MlVqbi1JODdYZ1R6QTN0ajA5bGxKdmxhbGhpekJVdWgyVDBoM3puMEFjY3d0dXB1c3dnSl9PWExPNXZVZjVqbzl4ZEJKOVR2ZlZENUR6NE5qX210Z3JQUHpDOS0wcWlpWGdERURDS2p4bGE4SzNvWHU2NFBsN19VZjJMMHI3ZnBlQm9RSVdkOW43UDF6V3pNSDdUZy1oak1L?oc=5",
@@ -380,7 +372,7 @@
     },
     {
       "title": "MSK 斯隆研究摘要，2026 年 9 月 14 日",
-      "summary": "026 Memorial Sloan Kettering Cancer Center",
+      "summary": "026 紀念斯隆凱特琳癌症中心",
       "source": "Memorial Sloan Kettering Cancer Center",
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01cWhiU2M5VW1IUDhoM1FyQTd6Z3U1QWN1ODBoSy1MdUZvaVEzUFlUWXluSjQwUlBXaWRSWVhWRjZpYmtiaWo5MWZxRUthSjBDOVVhY1NNMnRic0lSb2QzT0pmVGstd1hUSGxuZURpc2FUUmZ2TThv?oc=5",

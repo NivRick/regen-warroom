@@ -1,9 +1,25 @@
 {
   "module": "regulation",
-  "updated": "2026-10-03T01:34:25.764640+00:00",
+  "updated": "2026-10-03T15:01:20.692120+00:00",
   "items": [
     {
-      "title": "美國食藥局（FDA） to Highlight Aging, Longevity Medicine in Planned FARS Updates",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-10-02",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
+      "source": "FDA Biologics",
+      "date": "2026-10-02",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 將在計劃的 FARS 更新中強調抗衰老、長壽醫學",
       "summary": "美國食藥局（FDA） 首席科學家 Steven Kozlowski 醫學博士表示，更新後的 FARS 將於 2027 財年年初發布，但沒有提供有關時間的進一步細節。\n計劃中的 FARS 更新中的帖子 ne 首先出現在 GEN - 基因工程和生物技術新聞上。",
       "source": "GEN News",
       "date": "2026-10-02",
@@ -11,19 +27,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BIVIGAM",
-      "summary": "產品核准資訊顯示，該產品是用來治療原發性體液免疫缺陷。",
+      "title": "比維加姆",
+      "summary": "產品核准資訊用於治療原發性體液免疫缺陷",
       "source": "FDA Biologics",
       "date": "2026-09-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/bivigam",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製劑最新動態",
-      "summary": "來自美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
-      "source": "FDA Biologics",
-      "date": "2026-09-30",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
@@ -32,14 +40,6 @@
       "source": "GEN News",
       "date": "2026-09-30",
       "url": "https://www.genengnews.com/topics/omics/genome-wide-analysis-identifies-bach2-as-potential-fetal-hemoglobin-activation-target/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品程序 (SOPP)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
-      "source": "FDA Biologics",
-      "date": "2026-09-29",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
@@ -60,8 +60,8 @@
     },
     {
       "title": "2026 年亞太地區首次獲準：完整列表",
-      "summary": "",
-      "source": "BioPharma APAC",
+      "summary": "完整列表 biopharmaapac.com",
+      "source": "biopharmaapac.com",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONm12Y05RVXQwekRIWGgzSVM2T0REcWdHamR6QUo1YmNKWHdEaDZiX2tiRjIteUI2MkRCMEFid0hIYXRQNVVMcEp0SEt1WFd4MkN4OTZFenJlUlZ4T2JtUWRKSFp3THhOS0pTWXBvaFdUdXllSVNub1IxbWFhdnB6RkViaDhtTzhiNEtCdmt6dzJZR3FyXy1lSllMQQ?oc=5",
       "lang": "zh-TW"
