@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-10-02T16:29:46.701097+00:00",
+  "updated": "2026-10-03T01:34:45.726814+00:00",
   "items": [
     {
-      "title": "美國國家衛生研究院（NIH）撥出所有研究經費，但決策延宕且不透明，阻礙研究人員進度",
-      "summary": "美國國家衛生研究院（NIH）持續縮減涉及健康不平等、種族與族裔相關的研究補助，但在其他行政優先事項上進展有限。",
+      "title": "美國國家衛生研究院（NIH）撥出所有補助款，但決策延宕且不透明，阻礙研究人員",
+      "summary": "美國國家衛生研究院持續減少涉及健康不平等、種族與族裔的補助，但在其他行政優先事項上進展不大。",
       "source": "STAT News",
       "date": "2026-10-02",
       "url": "https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss",
@@ -19,23 +19,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "諾華公司對一家中國生物技術公司的 RNA 藥物下了近 8B 美元的賭注",
-      "summary": "作為預付款 5.75 億美元的交換條件，Abogen Biosciences 將向諾華提供其 RNA 技術的使用權，包括許可其主導項目 ABO-2203 的選擇權。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-02",
-      "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "對科學的不信任和一場有趣的基因編輯訴訟",
-      "summary": "為什麼這麼多美國人對科學失去信任？新的基因編輯訴訟是怎麼回事？敬請觀看本週的“The Readout LOUD”播客節目。",
+      "title": "科學信任危機與",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-10-01",
       "url": "https://www.statnews.com/2026/10/01/readout-loud-podcast-trust-in-science-gene-editing-lawsuit/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "莉莉與福霍恩分道揚鑣； Wave 的 美國食藥局（FDA） 批准計劃",
+      "title": "Lilly, Foghorn part ways; Wave’s 美國食藥局（FDA）-approved plans",
       "summary": "在一種抗癌藥物測試結果令人失望後，這家製藥巨頭終止了合作關係。在其他地方，Teva 和 Samsung Bioepis 擴大了合作夥伴關係，太空生物技術 Varda 帶來了 2.51 億美元的投資。",
       "source": "BioPharma Dive",
       "date": "2026-10-01",
@@ -59,9 +51,17 @@
       "lang": "zh-TW"
     },
     {
+      "title": "PhRMA 任命下一任執行長；皮爾法伯 (Pierre Fabre) 在埃布瓦洛 (Ebvallo) 獲得批准後第三次行動",
+      "summary": "一位前國會議員將接替著名說客史蒂夫·烏布爾(Steve Ubl)。在其他地方，最近的收購交易為 Mirum 和 AbbVie 帶來了股息。",
+      "source": "BioPharma Dive",
+      "date": "2026-09-30",
+      "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "比利時 Novadip Biosciences 融資 1,040 萬歐元，資助關鍵臨床試驗並解鎖 EIB 貸款",
-      "summary": "40 萬美元用於資助關鍵臨床試驗並解鎖 EIB 貸款部分 eu-startups.com",
-      "source": "eu-startups.com",
+      "summary": "40 萬美元用於資助關鍵臨床試驗並解鎖 EIB 貸款部分 EU-Startups",
+      "source": "EU-Startups",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",
       "lang": "zh-TW"

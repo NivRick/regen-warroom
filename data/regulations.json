@@ -1,17 +1,25 @@
 {
   "module": "regulation",
-  "updated": "2026-10-02T16:29:17.224875+00:00",
+  "updated": "2026-10-03T01:34:25.764640+00:00",
   "items": [
     {
+      "title": "美國食藥局（FDA） to Highlight Aging, Longevity Medicine in Planned FARS Updates",
+      "summary": "美國食藥局（FDA） 首席科學家 Steven Kozlowski 醫學博士表示，更新後的 FARS 將於 2027 財年年初發布，但沒有提供有關時間的進一步細節。\n計劃中的 FARS 更新中的帖子 ne 首先出現在 GEN - 基因工程和生物技術新聞上。",
+      "source": "GEN News",
+      "date": "2026-10-02",
+      "url": "https://www.genengnews.com/topics/translational-medicine/fda-to-highlight-aging-longevity-medicine-in-planned-fars-update/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "BIVIGAM",
-      "summary": "這項產品已獲核准，主要用於治療原發性體液免疫缺陷。",
+      "summary": "產品核准資訊顯示，該產品是用來治療原發性體液免疫缺陷。",
       "source": "FDA Biologics",
       "date": "2026-09-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/bivigam",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑新知",
+      "title": "生物製劑最新動態",
       "summary": "來自美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-09-30",
@@ -20,7 +28,7 @@
     },
     {
       "title": "全基因組分析將 BACH2 確定為潛在的胎兒血紅蛋白活化標靶",
-      "summary": "這條路徑被作者稱為“BACH2-NRF2 軸”，獨立於眾所周知的 BCL11A 轉錄調節因子，而 BCL11A 轉錄調節因子是已批准的鐮狀細胞疾病 (SCD) 細胞療法 Casgevy 的靶點。\n胎兒潛在血紅素活化後",
+      "summary": "這條路徑被作者稱為“BACH2-NRF2 軸”，獨立於眾所周知的 BCL11A 轉錄調節因子，而 BCL11A 轉錄調節因子是已批准的鐮狀細胞疾病 (SCD) 細胞療法 Casgevy 的標靶。\n胎兒潛在血紅素活化後",
       "source": "GEN News",
       "date": "2026-09-30",
       "url": "https://www.genengnews.com/topics/omics/genome-wide-analysis-identifies-bach2-as-potential-fetal-hemoglobin-activation-target/",
@@ -43,7 +51,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製品中外源因子檢測的下一代定序 – 2026 年 9 月 23 日",
+      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製劑中外源性因子檢測的下一代定序 - 2026 年 9 月 23 日",
       "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
       "source": "09/23/2026",
       "date": "2026-09-25",
@@ -51,7 +59,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年亞太地區首次獲批：完整列表",
+      "title": "2026 年亞太地區首次獲準：完整列表",
       "summary": "",
       "source": "BioPharma APAC",
       "date": "2026-09-23",
