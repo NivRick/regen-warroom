@@ -1,26 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-10-04T02:17:20.345139+00:00",
+  "updated": "2026-10-04T15:35:25.916074+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生技藥品最新動態",
+      "summary": "美國食藥署生物製品評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-10-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品程序 (SOPP)",
-      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
+      "title": "生技藥品相關程序（SOPPs）",
+      "summary": "這些標準作業程序與政策（SOPPs）是美國食藥署生物製品",
       "source": "FDA Biologics",
       "date": "2026-10-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 將在計劃的 FARS 更新中強調抗衰老、長壽醫學",
-      "summary": "美國食藥局（FDA） 首席科學家 Steven Kozlowski 醫學博士表示，更新後的 FARS 將於 2027 財年年初發布，但沒有提供有關時間的進一步細節。\n計劃中的 FARS 更新中的帖子 ne 首先出現在 GEN - 基因工程和生物技術新聞上。",
+      "title": "美國FDA規劃更新FARS，將聚焦老化與長壽醫學",
+      "summary": "美國FDA首席科學家Steven Kozlowski醫師表示，更新後的FARS預計在2027財政年度初期發布，但未提供更具體的時程細節。",
       "source": "GEN News",
       "date": "2026-10-02",
       "url": "https://www.genengnews.com/topics/translational-medicine/fda-to-highlight-aging-longevity-medicine-in-planned-fars-update/",
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Hansoh’s Tagrisso rival loses EU approval after AstraZeneca legal challenge",
+      "title": "豪森的競爭對手 Tagrisso 在阿斯特捷利康法律挑戰後失去歐盟批准",
       "summary": "l 阿斯特捷利康對 Fierce Pharma 提出法律挑戰後",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
@@ -43,8 +43,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "全基因組分析將 BACH2 確定為潛在的胎兒血紅蛋白活化標靶",
-      "summary": "這條路徑被作者稱為“BACH2-NRF2 軸”，獨立於眾所周知的 BCL11A 轉錄調節因子，而 BCL11A 轉錄調節因子是已批准的鐮狀細胞疾病 (SCD) 細胞療法 Casgevy 的靶點。\n胎兒潛在血紅素活化後",
+      "title": "全基因組分析發現BACH2為潛在胎兒血紅素活化標靶",
+      "summary": "最新全基因組分析指出，BACH2基因可能是活化胎兒血紅素的潛在標靶，為相關疾病治療帶來新方向。",
       "source": "GEN News",
       "date": "2026-09-30",
       "url": "https://www.genengnews.com/topics/omics/genome-wide-analysis-identifies-bach2-as-potential-fetal-hemoglobin-activation-target/",
@@ -52,7 +52,7 @@
     },
     {
       "title": "羅塔利克斯",
-      "summary": "approval page indicated for the prevention of rotavirus gastroenteritis caused by G1 and non-G1 types (G3, G4, and G9), for use in infants 6 weeks to 24 weeks of age.",
+      "summary": "核准頁面顯示用於預防 G1 和非 G1 型（G3、G4 和 G9）引起的輪狀病毒胃腸炎，用於 6 週至 24 週齡的嬰兒。",
       "source": "FDA Biologics",
       "date": "2026-09-28",
       "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/rotarix",
@@ -75,7 +75,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "What 美國食藥局（FDA） and 歐洲藥品管理局（EMA） now accept from real-world data",
+      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
       "summary": "rd 數據 Pharma Letter",
       "source": "The Pharma Letter",
       "date": "2026-09-15",

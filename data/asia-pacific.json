@@ -1,10 +1,10 @@
 {
   "module": "apac",
-  "updated": "2026-10-04T02:16:45.534001+00:00",
+  "updated": "2026-10-04T15:34:52.574279+00:00",
   "items": [
     {
-      "title": "亞太生命科學產業起飛，新加坡吸引國際生技創投（VC）進駐",
-      "summary": "亞太生命科學產業蓬勃發展，新加坡成功吸引國際生技創投（VC）目光。",
+      "title": "亞太區生命科學產業起飛，新加坡吸引國際生技創投（VC）目光",
+      "summary": "亞太區生命科學產業正快速起飛，新加坡憑藉其優勢，成功吸引了眾多國際生技創投（VC）的目光與資金投入。",
       "source": "Singapore Economic Development Board (EDB)",
       "date": "2026-09-27",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
@@ -18,32 +18,24 @@
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQcnB4eW1TVVN5WEVmRS16aW5NRkgyMG5hVHB2SkxxRWhQWjRiZjhuRHRpa2czYzdKbE15eE1veFhiMHI0dFZZZ3hveGhhLWpScmhNR0FDV0o0bUxEWTBySWVleG5Qbi1lWmV3bWdQWi0wNnh5YzMzX0pic3FlRjVQeVN1NjVYMHhwdnB3bGotZUtFRXhHOHJ3TXBuQjdsLVc4TmM2THBncmVLcW9ZMmszQ19BTFpqZ0lneS1fX1pobUxZT0dXNnB3SVRFcjB5ZGQxU1ZXSmNQaG1lZHZ3QkR4RGlZQmtfLVNpSUdWNE9TOWJEdy1LSUdiSU9seDFMd3p1TDJkdC1qSXBVenhUYktPWXFmNmJ5UkNjVGZyeFZVZzYtalBwbk91VGQtOHJiNFhVSXlJMmNwekx6LVhfY2x3Vm9zWHdVSEh6VmJsRmFqNVN6QjEzR3U5VEx0YXpOU3N1TGRRVy1Tb0RfVXRtbjNad2JFdEF1UjVYX1JfeWFfSG00cWdxaGtSLU9fTzI?oc=5"
     },
     {
-      "title": "細胞治療市場：廠商、規模與2026-2035年趨勢分析",
-      "summary": "分析細胞治療市場的廠商動態、市場規模及2026至2035年的發展趨勢。",
-      "source": "Precedence Research",
-      "date": "2026-09-18",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52U19NdFYyVEVzYjBmb01GN0NsaktTSmJxWXU0RDlsRHMxTjJjMkxiR2c4UlA5WHo4WUJhRmk0Z1dEZ28ybjVMdWFZYWIzNmtlbTllYVVDZDNTTVFtWldGSFE1ck0?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "醫療保健4D列印市場：規模、市佔率與2034年預測",
-      "summary": "醫療保健4D列印市場規模與市佔率預測，展望至2034年發展趨勢。",
+      "title": "醫療保健領域的4D列印市場：規模、市佔率與2034年預測",
+      "summary": "報告探討醫療保健領域4D列印技術的市場規模、市佔率與未來趨勢，預測其至2034年的發展潛力。",
       "source": "Fortune Business Insights",
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGJUNTg1Rl9qeTk0Rnl5aHVTS3lHVk4zdmNsOTVtT3p2YUQ1S3VHa0k1aVQ2cV9TWjRrS3IxOWFjdVBpZTAwb3d6Mi1kVzZnZllaMmZOV1pzSklWczNJZnUyNXhjNGgyX1N6S1JXekx5ZDd4UmdYRnBKOUF5ZkZ1em5iOGVkdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "亞盛醫藥（Adagene）宣布Third Arc Bio在修訂策略合作下，選定首個採用SAFEbody®技術開發遮蔽型CD3 T細胞銜接器的領先候選藥物",
-      "summary": "亞盛醫藥與Third Arc Bio合作，選定首個採用SAFEbody®技術的遮蔽型CD3 T細胞銜接器候選藥物。",
+      "title": "Adagene宣布Third Arc Bio在修訂後的策略合作協議下，已選定首個領先候選藥物，將採用SAFEbody®技術開發遮蔽型CD3 T細胞銜接器",
+      "summary": "Adagene宣布與Third Arc Bio修訂策略合作協議，Third Arc Bio已選定首個領先候選藥物，將利用SAFEbody®技術開發遮蔽型CD3 T細胞銜接器。",
       "source": "The Manila Times",
       "date": "2026-09-10",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNV3YzbVl3SDFQQVF6UHVoZXhwWjYxNlluaHFEcmpfZE9ZWS1YR0IxYUJNV092WWZfdTVEUlVUdkZpVklBNWZLWkx3V3dwZExXY2lDOE5RUkNPSF9nSGdJWDMta0lnaTFzOG9LbENHQkFuSnZkUUxRR1V6ZVdGNDBfakN2ZnRSSkFJandrTzZsN01oT2lKbWtGVXdSUTM2Wm5vanlSVHRIR24zUXA1S2tSMzMxdUphZWpycHRpVW5xRXh3UlBEdW91dlNpMzNlRDEwSmIxcERzeVFFYjZlX1BTbUxDTmRlX2E3UFlRbVZ6NW1rUTZKbDRqUUNfSU9hQlhleWhCSUFoSGU5VzZJN2dxeXFSWGF6S0tmZ0JYRUstNmNiSWVTOUktU0hCeWVxLUlKVThqMzBBRUE2b1h0QVZhb2Q2dzlVV1d1UzVMS0ZqZzZFMlNadWUyZmZNM3BzcVUxZkxLaWN1VlBObXZfd2E1SVI5WVLSAfoCQVVfeXFMTjdUTjVvTHNmdHo2dXJMTFdib1o5NUlNWnRHUTBBRGNVdXppVVBFcjNJM0ktSThrblJHcDY5aE5neTZlN3VyRVVWbV85bjMxYjhGc2h1ZW0tYWFQV3VYaEllSk0wTlVvZ3VwUUlFMEkyNXE2OV9kajhTWHlSNW9Jc1lHZ05KX3pJa0txSTRaTHdwSVJYYnd4YWhLS0pxZkZlcTdJc0M4ZmhpRHJqVDc4NVJRZWMwVHZ3SlBlRTltNHZpS2tKRmFUa1dfbzZQYkVxVmRRUDZCVUpyNWwtV1BIVi1JX2JiMHFaWVFCYkx2dUU0U1MtV2lCdlNZenJ6T1cxMGVrVkFXMURfS1E3dk9SdFFfOW83N2NpS3hYWmR5NUNVVnEtTlVUZy1ZVXFmV0dKdVJDMGMzLVN5R0hxb3BtR2gzNk9Zc0RnLWxrQjRmejdCaGdjUWlZVXhuNHQwWE9lMHFfWG1IREVKTVhlNmtpbDZEUWgxeHdFWmtn?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "人工智慧（AI）在細胞與基因治療（CGT）製造市場的廠商、規模與2026-2035年趨勢",
-      "summary": "探討人工智慧（AI）在細胞與基因治療（CGT）製造市場的廠商、規模與未來趨勢。",
+      "title": "人工智慧（AI）在細胞與基因療法（CGT）製造市場的應用：廠商、規模與2026-2035年趨勢",
+      "summary": "報告深入剖析人工智慧（AI）在細胞與基因療法（CGT）製造市場的應用，涵蓋主要廠商、市場規模及2026年至2035年的發展趨勢。",
       "source": "Precedence Research",
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fOU03a2FydDhfcktucjJOTURsWWdfSnJoazVwWnpOS0dyM1JBR2NHSGQySEZ4YXM2clFKUmxkRHpHSlZNYk5GbGpvc084WjFuTDk5ZzBNYy1pa0JHTFZzaWdzU3pnLVNycFFraF9uZmQ3UTQ?oc=5",
