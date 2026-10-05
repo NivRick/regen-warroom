@@ -1,13 +1,29 @@
 {
   "module": "funding",
-  "updated": "2026-10-05T01:24:40.332939+00:00",
+  "updated": "2026-10-05T19:34:02.903450+00:00",
   "items": [
     {
-      "title": "STAT+：NIH 授予了所有撥款資金，但延遲和不透明的決定阻礙了研究人員",
-      "summary": "NIH 繼續減少涉及健康差異、種族和民族的撥款，但在 2026 財政年度的其他政府優先事項方面幾乎沒有取得任何進展。",
+      "title": "STAT+: Are 幹細胞 the next peptides? These advocates think RFK Jr. could make it happen",
+      "summary": "勝肽在獲得 MAHA 認可後在 美國食藥局（FDA） 獲得了合法性。支持者希望幹細胞治療也能走上同樣的道路。",
       "source": "STAT News",
-      "date": "2026-10-02",
-      "url": "https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss",
+      "date": "2026-10-05",
+      "url": "https://www.statnews.com/2026/10/05/stem-cell-industry-seeks-fda-regulation-like-peptides/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Shionogi 斥資 20 億美元收購一家罕見疾病新創公司",
+      "summary": "收購總部位於德克薩斯州的 IntraBio 為鹽野義公司提供了針對兩種遺傳性疾病的上市治療藥物，從而增加了該公司不斷增長的罕見疾病業務。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-05",
+      "url": "https://www.biopharmadive.com/news/shionogi-pays-2b-to-acquire-a-rare-disease-startup/832103/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "光遺傳學研究人員榮獲諾貝爾獎；羅氏押注 Alector 大腦藥物",
+      "summary": "The Nobel laureates &ldquo;laid the foundation&rdquo; for a new field of brain research, the award committee wrote. Elsewhere, Roche and CSL cut licensing deals and the 美國食藥局（FDA） endorsed broader use of a Lilly medicine.",
+      "source": "BioPharma Dive",
+      "date": "2026-10-05",
+      "url": "https://www.biopharmadive.com/news/nobel-optogenetics-roche-alector-csl-alentis-jaypirca-bayer/832083/",
       "lang": "zh-TW"
     },
     {
@@ -19,11 +35,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "對科學的不信任和一場有趣的基因編輯訴訟",
-      "summary": "為什麼這麼多美國人對科學失去信任？新的基因編輯訴訟是怎麼回事？敬請觀看本週的“The Readout LOUD”播客節目。",
-      "source": "STAT News",
-      "date": "2026-10-01",
-      "url": "https://www.statnews.com/2026/10/01/readout-loud-podcast-trust-in-science-gene-editing-lawsuit/?utm_campaign=rss",
+      "title": "諾華公司對一家中國生物技術公司的 RNA 藥物下了近 8B 美元的賭注",
+      "summary": "作為預付款 5.75 億美元的交換條件，Abogen Biosciences 將向諾華提供其 RNA 技術的使用權，包括許可其主導項目 ABO-2203 的選擇權。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-02",
+      "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
       "lang": "zh-TW"
     },
     {
@@ -40,22 +56,6 @@
       "source": "BioPharma Dive",
       "date": "2026-10-01",
       "url": "https://www.biopharmadive.com/news/sanofi-regeneron-alliance-expanded-dupixent-immunology-drugs-development/831894/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "隨著中國競爭的臨近，美國衛生與公眾服務部啟動新計畫以加速臨床試驗速度",
-      "summary": "該部門正在為提出創新提案的團隊提供資金，因為它正在考慮結束傳統的分階段臨床試驗系統。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-01",
-      "url": "https://www.biopharmadive.com/news/hhs-clinical-trial-speed-arpa-h-drug-testing/831909/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "PhRMA 任命下一任執行長；皮爾法伯 (Pierre Fabre) 在埃布瓦洛 (Ebvallo) 獲得批准後第三次行動",
-      "summary": "一位前國會議員將接替著名說客史蒂夫·烏布爾(Steve Ubl)。在其他地方，最近的收購交易為 Mirum 和 AbbVie 帶來了股息。",
-      "source": "BioPharma Dive",
-      "date": "2026-09-30",
-      "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
       "lang": "zh-TW"
     }
   ]

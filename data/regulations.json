@@ -1,83 +1,91 @@
 {
   "module": "regulation",
-  "updated": "2026-10-05T01:24:26.211198+00:00",
+  "updated": "2026-10-05T19:33:05.216371+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "title": "生物製品評估和研究中心病患參與計劃",
+      "summary": "病人的意見是 CBER 了解疾病和狀況的重要組成部分。與患者接觸並聽取他們對疾病和治療的看法可能有助於該中心推進以患者為中心的醫療產品開發。",
+      "source": "FDA Biologics",
+      "date": "2026-10-05",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/center-biologics-evaluation-and-research-patient-engagement-program",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026 年諾貝爾生理學和醫學獎授予光遺傳學、光門離子通道",
+      "summary": "如今，該電影已授予卡爾·戴瑟羅斯 (Karl Deisseroth) 醫學博士、博士、彼得·赫格曼 (Peter Hegemann) 博士和喬治·內格爾 (Georg Nagel) 博士，以表彰他們在光門控離子通道和光遺傳學方面的發現。\n電影後期走向光遺傳學，光門離子通道先出現",
+      "source": "GEN News",
+      "date": "2026-10-05",
+      "url": "https://www.genengnews.com/topics/translational-medicine/2026-nobel-prize-for-physiology-and-medicine-goes-to-optogenetics-light-gated-ion-channels/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "Latest news from the Center for Biologics Evaluation and Research",
       "source": "FDA Biologics",
       "date": "2026-10-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關作業程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）員工執行業務時所使用的規範。",
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-10-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥署（FDA）計畫更新FARS，將聚焦抗衰老與長壽醫學",
-      "summary": "美國食藥署（FDA）首席科學家Steven Kozlowski醫師表示，更新後的FARS預計將在2027財政年度初期發布，但未提供更具體的時程細節。",
+      "title": "美國食藥局（FDA） to Highlight Aging, Longevity Medicine in Planned FARS Updates",
+      "summary": "美國食藥局（FDA） 首席科學家 Steven Kozlowski 醫學博士表示，更新後的 FARS 將於 2027 財年年初發布，但沒有提供有關時間的進一步細節。\n計劃中的 FARS 更新中的帖子 ne 首先出現在 GEN - 基因工程和生物技術新聞上。",
       "source": "GEN News",
       "date": "2026-10-02",
       "url": "https://www.genengnews.com/topics/translational-medicine/fda-to-highlight-aging-longevity-medicine-in-planned-fars-update/",
       "lang": "zh-TW"
     },
     {
-      "title": "BIVIGAM",
-      "summary": "該產品已獲核准，用於治療原發性體液免疫缺陷症。",
+      "title": "比維加姆",
+      "summary": "產品核准資訊用於治療原發性體液免疫缺陷",
       "source": "FDA Biologics",
       "date": "2026-09-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/bivigam",
       "lang": "zh-TW"
     },
     {
-      "title": "翰森製藥（Hansoh）的泰格莎（Tagrisso）競爭藥物，在阿斯特捷利康（AstraZeneca）提出法律挑戰後，失去歐盟核准",
-      "summary": "翰森製藥（Hansoh）一款與阿斯特捷利康（AstraZeneca）泰格莎（Tagrisso）競爭的藥物，因阿斯特捷利康提出法律挑戰，已遭歐盟撤銷核准。",
+      "title": "豪森的競爭對手 Tagrisso 在阿斯特捷利康法律挑戰後失去歐盟批准",
+      "summary": "l 阿斯特捷利康對 Fierce Pharma 提出法律挑戰後",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "全基因組分析發現BACH2為潛在的胎兒血紅素活化標靶",
-      "summary": "全基因組分析揭示BACH2基因可能是活化胎兒血紅素的新標靶，為相關疾病治療帶來新方向。",
-      "source": "GEN News",
-      "date": "2026-09-30",
-      "url": "https://www.genengnews.com/topics/omics/genome-wide-analysis-identifies-bach2-as-potential-fetal-hemoglobin-activation-target/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "ROTARIX",
-      "summary": "該產品已獲核准，適用於預防由G1型及非G1型（G3、G4、G9）輪狀病毒引起的腸胃炎，適用於6週大以上的嬰兒。",
+      "title": "羅塔利克斯",
+      "summary": "核准頁面顯示用於預防 G1 和非 G1 型（G3、G4 和 G9）引起的輪狀病毒胃腸炎，用於 6 週至 24 週齡的嬰兒。",
       "source": "FDA Biologics",
       "date": "2026-09-28",
       "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/rotarix",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品藥物管理局（FDA）科學公開研討會：次世代定序（NGS）在生物製劑外來因子檢測的應用 – 2026年9月23日",
-      "summary": "本次研討會將邀請各領域專家與重要利害關係人，共同探討次世代定序（NGS）技術在外來因子（AA）檢測的成熟度，並找出相關挑戰。",
+      "title": "美國食藥局（FDA） 科學公共研討會：用於生物製品中外源因子檢測的下一代定序 – 2026 年 9 月 23 日",
+      "summary": "研討會將包括主題專家和主要利益相關者，討論用於 AA 檢測的 NGS 技術的準備情況，識別挑戰，並探索潛在的解決方案，以加速採用基於 NGS 的 AA 檢測方法",
       "source": "09/23/2026",
       "date": "2026-09-25",
       "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/fda-scientific-public-workshop-next-generation-sequencing-adventitious-agent-detection-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "2026年亞太地區（APAC）首次核准藥物完整清單",
-      "summary": "這份清單彙整了2026年在亞太地區（APAC）首次獲得核准上市的所有藥物，提供業界人士快速掌握市場新動態。",
-      "source": "BioPharma APAC",
+      "title": "2026 年亞太地區首次獲準：完整列表",
+      "summary": "Full List biopharmaapac.com",
+      "source": "biopharmaapac.com",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONm12Y05RVXQwekRIWGgzSVM2T0REcWdHamR6QUo1YmNKWHdEaDZiX2tiRjIteUI2MkRCMEFid0hIYXRQNVVMcEp0SEt1WFd4MkN4OTZFenJlUlZ4T2JtUWRKSFp3THhOS0pTWXBvaFdUdXllSVNub1IxbWFhdnB6RkViaDhtTzhiNEtCdmt6dzJZR3FyXy1lSllMQQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品藥物管理局（FDA）與歐洲藥品管理局（EMA）目前接受的真實世界數據（RWD）範圍",
-      "summary": "本文探討美國食品藥物管理局（FDA）與歐洲藥品管理局（EMA",
-      "source": "thepharmaletter.com",
+      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
+      "summary": "rd 數據 Pharma Letter",
+      "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
       "lang": "zh-TW"
