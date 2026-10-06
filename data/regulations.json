@@ -1,13 +1,21 @@
 {
   "module": "regulation",
-  "updated": "2026-10-05T19:33:05.216371+00:00",
+  "updated": "2026-10-06T02:38:56.685522+00:00",
   "items": [
     {
-      "title": "生物製品評估和研究中心病患參與計劃",
-      "summary": "病人的意見是 CBER 了解疾病和狀況的重要組成部分。與患者接觸並聽取他們對疾病和治療的看法可能有助於該中心推進以患者為中心的醫療產品開發。",
+      "title": "生物製劑評估與研究中心病患參與計畫",
+      "summary": "病患的意見回饋，對生物製劑評估與研究中心（CBER）了解疾病狀況至關重要。透過與病患互動，傾聽他們對疾病與治療的看法，能幫助CBER做出更完善的決策。",
       "source": "FDA Biologics",
       "date": "2026-10-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/center-biologics-evaluation-and-research-patient-engagement-program",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "台灣生技代表團在 BioJapan 2026 展示 CDMO、細胞治療和生物製劑領域的區域創新",
+      "summary": "BioJapan 2026 馬來西亞儲備庫在 CDMO、細胞治療和生物製劑方面的創新",
+      "source": "The Malaysian Reserve",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd185aFRMSmRyQUFzX1g2d09qUGFHUmVZV05hX3A2M3ZQa0NKMjItdEtDNzc2R2t5a1VaR0d4VVlqUE1qWlAzWi1fVzJBeFZDbFVwbWh4aFQzOXdaYmdCUFA2MlJidk9DOVZuTFpKWFNqSUg5cFJzX1FqUXY4bUdkQUhsS2NfYWZ4ZENxZjU1RVFRZ1F0dXhRelkxRUNlMS1seVdSdThqT3owZEFFRnFqVWFFVzdENmtDbXN1WXk4aFdqaWZtcGxLYi12WkhXODloU0lVQ3RYaWEtZkZoMTlLTW9jYjVwZw?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -20,7 +28,7 @@
     },
     {
       "title": "生物製品的新動態",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-10-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -35,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） to Highlight Aging, Longevity Medicine in Planned FARS Updates",
+      "title": "美國食藥局（FDA） 將在計劃的 FARS 更新中強調抗衰老、長壽醫學",
       "summary": "美國食藥局（FDA） 首席科學家 Steven Kozlowski 醫學博士表示，更新後的 FARS 將於 2027 財年年初發布，但沒有提供有關時間的進一步細節。\n計劃中的 FARS 更新中的帖子 ne 首先出現在 GEN - 基因工程和生物技術新聞上。",
       "source": "GEN News",
       "date": "2026-10-02",
@@ -51,8 +59,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "豪森的競爭對手 Tagrisso 在阿斯特捷利康法律挑戰後失去歐盟批准",
-      "summary": "l 阿斯特捷利康對 Fierce Pharma 提出法律挑戰後",
+      "title": "翰森製藥的泰格莎競爭藥物，在阿斯特捷利康提出法律挑戰後，失去歐盟核准",
+      "summary": "翰森製藥的泰格莎競爭藥物，因阿斯特捷利康的法律挑戰，遭歐盟撤銷核准。",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
@@ -76,15 +84,15 @@
     },
     {
       "title": "2026 年亞太地區首次獲準：完整列表",
-      "summary": "Full List biopharmaapac.com",
-      "source": "biopharmaapac.com",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONm12Y05RVXQwekRIWGgzSVM2T0REcWdHamR6QUo1YmNKWHdEaDZiX2tiRjIteUI2MkRCMEFid0hIYXRQNVVMcEp0SEt1WFd4MkN4OTZFenJlUlZ4T2JtUWRKSFp3THhOS0pTWXBvaFdUdXllSVNub1IxbWFhdnB6RkViaDhtTzhiNEtCdmt6dzJZR3FyXy1lSllMQQ?oc=5",
+      "summary": "",
+      "source": "BioPharma APAC",
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3c3eEFKemJVTktxR2JqLS1XMzY5SkVDaWRDbkZxWnZzazZaaGpLSFdCSlMyRlhnQ2NTdGYtVUkwbEoxcVd3MnNha3JUVGRTa2pKbG90QWJGRmlxNkUtWEdHUElOWl9SUi1OMEltcVQxRGRNMDZfeko1YVlkT2R1anlFQ1RvcWhMeENZdkVZcEtvNzRER2RvZFhfbw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
-      "summary": "rd 數據 Pharma Letter",
+      "title": "美國食品",
+      "summary": "",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
