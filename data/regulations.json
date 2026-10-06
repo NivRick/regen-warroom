@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-10-06T02:38:56.685522+00:00",
+  "updated": "2026-10-06T17:03:24.926938+00:00",
   "items": [
     {
-      "title": "生物製劑評估與研究中心病患參與計畫",
-      "summary": "病患的意見回饋，對生物製劑評估與研究中心（CBER）了解疾病狀況至關重要。透過與病患互動，傾聽他們對疾病與治療的看法，能幫助CBER做出更完善的決策。",
+      "title": "生物製劑評估與研究中心（CBER）病患參與計畫",
+      "summary": "病患的意見對美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）了解疾病狀況至關重要。CBER積極與病患互動，傾聽他們對疾病與治療的看法。",
       "source": "FDA Biologics",
       "date": "2026-10-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/center-biologics-evaluation-and-research-patient-engagement-program",
@@ -15,12 +15,12 @@
       "summary": "BioJapan 2026 馬來西亞儲備庫在 CDMO、細胞治療和生物製劑方面的創新",
       "source": "The Malaysian Reserve",
       "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd185aFRMSmRyQUFzX1g2d09qUGFHUmVZV05hX3A2M3ZQa0NKMjItdEtDNzc2R2t5a1VaR0d4VVlqUE1qWlAzWi1fVzJBeFZDbFVwbWh4aFQzOXdaYmdCUFA2MlJidk9DOVZuTFpKWFNqSUg5cFJzX1FqUXY4bUdkQUhsS2NfYWZ4ZENxZjU1RVFRZ1F0dXhRelkxRUNlMS1seVdSdThqT3owZEFFRnFqVWFFVzdENmtDbXN1WXk4aFdqaWZtcGxLYi12WkhXODloU0lVQ3RYaWEtZkZoMTlLTW9jYjVwZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVTNlRFpCS3hYRURGc1NXTkF1NGRmMXVPal9Ob1NzUHliNTFoVGEtLW9BaWJkaTZ5T2VZZE1zNEtEdkRPOVQtVk5hakN5N2hpelVFSlB2eGRDRnlrSEJpbzB0NFU1VzlpSFgzWlZtaXB1Y1dVc2pBTFBNVWdidUI0Ujd0MzNxcXBhT2RDZHppT0ZSSTBOQTRzTDRiT3ZNOEM5Tmp3T2NQWVY0UWdhZWlEX1YtdVMzZG5RQXJfbE00MDV6VWhPZWJZR3lDNjV2OW04enpUc1E2Q29TV2pLZUJXWkozcUpLcXhJWUVv?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年諾貝爾生理學和醫學獎授予光遺傳學、光門離子通道",
-      "summary": "如今，該電影已授予卡爾·戴瑟羅斯 (Karl Deisseroth) 醫學博士、博士、彼得·赫格曼 (Peter Hegemann) 博士和喬治·內格爾 (Georg Nagel) 博士，以表彰他們在光門控離子通道和光遺傳學方面的發現。\n電影後期走向光遺傳學，光門離子通道先出現",
+      "title": "2026年諾貝爾生理學或醫學獎頒給光遺傳學與光控離子通道",
+      "summary": "2026年諾貝爾生理學或醫學獎，表彰光遺傳學與光控離子通道的開創性貢獻。",
       "source": "GEN News",
       "date": "2026-10-05",
       "url": "https://www.genengnews.com/topics/translational-medicine/2026-nobel-prize-for-physiology-and-medicine-goes-to-optogenetics-light-gated-ion-channels/",
@@ -43,14 +43,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 將在計劃的 FARS 更新中強調抗衰老、長壽醫學",
-      "summary": "美國食藥局（FDA） 首席科學家 Steven Kozlowski 醫學博士表示，更新後的 FARS 將於 2027 財年年初發布，但沒有提供有關時間的進一步細節。\n計劃中的 FARS 更新中的帖子 ne 首先出現在 GEN - 基因工程和生物技術新聞上。",
-      "source": "GEN News",
-      "date": "2026-10-02",
-      "url": "https://www.genengnews.com/topics/translational-medicine/fda-to-highlight-aging-longevity-medicine-in-planned-fars-update/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "比維加姆",
       "summary": "產品核准資訊用於治療原發性體液免疫缺陷",
       "source": "FDA Biologics",
@@ -59,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "翰森製藥的泰格莎競爭藥物，在阿斯特捷利康提出法律挑戰後，失去歐盟核准",
-      "summary": "翰森製藥的泰格莎競爭藥物，因阿斯特捷利康的法律挑戰，遭歐盟撤銷核准。",
+      "title": "翰森製藥泰格莎（Tagrisso）競爭藥物，在阿斯特捷利康（AstraZeneca）法律挑戰後失去歐盟核准",
+      "summary": "翰森製藥的肺癌藥物，因阿斯特捷利康（AstraZeneca）提告，在歐盟失去上市核准。",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
@@ -87,12 +79,12 @@
       "summary": "",
       "source": "BioPharma APAC",
       "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3c3eEFKemJVTktxR2JqLS1XMzY5SkVDaWRDbkZxWnZzazZaaGpLSFdCSlMyRlhnQ2NTdGYtVUkwbEoxcVd3MnNha3JUVGRTa2pKbG90QWJGRmlxNkUtWEdHUElOWl9SUi1OMEltcVQxRGRNMDZfeko1YVlkT2R1anlFQ1RvcWhMeENZdkVZcEtvNzRER2RvZFhfbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUhLWGNrT0p0TzJ2b05LWHFUZTFua01weUhPdkp2a2RfbnBSZE0tbzh4Vm0tandUdTRPR2hubThmX3hnaXcyNXd6dFlHZzA4VTBUOFhXOV9vSEFfRF90UDJKN2ZJTnFOaGdHMWtINmc3M2dSOEhYdTRtUUJES254QTFQYjM5WWdkaTE4eURlUFZZNFB0cEdHc1p6Zw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品",
-      "summary": "",
+      "title": "美國食品藥物管理局（FDA）與歐洲藥品管理局（EMA）對真實世界數據（RWD）的接受度現況",
+      "summary": "美國FDA與歐洲EMA對真實世界數據（RWD）的應用與接受標準，已逐漸明確。",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",

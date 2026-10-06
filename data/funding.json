@@ -1,13 +1,21 @@
 {
   "module": "funding",
-  "updated": "2026-10-06T02:39:20.447586+00:00",
+  "updated": "2026-10-06T17:03:38.548709+00:00",
   "items": [
     {
-      "title": "STAT+：幹細胞是下一個勝肽嗎？這些倡導者認為 RFK Jr. 可以實現這一目標",
-      "summary": "勝肽在獲得 MAHA 認可後在 美國食藥局（FDA） 獲得了合法性。支持者希望幹細胞治療也能走上同樣的道路。",
+      "title": "阿斯特捷利康（AstraZeneca）在波士頓開設新據點",
+      "summary": "阿斯特捷利康（AstraZeneca）在波士頓設立新研發中心，投入10億美元。",
       "source": "STAT News",
-      "date": "2026-10-05",
-      "url": "https://www.statnews.com/2026/10/05/stem-cell-industry-seeks-fda-regulation-like-peptides/?utm_campaign=rss",
+      "date": "2026-10-06",
+      "url": "https://www.statnews.com/2026/10/06/biotech-news-astrazeneca-opens-new-boston-site/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "幹細胞療法即將迎來黃金時代？",
+      "summary": "幹細胞",
+      "source": "STAT News",
+      "date": "2026-10-06",
+      "url": "https://www.statnews.com/2026/10/06/trump-medicare-checks-stem-cell-treatments-fda-dc-diagnosis/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -24,38 +32,6 @@
       "source": "BioPharma Dive",
       "date": "2026-10-05",
       "url": "https://www.biopharmadive.com/news/nobel-optogenetics-roche-alector-csl-alentis-jaypirca-bayer/832083/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "本週排行榜：科迪亞克的大逆轉和恆瑞的交易",
-      "summary": "BioPharma Dive 數據視覺化系列的最新一期詳細介紹了 Kodiak 的股票表現以及恆瑞與美國和歐洲製藥商的關係。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-02",
-      "url": "https://www.biopharmadive.com/news/week-in-charts-kodiaks-big-comeback-and-hengruis-dealmaking/831690/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "諾華公司對一家中國生物技術公司的 RNA 藥物下了近 8B 美元的賭注",
-      "summary": "作為預付款 5.75 億美元的交換條件，Abogen Biosciences 將向諾華提供其 RNA 技術的使用權，包括許可其主導項目 ABO-2203 的選擇權。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-02",
-      "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "莉莉與福霍恩分道揚鑣； Wave 的 美國食藥局（FDA） 批准計劃",
-      "summary": "在一種抗癌藥物測試結果令人失望後，這家製藥巨頭終止了合作關係。在其他地方，Teva 和 Samsung Bioepis 擴大了合作夥伴關係，太空生物技術 Varda 帶來了 2.51 億美元的投資。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-01",
-      "url": "https://www.biopharmadive.com/news/foghorn-eli-lilly-wave-samsung-bioepis-teva-varda-hatteras/831918/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "賽諾菲 (Sanofi) 與再生元 (Regeneron) 擴大聯盟，尋找下一個 Dupixent",
-      "summary": "該交易包含 10 億美元的預付款，並要求兩家公司開發長效抗體藥物，目標與他們的重磅抗發炎藥物相同。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-01",
-      "url": "https://www.biopharmadive.com/news/sanofi-regeneron-alliance-expanded-dupixent-immunology-drugs-development/831894/",
       "lang": "zh-TW"
     }
   ]

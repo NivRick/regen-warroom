@@ -1,21 +1,13 @@
 {
   "module": "tourism",
-  "updated": "2026-10-06T02:39:27.831173+00:00",
+  "updated": "2026-10-06T17:03:45.010334+00:00",
   "items": [
     {
-      "title": "專題：隨著再生醫學治療的普及，日本考慮收緊規則",
-      "summary": "再生醫學治療方法在日本共同新聞社 Japan Wire 中傳播",
+      "title": "日本研擬收緊再生醫療規範，因應治療普及",
+      "summary": "日本政府正研擬更嚴格的再生醫療法規，以應對這類治療在國內日益普及的趨勢。",
       "source": "Japan Wire by Kyodo News",
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WOHZLZmVGLXJmX0tzQjMxeGdGakxSRFhGWUpJTFVLVjY2YU9CdmRwTlpXWU5lX0J0T1MtMVJlN09uNlJaSjFFaHZVMjdmNHBLMHA3V25jaWFHdw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "韓國「江南 Unni」美容平台資料洩露，影響 22 萬用戶，暴露治療和付款記錄",
-      "summary": "form 遭受資料洩露，影響 220,000 名用戶，暴露治療和付款記錄finance.biggo.com",
-      "source": "finance.biggo.com",
-      "date": "2026-09-07",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZLU9KV2xHTlUzZUJHRlN1UlNRYlRTaTBocU1pcDBYM1l2Q1ZoaTVYNFhmVnFnR09ZRTRaRTFZSFV0aGlJRjRsTGJGcHIxd1hORkN0eTJSOUpUdlJ3cjRqOTBlU2hIQlFmSm52bFA5aEliQjZZMUE?oc=5",
       "lang": "zh-TW"
     }
   ]
