@@ -1,10 +1,42 @@
 {
   "module": "funding",
-  "updated": "2026-10-07T01:58:00.687244+00:00",
+  "updated": "2026-10-07T17:40:45.638346+00:00",
   "items": [
     {
-      "title": "STAT+：阿斯特捷利康在波士頓開設新工廠",
-      "summary": "阿斯特捷利康昨天在肯德爾廣場開設了一個新的研發基地，慶祝在一系列中國交易之後，對這個不穩定的美國生物技術中心投資 10 億美元。",
+      "title": "Forbion 募得 26 億美元，創下史上最大規模募資",
+      "summary": "歐洲知名創投公司 Forbion 宣布，已成功募得 26 億美元，這是該公司迄今最大規模的募資案，也是該地區數一數二的大型募資。",
+      "source": "STAT News",
+      "date": "2026-10-07",
+      "url": "https://www.statnews.com/2026/10/07/biotech-news-forbion-raises-2-6-billion-largest-fundraise/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "由 Jennifer Doudna 共同創辦的生技公司 Caribou Biosciences 將關閉",
+      "summary": "Caribou Biosciences 因未能募得足夠資金，以支持其現成型嵌合抗原受體T細胞療法（CAR-T）的後期臨床試驗，將面臨關閉命運。",
+      "source": "STAT News",
+      "date": "2026-10-07",
+      "url": "https://www.statnews.com/2026/10/07/caribou-biosciences-shutting-down-lymphoma-car-t-therapy/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Caribou 將在融資環境「充滿挑戰」的情況下停止 CAR-T細胞療法 工作並裁員",
+      "summary": "儘管同種異體細胞療法的前景已準備好進行淋巴瘤的後期測試，但 Caribou 無法獲得資金來支持這項工作，現在將尋求「策略性替代方案」。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-07",
+      "url": "https://www.biopharmadive.com/news/caribou-layoffs-strategic-alternatives-allogeneic-cell-therapy-vispacel/832343/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Halozyme 在與默克公司的專利大戰中獲勝； Enliven 準備好預期的白血病試驗",
+      "summary": "荷蘭法院禁止默克公司在幾個歐洲國家銷售皮下注射 Keytruda。在其他地方，Insmed 的一位高層結束了七年的經營，兩家新創公司獲得了創投資金。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-07",
+      "url": "https://www.biopharmadive.com/news/halozyme-merck-europe-enliven-insmed-rougetx-kymathera/832282/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "阿斯特捷利康（",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-10-06",
       "url": "https://www.statnews.com/2026/10/06/biotech-news-astrazeneca-opens-new-boston-site/?utm_campaign=rss",
@@ -32,14 +64,6 @@
       "source": "BioPharma Dive",
       "date": "2026-10-05",
       "url": "https://www.biopharmadive.com/news/shionogi-pays-2b-to-acquire-a-rare-disease-startup/832103/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "光遺傳學研究人員榮獲諾貝爾獎；羅氏押注 Alector 大腦藥物",
-      "summary": "諾貝爾獎得主為大腦研究的新領域“奠定了基礎”，頒獎委員會寫道。在其他地方，羅氏 (Roche) 和 CSL 削減了許可協議，美國食藥局（FDA） 也批准了禮來 (Lilly) 藥物的更廣泛使用。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-05",
-      "url": "https://www.biopharmadive.com/news/nobel-optogenetics-roche-alector-csl-alentis-jaypirca-bayer/832083/",
       "lang": "zh-TW"
     }
   ]
