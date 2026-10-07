@@ -1,21 +1,29 @@
 {
   "module": "funding",
-  "updated": "2026-10-06T17:03:38.548709+00:00",
+  "updated": "2026-10-07T01:58:00.687244+00:00",
   "items": [
     {
-      "title": "阿斯特捷利康（AstraZeneca）在波士頓開設新據點",
-      "summary": "阿斯特捷利康（AstraZeneca）在波士頓設立新研發中心，投入10億美元。",
+      "title": "STAT+：阿斯特捷利康在波士頓開設新工廠",
+      "summary": "阿斯特捷利康昨天在肯德爾廣場開設了一個新的研發基地，慶祝在一系列中國交易之後，對這個不穩定的美國生物技術中心投資 10 億美元。",
       "source": "STAT News",
       "date": "2026-10-06",
       "url": "https://www.statnews.com/2026/10/06/biotech-news-astrazeneca-opens-new-boston-site/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞療法即將迎來黃金時代？",
-      "summary": "幹細胞",
+      "title": "STAT+：幹細胞治療即將迎來勝利嗎？",
+      "summary": "幹細胞可能是下一個勝肽，以及川普的 90 美元支票將如何在大選後發揮作用。",
       "source": "STAT News",
       "date": "2026-10-06",
       "url": "https://www.statnews.com/2026/10/06/trump-medicare-checks-stem-cell-treatments-fda-dc-diagnosis/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "著名生物技術投資者 Forbion 為一對風險基金籌集了 $2.6B",
+      "summary": "此次融資是該公司迄今為止規模最大的一次融資，為進一步落後於美國和中國同行的歐洲生物技術產業提供了提振。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-06",
+      "url": "https://www.biopharmadive.com/news/forbion-venture-capital-growth-fund-fundraise/832254/",
       "lang": "zh-TW"
     },
     {

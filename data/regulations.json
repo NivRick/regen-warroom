@@ -1,10 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-10-06T17:03:24.926938+00:00",
+  "updated": "2026-10-07T01:57:54.844125+00:00",
   "items": [
     {
-      "title": "生物製劑評估與研究中心（CBER）病患參與計畫",
-      "summary": "病患的意見對美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）了解疾病狀況至關重要。CBER積極與病患互動，傾聽他們對疾病與治療的看法。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-10-06",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品評估和研究中心病患參與計劃",
+      "summary": "病人的意見是 CBER 了解疾病和狀況的重要組成部分。與患者接觸並聽取他們對疾病和治療的看法可能有助於該中心推進以患者為中心的醫療產品開發。",
       "source": "FDA Biologics",
       "date": "2026-10-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/center-biologics-evaluation-and-research-patient-engagement-program",
@@ -16,22 +24,6 @@
       "source": "The Malaysian Reserve",
       "date": "2026-10-05",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVTNlRFpCS3hYRURGc1NXTkF1NGRmMXVPal9Ob1NzUHliNTFoVGEtLW9BaWJkaTZ5T2VZZE1zNEtEdkRPOVQtVk5hakN5N2hpelVFSlB2eGRDRnlrSEJpbzB0NFU1VzlpSFgzWlZtaXB1Y1dVc2pBTFBNVWdidUI0Ujd0MzNxcXBhT2RDZHppT0ZSSTBOQTRzTDRiT3ZNOEM5Tmp3T2NQWVY0UWdhZWlEX1YtdVMzZG5RQXJfbE00MDV6VWhPZWJZR3lDNjV2OW04enpUc1E2Q29TV2pLZUJXWkozcUpLcXhJWUVv?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "2026年諾貝爾生理學或醫學獎頒給光遺傳學與光控離子通道",
-      "summary": "2026年諾貝爾生理學或醫學獎，表彰光遺傳學與光控離子通道的開創性貢獻。",
-      "source": "GEN News",
-      "date": "2026-10-05",
-      "url": "https://www.genengnews.com/topics/translational-medicine/2026-nobel-prize-for-physiology-and-medicine-goes-to-optogenetics-light-gated-ion-channels/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-10-02",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
@@ -51,8 +43,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "翰森製藥泰格莎（Tagrisso）競爭藥物，在阿斯特捷利康（AstraZeneca）法律挑戰後失去歐盟核准",
-      "summary": "翰森製藥的肺癌藥物，因阿斯特捷利康（AstraZeneca）提告，在歐盟失去上市核准。",
+      "title": "豪森的競爭對手 Tagrisso 在阿斯特捷利康法律挑戰後失去歐盟批准",
+      "summary": "l 阿斯特捷利康對 Fierce Pharma 提出法律挑戰後",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
@@ -83,8 +75,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品藥物管理局（FDA）與歐洲藥品管理局（EMA）對真實世界數據（RWD）的接受度現況",
-      "summary": "美國FDA與歐洲EMA對真實世界數據（RWD）的應用與接受標準，已逐漸明確。",
+      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
+      "summary": "rd 數據 Pharma Letter",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
