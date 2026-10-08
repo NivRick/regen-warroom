@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-10-08T02:22:49.984647+00:00",
+  "updated": "2026-10-08T17:43:57.529154+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製劑最新消息",
+      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食品藥物管理局生物製劑評估與研究中心（CBER）的病患參與計畫",
-      "summary": "病患的意見回饋，",
+      "title": "生物製劑評估與研究中心（CBER）病患參與計畫",
+      "summary": "病患的意見回饋，對生物製劑評估與研究中心（",
       "source": "FDA Biologics",
       "date": "2026-10-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/center-biologics-evaluation-and-research-patient-engagement-program",
@@ -59,7 +59,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年亞太地區首次獲準：完整列表",
+      "title": "2026 年亞太地區首次獲批：完整列表",
       "summary": "",
       "source": "BioPharma APAC",
       "date": "2026-09-23",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
-      "summary": "rd 數據 Pharma Letter",
+      "title": "美國FDA與歐洲EMA對真實世界數據（RWD）的最新採納標準",
+      "summary": "美國FDA與歐洲EMA正擴大採納真實世界數據（RWD），為藥品審核帶來新契機。",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",

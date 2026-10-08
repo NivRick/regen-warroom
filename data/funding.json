@@ -1,21 +1,45 @@
 {
   "module": "funding",
-  "updated": "2026-10-08T02:22:59.840499+00:00",
+  "updated": "2026-10-08T17:44:26.237664+00:00",
   "items": [
+    {
+      "title": "羅氏與中國生技公司合作，不只授權更深入研發",
+      "summary": "羅氏（Roche）與中國新創公司Defand Therapeutics攜手，共同開發新藥。",
+      "source": "STAT News",
+      "date": "2026-10-08",
+      "url": "https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "羅氏與中國生技公司簽署新藥開發協議，聚焦「分子膠」藥物",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-10-08",
+      "url": "https://www.statnews.com/2026/10/08/roche-defand-therapeutics-drug-development-deal/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Viatris 透過 $1.7B 收購 Pacira 擴大止痛藥物組合",
+      "summary": "該交易為 Viatris 提供了兩種非阿片類止痛藥，預計到 2025 年銷售額將接近 7 億美元，但可能很快就會失去專利保護。 Viatris 發誓將利用其「知識產權專業知識」來維持銷售。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-08",
+      "url": "https://www.biopharmadive.com/news/viatris-pacira-acquire-pain-drug-zilretto-exparel/832481/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "在尋找反向併購目標時，Caribou 可能會成為有價值的遊戲",
+      "summary": "這家陷入困境的細胞療法開發商正在探索戰略替代方案，除其他特徵外，這使其成為獲得反向併購興趣的可能候選者。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-08",
+      "url": "https://www.biopharmadive.com/news/caribou-reverse-merger-prospects-cell-therapy-private-public/832494/",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：Forbion 籌集了 26 億美元，這是迄今為止最大的籌款活動",
       "summary": "歐洲著名創投公司 Forbion 表示，已籌集 26 億美元，這是迄今為止最大的融資，也是該地區近年來最大的融資之一。",
       "source": "STAT News",
       "date": "2026-10-07",
       "url": "https://www.statnews.com/2026/10/07/biotech-news-forbion-raises-2-6-billion-largest-fundraise/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：由珍妮佛杜德納 (Jennifer Doudna) 共同創立的生物技術公司 Caribou Biosciences 即將關閉",
-      "summary": "Caribou Biosciences 因未能籌集到為其現成的 CAR-T細胞療法 淋巴瘤療法進行後期臨床試驗所需的資金而關閉。",
-      "source": "STAT News",
-      "date": "2026-10-07",
-      "url": "https://www.statnews.com/2026/10/07/caribou-biosciences-shutting-down-lymphoma-car-t-therapy/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -35,35 +59,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：阿斯特捷利康在波士頓開設新工廠",
-      "summary": "阿斯特捷利康昨天在肯德爾廣場開設了一個新的研發中心，慶祝在一系列中國交易之後，對這個不穩定的美國生物技術中心投資 10 億美元。",
-      "source": "STAT News",
-      "date": "2026-10-06",
-      "url": "https://www.statnews.com/2026/10/06/biotech-news-astrazeneca-opens-new-boston-site/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：幹細胞治療即將迎來勝利嗎？",
-      "summary": "幹細胞可能是下一個勝肽，以及川普的 90 美元支票將如何在大選後發揮作用。",
-      "source": "STAT News",
-      "date": "2026-10-06",
-      "url": "https://www.statnews.com/2026/10/06/trump-medicare-checks-stem-cell-treatments-fda-dc-diagnosis/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "著名生物技術投資者 Forbion 為一對風險基金籌集了 $2.6B",
       "summary": "此次融資是該公司迄今為止規模最大的一次融資，為進一步落後於美國和中國同行的歐洲生物技術產業提供了提振。",
       "source": "BioPharma Dive",
       "date": "2026-10-06",
       "url": "https://www.biopharmadive.com/news/forbion-venture-capital-growth-fund-fundraise/832254/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Shionogi 斥資 20 億美元收購一家罕見疾病新創公司",
-      "summary": "收購總部位於德克薩斯州的 IntraBio 為鹽野義公司提供了針對兩種遺傳性疾病的上市治療藥物，從而增加了該公司不斷增長的罕見疾病業務。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-05",
-      "url": "https://www.biopharmadive.com/news/shionogi-pays-2b-to-acquire-a-rare-disease-startup/832103/",
       "lang": "zh-TW"
     }
   ]
