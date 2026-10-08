@@ -1,12 +1,12 @@
 {
   "module": "research",
-  "updated": "2026-10-07T17:39:26.521663+00:00",
+  "updated": "2026-10-08T02:22:11.081560+00:00",
   "items": [
     {
-      "title": "可設計的扭轉緻密化技術，打造具生物活性的膠原蛋白水凝膠纖維，力學特性媲美肌腱",
-      "summary": "重組膠原蛋白水凝膠雖然具備承重組織工程所需的生物活性，但其模量（從帕斯卡到低千帕）卻限制",
+      "title": "可設計的扭轉緻密化路徑，打造具生物活性膠原蛋白水凝膠紗線，力學特性媲美肌腱。",
+      "summary": "重組膠原蛋白水凝膠能提供承重組織工程所需的生物活性，但其帕斯卡到低千帕的模量限制了...",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42781499/",
       "lang": "zh-TW"
     },
@@ -14,7 +14,7 @@
       "title": "可自交聯、黏性的腸源性細胞外基質水凝膠可增強類器官的保留並恢復腸道屏障的完整性。",
       "summary": "腸道屏障的破壞會損害胃腸道的基本功能並引發嚴重的發炎。因此，腸道類器官的移植透過促進再生來恢復受損腸道屏障的完整性。然而，動態黏膜微...",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42781296/",
       "lang": "zh-TW"
     },
@@ -22,31 +22,23 @@
       "title": "點擊化學修飾的心肌細胞增強心肌收縮力並防止缺血再灌注損傷的心臟重塑。",
       "summary": "使用源自人類多能幹細胞（hPSC-CM）的心肌細胞進行心臟細胞治療的挑戰之一是它們在梗塞組織中的植入和存活率較差。點擊化學和脂質插入是用膠原蛋白雜化物修飾 hPSC-CM 表面的簡單方法...",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42780908/",
       "lang": "zh-TW"
     },
     {
-      "title": "Engineering ovarian asymmetric mechanical niches in a dual-layer microcavity array enhances mouse secondary follicle development and oocyte competence.",
+      "title": "在雙層微腔陣列中設計卵巢不對稱機械生態位可增強小鼠次級卵泡發育和卵母細胞能力。",
       "summary": "隨著全球人口老化和生育率下降，保護生殖健康已成為一項重要的生物醫學挑戰。",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42761305/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "用於骨再生的釋氫生物材料：機制、設計策略與應用。",
-      "summary": "由於其多方面的病理微環境，複雜的骨缺損仍然是主要的臨床挑戰。近年來，氫（H",
-      "source": "PubMed",
-      "date": "2026-10-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42751209/",
       "lang": "zh-TW"
     },
     {
       "title": "用於傷口修復的生物活性檸檬酸鹽水凝膠：從結構功能設計到微環境調節。",
       "summary": "慢性不癒合傷口的特徵是持續感染、慢性發炎和血管生成缺陷的複雜微環境，對再生醫學構成了重大障礙。基於檸檬酸鹽的化學已成為工程生物指導材料的複雜平台...",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42741660/",
       "lang": "zh-TW"
     },
@@ -54,7 +46,7 @@
       "title": "間質幹細胞衍生的細胞外囊泡作為自閉症譜系障礙的無細胞方法的治療潛力：臨床前研究的系統回顧和薈萃分析。",
       "summary": "自閉症譜系障礙 (ASD) 是一種複雜的神經發育疾病，其特徵是社交互動、重複行為模式和神經發炎方面的挑戰，有效的治療方法有限。間質幹細胞衍生的細胞外囊泡（MSC-EV）提供了一個有前途的細胞...",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42759891/",
       "lang": "zh-TW"
     },
@@ -62,31 +54,31 @@
       "title": "用於骨組織工程的富含羥基磷灰石的冷凍凝膠的一鍋法製造和體外表徵。",
       "summary": "Cryogel 已成為骨組織工程 (BTE) 中細胞外基質模擬的有前景的仿生支架。在這項研究中，我們研究了羥基磷灰石 (HA) 的摻入如何影響基於甲基丙烯酰基 D 的冷凍凝膠的物理化學、機械和生物性能。",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42784982/",
       "lang": "zh-TW"
     },
     {
-      "title": "人工智慧（AI）在生醫材料科學的關鍵回顧：從機器學習、可解釋式AI到即時自適應材料",
-      "summary": "人工智慧（AI），尤其是機器學習（ML）和深度學習（DL），正快速地改變生醫材料科學領域。這些計算工具...",
+      "title": "從機器學習和可解釋的人工智慧到即時自適應材料，對生物材料科學中的人工智慧進行了批判性回顧。",
+      "summary": "人工智慧 (AI)，尤其是機器學習 (ML) 和深度學習 (DL)，正在迅速改變生物材料科學。這些計算工具使研究人員能夠分析大型複雜的數據集，發現新材料，並改進現有材料的設計和性能。機器學習和...",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42777682/",
       "lang": "zh-TW"
     },
     {
-      "title": "矽氧烷基材料的進展增強了混合水凝膠及其生物醫學應用。",
-      "summary": "水凝膠具有高含水量、優異的生物相容性和刺激響應特性，在藥物傳輸、組織工程和傷口癒合等生物醫學領域有著廣泛的應用。然而，傳統的水凝膠常常受到...",
+      "title": "矽氧烷材料強化型複合水凝膠的進展及其生醫應用",
+      "summary": "水凝膠因其高含水量、優異的生物相容性及刺激響應特性而備受矚目，已在生醫領域獲得廣泛應用。",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42772198/",
       "lang": "zh-TW"
     },
     {
-      "title": "可編程 4D 列印可持續多功能光樹脂，具有組織匹配力學，可實現界面組織再生。",
-      "summary": "由於在人工植入物中模仿天然骨軟骨組織的空間和成分複雜性有困難，關節軟骨和軟骨下骨的整合再生仍然是一個重大的臨床挑戰。為了克服這些限制，3D 列印使...",
+      "title": "可程式化4D列",
+      "summary": "",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42761431/",
       "lang": "zh-TW"
     },
@@ -94,7 +86,7 @@
       "title": "「海洋生物材料使用壓縮和吸收方法作為載有細胞的水凝膠設想軟骨組織工程」的勘誤 [Biomater。副詞。第 137 卷，2022 年 6 月，212843]。",
       "summary": "",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42760196/",
       "lang": "zh-TW"
     },
@@ -102,7 +94,7 @@
       "title": "圍手術期高壓氧治療：機轉、證據及臨床應用。",
       "summary": "高壓氧療法在高於大氣壓力的壓力下提供 100% 的氧氣，使血漿氧含量和組織氧合作用高於正常含氧量水平。高壓氧治療曾經僅限於減壓疾病，現在作為一種圍手術期輔助手段而得到認可，有可能減輕...",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42734465/",
       "lang": "zh-TW"
     },
@@ -110,7 +102,7 @@
       "title": "成纖維細胞相關的 TPM2 將細胞基質重塑與肝內膽管癌中的 EMT-Notch 訊號傳導和吉西他濱抗藥性聯繫起來。",
       "summary": "肝內膽管癌（ICC）是一種侵襲性肝臟惡性腫瘤，對基於吉西他濱的化療具有異質性反應。與吉西他濱反應相關的細胞和微環境程序仍未完全了解。本研究旨在確定腫瘤微環境...",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42766730/",
       "lang": "zh-TW"
     },
@@ -118,7 +110,7 @@
       "title": "免疫檢查點敲除篩選揭示 TIGIT-CD155 交互作用是急性骨髓性白血病中接頭 CAR-T細胞療法 細胞功能的重要調節因子。",
       "summary": "急性骨髓性白血病 (AML) 的嵌合抗原受體 (CAR) T 細胞療法面臨嚴峻挑戰，包括嚴重的脫靶毒性、抗原異質性和主要免疫逃脫機制。為了解決這些限制，我們之前開發了適配器 CAR (AdCAR) 平台...",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42750591/",
       "lang": "zh-TW"
     },
@@ -126,23 +118,23 @@
       "title": "rAAV 基因治療的臨床免疫原性：見解和影響。",
       "summary": "重組腺相關病毒 (rAAV) 單次給藥後可在多個標靶器官中延長治療蛋白表達，具有顯著的臨床益處和良好的安全性，並且可以獲得主動免疫管理策略的進一步支持。 ……",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42835666/",
       "lang": "zh-TW"
     },
     {
-      "title": "打造仿生冠狀動脈模型，用於川崎病（KD）研究與藥物篩選",
-      "summary": "川崎病（KD）是一種主要影響兒童的急性血管炎，其中冠狀動脈病變是最嚴重的併發症。",
+      "title": "用於川崎病建模和藥物篩選的仿生冠狀動脈等效工程。",
+      "summary": "川崎病（KD）是一種急性血管炎，主要影響兒童群體，冠狀動脈病變是其最嚴重的臨床後遺症。儘管研究了幾十年，但這種綜合徵的確切病因和發病機制仍然難以捉摸。這些關鍵知識...",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840853/",
       "lang": "zh-TW"
     },
     {
-      "title": "人類胎盤去細胞化細胞外",
-      "summary": "",
+      "title": "人類胎盤去細胞化細胞外基質，相較於特定細胞外基質蛋白基質，更能促進人類胚胎幹細胞分化為胰臟前驅細胞",
+      "summary": "糖尿病的細胞替代療法需要可規模化生產的功能性β細胞來源。從人類胚胎幹細胞（hESCs）分化出",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840348/",
       "lang": "zh-TW"
     },
@@ -150,7 +142,7 @@
       "title": "幹細胞老化作為年齡相關骨骼退化的再生瓶頸：機制串擾和轉化策略。",
       "summary": "骨骼退化是老年人疼痛、殘疾、脆性骨折和喪失獨立性的主要原因。儘管骨質疏鬆症、骨關節炎和椎間盤退化通常作為解剖學上獨立的疾病進行治療，但它們有一個共同的再生失敗：...",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42835960/",
       "lang": "zh-TW"
     },
@@ -158,15 +150,23 @@
       "title": "基於環境情報的框架，用於定量評估細胞培養操作，以支援標準化和培訓。",
       "summary": "細胞療法的廣泛實施增加了對穩定且可重複的細胞製造方法的需求。然而，許多細胞製造過程嚴重依賴手工細胞培養操作，操作人員培訓仍然很大程度上依賴主觀評估和默契…",
       "source": "PubMed",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42831203/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "大量捕捉異質循環腫瘤細胞",
+      "summary": "循環腫瘤細胞（CTC）攜帶來自原發腫瘤的多維訊息，但目前的分離策略導致可用於穩健下游分析的細胞數量不足。為了解決這個問題，我們提出一個",
+      "source": "PubMed",
+      "date": "2026-10-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42830976/",
       "lang": "zh-TW"
     },
     {
       "title": "[PHASE1] RXIM002 治療自體免疫性血球減少症的第 1 期劑量遞增研究",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：RiboX Therapeutics Ltd.｜第一階段旨在評估 RXIM002 在復發或難治性自體免疫性血球減少症患者中的安全性、藥物動力學、藥效學和初步療效。",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://clinicaltrials.gov/study/NCT07765966",
       "lang": "zh-TW"
     },
@@ -174,15 +174,15 @@
       "title": "[第一階段] C-CAR168 在系統性硬化症 (SSc) 參與者中的 1b 期研究",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：AbelZeta Inc.｜這項 1b 期、多中心、開放標籤研究將評估難治性 S 患者接受淋巴細胞清除化療後單次輸注自體抗 CD20/BCMA 嵌合抗原受體 T 細胞 (C-CAR168) 的安全性和有效性",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://clinicaltrials.gov/study/NCT07854483",
       "lang": "zh-TW"
     },
     {
       "title": "[二期臨床] 晚期非小細胞肺癌患者一線化學免疫療法後，局部鞏固性治療與維持性免疫療法的比較",
-      "summary": "這項二期臨床試驗，旨在比較晚期非小細胞肺癌（NSCLC）患者，一線治療後局部鞏固與維持",
+      "summary": "廣東省人民醫院的二期臨床試驗，比較晚期非小細胞肺癌（NSCLC）患者一線化學免疫療法後",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://clinicaltrials.gov/study/NCT07842471",
       "lang": "zh-TW"
     },
@@ -190,7 +190,7 @@
       "title": "[PHASE2] Relatlimab 和 Nivolumab (Opdualag) 在複製修復缺陷 HGG 和 DIPG 的研究",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：全國兒童醫院｜本研究的目的是進一步評估 Opdualag 對於複製修復缺陷 HGG（包括 DIPG）患者的可行性和耐受性。",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://clinicaltrials.gov/study/NCT07644312",
       "lang": "zh-TW"
     },
@@ -198,7 +198,7 @@
       "title": "[第一階段]針對多發性骨髓瘤的通用CAR-T細胞",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：深圳基因免疫醫學研究院｜本研究的目的是評估通用型CAR T細胞靶向多發性骨髓瘤的可行性、安全性和有效性。研究的另一個目標是更多地了解通用 CAR-T細胞療法 細胞在體內的持久性和功能。",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://clinicaltrials.gov/study/NCT06006741",
       "lang": "zh-TW"
     },
@@ -206,15 +206,15 @@
       "title": "[PHASE1, PHASE2] 針對自體免疫疾病的 CAR-T細胞療法 細胞",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：深圳基因免疫醫學研究院｜本研究的目的是評估CAR-T細胞治療自體免疫疾病患者的可行性、安全性和有效性。研究的另一個目標是更多地了解 CAR-T細胞療法 細胞的安全性和功能及其持久性。",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://clinicaltrials.gov/study/NCT05459870",
       "lang": "zh-TW"
     },
     {
-      "title": "[臨床一期, 臨床二期] RC48-ADC合併Pyrotinib治療HER2基因突變之局部晚期或轉移性非小細胞肺癌研究",
-      "summary": "本研究將評估RC48-ADC注射劑合併Pyrotinib，治療HER2基因突變之局部晚期或轉移性非小細胞肺癌的療效、安全性與藥物動力學。",
+      "title": "[一期、二期臨床試驗] RC48-ADC 併用 Pyrotinib 治療 HER2 突變之局部晚期或轉移性非小細胞肺癌（NSCLC）研究",
+      "summary": "狀態：尚未招募｜主辦：RemeGen Co., Ltd.｜本研究將評估",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://clinicaltrials.gov/study/NCT05745740",
       "lang": "zh-TW"
     },
@@ -222,7 +222,7 @@
       "title": "[第一階段] KITE-753 在 R/R B 細胞 ALL 的研究",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：M.D.安德森癌症中心｜這項臨床研究的目標是找到 KITE-753 在復發/難治性 B 細胞 ALL 患者中的建議劑量。 KITE-753的安全性也將被研究。",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://clinicaltrials.gov/study/NCT07674823",
       "lang": "zh-TW"
     },
@@ -230,7 +230,7 @@
       "title": "[PHASE1, PHASE2] 多發性骨髓瘤或漿細胞瘤的第一線合併 CAR-T細胞療法 細胞療法",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：深圳基因免疫醫學研究院｜本次臨床試驗的目的是評估針對高風險多發性骨髓瘤或漿細胞瘤患者的多種癌細胞抗原的CAR-T細胞療法作為一線治療方案的一部分的可行性、安全性和有效性。阿諾斯",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://clinicaltrials.gov/study/NCT06429150",
       "lang": "zh-TW"
     },
@@ -238,20 +238,36 @@
       "title": "[第一階段] 測試在復發性頭頸鱗狀細胞癌的放射治療中添加抗癌藥物 Camonsertib",
       "summary": "狀態：招募中｜主辦單位：美國國家癌症研究所（NCI）｜這項一期試驗測試了 camonsertib 聯合立體定位放射治療在治療一段時間後復發的頭頸鱗狀細胞癌患者中控制疾病的安全性、副作用和最佳劑量。",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "https://clinicaltrials.gov/study/NCT07156227",
       "lang": "zh-TW"
     },
     {
-      "title": "一種細胞療法在僵人症患者單次給藥後展現持續療效；Kyverna 將公布相關數據。",
-      "summary": "Kyverna的細胞療法在僵人症單次給藥後顯示持續療效，公司將公布數據。",
+      "title": "Sylvester癌症中心2026年9月至10月重點資訊摘要",
+      "summary": "Sylvester癌症中心發布2026年9月至10月最新癌症研究與治療進展。",
+      "source": "Newswise",
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHg4Y3VtMkpPaDhpcER0MzBXb080SjhOWmtNZWxyMHpvdVR2XzFTUGFnTEJ2UlptcmlUV0JzNEQzWnYzay1zekdJWkZMTzNZZExlWXFrVW0yWEJaMUJ3cWVLNGZjc2RWQjNMUmdVLVo2dGk2dlE4LTdETENGTVlkMFVlV2ExeEZNLVHSAYoBQVVfeXFMTzh4OGN1bTJKT2g4aXBEdDMwV29PNEo4TlprTWVscjB6b3VUdl8xU1BhZ0xCdlJabXJpVFdCczREM1p2M2stc3pHSVpGTE8zWWRMZVlxa1VtMlhCWjFCd3FlSzRmY3NkVkIzTFJnVS1aNnRpNnZROC03RExDRk1ZZDBVZVdhMXhGTS1R?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "細胞療法在治療僵人症候群一劑後顯示出持續的益處； Kyverna 將提供數據。",
+      "summary": "僵人症候群服一劑後； Kyverna 將提供數據。庫存泰坦",
       "source": "Stock Titan",
       "date": "2026-10-07",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2xBbkZmY2dQYi15dERvYklwemdwYzVOOVJWaVVJU2tsYUs3a01kUTlXdVFzUWNHUHdiM3NfQ0JpYlMtYi1LR05aM1ZndHpLaldSaG4zUUxNM2pEaE9GbUtxN0lpYnJKSnpNUHZDV2lDaTdYMzVmbFlhc085dEpTZ1JTSjIyTTBibHJWZE1CWm00SzNqVDFTYk1KYWRleGZjVWdSZ1hPUV8tT1dDcklBX3lMYy1fbjg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "MGFA 202",
+      "title": "退化性椎間盤疾病管道 2026：綜合臨床試驗和治療分析以及 DelveInsight 的關鍵 MOA 和 ROA 見解 | Mesoblast、DiscGenics、Biosplice Therapeutics、BIOPHARM",
+      "summary": "DelveInsight 提供全面的臨床試驗和治療分析以及關鍵 MOA 和 ROA 見解 | Mesoblast、DiscGenics、Biosplice Therapeutics、BIOPHARM StreetInsider",
+      "source": "StreetInsider",
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQbVJyZWhHZkNfc3NYaGp1REpCejFWYnpxeHZZU1FfeFVCa1V0aGVCNjA2SERHWjdjMUtWNHhFeUo5NjJZUnctNFZBcS1zM2RhYkZhazdyRHN3ak5Lb3haQUg4ZU9rY2JiMWU4d1ZjVGRUTm9ONzhnTy0yaktQeGYzWXJTQVJWOGRuWm93eVYxbTBsUkZfLWstcjA3RE80SkJFcEtuclE2WTB1WlNwYVlTRjBRN3RIMzVBU3otNmpQMkJHSW9IMzhySmVLOTJKYmRiNHctZXp0VmlSQU5WdUhpYjhIaXNPWWZjX0xGMnFtWHYwaXFzNHAwdFVFckF1TkJrQkZ5ZkoyVXl4QURFYlN1THltcVV5bnp3X2ZEeVlDT1BEUXo3Zm5OM0tNQ2pXanl2czJtMzE1ajlHd2xiemg4YWJTOXMtUlVrT3dWTmRoQUwzTkhKaDJMMzVMZGhRNkdGeW5tSGdmTWNyR0JlZU1ma2ROT3RuUQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026年MGFA會議：重複性嵌合抗原受體",
       "summary": "",
       "source": "Myasthenia Gravis News",
       "date": "2026-10-06",
@@ -267,14 +283,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Eyestem 報告 Eyecyte-RPE 治療地理萎縮的中期 2 期研究結果",
-      "summary": "用於地理萎縮中的 Eyecyte-RPE Eyewire+",
-      "source": "Eyewire+",
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcWw0MUpLTWlUcGV2S2dxeF92cHNPaTdoLWpUUXlYaEYzTDc4TmZHQmcxX1NqUVpTNmQxTVV0VWEzSnc0ck1aM0p4cEVCVDFqd0FSbDM3ZlY3SkNxRVFmTnJEcG5NN0RpUldRNllKNnptX1dmbzVVMVVzanMzOWJOUXlhb19HLV9MTE0wZlpGanJiOFdtQmdKQUVtdHUxRHlYUW9lZGoxMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "[第 2 階段] 測試單獨使用 Mosunetuzumab、合併 Zanubrutinib 或合併 Polatuzumab Vedotin 治療復發或治療後未改善的邊緣區淋巴瘤",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：SWOG癌症研究網絡｜這項 II 期試驗比較了單獨使用 mosunetuzumab 與 mosunetuzumab 與 zanubrutinib 或 polatuzumab vedotin 治療在一段時間的改善（復發）後復發或對治療無反應的邊緣淋巴瘤患者的效果。",
       "source": "ClinicalTrials.gov｜Global",
@@ -283,8 +291,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[臨床一期] CD45RA耗竭型CD19嵌合抗原受體T細胞（CAR-T）鞏固療法，用於TCRαβ+/CD19 B細胞耗竭型半相合造血幹細胞移植後復發/難治性CD19陽性急性淋巴性白血病及淋巴瘤",
-      "summary": "",
+      "title": "[第一階段] TCRαβ+/CD19 B 細胞耗竭的單倍相合造血細胞移植治療復發/難治性 CD19+ ALL 和淋巴瘤後，CD45RA 耗竭的 CD19-CAR-T細胞療法 細胞鞏固",
+      "summary": "狀態：招募中｜主辦：St.聖裘德兒童研究醫院｜這項研究的目的是了解更多關於將部分匹配的家庭成員捐贈的血細胞移植給患有高危險CD19陽性白血病ALL的兒童的新方法。\n\n主要目標：\n\n\\- 評估安全性和可行性",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-10-03",
       "url": "https://clinicaltrials.gov/study/NCT07257419",
@@ -317,7 +325,7 @@
     {
       "title": "[第 3 階段] Izalontamab Brengitecan (BMS-986507) 合併奧希替尼 (Osimertinib) 與奧希替尼 (Osimertinib) 單藥療法或奧希替尼 (Osimertinib) 合併鉑類化療治療 EGFRmt 非小細胞肺癌的研究 (I2BR-Lung003)",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：百時美施貴寶｜本研究的目的是評估 izalontamab brengitecan (iza-bren) 聯合奧希替尼 (osimertinib) 與單獨使用奧希替尼 (osimertinib) 或聯合奧希替尼 (osimertinib) 與單獨使用奧希替尼 (osimertinib) 或聯合奧希替尼 (osimertinib) 與單獨使用奧希替尼 (osimertinib) 或聯合奧希替尼 (osimertinib) 單獨使用奧希替尼 (osimertinib) 或聯合奧希替尼 (osimertinib) 治療晚期的治療 NSC 的情況。",
-      "source": "ClinicalTrials.gov｜India, Japan, Australia",
+      "source": "ClinicalTrials.gov｜Argentina, South Korea, Spain",
       "date": "2026-09-30",
       "url": "https://clinicaltrials.gov/study/NCT07680790",
       "lang": "zh-TW"
@@ -336,14 +344,6 @@
       "source": "ScienceDaily",
       "date": "2026-09-25",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pVjJ4dGd4azdtZDF3NWZuNnpiWmt2ZHBOaWVlOGZSd01xRE1xTFktd1FCLU51UHdNUTAzaTM2ZlV3T0dBOGhQWVVKamJhWkJOa2pRMlRPN2l4ZFdiVEZHNXBhTGFxWk1FaGFMQmhwSQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "ASTRO 2026：推進放射治療的 4 大摘要",
-      "summary": "透析療法 UT MD 安德森",
-      "source": "UT MD Anderson",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1lGOU80cS0xYXpQWDAxSDI5bGVBWC1YWS1uTDc0cWhIY0EtRXBnZU4tWGQxNWh5a2w5eDFybElYQTdMUzRkd2tibFhoVkpKWHFMSHV4d1RBcFVlTm9naFFNMVB1cDgzTV9QY0llek4tbEd1Y1VPbzNjMUt0TW9BRUZwakVkX3c5QTVqZzNSRFJ2emc3UG9WODJKVnlJUW1RU1FjdGV2alNCYVdySVZiSzF2VEY?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -380,7 +380,7 @@
     },
     {
       "title": "美國食藥局（FDA） 批准使用 CAR-T細胞療法 細胞對抗大腸直腸癌的臨床試驗",
-      "summary": "lls to Fight Colorectal Cancer University of Colorado Anschutz",
+      "summary": "對抗大腸直腸癌的努力 科羅拉多大學安舒茨分校",
       "source": "University of Colorado Anschutz",
       "date": "2026-09-10",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTVtRU5Fa2xiR1RnU2xIaVEzSzVvX0dDcmVLSXZVaEhfWU5tQmRWbUstUExPM09WZWt4anNLRVZaTmJhdnREVHpGUTVLVmhuT1NKR0ZrdzN4eW5ReW5PZ3h3MndGRF9QRXFwbUwwSUtzZURZOXNXdUt1aEk5ZUpjTnBXTy1Tb0JaSHZrMTBZbUhVa2pEOUx4b0FxNzlfbXRxakhuRlJFeklLa1FDRk05ampSa1laMEdtakdJQjN30gHOAUFVX3lxTE1NWHNab1BZS2RWZjBBZmNJUXJrc1N6dzg2MmUxMVVHRE1HTHB4NkZYYnZVckJrbVg2Uk9pbVFiTU83UFcyZXRKbVRkT2hiVEFkMmJsYWdaMG9HQnFudTcxa3lINHdTTmQ4N2Nfb1dJdjRpVFNtdW1aeVU3dmdfYmlzcUplVVpxNFhJOU1fRXl1MGdCaDQ0eFV3LURTWk5DZGJXZnBpVm5CTkRtcU9mdGgycHlwQUtHSlg3WldGVTlUbElPRlpHYlVkSnZIckRR?oc=5",
