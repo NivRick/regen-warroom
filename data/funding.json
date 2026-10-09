@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-10-09T02:42:15.987765+00:00",
+  "updated": "2026-10-09T17:19:48.951715+00:00",
   "items": [
     {
-      "title": "NIH 資金的不確定性阻礙了美國研究人員的發展",
-      "summary": "美国国立卫生研究院 (NIH) 的预算支出情况如何？為什麼生技投資者感到悲觀？敬请观看本周的“The Readout LOUD”播客节目。",
+      "title": "TRex Bio 定價 1.17 億美元 首次公開上市（IPO） 以支持免疫藥物工作",
+      "summary": "禮來公司是 TRex 的最大股東，該公司正在開發透過活化「Treg」細胞來治療免疫性疾病的藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-09",
+      "url": "https://www.biopharmadive.com/news/trex-bio-ipo-pricing-autoimmune-tregs/832297/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國國家衛生研究院（NIH）資金不確定性，讓美國研究人員很頭痛",
+      "summary": "美國國家衛生研究院（NIH）的預算都花到哪去了？為什麼生技投資人會感到悲觀？都在本週的「The Readout LOUD」Podcast節目中揭曉。",
       "source": "STAT News",
       "date": "2026-10-08",
       "url": "https://www.statnews.com/2026/10/08/readout-loud-podcast-nih-funding-research-biotech-caribou-nobel-prize/?utm_campaign=rss",
@@ -19,8 +27,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：羅氏與中國生物技術公司簽署藥物發現協議，重點在於分子膠藥物",
-      "summary": "Roche has inked a drug discovery deal with Chinese biotech Defand Therapeutics, focused on molecular glue medicines.",
+      "title": "STAT+: Roche inks drug discovery deal with Chinese biotech, focused on molecular glue medicines",
+      "summary": "羅氏與中國生物技術公司 Defand Therapeutics 簽署了一項藥物發現協議，重點關注分子膠藥物。",
       "source": "STAT News",
       "date": "2026-10-08",
       "url": "https://www.statnews.com/2026/10/08/roche-defand-therapeutics-drug-development-deal/?utm_campaign=rss",
@@ -56,14 +64,6 @@
       "source": "BioPharma Dive",
       "date": "2026-10-07",
       "url": "https://www.biopharmadive.com/news/halozyme-merck-europe-enliven-insmed-rougetx-kymathera/832282/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "著名生物技術投資者 Forbion 為一對風險基金籌集了 $2.6B",
-      "summary": "此次融資是該公司迄今為止規模最大的一次融資，為進一步落後於美國和中國同行的歐洲生物技術產業提供了提振。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-06",
-      "url": "https://www.biopharmadive.com/news/forbion-venture-capital-growth-fund-fundraise/832254/",
       "lang": "zh-TW"
     }
   ]
