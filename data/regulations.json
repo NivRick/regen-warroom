@@ -1,37 +1,29 @@
 {
   "module": "regulation",
-  "updated": "2026-10-08T17:43:57.529154+00:00",
+  "updated": "2026-10-09T02:41:57.010188+00:00",
   "items": [
     {
-      "title": "生物製劑最新消息",
-      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製劑評估與研究中心（CBER）病患參與計畫",
-      "summary": "病患的意見回饋，對生物製劑評估與研究中心（",
-      "source": "FDA Biologics",
-      "date": "2026-10-05",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/center-biologics-evaluation-and-research-patient-engagement-program",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "台灣生技代表團在 BioJapan 2026 展示 CDMO、細胞治療和生物製劑領域的區域創新",
-      "summary": "BioJapan 2026 馬來西亞儲備庫在 CDMO、細胞治療和生物製劑方面的創新",
-      "source": "The Malaysian Reserve",
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVTNlRFpCS3hYRURGc1NXTkF1NGRmMXVPal9Ob1NzUHliNTFoVGEtLW9BaWJkaTZ5T2VZZE1zNEtEdkRPOVQtVk5hakN5N2hpelVFSlB2eGRDRnlrSEJpbzB0NFU1VzlpSFgzWlZtaXB1Y1dVc2pBTFBNVWdidUI0Ujd0MzNxcXBhT2RDZHppT0ZSSTBOQTRzTDRiT3ZNOEM5Tmp3T2NQWVY0UWdhZWlEX1YtdVMzZG5RQXJfbE00MDV6VWhPZWJZR3lDNjV2OW04enpUc1E2Q29TV2pLZUJXWkozcUpLcXhJWUVv?oc=5",
       "lang": "zh-TW"
     },
     {
       "title": "生物製品程序 (SOPP)",
       "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
-      "date": "2026-10-02",
+      "date": "2026-10-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品評估和研究中心病患參與計劃",
+      "summary": "病人的意見是 CBER 了解疾病和狀況的重要組成部分。與患者接觸並聽取他們對疾病和治療的看法可能有助於該中心推進以患者為中心的醫療產品開發。",
+      "source": "FDA Biologics",
+      "date": "2026-10-05",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/center-biologics-evaluation-and-research-patient-engagement-program",
       "lang": "zh-TW"
     },
     {
@@ -51,15 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "羅塔利克斯",
-      "summary": "核准頁面顯示用於預防 G1 和非 G1 型（G3、G4 和 G9）引起的輪狀病毒胃腸炎，用於 6 週至 24 週齡的嬰兒。",
-      "source": "FDA Biologics",
-      "date": "2026-09-28",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/vaccines/rotarix",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "2026 年亞太地區首次獲批：完整列表",
+      "title": "2026 年亞太地區首次獲準：完整列表",
       "summary": "",
       "source": "BioPharma APAC",
       "date": "2026-09-23",
@@ -67,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA與歐洲EMA對真實世界數據（RWD）的最新採納標準",
-      "summary": "美國FDA與歐洲EMA正擴大採納真實世界數據（RWD），為藥品審核帶來新契機。",
+      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
+      "summary": "rd 數據 Pharma Letter",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",

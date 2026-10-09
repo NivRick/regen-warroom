@@ -1,18 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-10-08T17:44:26.237664+00:00",
+  "updated": "2026-10-09T02:42:15.987765+00:00",
   "items": [
     {
-      "title": "羅氏與中國生技公司合作，不只授權更深入研發",
-      "summary": "羅氏（Roche）與中國新創公司Defand Therapeutics攜手，共同開發新藥。",
+      "title": "NIH 資金的不確定性阻礙了美國研究人員的發展",
+      "summary": "美国国立卫生研究院 (NIH) 的预算支出情况如何？為什麼生技投資者感到悲觀？敬请观看本周的“The Readout LOUD”播客节目。",
+      "source": "STAT News",
+      "date": "2026-10-08",
+      "url": "https://www.statnews.com/2026/10/08/readout-loud-podcast-nih-funding-research-biotech-caribou-nobel-prize/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：羅氏在與中國生物技術的交易中超越了許可範圍",
+      "summary": "羅氏正與中國新創公司 Defand Therapeutics 合作開發新藥。",
       "source": "STAT News",
       "date": "2026-10-08",
       "url": "https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "羅氏與中國生技公司簽署新藥開發協議，聚焦「分子膠」藥物",
-      "summary": "",
+      "title": "STAT+：羅氏與中國生物技術公司簽署藥物發現協議，重點在於分子膠藥物",
+      "summary": "Roche has inked a drug discovery deal with Chinese biotech Defand Therapeutics, focused on molecular glue medicines.",
       "source": "STAT News",
       "date": "2026-10-08",
       "url": "https://www.statnews.com/2026/10/08/roche-defand-therapeutics-drug-development-deal/?utm_campaign=rss",
@@ -32,14 +40,6 @@
       "source": "BioPharma Dive",
       "date": "2026-10-08",
       "url": "https://www.biopharmadive.com/news/caribou-reverse-merger-prospects-cell-therapy-private-public/832494/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Forbion 籌集了 26 億美元，這是迄今為止最大的籌款活動",
-      "summary": "歐洲著名創投公司 Forbion 表示，已籌集 26 億美元，這是迄今為止最大的融資，也是該地區近年來最大的融資之一。",
-      "source": "STAT News",
-      "date": "2026-10-07",
-      "url": "https://www.statnews.com/2026/10/07/biotech-news-forbion-raises-2-6-billion-largest-fundraise/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
