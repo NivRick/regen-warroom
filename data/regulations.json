@@ -1,6 +1,6 @@
 {
   "module": "regulation",
-  "updated": "2026-10-10T02:01:47.062946+00:00",
+  "updated": "2026-10-10T16:01:39.890101+00:00",
   "items": [
     {
       "title": "生物製品的新動態",
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Center for Biologics Evaluation and Research Patient Engagement Program",
+      "title": "生物製品評估和研究中心病患參與計劃",
       "summary": "病人的意見是 CBER 了解疾病和狀況的重要組成部分。與患者接觸並聽取他們對疾病和治療的看法可能有助於該中心推進以患者為中心的醫療產品開發。",
       "source": "FDA Biologics",
       "date": "2026-10-05",
