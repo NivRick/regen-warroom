@@ -1,26 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-10-09T17:19:21.895764+00:00",
+  "updated": "2026-10-10T02:01:47.062946+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "來自美國食品藥物管理局生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-10-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "NUWIQ",
-      "summary": "此產品核准資訊指出，NUWIQ適用於A型血友病成人及兒童，用於按需",
+      "title": "紐威智商",
+      "summary": "產品核准資訊適用於患有 A 型血友病的成人和兒童： • 按需治療和控制出血事件\n• 圍術期出血處理\n• 常規預防以減少出血頻率",
       "source": "FDA Biologics",
       "date": "2026-10-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/nuwiq",
       "lang": "zh-TW"
     },
     {
-      "title": "Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products: Questions and Answers",
-      "summary": "奧仿製藥和可互換生物相似藥產品問題與解答",
+      "title": "生物相似藥和可互換生物相似藥產品的批准後生產變更：問題與解答",
+      "summary": "osimilar 和可互換生物相似藥產品問題與解答",
       "source": "FDA Biologics",
       "date": "2026-10-09",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/postapproval-manufacturing-changes-biosimilar-and-interchangeable-biosimilar-products-questions-and",
@@ -35,8 +35,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品評估和研究中心病患參與計劃",
-      "summary": "Patient input is a critical part of CBER’s understanding of diseases and conditions. Engaging with patients and listening to their perspectives on their diseases and treatments may help the center advance patient-focused medical product development.",
+      "title": "Center for Biologics Evaluation and Research Patient Engagement Program",
+      "summary": "病人的意見是 CBER 了解疾病和狀況的重要組成部分。與患者接觸並聽取他們對疾病和治療的看法可能有助於該中心推進以患者為中心的醫療產品開發。",
       "source": "FDA Biologics",
       "date": "2026-10-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/center-biologics-evaluation-and-research-patient-engagement-program",
@@ -51,7 +51,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年亞太地區首次獲準：完整列表",
+      "title": "2026 年亞太地區首次獲批：完整列表",
       "summary": "",
       "source": "BioPharma APAC",
       "date": "2026-09-23",
@@ -59,7 +59,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "What 美國食藥局（FDA） and 歐洲藥品管理局（EMA） now accept from real-world data",
+      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
       "summary": "rd 數據 Pharma Letter",
       "source": "The Pharma Letter",
       "date": "2026-09-15",

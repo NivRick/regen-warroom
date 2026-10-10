@@ -1,10 +1,10 @@
 {
   "module": "apac",
-  "updated": "2026-10-09T17:18:52.456506+00:00",
+  "updated": "2026-10-10T02:01:17.790876+00:00",
   "items": [
     {
       "title": "美國食藥局（FDA） 審查文件引發革命性拋售；紐西蘭糖尿病數據令分析師失望",
-      "summary": "新的披露顯示拉鬆克可能不像之前想像的那樣廣泛有效。在其他地方，Ultragenyx 獲得了急需的現金注入，TCGX 設立了一隻專注於中國的基金。",
+      "summary": "新的披露顯示拉鬆克可能不像之前想像的那樣廣泛有效。在其他地方，Ultragenyx 獲得了急需的現金注入，TCGX 成立了一隻專注於中國的基金。",
       "source": "BioPharma Dive",
       "date": "2026-10-09",
       "url": "https://www.biopharmadive.com/news/rasonque-fda-zealand-tukysa-ultragenyx-tcgx-china/832492/",
@@ -15,23 +15,30 @@
       "summary": "",
       "source": "經濟日報",
       "date": "2026-10-08",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQk9EblR3SEVLSXZBZXlURF81Z1JsS05iUl82UzZmVENVSlVYZTNIQXNtelloSm5aMXk5dE8xRlhPUGpzbUwtalBJTjYwQ202UzduZW1oVmd1NS13ZVZhMVZDMjZyWGlsSE9jRThfTF9sd3JfOTN1Q0o2dmFrZTRqSmxhUjJtVktiYS1CVW9DZHrSAV9BVV95cUxQU05sVHdkaDJHTHMydkdWVGhlRUtWYTRsZVF2c24yTWFjZlRwQlhWU2RrbEtvbDJmQ3NYMXljMW5LMExyQnZQaTlPeWlxMjBqTmRVeHpFN3VEcWdMU2xjTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0QTc1Rjhfb0tBOGVZSXpDYTV1WWs1bHVMQlpPR2tDUk8wS1hLME9Rd3YtZFVyV0lScFBPSlZfTVJralZuTkpxUTY1bFZpcjBUWGtSUmN2YzUtZ9IBX0FVX3lxTE9Ub0dTaF9Fa21VdzJLVUoyMXhfMVBXTXRtMHpRcXZTQTl5MEoybDc2czFDa0FuQm5BVTRJLWI2X0RmMXpfc0ROWHFfb1FNVmdpT3N1ZHNsTHNHZWlWaVc0?oc=5"
+    },
+    {
+      "title": "隨著亞太生命科學產業的起飛，新加坡吸引了國際生技創投公司",
+      "summary": "亞太生命科學產業起飛 新加坡經濟發展局 (EDB)",
+      "source": "Singapore Economic Development Board (EDB)",
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
+      "lang": "zh-TW"
     },
     {
       "title": "細胞治療介質市場預測至 2035 年：同種異體治療規模擴大，成長加速",
-      "summary": "35: Growth Accelerates on 異體（取自捐贈者） Therapy Scale-Up IndexBox",
+      "summary": "35：同種異體治療規模擴大 IndexBox 成長加速",
       "source": "IndexBox",
       "date": "2026-10-05",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjFqOUlweE83ZU94ZmR0QXBNOEFYM3JJMzBqWmN4bXM3ZExBbWpOTGMwX1Z3UEZVN3NzckFXV2Vxci1BS1gwOE5SUVdEZm5VRDhvdmJ2bHBvYUpPR2pUSC10VjJUbjVHR1pwc3JROXVPMkRIYkl4X0ctdGptTXdMOHJwWEhZNDlQbXAyRnhrSlN3b2FDSnB4QlJjUVRSUFNCT2k1bVRhTUJSSGNhdHU2dGdfLUdITE5YRkxvcE5WRQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Singapore draws international biotech VCs as Asia-Pacific life sciences sector takes off",
-      "summary": "亞太生命科學產業起飛 新加坡經濟發展局 (EDB)",
-      "source": "Singapore Economic Development Board (EDB)",
-      "date": "2026-10-04",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
-      "lang": "zh-TW"
+      "title": "台灣第一家！向榮生技異體脂肪間質幹細胞 取得外銷藥品許可證",
+      "summary": "",
+      "source": "自由財經",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5c0xpSFRsb1lKRHZqdi0xUXZscTNZY25FamdpMjA2Q01qUU5HRUtoZkJidUl6VTFjaXBFZlVOa0VlSlhJaGk0WW9oYkd1djlqOE1nOGZoT19ub2pvMFlV0gFkQVVfeXFMUGdSdFY2a0dFb1djZVpUa2VqMWI5R2gxTExZbHAwYXk5WjRSQ2Qxa215Z0t1NE5kMHdsWTRSYVFTM1paTUVBdTJsbXBFVzVLNFRfamxFMVY2aHduY3dJOUhDMGxpcQ?oc=5"
     },
     {
       "title": "布局亞洲再生醫學市場國璽進軍日本美容、生技雙展推動臨床技術走向日常應用- 理財周刊",
@@ -48,23 +55,31 @@
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQcnB4eW1TVVN5WEVmRS16aW5NRkgyMG5hVHB2SkxxRWhQWjRiZjhuRHRpa2czYzdKbE15eE1veFhiMHI0dFZZZ3hveGhhLWpScmhNR0FDV0o0bUxEWTBySWVleG5Qbi1lWmV3bWdQWi0wNnh5YzMzX0pic3FlRjVQeVN1NjVYMHhwdnB3bGotZUtFRXhHOHJ3TXBuQjdsLVc4TmM2THBncmVLcW9ZMmszQ19BTFpqZ0lneS1fX1pobUxZT0dXNnB3SVRFcjB5ZGQxU1ZXSmNQaG1lZHZ3QkR4RGlZQmtfLVNpSUdWNE9TOWJEdy1LSUdiSU9seDFMd3p1TDJkdC1qSXBVenhUYktPWXFmNmJ5UkNjVGZyeFZVZzYtalBwbk91VGQtOHJiNFhVSXlJMmNwekx6LVhfY2x3Vm9zWHdVSEh6VmJsRmFqNVN6QjEzR3U5VEx0YXpOU3N1TGRRVy1Tb0RfVXRtbjNad2JFdEF1UjVYX1JfeWFfSG00cWdxaGtSLU9fTzI?oc=5"
     },
     {
-      "title": "醫療保健領域4D列印市場規模、市佔率與2034年預測",
-      "summary": "預測醫療保健4D列印市場規模、市佔率及未來趨勢，展望至2034年。",
+      "title": "4D Printing in Healthcare Market Size, Share, Forecast, 2034",
+      "summary": "野兔，預測，2034 年《財星》商業洞察",
       "source": "Fortune Business Insights",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGJUNTg1Rl9qeTk0Rnl5aHVTS3lHVk4zdmNsOTVtT3p2YUQ1S3VHa0k1aVQ2cV9TWjRrS3IxOWFjdVBpZTAwb3d6Mi1kVzZnZllaMmZOV1pzSklWczNJZnUyNXhjNGgyX1N6S1JXekx5ZDd4UmdYRnBKOUF5ZkZ1em5iOGVkdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞治療市場：企業、規模與2026",
-      "summary": "",
+      "title": "細胞治療 Market Companies, Size & Trends 2026-2035",
+      "summary": "結束 2026-2035 優先研究",
       "source": "Precedence Research",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52U19NdFYyVEVzYjBmb01GN0NsaktTSmJxWXU0RDlsRHMxTjJjMkxiR2c4UlA5WHo4WUJhRmk0Z1dEZ28ybjVMdWFZYWIzNmtlbTllYVVDZDNTTVFtWldGSFE1ck0?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "外泌體藥物輸送服務市場公司、規模和趨勢 2026-2035",
+      "title": "基因工程藥物市場規模及2035年預測",
+      "summary": "預測 2035 年市場成長報告",
+      "source": "Market Growth Reports",
+      "date": "2026-09-17",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGdSNldPTXhkYlFaSmxlallvTlRCSXM2QVg0bHg3UkdLSHRpM3dqdDE4LUEwNl8weXlZRE1GdXNEb2hCcVA2QjVhUmpwYTJKSkFNZzc0d3F3RldjMGY1NEdSMWZWNEo3SExELWtFb3Ixa2xibjViaVFjWVBlVW5vX0gzaGZLTUM2SUZmYTZKNjVINTA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "外泌體 Drug Delivery Services Market Companies, Size & Trends 2026-2035",
       "summary": "2026-2035 年公司規模與趨勢優先研究",
       "source": "Precedence Research",
       "date": "2026-09-11",
@@ -73,7 +88,7 @@
     },
     {
       "title": "天演藥業 (Adagene) 宣布 Third Arc Bio 已根據修訂後的策略合作選擇了第一個主要候選藥物，以利用 SAFEbody® 技術開發掩蔽 CD3 T 細胞接合劑",
-      "summary": "Selected First Lead Candidate under Amended Strategic Collaboration for Development of Masked CD3 T Cell Engagers Utilizing SAFEbody® Technology The Manila Times",
+      "summary": "根據修訂後的策略合作選定第一位首席候選人，利用 SAFEbody® 技術開發掩蔽 CD3 T 細胞接合劑 - 馬尼拉時報",
       "source": "The Manila Times",
       "date": "2026-09-10",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNV3YzbVl3SDFQQVF6UHVoZXhwWjYxNlluaHFEcmpfZE9ZWS1YR0IxYUJNV092WWZfdTVEUlVUdkZpVklBNWZLWkx3V3dwZExXY2lDOE5RUkNPSF9nSGdJWDMta0lnaTFzOG9LbENHQkFuSnZkUUxRR1V6ZVdGNDBfakN2ZnRSSkFJandrTzZsN01oT2lKbWtGVXdSUTM2Wm5vanlSVHRIR24zUXA1S2tSMzMxdUphZWpycHRpVW5xRXh3UlBEdW91dlNpMzNlRDEwSmIxcERzeVFFYjZlX1BTbUxDTmRlX2E3UFlRbVZ6NW1rUTZKbDRqUUNfSU9hQlhleWhCSUFoSGU5VzZJN2dxeXFSWGF6S0tmZ0JYRUstNmNiSWVTOUktU0hCeWVxLUlKVThqMzBBRUE2b1h0QVZhb2Q2dzlVV1d1UzVMS0ZqZzZFMlNadWUyZmZNM3BzcVUxZkxLaWN1VlBObXZfd2E1SVI5WVLSAfoCQVVfeXFMTjdUTjVvTHNmdHo2dXJMTFdib1o5NUlNWnRHUTBBRGNVdXppVVBFcjNJM0ktSThrblJHcDY5aE5neTZlN3VyRVVWbV85bjMxYjhGc2h1ZW0tYWFQV3VYaEllSk0wTlVvZ3VwUUlFMEkyNXE2OV9kajhTWHlSNW9Jc1lHZ05KX3pJa0txSTRaTHdwSVJYYnd4YWhLS0pxZkZlcTdJc0M4ZmhpRHJqVDc4NVJRZWMwVHZ3SlBlRTltNHZpS2tKRmFUa1dfbzZQYkVxVmRRUDZCVUpyNWwtV1BIVi1JX2JiMHFaWVFCYkx2dUU0U1MtV2lCdlNZenJ6T1cxMGVrVkFXMURfS1E3dk9SdFFfOW83N2NpS3hYWmR5NUNVVnEtTlVUZy1ZVXFmV0dKdVJDMGMzLVN5R0hxb3BtR2gzNk9Zc0RnLWxrQjRmejdCaGdjUWlZVXhuNHQwWE9lMHFfWG1IREVKTVhlNmtpbDZEUWgxeHdFWmtn?oc=5",
