@@ -1,10 +1,10 @@
 {
   "module": "research",
-  "updated": "2026-10-11T01:25:10.424044+00:00",
+  "updated": "2026-10-11T16:29:12.213527+00:00",
   "items": [
     {
-      "title": "可設計的扭轉緻密化路徑，打造具生物活性的膠原蛋白水凝膠紗線，力學特性媲美肌腱",
-      "summary": "重組膠原蛋白水凝膠具備承重組織工程所需的生物活性，但其模量（moduli）僅達帕斯卡（Pascal）至",
+      "title": "新技術打造類肌腱膠原蛋白水凝膠紗線，生物活性與力學強度兼具",
+      "summary": "重組膠原蛋白水凝膠具備承重組織工程所需的生物活性，但其模數（moduli）僅介於帕斯卡（Pascal）至低千帕（kPa）範圍",
       "source": "PubMed",
       "date": "2026-10-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42781499/",
@@ -43,6 +43,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "Advantages, considerations and challenges in using Electrochemical Impedance Spectroscopy to monitor tissue integrity and cell differentiation in Microphysiological Systems.",
+      "summary": "Over the past few decades, the scientific community has become increasingly aware of the limitations of extrapolating animal models to humans. Consequently, microphysiological systems (MPS), such as spheroids, 類器官, and organ-on-chip (OOC) technologies, have been suggested as pertinent alternat...",
+      "source": "PubMed",
+      "date": "2026-10-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828863/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "One-pot fabrication and 體外實驗 characterization of hydroxyapatite-enriched cryogels for bone 組織工程.",
       "summary": "Cryogels have emerged as promising biomimetic 生物支架 for extracellular matrix emulation in bone 組織工程 (BTE). In this study, we investigated how hydroxyapatite (HA) incorporation influences the physicochemical, mechanical, and biological performance of cryogels based on methacryloyl d...",
       "source": "PubMed",
@@ -59,23 +67,23 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Advances in siloxane-based materials reinforced hybrid hydrogels and their biomedical applications.",
-      "summary": "Hydrogels are distinguished by their high-water content, superior biocompatibility, and stimuli-responsive properties, which have found widespread applications in biomedical domains such as drug delivery, 組織工程, and wound healing. However, conventional hydrogels are often hindered by in...",
+      "title": "矽氧烷材料強化複合水凝膠的最新進展及其在生醫領域的應用",
+      "summary": "水凝膠因其高含水量、優異的生物相容性及對刺激的反應特性而聞名，已廣泛應用於生醫領域。",
       "source": "PubMed",
       "date": "2026-10-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42772198/",
       "lang": "zh-TW"
     },
     {
-      "title": "可程式化4D列印永續多功能光敏樹脂，具組織匹配力學特性，用於介面組織再生",
-      "summary": "關節軟骨與軟骨下骨的整合再生，因難以模擬其複雜結構，仍是臨床上的重大挑戰。",
+      "title": "運用可程式化4D",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-10-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42761431/",
       "lang": "zh-TW"
     },
     {
-      "title": "勘誤：「利用",
+      "title": "Corrigendum to \"Marine origin biomaterials using a compressive and absorption methodology as cell-laden hydrogel envisaging cartilage 組織工程\" [Biomater. Adv. Volume 137, June 2022, 212843].",
       "summary": "",
       "source": "PubMed",
       "date": "2026-10-11",
@@ -123,6 +131,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "重組腺相關病毒（rAAV）介導多微型核糖核酸（multi-miRNA）傳遞，靶向MAPK路徑，抑制小鼠雷射誘導脈絡膜新生血管",
+      "summary": "老年性黃斑部病變（AMD）是導致不可逆視力喪失的主要原因，其中濕",
+      "source": "PubMed",
+      "date": "2026-10-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42857105/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "Engineering biomimetic coronary artery equivalents for Kawasaki disease modeling and drug screening.",
       "summary": "Kawasaki disease (KD) is an acute vasculitis that primarily affects the pediatric population, with coronary artery lesions constituting its most severe clinical sequela. Although investigated for decades, the precise etiology and pathogenesis of this syndrome remain elusive. This critical knowledge ...",
       "source": "PubMed",
@@ -131,8 +147,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "人類胎盤去細胞化細胞外基質，相較於特定細胞外基質蛋白基材，更能提升人類胚胎幹細胞分化為胰臟前驅細胞的效率",
-      "summary": "糖尿病的細胞替代療法，需要可大規模生產的功能性β細胞來源。從人類胚胎幹細胞（human embryonic stem cells,",
+      "title": "Human placental decellularized extracellular matrix improves pancreatic progenitor differentiation from human embryonic 幹細胞 compared with defined extracellular matrix protein substrates.",
+      "summary": "Cell replacement therapy for diabetes requires a scalable source of functional β-cells. The derivation of insulin-producing cells (IPCs) from human embryonic 幹細胞 (hESCs) is a strategy to generate β-cells for this purpose. 細胞治療 for diabetes requires a scalable source of functional β-ce...",
       "source": "PubMed",
       "date": "2026-10-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840348/",
@@ -147,24 +163,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Ambient intelligence-based framework for quantitative evaluation of cell culture operations to support standardization and training.",
-      "summary": "The widespread implementation of 細胞治療 has increased the demand for stable and reproducible cell manufacturing methods. However, many cell manufacturing processes rely heavily on manual cell culture operations, and operator training remains largely dependent on subjective assessment and tacit...",
-      "source": "PubMed",
-      "date": "2026-10-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42831203/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "High-quantity capture of heterogeneous circulating tumor cells",
-      "summary": "Circulating tumor cells (CTCs) carry multidimensional information from primary tumors, yet current separation strategies lead to insufficient quantity of cells available for robust downstream analyses. To address this issue, we propose an",
-      "source": "PubMed",
-      "date": "2026-10-11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42830976/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "第二期臨床試驗：評估Tarlatamab治療期間疾病惡化後，再次使用鉑金類化療（Carboplatin, Etoposide）於復發性廣泛期小細胞肺癌的療效",
-      "summary": "狀態：尚未收案｜主辦：科隆大學｜這項研究旨在",
+      "title": "[二期臨床] 針對復發廣泛期小細胞肺癌患者，評估Tarlatamab治療期間疾病惡化後，再次挑戰鉑金類化療（Carboplatin, Etoposide）的多中心二期臨床試驗",
+      "summary": "狀態：尚未招募｜主辦：科隆大學｜",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-10-11",
       "url": "https://clinicaltrials.gov/study/NCT07699237",
@@ -219,8 +219,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第一期臨床試驗] C-CAR168治療全身性硬化症（SSc）患者的1b期研究",
-      "summary": "狀態：尚未開始招募｜主辦：AbelZeta公司｜這項1b期、多中心、開放標籤的臨床試驗，將評估單次",
+      "title": "[第一期] C-CAR168用於全身性硬化症（SSc）患者的第一期臨床試驗",
+      "summary": "狀態：尚未招募｜主辦：AbelZeta Inc.｜這項第一期b、多中心、開放標籤的臨床試驗，將評估單次輸注自體C",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-10-11",
       "url": "https://clinicaltrials.gov/study/NCT07854483",
@@ -251,11 +251,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "西爾維斯特癌症中心2026年9月至10月重點提示",
-      "summary": "西爾維斯特癌症中心發布2026年9月至10月癌症治療與研究的最新進展與重點資訊。",
-      "source": "Newswise",
-      "date": "2026-10-08",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHg4Y3VtMkpPaDhpcER0MzBXb080SjhOWmtNZWxyMHpvdVR2XzFTUGFnTEJ2UlptcmlUV0JzNEQzWnYzay1zekdJWkZMTzNZZExlWXFrVW0yWEJaMUJ3cWVLNGZjc2RWQjNMUmdVLVo2dGk2dlE4LTdETENGTVlkMFVlV2ExeEZNLVHSAYoBQVVfeXFMTzh4OGN1bTJKT2g4aXBEdDMwV29PNEo4TlprTWVscjB6b3VUdl8xU1BhZ0xCdlJabXJpVFdCczREM1p2M2stc3pHSVpGTE8zWWRMZVlxa1VtMlhCWjFCd3FlSzRmY3NkVkIzTFJnVS1aNnRpNnZROC03RExDRk1ZZDBVZVdhMXhGTS1R?oc=5",
+      "title": "CRC 2026 第二天回顧",
+      "summary": "回顧2026年CRC會議第二天重點，掌握生醫產業最新發展與趨勢。",
+      "source": "Breakthrough T1D",
+      "date": "2026-10-11",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43eGgtQ0doQlJqakI0bWhKVzg0SnNPNll0VFJ4OU5ibXQzbDhrTmlmdWZ1aHl6Q3loRHQ1c1hsczZUVF9CRzZiZGVQcmdMNm5zSUlqSkNpWnJVamN3dmZYbnVIY2o2VmVwajVtUnp4SXhfMjVfQnFsQ0FR?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -301,22 +301,30 @@
     {
       "title": "[PHASE3] A Study to Evaluate CRB-701 Compared to Investigator's Choice Therapy in Previously Treated Oropharyngeal Squamous Cell Carcinoma",
       "summary": "狀態：RECRUITING｜主辦：Corbus Pharmaceuticals Inc.｜The goal of this study is to understand whether CRB-701, a targeted form of chemotherapy called an anti-body drug conjugate, will work as a treatment for oropharyngeal (throat, tonsil) cancer. In patients who have already received platinum based chem",
-      "source": "ClinicalTrials.gov｜Italy, Spain, Belgium",
+      "source": "ClinicalTrials.gov｜Hungary, United Kingdom, Spain",
       "date": "2026-09-29",
       "url": "https://clinicaltrials.gov/study/NCT07768189",
       "lang": "zh-TW"
     },
     {
-      "title": "CRISPR技術有望助醫師精準打擊血癌，同時不傷及健康細胞",
-      "summary": "CRISPR基因編輯技術展現潛力，未來可望精準治療血癌，避免破壞正常細胞，提升療效與安全性。",
-      "source": "ScienceDaily",
+      "title": "CRISPR（基因編輯技術）有望助醫師精準打擊血癌，不傷及健康細胞",
+      "summary": "Science Daily 報導，CRISPR（基因編輯技術）有望讓醫師在治療血癌時，避免破壞健康的細胞。",
+      "source": "Science Daily",
       "date": "2026-09-25",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pVjJ4dGd4azdtZDF3NWZuNnpiWmt2ZHBOaWVlOGZSd01xRE1xTFktd1FCLU51UHdNUTAzaTM2ZlV3T0dBOGhQWVVKamJhWkJOa2pRMlRPN2l4ZFdiVEZHNXBhTGFxWk1FaGFMQmhwSQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "幹細胞與外泌體為癌症治療受損腎臟帶來新希望",
-      "summary": "研究指出，幹細胞與外泌體有望修復因癌症治療而受損的腎臟，為病患提供新的治療契機。",
+      "title": "ASTRO 2026（美國放射腫瘤學會年會",
+      "summary": "",
+      "source": "UT MD Anderson",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1lGOU80cS0xYXpQWDAxSDI5bGVBWC1YWS1uTDc0cWhIY0EtRXBnZU4tWGQxNWh5a2w5eDFybElYQTdMUzRkd2tibFhoVkpKWHFMSHV4d1RBcFVlTm9naFFNMVB1cDgzTV9QY0llek4tbEd1Y1VPbzNjMUt0TW9BRUZwakVkX3c5QTVqZzNSRFJ2emc3UG9WODJKVnlJUW1RU1FjdGV2alNCYVdySVZiSzF2VEY?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "幹細胞 and 外泌體 Offer Hope for Kidneys Damaged by Cancer Therapy",
+      "summary": "idneys Damaged by Cancer Therapy Bioengineer.org",
       "source": "Bioengineer.org",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1WSHJBcy1VWVZvekNXWlc1R2lkWlBxQTMxYjJOY29VU2ZPNF9rNU1EWFczZWVMSEkyNW1pWVpmZ0FjUnFWZ242c2lhZjFFSXdlUkJFQm1DY19NQkVpcWItLWFpZFlYc2NPYU5FRGNhUmNNX0Q1c0phZGZ2Z0JvUW9BWlk3ZHBRemltcGh0V1kzUVdnbExjNFZITDJudw?oc=5",

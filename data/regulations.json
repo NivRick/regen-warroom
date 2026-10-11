@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-10-11T01:25:32.075121+00:00",
+  "updated": "2026-10-11T16:29:40.321369+00:00",
   "items": [
     {
-      "title": "What’s New for Biologics",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "title": "生物製劑最新進展",
+      "summary": "來自美國FDA生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-10-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -12,7 +12,7 @@
     },
     {
       "title": "NUWIQ",
-      "summary": "Product approval information is indicated for adults and children with Hemophilia A for: •\tOn-demand treatment and control of bleeding episodes\n•\tPerioperative management of bleeding\n•\tRoutine prophylaxis to reduce the frequency of bleeding episodes",
+      "summary": "這項產品的核准資訊指出，它適用於A型血友病（Hemophilia A）的成人與兒童患者，主要",
       "source": "FDA Biologics",
       "date": "2026-10-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/nuwiq",
