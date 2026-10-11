@@ -1,58 +1,58 @@
 {
   "module": "funding",
-  "updated": "2026-10-10T16:01:45.011484+00:00",
+  "updated": "2026-10-11T01:25:47.635375+00:00",
   "items": [
     {
-      "title": "TRex Bio 定價 1.17 億美元 首次公開上市（IPO） 以支持免疫藥物工作",
-      "summary": "禮來公司是 TRex 的最大股東，該公司正在開發透過活化「Treg」細胞來治療免疫性疾病的藥物。",
+      "title": "TRex Bio prices $117M 首次公開上市（IPO） to support immune drug work",
+      "summary": "Eli Lilly is the largest equity holder in TRex, which is developing drugs that treat immunological conditions by activating &ldquo;Treg&rdquo; cells.",
       "source": "BioPharma Dive",
       "date": "2026-10-09",
       "url": "https://www.biopharmadive.com/news/trex-bio-ipo-pricing-autoimmune-tregs/832297/",
       "lang": "zh-TW"
     },
     {
-      "title": "NIH 資金的不確定性阻礙了美國研究人員的發展",
-      "summary": "美國國立衛生研究院 (NIH) 的預算支出狀況如何？為什麼生技投資者感到悲觀？敬請觀看本週的“The Readout LOUD”播客節目。",
+      "title": "美國國家衛生研究院（NIH）經費不確定性，阻礙美國研究人員",
+      "summary": "本週「The Readout LOUD」Podcast將探討美國國家衛生研究院（NIH）的預算運用，以及生技投資人為何感到悲觀。",
       "source": "STAT News",
       "date": "2026-10-08",
       "url": "https://www.statnews.com/2026/10/08/readout-loud-podcast-nih-funding-research-biotech-caribou-nobel-prize/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：羅氏在與中國生物技術的交易中超越了許可範圍",
-      "summary": "羅氏正與中國新創公司 Defand Therapeutics 合作開發新藥。",
+      "title": "羅氏（Roche）與",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-10-08",
       "url": "https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Viatris 透過 $1.7B 收購 Pacira 擴大止痛藥物組合",
-      "summary": "該交易為 Viatris 提供了兩種非阿片類止痛藥，預計到 2025 年銷售額將接近 7 億美元，但可能很快就會失去專利保護。 Viatris 發誓將利用其「知識產權專業知識」來維持銷售。",
+      "title": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
+      "summary": "The deal hands Viatris two non-opioid pain treatments that booked nearly $700 million in 2025 but could soon lose patent protection. Viatris vowed to use its &ldquo;intellectual property expertise&rdquo; to sustain sales.",
       "source": "BioPharma Dive",
       "date": "2026-10-08",
       "url": "https://www.biopharmadive.com/news/viatris-pacira-acquire-pain-drug-zilretto-exparel/832481/",
       "lang": "zh-TW"
     },
     {
-      "title": "在尋找反向併購目標時，Caribou 可能會成為有價值的遊戲",
-      "summary": "這家陷入困境的細胞療法開發商正在探索戰略替代方案，除其他特徵外，這使其成為獲得反向併購興趣的可能候選者。",
+      "title": "In the hunt for reverse merger targets, Caribou could be prized game",
+      "summary": "The struggling 細胞治療 developer is exploring strategic alternatives, which, among other characteristics, make it a likely candidate to receive reverse merger interest.",
       "source": "BioPharma Dive",
       "date": "2026-10-08",
       "url": "https://www.biopharmadive.com/news/caribou-reverse-merger-prospects-cell-therapy-private-public/832494/",
       "lang": "zh-TW"
     },
     {
-      "title": "Caribou 將在融資環境「充滿挑戰」的情況下停止 CAR-T細胞療法 工作並裁員",
-      "summary": "儘管同種異體細胞療法的前景已準備好進行淋巴瘤的後期測試，但 Caribou 無法獲得資金來支持這項工作，現在將尋求「策略性替代方案」。",
+      "title": "Caribou to halt CAR-T細胞療法 work, lay off staff amid ‘challenging’ funding climate",
+      "summary": "Despite having an 異體（取自捐贈者） 細胞治療 prospect that&rsquo;s ready for late-stage testing in lymphoma, Caribou couldn&rsquo;t secure funding to support the effort and will now pursue &ldquo;strategic alternatives&rdquo; instead.",
       "source": "BioPharma Dive",
       "date": "2026-10-07",
       "url": "https://www.biopharmadive.com/news/caribou-layoffs-strategic-alternatives-allogeneic-cell-therapy-vispacel/832343/",
       "lang": "zh-TW"
     },
     {
-      "title": "Halozyme 在與默克公司的專利大戰中獲勝； Enliven 準備好預期的白血病試驗",
-      "summary": "荷蘭法院禁止默克公司在幾個歐洲國家銷售皮下注射 Keytruda。在其他地方，Insmed 的一位高層結束了七年的經營，兩家新創公司獲得了創投資金。",
+      "title": "Halozyme prevails in patent fight with Merck; Enliven readies anticipated leukemia trial",
+      "summary": "A Dutch court barred Merck from selling subcutaneous Keytruda in several European countries. Elsewhere, an Insmed executive ended a seven-year run and two startups secured venture cash.",
       "source": "BioPharma Dive",
       "date": "2026-10-07",
       "url": "https://www.biopharmadive.com/news/halozyme-merck-europe-enliven-insmed-rougetx-kymathera/832282/",
