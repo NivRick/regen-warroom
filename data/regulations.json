@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-10-11T16:29:40.321369+00:00",
+  "updated": "2026-10-12T01:57:45.709415+00:00",
   "items": [
     {
-      "title": "生物製劑最新進展",
-      "summary": "來自美國FDA生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局生物製劑評估與研究中心 (CBER) 的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-10-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -12,54 +12,46 @@
     },
     {
       "title": "NUWIQ",
-      "summary": "這項產品的核准資訊指出，它適用於A型血友病（Hemophilia A）的成人與兒童患者，主要",
+      "summary": "NUWIQ產品已獲核准，適用於A型血友病成人與兒童，用於按需治療",
       "source": "FDA Biologics",
       "date": "2026-10-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/nuwiq",
       "lang": "zh-TW"
     },
     {
-      "title": "Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products: Questions and Answers",
-      "summary": "osimilar and Interchangeable Biosimilar Products Questions and Answers",
+      "title": "生物相似藥和可互換生物相似藥產品的批准後生產變更：問題與解答",
+      "summary": "osimilar 和可互換生物相似藥產品問題與解答",
       "source": "FDA Biologics",
       "date": "2026-10-09",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/postapproval-manufacturing-changes-biosimilar-and-interchangeable-biosimilar-products-questions-and",
       "lang": "zh-TW"
     },
     {
-      "title": "Biologics Procedures (SOPPs)",
-      "summary": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in 美國食藥局（FDA）'s Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as t",
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-10-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "Center for Biologics Evaluation and Research Patient Engagement Program",
-      "summary": "Patient input is a critical part of CBER’s understanding of diseases and conditions. Engaging with patients and listening to their perspectives on their diseases and treatments may help the center advance patient-focused medical product development.",
+      "title": "生物製品評估與研究中心病患參與計劃",
+      "summary": "病人的意見是 CBER 了解疾病和狀況的重要組成部分。與患者接觸並聽取他們對疾病和治療的看法可能有助於該中心推進以患者為中心的醫療產品開發。",
       "source": "FDA Biologics",
       "date": "2026-10-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/center-biologics-evaluation-and-research-patient-engagement-program",
       "lang": "zh-TW"
     },
     {
-      "title": "Hansoh’s Tagrisso rival loses EU approval after AstraZeneca legal challenge",
-      "summary": "l after AstraZeneca legal challenge Fierce Pharma",
+      "title": "豪森的競爭對手 Tagrisso 在阿斯特捷利康法律挑戰後失去歐盟批准",
+      "summary": "l 阿斯特捷利康對 Fierce Pharma 提出法律挑戰後",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Every First Approval in APAC, 2026: The Full List",
-      "summary": "",
-      "source": "BioPharma APAC",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUJUb21RX3JlQkdYOXM4SU05X29TUXZoajkxNW1ldFhVNVNDVGpVQ0RLX1RMUkMzXzljS1lwWXVZd3VKUkw5aXRuZUJSbFpZbFhYbmx1aXh0cnVmRDRMNjNubVJtQXpJV3BBZTc0cFQyYXkyRXYtcmhYREhFcFlndjVlVzNhWGRZeTZQak1uOUoxMV9RUWVtV1lyZTI?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "What 美國食藥局（FDA） and 歐洲藥品管理局（EMA） now accept from real-world data",
+      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
       "summary": "rld data The Pharma Letter",
       "source": "The Pharma Letter",
       "date": "2026-09-15",
