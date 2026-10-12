@@ -1,7 +1,23 @@
 {
   "module": "funding",
-  "updated": "2026-10-12T01:58:09.396608+00:00",
+  "updated": "2026-10-12T20:07:11.410786+00:00",
   "items": [
+    {
+      "title": "帕金森細胞療法開發商申請上市",
+      "summary": "阿斯彭神經科學公司正在尋求加入納斯達克並籌集更多資金來支持其主導項目，該項目旨在將患者自身的細胞轉化為產生多巴胺的神經元。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-12",
+      "url": "https://www.biopharmadive.com/news/aspen-neuroscience-ipo-plans-s-1-parkinsons-cell-therapy/832732/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "博士倫更換執行長；默克公佈預期的眼科藥物數據",
+      "summary": "根據一份聲明，鮑什和布倫特桑德斯「一致同意」他退出公司。在其他方面，Tezspire 可能對 Dupixent 具有新的優勢，並且最近的收購交易帶來了紅利。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-12",
+      "url": "https://www.biopharmadive.com/news/bausch-lomb-saunders-remigromig-tezpire-eoe-hovilpri/832495/",
+      "lang": "zh-TW"
+    },
     {
       "title": "TRex Bio 定價 1.17 億美元 首次公開上市（IPO） 以支持免疫藥物工作",
       "summary": "禮來公司是 TRex 的最大股東，該公司正在開發透過活化「Treg」細胞來治療免疫性疾病的藥物。",
@@ -11,8 +27,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "NIH funding uncertainty thwarts U.S. researchers",
-      "summary": "美国国立卫生研究院 (NIH) 的预算支出情况如何？為什麼生技投資者感到悲觀？敬请观看本周的“The Readout LOUD”播客节目。",
+      "title": "NIH 資金的不確定性阻礙了美國研究人員的發展",
+      "summary": "美國國立衛生研究院 (NIH) 的預算支出狀況如何？為什麼生技投資者感到悲觀？敬請觀看本週的“The Readout LOUD”播客節目。",
       "source": "STAT News",
       "date": "2026-10-08",
       "url": "https://www.statnews.com/2026/10/08/readout-loud-podcast-nih-funding-research-biotech-caribou-nobel-prize/?utm_campaign=rss",
@@ -32,30 +48,6 @@
       "source": "BioPharma Dive",
       "date": "2026-10-08",
       "url": "https://www.biopharmadive.com/news/viatris-pacira-acquire-pain-drug-zilretto-exparel/832481/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "在尋找反向併購目標時，Caribou 可能會成為有價值的遊戲",
-      "summary": "這家陷入困境的細胞療法開發商正在探索戰略替代方案，除其他特徵外，這使其成為獲得反向併購興趣的可能候選者。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-08",
-      "url": "https://www.biopharmadive.com/news/caribou-reverse-merger-prospects-cell-therapy-private-public/832494/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Caribou 將在融資環境「充滿挑戰」的情況下停止 CAR-T細胞療法 工作並裁員",
-      "summary": "Despite having an 異體（取自捐贈者） 細胞治療 prospect that&rsquo;s ready for late-stage testing in lymphoma, Caribou couldn&rsquo;t secure funding to support the effort and will now pursue &ldquo;strategic alternatives&rdquo; instead.",
-      "source": "BioPharma Dive",
-      "date": "2026-10-07",
-      "url": "https://www.biopharmadive.com/news/caribou-layoffs-strategic-alternatives-allogeneic-cell-therapy-vispacel/832343/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Halozyme 在與默克公司的專利大戰中獲勝； Enliven 準備好預期的白血病試驗",
-      "summary": "A Dutch court barred Merck from selling subcutaneous Keytruda in several European countries. Elsewhere, an Insmed executive ended a seven-year run and two startups secured venture cash.",
-      "source": "BioPharma Dive",
-      "date": "2026-10-07",
-      "url": "https://www.biopharmadive.com/news/halozyme-merck-europe-enliven-insmed-rougetx-kymathera/832282/",
       "lang": "zh-TW"
     }
   ]
