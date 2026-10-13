@@ -1,29 +1,29 @@
 {
   "module": "regulation",
-  "updated": "2026-10-13T03:18:02.791335+00:00",
+  "updated": "2026-10-13T17:54:46.957147+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息",
+      "title": "生物相似藥與可互換生物相似藥產品上市後生產變更：問答集",
+      "summary": "針對生物相似藥及可互換生物相似藥產品，其上市後生產製程變更的法規指引與常見問題解答。",
       "source": "FDA Biologics",
-      "date": "2026-10-09",
+      "date": "2026-10-13",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/postapproval-manufacturing-changes-biosimilar-and-interchangeable-biosimilar-products-questions-and",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑最新動態",
+      "summary": "",
+      "source": "FDA Biologics",
+      "date": "2026-10-13",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "NUWIQ",
-      "summary": "產品核准資訊適用於A型血友病成人及兒童，用於：• 按需治療及控制出血事件 • 圍",
+      "title": "紐威智商",
+      "summary": "產品核准資訊適用於患有 A 型血友病的成人和兒童： • 按需治療和控制出血事件\n• 圍術期出血處理\n• 常規預防以減少出血頻率",
       "source": "FDA Biologics",
       "date": "2026-10-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/nuwiq",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物相似藥和可互換生物相似藥產品的批准後生產變更：問題與解答",
-      "summary": "osimilar 和可互換生物相似藥產品問題與解答",
-      "source": "FDA Biologics",
-      "date": "2026-10-09",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/postapproval-manufacturing-changes-biosimilar-and-interchangeable-biosimilar-products-questions-and",
       "lang": "zh-TW"
     },
     {
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品評估和研究中心病患參與計劃",
+      "title": "生物製品評估與研究中心病患參與計劃",
       "summary": "病人的意見是 CBER 了解疾病和狀況的重要組成部分。與患者接觸並聽取他們對疾病和治療的看法可能有助於該中心推進以患者為中心的醫療產品開發。",
       "source": "FDA Biologics",
       "date": "2026-10-05",
@@ -48,14 +48,6 @@
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 和 歐洲藥品管理局（EMA） 現在接受的真實數據",
-      "summary": "rd 數據 Pharma Letter",
-      "source": "The Pharma Letter",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
       "lang": "zh-TW"
     }
   ]
