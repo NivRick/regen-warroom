@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-10-14T01:30:45.452968+00:00",
+  "updated": "2026-10-14T15:40:10.649970+00:00",
   "items": [
     {
-      "title": "BlackRock 將以 28 億美元收購 Humana 旗下 CenterWell 診所多數股權",
-      "summary": "Humana 旗下 CenterWell 樂齡初級照護診所將更換私募股權贊助商，告別 Welsh, Carson, Anderson Stowe，迎來 BlackRock。",
+      "title": "BlackRock 將以 28 億美元收購 Humana 旗下 CenterWell 診所的多數股權",
+      "summary": "Humana 旗下 CenterWell 高齡初級照護診所將更換私募股權贊助商，告別 Welsh, Carson, Anderson Stowe，迎接 BlackRock。",
       "source": "STAT News",
       "date": "2026-10-13",
       "url": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
@@ -12,15 +12,15 @@
     },
     {
       "title": "Paragon 旗下另一家分拆公司透過反向併購上市",
-      "summary": "參與此案的律師指出，這再次證明 Paragon 及其主要投資者 Fairmount 成功扭轉了業界聲譽。",
+      "summary": "Paragon 旗下又一家公司透過反向併購成功上市，展現其在生醫領域的投資與孵化實力。",
       "source": "BioPharma Dive",
       "date": "2026-10-13",
       "url": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
       "lang": "zh-TW"
     },
     {
-      "title": "羅氏與 Rona Therapeutics 簽署 10 億美元基因干擾（RNAi）肥胖症藥物協議，擴大中國市場佈局",
-      "summary": "羅氏與 Rona Therapeutics 結盟，進一步強化其在中國的活躍佈局，並成為最新一家投入開發能降低體重的藥物公司。",
+      "title": "羅氏（Roche）與中國公司簽訂 10 億美元 RNAi 肥胖症藥物協議，延續在華合作熱潮",
+      "summary": "羅氏與 Rona Therapeutics 結盟，進一步擴大其在中國的活躍佈局，成為最新一家押注於能降低體重的藥物開發商。",
       "source": "BioPharma Dive",
       "date": "2026-10-13",
       "url": "https://www.biopharmadive.com/news/roche-rona-china-deal-rnai-obesity-drug-alk7/832845/",
@@ -28,14 +28,14 @@
     },
     {
       "title": "帕金森氏症細胞療法開發商申請上市",
-      "summary": "Aspen Neuroscience 尋求在那斯達克（Nasdaq）上市，以募資支持其主要計畫，該計畫旨在將患者自身細胞轉化為多巴胺。",
+      "summary": "Aspen Neuroscience 尋求在那斯達克（Nasdaq）上市，以募資支持其主要計畫，該計畫旨在將患者自身細胞轉化為多巴胺（dopamine）生成細胞。",
       "source": "BioPharma Dive",
       "date": "2026-10-12",
       "url": "https://www.biopharmadive.com/news/aspen-neuroscience-ipo-plans-s-1-parkinsons-cell-therapy/832732/",
       "lang": "zh-TW"
     },
     {
-      "title": "博士倫更換執行長；默克公布備受期待的眼科藥物數據",
+      "title": "博士倫（Bausch + Lomb）更換執行長；默沙東（Merck）公布備受期待的眼科藥物數據",
       "summary": "根據聲明，博士倫與 Brent Saunders「雙方同意」他離開公司。此外，Tezspire 可能會有新的發展。",
       "source": "BioPharma Dive",
       "date": "2026-10-12",

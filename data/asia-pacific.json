@@ -1,7 +1,15 @@
 {
   "module": "apac",
-  "updated": "2026-10-14T01:30:15.898999+00:00",
+  "updated": "2026-10-14T15:39:47.072342+00:00",
   "items": [
+    {
+      "title": "日本生技產業新策略：廣開臨床試驗大門，積極促成合作交易",
+      "summary": "日本正透過開放臨床試驗與積極促成交易，重新定義其生技產業的發展策略。",
+      "source": "BioSpectrum Asia",
+      "date": "2026-10-14",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2p0aHEtcFhpY0dHTl84czRxc2x6cXNENUtLMlZreGpDMkhleGozOHRmVWVGcWpXWUJFV1NSR0FGaFZDX0FuV0V5MThfbFpORE5iZ2FGTnlkcWFNMDhqSFhhT2JiZTZXbFN6MlB1YTd6OUdwNU5yZE5yVzgzal9NOGFyUEdwajVPdjExZ1FnUFZDYnlKbDRYbFRGQTdzUWlxcTQ0d21zZHNfZ3U0SW5wYjJpNU12VE81X2U2NDNn?oc=5",
+      "lang": "zh-TW"
+    },
     {
       "title": "羅氏 (Roche) 簽署價值 10 億美元的 RNAi 肥胖藥物協議，延續中國交易記錄",
       "summary": "與 Rona Therapeutics 的聯盟為羅氏公司增添了特別活躍的業務，並使該公司成為最新一家押注可降低「內臟」脂肪水平的藥物的公司。",
@@ -16,14 +24,6 @@
       "source": "IndexBox",
       "date": "2026-10-12",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcDRJMTczbURYVUhxUjMyOVhzZTNhZmVoUzdBNnlJbkxRSUlEUEkwaVJuUU5fQ20tSmVFd0RuTDMteUVjUzZBVUIxSjhJMXFMa094QzREMGMzNzk2clY2dElTc2ZlZGp0Ym9jX3lSOXRCRTRBOE5ndno2VVVXeXJhb1plWXVISUV0TU5vWnhpUzZMR2ZtS1hRZWFta1Q2SktTSXVZOTBrNzFZcHFtYTk4TjB4enBGM2RNQjJjZW1NVVlZaWw4M1had2s4ZW16RTZWR1IyTjRWNUhYWXc?oc=5"
-    },
-    {
-      "title": "美國食藥局（FDA） 審查文件引發革命性拋售；紐西蘭糖尿病數據令分析師失望",
-      "summary": "新的披露顯示拉鬆克可能不像之前想像的那樣廣泛有效。在其他地方，Ultragenyx 獲得了急需的現金注入，TCGX 設立了一隻專注於中國的基金。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-09",
-      "url": "https://www.biopharmadive.com/news/rasonque-fda-zealand-tukysa-ultragenyx-tcgx-china/832492/",
-      "lang": "zh-TW"
     },
     {
       "title": "BioJapan 台灣館搶商機 李逸洋盼深化台日再生醫療合作",
@@ -63,23 +63,23 @@
     },
     {
       "title": "醫療保健領域的4D列印市場規模、市佔率與2034年預測",
-      "summary": "預估到2034年，醫療保健4D列印市場規模與市佔率將持續成長，前景看好。",
+      "summary": "預估至2034年，醫療保健領域的4D列印市場將持續成長，並分析其規模與市佔率趨勢。",
       "source": "Fortune Business Insights",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGJUNTg1Rl9qeTk0Rnl5aHVTS3lHVk4zdmNsOTVtT3p2YUQ1S3VHa0k1aVQ2cV9TWjRrS3IxOWFjdVBpZTAwb3d6Mi1kVzZnZllaMmZOV1pzSklWczNJZnUyNXhjNGgyX1N6S1JXekx5ZDd4UmdYRnBKOUF5ZkZ1em5iOGVkdw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞治療市場：企業、規模與",
-      "summary": "",
+      "title": "細胞治療市場：企業、規模與2026-2035年趨勢",
+      "summary": "深入探討2026至2035年間細胞治療市場的企業動態、整體規模與未來發展趨勢。",
       "source": "Precedence Research",
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52U19NdFYyVEVzYjBmb01GN0NsaktTSmJxWXU0RDlsRHMxTjJjMkxiR2c4UlA5WHo4WUJhRmk0Z1dEZ28ybjVMdWFZYWIzNmtlbTllYVVDZDNTTVFtWldGSFE1ck0?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "基因工程藥物市場規模及2035年預測",
-      "summary": "預測 2035 年市場成長報告",
+      "title": "基因工程藥物市場規模與2035",
+      "summary": "",
       "source": "Market Growth Reports",
       "date": "2026-09-17",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGdSNldPTXhkYlFaSmxlallvTlRCSXM2QVg0bHg3UkdLSHRpM3dqdDE4LUEwNl8weXlZRE1GdXNEb2hCcVA2QjVhUmpwYTJKSkFNZzc0d3F3RldjMGY1NEdSMWZWNEo3SExELWtFb3Ixa2xibjViaVFjWVBlVW5vX0gzaGZLTUM2SUZmYTZKNjVINTA?oc=5",
