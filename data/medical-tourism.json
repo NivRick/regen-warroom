@@ -1,5 +1,14 @@
 {
   "module": "tourism",
-  "updated": "2026-10-13T17:55:06.488689+00:00",
-  "items": []
+  "updated": "2026-10-14T01:30:50.256796+00:00",
+  "items": [
+    {
+      "title": "組織工程市場：規模、市佔、成長與2034年展望",
+      "summary": "深入分析組織工程市場規模、市佔與成長，並預測至2034年發展趨勢。",
+      "source": "Fortune Business Insights",
+      "date": "2026-09-21",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aZlo2UUJfUkNfeGxHY2hQSlRvRkQ0QzNUQmFRcFQxcUkwa2VBU2hDMzUyQ2pfRVpCd3Zjb3RzQ0M1dFZGeDlGc1FGRGl0blhWNjJkMmN5blhuSmM1aXRySU11Zzk5YVJ0SWc0amVlZjVleUFleDRHb3RGVWU?oc=5",
+      "lang": "zh-TW"
+    }
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-10-13T17:54:46.957147+00:00",
+  "updated": "2026-10-14T01:30:33.826290+00:00",
   "items": [
     {
-      "title": "生物相似藥與可互換生物相似藥產品上市後生產變更：問答集",
-      "summary": "針對生物相似藥及可互換生物相似藥產品，其上市後生產製程變更的法規指引與常見問題解答。",
+      "title": "生物相似藥與可互換生物相似藥上市後生產變更：問答集",
+      "summary": "這份問答集針對生物相似藥與可互換生物相似藥在產品核准上市後的生產製程變更提供指引。",
       "source": "FDA Biologics",
       "date": "2026-10-13",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/postapproval-manufacturing-changes-biosimilar-and-interchangeable-biosimilar-products-questions-and",
@@ -19,8 +19,16 @@
       "lang": "zh-TW"
     },
     {
+      "title": "X染色體基因與男性自閉症診斷增加有關",
+      "summary": "新的研究表明，X 染色體上 MECP2 基因的變異可能有助於部分解釋為什麼男性自閉症的診斷率是女性的四倍。男性的後tism診斷首先出現在GEN - Genetic E上",
+      "source": "GEN News",
+      "date": "2026-10-13",
+      "url": "https://www.genengnews.com/topics/translational-medicine/x-chromosome-gene-linked-to-increased-autism-diagnosis-in-males/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "紐威智商",
-      "summary": "產品核准資訊適用於患有 A 型血友病的成人和兒童： • 按需治療和控制出血事件\n• 圍術期出血處理\n• 常規預防以減少出血頻率",
+      "summary": "产品批准信息适用于患有 A 型血友病的成人和儿童： • 按需治疗和控制出血事件\n• 圍術期出血處理\n• 常規預防以減少出血頻率",
       "source": "FDA Biologics",
       "date": "2026-10-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/nuwiq",
@@ -35,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品評估與研究中心病患參與計劃",
+      "title": "生物製品評估和研究中心病患參與計劃",
       "summary": "病人的意見是 CBER 了解疾病和狀況的重要組成部分。與患者接觸並聽取他們對疾病和治療的看法可能有助於該中心推進以患者為中心的醫療產品開發。",
       "source": "FDA Biologics",
       "date": "2026-10-05",

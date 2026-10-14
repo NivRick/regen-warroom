@@ -1,37 +1,45 @@
 {
   "module": "funding",
-  "updated": "2026-10-13T17:55:04.446264+00:00",
+  "updated": "2026-10-14T01:30:45.452968+00:00",
   "items": [
     {
-      "title": "羅氏再出手！砸10億美元簽下RNA干擾減肥藥，擴大中國市場版圖",
-      "summary": "羅氏與Rona Therapeutics結盟，以10億美元搶攻RNA干擾（RNAi）減肥藥市場，持續擴大中國布局。",
+      "title": "BlackRock 將以 28 億美元收購 Humana 旗下 CenterWell 診所多數股權",
+      "summary": "Humana 旗下 CenterWell 樂齡初級照護診所將更換私募股權贊助商，告別 Welsh, Carson, Anderson Stowe，迎來 BlackRock。",
+      "source": "STAT News",
+      "date": "2026-10-13",
+      "url": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Paragon 旗下另一家分拆公司透過反向併購上市",
+      "summary": "參與此案的律師指出，這再次證明 Paragon 及其主要投資者 Fairmount 成功扭轉了業界聲譽。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-13",
+      "url": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "羅氏與 Rona Therapeutics 簽署 10 億美元基因干擾（RNAi）肥胖症藥物協議，擴大中國市場佈局",
+      "summary": "羅氏與 Rona Therapeutics 結盟，進一步強化其在中國的活躍佈局，並成為最新一家投入開發能降低體重的藥物公司。",
       "source": "BioPharma Dive",
       "date": "2026-10-13",
       "url": "https://www.biopharmadive.com/news/roche-rona-china-deal-rnai-obesity-drug-alk7/832845/",
       "lang": "zh-TW"
     },
     {
-      "title": "帕金",
-      "summary": "",
+      "title": "帕金森氏症細胞療法開發商申請上市",
+      "summary": "Aspen Neuroscience 尋求在那斯達克（Nasdaq）上市，以募資支持其主要計畫，該計畫旨在將患者自身細胞轉化為多巴胺。",
       "source": "BioPharma Dive",
       "date": "2026-10-12",
       "url": "https://www.biopharmadive.com/news/aspen-neuroscience-ipo-plans-s-1-parkinsons-cell-therapy/832732/",
       "lang": "zh-TW"
     },
     {
-      "title": "博士倫更換執行長；默克公佈預期的眼科藥物數據",
-      "summary": "根據一份聲明，鮑什和布倫特桑德斯「一致同意」他退出公司。在其他方面，Tezspire 可能對 Dupixent 具有新的優勢，並且最近的收購交易帶來了紅利。",
+      "title": "博士倫更換執行長；默克公布備受期待的眼科藥物數據",
+      "summary": "根據聲明，博士倫與 Brent Saunders「雙方同意」他離開公司。此外，Tezspire 可能會有新的發展。",
       "source": "BioPharma Dive",
       "date": "2026-10-12",
       "url": "https://www.biopharmadive.com/news/bausch-lomb-saunders-remigromig-tezpire-eoe-hovilpri/832495/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "TRex Bio 定價 1.17 億美元 首次公開上市（IPO） 以支持免疫藥物工作",
-      "summary": "禮來公司是 TRex 的最大股東，該公司正在開發透過活化「Treg」細胞來治療免疫性疾病的藥物。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-09",
-      "url": "https://www.biopharmadive.com/news/trex-bio-ipo-pricing-autoimmune-tregs/832297/",
       "lang": "zh-TW"
     }
   ]
