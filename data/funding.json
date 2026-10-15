@@ -1,45 +1,61 @@
 {
   "module": "funding",
-  "updated": "2026-10-15T01:06:50.677693+00:00",
+  "updated": "2026-10-15T15:26:52.167914+00:00",
   "items": [
     {
-      "title": "隨著白宮將重點轉向人工智慧和科技，美國科學領袖捍衛美國大學的作用",
-      "summary": "科學界領袖表示，白宮計劃將研究經費從大學轉移到工業界，這可能會造成基礎研究的乾旱",
+      "title": "STAT+: 藥界小新聞：前美國食品藥物管理局（FDA）局長批DOGE是「災難」、阿斯特捷利康（AstraZeneca）的AI交易等",
+      "summary": "三位前美國食品藥物管理局（FDA）局長嚴厲批評川普政府，指責當時的",
+      "source": "STAT News",
+      "date": "2026-10-15",
+      "url": "https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
+      "summary": "White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say",
       "source": "STAT News",
       "date": "2026-10-14",
       "url": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "人工智慧藥物發現專家 Iambic 在 首次公開上市（IPO） 中籌集 1.5 億美元",
-      "summary": "作為利用人工智慧加速研究的年輕生物技術浪潮的一部分，該公司在監管文件中聲稱，其方法有可能「顛覆傳統的藥物發現範式」。",
+      "title": "Iambic, an AI drug discovery specialist, banks $150M in an 首次公開上市（IPO）",
+      "summary": "Part of a wave of young biotechs employing AI to accelerate research, the company claimed in regulatory filings that its approach has the potential to &ldquo;disrupt legacy drug discovery paradigms.&rdquo;",
       "source": "BioPharma Dive",
       "date": "2026-10-14",
       "url": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：貝萊德將以 28 億美元收購 Humana CenterWell 診所的多數股權",
-      "summary": "Humana 正在更換其 CenterWell 高級初級保健診所的私募股權贊助商。再見，威爾斯、卡森、安德森·斯托。你好，貝萊德。",
-      "source": "STAT News",
-      "date": "2026-10-13",
-      "url": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "另一家 Paragon 分拆公司透過反向併購上市",
-      "summary": "一位參與其中的律師指出，這是 Paragon 和主要投資者 Fairmount 幫助改變反向併購聲譽的另一個例子，如何快速執行一項複雜的交易。",
+      "title": "Another Paragon spinout goes public through reverse merger",
+      "summary": "One lawyer involved noted how it's yet another example of Paragon and key investor Fairmount &mdash; which have helped transform the reputation for reverse mergers &mdash; quickly executing on a complicated deal.",
       "source": "BioPharma Dive",
       "date": "2026-10-13",
       "url": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
       "lang": "zh-TW"
     },
     {
-      "title": "羅氏 (Roche) 簽署價值 10 億美元的 RNAi 肥胖藥物協議，延續中國交易記錄",
-      "summary": "與 Rona Therapeutics 的聯盟為羅氏公司增添了特別活躍的業務，並使該公司成為最新一家押注可降低「內臟」脂肪水平的藥物的公司。",
+      "title": "Roche extends China deal streak with $1B pact for RNAi obesity drug",
+      "summary": "An alliance with Rona Therapeutics adds to a particularly active stretch for Roche and makes the company the latest to bet on medicines that can lower levels of &ldquo;visceral&rdquo; fat.",
       "source": "BioPharma Dive",
       "date": "2026-10-13",
       "url": "https://www.biopharmadive.com/news/roche-rona-china-deal-rnai-obesity-drug-alk7/832845/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Fierce Biotech Fundraising Tracker '26: Soufflé cooks up $135M; Matchpoint makes $150M",
+      "summary": "Soufflé cooks up $135M; Matchpoint makes $150M Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Belgium's Novadip Biosciences raises €10.4 million to fund pivotal 臨床試驗 and unlock EIB loan tranche",
+      "summary": ".4 million to fund pivotal 臨床試驗 and unlock EIB loan tranche EU-Startups",
+      "source": "EU-Startups",
+      "date": "2026-09-21",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",
       "lang": "zh-TW"
     }
   ]
