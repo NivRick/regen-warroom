@@ -1,45 +1,45 @@
 {
   "module": "funding",
-  "updated": "2026-10-14T15:40:10.649970+00:00",
+  "updated": "2026-10-15T01:06:50.677693+00:00",
   "items": [
     {
-      "title": "BlackRock 將以 28 億美元收購 Humana 旗下 CenterWell 診所的多數股權",
-      "summary": "Humana 旗下 CenterWell 高齡初級照護診所將更換私募股權贊助商，告別 Welsh, Carson, Anderson Stowe，迎接 BlackRock。",
+      "title": "隨著白宮將重點轉向人工智慧和科技，美國科學領袖捍衛美國大學的作用",
+      "summary": "科學界領袖表示，白宮計劃將研究經費從大學轉移到工業界，這可能會造成基礎研究的乾旱",
+      "source": "STAT News",
+      "date": "2026-10-14",
+      "url": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "人工智慧藥物發現專家 Iambic 在 首次公開上市（IPO） 中籌集 1.5 億美元",
+      "summary": "作為利用人工智慧加速研究的年輕生物技術浪潮的一部分，該公司在監管文件中聲稱，其方法有可能「顛覆傳統的藥物發現範式」。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-14",
+      "url": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：貝萊德將以 28 億美元收購 Humana CenterWell 診所的多數股權",
+      "summary": "Humana 正在更換其 CenterWell 高級初級保健診所的私募股權贊助商。再見，威爾斯、卡森、安德森·斯托。你好，貝萊德。",
       "source": "STAT News",
       "date": "2026-10-13",
       "url": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Paragon 旗下另一家分拆公司透過反向併購上市",
-      "summary": "Paragon 旗下又一家公司透過反向併購成功上市，展現其在生醫領域的投資與孵化實力。",
+      "title": "另一家 Paragon 分拆公司透過反向併購上市",
+      "summary": "一位參與其中的律師指出，這是 Paragon 和主要投資者 Fairmount 幫助改變反向併購聲譽的另一個例子，如何快速執行一項複雜的交易。",
       "source": "BioPharma Dive",
       "date": "2026-10-13",
       "url": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
       "lang": "zh-TW"
     },
     {
-      "title": "羅氏（Roche）與中國公司簽訂 10 億美元 RNAi 肥胖症藥物協議，延續在華合作熱潮",
-      "summary": "羅氏與 Rona Therapeutics 結盟，進一步擴大其在中國的活躍佈局，成為最新一家押注於能降低體重的藥物開發商。",
+      "title": "羅氏 (Roche) 簽署價值 10 億美元的 RNAi 肥胖藥物協議，延續中國交易記錄",
+      "summary": "與 Rona Therapeutics 的聯盟為羅氏公司增添了特別活躍的業務，並使該公司成為最新一家押注可降低「內臟」脂肪水平的藥物的公司。",
       "source": "BioPharma Dive",
       "date": "2026-10-13",
       "url": "https://www.biopharmadive.com/news/roche-rona-china-deal-rnai-obesity-drug-alk7/832845/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "帕金森氏症細胞療法開發商申請上市",
-      "summary": "Aspen Neuroscience 尋求在那斯達克（Nasdaq）上市，以募資支持其主要計畫，該計畫旨在將患者自身細胞轉化為多巴胺（dopamine）生成細胞。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-12",
-      "url": "https://www.biopharmadive.com/news/aspen-neuroscience-ipo-plans-s-1-parkinsons-cell-therapy/832732/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "博士倫（Bausch + Lomb）更換執行長；默沙東（Merck）公布備受期待的眼科藥物數據",
-      "summary": "根據聲明，博士倫與 Brent Saunders「雙方同意」他離開公司。此外，Tezspire 可能會有新的發展。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-12",
-      "url": "https://www.biopharmadive.com/news/bausch-lomb-saunders-remigromig-tezpire-eoe-hovilpri/832495/",
       "lang": "zh-TW"
     }
   ]
