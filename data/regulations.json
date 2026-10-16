@@ -1,18 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-10-15T15:26:35.974248+00:00",
+  "updated": "2026-10-16T00:54:26.124006+00:00",
   "items": [
     {
-      "title": "臨床試驗主持人狀態（生物製劑）",
-      "summary": "這份清單彙整了曾執行試驗中新藥或生物製劑研究的臨床試驗主持人，以及他們接受查核的相關資訊。",
+      "title": "新發現的微外顯子，為自閉症類群障礙（ASD）的基因根源提供線索",
+      "summary": "新發現的微外顯子，為自閉症類群障礙（ASD）的基因根源提供重要線索。",
+      "source": "GEN News",
+      "date": "2026-10-15",
+      "url": "https://www.genengnews.com/topics/omics/newly-identified-microexons-offer-clues-to-autism-spectrum-disorders-genetic-roots/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Clinical Investigator Status (Biologics)",
+      "summary": "Clinical Investigator Inspection List from inspections of clinical investigators who have conducted studies with investigational new drugs or investigational devices reviewed by CBER",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-status-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗主持人查核清單 A-D",
-      "summary": "這份",
+      "title": "Clinical Investigator Inspection List A-D",
+      "summary": "Contains names, addresses, and other information gathered from inspections of clinical investigators who have conducted studies with investigational new drugs or investigational devices reviewed by the Center for Biologics Evaluation and Research (CB",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d",
@@ -51,8 +59,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "細胞治療製造版圖逐漸成形，橫跨亞太地區",
-      "summary": "細胞與基因療法在亞太地區加速發展，但製造環節仍顯分散。策略性自動化、具彈性的生物製程平台...",
+      "title": "亞太地區細胞治療製造版圖逐漸成形",
+      "summary": "亞太地區的細胞治療製造正逐漸成形，但生產環節仍待整合與優化。",
       "source": "GEN News",
       "date": "2026-10-14",
       "url": "https://www.genengnews.com/topics/bioprocessing/cell-therapy-manufacturing-takes-shape-across-asia-pacific/",
@@ -67,16 +75,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "X染色體基因與男性自閉症診斷率提高有關",
-      "summary": "新研究指出，X染色體上的MECP2基因變異，可能部分解釋了為何男性自閉症診斷率高出約四倍。",
-      "source": "GEN News",
-      "date": "2026-10-13",
-      "url": "https://www.genengnews.com/topics/translational-medicine/x-chromosome-gene-linked-to-increased-autism-diagnosis-in-males/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "翰森製藥的「泰格莎」競爭藥物，在阿斯特捷利康提告後失去歐盟核准",
-      "summary": "翰森製藥的肺癌藥物在阿斯特捷利康提告後，失去歐盟核准。",
+      "title": "翰森製藥的泰格莎競品，因阿斯特捷利康法律挑戰，遭歐盟撤銷核准",
+      "summary": "翰森製藥的泰格莎競品，因阿斯特捷利康提出法律挑戰，遭歐盟撤銷核准。",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
@@ -88,14 +88,6 @@
       "source": "BioInformant",
       "date": "2026-09-17",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食品藥物管理局（FDA）和歐洲藥品管理局（EMA）現在接受哪些真實世界數據（Real-World Data, RWD）？",
-      "summary": "美國FDA與歐盟EMA對真實世界數據的應用與接受度有新進展。",
-      "source": "The Pharma Letter",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
       "lang": "zh-TW"
     }
   ]

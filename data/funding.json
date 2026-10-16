@@ -1,13 +1,21 @@
 {
   "module": "funding",
-  "updated": "2026-10-15T15:26:52.167914+00:00",
+  "updated": "2026-10-16T00:54:32.309767+00:00",
   "items": [
     {
-      "title": "STAT+: 藥界小新聞：前美國食品藥物管理局（FDA）局長批DOGE是「災難」、阿斯特捷利康（AstraZeneca）的AI交易等",
-      "summary": "三位前美國食品藥物管理局（FDA）局長嚴厲批評川普政府，指責當時的",
+      "title": "STAT+: Pharmalittle: We’re reading about former 美國食藥局（FDA） head calling DOGE a ‘disaster,’ an AstraZeneca AI deal, and more",
+      "summary": "Three former 美國食藥局（FDA） chiefs lit into the Trump administration, criticizing the now former 美國食藥局（FDA） officials who oversaw a massive staff exodus",
       "source": "STAT News",
       "date": "2026-10-15",
       "url": "https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Belgian startup revives Galapagos CAR-T細胞療法 research",
+      "summary": "Armed Cell Therapeutics, chaired by former Galapagos CEO Paul Stoffels, has assumed control of cell therapies the company &mdash; now known as Lakefront Biotherapeutics &mdash; divested in a strategic overhaul.",
+      "source": "BioPharma Dive",
+      "date": "2026-10-15",
+      "url": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
       "lang": "zh-TW"
     },
     {
@@ -32,22 +40,6 @@
       "source": "BioPharma Dive",
       "date": "2026-10-13",
       "url": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Roche extends China deal streak with $1B pact for RNAi obesity drug",
-      "summary": "An alliance with Rona Therapeutics adds to a particularly active stretch for Roche and makes the company the latest to bet on medicines that can lower levels of &ldquo;visceral&rdquo; fat.",
-      "source": "BioPharma Dive",
-      "date": "2026-10-13",
-      "url": "https://www.biopharmadive.com/news/roche-rona-china-deal-rnai-obesity-drug-alk7/832845/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech Fundraising Tracker '26: Soufflé cooks up $135M; Matchpoint makes $150M",
-      "summary": "Soufflé cooks up $135M; Matchpoint makes $150M Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-10-13",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     },
     {
