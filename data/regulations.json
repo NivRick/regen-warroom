@@ -1,90 +1,90 @@
 {
   "module": "regulation",
-  "updated": "2026-10-16T00:54:26.124006+00:00",
+  "updated": "2026-10-16T15:08:54.285788+00:00",
   "items": [
     {
       "title": "新發現的微外顯子，為自閉症類群障礙（ASD）的基因根源提供線索",
-      "summary": "新發現的微外顯子，為自閉症類群障礙（ASD）的基因根源提供重要線索。",
+      "summary": "一項新研究指出，新發現的微外顯子可能與自閉症類群障礙（ASD）及其他神經疾病的遺傳基礎有關。",
       "source": "GEN News",
       "date": "2026-10-15",
       "url": "https://www.genengnews.com/topics/omics/newly-identified-microexons-offer-clues-to-autism-spectrum-disorders-genetic-roots/",
       "lang": "zh-TW"
     },
     {
-      "title": "Clinical Investigator Status (Biologics)",
-      "summary": "Clinical Investigator Inspection List from inspections of clinical investigators who have conducted studies with investigational new drugs or investigational devices reviewed by CBER",
+      "title": "臨床試驗主持人狀態（生物製劑）",
+      "summary": "這份清單是針對曾執行試驗中新藥或試驗中生物製劑研究的臨床試驗主持人，所進行查核的結果。",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-status-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "Clinical Investigator Inspection List A-D",
-      "summary": "Contains names, addresses, and other information gathered from inspections of clinical investigators who have conducted studies with investigational new drugs or investigational devices reviewed by the Center for Biologics Evaluation and Research (CB",
+      "title": "臨床試驗主持人查核清單 A-D",
+      "summary": "這份",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d",
       "lang": "zh-TW"
     },
     {
-      "title": "Clinical Investigator Inspection List E-K",
-      "summary": "Contains names, addresses, and other information gathered from inspections of clinical investigators (E-K) who have conducted studies with investigational new drugs or investigational devices reviewed by the Center for Biologics Evaluation and Resear",
+      "title": "臨床研究者檢查清單 E-K",
+      "summary": "包含透過臨床研究人員 (E-K) 的檢查收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心審查的研究性新藥或研究設備進行了研究",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-e-k",
       "lang": "zh-TW"
     },
     {
-      "title": "Clinical Investigator Inspection List L-P",
-      "summary": "Contains names, addresses, and other information gathered from inspections of clinical investigators (L-P) who have conducted studies with investigational new drugs or investigational devices reviewed by the Center for Biologics Evaluation and Resear",
+      "title": "臨床研究者檢查清單 L-P",
+      "summary": "包含透過臨床研究人員 (L-P) 的檢查收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心審查的研究性新藥或研究設備進行了研究",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-l-p",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
-      "summary": "The U.S. Food and Drug Administration, a division within the U.S. Department of Health and Human Services (HHS), today announced the Rare Disease Framework Initiative to reimagine the development of drugs and biologics for rare diseases.",
+      "title": "美國食藥局（FDA） 啟動罕見疾病框架計劃，為罕見疾病藥物開發制定全面、適合目的的框架",
+      "summary": "美國衛生與公眾服務部 (HHS) 下屬的美國食品和藥物管理局今天宣布了罕見疾病框架計劃，以重新構想罕見疾病藥物和生物製劑的開發。",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease",
       "lang": "zh-TW"
     },
     {
-      "title": "What’s New for Biologics",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "亞太地區細胞治療製造版圖逐漸成形",
-      "summary": "亞太地區的細胞治療製造正逐漸成形，但生產環節仍待整合與優化。",
+      "title": "亞太地區細胞治療製造版圖逐漸清晰",
+      "summary": "亞太地區細胞與基因療法發展加速，但製造環節仍分散，自動化與彈性生物製程平台是關鍵。",
       "source": "GEN News",
       "date": "2026-10-14",
       "url": "https://www.genengnews.com/topics/bioprocessing/cell-therapy-manufacturing-takes-shape-across-asia-pacific/",
       "lang": "zh-TW"
     },
     {
-      "title": "Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products: Questions and Answers",
-      "summary": "osimilar and Interchangeable Biosimilar Products Questions and Answers",
+      "title": "生物相似藥和可互換生物相似藥產品的批准後生產變更：問題與解答",
+      "summary": "osimilar 和可互換生物相似藥產品問題與解答",
       "source": "FDA Biologics",
       "date": "2026-10-13",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/postapproval-manufacturing-changes-biosimilar-and-interchangeable-biosimilar-products-questions-and",
       "lang": "zh-TW"
     },
     {
-      "title": "翰森製藥的泰格莎競品，因阿斯特捷利康法律挑戰，遭歐盟撤銷核准",
-      "summary": "翰森製藥的泰格莎競品，因阿斯特捷利康提出法律挑戰，遭歐盟撤銷核准。",
+      "title": "翰森製藥的泰格莎（Tagrisso）競品，因阿斯特捷利康（AstraZeneca）提告，歐盟藥證遭撤銷",
+      "summary": "翰森製藥的肺癌藥物因與阿斯特捷利康（AstraZeneca）的專利糾紛，導致其在歐盟的藥證被撤銷。",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "The Pipeline for 誘導型多能幹細胞（iPSC）-Derived Cell Therapeutics in 2026",
-      "summary": "peutics in 2026 BioInformant",
+      "title": "2026 年 誘導型多能幹細胞（iPSC） 衍生細胞治療藥物的研發管線",
+      "summary": "2026 年生物資訊學",
       "source": "BioInformant",
       "date": "2026-09-17",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",

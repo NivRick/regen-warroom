@@ -1,49 +1,57 @@
 {
   "module": "funding",
-  "updated": "2026-10-16T00:54:32.309767+00:00",
+  "updated": "2026-10-16T15:09:20.829582+00:00",
   "items": [
     {
-      "title": "STAT+: Pharmalittle: We’re reading about former 美國食藥局（FDA） head calling DOGE a ‘disaster,’ an AstraZeneca AI deal, and more",
-      "summary": "Three former 美國食藥局（FDA） chiefs lit into the Trump administration, criticizing the now former 美國食藥局（FDA） officials who oversaw a massive staff exodus",
+      "title": "本週圖表：Moderna 股價大幅上漲",
+      "summary": "BioPharma Dive 以數據視覺化為重點的系列的最新一期包括了 Moderna 在 2026 年的迅速崛起以及羅氏的突然交易激增。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-16",
+      "url": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "下一代 RNAi 製藥商 City 定價 2 億美元 首次公開上市（IPO）",
+      "summary": "該產品將支持三種處於或接近臨床測試的藥物，以及進入肝臟外組織的 RNAi 治療的早期研究。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-16",
+      "url": "https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Biogen-backed Estuary nabs $93M for kidney disease 基因療法",
+      "summary": "由 RA Capital 牽頭的 A 輪融資將有助於資助兩種基因藥物的開發，這些藥物旨在治療一種被稱為「ADPKD」的遺傳性腎臟疾病。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-16",
+      "url": "https://www.biopharmadive.com/news/estuary-kidney-disease-gene-therapy-launch-emerged-biogen-biotech-startup/833114/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: 藥業小新聞：前美國食藥署長批DOGE是「災難」，阿斯特捷利康AI交易等",
+      "summary": "三位前美國食藥署（FDA）署長猛烈抨擊川普政府，批評當時的食藥署官員導致大量員工出走。",
       "source": "STAT News",
       "date": "2026-10-15",
       "url": "https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Belgian startup revives Galapagos CAR-T細胞療法 research",
-      "summary": "Armed Cell Therapeutics, chaired by former Galapagos CEO Paul Stoffels, has assumed control of cell therapies the company &mdash; now known as Lakefront Biotherapeutics &mdash; divested in a strategic overhaul.",
+      "title": "比利時新創公司復興加拉巴哥 CAR-T細胞療法 研究",
+      "summary": "由前 Galapagos 執行長 Paul Stoffels 領導的 Armed Cell Therapeutics 公司已接管了該公司在策略重組中剝離的細胞療法的控制權（現稱為 Lakefront Biotherapeutics）。",
       "source": "BioPharma Dive",
       "date": "2026-10-15",
       "url": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
       "lang": "zh-TW"
     },
     {
-      "title": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
-      "summary": "White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say",
-      "source": "STAT News",
-      "date": "2026-10-14",
-      "url": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Iambic, an AI drug discovery specialist, banks $150M in an 首次公開上市（IPO）",
-      "summary": "Part of a wave of young biotechs employing AI to accelerate research, the company claimed in regulatory filings that its approach has the potential to &ldquo;disrupt legacy drug discovery paradigms.&rdquo;",
+      "title": "人工智慧藥物發現專家 Iambic 在 首次公開上市（IPO） 中籌集 1.5 億美元",
+      "summary": "作為利用人工智慧加速研究的年輕生物技術浪潮的一部分，該公司在監管文件中聲稱，其方法有可能「顛覆傳統的藥物發現範式」。",
       "source": "BioPharma Dive",
       "date": "2026-10-14",
       "url": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
       "lang": "zh-TW"
     },
     {
-      "title": "Another Paragon spinout goes public through reverse merger",
-      "summary": "One lawyer involved noted how it's yet another example of Paragon and key investor Fairmount &mdash; which have helped transform the reputation for reverse mergers &mdash; quickly executing on a complicated deal.",
-      "source": "BioPharma Dive",
-      "date": "2026-10-13",
-      "url": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Belgium's Novadip Biosciences raises €10.4 million to fund pivotal 臨床試驗 and unlock EIB loan tranche",
+      "title": "比利時 Novadip Biosciences 融資 1,040 萬歐元，資助關鍵臨床試驗並解鎖 EIB 貸款",
       "summary": ".4 million to fund pivotal 臨床試驗 and unlock EIB loan tranche EU-Startups",
       "source": "EU-Startups",
       "date": "2026-09-21",
