@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-10-16T15:08:54.285788+00:00",
+  "updated": "2026-10-17T00:56:06.208143+00:00",
   "items": [
     {
-      "title": "新發現的微外顯子，為自閉症類群障礙（ASD）的基因根源提供線索",
-      "summary": "一項新研究指出，新發現的微外顯子可能與自閉症類群障礙（ASD）及其他神經疾病的遺傳基礎有關。",
+      "title": "新發現的微外顯子為自閉症類群障礙的基因根源提供線索",
+      "summary": "Nature研究揭示數百個新微外顯子與自閉症類群障礙（ASD）及神經疾病有關，為基因根源提供新線索。",
       "source": "GEN News",
       "date": "2026-10-15",
       "url": "https://www.genengnews.com/topics/omics/newly-identified-microexons-offer-clues-to-autism-spectrum-disorders-genetic-roots/",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗主持人狀態（生物製劑）",
-      "summary": "這份清單是針對曾執行試驗中新藥或試驗中生物製劑研究的臨床試驗主持人，所進行查核的結果。",
+      "title": "臨床試驗主持人狀態 (生物製劑)",
+      "summary": "這是針對執行新藥或試驗中生物製劑研究的臨床試驗主持人，所進行查核後產生的清單。",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-status-biologics",
@@ -20,7 +20,7 @@
     },
     {
       "title": "臨床試驗主持人查核清單 A-D",
-      "summary": "這份",
+      "summary": "這份清單收錄",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d",
@@ -59,24 +59,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "亞太地區細胞治療製造版圖逐漸清晰",
-      "summary": "亞太地區細胞與基因療法發展加速，但製造環節仍分散，自動化與彈性生物製程平台是關鍵。",
-      "source": "GEN News",
-      "date": "2026-10-14",
-      "url": "https://www.genengnews.com/topics/bioprocessing/cell-therapy-manufacturing-takes-shape-across-asia-pacific/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物相似藥和可互換生物相似藥產品的批准後生產變更：問題與解答",
-      "summary": "osimilar 和可互換生物相似藥產品問題與解答",
-      "source": "FDA Biologics",
-      "date": "2026-10-13",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/postapproval-manufacturing-changes-biosimilar-and-interchangeable-biosimilar-products-questions-and",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "翰森製藥的泰格莎（Tagrisso）競品，因阿斯特捷利康（AstraZeneca）提告，歐盟藥證遭撤銷",
-      "summary": "翰森製藥的肺癌藥物因與阿斯特捷利康（AstraZeneca）的專利糾紛，導致其在歐盟的藥證被撤銷。",
+      "title": "豪森的競爭對手 Tagrisso 在阿斯特捷利康法律挑戰後失去歐盟批准",
+      "summary": "l 阿斯特捷利康對 Fierce Pharma 提出法律挑戰後",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
