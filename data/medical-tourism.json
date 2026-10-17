@@ -1,13 +1,21 @@
 {
   "module": "tourism",
-  "updated": "2026-10-17T00:56:37.463398+00:00",
+  "updated": "2026-10-17T14:03:56.108418+00:00",
   "items": [
     {
-      "title": "韓國人湧向日本尋求幹細胞治療，從失智症到抗老，費用超過7.4萬美元",
-      "summary": "韓國民眾赴日尋求高價幹細胞治療，應用範圍從失智症到抗老，單次療程費用超過7.4萬美元。",
+      "title": "從失智症到抗衰老，韓國人蜂擁赴日尋求幹細胞治療，費用超過 7.4 萬美元",
+      "summary": "韓國民眾為治療失智症及抗衰老，不惜花費高額費用，遠赴日本接受幹細胞治療。",
       "source": "KED Global",
       "date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MTTF6V3l2SjZ1TVVET0J0UzlCelJpby1VS1JpcHhUZjdiSXBZVDBlbWdxNnZGbWFMNjNQQWVzaG85enlZcUVXQ2s0WFFrc0dmYWxYeFNscDFXVHAtRVRoeGQxQnc4blhzaWlxSWVwSW5CT3lBcnc?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "【MetaTech (AP) 2026 會計年度第二季財報電話會議】MetaTech 攜手正陽生技搶攻全球 hPL (人類胎盤素) 市場，第二季虧損縮減逾九成，預計 2027 年 AI 營收佔比將達 73%",
+      "summary": "MetaTech 與正陽生技合作進軍全球 hPL 市場，第二季虧損大幅收斂，並預期 AI 業務將成為未來主要營收來源。",
+      "source": "finance.biggo.com",
+      "date": "2026-10-15",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ucFg0TmJ0TmZna2Nqd2dDTEFzcndkVFg4WVlIOVlUOVlXYV9ERFlzYVYwLWJDRExxcVhwRm9SZDRsRDhXUFNZNnU2amNoVDhFazNiZnhoMDczd2FNY2h6MnBR?oc=5",
       "lang": "zh-TW"
     }
   ]

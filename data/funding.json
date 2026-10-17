@@ -1,7 +1,15 @@
 {
   "module": "funding",
-  "updated": "2026-10-17T00:56:32.133234+00:00",
+  "updated": "2026-10-17T14:03:46.524714+00:00",
   "items": [
+    {
+      "title": "STAT+報導：陪審團裁定劍橋大學被解雇科學家大衛·薩巴蒂尼勝訴，將獲賠600萬美元",
+      "summary": "科學家大衛·薩巴蒂尼因被指控行為不當導致事業受挫，如今陪審團裁定他勝訴，將獲賠",
+      "source": "STAT News",
+      "date": "2026-10-17",
+      "url": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
     {
       "title": "Iambic 執行長談論人工智慧製藥公司上市",
       "summary": "剛完成 1.5 億美元 首次公開上市（IPO） 的湯姆·米勒 (Tom Miller) 向 BioPharma Dive 談到了路演過程以及他如何看待人工智慧在藥物開發中的作用的演變。",
@@ -11,7 +19,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "This week in charts: Moderna’s massive stock run",
+      "title": "本週圖表：Moderna 股價大幅上漲",
       "summary": "BioPharma Dive 以數據視覺化為重點的系列的最新一期包括了 Moderna 在 2026 年的迅速崛起以及羅氏的突然交易激增。",
       "source": "BioPharma Dive",
       "date": "2026-10-16",
@@ -35,15 +43,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+ 藥業快訊：前FDA局長批DOGE是「災難」、AstraZeneca AI合作案等焦點",
-      "summary": "三位前美國食品藥物管理局（FDA）局長猛烈抨擊川普政府，批評當時的FDA官員導致大量員工出走。",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關前 美國食藥局（FDA） 負責人稱 DOGE 為「災難」、阿斯特捷利康 AI 交易等的內容",
+      "summary": "三名前 美國食藥局（FDA） 負責人對川普政府發動攻擊，批評現任 美國食藥局（FDA） 官員大規模員工外流",
       "source": "STAT News",
       "date": "2026-10-15",
       "url": "https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Belgian startup revives Galapagos CAR-T細胞療法 research",
+      "title": "比利時新創公司復興加拉巴哥 CAR-T細胞療法 研究",
       "summary": "由前 Galapagos 執行長 Paul Stoffels 領導的 Armed Cell Therapeutics 公司已接管了該公司在策略重組中剝離的細胞療法的控制權（現稱為 Lakefront Biotherapeutics）。",
       "source": "BioPharma Dive",
       "date": "2026-10-15",
@@ -59,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "比利時 Novadip Biosciences 融資 1,040 萬歐元，資助關鍵臨床試驗並解鎖 EIB 貸款",
-      "summary": ".4 million to fund pivotal 臨床試驗 and unlock EIB loan tranche EU-Startups",
+      "title": "比利時 Novadip Biosciences 募資 1123 萬美元，用於關鍵性臨床試驗並啟動歐洲投資銀行（EIB）的貸款額度",
+      "summary": "比利時生技公司 Novadip Biosciences 成功募資 1123 萬美元，這筆資金將用於推動其關鍵性臨床試驗，並同步啟動歐洲投資銀行（EIB）的貸款額度，加速產品開發進程。",
       "source": "EU-Startups",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",

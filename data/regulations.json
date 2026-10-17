@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-10-17T00:56:06.208143+00:00",
+  "updated": "2026-10-17T14:03:03.519222+00:00",
   "items": [
     {
-      "title": "新發現的微外顯子為自閉症類群障礙的基因根源提供線索",
-      "summary": "Nature研究揭示數百個新微外顯子與自閉症類群障礙（ASD）及神經疾病有關，為基因根源提供新線索。",
+      "title": "新發現的微外顯子，揭開自閉症類群障礙的基因根源",
+      "summary": "最新研究發現微外顯子與自閉症類群障礙的基因根源有關。",
       "source": "GEN News",
       "date": "2026-10-15",
       "url": "https://www.genengnews.com/topics/omics/newly-identified-microexons-offer-clues-to-autism-spectrum-disorders-genetic-roots/",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗主持人狀態 (生物製劑)",
-      "summary": "這是針對執行新藥或試驗中生物製劑研究的臨床試驗主持人，所進行查核後產生的清單。",
+      "title": "臨床試驗主持人狀態（生物製劑）",
+      "summary": "這份臨床試驗主持人查核清單，來自針對曾執行新藥或試驗性生物製劑研究的臨床試驗主持人所進行的查核。",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-status-biologics",
@@ -20,7 +20,7 @@
     },
     {
       "title": "臨床試驗主持人查核清單 A-D",
-      "summary": "這份清單收錄",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d",
