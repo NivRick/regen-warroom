@@ -1,5 +1,22 @@
 {
   "module": "tourism",
-  "updated": "2026-10-18T00:33:34.495943+00:00",
-  "items": []
+  "updated": "2026-10-18T14:15:30.862494+00:00",
+  "items": [
+    {
+      "title": "從失智症到抗衰老，韓國人蜂擁赴日尋求幹細胞治療，費用超過7.4萬美元",
+      "summary": "韓國民眾為治療失智症及抗衰老，不惜花費高價赴日接受幹細胞治療，引發關注。",
+      "source": "KED Global",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MTTF6V3l2SjZ1TVVET0J0UzlCelJpby1VS1JpcHhUZjdiSXBZVDBlbWdxNnZGbWFMNjNQQWVzaG85enlZcUVXQ2s0WFFrc0dmYWxYeFNscDFXVHAtRVRoeGQxQnc4blhzaWlxSWVwSW5CT3lBcnc?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "【MetaTech (AP) 2026會計年度第二季財報電話會議】MetaTech攜手正陽生技搶攻全球hPL（人類血小板裂解液）市場，第二季虧損縮減逾90%，預計2027年AI營收佔比將達73%",
+      "summary": "MetaTech與正陽生技合作搶攻hPL市場，第二季虧損大幅縮減，並預期AI營收佔比將顯著提升。",
+      "source": "finance.biggo.com",
+      "date": "2026-10-15",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ucFg0TmJ0TmZna2Nqd2dDTEFzcndkVFg4WVlIOVlUOVlXYV9ERFlzYVYwLWJDRExxcVhwRm9SZDRsRDhXUFNZNnU2amNoVDhFazNiZnhoMDczd2FNY2h6MnBR?oc=5",
+      "lang": "zh-TW"
+    }
+  ]
 }

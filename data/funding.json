@@ -1,26 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-10-18T00:33:08.412336+00:00",
+  "updated": "2026-10-18T14:15:21.818341+00:00",
   "items": [
     {
-      "title": "STAT+: 陪審團裁定劍橋科學家 David Sabatini 勝訴，將獲賠 600 萬美元",
-      "summary": "劍橋科學家 David Sabatini 遭解職後，陪審團裁定他勝訴，將獲賠 600 萬美元。",
+      "title": "STAT+：劍橋科學家David Sabatini遭解雇後獲判勝訴，將獲賠600萬美元",
+      "summary": "劍橋科學家David Sabatini因被指控行為不當而遭解雇，如今陪審團裁定他勝訴，將獲賠600萬美元。此判決",
       "source": "STAT News",
       "date": "2026-10-17",
       "url": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Iambic 執行長談 AI 藥物公司上市",
-      "summary": "Iambic 執行長分享公司透過首次公開募股（IPO）上市的經驗，並探討 AI 在藥物開發中的角色。",
+      "title": "Iambic 執行長談論人工智慧製藥公司上市",
+      "summary": "剛完成 1.5 億美元 首次公開上市（IPO） 的湯姆·米勒 (Tom Miller) 向 BioPharma Dive 談到了路演過程以及他如何看待人工智慧在藥物開發中的作用的演變。",
       "source": "BioPharma Dive",
       "date": "2026-10-16",
       "url": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
       "lang": "zh-TW"
     },
     {
-      "title": "本週圖表：莫德納（Moderna）股價飆漲",
-      "summary": "",
+      "title": "本週圖表：Moderna 股價大幅上漲",
+      "summary": "BioPharma Dive 以數據視覺化為重點的系列的最新一期包括了 Moderna 在 2026 年的迅速崛起以及羅氏的突然交易激增。",
       "source": "BioPharma Dive",
       "date": "2026-10-16",
       "url": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
@@ -43,8 +43,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Pharmalittle：前美國食品藥物管理局（FDA）局長稱 DOGE 為「災難」、阿斯特捷利康（AstraZeneca）的 AI 交易等新聞",
-      "summary": "前美國食品藥物管理局（FDA）局長稱 DOGE 為「災難」，另有阿斯特捷利康（AstraZeneca）的 AI 交易等生醫新聞。",
+      "title": "Fierce Biotech 募資追蹤報告 '26：Estuary 募得 9300 萬美元 A 輪資金；OMass 獲得 3.1 億美元",
+      "summary": "Estuary 募得 9300 萬美元 A 輪資金，OMass 則成功募得 3.1 億美元。",
+      "source": "Fierce Biotech",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關前 美國食藥局（FDA） 負責人稱 DOGE 為「災難」、阿斯特捷利康 AI 交易等的內容",
+      "summary": "三名前 美國食藥局（FDA） 負責人對川普政府發動攻擊，批評現任 美國食藥局（FDA） 官員大規模員工外流",
       "source": "STAT News",
       "date": "2026-10-15",
       "url": "https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss",
@@ -64,6 +72,14 @@
       "source": "BioPharma Dive",
       "date": "2026-10-14",
       "url": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "比利時 Novadip Biosciences 募得 1123 萬美元，將用於關鍵性臨床試驗並啟動 EIB 貸款",
+      "summary": "Novadip Biosciences 募得 1123 萬美元，將用於資助關鍵性臨床試驗，並啟動歐洲投資銀行（EIB）的貸款額度。",
+      "source": "EU-Startups",
+      "date": "2026-09-21",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",
       "lang": "zh-TW"
     }
   ]

@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-10-18T00:32:35.162294+00:00",
+  "updated": "2026-10-18T14:14:51.235415+00:00",
   "items": [
     {
-      "title": "新發現的微外顯子為自閉症譜系障礙的遺傳根源提供了線索",
-      "summary": "根據《自然》雜誌的一項研究，數百個新發現的微外顯子似乎對自閉症和其他神經系統疾病都很重要。他們的監管代碼的機器學習模型還找出了預計會破壞自閉症患者剪接的變體",
+      "title": "新發現的微外顯子為自閉症類群障礙的基因根源提供線索",
+      "summary": "新發現的微外顯子可能與自閉症類群障礙（ASD）的遺傳基礎有關。",
       "source": "GEN News",
       "date": "2026-10-15",
       "url": "https://www.genengnews.com/topics/omics/newly-identified-microexons-offer-clues-to-autism-spectrum-disorders-genetic-roots/",
@@ -12,15 +12,15 @@
     },
     {
       "title": "臨床試驗主持人狀態（生物製劑）",
-      "summary": "這是針對執行新藥或生物製劑臨床試驗的主持人，其查核狀態的列表。",
+      "summary": "這份清單來自針對臨床試驗主持人的查核結果，這些主持人曾執行試驗中新藥或試驗中生物製劑的臨床研究。",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-status-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗主持人查核名單 A-D",
-      "summary": "這份名單收錄了曾執行新藥",
+      "title": "臨床試驗主持人查核清單 A-D",
+      "summary": "這",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d",
@@ -56,6 +56,22 @@
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "豪森的競爭對手 Tagrisso 在阿斯特捷利康法律挑戰後失去歐盟批准",
+      "summary": "l 阿斯特捷利康對 Fierce Pharma 提出法律挑戰後",
+      "source": "Fierce Pharma",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026 年亞太地區首次獲批：完整列表",
+      "summary": "",
+      "source": "BioPharma APAC",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUJUb21RX3JlQkdYOXM4SU05X29TUXZoajkxNW1ldFhVNVNDVGpVQ0RLX1RMUkMzXzljS1lwWXVZd3VKUkw5aXRuZUJSbFpZbFhYbmx1aXh0cnVmRDRMNjNubVJtQXpJV3BBZTc0cFQyYXkyRXYtcmhYREhFcFlndjVlVzNhWGRZeTZQak1uOUoxMV9RUWVtV1lyZTI?oc=5",
       "lang": "zh-TW"
     }
   ]

@@ -1,9 +1,9 @@
 {
   "module": "research",
-  "updated": "2026-10-18T00:31:09.364927+00:00",
+  "updated": "2026-10-18T14:14:07.238673+00:00",
   "items": [
     {
-      "title": "DNA修飾的相變微液滴，能實現可程式化融合與基因轉染",
+      "title": "DNA修飾的相變微液滴，實現可程式化融合與基因轉染",
       "summary": "相變全氟碳微液滴（MDs）是一種很有潛力且彈性的方法，可用於膠體科學中具挑戰性的應用，例如客製化...",
       "source": "PubMed",
       "date": "2026-10-18",
@@ -11,7 +11,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "間質幹",
+      "title": "間質幹細胞衍",
       "summary": "",
       "source": "PubMed",
       "date": "2026-10-18",
@@ -67,11 +67,35 @@
       "lang": "zh-TW"
     },
     {
-      "title": "成纖維細胞相關的 TPM2 將細胞基質重塑與肝內膽管癌中的 EMT-Notch 訊號傳導和吉西他濱抗藥性聯繫起來。",
-      "summary": "肝內膽管癌（ICC）是一種侵襲性肝臟惡性腫瘤，對基於吉西他濱的化療具有異質性反應。與吉西他濱反應相關的細胞和微環境程序仍未完全了解。本研究旨在確定腫瘤微環境...",
+      "title": "纖維母細胞相關的TPM2，連結細胞基質重塑與上皮間質轉化（EMT）-Notch訊號傳導，並導致肝內膽管癌對健澤產生抗藥性。",
+      "summary": "肝內膽管癌（ICC）是一種惡性度高的肝臟腫瘤，對健",
       "source": "PubMed",
       "date": "2026-10-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42766730/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "分泌抗 PD-L1 scFv 的第五代 GD2-CAR-T細胞療法 細胞增強對 GD2 低視網膜母細胞瘤的抗腫瘤功能。",
+      "summary": "視網膜母細胞瘤（RB）是一種侵襲性兒科眼內惡性腫瘤，化療抗藥性或復發的疾病通常需要摘除術，導致視力喪失。 GD2 標靶嵌合抗原受體 (CAR) T 細胞有望用於治療 GD2 陽性腫瘤，但 PD-L1 介導的免疫抑制和 R...",
+      "source": "PubMed",
+      "date": "2026-10-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42890208/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "編碼抑制 tRNA 的 DNA 寡核苷酸誘導過早終止密碼子的通讀。",
+      "summary": "無義突變是一種 DNA 突變，將 信使RNA（mRNA） 中的有義密碼子轉換為過早終止密碼子 (PTC)，導致蛋白質截短。最近的研究表明，抑制性 tRNA 可以讀取終止密碼子而不是天然密碼子並編碼所需的胺基酸，從而誘導 PTC r...",
+      "source": "PubMed",
+      "date": "2026-10-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42889717/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "口腔骨再生中的濃縮生長因子：敘述性評論。",
+      "summary": "濃縮生長因子（CGF）是第三代自體血小板濃縮物，已越來越多地用於口腔骨再生。本綜述總結了其製備、生物學機制和臨床療效，並討論了當前的局限性和未來的方向。",
+      "source": "PubMed",
+      "date": "2026-10-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42890307/",
       "lang": "zh-TW"
     },
     {
@@ -107,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "脂肪源性微血管碎片：驅動血管整合和多維組織再生的功能性微組織單元。",
-      "summary": "快速穩定的血管化仍然是再生醫學和組織工程的主要挑戰之一。脂肪源性微血管碎片（ad-MVF）已成為一種有前途的血管化策略，因為它們保留了完整的微血管結構，同時保留了內皮...",
+      "title": "脂肪源性微血管碎片：驅動血管整合與多面向組織再生的功能性微組織單元",
+      "summary": "再生醫學與組織工程面臨快速穩定血管化的挑戰。本研究探討脂肪源性微血管碎片作為功能性微組織單元，如何促進血管整合與多面向組織再生。",
       "source": "PubMed",
       "date": "2026-10-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42861023/",
@@ -124,34 +148,10 @@
     },
     {
       "title": "與確定的細胞外基質蛋白底物相比，人類胎盤去細胞細胞外基質可改善人類胚胎幹細胞的胰臟祖細胞分化。",
-      "summary": "Cell replacement therapy for diabetes requires a scalable source of functional β-cells. The derivation of insulin-producing cells (IPCs) from human embryonic 幹細胞 (hESCs) is a strategy to generate β-cells for this purpose. 細胞治療 for diabetes requires a scalable source of functional β-ce...",
+      "summary": "糖尿病的細胞替代療法需要可擴展的功能性 β 細胞來源。從人類胚胎幹細胞 (hESC) 衍生出胰島素生成細胞 (IPC) 是為此目的產生 β 細胞的策略。糖尿病細胞療法需要可擴展的功能性 β-ce 來源...",
       "source": "PubMed",
       "date": "2026-10-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840348/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "幹細胞老化是老年骨骼退化的再生瓶頸：機制探討與轉譯策略",
-      "summary": "骨骼退化是造成老年人口疼痛、失能、骨質疏鬆性骨折及喪失獨立生活能力的主要原因。儘管骨質疏鬆症...",
-      "source": "PubMed",
-      "date": "2026-10-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42835960/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "基於環境",
-      "summary": "",
-      "source": "PubMed",
-      "date": "2026-10-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42831203/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "為什麼 CD4+ T 細胞在實體癌症的過繼性細胞治療中很重要。",
-      "summary": "細胞毒性 CD8+ T 細胞一直是提高抗癌過繼性細胞療法療效的研究工作的重點。然而，新出現的證據強調了 CD4+ T 細胞（包括嵌合抗原受體 T 細胞）在這些治療中的關鍵作用。雖然 CD4+ T 的存在...",
-      "source": "PubMed",
-      "date": "2026-10-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42830771/",
       "lang": "zh-TW"
     },
     {
@@ -211,7 +211,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "自體脂肪移植治療慢性肌腱病變",
+      "title": "自體脂肪移植治療慢性肌",
       "summary": "",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-10-18",
@@ -251,8 +251,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 期] Venetoclax 或安慰劑與降低強度調理造血細胞（骨髓/血液幹細胞）移植相結合，並作為急性髓性白血病患者移植後的維持治療（一項 MyeloMATCH 治療試驗）",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：美國國家癌症研究所 (NCI)｜這項 II 期 MyeloMATCH 治療試驗比較了添加 Venetoclax 或安慰劑與氟達拉濱和白消安或美法崙降低強度預處理化療的效果，有或沒有全身照射，隨後進行造血治療治療",
+      "title": "新進展－XellSmart在MDS公佈現成帕金森氏症細胞療法一期結果並完成盲法二期入組",
+      "summary": "I MDS 現成的帕金森氏症細胞療法的結果和完成的盲法 II 期註冊 Floyd County Times",
+      "source": "Floyd County Times",
+      "date": "2026-10-18",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQckd1R3VOSGg4RmVvZmpyUzNZcl93LVZEY3RoNWFCWXQyXzh1SWtnczNMQzlORUhRSlprQzVnalNaNVJQckRZclBnQmo4NHhfcXdnV3BfRkJyR3RPZnEwbm1uQUVEUkh5VjlnTG90akZKTXM1cWVLaDN1VTlsRVExSV96WW9xVTR2bFJIZnBtRVdSSW9EMXlHMUVKLUVZYWhwejlFNXB6X0doSl9MYzBGTU5TcTBDaWxZblByaEVMeVZrb2RmZWozRGJMVnJaV0FPc0dmUzR1TGZGOWlyQV84RE1adWdfNUY1cUlZUU56YzlYTFotakswVXo3X2RTVnFBNE93MzRxSmllbjY1aU82Yg?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "誘導多能幹細胞致力於癌症預防、治療和腫瘤建模",
+      "summary": "癌症預防、治療和腫瘤建模 Bioengineer.org",
+      "source": "Bioengineer.org",
+      "date": "2026-10-17",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmNRNzhOd0k1RDRyakxvdTZDamJ1X2puOUhYT3FLbG1JYW9JYkdwaWNkX1I4QnlPTGFkQzVWUkNPbUJxMWxfQXo5dkVfOTk4dTVVZXRDZW9rdjBjVGJIQWRnTzJBWml6cWNZb3hud1hJLXI1bkZ5WGxsX21vTGJwQk5jemZxZHJkSS03VklNVGVtNTJjcHdHdFRWVUZ2M0lCMmc4VkNJejB1emkybFRYUUtB?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[二期臨床] Venetoclax 或安慰劑與減輕強度預處理造血幹細胞（骨髓/血液幹細胞）移植結合，並作為移植後維持療法用於患者",
+      "summary": "狀態：尚未開始招募｜主辦：美國國家癌症研究院 (NCI)｜這項二期 MyeloMATCH 治療",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-10-16",
       "url": "https://clinicaltrials.gov/study/NCT06954987",
@@ -267,11 +283,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "接觸常見內分泌干擾物質 恐改變乳房正常發育",
-      "summary": "一項針對人體乳腺類器官的研究發現，接觸到一些常見的內分泌干擾物質，可能導致乳房組織產生分子層次的變化。",
+      "title": "常見內分泌干擾物恐改變乳房正常發育",
+      "summary": "一項針對人類乳房類器官的研究發現，接觸某些常見的內分泌干擾化學物質，可能導致乳房組織產生分子層面的變化。",
       "source": "GEN News",
       "date": "2026-10-16",
       "url": "https://www.genengnews.com/topics/cancer/exposure-to-common-endocrine-disrupting-chemicals-may-alter-normal-breast-development/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生技產業2026年最驚心動魄的起伏：試驗結果、挑戰與機會",
+      "summary": "",
+      "source": "BioProcess International",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYjh2RzdNcGxIMnNCUDVpSWhxemZRX3ZXdC1URWtMdVlMWmNUQ2VRSHhyaHBzV1JqQzlZeXVua2ZGZDlkX0JSeVFaV0xmdnlkRUxpTlhYQUJxdlNteDBMZHNpN21FdGFpNE5COXBRSUZBTzdxZWtGQUU4emw4MWlRWkhwNjhMZ3hILUpOblV5OXN1N3pYb2ZtUVZrRTZMR1hUYVlVaDlZbEc2TDJYVG84TlJOZHY4cFVGeTZQckVQWmp2VW9FVTZGZmtmRUJnOVNDdW9Z?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -291,6 +315,30 @@
       "lang": "zh-TW"
     },
     {
+      "title": "增強型 CAR-T細胞療法 細胞療法在首次人體試驗中顯示出治療 B 細胞癌症的早期前景",
+      "summary": "首次人體試驗可望治療 B 細胞癌 Medical Xpress",
+      "source": "Medical Xpress",
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CT0J6N3lRVDJLYzBwUnFuTzNERWN0SHFETHRzaGVVNm13NzZCOHRyc1E5NXdPelNjNDYxUm00cHhTWmRkTHdWLThiRnJzN0d6aHYxMHl1T0x5VVVDc1V5ZmRiczhFcWRPY1ZETlFwTnF4dnBBSGVpcEdDY2g0WFE?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "CAR-T細胞療法 細胞療法在早期復發性骨髓瘤中繼續發揮作用",
+      "summary": "早期復發性骨髓瘤案例 OncLive",
+      "source": "OncLive",
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY05WQ1lrUlhIR3J3TXctWmVvUHBMQ21nV2NscDdmRS1tQzRFc0tSRFMwSlhrYWR2V2QzQjhkSXpJdXBzbnVQdVQ1RGtlNUljUm9UdXdLV3Z3MDI0NFNXdFo1eDgyTjBiYkptcUxpem52VWZJLUJxM1hRUXhnajVfZHpMYzFiZ3FFN25VR1BBVVlQSHRXbzZZRFZQWldEdV81a0E?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "CRC 2026 回顧：第 2 天",
+      "summary": "",
+      "source": "Breakthrough T1D",
+      "date": "2026-10-11",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43eGgtQ0doQlJqakI0bWhKVzg0SnNPNll0VFJ4OU5ibXQzbDhrTmlmdWZ1aHl6Q3loRHQ1c1hsczZUVF9CRzZiZGVQcmdMNm5zSUlqSkNpWnJVamN3dmZYbnVIY2o2VmVwajVtUnp4SXhfMjVfQnFsQ0FR?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "[第四階段]依巴斯汀輔助治療腫瘤出芽陽性肝癌術後",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：西安交通大學第二附屬醫院｜本研究評估FAK（黏著斑激酶）抑制劑依巴斯汀作為輔助治療降低接受根治性肝切除術且腫瘤表現出組織病理學的肝細胞癌（HCC）患者的複發風險",
       "source": "ClinicalTrials.gov｜Global",
@@ -299,8 +347,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BCMA靶向療法中患者腫瘤微環境的免疫分析",
-      "summary": "狀態：尚未開始招募｜主辦單位：歐登塞大學醫院｜這項計畫的主要目標是分析骨髓的免疫微環境，並探討...",
+      "title": "BCMA標靶療法中患者腫瘤微環境的免疫圖譜分析",
+      "summary": "歐登塞大學醫院主辦，此計畫旨在分析骨髓免疫微環境，以深入了解BCMA標靶療法。目前尚未招募受試者。",
       "source": "ClinicalTrials.gov｜Norway, Denmark",
       "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07878208",
@@ -328,6 +376,14 @@
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-09-30",
       "url": "https://clinicaltrials.gov/study/NCT07780578",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 批准 Fayuvi 用於治療 A 型 Sanfilippo 綜合徵兒科患者",
+      "summary": "患有 A 型聖菲利波綜合症的 ts 製藥高管",
+      "source": "Pharmaceutical Executive",
+      "date": "2026-09-18",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2IzWWllSW0yOTBWeWo1b1lpSk1CNkxlR3lLME10Z2FCVG5rNGwxdkVHeXkySVFTaU1PNW5EVE9fYXFCLThwNGM2Z01Sd0g2N3NXNTlHSHM0VzJ2RUZrSE5ZcEROc3g5Y2xSLUd2NHdoZTY3cmtLRVE0c2J3MWdFRUpTVmEzdzE2OEh4enQ2N0wxYWtuVl9vVmZwaW0?oc=5",
       "lang": "zh-TW"
     }
   ]
