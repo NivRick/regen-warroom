@@ -1,297 +1,297 @@
 {
   "module": "research",
-  "updated": "2026-10-18T14:14:07.238673+00:00",
+  "updated": "2026-10-19T00:36:26.266772+00:00",
   "items": [
     {
       "title": "DNA修飾的相變微液滴，實現可程式化融合與基因轉染",
-      "summary": "相變全氟碳微液滴（MDs）是一種很有潛力且彈性的方法，可用於膠體科學中具挑戰性的應用，例如客製化...",
+      "summary": "相變全氟碳微液滴（MDs）在膠體科學領域中，是個很有潛力且彈性的方法，可用於客製化等具挑戰性的應用。",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42790119/",
       "lang": "zh-TW"
     },
     {
-      "title": "間質幹細胞衍",
+      "title": "間",
       "summary": "",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42759891/",
       "lang": "zh-TW"
     },
     {
-      "title": "使用電化學阻抗譜監測微生理系統中的組織完整性和細胞分化的優勢、考量和挑戰。",
-      "summary": "在過去的幾十年裡，科學界越來越意識到將動物模型外推到人類的限制。因此，微生理系統（MPS），例如球體、類器官和晶片上器官（OOC）技術，被認為是相關的替代...",
+      "title": "Advantages, considerations and challenges in using Electrochemical Impedance Spectroscopy to monitor tissue integrity and cell differentiation in Microphysiological Systems.",
+      "summary": "Over the past few decades, the scientific community has become increasingly aware of the limitations of extrapolating animal models to humans. Consequently, microphysiological systems (MPS), such as spheroids, 類器官, and organ-on-chip (OOC) technologies, have been suggested as pertinent alternat...",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42828863/",
       "lang": "zh-TW"
     },
     {
-      "title": "「海洋生物材料使用壓縮和吸收方法作為載有細胞的水凝膠設想軟骨組織工程」的勘誤 [Biomater。副詞。第 137 卷，2022 年 6 月，212843]。",
+      "title": "Corrigendum to \"Marine origin biomaterials using a compressive and absorption methodology as cell-laden hydrogel envisaging cartilage 組織工程\" [Biomater. Adv. Volume 137, June 2022, 212843].",
       "summary": "",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42760196/",
       "lang": "zh-TW"
     },
     {
-      "title": "克服非病毒基因治療中的核屏障：NLS 勝肽和 DNA 標靶序列策略的機制、載體設計和轉化視角。",
-      "summary": "將質粒 DNA (pDNA) 有效遞送到細胞核中仍然是非病毒基因治療的主要瓶頸，特別是在有絲分裂後和緩慢分裂的細胞中，其中核膜構成被動進入的永久屏障。這篇評論考慮了主動的兩個主要策略...",
+      "title": "Overcoming the nuclear barrier in nonviral 基因療法: mechanisms, carrier design, and translational perspectives on NLS peptide and DNA targeting sequence strategies.",
+      "summary": "Efficient delivery of plasmid DNA (pDNA) into the nucleus remains a major bottleneck in nonviral 基因療法, particularly in post-mitotic and slowly dividing cells where the nuclear envelope constitutes a permanent barrier to passive entry. This review considers the two main strategies for active ...",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42881531/",
       "lang": "zh-TW"
     },
     {
-      "title": "高脂飲食衍生的代謝物尿苷二磷酸 (UDP) 透過 P2Y 損害上皮再生",
-      "summary": "肥胖與影響代謝變化和器官功能障礙的慢性低度發炎有關。腸上皮屏障（IEB）的損傷和腸道微生物群的改變被認為是透過很大程度上未明確的機制導致這種表型的。在這裡，我們採用了飲食-...",
+      "title": "High-fat diet-derived metabolite uridine diphosphate (UDP) impairs epithelial regeneration by P2Y",
+      "summary": "Obesity is associated with a chronic low-grade inflammation affecting metabolic changes and organ dysfunction. Impairment of the intestinal epithelial barrier (IEB) and alterations in gut microbiota are considered to contribute to this phenotype by largely undefined mechanisms. Here, we used a diet-...",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42881530/",
       "lang": "zh-TW"
     },
     {
-      "title": "創新的囊泡篩選，可在老化的原代臍帶基質衍生的 MSC 中進行有效的基因傳遞。",
-      "summary": "清除老化細胞有可能延長健康壽命並延緩與年齡相關的疾病的發生，這推動了創新老化療法的發展。因此，基於niosome的基因治療已成為克服第一代senoly的脫靶限制的有前途的策略...",
+      "title": "Innovative niosome screening for efficient gene delivery in senescent primary umbilical cord stroma-derived MSCs.",
+      "summary": "The potential of senescent cell clearance to extend healthspan and delay the onset of age-related diseases has driven the development of innovative senotherapeutics. Thus, niosome-based 基因療法 has emerged as a promising strategy to overcome the off-target limitations of first-generation senoly...",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42845215/",
       "lang": "zh-TW"
     },
     {
-      "title": "WNT 訊號傳導的抑制使 CRC 細胞對類視黃醇的抗腫瘤作用敏感：腫瘤學新藥物組合的基礎。",
-      "summary": "我們的",
+      "title": "Inhibition of WNT signaling sensitizes CRC cells to anti-tumor effects of retinoids: basis for new drug combinations in oncology.",
+      "summary": "Our",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42845214/",
       "lang": "zh-TW"
     },
     {
-      "title": "纖維母細胞相關的TPM2，連結細胞基質重塑與上皮間質轉化（EMT）-Notch訊號傳導，並導致肝內膽管癌對健澤產生抗藥性。",
-      "summary": "肝內膽管癌（ICC）是一種惡性度高的肝臟腫瘤，對健",
+      "title": "纖維母細胞相關的TPM2連結細胞外基質重塑、上皮間質轉化（EMT）-Notch訊號傳導與肝內膽管癌（ICC）的健澤（gemcitabine）抗藥性",
+      "summary": "這項研究揭示了纖維母細胞中的TPM2",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42766730/",
       "lang": "zh-TW"
     },
     {
-      "title": "分泌抗 PD-L1 scFv 的第五代 GD2-CAR-T細胞療法 細胞增強對 GD2 低視網膜母細胞瘤的抗腫瘤功能。",
-      "summary": "視網膜母細胞瘤（RB）是一種侵襲性兒科眼內惡性腫瘤，化療抗藥性或復發的疾病通常需要摘除術，導致視力喪失。 GD2 標靶嵌合抗原受體 (CAR) T 細胞有望用於治療 GD2 陽性腫瘤，但 PD-L1 介導的免疫抑制和 R...",
+      "title": "Anti-PD-L1 scFv-secreting fifth-generation GD2-CAR-T細胞療法 cells enhance antitumor function against GD2-low retinoblastoma.",
+      "summary": "Retinoblastoma (RB) is an aggressive pediatric intraocular malignancy in which chemoresistant or relapsed disease often requires enucleation, leading to vision loss. GD2-targeted 嵌合抗原受體 (CAR) T cells are promising for GD2-positive tumors, but PD-L1-mediated immunosuppression and r...",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42890208/",
       "lang": "zh-TW"
     },
     {
-      "title": "編碼抑制 tRNA 的 DNA 寡核苷酸誘導過早終止密碼子的通讀。",
-      "summary": "無義突變是一種 DNA 突變，將 信使RNA（mRNA） 中的有義密碼子轉換為過早終止密碼子 (PTC)，導致蛋白質截短。最近的研究表明，抑制性 tRNA 可以讀取終止密碼子而不是天然密碼子並編碼所需的胺基酸，從而誘導 PTC r...",
+      "title": "DNA oligonucleotides encoding suppressor tRNA induce readthrough of premature termination codon.",
+      "summary": "Nonsense mutation is a type of DNA mutation that converts sense codon in 信使RNA（mRNA） into premature termination codon (PTC), causing protein truncation. Recent studies have revealed that suppressor tRNAs, which read the stop codon instead of the natural codon and encode the desired amino acid, induce PTC r...",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42889717/",
       "lang": "zh-TW"
     },
     {
-      "title": "口腔骨再生中的濃縮生長因子：敘述性評論。",
-      "summary": "濃縮生長因子（CGF）是第三代自體血小板濃縮物，已越來越多地用於口腔骨再生。本綜述總結了其製備、生物學機制和臨床療效，並討論了當前的局限性和未來的方向。",
+      "title": "Concentrated growth factor in oral bone regeneration: A narrative review.",
+      "summary": "Concentrated growth factor (CGF), a third-generation 自體（取自患者本人） platelet concentrate, has been increasingly used in oral bone regeneration. This review summarizes its preparation, biological mechanisms, and clinical efficacy, and discusses current limitations and future directions.",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42890307/",
       "lang": "zh-TW"
     },
     {
-      "title": "Six3 透過 Btg2 介導的 Akt 訊號路徑活化促進 BMSC 的遷移和神經分化：中風的治療策略。",
-      "summary": "骨髓間質幹細胞（BMSC）移植具有治療中風的潛力；然而，其有效性仍需要優化。轉錄因子 Sine Oculis Homeobox Homolog 3 (Six3) 調節對 BMSC 治療至關重要的過程，例如神經細胞增殖…",
+      "title": "Six3 promoting the migration and neural differentiation of BMSCs via Btg2‑mediated Akt signaling pathway activation: A therapeutic strategy for stroke.",
+      "summary": "Bone marrow‑derived mesenchymal 幹細胞 (BMSC) transplantation holds therapeutic potential for stroke; however, but its effectiveness requires optimization. The transcription factor Sine Oculis Homeobox Homolog 3 (Six3) regulates processes crucial for BMSC therapy, such as neural cell proliferatio...",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42885300/",
       "lang": "zh-TW"
     },
     {
-      "title": "用於肌肉驅動的生物混合機器人系統的無線生物電子控制架構。",
-      "summary": "無線生物電子介面越來越多地用於控制組織工程、肌肉驅動的生物混合機器人系統。然而，將設備設計與系統級控制聯繫起來的統一工程框架仍然不發達。在這裡，我們將生物混合機器人中的無線控制制定為...",
+      "title": "Wireless bioelectronic control architectures for muscle-powered biohybrid robotic systems.",
+      "summary": "Wireless bioelectronic interfaces are increasingly used to control tissue-engineered, muscle-powered biohybrid robotic systems. However, a unifying engineering framework linking device design to system-level control remains underdeveloped. Here, we formulate wireless control in biohybrid robotics as...",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42871859/",
       "lang": "zh-TW"
     },
     {
-      "title": "探索新生小鼠內耳中 信使RNA（mRNA） 遞送脂質奈米顆粒的生物分佈。",
-      "summary": "聽力損失影響全世界數百萬人，但助聽器和人工耳蝸有很大的限制。基於 信使RNA（mRNA） 的基因療法可以解決潛在的分子原因，但內耳中的脂質奈米顆粒 (LNP) 遞送仍未得到充分研究，其生物分佈尚未系統化。",
+      "title": "Exploration of biodistribution of 信使RNA（mRNA）-delivering lipid nanoparticles in the neonatal mouse inner ear.",
+      "summary": "Hearing loss affects millions worldwide, yet hearing aids and cochlear implants have major limitations. 信使RNA（mRNA）-based 基因療法 could address the underlying molecular causes, but lipid nanoparticle (LNP) delivery in the inner ear remains underexplored and its biodistribution has not been systematica...",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42861365/",
       "lang": "zh-TW"
     },
     {
-      "title": "用於內源性骨軟骨再生的多功能水凝膠支架。",
-      "summary": "骨軟骨缺損通常由創傷、感染或退化性關節疾病引起，由於其內在癒合能力有限，因此提出了重大的臨床挑戰。傳統的細胞療法面臨免疫排斥、高成本和監管障礙等限制。",
+      "title": "Multifunctional hydrogel 生物支架 for endogenous osteochondral regeneration.",
+      "summary": "Osteochondral defects, frequently resulting from trauma, infection, or degenerative joint disease, present a significant clinical challenge due to their limited intrinsic healing capacity. Conventional cell-based therapies face limitations including immune rejection, high costs, and regulatory hurdl...",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42861048/",
       "lang": "zh-TW"
     },
     {
-      "title": "脂肪源性微血管碎片：驅動血管整合與多面向組織再生的功能性微組織單元",
-      "summary": "再生醫學與組織工程面臨快速穩定血管化的挑戰。本研究探討脂肪源性微血管碎片作為功能性微組織單元，如何促進血管整合與多面向組織再生。",
+      "title": "脂肪源性微血管碎片：驅動血管整合與多維度組織再生的功能性微組織單元",
+      "summary": "在再生醫學與組織工程領域，快速且穩定的血管化一直是主要挑戰之一。脂肪源性微血管碎片...",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42861023/",
       "lang": "zh-TW"
     },
     {
-      "title": "用於川崎病建模和藥物篩選的仿生冠狀動脈等效工程。",
-      "summary": "川崎病（KD）是一種急性血管炎，主要影響兒童群體，冠狀動脈病變是其最嚴重的臨床後遺症。儘管研究了幾十年，但這種綜合徵的確切病因和發病機制仍然難以捉摸。這些關鍵知識...",
+      "title": "打造仿生冠狀動脈替代品",
+      "summary": "",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840853/",
       "lang": "zh-TW"
     },
     {
-      "title": "與確定的細胞外基質蛋白底物相比，人類胎盤去細胞細胞外基質可改善人類胚胎幹細胞的胰臟祖細胞分化。",
-      "summary": "糖尿病的細胞替代療法需要可擴展的功能性 β 細胞來源。從人類胚胎幹細胞 (hESC) 衍生出胰島素生成細胞 (IPC) 是為此目的產生 β 細胞的策略。糖尿病細胞療法需要可擴展的功能性 β-ce 來源...",
+      "title": "Human placental decellularized extracellular matrix improves pancreatic progenitor differentiation from human embryonic 幹細胞 compared with defined extracellular matrix protein substrates.",
+      "summary": "Cell replacement therapy for diabetes requires a scalable source of functional β-cells. The derivation of insulin-producing cells (IPCs) from human embryonic 幹細胞 (hESCs) is a strategy to generate β-cells for this purpose. 細胞治療 for diabetes requires a scalable source of functional β-ce...",
       "source": "PubMed",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840348/",
       "lang": "zh-TW"
     },
     {
-      "title": "[不適用] 篩檢頭頸癌的心理社會困擾",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Hôpital NOVO｜這項前瞻性、多中心研究旨在使用痛苦溫度計評估頭頸癌患者在開始言語語言治療時是否有心理困擾。它還試圖評估 evo",
+      "title": "[N/A] Screening Psychosocial Distress in Head and Neck Cancer",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Hôpital NOVO｜This prospective, multicenter study aims to assess the presence of psychosocial distress using the Distress Thermometer in patients treated for head and neck cancer at the initiation of their speech-language therapy. It also seeks to evaluate the evo",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://clinicaltrials.gov/study/NCT07851818",
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 期] IVB 期 OSCC/OPSCC 患者誘導轉化的免疫 ADC 療法",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：華山醫院｜評估 Becotatug Vedotin（EGFR 標靶 ADC，MRG003）聯合 Pucotenlimab（PD-1 抑制劑）與鉑類化療/放化療相比，作為 IVB 期降期誘導轉換方案的有效性和安全性",
+      "title": "[PHASE2] ImmunoADC Therapy for Induction Conversion in Patients With Stage IVB OSCC/OPSCC",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Huashan Hospital｜To evaluate the efficacy and safety of Becotatug Vedotin (EGFR-targeted ADC, MRG003) plus Pucotenlimab (PD-1 inhibitor), compared with platinum-based chemotherapy/chemoradiotherapy, as an induction conversion regimen for downstaging primary stage IVB",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://clinicaltrials.gov/study/NCT07844551",
       "lang": "zh-TW"
     },
     {
-      "title": "[NA] 研究血液惡性腫瘤患者 HLA 完全匹配的骨 HPC、骨髓和活體移植的特徵",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Ossium Health, Inc.｜HLA 部分至完全匹配的同種異體冷凍保存死者骨髓移植和活體供體移植用於血液系統惡性腫瘤患者的前瞻性、多中心開放標籤研究。",
+      "title": "[NA] Study to Characterize Mismatched to Fully HLA-Matched Ossium HPC, Marrow and Living Donor Transplantation in Patients With Hematologic Malignancies",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Ossium Health, Inc.｜Prospective, multi-center open label study of HLA-partially to fully matched 異體（取自捐贈者） cryopreserved deceased donor bone marrow transplantation and living donor transplantation for patients with hematologic malignancies.",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://clinicaltrials.gov/study/NCT07710781",
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE2] Relatlimab 和 Nivolumab (Opdualag) 在複製修復缺陷 HGG 和 DIPG 的研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：全國兒童醫院｜本研究的目的是進一步評估 Opdualag 對於複製修復缺陷 HGG（包括 DIPG）患者的可行性和耐受性。",
+      "title": "[PHASE2] Study of Relatlimab and Nivolumab (Opdualag) in Replication Repair Deficient HGG and DIPG",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Nationwide Children's Hospital｜The goal of this study is to further evaluate feasibility and tolerability of Opdualag for patients with replication repair deficient HGG, including DIPG.",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://clinicaltrials.gov/study/NCT07644312",
       "lang": "zh-TW"
     },
     {
-      "title": "[不適用] CAR-T細胞療法 治療患者的感染",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：IRCCS Azienda Ospedaliero-Universitaria di Bologna｜本研究包括患有多發性骨髓瘤或 B 細胞淋巴瘤的成人，他們已經/將在 IRCCS Azienda Ospedaliero-Universitaria di Bologna 接受 CAR-T細胞療法 細胞療法。目的是更了解第一階段可能發生的感染",
+      "title": "[N/A] INfections in Patients Treated With CAR-T細胞療法",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：IRCCS Azienda Ospedaliero-Universitaria di Bologna｜This study includes adults with multiple myeloma or B-cell lymphoma who were/will be treated with CAR-T細胞療法 細胞治療 at the IRCCS Azienda Ospedaliero-Universitaria di Bologna. The aim is to better understand infections that may occur during the first",
       "source": "ClinicalTrials.gov｜Italy",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://clinicaltrials.gov/study/NCT07713511",
       "lang": "zh-TW"
     },
     {
-      "title": "[N/A] 靶向 ANKRD11 可逆轉 HBV 特異性 CD8+ T 細胞功能障礙和耐受性",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：北京市醫院管理局｜慢性乙型肝炎（CHB）實現功能性治癒在很大程度上受到乙型肝炎病毒（HBV）特異性CD8陽性T（CD8+ T）細胞不可逆的功能衰竭和免疫耐受的阻礙。在研究人員之前的研究中，",
+      "title": "[N/A] Targeting ANKRD11 Reverses HBV-Specific CD8+ T Cell Dysfunction and Tolerance",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Beijing Municipal Administration of Hospitals｜Achieving a functional cure for chronic hepatitis B (CHB) is largely hindered by the irreversible functional exhaustion and immune tolerance of hepatitis B virus (HBV)-specific CD8 positive T (CD8+ T) cells. In investigators previous studies, an in v",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://clinicaltrials.gov/study/NCT07777250",
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1, PHASE2] 人類臍帶間質幹細胞早期股骨頭壞死的研究（19#iSCLife®-ONFH）",
-      "summary": "狀態：暫停｜主辦單位：聖科諾生物科技有限公司｜研究的目的是評估人類臍帶間質幹細胞（hUC-MSC）治療股骨頭壞死的安全性和有效性。",
+      "title": "[PHASE1, PHASE2] The Study of Early Stage Osteonecrosis of Femoral Head With Human Umbilical Cord Mesenchymal 幹細胞 (19#iSCLife®-ONFH)",
+      "summary": "狀態：SUSPENDED｜主辦：Sclnow Biotechnology Co., Ltd.｜The purposes of the study is to evaluate the safety and efficacy of human umbilical cord mesenchymal 幹細胞 (hUC-MSC) in treating osteonecrosis of femoral head patients.",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://clinicaltrials.gov/study/NCT03180463",
       "lang": "zh-TW"
     },
     {
-      "title": "自體脂肪移植治療慢性肌",
+      "title": "自體脂肪移植治療慢性肌腱病變",
       "summary": "",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://clinicaltrials.gov/study/NCT07748793",
       "lang": "zh-TW"
     },
     {
-      "title": "[不適用] 針對患有表皮生長因子受體突變 (EGFRm) 的非小細胞肺癌 (NSCLC) 參與者的真實世界研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Janssen-Cilag Farmaceutica Ltda.｜這項研究旨在更好地了解攜帶 EGFR 突變的晚期或轉移性非小細胞肺癌 (NSCLC) 患者。 NSCLC 是一種晚期肺癌，由於 EGFR 基因突變（變化）而發生。該研究將",
+      "title": "[N/A] A Real World Study of Participants With Non-Small Cell Lung Cancer (NSCLC) With Epidermal Growth Factor Receptor Mutation (EGFRm)",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Janssen-Cilag Farmaceutica Ltda.｜This study aims to better understand people who have advanced or metastatic non-small cell lung cancer (NSCLC) with an EGFR mutation. NSCLC is an advanced stage cancer of the lung, occurring due to mutations (changes) in the EGFR gene. The study will",
       "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://clinicaltrials.gov/study/NCT07680907",
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 階段] 特瑞普利單抗 ± 連續膀胱內注射吉西他濱 - 絲裂黴素 C，用於 BCG 無反應/不耐受的高風險 NMIBC：開放標籤隨機 2 期研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：溫州醫科大學第一附屬醫院｜這項開放標籤、隨機、多中心、2 期研究 (OHAI-NMIBC-01) 比較了特瑞普利單抗聯合膀胱內註射吉西他濱、隨後絲裂黴素 C (GEM→MMC) 與單用高脂症介導卡介治療酸不耐受性高苗介菌治療或不耐受卡介卡的",
+      "title": "[PHASE2] Toripalimab ± Sequential Intravesical Gemcitabine-Mitomycin C for BCG-Unresponsive/-Intolerant High-Risk NMIBC: Open-Label Randomized 第二期試驗 Study",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：First Affiliated Hospital of Wenzhou Medical University｜This open-label, randomised, multicentre, 第二期試驗 study (OHAI-NMIBC-01) compares toripalimab plus sequential intravesical gemcitabine followed by mitomycin C (GEM→MMC) with toripalimab alone in adults with BCG-unresponsive or BCG-intolerant high-risk",
       "source": "ClinicalTrials.gov｜China",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://clinicaltrials.gov/study/NCT07189793",
       "lang": "zh-TW"
     },
     {
-      "title": "【PHASE2】E-CEL UVEC細胞注射治療肛門周圍瘻管",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Angiocrine Bioscience｜本研究的目的是確定實驗療法（E-CEL UVEC 細胞）這種微創手術是否可以治療肛周瘺患者。",
+      "title": "[PHASE2] E-CEL UVEC Cell Injection Treatment of Perianal Fistulas",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Angiocrine Bioscience｜The purpose of this study is to determine if experimental therapy (E-CEL UVEC Cells), a very minimally invasive procedure, can treat patients with perianal fistulas.",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://clinicaltrials.gov/study/NCT07557134",
       "lang": "zh-TW"
     },
     {
-      "title": "[第一階段] Epcoritamab 和 Pola-R-mini-CHP 用於治療老年或身體不適患者的瀰漫性大 B 細胞淋巴瘤",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Jonsson 綜合癌症中心｜本 I 期試驗測試了 epcoritamab 單獨使用以及 epcoritamab 聯合 polatuzumab vedotin、利妥昔單抗、環磷酰胺、阿黴素和潑尼松 (pola-R-mini-CHP) 治療的安全性安全性副作用",
+      "title": "[PHASE1] Epcoritamab and Pola-R-mini-CHP for the Treatment of Diffuse Large B Cell Lymphoma in Elderly or Unfit Patients",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Jonsson Comprehensive Cancer Center｜This 第一期試驗 trial tests the safety, side effects and best dose of epcoritamab alone and epcoritamab with polatuzumab vedotin, rituximab, cyclophosphamide, doxorubicin, and prednisone (pola-R- mini-CHP) for the treatment of diffuse large B cell lymph",
       "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://clinicaltrials.gov/study/NCT07714421",
       "lang": "zh-TW"
     },
     {
-      "title": "新進展－XellSmart在MDS公佈現成帕金森氏症細胞療法一期結果並完成盲法二期入組",
-      "summary": "I MDS 現成的帕金森氏症細胞療法的結果和完成的盲法 II 期註冊 Floyd County Times",
-      "source": "Floyd County Times",
+      "title": "New Progress -- XellSmart Unveiled 第一期試驗 Results of Off-the-Shelf Parkinson's Disease 細胞治療 at MDS & Completed Blinded 第二期試驗 Enrollment",
+      "summary": "I Results of Off-the-Shelf Parkinson's Disease 細胞治療 at MDS & Completed Blinded 第二期試驗 Enrollment PR Newswire",
+      "source": "PR Newswire",
       "date": "2026-10-18",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQckd1R3VOSGg4RmVvZmpyUzNZcl93LVZEY3RoNWFCWXQyXzh1SWtnczNMQzlORUhRSlprQzVnalNaNVJQckRZclBnQmo4NHhfcXdnV3BfRkJyR3RPZnEwbm1uQUVEUkh5VjlnTG90akZKTXM1cWVLaDN1VTlsRVExSV96WW9xVTR2bFJIZnBtRVdSSW9EMXlHMUVKLUVZYWhwejlFNXB6X0doSl9MYzBGTU5TcTBDaWxZblByaEVMeVZrb2RmZWozRGJMVnJaV0FPc0dmUzR1TGZGOWlyQV84RE1adWdfNUY1cUlZUU56YzlYTFotakswVXo3X2RTVnFBNE93MzRxSmllbjY1aU82Yg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPUHNfcjY1OThXVW5lVmtPWUZkTEVrXzkybk5Tb0hlWVE4bnJCZ19QX3hmZ2FjNVRza3RSMVhPSTBaRjNjOHZLLWtBQ3FhbmUycENGRHgxWjVzWV83LVBZbzNDVlRZSjhKZEFKeWNrTFRzQU0wYmlFbmNuQjZ5Yks1b2c4TEl0TWNrSmlfVDNwRUFjTXNNRzlUZzZHN3pDbTJPZ0NRWnFpR05ISlQ2RmV5TDZ6U2ZOUlBwN0ZNeVB3UUVNVGpPTXVkUWc0TV9iYk51V2lYQ1VYSVJhRUh3bTBFNUVHWXZ0b1QtaFpOaV9WVU5NWXQtWU81QU1xVXJjanF4U1VRdGVRZlJwNjNqbGNhVnBOeWZLRUduNmpPd2VJWDNLS2MwZ2c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "誘導多能幹細胞致力於癌症預防、治療和腫瘤建模",
-      "summary": "癌症預防、治療和腫瘤建模 Bioengineer.org",
+      "title": "Induced Pluripotent 幹細胞 Take Aim at Cancer Prevention, Therapy, and Tumor Modeling",
+      "summary": "at Cancer Prevention, Therapy, and Tumor Modeling Bioengineer.org",
       "source": "Bioengineer.org",
       "date": "2026-10-17",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmNRNzhOd0k1RDRyakxvdTZDamJ1X2puOUhYT3FLbG1JYW9JYkdwaWNkX1I4QnlPTGFkQzVWUkNPbUJxMWxfQXo5dkVfOTk4dTVVZXRDZW9rdjBjVGJIQWRnTzJBWml6cWNZb3hud1hJLXI1bkZ5WGxsX21vTGJwQk5jemZxZHJkSS03VklNVGVtNTJjcHdHdFRWVUZ2M0lCMmc4VkNJejB1emkybFRYUUtB?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "[二期臨床] Venetoclax 或安慰劑與減輕強度預處理造血幹細胞（骨髓/血液幹細胞）移植結合，並作為移植後維持療法用於患者",
-      "summary": "狀態：尚未開始招募｜主辦：美國國家癌症研究院 (NCI)｜這項二期 MyeloMATCH 治療",
+      "title": "[二期臨床] Venetoclax或安慰劑合併減輕強度前置處理造血幹細胞（骨髓/周邊血幹細胞）移植，並作為移植後維持性療法",
+      "summary": "狀態：尚未開始招募｜主辦單位：美國國家癌症研究院 (NCI)｜這項二期",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-10-16",
       "url": "https://clinicaltrials.gov/study/NCT06954987",
       "lang": "zh-TW"
     },
     {
-      "title": "設計 CGT 成功的生態系統",
-      "summary": "這本會議記錄電子書是與 GEN 和辛辛那提兒童醫院應用基因和細胞治療中心合作開發的，捕捉了第 26 屆細胞高峰會的觀點和經驗教訓，並將對話擴展到會議本身之外。\n這",
+      "title": "Designing the Ecosystem for CGT Success",
+      "summary": "This proceedings eBook, developed in partnership with GEN and Cincinnati Children’s Hospital Applied Gene and 細胞治療 Center, captures perspectives and lessons from The Cell Summit ’26 and extends the conversation beyond the meeting itself.\nThe ",
       "source": "GEN News",
       "date": "2026-10-16",
       "url": "https://www.genengnews.com/resources/ebooks/designing-the-ecosystem-for-cgt-success/",
       "lang": "zh-TW"
     },
     {
-      "title": "常見內分泌干擾物恐改變乳房正常發育",
-      "summary": "一項針對人類乳房類器官的研究發現，接觸某些常見的內分泌干擾化學物質，可能導致乳房組織產生分子層面的變化。",
+      "title": "暴露於常見內分泌干擾化學物質可能改變正常乳房發育",
+      "summary": "一項針對人類乳房類器官的研究發現，暴露於某些常見的內分泌干擾化學物質，可能導致乳房組織產生分子層次的變化。",
       "source": "GEN News",
       "date": "2026-10-16",
       "url": "https://www.genengnews.com/topics/cancer/exposure-to-common-endocrine-disrupting-chemicals-may-alter-normal-breast-development/",
       "lang": "zh-TW"
     },
     {
-      "title": "生技產業2026年最驚心動魄的起伏：試驗結果、挑戰與機會",
+      "title": "驚喜、挑戰與試",
       "summary": "",
       "source": "BioProcess International",
       "date": "2026-10-16",
@@ -299,39 +299,31 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 階段] 一項針對局部晚期基底細胞皮膚癌 (laBCC) 的成年參與者比較基於 Cemiplimab 的治療的研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Regeneron Pharmaceuticals｜這項研究將測試 Regeneron 的實驗性藥物 cemiplimab（「研究藥物」）單獨使用或與其他抗癌藥物合併使用（「聯合治療」），看看它們是否可以幫助治療 laBCC。\n\n該研究著眼於：\n\n* 有什麼副作用",
+      "title": "[PHASE2] A Study Comparing Cemiplimab-based Treatments for Adult Participants With Locally Advanced Basal Cell Skin Cancer (laBCC)",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Regeneron Pharmaceuticals｜This study will test an experimental Regeneron drug called cemiplimab (\"study drug\") given alone or in combination with other anti-cancer drugs (\"combination treatment\") to see if they can help treat laBCC.\n\nThe study is looking at:\n\n* What side effe",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-10-15",
       "url": "https://clinicaltrials.gov/study/NCT07808515",
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 期] 2a 期研究，評估兩種 177Lu-TLX250 給藥方案在晚期復發或復發 ccRCC 的安全性和有效性",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Telix Pharmaceuticals (Innovations) Pty Limited｜177Lu-TLX250 在表達 CAIX 的晚期、復發或復發性透明細胞腎細胞癌 (ccRCC) 成人受試者中進行的多中心 2A 期研究。第 1 部分將評估兩種給藥方案，以確定建議的 3 期劑量 (RP3D)。",
+      "title": "[PHASE2] Phase 2a Study to Assess Safety and Efficacy of Two 177Lu-TLX250 Dosing Regimens in Advanced Relapsed or Recurrent ccRCC",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Telix Pharmaceuticals (Innovations) Pty Limited｜Multicenter Phase 2A study of 177Lu-TLX250 in adult participants with CAIX-expressing advanced, relapsed or recurrent clear cell renal cell carcinoma (ccRCC). Part 1 will evaluate two dosing regimens to determine the recommended 第三期試驗 dose (RP3D).",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-10-15",
       "url": "https://clinicaltrials.gov/study/NCT07870746",
       "lang": "zh-TW"
     },
     {
-      "title": "增強型 CAR-T細胞療法 細胞療法在首次人體試驗中顯示出治療 B 細胞癌症的早期前景",
-      "summary": "首次人體試驗可望治療 B 細胞癌 Medical Xpress",
+      "title": "Enhanced CAR-T細胞療法-細胞治療 shows early promise for B-cell cancers in first-in-human trial",
+      "summary": "promise for B-cell cancers in first-in-human trial Medical Xpress",
       "source": "Medical Xpress",
       "date": "2026-10-13",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CT0J6N3lRVDJLYzBwUnFuTzNERWN0SHFETHRzaGVVNm13NzZCOHRyc1E5NXdPelNjNDYxUm00cHhTWmRkTHdWLThiRnJzN0d6aHYxMHl1T0x5VVVDc1V5ZmRiczhFcWRPY1ZETlFwTnF4dnBBSGVpcEdDY2g0WFE?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "CAR-T細胞療法 細胞療法在早期復發性骨髓瘤中繼續發揮作用",
-      "summary": "早期復發性骨髓瘤案例 OncLive",
-      "source": "OncLive",
-      "date": "2026-10-13",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY05WQ1lrUlhIR3J3TXctWmVvUHBMQ21nV2NscDdmRS1tQzRFc0tSRFMwSlhrYWR2V2QzQjhkSXpJdXBzbnVQdVQ1RGtlNUljUm9UdXdLV3Z3MDI0NFNXdFo1eDgyTjBiYkptcUxpem52VWZJLUJxM1hRUXhnajVfZHpMYzFiZ3FFN25VR1BBVVlQSHRXbzZZRFZQWldEdV81a0E?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CRC 2026 回顧：第 2 天",
+      "title": "CRC 2026 Recap: Day 2",
       "summary": "",
       "source": "Breakthrough T1D",
       "date": "2026-10-11",
@@ -339,51 +331,51 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第四階段]依巴斯汀輔助治療腫瘤出芽陽性肝癌術後",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：西安交通大學第二附屬醫院｜本研究評估FAK（黏著斑激酶）抑制劑依巴斯汀作為輔助治療降低接受根治性肝切除術且腫瘤表現出組織病理學的肝細胞癌（HCC）患者的複發風險",
+      "title": "[PHASE4] Ebastine for Adjuvant Treatment of Tumor Budding-Positive Liver Cancer After Surgery",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Second Affiliated Hospital of Xi'an Jiaotong University｜This study evaluates ebastine, an FAK (focal adhesion kinase) inhibitor, as adjuvant therapy to reduce the risk of recurrence in patients with hepatocellular carcinoma (HCC) who have undergone curative hepatectomy and whose tumors show a histopatholo",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07734766",
       "lang": "zh-TW"
     },
     {
-      "title": "BCMA標靶療法中患者腫瘤微環境的免疫圖譜分析",
-      "summary": "歐登塞大學醫院主辦，此計畫旨在分析骨髓免疫微環境，以深入了解BCMA標靶療法。目前尚未招募受試者。",
+      "title": "BCMA標靶療法中病患腫瘤微環境的免疫圖譜分析",
+      "summary": "狀態：尚未招募｜主辦：歐登塞大學醫院｜這項計畫的主要目標是釐清骨髓的免疫微環境，並探討...",
       "source": "ClinicalTrials.gov｜Norway, Denmark",
       "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07878208",
       "lang": "zh-TW"
     },
     {
-      "title": "[第2期]一線第三代EGFR-TKI加化療後寡殘留晚期EGFR突變非小細胞肺癌的鞏固立體定位放射治療",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：復旦大學｜這項國家多中心、隨機對照臨床試驗評估鞏固性立體定位放射治療四次化療後出現寡聚殘留病灶的晚期 EGFR 突變非小細胞肺癌患者的安全性和有效性",
+      "title": "[PHASE2] Consolidative Stereotactic Radiotherapy for Oligo-Residual Advanced EGFR-Mutant NSCLC After First-Line Third-Generation EGFR-TKI Plus Chemotherapy",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Fudan University｜This national multicenter, randomized controlled 臨床試驗 evaluates the safety and efficacy of consolidative stereotactic radiotherapy in patients with advanced EGFR-mutant non-small cell lung cancer who have oligo-residual disease after four c",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-10",
       "url": "https://clinicaltrials.gov/study/NCT07822984",
       "lang": "zh-TW"
     },
     {
-      "title": "[第 1 期、第 2 期] 預防性阿那白滯素可減少細胞激素事件",
-      "summary": "狀態：撤回｜主辦單位：Kevin McNerney｜目的：本研究的主要目的是評估先發製人使用阿那白滯素對 CD19 定向嵌合抗原受體 (CAR) T 細胞治療 B 急性淋巴細胞白血病後嚴重細胞激素釋放綜合徵 (CRS) 發生率的影響",
+      "title": "[PHASE1, PHASE2] Pre-emptive Anakinra for Cytokine Event Reduction",
+      "summary": "狀態：WITHDRAWN｜主辦：Kevin McNerney｜Objectives: The primary objective of this study will be to evaluate the impact of pre-emptive use of anakinra on the rate of severe cytokine release syndrome (CRS) following CD19-directed 嵌合抗原受體 (CAR) T-細胞治療 for B-acute lym",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-10",
       "url": "https://clinicaltrials.gov/study/NCT06703216",
       "lang": "zh-TW"
     },
     {
-      "title": "[第二階段]安達替尼合併安洛替尼治療局部晚期或轉移性非小細胞肺癌的研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：復旦大學｜本研究是一項單臂研究，旨在評估安達替尼合併安洛替尼治療先前接受第三代EGFR-TKI治療的局部晚期或轉移性非小細胞肺癌患者的抗腫瘤療效和安全性。",
+      "title": "[PHASE2] The Study Of Andamertinib Plus Anlotinib In Patients With Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Fudan University｜This study is a single arm study to access the anti-tumor efficacy and safety of Andamertinib plus Anlotinib in patients with locally advanced or metastatic non-small cell lung cancer previously treated with third-generation EGFR-TKI.",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-09-30",
       "url": "https://clinicaltrials.gov/study/NCT07780578",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 批准 Fayuvi 用於治療 A 型 Sanfilippo 綜合徵兒科患者",
-      "summary": "患有 A 型聖菲利波綜合症的 ts 製藥高管",
-      "source": "Pharmaceutical Executive",
-      "date": "2026-09-18",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2IzWWllSW0yOTBWeWo1b1lpSk1CNkxlR3lLME10Z2FCVG5rNGwxdkVHeXkySVFTaU1PNW5EVE9fYXFCLThwNGM2Z01Sd0g2N3NXNTlHSHM0VzJ2RUZrSE5ZcEROc3g5Y2xSLUd2NHdoZTY3cmtLRVE0c2J3MWdFRUpTVmEzdzE2OEh4enQ2N0wxYWtuVl9vVmZwaW0?oc=5",
+      "title": "Glioblastoma 幹細胞–immune microenvironment crosstalk: molecular mechanisms and therapeutic opportunities",
+      "summary": "onment crosstalk: molecular mechanisms and therapeutic opportunities Frontiers",
+      "source": "Frontiers",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTVJPTVoyNlVPNGhDektmRU5sWEtObXBXVzJDMEhnYjRhdmRVbzY3NTlzYklvSXdrQmRuUGZ3QkxMLXJmcVhGUWJCbTU5ekhyUnNwMUQ5RTdVczhEd3BRSmptVHM3UDFPZy0tYnlRS00wLUViODlyckpRUzU5LTh2czFhb0VBOGV3U09hSkN3UWgwQQ?oc=5",
       "lang": "zh-TW"
     }
   ]
