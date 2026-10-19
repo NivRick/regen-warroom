@@ -1,90 +1,114 @@
 {
   "module": "funding",
-  "updated": "2026-10-19T00:37:18.723117+00:00",
+  "updated": "2026-10-19T17:19:55.276994+00:00",
   "items": [
     {
-      "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
-      "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab.",
+      "title": "中國擬限制外國生技併購案",
+      "summary": "中國正研擬對關鍵生技製藥技術的外國併購案實施新限制，旨在確保對其快速發展的生醫產業保有控制權。",
+      "source": "STAT News",
+      "date": "2026-10-19",
+      "url": "https://www.statnews.com/2026/10/19/biotech-news-china-moves-to-restrict-foreign-biotech-acquisitons/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "藥業快訊：羅氏檢視德國投資、吉立亞醫",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-10-19",
+      "url": "https://www.statnews.com/pharmalot/2026/10/19/roche-investments-in-germany-gilead-bowel-disease-drug/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：電子郵件顯示，頂級免疫學協會分配了超過 84 億美元的加州選票來資助該領域",
+      "summary": "STAT 獲得的內部電子郵件顯示，美國免疫學家協會對加州 38 號提案存在嚴重分歧，儘管該提案將為該提案提供 84 億美元納稅人資金",
+      "source": "STAT News",
+      "date": "2026-10-19",
+      "url": "https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "觀點：麻疹捲土重來，成為共和黨的中期負擔",
+      "summary": "醫生和前共和黨眾議員拉里·布赫森（Larry Buchson）和邁克爾·伯吉斯（Michael Burgess）寫道：“對疫苗的沉默正在成為選民的一大障礙，否則他們會投票給共和黨。”",
+      "source": "STAT News",
+      "date": "2026-10-19",
+      "url": "https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Merck KGaA 以 $1.3B Silence 收購押注 RNAi",
+      "summary": "此次收購為這家德國公司提供了一種很有前景的血液疾病藥物，該藥物通過了第二階段測試，可能對武田的藥物構成威脅。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-19",
+      "url": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "羅氏 (Roche) 與豪森 (Hansoh) 簽署 15B 美元 ADC 協議； Veradermics 在另一項禿頭研究中得分",
+      "summary": "羅氏在一項涉及多個 ADC 的廣泛交易中向 Hansoh 預付了 4 億美元。在其他地方，另一位頂級投資者組建了一支專注於中國的基金，Ultragenyx 出售了第二張評論券。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-19",
+      "url": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：陪審團做出有利於被罷免的劍橋科學家 David Sabatini 的裁決，並判給 600 萬美元的賠償金",
+      "summary": "陪審團判給科學家戴維·薩巴蒂尼 (David Sabatini) 600 萬美元的賠償金，他的職業生涯在被一位年輕得多的同事指控在實驗室內有不當性行為後崩潰。",
       "source": "STAT News",
       "date": "2026-10-17",
       "url": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Iambic CEO on taking an AI drug company public",
-      "summary": "Fresh off a $150 million 首次公開上市（IPO）, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI&rsquo;s role in drug development evolving.",
+      "title": "Iambic 執行長談論人工智慧製藥公司上市",
+      "summary": "剛完成 1.5 億美元 首次公開上市（IPO） 的湯姆·米勒 (Tom Miller) 向 BioPharma Dive 談到了路演過程以及他如何看待人工智慧在藥物開發中的作用的演變。",
       "source": "BioPharma Dive",
       "date": "2026-10-16",
       "url": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
       "lang": "zh-TW"
     },
     {
-      "title": "This week in charts: Moderna’s massive stock run",
-      "summary": "The latest installment in BioPharma Dive&rsquo;s data visualization-focused series includes a look at Moderna&rsquo;s meteoric rise in 2026 and a sudden deal surge from Roche.",
+      "title": "本週圖表：Moderna股價狂飆",
+      "summary": "BioPharma Dive最新數據圖表系列報導，深入探討Moderna在2026年股價如火箭般竄升，以及突然...",
       "source": "BioPharma Dive",
       "date": "2026-10-16",
       "url": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
       "lang": "zh-TW"
     },
     {
-      "title": "Next-gen RNAi drugmaker City prices $200M 首次公開上市（IPO）",
-      "summary": "The offering will support a trio of medicines in or nearing clinical testing, as well as earlier research into RNAi treatments that get into tissues outside the liver.",
+      "title": "次世代RNAi藥廠City，首次公開募股（IPO）定價",
+      "summary": "",
       "source": "BioPharma Dive",
       "date": "2026-10-16",
       "url": "https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/",
       "lang": "zh-TW"
     },
     {
-      "title": "Biogen-backed Estuary nabs $93M for kidney disease 基因療法",
-      "summary": "The A輪融資 round, which was led by RA Capital, will help fund the development of two genetic medicines designed to treat an inherited kidney disorder known as \"ADPKD.\"",
+      "title": "Biogen 支持的 Estuary 獲得 9,300 萬美元用於腎臟疾病基因治療",
+      "summary": "由 RA Capital 牽頭的 A 輪融資將有助於資助兩種基因藥物的開發，這些藥物旨在治療一種被稱為「ADPKD」的遺傳性腎臟疾病。",
       "source": "BioPharma Dive",
       "date": "2026-10-16",
       "url": "https://www.biopharmadive.com/news/estuary-kidney-disease-gene-therapy-launch-emerged-biogen-biotech-startup/833114/",
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech Fundraising Tracker '26: Estuary channels $93M A輪融資; OMass obtains $310M",
-      "summary": "Estuary channels $93M A輪融資; OMass obtains $310M Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about former 美國食藥局（FDA） head calling DOGE a ‘disaster,’ an AstraZeneca AI deal, and more",
-      "summary": "Three former 美國食藥局（FDA） chiefs lit into the Trump administration, criticizing the now former 美國食藥局（FDA） officials who oversaw a massive staff exodus",
-      "source": "STAT News",
-      "date": "2026-10-15",
-      "url": "https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Belgian startup revives Galapagos CAR-T細胞療法 research",
-      "summary": "Armed Cell Therapeutics, chaired by former Galapagos CEO Paul Stoffels, has assumed control of cell therapies the company &mdash; now known as Lakefront Biotherapeutics &mdash; divested in a strategic overhaul.",
-      "source": "BioPharma Dive",
-      "date": "2026-10-15",
-      "url": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Iambic, an AI drug discovery specialist, banks $150M in an 首次公開上市（IPO）",
-      "summary": "Part of a wave of young biotechs employing AI to accelerate research, the company claimed in regulatory filings that its approach has the potential to &ldquo;disrupt legacy drug discovery paradigms.&rdquo;",
-      "source": "BioPharma Dive",
-      "date": "2026-10-14",
-      "url": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "These 18 french biotech startups could shape tomorrow’s medicine",
-      "summary": "hape tomorrow’s medicine Labiotech.eu",
+      "title": "這 18 家法國生物技術新創公司可能會塑造明天的醫學",
+      "summary": "希望明天的醫學 Labiotech.eu",
       "source": "Labiotech.eu",
       "date": "2026-10-13",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Belgium's Novadip Biosciences raises €10.4 million to fund pivotal 臨床試驗 and unlock EIB loan tranche",
-      "summary": ".4 million to fund pivotal 臨床試驗 and unlock EIB loan tranche EU-Startups",
+      "title": "專注於帕金森氏症的 Aspen 和雙特異性生物技術 Bambusa 計劃首次公開募股",
+      "summary": "生物技術 Bambusa 計劃首次公開發行 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFVvbkNxMkU0NzhNeC04eFBEekV5Q1RzQXdsSFJCVmNFWklrdHV4YUJQbjY3Rkh3X2hQUDB4ZW1ZYkV4blZzakpWaTQzUHJDNmtpbGc3LWE4bm42RU43ZURvcjVNMV8tNXpWSnlaSXlWd1pfNVhhR3IyWUtDSEU2eTN3eDd1RkJtTVE0dzFNNGpfX2tRSVo3T3YwQjV3bGFRWXJF?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "比利時 Novadip Biosciences 融資 1,040 萬歐元，資助關鍵臨床試驗並解鎖 EIB 貸款",
+      "summary": "40 萬美元用於資助關鍵臨床試驗並解鎖 EIB 貸款部分 EU-Startups",
       "source": "EU-Startups",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",

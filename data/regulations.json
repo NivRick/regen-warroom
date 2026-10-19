@@ -1,7 +1,15 @@
 {
   "module": "regulation",
-  "updated": "2026-10-19T00:36:59.892639+00:00",
+  "updated": "2026-10-19T17:19:05.606733+00:00",
   "items": [
+    {
+      "title": "生物製劑新知",
+      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-10-19",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
     {
       "title": "Newly Identified Microexons Offer Clues to Autism Spectrum Disorder’s Genetic Roots",
       "summary": "Hundreds of newly identified microexons seem to matter for autism and other neurological conditions, according to a Nature study. A machine learning model of their regulatory code also pinpoints variants predicted to disrupt their splicing in autisti",
@@ -12,14 +20,14 @@
     },
     {
       "title": "臨床試驗主持人狀態（生物製劑）",
-      "summary": "這份清單彙整了美國食品藥物管理局（FDA）對曾執行試驗中新藥或相關試驗產品研究的臨床試驗主持人所進行的查核結果。",
+      "summary": "針對執行新藥或試驗性藥物研究的臨床試驗主持人，其查核清單",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-status-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗主持人查核清單",
+      "title": "臨床試驗主持人查核清",
       "summary": "",
       "source": "FDA Biologics",
       "date": "2026-10-14",
@@ -27,51 +35,35 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Clinical Investigator Inspection List E-K",
-      "summary": "Contains names, addresses, and other information gathered from inspections of clinical investigators (E-K) who have conducted studies with investigational new drugs or investigational devices reviewed by the Center for Biologics Evaluation and Resear",
+      "title": "臨床研究者檢查清單 E-K",
+      "summary": "包含透過臨床研究人員 (E-K) 的檢查收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心審查的研究性新藥或研究設備進行了研究",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-e-k",
       "lang": "zh-TW"
     },
     {
-      "title": "Clinical Investigator Inspection List L-P",
-      "summary": "Contains names, addresses, and other information gathered from inspections of clinical investigators (L-P) who have conducted studies with investigational new drugs or investigational devices reviewed by the Center for Biologics Evaluation and Resear",
+      "title": "臨床研究者檢查清單 L-P",
+      "summary": "包含透過臨床研究人員 (L-P) 的檢查收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心審查的研究性新藥或研究設備進行了研究",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-l-p",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
-      "summary": "The U.S. Food and Drug Administration, a division within the U.S. Department of Health and Human Services (HHS), today announced the Rare Disease Framework Initiative to reimagine the development of drugs and biologics for rare diseases.",
+      "title": "美國食藥局（FDA） 啟動罕見疾病框架計劃，為罕見疾病藥物開發制定全面、適合目的的框架",
+      "summary": "美國衛生與公眾服務部 (HHS) 下屬的美國食品和藥物管理局今天宣布了罕見疾病框架計劃，以重新構想罕見疾病藥物和生物製劑的開發。",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease",
       "lang": "zh-TW"
     },
     {
-      "title": "What’s New for Biologics",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
-      "source": "FDA Biologics",
-      "date": "2026-10-14",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Hansoh’s Tagrisso rival loses EU approval after AstraZeneca legal challenge",
-      "summary": "l after AstraZeneca legal challenge Fierce Pharma",
+      "title": "豪森的競爭對手 Tagrisso 在阿斯特捷利康法律挑戰後失去歐盟批准",
+      "summary": "l 阿斯特捷利康對 Fierce Pharma 提出法律挑戰後",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Every First Approval in APAC, 2026: The Full List",
-      "summary": "",
-      "source": "BioPharma APAC",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUJUb21RX3JlQkdYOXM4SU05X29TUXZoajkxNW1ldFhVNVNDVGpVQ0RLX1RMUkMzXzljS1lwWXVZd3VKUkw5aXRuZUJSbFpZbFhYbmx1aXh0cnVmRDRMNjNubVJtQXpJV3BBZTc0cFQyYXkyRXYtcmhYREhFcFlndjVlVzNhWGRZeTZQak1uOUoxMV9RUWVtV1lyZTI?oc=5",
       "lang": "zh-TW"
     }
   ]
