@@ -1,18 +1,42 @@
 {
   "module": "regulation",
-  "updated": "2026-10-20T01:22:37.667962+00:00",
+  "updated": "2026-10-20T15:30:46.186851+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新動態。",
+      "title": "Tides Medical LLC - 727246",
+      "summary": "關於試驗用醫療器材豁免（IDE）與上市前核准申請（PMA）的相關資訊。",
+      "source": "10/06/2026",
+      "date": "2026-10-20",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/tides-medical-llc-727246-10062026",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑的PREA審查與標示變更",
+      "summary": "針對依據聯",
       "source": "FDA Biologics",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
+      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "埃瓦雷斯特",
+      "summary": "產品核准資訊表明，當傳統手術技術（如縫合、結紮和燒灼）控制出血效果不佳時，可將手動壓迫作為成人手術患者止血的輔助手段。",
+      "source": "FDA Biologics",
+      "date": "2026-10-20",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/evarrest",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "source": "FDA Biologics",
+      "date": "2026-10-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗主持人狀態（生物製劑）",
-      "summary": "針對曾執行新藥或生物製劑臨床試驗的主",
+      "title": "臨床研究者狀態（生物製劑）",
+      "summary": "臨床研究者檢查清單，來自對使用經 CBER 審查的研究性新藥或研究設備進行研究的臨床研究者進行的檢查",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-status-biologics",
@@ -43,16 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 啟動罕見疾病框架計劃，為罕見疾病藥物開發制定全面、適合目的的框架",
-      "summary": "美國衛生與公眾服務部 (HHS) 下屬的美國食品和藥物管理局今天宣布了罕見疾病框架計劃，以重新構想罕見疾病藥物和生物製劑的開發。",
-      "source": "FDA Biologics",
-      "date": "2026-10-14",
-      "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "豪森的競爭對手 Tagrisso 在阿斯特捷利康法律挑戰後失去歐盟批准",
-      "summary": "l 阿斯特捷利康對 Fierce Pharma 提出法律挑戰後",
+      "title": "翰森製藥泰格莎（Tagrisso）競品，因阿斯特捷利康（AstraZeneca）提告，歐盟核准遭撤銷",
+      "summary": "翰森製藥的泰格莎（Tagrisso）競品，在阿斯特捷利康（AstraZeneca）提告後，歐盟核准遭撤銷。",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
