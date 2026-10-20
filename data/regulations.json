@@ -1,34 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-10-19T17:19:05.606733+00:00",
+  "updated": "2026-10-20T01:22:37.667962+00:00",
   "items": [
     {
       "title": "生物製劑新知",
-      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新動態。",
       "source": "FDA Biologics",
       "date": "2026-10-19",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "Newly Identified Microexons Offer Clues to Autism Spectrum Disorder’s Genetic Roots",
-      "summary": "Hundreds of newly identified microexons seem to matter for autism and other neurological conditions, according to a Nature study. A machine learning model of their regulatory code also pinpoints variants predicted to disrupt their splicing in autisti",
-      "source": "GEN News",
-      "date": "2026-10-15",
-      "url": "https://www.genengnews.com/topics/omics/newly-identified-microexons-offer-clues-to-autism-spectrum-disorders-genetic-roots/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "臨床試驗主持人狀態（生物製劑）",
-      "summary": "針對執行新藥或試驗性藥物研究的臨床試驗主持人，其查核清單",
+      "summary": "針對曾執行新藥或生物製劑臨床試驗的主",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-status-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗主持人查核清",
-      "summary": "",
+      "title": "臨床研究者檢查清單 A-D",
+      "summary": "包含從臨床研究人員的檢查中收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心 (CB) 審查的研究性新藥或研究性設備進行了研究",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d",
