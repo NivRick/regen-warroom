@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-10-21T01:07:33.353689+00:00",
+  "updated": "2026-10-21T15:48:46.563050+00:00",
   "items": [
     {
-      "title": "STAT+：他正在大幅削減療養院的品質。這個州正在讓它發生",
-      "summary": "《波士頓環球報》聚焦小組發現，伊萊·米爾利斯大幅削減了居民護理費用，同時將療養院收入中的數百萬美元轉向房地產",
+      "title": "Arcus 腎癌數據讓分析師印象深刻； TriGemX 簽署 SPAC 協議",
+      "summary": "新的後續結果顯示 Arcus 的藥物可能優於市售的默克藥物。在其他地方，禮來公司和阿斯特捷利康建立了新的合作關係。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-21",
+      "url": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：他大砍安養院服務品質，這個州卻放任不管",
+      "summary": "波士頓環球報（Boston Globe）的調查團隊發現，Eli Mirlis在經營安養院時，不僅大幅削減住民照護品質，還從安養院營收中挪用數百萬美元。",
       "source": "STAT News",
       "date": "2026-10-20",
       "url": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
@@ -12,7 +20,7 @@
     },
     {
       "title": "STAT+：羅氏繼續在中國尋找新藥",
-      "summary": "China's Hansoh Pharmaceutical Group has announced that it struck a massive deal with Roche to develop a portfolio of antibody-drug conjugates.",
+      "summary": "中國豪森製藥集團宣布與羅氏達成大規模協議，開發抗體藥物偶聯物組合。",
       "source": "STAT News",
       "date": "2026-10-20",
       "url": "https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss",
@@ -51,51 +59,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：中國採取措施限制外國生物技術收購",
-      "summary": "中國正在提議對外國收購關鍵生物製藥技術實施新的限制，因為該國尋求維持對其新興藥物開發行業的控制。",
-      "source": "STAT News",
-      "date": "2026-10-19",
-      "url": "https://www.statnews.com/2026/10/19/biotech-news-china-moves-to-restrict-foreign-biotech-acquisitons/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關羅氏在德國的投資、吉利德腸病藥物等的信息",
-      "summary": "羅氏正在審查未來在德國針對醫療保健成本削減政策的所有投資，一位高層表示失去了信任",
-      "source": "STAT News",
-      "date": "2026-10-19",
-      "url": "https://www.statnews.com/pharmalot/2026/10/19/roche-investments-in-germany-gilead-bowel-disease-drug/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：電子郵件顯示，頂級免疫學協會分配了超過 84 億美元的加州選票來資助該領域",
-      "summary": "STAT 獲得的內部電子郵件顯示，美國免疫學家協會對加州 38 號提案存在嚴重分歧，儘管該提案將為該提案提供 84 億美元納稅人資金",
-      "source": "STAT News",
-      "date": "2026-10-19",
-      "url": "https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Merck KGaA 以 $1.3B Silence 收購押注 RNAi",
-      "summary": "此次收購為這家德國公司提供了一種很有前景的血液疾病藥物，該藥物通過了第二階段測試，可能對武田的藥物構成威脅。",
+      "summary": "此次收購為這家德國公司提供了一種很有前途的血液疾病藥物，該藥物通過了第二階段測試，可能對武田的藥物構成威脅。",
       "source": "BioPharma Dive",
       "date": "2026-10-19",
       "url": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
       "lang": "zh-TW"
     },
     {
-      "title": "羅氏 (Roche) 與豪森 (Hansoh) 簽署 15B 美元 ADC 協議； Veradermics 在另一項禿頭研究中得分",
-      "summary": "羅氏在一項涉及多個 ADC 的廣泛交易中向 Hansoh 預付了 4 億美元。在其他地方，另一位頂級投資者組建了一支專注於中國的基金，Ultragenyx 出售了第二張評論券。",
+      "title": "羅氏（Roche）與翰森製藥（Hansoh）簽署150億美元抗體藥物複合體（ADC）合作案；Veradermics在另一項禿頭研究中表現亮眼",
+      "summary": "羅氏與翰森製藥達成150億美元抗體藥物複合體（ADC",
       "source": "BioPharma Dive",
       "date": "2026-10-19",
       "url": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Iambic 執行長談論人工智慧製藥公司上市",
-      "summary": "剛完成 1.5 億美元 首次公開上市（IPO） 的湯姆·米勒 (Tom Miller) 向 BioPharma Dive 談到了路演過程以及他如何看待人工智慧在藥物開發中的作用的演變。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-16",
-      "url": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
       "lang": "zh-TW"
     },
     {
@@ -107,8 +83,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "比利時 Novadip Biosciences 融資 1,040 萬歐元，資助關鍵臨床試驗並解鎖 EIB 貸款",
-      "summary": "40 萬美元用於資助關鍵臨床試驗並解鎖 EIB 貸款部分 EU-Startups",
+      "title": "專注於帕金森氏症的 Aspen 和雙特異性生物技術 Bambusa 計劃首次公開募股",
+      "summary": "生物技術 Bambusa 計劃首次公開發行 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFVvbkNxMkU0NzhNeC04eFBEekV5Q1RzQXdsSFJCVmNFWklrdHV4YUJQbjY3Rkh3X2hQUDB4ZW1ZYkV4blZzakpWaTQzUHJDNmtpbGc3LWE4bm42RU43ZURvcjVNMV8tNXpWSnlaSXlWd1pfNVhhR3IyWUtDSEU2eTN3eDd1RkJtTVE0dzFNNGpfX2tRSVo3T3YwQjV3bGFRWXJF?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Caribou 將在融資環境「充滿挑戰」的情況下停止 CAR-T細胞療法 工作並裁員",
+      "summary": "f 在「充滿挑戰」的融資環境中",
+      "source": "BioPharma Dive",
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2pCQU5ITVJNN2s5eUpjY1JrMW1rRE9VRmswQUZlNFBFSVMzaXRWbTFkZHBaM2lWWXBMUzZWN3lYanJPWnRZYm1TWFRqeXlZXy1TQXpsN19KUWc2Q1BtZ2U2cFNnZGpNcE9BSU5JQmlOb25uYm1MVGsya1o4SDdvMlQyOXNBdE92SHFfaVkxRklJVG95RHYxaVc5TVZrRl8yNTJ4dHlTNVV0cG8zWlpWRzZOT3c?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Belgium's Novadip Biosciences raises €10.4 million to fund pivotal 臨床試驗 and unlock EIB loan tranche",
+      "summary": ".4 million to fund pivotal 臨床試驗 and unlock EIB loan tranche EU-Startups",
       "source": "EU-Startups",
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",

@@ -1,74 +1,74 @@
 {
   "module": "regulation",
-  "updated": "2026-10-21T01:07:12.794660+00:00",
+  "updated": "2026-10-21T15:47:48.046446+00:00",
   "items": [
     {
-      "title": "潮汐醫療有限公司 - 727246",
-      "summary": "研究設備豁免 (IDE)/上市前核准申請 (PMA)",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "source": "FDA Biologics",
+      "date": "2026-10-21",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國FDA圓桌會議：強化血液製品供應鏈",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的血液研究與審查辦公室，將於2026年9月29日舉辦一場圓桌會議。",
+      "source": "09/29/2026",
+      "date": "2026-10-21",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Tides Medical 有限責任公司 - 727246",
+      "summary": "關於試驗用醫療器材豁免（IDE）與上市前核准申請（PMA）的相關資訊。",
       "source": "10/06/2026",
       "date": "2026-10-20",
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/tides-medical-llc-727246-10062026",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品 PREA 審查和標籤變更",
-      "summary": "PREA 標籤變更以及兒科研究的醫學、統計和臨床藥理學審查根據《聯邦食品、藥品和化妝品法案》（《法案》）第 505B 條（經 2007 年 美國食藥局（FDA） 修正案法案 (FDAAAA) 修訂）進行。這些評估",
+      "title": "生物製劑的兒科研究公平法案（PREA）審查與標示變更",
+      "summary": "根據聯邦食品、藥物和化妝品法案第505B條款，針對兒科研究進行的兒科研究公平法案（PREA）標示變更、醫學、統計與臨床藥理學審查。",
       "source": "FDA Biologics",
       "date": "2026-10-20",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
       "lang": "zh-TW"
     },
     {
-      "title": "埃瓦雷斯特",
-      "summary": "產品核准資訊表明，當傳統手術技術（如縫合、結紮和燒灼）控制出血效果不佳時，可將手動壓迫作為成人手術患者止血的輔助手段。",
+      "title": "EVARREST 產品核准資訊",
+      "summary": "本產品核准用於成人手術患者，作為止血輔助，需配合手動加壓使用，特別是在傳統方法效果不佳時。",
       "source": "FDA Biologics",
       "date": "2026-10-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/evarrest",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-10-20",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "臨床研究者狀態（生物製劑）",
-      "summary": "臨床研究者檢查清單，來自對使用經 CBER 審查的研究性新藥或研究設備進行研究的臨床研究者進行的檢查",
+      "title": "臨床試驗主持人狀態（生物製劑）",
+      "summary": "針對曾執行新藥或試驗用生物製劑研究的臨床試驗主持人，其查核結果清單。",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-status-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床研究者檢查清單 A-D",
-      "summary": "包含從臨床研究人員的檢查中收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心 (CB) 審查的研究性新藥或研究性設備進行了研究",
+      "title": "臨床試驗主持人查核清單 A-D",
+      "summary": "包含曾執行新藥或試驗用生物製劑研究的臨床試驗主持人，其姓名、地址及其他查核所收集到的資訊。",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床研究者檢查清單 E-K",
-      "summary": "包含透過臨床研究人員 (E-K) 的檢查收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心審查的研究性新藥或研究設備進行了研究",
-      "source": "FDA Biologics",
-      "date": "2026-10-14",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-e-k",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "翰森製藥泰格莎（Tagrisso）競品，因阿斯特捷利康（AstraZeneca）提告，歐盟核准遭撤銷",
-      "summary": "翰森製藥的泰格莎（Tagrisso）競品，因阿斯特捷利康（AstraZeneca）提告，歐盟核准遭撤銷，顯示原廠藥廠對學名藥的強力捍衛。",
+      "title": "翰森製藥泰格莎（Tagrisso）競爭藥，遭阿斯特捷利康（AstraZeneca）挑戰後，歐盟核准被撤銷",
+      "summary": "翰森製藥的泰格莎（Tagrisso）競爭藥，因阿斯特捷利康（AstraZeneca）提告，歐盟核准遭撤銷。",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "2026 年亞太地區首次獲準：完整列表",
-      "summary": "",
+      "title": "2026年亞太地區首次核准藥品完整清單",
+      "summary": "這份清單彙整了2026年在亞太地區首次獲得核准上市的各項藥品與生物製劑。對於關注亞太市場新藥趨勢的業界人士來說，是不可或缺的參考資料。",
       "source": "BioPharma APAC",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3c3eEFKemJVTktxR2JqLS1XMzY5SkVDaWRDbkZxWnZzazZaaGpLSFdCSlMyRlhnQ2NTdGYtVUkwbEoxcVd3MnNha3JUVGRTa2pKbG90QWJGRmlxNkUtWEdHUElOWl9SUi1OMEltcVQxRGRNMDZfeko1YVlkT2R1anlFQ1RvcWhMeENZdkVZcEtvNzRER2RvZFhfbw?oc=5",
