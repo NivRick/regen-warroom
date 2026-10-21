@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-10-20T15:30:46.186851+00:00",
+  "updated": "2026-10-21T01:07:12.794660+00:00",
   "items": [
     {
-      "title": "Tides Medical LLC - 727246",
-      "summary": "關於試驗用醫療器材豁免（IDE）與上市前核准申請（PMA）的相關資訊。",
+      "title": "潮汐醫療有限公司 - 727246",
+      "summary": "研究設備豁免 (IDE)/上市前核准申請 (PMA)",
       "source": "10/06/2026",
       "date": "2026-10-20",
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/tides-medical-llc-727246-10062026",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑的PREA審查與標示變更",
-      "summary": "針對依據聯",
+      "title": "生物製品 PREA 審查和標籤變更",
+      "summary": "PREA 標籤變更以及兒科研究的醫學、統計和臨床藥理學審查根據《聯邦食品、藥品和化妝品法案》（《法案》）第 505B 條（經 2007 年 美國食藥局（FDA） 修正案法案 (FDAAAA) 修訂）進行。這些評估",
       "source": "FDA Biologics",
       "date": "2026-10-20",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
@@ -28,7 +28,7 @@
     },
     {
       "title": "生物製品的新動態",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-10-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -59,19 +59,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "臨床研究者檢查清單 L-P",
-      "summary": "包含透過臨床研究人員 (L-P) 的檢查收集的姓名、地址和其他信息，這些臨床研究人員使用經生物製品評估和研究中心審查的研究性新藥或研究設備進行了研究",
-      "source": "FDA Biologics",
-      "date": "2026-10-14",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-l-p",
-      "lang": "zh-TW"
-    },
-    {
       "title": "翰森製藥泰格莎（Tagrisso）競品，因阿斯特捷利康（AstraZeneca）提告，歐盟核准遭撤銷",
-      "summary": "翰森製藥的泰格莎（Tagrisso）競品，在阿斯特捷利康（AstraZeneca）提告後，歐盟核准遭撤銷。",
+      "summary": "翰森製藥的泰格莎（Tagrisso）競品，因阿斯特捷利康（AstraZeneca）提告，歐盟核准遭撤銷，顯示原廠藥廠對學名藥的強力捍衛。",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026 年亞太地區首次獲準：完整列表",
+      "summary": "",
+      "source": "BioPharma APAC",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3c3eEFKemJVTktxR2JqLS1XMzY5SkVDaWRDbkZxWnZzazZaaGpLSFdCSlMyRlhnQ2NTdGYtVUkwbEoxcVd3MnNha3JUVGRTa2pKbG90QWJGRmlxNkUtWEdHUElOWl9SUi1OMEltcVQxRGRNMDZfeko1YVlkT2R1anlFQ1RvcWhMeENZdkVZcEtvNzRER2RvZFhfbw?oc=5",
       "lang": "zh-TW"
     }
   ]

@@ -1,10 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-10-20T15:31:24.887557+00:00",
+  "updated": "2026-10-21T01:07:33.353689+00:00",
   "items": [
     {
-      "title": "STAT+：藥業小新聞：新藥上市價格、阿斯特捷利康（AstraZeneca）的AI合作案等",
-      "summary": "新藥上市淨價在考量通膨與藥廠折扣後，預計2022至2025年將上漲35%。",
+      "title": "STAT+：他正在大幅削減療養院的品質。這個州正在讓它發生",
+      "summary": "《波士頓環球報》聚焦小組發現，伊萊·米爾利斯大幅削減了居民護理費用，同時將療養院收入中的數百萬美元轉向房地產",
+      "source": "STAT News",
+      "date": "2026-10-20",
+      "url": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：羅氏繼續在中國尋找新藥",
+      "summary": "China's Hansoh Pharmaceutical Group has announced that it struck a massive deal with Roche to develop a portfolio of antibody-drug conjugates.",
+      "source": "STAT News",
+      "date": "2026-10-20",
+      "url": "https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關藥物上市價格、阿斯特捷利康人工智慧交易等的信息",
+      "summary": "在根據通貨膨脹和製造商折扣進行調整後，新上市藥品的淨價中位數從 2022 年到 2025 年上漲了 35%。",
       "source": "STAT News",
       "date": "2026-10-20",
       "url": "https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss",
@@ -16,6 +32,14 @@
       "source": "STAT News",
       "date": "2026-10-20",
       "url": "https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Rapport 的癲癇藥物在雙相情感障礙試驗中取得了驚人的成功",
+      "summary": "儘管一些分析師稱其預期較低，但 RAP-219 仍勉強實現了中期研究的主要目標，其結果可能有助於其挖掘價值超過 10 億美元的市場機會。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-20",
+      "url": "https://www.biopharmadive.com/news/rapport-bipolar-mania-clinical-trial-rap-219-results/833454/",
       "lang": "zh-TW"
     },
     {
@@ -51,14 +75,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "觀點：麻疹捲土重來，成為共和黨的中期負擔",
-      "summary": "醫生和前共和黨眾議員拉里·布赫森（Larry Buchson）和邁克爾·伯吉斯（Michael Burgess）寫道：“對疫苗的沉默正在成為選民的一大障礙，否則他們會投票給共和黨。”",
-      "source": "STAT News",
-      "date": "2026-10-19",
-      "url": "https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Merck KGaA 以 $1.3B Silence 收購押注 RNAi",
       "summary": "此次收購為這家德國公司提供了一種很有前景的血液疾病藥物，該藥物通過了第二階段測試，可能對武田的藥物構成威脅。",
       "source": "BioPharma Dive",
@@ -67,8 +83,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "羅氏與翰森製藥簽署150億美元抗體藥物複合體（ADC）合作案；Veradermics在禿頭研究再傳捷報",
-      "summary": "羅氏預付翰森製藥4億美元，展開多項抗體藥物複合體（ADC）的廣泛合作。此外，",
+      "title": "羅氏 (Roche) 與豪森 (Hansoh) 簽署 15B 美元 ADC 協議； Veradermics 在另一項禿頭研究中得分",
+      "summary": "羅氏在一項涉及多個 ADC 的廣泛交易中向 Hansoh 預付了 4 億美元。在其他地方，另一位頂級投資者組建了一支專注於中國的基金，Ultragenyx 出售了第二張評論券。",
       "source": "BioPharma Dive",
       "date": "2026-10-19",
       "url": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
@@ -80,22 +96,6 @@
       "source": "BioPharma Dive",
       "date": "2026-10-16",
       "url": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "本週圖表：Moderna 股價大幅上漲",
-      "summary": "BioPharma Dive 以數據視覺化為重點的系列的最新一期包括了 Moderna 在 2026 年的迅速崛起以及羅氏的突然交易激增。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-16",
-      "url": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "下一代 RNAi 製藥商 City 定價 2 億美元 首次公開上市（IPO）",
-      "summary": "該產品將支持三種處於或接近臨床測試的藥物，以及進入肝臟外組織的 RNAi 治療的早期研究。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-16",
-      "url": "https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/",
       "lang": "zh-TW"
     },
     {
