@@ -1,93 +1,69 @@
 {
   "module": "funding",
-  "updated": "2026-10-22T01:06:17.026464+00:00",
+  "updated": "2026-10-22T15:47:00.591712+00:00",
   "items": [
     {
-      "title": "STAT+: What’s the deal with Isomorphic Labs?",
-      "summary": "In this edition of STAT's AI Prognosis: What does Isomorphic Labs' high valuation say about AI's role in drug development, and the debate around AI and cost of care.",
+      "title": "美國擬加強審查對中生技授權交易，比利時拒絕給付Mounjaro",
+      "summary": "美國政府準備祭出新規定，未來美國生技公司與中國生技公司的對外授權交易，將面臨更嚴格的審查。",
+      "source": "STAT News",
+      "date": "2026-10-22",
+      "url": "https://www.statnews.com/pharmalot/2026/10/22/chinese-biotech-deals-scrutiny-belgium-refuses-mounjaro-coverage/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Isomorphic Labs",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-10-21",
       "url": "https://www.statnews.com/2026/10/21/whats-the-deal-with-isomorphic-labs-ai-prognosis/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
-      "summary": "Hibsago is viewed as a potential &ldquo;functional cure&rdquo; for chronic infections and an important part of the British drugmaker&rsquo;s goal of reaching &pound;40 billion in annual revenue by 2031.",
+      "title": "GSK 和 Ionis 首個乙型肝炎藥物獲得美國批准",
+      "summary": "Hibsago 被視為慢性感染的潛在“功能性療法”，也是這家英國製藥商到 2031 年年收入達到 400 億英鎊的目標的重要組成部分。",
       "source": "BioPharma Dive",
       "date": "2026-10-21",
       "url": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
       "lang": "zh-TW"
     },
     {
-      "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
-      "summary": "New follow-up results suggest Arcus&rsquo; drug might be superior to a marketed Merck medicine. Elsewhere, Eli Lilly and AstraZeneca forged new partnerships.",
+      "title": "Arcus 腎癌數據讓分析師印象深刻； TriGemX 簽署 SPAC 協議",
+      "summary": "新的後續結果顯示 Arcus 的藥物可能優於市售的默克藥物。在其他地方，禮來公司和阿斯特捷利康建立了新的合作關係。",
       "source": "BioPharma Dive",
       "date": "2026-10-21",
       "url": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: He’s slashing quality at nursing homes. This state is letting it happen",
-      "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate",
-      "source": "STAT News",
-      "date": "2026-10-20",
-      "url": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Roche continues to look to China for new drugs",
-      "summary": "China's Hansoh Pharmaceutical Group has announced that it struck a massive deal with Roche to develop a portfolio of antibody-drug conjugates.",
-      "source": "STAT News",
-      "date": "2026-10-20",
-      "url": "https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about drug launch prices, an AstraZeneca AI deal, and more",
-      "summary": "The median net price for newly launched medicines, when adjusted for inflation and manufacturer discounts, rose by 35% from 2022 to 2025.",
-      "source": "STAT News",
-      "date": "2026-10-20",
-      "url": "https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
-      "summary": "Despite what some analysts described as low expectations, RAP-219 narrowly hit the main goal of a mid-stage study, results that could help it tap a billion-dollar-plus market opportunity.",
+      "title": "Rapport 的癲癇藥物在雙相情感障礙試驗中取得了驚人的成功",
+      "summary": "儘管一些分析師稱其預期較低，但 RAP-219 仍勉強實現了中期研究的主要目標，其結果可能有助於其挖掘價值超過 10 億美元的市場機會。",
       "source": "BioPharma Dive",
       "date": "2026-10-20",
       "url": "https://www.biopharmadive.com/news/rapport-bipolar-mania-clinical-trial-rap-219-results/833454/",
       "lang": "zh-TW"
     },
     {
-      "title": "Hype vs. reality: What pharma’s hottest R&D bets have actually proved",
-      "summary": "New types of bispecifics, antibody-drug conjugates and cell therapies haven&rsquo;t yet proven themselves in the clinic. Pharmaceutical companies are betting billions anyway.",
+      "title": "炒作與現實：製藥公司最熱門的研發賭注實際上證明了什麼",
+      "summary": "新型雙特異性藥物、抗體藥物偶聯物和細胞療法尚未在臨床上證明。無論如何，製藥公司都投入了數十億美元的賭注。",
       "source": "BioPharma Dive",
       "date": "2026-10-20",
       "url": "https://www.biopharmadive.com/news/pharma-rd-bets-clinical-proof-gsk-summit/833332/",
       "lang": "zh-TW"
     },
     {
-      "title": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
-      "summary": "The acquisition gives the German company a promising blood disorder medicine that passed a 第二期試驗 test and could threaten a Takeda drug.",
+      "title": "Merck KGaA 以 $1.3B Silence 收購押注 RNAi",
+      "summary": "此次收購為這家德國公司提供了一種很有前途的血液疾病藥物，該藥物通過了第二階段測試，可能對武田的藥物構成威脅。",
       "source": "BioPharma Dive",
       "date": "2026-10-19",
       "url": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
       "lang": "zh-TW"
     },
     {
-      "title": "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study",
-      "summary": "Roche is paying Hansoh $400 million up front in a broad deal involving several ADCs. Elsewhere, another top investor formed a China-focused fund and Ultragenyx sold a second review voucher.",
+      "title": "羅氏 (Roche) 與豪森 (Hansoh) 簽署 15B 美元 ADC 協議； Veradermics 在另一項禿頭研究中得分",
+      "summary": "羅氏在一項涉及多個 ADC 的廣泛交易中向 Hansoh 預付了 4 億美元。在其他地方，另一位頂級投資者組建了一支專注於中國的基金，Ultragenyx 出售了第二張評論券。",
       "source": "BioPharma Dive",
       "date": "2026-10-19",
       "url": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "These 18 french biotech startups could shape tomorrow’s medicine",
-      "summary": "hape tomorrow’s medicine Labiotech.eu",
-      "source": "Labiotech.eu",
-      "date": "2026-10-13",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
       "lang": "zh-TW"
     }
   ]
