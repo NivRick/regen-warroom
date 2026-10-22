@@ -1,74 +1,74 @@
 {
   "module": "regulation",
-  "updated": "2026-10-21T15:47:48.046446+00:00",
+  "updated": "2026-10-22T01:05:59.897866+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "title": "What’s New for Biologics",
+      "summary": "Latest news from the Center for Biologics Evaluation and Research",
       "source": "FDA Biologics",
       "date": "2026-10-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA圓桌會議：強化血液製品供應鏈",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的血液研究與審查辦公室，將於2026年9月29日舉辦一場圓桌會議。",
+      "title": "美國食藥局（FDA） Roundtable: Strengthening the Supply Chain for Blood Manufacturing",
+      "summary": "On September 29, 2026, the Food and Drug Administration’s, Center for Biologics Evaluation and Research, Office of Blood Research and Review is hosting a roundtable on strengthening the supply chain for the collection and manufacturing of Whole Blood",
       "source": "09/29/2026",
       "date": "2026-10-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
       "lang": "zh-TW"
     },
     {
-      "title": "Tides Medical 有限責任公司 - 727246",
-      "summary": "關於試驗用醫療器材豁免（IDE）與上市前核准申請（PMA）的相關資訊。",
+      "title": "Using AI Agents and Bio-Foundation Models to Automate Vector Design for Cell Line Development",
+      "summary": "In this GEN webinar, Asimov’s VP of Business Development and Commercial Strategy Jamie Freeman, PhD, will show how Asimov combines bio-foundation models, AI agents, and synthetic biology to tailor expression vector design for each molecule. The post ",
+      "source": "GEN News",
+      "date": "2026-10-21",
+      "url": "https://www.genengnews.com/multimedia/webinars/using-ai-agents-and-bio-foundation-models-to-automate-vector-design-for-cell-line-development/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Tides Medical LLC - 727246",
+      "summary": "Investigational Device Exemptions (IDE)/Premarket Approval Application (PMA)",
       "source": "10/06/2026",
       "date": "2026-10-20",
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/tides-medical-llc-727246-10062026",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑的兒科研究公平法案（PREA）審查與標示變更",
-      "summary": "根據聯邦食品、藥物和化妝品法案第505B條款，針對兒科研究進行的兒科研究公平法案（PREA）標示變更、醫學、統計與臨床藥理學審查。",
+      "title": "Biologics PREA Reviews and Labeling Changes",
+      "summary": "PREA Labeling Changes, Medical, Statistical, and Clinical Pharmacology Reviews of Pediatric Studies Conducted under Section 505B of the Federal Food, Drug, and Cosmetic Act (the Act), as amended by the 美國食藥局（FDA） Amendments Act of 2007 (FDAAA). These assess",
       "source": "FDA Biologics",
       "date": "2026-10-20",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
       "lang": "zh-TW"
     },
     {
-      "title": "EVARREST 產品核准資訊",
-      "summary": "本產品核准用於成人手術患者，作為止血輔助，需配合手動加壓使用，特別是在傳統方法效果不佳時。",
+      "title": "EVARREST",
+      "summary": "Product approval information is indicated for use with manual compression as an adjunct to hemostasis in adult patients undergoing surgery, when control of bleeding by conventional surgical techniques (such as suture, ligature, and cautery) is ineffe",
       "source": "FDA Biologics",
       "date": "2026-10-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/evarrest",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗主持人狀態（生物製劑）",
-      "summary": "針對曾執行新藥或試驗用生物製劑研究的臨床試驗主持人，其查核結果清單。",
+      "title": "Clinical Investigator Status (Biologics)",
+      "summary": "Clinical Investigator Inspection List from inspections of clinical investigators who have conducted studies with investigational new drugs or investigational devices reviewed by CBER",
       "source": "FDA Biologics",
       "date": "2026-10-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-status-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗主持人查核清單 A-D",
-      "summary": "包含曾執行新藥或試驗用生物製劑研究的臨床試驗主持人，其姓名、地址及其他查核所收集到的資訊。",
-      "source": "FDA Biologics",
-      "date": "2026-10-14",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/clinical-investigator-inspection-list-d",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "翰森製藥泰格莎（Tagrisso）競爭藥，遭阿斯特捷利康（AstraZeneca）挑戰後，歐盟核准被撤銷",
-      "summary": "翰森製藥的泰格莎（Tagrisso）競爭藥，因阿斯特捷利康（AstraZeneca）提告，歐盟核准遭撤銷。",
+      "title": "Hansoh’s Tagrisso rival loses EU approval after AstraZeneca legal challenge",
+      "summary": "l after AstraZeneca legal challenge Fierce Pharma",
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "2026年亞太地區首次核准藥品完整清單",
-      "summary": "這份清單彙整了2026年在亞太地區首次獲得核准上市的各項藥品與生物製劑。對於關注亞太市場新藥趨勢的業界人士來說，是不可或缺的參考資料。",
+      "title": "Every First Approval in APAC, 2026: The Full List",
+      "summary": "",
       "source": "BioPharma APAC",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3c3eEFKemJVTktxR2JqLS1XMzY5SkVDaWRDbkZxWnZzazZaaGpLSFdCSlMyRlhnQ2NTdGYtVUkwbEoxcVd3MnNha3JUVGRTa2pKbG90QWJGRmlxNkUtWEdHUElOWl9SUi1OMEltcVQxRGRNMDZfeko1YVlkT2R1anlFQ1RvcWhMeENZdkVZcEtvNzRER2RvZFhfbw?oc=5",

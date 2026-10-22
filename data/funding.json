@@ -1,109 +1,93 @@
 {
   "module": "funding",
-  "updated": "2026-10-21T15:48:46.563050+00:00",
+  "updated": "2026-10-22T01:06:17.026464+00:00",
   "items": [
     {
-      "title": "Arcus 腎癌數據讓分析師印象深刻； TriGemX 簽署 SPAC 協議",
-      "summary": "新的後續結果顯示 Arcus 的藥物可能優於市售的默克藥物。在其他地方，禮來公司和阿斯特捷利康建立了新的合作關係。",
+      "title": "STAT+: What’s the deal with Isomorphic Labs?",
+      "summary": "In this edition of STAT's AI Prognosis: What does Isomorphic Labs' high valuation say about AI's role in drug development, and the debate around AI and cost of care.",
+      "source": "STAT News",
+      "date": "2026-10-21",
+      "url": "https://www.statnews.com/2026/10/21/whats-the-deal-with-isomorphic-labs-ai-prognosis/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
+      "summary": "Hibsago is viewed as a potential &ldquo;functional cure&rdquo; for chronic infections and an important part of the British drugmaker&rsquo;s goal of reaching &pound;40 billion in annual revenue by 2031.",
+      "source": "BioPharma Dive",
+      "date": "2026-10-21",
+      "url": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
+      "summary": "New follow-up results suggest Arcus&rsquo; drug might be superior to a marketed Merck medicine. Elsewhere, Eli Lilly and AstraZeneca forged new partnerships.",
       "source": "BioPharma Dive",
       "date": "2026-10-21",
       "url": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：他大砍安養院服務品質，這個州卻放任不管",
-      "summary": "波士頓環球報（Boston Globe）的調查團隊發現，Eli Mirlis在經營安養院時，不僅大幅削減住民照護品質，還從安養院營收中挪用數百萬美元。",
+      "title": "STAT+: He’s slashing quality at nursing homes. This state is letting it happen",
+      "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate",
       "source": "STAT News",
       "date": "2026-10-20",
       "url": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：羅氏繼續在中國尋找新藥",
-      "summary": "中國豪森製藥集團宣布與羅氏達成大規模協議，開發抗體藥物偶聯物組合。",
+      "title": "STAT+: Roche continues to look to China for new drugs",
+      "summary": "China's Hansoh Pharmaceutical Group has announced that it struck a massive deal with Roche to develop a portfolio of antibody-drug conjugates.",
       "source": "STAT News",
       "date": "2026-10-20",
       "url": "https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關藥物上市價格、阿斯特捷利康人工智慧交易等的信息",
-      "summary": "在根據通貨膨脹和製造商折扣進行調整後，新上市藥品的淨價中位數從 2022 年到 2025 年上漲了 35%。",
+      "title": "STAT+: Pharmalittle: We’re reading about drug launch prices, an AstraZeneca AI deal, and more",
+      "summary": "The median net price for newly launched medicines, when adjusted for inflation and manufacturer discounts, rose by 35% from 2022 to 2025.",
       "source": "STAT News",
       "date": "2026-10-20",
       "url": "https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：達納法伯癌症研究所和貝斯以色列將開始建造耗資 16.8 億美元的新癌症醫院",
-      "summary": "丹納法伯癌症研究所 (Dana-Farber Cancer Institute) 和 Beth Israel Lahey Health 正在開始在波士頓建造一座耗資 16.8 億美元的癌症醫院，這標誌著他們與麻省總醫院布里格姆總醫院 (Mass General Brigham) 的競爭進入了新階段。",
-      "source": "STAT News",
-      "date": "2026-10-20",
-      "url": "https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Rapport 的癲癇藥物在雙相情感障礙試驗中取得了驚人的成功",
-      "summary": "儘管一些分析師稱其預期較低，但 RAP-219 仍勉強實現了中期研究的主要目標，其結果可能有助於其挖掘價值超過 10 億美元的市場機會。",
+      "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
+      "summary": "Despite what some analysts described as low expectations, RAP-219 narrowly hit the main goal of a mid-stage study, results that could help it tap a billion-dollar-plus market opportunity.",
       "source": "BioPharma Dive",
       "date": "2026-10-20",
       "url": "https://www.biopharmadive.com/news/rapport-bipolar-mania-clinical-trial-rap-219-results/833454/",
       "lang": "zh-TW"
     },
     {
-      "title": "炒作與現實：製藥公司最熱門的研發賭注實際上證明了什麼",
-      "summary": "新型雙特異性藥物、抗體藥物偶聯物和細胞療法尚未在臨床上證明。無論如何，製藥公司都投入了數十億美元的賭注。",
+      "title": "Hype vs. reality: What pharma’s hottest R&D bets have actually proved",
+      "summary": "New types of bispecifics, antibody-drug conjugates and cell therapies haven&rsquo;t yet proven themselves in the clinic. Pharmaceutical companies are betting billions anyway.",
       "source": "BioPharma Dive",
       "date": "2026-10-20",
       "url": "https://www.biopharmadive.com/news/pharma-rd-bets-clinical-proof-gsk-summit/833332/",
       "lang": "zh-TW"
     },
     {
-      "title": "Merck KGaA 以 $1.3B Silence 收購押注 RNAi",
-      "summary": "此次收購為這家德國公司提供了一種很有前途的血液疾病藥物，該藥物通過了第二階段測試，可能對武田的藥物構成威脅。",
+      "title": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
+      "summary": "The acquisition gives the German company a promising blood disorder medicine that passed a 第二期試驗 test and could threaten a Takeda drug.",
       "source": "BioPharma Dive",
       "date": "2026-10-19",
       "url": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
       "lang": "zh-TW"
     },
     {
-      "title": "羅氏（Roche）與翰森製藥（Hansoh）簽署150億美元抗體藥物複合體（ADC）合作案；Veradermics在另一項禿頭研究中表現亮眼",
-      "summary": "羅氏與翰森製藥達成150億美元抗體藥物複合體（ADC",
+      "title": "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study",
+      "summary": "Roche is paying Hansoh $400 million up front in a broad deal involving several ADCs. Elsewhere, another top investor formed a China-focused fund and Ultragenyx sold a second review voucher.",
       "source": "BioPharma Dive",
       "date": "2026-10-19",
       "url": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
       "lang": "zh-TW"
     },
     {
-      "title": "這 18 家法國生物技術新創公司可能會塑造明天的醫學",
-      "summary": "希望明天的醫學 Labiotech.eu",
+      "title": "These 18 french biotech startups could shape tomorrow’s medicine",
+      "summary": "hape tomorrow’s medicine Labiotech.eu",
       "source": "Labiotech.eu",
       "date": "2026-10-13",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "專注於帕金森氏症的 Aspen 和雙特異性生物技術 Bambusa 計劃首次公開募股",
-      "summary": "生物技術 Bambusa 計劃首次公開發行 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFVvbkNxMkU0NzhNeC04eFBEekV5Q1RzQXdsSFJCVmNFWklrdHV4YUJQbjY3Rkh3X2hQUDB4ZW1ZYkV4blZzakpWaTQzUHJDNmtpbGc3LWE4bm42RU43ZURvcjVNMV8tNXpWSnlaSXlWd1pfNVhhR3IyWUtDSEU2eTN3eDd1RkJtTVE0dzFNNGpfX2tRSVo3T3YwQjV3bGFRWXJF?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Caribou 將在融資環境「充滿挑戰」的情況下停止 CAR-T細胞療法 工作並裁員",
-      "summary": "f 在「充滿挑戰」的融資環境中",
-      "source": "BioPharma Dive",
-      "date": "2026-10-07",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2pCQU5ITVJNN2s5eUpjY1JrMW1rRE9VRmswQUZlNFBFSVMzaXRWbTFkZHBaM2lWWXBMUzZWN3lYanJPWnRZYm1TWFRqeXlZXy1TQXpsN19KUWc2Q1BtZ2U2cFNnZGpNcE9BSU5JQmlOb25uYm1MVGsya1o4SDdvMlQyOXNBdE92SHFfaVkxRklJVG95RHYxaVc5TVZrRl8yNTJ4dHlTNVV0cG8zWlpWRzZOT3c?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Belgium's Novadip Biosciences raises €10.4 million to fund pivotal 臨床試驗 and unlock EIB loan tranche",
-      "summary": ".4 million to fund pivotal 臨床試驗 and unlock EIB loan tranche EU-Startups",
-      "source": "EU-Startups",
-      "date": "2026-09-21",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcnhZRFRRN1czWmFhSENYZUticVFiZTBGdHRCSzBtR1BKWUprQmF2MzhiYnozY2w3bUI0OVZ6MXRZU2k4T3BKUEdYaEVnVWhraFVpQlRWM21ocGd6bVRqOUVsNFdHWEJxUUpjVTkzRkRJMWFjMlF3NTA1OGpmMFNkVzl4Q3NoUzZ0dXZWUlZpQkRFM1lkaS1FcEZYSDl6MF9tR20tdTI3ZVN1Z1hqc01DSVpuMXZyN1RfUmZ0dzc3R09wNXcxTGFoOTlDR2tsY1hSS3FUWllJTDNRcnlSS2c?oc=5",
       "lang": "zh-TW"
     }
   ]
