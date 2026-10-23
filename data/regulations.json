@@ -1,18 +1,34 @@
 {
   "module": "regulation",
-  "updated": "2026-10-23T01:07:05.878399+00:00",
+  "updated": "2026-10-23T15:36:23.774570+00:00",
   "items": [
     {
-      "title": "2026年生物製劑許可申請核准",
-      "summary": "聚焦2026年生物製劑的核准申請，預期將有哪些新藥或新療法獲准上市。",
+      "title": "近期發布的生物製劑指引文件",
+      "summary": "本頁面彙整美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）及跨中心最新發布的指引文件。",
+      "source": "FDA Biologics",
+      "date": "2026-10-23",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "無線供電電子植入物ECHO，實現「糖胖症」免藥物管理",
+      "summary": "研究人員開發出無線供電的植入式電子裝置ECHO，利用電催化技術從血液中移除過多葡萄糖，有望免藥物管理「糖胖症」。",
+      "source": "GEN News",
+      "date": "2026-10-23",
+      "url": "https://www.genengnews.com/topics/translational-medicine/wirelessly-powered-electronic-implant-echo-enables-drug-free-management-of-diabesity/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "2026年生物製劑許可申請核准清",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-10-22",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/2026-biological-license-application-approvals",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑新動態",
-      "summary": "來自美國食品藥物管理局（FDA）生物製劑",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-10-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -24,14 +40,6 @@
       "source": "09/29/2026",
       "date": "2026-10-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "使用 AI 代理和生物基礎模型自動化細胞系開發的載體設計",
-      "summary": "在本次 GEN 網路研討會中，Asimov 的業務開發和商業策略副總裁 Jamie Freeman 博士將展示 Asimov 如何結合生物基礎模型、人工智慧代理和合成生物學，為每個分子定製表達載體設計。貼文",
-      "source": "GEN News",
-      "date": "2026-10-21",
-      "url": "https://www.genengnews.com/multimedia/webinars/using-ai-agents-and-bio-foundation-models-to-automate-vector-design-for-cell-line-development/",
       "lang": "zh-TW"
     },
     {
@@ -48,14 +56,6 @@
       "source": "FDA Biologics",
       "date": "2026-10-20",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "埃瓦雷斯特",
-      "summary": "產品核准資訊表明，當傳統手術技術（如縫合、結紮和燒灼）控制出血效果不佳時，可將手動壓迫作為成人手術患者止血的輔助手段。",
-      "source": "FDA Biologics",
-      "date": "2026-10-20",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/evarrest",
       "lang": "zh-TW"
     },
     {
