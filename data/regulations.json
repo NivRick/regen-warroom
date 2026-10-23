@@ -1,18 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-10-22T15:46:45.186838+00:00",
+  "updated": "2026-10-23T01:07:05.878399+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
+      "title": "2026年生物製劑許可申請核准",
+      "summary": "聚焦2026年生物製劑的核准申請，預期將有哪些新藥或新療法獲准上市。",
+      "source": "FDA Biologics",
+      "date": "2026-10-22",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/2026-biological-license-application-approvals",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑新動態",
+      "summary": "來自美國食品藥物管理局（FDA）生物製劑",
       "source": "FDA Biologics",
       "date": "2026-10-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA圓桌會議：強化血液製品製造供應鏈",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究",
+      "title": "美國食藥局（FDA） 圓桌會議：加強血液製造的供應鏈",
+      "summary": "2026 年 9 月 29 日，美國食品藥物管理局生物製品評估與研究中心血液研究與審查辦公室將舉辦圓桌會議，討論加強全血採集和製造的供應鏈",
       "source": "09/29/2026",
       "date": "2026-10-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
@@ -48,6 +56,14 @@
       "source": "FDA Biologics",
       "date": "2026-10-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/evarrest",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "豪森的競爭對手 Tagrisso 在阿斯特捷利康法律挑戰後失去歐盟批准",
+      "summary": "l 阿斯特捷利康對 Fierce Pharma 提出法律挑戰後",
+      "source": "Fierce Pharma",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
       "lang": "zh-TW"
     },
     {

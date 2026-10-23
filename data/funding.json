@@ -1,18 +1,34 @@
 {
   "module": "funding",
-  "updated": "2026-10-22T15:47:00.591712+00:00",
+  "updated": "2026-10-23T01:07:36.781081+00:00",
   "items": [
     {
-      "title": "美國擬加強審查對中生技授權交易，比利時拒絕給付Mounjaro",
-      "summary": "美國政府準備祭出新規定，未來美國生技公司與中國生技公司的對外授權交易，將面臨更嚴格的審查。",
+      "title": "吉立亞醫藥支付4500萬美元，與德州檢察長就回扣指控達成和解",
+      "summary": "吉立亞醫藥同意支付4500萬美元，以和解其涉嫌支付回扣、不當影響由德州醫療計畫支付處方的指控。",
+      "source": "STAT News",
+      "date": "2026-10-22",
+      "url": "https://www.statnews.com/pharmalot/2026/10/22/gilead-settles-kickback-lawsuit-texas-attorney-general/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：財政部會限制美國對中國生物技術領域的投資嗎？",
+      "summary": "有傳言稱，財政部本週將提出一項限制美國對中國生物技術產業投資的規則。",
+      "source": "STAT News",
+      "date": "2026-10-22",
+      "url": "https://www.statnews.com/2026/10/22/biotech-news-treasury-restrictions-for-us-investment-in-chinese-biotech/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a U.S. rule on Chinese deals, Belgium refusing Mounjaro coverage, and more",
+      "summary": "U.S. is poised to issue a proposed rule that would subject outbound licensing deals with Chinese biotech companies to additional scrutiny",
       "source": "STAT News",
       "date": "2026-10-22",
       "url": "https://www.statnews.com/pharmalot/2026/10/22/chinese-biotech-deals-scrutiny-belgium-refuses-mounjaro-coverage/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Isomorphic Labs",
-      "summary": "",
+      "title": "STAT+：同構實驗室有什麼關係？",
+      "summary": "在本期 STAT 的人工智慧預測中：Isomorphic Labs 的高估值說明了人工智慧在藥物開發中的作用，以及圍繞人工智慧和護理成本的爭論。",
       "source": "STAT News",
       "date": "2026-10-21",
       "url": "https://www.statnews.com/2026/10/21/whats-the-deal-with-isomorphic-labs-ai-prognosis/?utm_campaign=rss",
@@ -51,19 +67,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Merck KGaA 以 $1.3B Silence 收購押注 RNAi",
-      "summary": "此次收購為這家德國公司提供了一種很有前途的血液疾病藥物，該藥物通過了第二階段測試，可能對武田的藥物構成威脅。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-19",
-      "url": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
+      "title": "河口流出 1.03 億美元，推動腎臟病基因療法進入臨床",
+      "summary": "推動腎臟疾病基因療法進入臨床 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMnJHM0k5TlI0a3dfaHdPZ0NkSDNweENsSW9MQURRVmgzbEpXd2x1TmFOc3dxd2tNUEVSS2tBcVVyV1h5dmZnYUZiMUVyaV9MMVRRSkRtSk1vdzNUekNmTzdfNHlsWHNsSWJMQXljUWVrTlVwQndJRWp0LS1xRG5tNkdLelFadkdhdFZNVTF4ZWMwcjk5MDc5NUZJazllNmdFbFE?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "羅氏 (Roche) 與豪森 (Hansoh) 簽署 15B 美元 ADC 協議； Veradermics 在另一項禿頭研究中得分",
-      "summary": "羅氏在一項涉及多個 ADC 的廣泛交易中向 Hansoh 預付了 4 億美元。在其他地方，另一位頂級投資者組建了一支專注於中國的基金，Ultragenyx 出售了第二張評論券。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-19",
-      "url": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
+      "title": "這 18 家法國生物技術新創公司可能會塑造明天的醫學",
+      "summary": "希望明天的醫學 Labiotech.eu",
+      "source": "Labiotech.eu",
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
       "lang": "zh-TW"
     }
   ]
