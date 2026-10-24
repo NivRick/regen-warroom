@@ -1,25 +1,25 @@
 {
   "module": "regulation",
-  "updated": "2026-10-23T15:36:23.774570+00:00",
+  "updated": "2026-10-24T01:16:32.376329+00:00",
   "items": [
     {
-      "title": "近期發布的生物製劑指引文件",
-      "summary": "本頁面彙整美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）及跨中心最新發布的指引文件。",
+      "title": "最近發布的生物製品指導文件",
+      "summary": "本頁列出了最近發布的 CBER 和跨中心指導文件。",
       "source": "FDA Biologics",
       "date": "2026-10-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
       "lang": "zh-TW"
     },
     {
-      "title": "無線供電電子植入物ECHO，實現「糖胖症」免藥物管理",
-      "summary": "研究人員開發出無線供電的植入式電子裝置ECHO，利用電催化技術從血液中移除過多葡萄糖，有望免藥物管理「糖胖症」。",
+      "title": "無線供電電子植入物 ECHO 可實現「糖尿病」的無藥物管理",
+      "summary": "研究人員開發了一種植入式無線供電電子設備 ECHO，它利用電催化作用按需去除血液中多餘的葡萄糖，並可以提供一種無需藥物的方法來控制肥胖和 2 型糖尿病 (T2D)。",
       "source": "GEN News",
       "date": "2026-10-23",
       "url": "https://www.genengnews.com/topics/translational-medicine/wirelessly-powered-electronic-implant-echo-enables-drug-free-management-of-diabesity/",
       "lang": "zh-TW"
     },
     {
-      "title": "2026年生物製劑許可申請核准清",
+      "title": "2026年生物許可證申請核准",
       "summary": "",
       "source": "FDA Biologics",
       "date": "2026-10-22",
@@ -64,14 +64,6 @@
       "source": "Fierce Pharma",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "2026 年亞太地區首次獲準：完整列表",
-      "summary": "",
-      "source": "BioPharma APAC",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3c3eEFKemJVTktxR2JqLS1XMzY5SkVDaWRDbkZxWnZzazZaaGpLSFdCSlMyRlhnQ2NTdGYtVUkwbEoxcVd3MnNha3JUVGRTa2pKbG90QWJGRmlxNkUtWEdHUElOWl9SUi1OMEltcVQxRGRNMDZfeko1YVlkT2R1anlFQ1RvcWhMeENZdkVZcEtvNzRER2RvZFhfbw?oc=5",
       "lang": "zh-TW"
     }
   ]
