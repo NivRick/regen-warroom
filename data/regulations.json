@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-10-24T01:16:32.376329+00:00",
+  "updated": "2026-10-24T14:12:55.458539+00:00",
   "items": [
     {
-      "title": "最近發布的生物製品指導文件",
-      "summary": "本頁列出了最近發布的 CBER 和跨中心指導文件。",
+      "title": "最新發布的生物製劑指導文件",
+      "summary": "本頁列出美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）及跨中心最新發布的指導文件。",
       "source": "FDA Biologics",
       "date": "2026-10-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
@@ -19,24 +19,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "2026年生物許可證申請核准",
-      "summary": "",
+      "title": "2026年生物製劑許可申請核准清單",
+      "summary": "本頁提供美國食品藥物管理局（FDA）在2026年核准的生物製劑許可申請（BLA）完整清單。",
       "source": "FDA Biologics",
       "date": "2026-10-22",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/2026-biological-license-application-approvals",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-10-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 圓桌會議：加強血液製造的供應鏈",
-      "summary": "2026 年 9 月 29 日，美國食品藥物管理局生物製品評估與研究中心血液研究與審查辦公室將舉辦圓桌會議，討論加強全血採集和製造的供應鏈",
+      "title": "美國FDA圓桌會議：強化血液",
+      "summary": "",
       "source": "09/29/2026",
       "date": "2026-10-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",

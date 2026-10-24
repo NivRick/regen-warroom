@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-10-24T01:16:17.606213+00:00",
+  "updated": "2026-10-24T14:12:28.479068+00:00",
   "items": [
     {
-      "title": "放射性骨壞死難癒合？微環境是關鍵，再生醫學有望突破！",
-      "summary": "放射性骨壞死（ORN）是頭頸癌（HNC）患者接受放射治療（RT）後，常見且令人衰弱的併發症，其特徵是骨骼長期暴露或無法癒",
+      "title": "放射性骨壞死癒合的微環境障礙與再生療法契機",
+      "summary": "放射性骨壞死（ORN）是頭頸癌（HNC）患者接受放射治療（RT）後常見的嚴重後遺症，其特徵是骨骼持續外露等。",
       "source": "PubMed",
       "date": "2026-10-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42910095/",
       "lang": "zh-TW"
     },
     {
-      "title": "DNA 吸附奈米酶水凝膠重新編程免疫氧化微環境，支持骨關節炎中基於幹細胞的軟骨修復。",
-      "summary": "骨關節炎（OA）是一種常見的退化性關節疾病，幹細胞治療常受到不利的關節微環境的限制。過量的活性氧 (ROS) 和損傷相關的遊離 DNA (cfDNA) 協同驅動先天免疫活化、發炎巨噬細胞極化…",
+      "title": "吸附",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-10-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42899179/",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "突破非病毒基因療法「核屏障」：探討機制、載體設計與NLS胜肽、DNA靶向序列策略的應用潛力",
-      "summary": "質體DNA（pDNA）要有效送進細胞核，一直是「非病毒基因療法」的一大挑戰，尤其對分裂後或緩慢增殖的",
+      "title": "克服非病毒基因療法中的細胞核屏障：機制、載體設計，以及核定位序列（NLS）胜肽和DNA靶向序列策略的轉譯應用前景。",
+      "summary": "將質體DNA（pDNA）有效遞送到細胞核，仍然是非病毒基因療法的一大瓶頸，尤其是在分裂後細胞和",
       "source": "PubMed",
       "date": "2026-10-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42881531/",
@@ -131,16 +131,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "太空中的人類誘導型多功能幹細胞與類器官模型，用於探索嚴重兒科代謝與先天性疾病",
-      "summary": "隨著太空生醫研究的拓展，微重力與太空飛行相關的壓力源，正揭示細胞反應，可能為嚴重兒科代謝與先天性疾病提供新洞見。",
+      "title": "太空中的人類誘導型多功能幹細胞與類器官模型，探索嚴重兒童代謝及先天性疾病",
+      "summary": "隨著太空生醫研究拓展，微重力與太空飛行壓力正揭示細胞反應，有望為嚴重兒童代謝及先天性疾病提供新見解。",
       "source": "PubMed",
       "date": "2026-10-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42910274/",
       "lang": "zh-TW"
     },
     {
-      "title": "具有緩釋 b-FGF 的可注射自癒多醣水凝膠，用於脂肪組織再生。",
-      "summary": "軟組織缺損需要應用脂肪組織重建技術；然而，這些方法常常面臨挑戰，例如由於機械壓力和血液供應不足導致存活率低。這項研究展示了一種可注射、自癒多醣的開發...",
+      "title": "可注射的自我修",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-10-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42903678/",
@@ -195,8 +195,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "臍帶間質幹細胞（19#iSCLife®-MDS）治療骨髓增生不良症候群（MDS）的臨床一/二期研究",
-      "summary": "這項由Sclnow Biotechnology主導的臨床一/二期試驗，旨在評估臍帶間質幹細胞（1",
+      "title": "人類臍帶間質幹細胞（19#iSCLife®-MDS）治療骨髓增生不良症候群（MDS）的第一/二期臨床試驗",
+      "summary": "Sclnow Biotechnology正在進行人類臍帶間質幹細胞（19#iSCLife®-MDS）治療",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-10-24",
       "url": "https://clinicaltrials.gov/study/NCT03184935",
@@ -259,24 +259,24 @@
       "lang": "zh-TW"
     },
     {
+      "title": "Immatics 在 2026 年 ESMO 年會上的兩次口頭報告中展示了 IMA402 PRAME 雙特異性和 IMA203CD8 PRAME 細胞療法在晚期實體瘤中的臨床活性",
+      "summary": "MA402 PRAME 雙特異性和 IMA203CD8 PRAME 細胞療法治療晚期實體瘤在 2026 年 ESMO 年會上的兩次口頭報告 卡羅爾縣鏡報民主黨",
+      "source": "Carroll County Mirror-Democrat",
+      "date": "2026-10-24",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmE5OUY0SDlGWGxrMmUtcnFMSF9LUFpReXlTblNma3dOTlZ3el9IZ1pIMVNsaHN1QTNuMHNkb2tuang0WFpncW9yQndrSVpRbzNhb2FaUFBKWE9VaGJ6SE5KcWJjS0xlWVZWTVRfNlJMSmJHNG1RNFM4dHd4UVN4OUdZS2kwNzR5TzM1bThUOW03X2hfNzdXVm9UZmZ1NncyeFFqSkMxazhGQnFiX1ZqdG5ySGZfdGM?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "臨床試驗中精準 T 細胞療法可阻止抗藥性癌症",
-      "summary": "ent-resistant cancers in 臨床試驗 National Institutes of Health (NIH) | (.gov)",
+      "summary": "美國國立衛生研究院 (NIH) | 臨床試驗中的抗藥性癌症(.gov)",
       "source": "National Institutes of Health (NIH) | (.gov)",
       "date": "2026-10-23",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZV82ZmlFUXNCUHc3eUJGR24wc25GOTJESmQ3TUd6NzZsMzBETkM0Vk5DOHpqZTc5UHVLQ1BPSnkxakVBUllYV2RqUHRFTFRVbVJpZXFrV2FPRE0tdmY0c1A2YXFGNG1SenFtcjRTTVVkUkpBSjEtSm9fcFR0MW5nTTlGaEE4dS1GR0haVnVKZUJldnk5VjlOdnZCZzh3Q0dLWjBCWHRJNG1aMGZJRHVUa1pUMWlrbWR1d3dPdg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Iovance 在 ESMO 2026 上展示新數據，展示深度、",
-      "summary": "展現深度，環球通訊社",
-      "source": "GlobeNewswire",
-      "date": "2026-10-23",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOOGhBblFZcHVnZFJZSzJwLVY4MWUyYlZ2V2t6aGhSWGxnaWFHYkNrS01RTjIyTDhtbjRmOU9OYlcyaklTbWlPOFkwejVteEpNeU1oNXJwNzRZaVA3WHJGaVhTbjZsZUVzWnpoVl9jdnQ5MkVJX21sSEVySzRuUUZETWw0OVktcDRZY1EzRGxFZ1d0YmstUUZ1QVY0MkpZMjN5YVIxOXJIUzA1NGlvUTJpRURoQ0NtckdYancwNTRNY2tObTl3bmtSMk5QYTFfWVZnSkV1SjkwQXRYSVFjb3F5TWhYVW5abGhRa1pPYVZuRGdpbVdWemRDZkdRaW5tMkxPbEtKQzVqT1lFZDJpcWU3RXdfLS1NZ19OMW41a2FKMG5yRXh5RDlMOUZkbWp6RE1KbWlpMU16UWlHdkkyRTNyZzQ4Zlg5a01kYmFsNzl2Yw?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "冷凍電顯與AI設計支架揭示安地斯漢他病毒如何與細胞結合",
-      "summary": "研究人員運用冷凍電子顯微鏡（Cryo-EM）及AI設計的支架，成功描繪出安地斯漢他病毒如何與人類細胞上的受體結合。這項發現有助於解釋抗體",
+      "title": "冷凍電子顯微鏡（Cryo-EM）與AI設計支架揭示安地斯漢他病毒如何結合細胞",
+      "summary": "研究人員利用冷凍電子顯微鏡（Cryo-EM）和AI設計的支架，成功描繪出安地斯漢他病毒如何與人類細胞上的受體結合",
       "source": "GEN News",
       "date": "2026-10-22",
       "url": "https://www.genengnews.com/topics/infectious-diseases/cryo-em-and-ai-designed-scaffold-reveal-how-andes-hantavirus-binds-cells/",
@@ -315,14 +315,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "誘導多能幹細胞致力於癌症預防、治療和腫瘤建模",
-      "summary": "癌症預防、治療和腫瘤建模 Bioengineer.org",
-      "source": "Bioengineer.org",
-      "date": "2026-10-17",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmNRNzhOd0k1RDRyakxvdTZDamJ1X2puOUhYT3FLbG1JYW9JYkdwaWNkX1I4QnlPTGFkQzVWUkNPbUJxMWxfQXo5dkVfOTk4dTVVZXRDZW9rdjBjVGJIQWRnTzJBWml6cWNZb3hud1hJLXI1bkZ5WGxsX21vTGJwQk5jemZxZHJkSS03VklNVGVtNTJjcHdHdFRWVUZ2M0lCMmc4VkNJejB1emkybFRYUUtB?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "技巧、款待和試驗結果：2026 年生物技術最可怕的高潮和低谷",
       "summary": "2026 年 ch 最可怕的高點和低點 BioProcess International",
       "source": "BioProcess International",
@@ -347,8 +339,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第二期臨床試驗：評估異體間質幹細胞（MSC）注射療法治療對傳統療法無效的頑固型移植物抗宿主疾病（GVHD）",
-      "summary": "狀態：尚未招募受試者｜主辦單位：薩拉曼卡生物醫學研究所｜這項第二期B、多",
+      "title": "評估異體間質幹細胞（MSC）注射療法治療對傳統療法無效的難治型移植物抗宿主疾病（GVHD）",
+      "summary": "這項由薩拉曼卡生物醫學研究所主辦的二期B臨床試驗，聚焦於評估異體間質幹細胞（MSC）注射療法",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-10",
       "url": "https://clinicaltrials.gov/study/NCT06905834",
@@ -387,8 +379,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "膠質母細胞瘤幹細胞-免疫微環境串擾：分子機制與治療機會",
-      "summary": "討論串擾：分子機制和治療機會前沿",
+      "title": "膠質母細胞瘤幹細胞與免疫微環境的「對話」：分子機制與治療新契機",
+      "summary": "探討膠質母細胞瘤幹細胞與免疫微環境的交互作用，揭示分子機制，尋找治療新機會。",
       "source": "Frontiers",
       "date": "2026-09-29",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTVJPTVoyNlVPNGhDektmRU5sWEtObXBXVzJDMEhnYjRhdmRVbzY3NTlzYklvSXdrQmRuUGZ3QkxMLXJmcVhGUWJCbTU5ekhyUnNwMUQ5RTdVczhEd3BRSmptVHM3UDFPZy0tYnlRS00wLUViODlyckpRUzU5LTh2czFhb0VBOGV3U09hSkN3UWgwQQ?oc=5",
