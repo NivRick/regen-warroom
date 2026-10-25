@@ -1,9 +1,9 @@
 {
   "module": "funding",
-  "updated": "2026-10-25T00:41:05.079094+00:00",
+  "updated": "2026-10-25T14:45:05.282337+00:00",
   "items": [
     {
-      "title": "必治妥施貴寶自體免疫嵌合抗原受體T細胞療法（CAR-T）臨床試驗傳出病患死亡",
+      "title": "必治妥施貴寶自體免疫CAR-T臨床試驗傳出病患死亡案例",
       "summary": "針對自體免疫疾病的嵌合抗原受體T細胞療法（CAR-T）研究，其安全門檻究竟該設在哪裡？",
       "source": "STAT News",
       "date": "2026-10-23",
@@ -11,56 +11,56 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Treasury proposes major restrictions to U.S. investment in Chinese biotech sector",
-      "summary": "A new Treasury Department proposal would restrict U.S. investments in Chinese biotechs, but still allows licensing deals.",
+      "title": "美國財政部提議大幅",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-10-23",
       "url": "https://www.statnews.com/2026/10/23/new-china-biotech-limits-coins-act-proposal-us-pharma-reaction/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion",
-      "summary": "AI drug firm Pathos raises $237 million, a deal that brings together a big Tempus dataset, AI analysis from Pathos, and drug development from BMS.",
+      "title": "STAT+：人工智慧製藥公司 Pathos 融資 2.37 億美元，估值升至 30 億美元",
+      "summary": "AI 製藥公司 Pathos 融資 2.37 億美元，這筆交易匯集了大型 Tempus 數據集、Pathos 的人工智慧分析以及 BMS 的藥物開發。",
       "source": "STAT News",
       "date": "2026-10-23",
       "url": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "This week in charts: a big year for RNAi developers",
-      "summary": "The latest installment in BioPharma Dive&rsquo;s data visualization series features a look at the emerging popularity of RNAi developers, and the funding that came with it.",
+      "title": "本週圖表：RNAi 開發者的重要一年",
+      "summary": "BioPharma Dive 資料視覺化系列的最新一期重點介紹了 RNAi 開發人員的新興流行以及隨之而來的資金。",
       "source": "BioPharma Dive",
       "date": "2026-10-23",
       "url": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
       "lang": "zh-TW"
     },
     {
-      "title": "Protein degrader specialist Lycia prices $318M 首次公開上市（IPO）",
-      "summary": "Funds from the upsized offering will support a trio of protein-degrading medicines in development for allergic conditions as well as the autoimmune disorder Graves&rsquo; disease.",
+      "title": "蛋白質降解專家 Lycia 定價 3.18 億美元 首次公開上市（IPO）",
+      "summary": "此次擴大發行的資金將用於支持三種用於治療過敏性疾病和自體免疫疾病格雷夫斯病的蛋白質降解藥物的開發。",
       "source": "BioPharma Dive",
       "date": "2026-10-22",
       "url": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
       "lang": "zh-TW"
     },
     {
-      "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
-      "summary": "Hibsago is viewed as a potential &ldquo;functional cure&rdquo; for chronic infections and an important part of the British drugmaker&rsquo;s goal of reaching &pound;40 billion in annual revenue by 2031.",
+      "title": "GSK 和 Ionis 首個乙型肝炎藥物獲得美國批准",
+      "summary": "Hibsago 被視為慢性感染的潛在“功能性療法”，也是這家英國製藥商到 2031 年年收入達到 400 億英鎊的目標的重要組成部分。",
       "source": "BioPharma Dive",
       "date": "2026-10-21",
       "url": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
       "lang": "zh-TW"
     },
     {
-      "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
-      "summary": "New follow-up results suggest Arcus&rsquo; drug might be superior to a marketed Merck medicine. Elsewhere, Eli Lilly and AstraZeneca forged new partnerships.",
+      "title": "Arcus 腎癌數據讓分析師印象深刻； TriGemX 簽署 SPAC 協議",
+      "summary": "新的後續結果顯示 Arcus 的藥物可能優於市售的默克藥物。在其他地方，禮來公司和阿斯特捷利康建立了新的合作關係。",
       "source": "BioPharma Dive",
       "date": "2026-10-21",
       "url": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
       "lang": "zh-TW"
     },
     {
-      "title": "These 18 french biotech startups could shape tomorrow’s medicine",
-      "summary": "hape tomorrow’s medicine Labiotech.eu",
+      "title": "這 18 家法國生物技術新創公司可能會塑造明天的醫學",
+      "summary": "希望明天的醫學 Labiotech.eu",
       "source": "Labiotech.eu",
       "date": "2026-10-13",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
