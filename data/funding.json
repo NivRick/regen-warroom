@@ -1,29 +1,21 @@
 {
   "module": "funding",
-  "updated": "2026-10-26T00:51:50.158868+00:00",
+  "updated": "2026-10-26T17:08:21.002402+00:00",
   "items": [
     {
-      "title": "STAT+：患者在百時美施貴寶自體免疫 CAR-T細胞療法 試驗死亡",
-      "summary": "調查 CAR-T細胞療法 療法治療自體免疫疾病的研究的安全門檻應該在哪裡？",
+      "title": "STAT+: 藥業小新聞：我們正在關注羅氏的肺癌藥物、百時美施貴寶的CAR-T試驗死亡事件等",
+      "summary": "百時美施貴寶（Bristol Myers Squibb）報告，一名病患在早期自體免疫疾病的臨床試驗中，接受其仍在",
       "source": "STAT News",
-      "date": "2026-10-23",
-      "url": "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/?utm_campaign=rss",
+      "date": "2026-10-26",
+      "url": "https://www.statnews.com/pharmalot/2026/10/26/roche-lung-cancer-drug-patient-death-in-bristol-trial/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：財政部提議對美國對中國生物技術產業的投資進行重大限制",
-      "summary": "財政部的一項新提案將限制美國對中國生物技術的投資，但仍允許許可交易。",
-      "source": "STAT News",
-      "date": "2026-10-23",
-      "url": "https://www.statnews.com/2026/10/23/new-china-biotech-limits-coins-act-proposal-us-pharma-reaction/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：人工智慧製藥公司 Pathos 融資 2.37 億美元，估值升至 30 億美元",
-      "summary": "AI 製藥公司 Pathos 籌集了 2.37 億美元，這筆交易匯集了大型 Tempus 數據集、Pathos 的人工智慧分析以及 BMS 的藥物開發。",
-      "source": "STAT News",
-      "date": "2026-10-23",
-      "url": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss",
+      "title": "又一例自體免疫 CAR-T細胞療法 死亡；財政部重點關注中國交易",
+      "summary": "一名接受百時美施貴寶 zola-cel 治療的患者 44 天後死亡。在其他地方，吉利德公司為強生新批准的牛皮癬藥物的潛在威脅支付了近 13 億美元。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-26",
+      "url": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
       "lang": "zh-TW"
     },
     {
@@ -43,19 +35,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "GSK 和 Ionis 首個乙型肝炎藥物獲得美國批准",
-      "summary": "Hibsago 被視為慢性感染的潛在“功能性療法”，也是這家英國製藥商到 2031 年年收入達到 400 億英鎊的目標的重要組成部分。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-21",
-      "url": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Arcus 腎癌數據讓分析師印象深刻； TriGemX 簽署 SPAC 協議",
-      "summary": "新的後續結果顯示 Arcus 的藥物可能優於市售的默克藥物。在其他地方，禮來公司和阿斯特捷利康建立了新的合作關係。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-21",
-      "url": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
+      "title": "Fierce Biotech Fundraising Tracker '26: Nouscom nabs $135M series D; Estuary channels $93M A輪融資",
+      "summary": "Nouscom 獲得 1.35 億美元 D 輪融資； Estuary 通路融資 9,300 萬美元 A 系列 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -64,6 +48,14 @@
       "source": "Labiotech.eu",
       "date": "2026-10-13",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "專注於帕金森氏症的 Aspen 和雙特異性生物技術 Bambusa 計劃首次公開募股",
+      "summary": "生物技術 Bambusa 計劃首次公開發行 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFVvbkNxMkU0NzhNeC04eFBEekV5Q1RzQXdsSFJCVmNFWklrdHV4YUJQbjY3Rkh3X2hQUDB4ZW1ZYkV4blZzakpWaTQzUHJDNmtpbGc3LWE4bm42RU43ZURvcjVNMV8tNXpWSnlaSXlWd1pfNVhhR3IyWUtDSEU2eTN3eDd1RkJtTVE0dzFNNGpfX2tRSVo3T3YwQjV3bGFRWXJF?oc=5",
       "lang": "zh-TW"
     }
   ]
