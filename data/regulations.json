@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-10-26T17:07:52.464589+00:00",
+  "updated": "2026-10-27T01:42:43.911373+00:00",
   "items": [
     {
-      "title": "美國食品藥物管理局（FDA）圓桌會議：強化血液製品供應鏈",
-      "summary": "美國食品藥物管理局（FDA）的生物製劑評估與研究中心（CBER）血液研究與審查辦公室，將於2026年9月29日舉辦一場活動。",
+      "title": "美國食藥署圓桌會議：強化血液製品供應鏈",
+      "summary": "美國食藥署（FDA）生物製品評估與研究中心（CBER）血液研究與審查辦公室，將於2026年9月29日舉辦一場會議。",
       "source": "09/29/2026",
       "date": "2026-10-26",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
@@ -12,15 +12,15 @@
     },
     {
       "title": "最新發布的生物製劑指導文件",
-      "summary": "本頁面列出了生物製劑評估與研究中心（CBER）及跨中心最新發布的指導文件。",
+      "summary": "本頁面列出了美國食藥署（FDA）生物製品評估與研究中心（CBER）及跨中心最新發布的指導文件。",
       "source": "FDA Biologics",
       "date": "2026-10-23",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
       "lang": "zh-TW"
     },
     {
-      "title": "無線供電電子植入物 ECHO 可實現「糖尿病」的無藥物管理",
-      "summary": "研究人員開發了一種植入式無線供電電子設備 ECHO，它利用電催化作用按需去除血液中多餘的葡萄糖，並可以提供一種無需藥物的方法來控制肥胖和 2 型糖尿病 (T2D)。",
+      "title": "無線供電電子植入物ECHO，實現「糖胖症」免藥物管理",
+      "summary": "研究人員開發出一款可植入、無線供電的電子裝置ECHO，它利用電催化技術，能從血液中移除過多的葡萄糖。",
       "source": "GEN News",
       "date": "2026-10-23",
       "url": "https://www.genengnews.com/topics/translational-medicine/wirelessly-powered-electronic-implant-echo-enables-drug-free-management-of-diabesity/",
@@ -28,7 +28,7 @@
     },
     {
       "title": "2026年生物製劑許可申請核准清單",
-      "summary": "這份清單彙整了2026年獲得核准的生物製劑許可申請，是生醫產業的重要參考。",
+      "summary": "本頁面彙整了美國食藥署（FDA）在2026年核准上市的各項生物製劑產品，供業界參考。",
       "source": "FDA Biologics",
       "date": "2026-10-22",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/2026-biological-license-application-approvals",
@@ -36,18 +36,10 @@
     },
     {
       "title": "生物製劑最新動態",
-      "summary": "這是生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "summary": "美國食藥署（FDA）生物製品評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-10-21",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "翰森製藥的泰格莎（Tagrisso）競爭藥物，在阿斯特捷利康（AstraZeneca）提出法律挑戰後，失去歐盟核准",
-      "summary": "在阿斯特捷利康（AstraZeneca）提出法律挑戰後，翰",
-      "source": "Fierce Pharma",
-      "date": "2026-09-30",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
       "lang": "zh-TW"
     }
   ]

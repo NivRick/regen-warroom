@@ -1,13 +1,29 @@
 {
   "module": "funding",
-  "updated": "2026-10-26T17:08:21.002402+00:00",
+  "updated": "2026-10-27T01:43:12.172828+00:00",
   "items": [
     {
-      "title": "STAT+: 藥業小新聞：我們正在關注羅氏的肺癌藥物、百時美施貴寶的CAR-T試驗死亡事件等",
-      "summary": "百時美施貴寶（Bristol Myers Squibb）報告，一名病患在早期自體免疫疾病的臨床試驗中，接受其仍在",
+      "title": "STAT+：非營利組織 Bon Secours Mercy Health 達成 57 億美元的連鎖手術中心交易",
+      "summary": "這筆交易將使天主教系統成為最大的門診手術中心營運商之一。",
+      "source": "STAT News",
+      "date": "2026-10-26",
+      "url": "https://www.statnews.com/2026/10/26/bon-secours-mercy-health-surgery-partners-deal-ambulatory-surgery-centers-bain-capital/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關羅氏肺癌藥物、布里斯托爾 CAR-T細胞療法 試驗死亡等等的信息",
+      "summary": "百時美施貴寶報告稱，一名患者在一項早期自體免疫試驗中接受研究性 CAR-T細胞療法 療法後死亡",
       "source": "STAT News",
       "date": "2026-10-26",
       "url": "https://www.statnews.com/pharmalot/2026/10/26/roche-lung-cancer-drug-patient-death-in-bristol-trial/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "肥胖製藥商 Corxel 將透過 SPAC 交易上市",
+      "summary": "憑藉 3 億美元的融資和兩種 GLP-1 和胰淀素標靶藥物，Corxel 將成為最新進入公開市場的專注於減肥的公司。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-26",
+      "url": "https://www.biopharmadive.com/news/corxel-pharmaceuticals-spac-public-obesity-drugs/872772/",
       "lang": "zh-TW"
     },
     {
@@ -35,7 +51,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech Fundraising Tracker '26: Nouscom nabs $135M series D; Estuary channels $93M A輪融資",
+      "title": "Fierce Biotech 籌款追蹤 '26：Nouscom 獲得 1.35 億美元的 D 輪融資；河口通路 9,300 萬美元 A 輪融資",
       "summary": "Nouscom 獲得 1.35 億美元 D 輪融資； Estuary 通路融資 9,300 萬美元 A 系列 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-10-16",
