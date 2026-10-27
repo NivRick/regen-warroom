@@ -1,45 +1,61 @@
 {
   "module": "regulation",
-  "updated": "2026-10-27T01:42:43.911373+00:00",
+  "updated": "2026-10-27T16:09:41.165102+00:00",
   "items": [
     {
-      "title": "美國食藥署圓桌會議：強化血液製品供應鏈",
-      "summary": "美國食藥署（FDA）生物製品評估與研究中心（CBER）血液研究與審查辦公室，將於2026年9月29日舉辦一場會議。",
+      "title": "細胞與基因療法指引",
+      "summary": "這個頁面列出了所有關於細胞與基因療法的相關指引文件。",
+      "source": "FDA Biologics",
+      "date": "2026-10-27",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "最新發布的生物製劑指引文件",
+      "summary": "這個頁面彙整了美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER",
+      "source": "FDA Biologics",
+      "date": "2026-10-27",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "個人化人類基因組編輯產品：BLA 提交和批准後管理的注意事項",
+      "summary": "這是行業指南草案，ucts：BLA 提交和批准後管理的注意事項",
+      "source": "FDA Biologics",
+      "date": "2026-10-27",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/individualized-human-genome-editing-products-considerations-bla-submission-and-postapproval",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "ASHG：Nabsys 將細胞遺傳學和基因組學連結起來繪製血液癌症圖譜",
+      "summary": "血癌帶有複雜的基因組重排，沒有任何一種分析方法可以完全捕捉這些重排。在蒙特利爾舉行的 ASHG 2026 上，Nabsys 展示了將其電子基因組作圖技術與現有細胞遺傳學方法進行比較的早期數據，並預覽了新的方法",
+      "source": "GEN News",
+      "date": "2026-10-27",
+      "url": "https://www.genengnews.com/topics/omics/ashg-nabsys-links-cytogenetics-and-genomics-to-map-hematologic-cancers/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 圓桌會議：加強血液製造的供應鏈",
+      "summary": "2026 年 9 月 29 日，美國食品藥物管理局生物製品評估與研究中心血液研究與審查辦公室將舉辦圓桌會議，討論加強全血採集和製造的供應鏈",
       "source": "09/29/2026",
       "date": "2026-10-26",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
       "lang": "zh-TW"
     },
     {
-      "title": "最新發布的生物製劑指導文件",
-      "summary": "本頁面列出了美國食藥署（FDA）生物製品評估與研究中心（CBER）及跨中心最新發布的指導文件。",
-      "source": "FDA Biologics",
-      "date": "2026-10-23",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "無線供電電子植入物ECHO，實現「糖胖症」免藥物管理",
-      "summary": "研究人員開發出一款可植入、無線供電的電子裝置ECHO，它利用電催化技術，能從血液中移除過多的葡萄糖。",
+      "title": "無線供電電子植入物 ECHO 可實現「糖尿病」的無藥物管理",
+      "summary": "研究人員開發了一種植入式無線供電電子設備 ECHO，它利用電催化作用按需去除血液中多餘的葡萄糖，並可以提供一種無需藥物的方法來控制肥胖和 2 型糖尿病 (T2D)。",
       "source": "GEN News",
       "date": "2026-10-23",
       "url": "https://www.genengnews.com/topics/translational-medicine/wirelessly-powered-electronic-implant-echo-enables-drug-free-management-of-diabesity/",
       "lang": "zh-TW"
     },
     {
-      "title": "2026年生物製劑許可申請核准清單",
-      "summary": "本頁面彙整了美國食藥署（FDA）在2026年核准上市的各項生物製劑產品，供業界參考。",
+      "title": "2026年生物許可證申請核准",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-10-22",
       "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/2026-biological-license-application-approvals",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製劑最新動態",
-      "summary": "美國食藥署（FDA）生物製品評估與研究中心（CBER）發布的最新消息。",
-      "source": "FDA Biologics",
-      "date": "2026-10-21",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     }
   ]
