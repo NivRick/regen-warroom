@@ -1,34 +1,42 @@
 {
   "module": "regulation",
-  "updated": "2026-10-28T01:56:34.502954+00:00",
+  "updated": "2026-10-28T16:56:13.613604+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "微生物暗物質可以使抗生素復活",
+      "summary": "大多數微生物仍然遙不可及，許多產生抗生素的基因保持沉默。一項新的評論認為，結合基因組學、創新培養和可擴展製造可以將這種隱藏的化學物質轉化為急需的新型抗生素",
+      "source": "GEN News",
+      "date": "2026-10-28",
+      "url": "https://www.genengnews.com/topics/bioprocessing/microbial-dark-matter-could-revive-antibiotics/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑最新動態",
+      "summary": "美國食藥署生物製劑評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞和基因治療指南",
-      "summary": "此頁麵包含細胞和基因治療指南的清單。",
+      "title": "細胞與基因療法相關指引",
+      "summary": "本頁面列出了細胞與基因療法相關的指引文件。",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
       "lang": "zh-TW"
     },
     {
-      "title": "最近發布的生物製品指導文件",
-      "summary": "本頁列出了最近發布的 CBER 和跨中心指導文件。",
+      "title": "最新發布的生物製劑指引文件",
+      "summary": "本頁面列出了美國食藥署生物製劑評估與研究中心（CBER）及跨中心最新發布的指引文件。",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化人類基因組編輯產品：BLA 提交和批准後管理的注意事項",
-      "summary": "這是行業指南草案，ucts：BLA 提交和批准後管理的注意事項",
+      "title": "個體化人類基因編輯產品：生物製劑許可申請（BLA）提交與核准後管理考量",
+      "summary": "這是針對產業發布的草案指引，內容關於個體化人類基因編輯產品的生物製劑許可申請（BLA）提交與核准後",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/individualized-human-genome-editing-products-considerations-bla-submission-and-postapproval",
@@ -48,14 +56,6 @@
       "source": "09/29/2026",
       "date": "2026-10-26",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "2026年生物許可證申請核准",
-      "summary": "",
-      "source": "FDA Biologics",
-      "date": "2026-10-22",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/2026-biological-license-application-approvals",
       "lang": "zh-TW"
     }
   ]
