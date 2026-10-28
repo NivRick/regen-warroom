@@ -1,7 +1,15 @@
 {
   "module": "funding",
-  "updated": "2026-10-27T16:10:19.899055+00:00",
+  "updated": "2026-10-28T01:57:07.598530+00:00",
   "items": [
+    {
+      "title": "STAT+：在自體免疫細胞治療試驗中出現兩人死亡後，Artiva 即將關閉",
+      "summary": "最近的死亡事件挫傷了製藥公司將癌症治療策略應用於自體免疫疾病的興趣。",
+      "source": "STAT News",
+      "date": "2026-10-27",
+      "url": "https://www.statnews.com/2026/10/27/autoimmune-cell-therapy-trial-artiva-therapeutics-shutting-down/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：RFK Jr. 在愛荷華州破產",
       "summary": "甘迺迪正在競選 MAHA，美國投資中國生物技術的新規則即將出台。",
@@ -12,7 +20,7 @@
     },
     {
       "title": "STAT+：非營利組織在新創公司關閉後恢復擱置的基因治療",
-      "summary": "去年，英國基因治療新創公司 Bloomsbury Genetic Therapies 宣佈在僅對一名患者進行給藥後關閉。現在，一個非營利組織正在恢復其主導項目：",
+      "summary": "去年，英國基因治療新創公司 Bloomsbury Genetic Therapies 宣佈在僅對一名患者進行給藥後關閉。現在，一個非營利組織正在恢復其主導計畫：",
       "source": "STAT News",
       "date": "2026-10-27",
       "url": "https://www.statnews.com/2026/10/27/biotech-news-nonprofit-resurrects-shelved-gene-therapy/?utm_campaign=rss",
@@ -27,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Nonprofit Bon Secours Mercy Health strikes $5.7 billion deal for surgery center chain",
+      "title": "STAT+：非營利組織 Bon Secours Mercy Health 達成 57 億美元的連鎖手術中心交易",
       "summary": "這筆交易將使天主教系統成為最大的門診手術中心營運商之一。",
       "source": "STAT News",
       "date": "2026-10-26",
@@ -64,22 +72,6 @@
       "source": "BioPharma Dive",
       "date": "2026-10-23",
       "url": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "蛋白質降解新藥公司 Lycia 首次公開募股（IPO）募資 3.18 億美元",
-      "summary": "這次擴大發行的資金，將用於支持三款開發中的蛋白質降解新藥，主要針對過敏性疾病和自體免疫疾病。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-22",
-      "url": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "這 18 家法國生技新創公司，有望引領未來醫學發展",
-      "summary": "這 18 家法國生技新創公司，正積極投入創新研發，有望為未來的醫療帶來革命性突破。",
-      "source": "Labiotech.eu",
-      "date": "2026-10-13",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
       "lang": "zh-TW"
     }
   ]

@@ -1,18 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-10-27T16:09:41.165102+00:00",
+  "updated": "2026-10-28T01:56:34.502954+00:00",
   "items": [
     {
-      "title": "細胞與基因療法指引",
-      "summary": "這個頁面列出了所有關於細胞與基因療法的相關指引文件。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-10-27",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "細胞和基因治療指南",
+      "summary": "此頁麵包含細胞和基因治療指南的清單。",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
       "lang": "zh-TW"
     },
     {
-      "title": "最新發布的生物製劑指引文件",
-      "summary": "這個頁面彙整了美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER",
+      "title": "最近發布的生物製品指導文件",
+      "summary": "本頁列出了最近發布的 CBER 和跨中心指導文件。",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
@@ -40,14 +48,6 @@
       "source": "09/29/2026",
       "date": "2026-10-26",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "無線供電電子植入物 ECHO 可實現「糖尿病」的無藥物管理",
-      "summary": "研究人員開發了一種植入式無線供電電子設備 ECHO，它利用電催化作用按需去除血液中多餘的葡萄糖，並可以提供一種無需藥物的方法來控制肥胖和 2 型糖尿病 (T2D)。",
-      "source": "GEN News",
-      "date": "2026-10-23",
-      "url": "https://www.genengnews.com/topics/translational-medicine/wirelessly-powered-electronic-implant-echo-enables-drug-free-management-of-diabesity/",
       "lang": "zh-TW"
     },
     {
