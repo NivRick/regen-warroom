@@ -1,37 +1,29 @@
 {
   "module": "funding",
-  "updated": "2026-10-29T02:02:48.845642+00:00",
+  "updated": "2026-10-29T17:15:17.315234+00:00",
   "items": [
+    {
+      "title": "生技製藥業對財政部新對中規定影響意見分歧",
+      "summary": "一項針對常見生技製藥交易類型的豁免條款，成為各界對這項提案爭議的核心。",
+      "source": "STAT News",
+      "date": "2026-10-29",
+      "url": "https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "癌症新藥關鍵試驗告捷，Genmab股價飆上",
+      "summary": "",
+      "source": "BioPharma Dive",
+      "date": "2026-10-29",
+      "url": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
+      "lang": "zh-TW"
+    },
     {
       "title": "禮來公司重組業務結構；諾華公司註銷了 Avidity 交易的部分內容",
       "summary": "禮來公司打算在高階主管退休後合併其美國和國際部門。在其他方面，安斯泰來接近實現其認為的「同類最佳」癌症免疫治療前景。",
       "source": "BioPharma Dive",
       "date": "2026-10-28",
       "url": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: 自體免疫細胞療法試驗傳兩死，Artiva宣布關閉",
-      "summary": "近期死亡案例對藥廠將癌症療法策略應用於自體免疫疾病的興趣造成打擊。",
-      "source": "STAT News",
-      "date": "2026-10-27",
-      "url": "https://www.statnews.com/2026/10/27/autoimmune-cell-therapy-trial-artiva-therapeutics-shutting-down/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: 小羅伯特·甘迺迪在愛荷華州全力一搏",
-      "summary": "",
-      "source": "STAT News",
-      "date": "2026-10-27",
-      "url": "https://www.statnews.com/2026/10/27/rfk-jr-campaigns-zach-lahn-iowa-coins-binsa-china-biotech-rules/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：非營利組織在新創公司關閉後恢復擱置的基因治療",
-      "summary": "去年，英國基因治療新創公司 Bloomsbury Genetic Therapies 宣佈在僅對一名患者進行給藥後關閉。現在，一個非營利組織正在恢復其主導項目：",
-      "source": "STAT News",
-      "date": "2026-10-27",
-      "url": "https://www.statnews.com/2026/10/27/biotech-news-nonprofit-resurrects-shelved-gene-therapy/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -51,27 +43,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "又一例自體免疫 CAR-T細胞療法 死亡；財政部重點關注中國交易",
-      "summary": "一名接受百時美施貴寶 zola-cel 治療的患者 44 天後死亡。在其他地方，吉利德公司為強生新批准的牛皮癬藥物的潛在威脅支付了近 13 億美元。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-26",
-      "url": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "These 18 french biotech startups could shape tomorrow’s medicine",
+      "title": "這 18 家法國生物技術新創公司可能會塑造明天的醫學",
       "summary": "希望明天的醫學 Labiotech.eu",
       "source": "Labiotech.eu",
       "date": "2026-10-13",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "專注於帕金森氏症的 Aspen 和雙特異性生物技術 Bambusa 計劃首次公開募股",
-      "summary": "生物技術 Bambusa 計劃首次公開發行 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFVvbkNxMkU0NzhNeC04eFBEekV5Q1RzQXdsSFJCVmNFWklrdHV4YUJQbjY3Rkh3X2hQUDB4ZW1ZYkV4blZzakpWaTQzUHJDNmtpbGc3LWE4bm42RU43ZURvcjVNMV8tNXpWSnlaSXlWd1pfNVhhR3IyWUtDSEU2eTN3eDd1RkJtTVE0dzFNNGpfX2tRSVo3T3YwQjV3bGFRWXJF?oc=5",
       "lang": "zh-TW"
     }
   ]

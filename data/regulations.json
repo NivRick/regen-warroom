@@ -1,61 +1,77 @@
 {
   "module": "regulation",
-  "updated": "2026-10-29T02:02:22.752794+00:00",
+  "updated": "2026-10-29T17:14:59.481114+00:00",
   "items": [
     {
-      "title": "生物相似藥產品訊息",
-      "summary": "此頁麵包含已批准的生物相似藥和可互換產品的圖表。生物相似藥產品的批准可以透過增加藥物選擇的數量並潛在地降低成本來改善患者獲得護理的機會。",
+      "title": "PROCLEIX 西尼羅病毒（WNV）檢測",
+      "summary": "此為產品核准資訊，用於定性檢測個體人類捐贈者血漿檢體中的西尼羅病毒（WNV）RNA。",
+      "source": "FDA Biologics",
+      "date": "2026-10-29",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/procleix-wnv-assay",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑年度核准概況",
+      "summary": "本頁彙整了依年份及主管機關分類的生物製劑核准資訊。",
+      "source": "FDA Biologics",
+      "date": "2026-10-29",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/biological-approvals-year",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物相似藥產品資訊",
+      "summary": "本頁提供已核准的生物相似藥及可互換產品圖表。生物相似藥的核准有助於提升醫療可近性。",
       "source": "FDA Biologics",
       "date": "2026-10-28",
       "url": "http://www.fda.gov/drugs/biosimilars/biosimilar-product-information",
       "lang": "zh-TW"
     },
     {
-      "title": "微生物暗物質可以使抗生素復活",
-      "summary": "大多数微生物仍然遥不可及，许多产生抗生素的基因保持沉默。一項新的評論認為，結合基因組學、創新培養和可擴展製造可以將這種隱藏的化學物質轉化為急需的新型抗生素",
+      "title": "微生物界「暗物質」有望重振抗生素研發",
+      "summary": "透過探索未知的微生物資源，結合基因體學、創新培養與合成生物學，有望開發出新型抗生素，解決日益嚴峻的抗藥性問題。",
       "source": "GEN News",
       "date": "2026-10-28",
       "url": "https://www.genengnews.com/topics/bioprocessing/microbial-dark-matter-could-revive-antibiotics/",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "生物製劑最新動態",
+      "summary": "來自生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞和基因治療指南",
-      "summary": "此頁麵包含細胞和基因治療指南的清單。",
+      "title": "細胞與基因療法指引",
+      "summary": "本頁列出細胞與基因療法的相關指引文件。",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
       "lang": "zh-TW"
     },
     {
-      "title": "最近發布的生物製品指導文件",
-      "summary": "本頁列出了最近發布的 CBER 和跨中心指導文件。",
+      "title": "最新發布的生物製劑指引文件",
+      "summary": "本頁列出生物製劑評估與研究中心（CBER）及跨中心最新發布的指引文件。",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
       "lang": "zh-TW"
     },
     {
-      "title": "個人化人類基因組編輯產品：BLA 提交和批准後管理的注意事項",
-      "summary": "這是行業指南草案，ucts：BLA 提交和批准後管理的注意事項",
+      "title": "個體化人類基因編輯產品：生物製劑許可申請（BLA）提交與核准後管理考量",
+      "summary": "這是一份針對產業的草案指引，內容涵蓋生物製劑許可申請（BLA）提交與核准後管理的考量。",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/individualized-human-genome-editing-products-considerations-bla-submission-and-postapproval",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 圓桌會議：加強血液製造的供應鏈",
-      "summary": "2026 年 9 月 29 日，美國食品藥物管理局生物製品評估與研究中心血液研究與審查辦公室將舉辦圓桌會議，討論加強全血採集和製造的供應鏈",
-      "source": "09/29/2026",
-      "date": "2026-10-26",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
+      "title": "恆瑞醫藥（Hansoh）的泰格莎（Tagrisso）競爭藥，",
+      "summary": "",
+      "source": "Fierce Pharma",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVlONUUtNnNDZHNpZ0xzU216OWRIM1h1TkJNX2hlNkhpUl9CWXdzSkoxSzdGV2pjb1hmU1p2Q0R1QkZ2NTYxV25ORml5bU1TWTdLN1kyZDVWQUQ0LUQwUkhEa19jM290UGg0QlktYU9SUXgwVFhnWDJRN1pMR1Z1THhYRVdCZVVLcTBBWEtyZXdzOUJJUld5RDFGRUU5bU1VdEt5a1RJanBWSmpua2c?oc=5",
       "lang": "zh-TW"
     }
   ]
