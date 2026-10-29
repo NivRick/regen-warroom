@@ -1,53 +1,53 @@
 {
   "module": "regulation",
-  "updated": "2026-10-28T16:56:13.613604+00:00",
+  "updated": "2026-10-29T02:02:22.752794+00:00",
   "items": [
     {
+      "title": "生物相似藥產品訊息",
+      "summary": "此頁麵包含已批准的生物相似藥和可互換產品的圖表。生物相似藥產品的批准可以透過增加藥物選擇的數量並潛在地降低成本來改善患者獲得護理的機會。",
+      "source": "FDA Biologics",
+      "date": "2026-10-28",
+      "url": "http://www.fda.gov/drugs/biosimilars/biosimilar-product-information",
+      "lang": "zh-TW"
+    },
+    {
       "title": "微生物暗物質可以使抗生素復活",
-      "summary": "大多數微生物仍然遙不可及，許多產生抗生素的基因保持沉默。一項新的評論認為，結合基因組學、創新培養和可擴展製造可以將這種隱藏的化學物質轉化為急需的新型抗生素",
+      "summary": "大多数微生物仍然遥不可及，许多产生抗生素的基因保持沉默。一項新的評論認為，結合基因組學、創新培養和可擴展製造可以將這種隱藏的化學物質轉化為急需的新型抗生素",
       "source": "GEN News",
       "date": "2026-10-28",
       "url": "https://www.genengnews.com/topics/bioprocessing/microbial-dark-matter-could-revive-antibiotics/",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食藥署生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞與基因療法相關指引",
-      "summary": "本頁面列出了細胞與基因療法相關的指引文件。",
+      "title": "細胞和基因治療指南",
+      "summary": "此頁麵包含細胞和基因治療指南的清單。",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
       "lang": "zh-TW"
     },
     {
-      "title": "最新發布的生物製劑指引文件",
-      "summary": "本頁面列出了美國食藥署生物製劑評估與研究中心（CBER）及跨中心最新發布的指引文件。",
+      "title": "最近發布的生物製品指導文件",
+      "summary": "本頁列出了最近發布的 CBER 和跨中心指導文件。",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
       "lang": "zh-TW"
     },
     {
-      "title": "個體化人類基因編輯產品：生物製劑許可申請（BLA）提交與核准後管理考量",
-      "summary": "這是針對產業發布的草案指引，內容關於個體化人類基因編輯產品的生物製劑許可申請（BLA）提交與核准後",
+      "title": "個人化人類基因組編輯產品：BLA 提交和批准後管理的注意事項",
+      "summary": "這是行業指南草案，ucts：BLA 提交和批准後管理的注意事項",
       "source": "FDA Biologics",
       "date": "2026-10-27",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/individualized-human-genome-editing-products-considerations-bla-submission-and-postapproval",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "ASHG：Nabsys 將細胞遺傳學和基因組學連結起來繪製血液癌症圖譜",
-      "summary": "血癌帶有複雜的基因組重排，沒有任何一種分析方法可以完全捕捉這些重排。在蒙特利爾舉行的 ASHG 2026 上，Nabsys 展示了將其電子基因組作圖技術與現有細胞遺傳學方法進行比較的早期數據，並預覽了新的方法",
-      "source": "GEN News",
-      "date": "2026-10-27",
-      "url": "https://www.genengnews.com/topics/omics/ashg-nabsys-links-cytogenetics-and-genomics-to-map-hematologic-cancers/",
       "lang": "zh-TW"
     },
     {
