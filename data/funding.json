@@ -1,37 +1,45 @@
 {
   "module": "funding",
-  "updated": "2026-10-30T02:18:02.532931+00:00",
+  "updated": "2026-10-30T16:55:45.101152+00:00",
   "items": [
     {
-      "title": "生技製藥業對財政部新中國規定影響看法兩極",
-      "summary": "一項針對常見生技製藥交易類型的豁免，是這項新規定爭議的核心。",
+      "title": "STAT+：藥廠快訊：阿斯特捷利康啟動成本削減，太陽藥廠面臨設施問題",
+      "summary": "阿斯特捷利康啟動一項為期三年的成本削減計畫，目標每年省下15億美元，這些資金將再投入研發（R&D）。",
       "source": "STAT News",
-      "date": "2026-10-29",
-      "url": "https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/?utm_campaign=rss",
+      "date": "2026-10-30",
+      "url": "https://www.statnews.com/pharmalot/2026/10/30/astrazeneca-cost-cutting-sun-pharma-facility-problems/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Genmab抗癌藥物關鍵試驗告捷，股價飆上歷史新高",
-      "summary": "",
+      "title": "Actio 背後的團隊透過 Setara 開啟了第二幕",
+      "summary": "這家羽翼未豐的新創公司擁有 9000 萬美元的資金來開發一系列藥物，其中以一種腓骨肌萎縮症藥物為主導，當 Jazz Pharmauticals 收購其領先的癲癇項目時，Actio 正在開發該藥物。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-30",
+      "url": "https://www.biopharmadive.com/news/setara-actio-charcot-marie-tooth-ion-channel-drugs/873227/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Aspen 首次公開募股籌集 1.41 億美元，尋求帕金森氏症的細胞療法",
+      "summary": "這家聖地牙哥生技新創公司是致力於研究有可能減緩甚至阻止神經退化性疾病的尖端技術的幾家公司之一。",
+      "source": "BioPharma Dive",
+      "date": "2026-10-29",
+      "url": "https://www.biopharmadive.com/news/aspen-neuroscience-parkinsons-ipo-pricing/873050/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "癌症藥物在關鍵試驗中取得成功後 Genmab 飆升至歷史新高",
+      "summary": "該製藥商的市值膨脹了超過 70 億美元，因為研究結果表明最近獲得的一種藥物可能成為一種頭頸癌的新治療標準。",
       "source": "BioPharma Dive",
       "date": "2026-10-29",
       "url": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
       "lang": "zh-TW"
     },
     {
-      "title": "禮來公司重組業務結構；諾華公司註銷了 Avidity 交易的部分內容",
-      "summary": "禮來公司打算在高階主管退休後合併其美國和國際部門。在其他方面，安斯泰來接近實現其認為的「同類最佳」癌症免疫治療前景。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-28",
-      "url": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Artiva to quit autoimmune 細胞治療 work, cut staff after patient deaths",
-      "summary": "這項披露使 Artiva 成為繼諾華和百時美施貴寶之後最近報告自身免疫細胞治療試驗中致命事件的第三家公司。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-27",
-      "url": "https://www.biopharmadive.com/news/artiva-discontinue-nk-cell-therapy-autoimmune-patient-death/872873/",
+      "title": "這 18 家法國生物技術新創公司可能會塑造明天的醫學",
+      "summary": "希望明天的醫學 Labiotech.eu",
+      "source": "Labiotech.eu",
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
       "lang": "zh-TW"
     }
   ]
