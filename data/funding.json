@@ -1,17 +1,17 @@
 {
   "module": "funding",
-  "updated": "2026-10-29T17:15:17.315234+00:00",
+  "updated": "2026-10-30T02:18:02.532931+00:00",
   "items": [
     {
-      "title": "生技製藥業對財政部新對中規定影響意見分歧",
-      "summary": "一項針對常見生技製藥交易類型的豁免條款，成為各界對這項提案爭議的核心。",
+      "title": "生技製藥業對財政部新中國規定影響看法兩極",
+      "summary": "一項針對常見生技製藥交易類型的豁免，是這項新規定爭議的核心。",
       "source": "STAT News",
       "date": "2026-10-29",
       "url": "https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "癌症新藥關鍵試驗告捷，Genmab股價飆上",
+      "title": "Genmab抗癌藥物關鍵試驗告捷，股價飆上歷史新高",
       "summary": "",
       "source": "BioPharma Dive",
       "date": "2026-10-29",
@@ -27,27 +27,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Artiva 因患者死亡而退出自體免疫細胞治療工作並裁員",
+      "title": "Artiva to quit autoimmune 細胞治療 work, cut staff after patient deaths",
       "summary": "這項披露使 Artiva 成為繼諾華和百時美施貴寶之後最近報告自身免疫細胞治療試驗中致命事件的第三家公司。",
       "source": "BioPharma Dive",
       "date": "2026-10-27",
       "url": "https://www.biopharmadive.com/news/artiva-discontinue-nk-cell-therapy-autoimmune-patient-death/872873/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "肥胖製藥商 Corxel 將透過 SPAC 交易上市",
-      "summary": "憑藉 3 億美元的融資和兩種 GLP-1 和胰淀素標靶藥物，Corxel 將成為最新進入公開市場的專注於減肥的公司。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-26",
-      "url": "https://www.biopharmadive.com/news/corxel-pharmaceuticals-spac-public-obesity-drugs/872772/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "這 18 家法國生物技術新創公司可能會塑造明天的醫學",
-      "summary": "希望明天的醫學 Labiotech.eu",
-      "source": "Labiotech.eu",
-      "date": "2026-10-13",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
       "lang": "zh-TW"
     }
   ]
