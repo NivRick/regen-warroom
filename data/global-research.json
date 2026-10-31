@@ -1,42 +1,42 @@
 {
   "module": "research",
-  "updated": "2026-10-31T01:58:16.609675+00:00",
+  "updated": "2026-10-31T15:57:06.977544+00:00",
   "items": [
     {
       "title": "功能化電紡奈米纖維在生醫與治療應用上的最新進展：一篇全面性回顧",
-      "summary": "電紡奈米纖維（ESNFs）因其可適應的結構、廣泛的介面和獨特的特性，已成為現代研究的重點。",
+      "summary": "電紡奈米纖維（ESNFs）因其可調控的結構、廣大的表面積和獨特的特性，已成為現代研究的重點。",
       "source": "PubMed",
       "date": "2026-10-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42960302/",
       "lang": "zh-TW"
     },
     {
-      "title": "多細胞介面的空間機械預處理驅動細胞骨架到細胞核的重塑，以提升幹細胞的治療效果",
-      "summary": "透過生物物理線索（而非可溶性生化因子）來工程化多細胞結構，是提升幹細胞治療效果的一個很有潛力的策略。",
+      "title": "多",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-10-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42960265/",
       "lang": "zh-TW"
     },
     {
-      "title": "磁性奈米粒子在幾丁聚醣-明膠水凝膠中的空間組織，能在動態刺激下增強磁驅動與細胞反應",
-      "summary": "磁響應水凝膠已成為很有潛力的平台，能透過動態機械刺激遠端調控HFF-1纖維母細胞的行為。",
+      "title": "殼聚醣明膠水凝膠中磁性奈米顆粒的空間組織能夠增強動態刺激下的磁驅動和細胞反應。",
+      "summary": "磁響應水凝膠已成為透過動態機械刺激遠端調節 HFF-1 成纖維細胞行為的有前景的平台；然而，磁性奈米顆粒空間組織對磁驅動和細胞反應的影響仍未被探索。在此，我們...",
       "source": "PubMed",
       "date": "2026-10-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42959458/",
       "lang": "zh-TW"
     },
     {
-      "title": "放射性骨壞死（ORN）的微環境癒合障礙與再生介入的機會",
-      "summary": "放射性骨壞死（ORN）是頭頸癌（HNC）放射治療（RT）後一種使人衰弱的併發症，其特徵是持續的骨骼暴露或壞死。",
+      "title": "放射性骨壞死癒合的微環境障礙和再生幹預的機會。",
+      "summary": "放射性骨壞死 (ORN) 是頭頸癌 (HNC) 放射治療 (RT) 的一種使人衰弱的後遺症，其特徵是持續的骨暴露或放射線照相無活力和嚴重的組織修復失敗。儘管放射治療和臨床管理取得了進步，ORN 仍然面臨挑戰...",
       "source": "PubMed",
       "date": "2026-10-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42910095/",
       "lang": "zh-TW"
     },
     {
-      "title": "DNA吸附奈米酶水凝膠重塑免疫氧化微環境，以支持骨關節炎中的幹細胞軟骨修復",
-      "summary": "骨關節炎（OA）是一種常見的退化性關節疾病，而幹細胞治療常受限於惡劣的關節微環境。",
+      "title": "DNA 吸附奈米酶水凝膠重新編程免疫氧化微環境，支持骨關節炎中基於幹細胞的軟骨修復。",
+      "summary": "骨關節炎（OA）是一種常見的退化性關節疾病，幹細胞治療常受到不利的關節微環境的限制。過量的活性氧 (ROS) 和損傷相關的遊離 DNA (cfDNA) 協同驅動先天免疫活化、發炎巨噬細胞極化…",
       "source": "PubMed",
       "date": "2026-10-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42899179/",
@@ -68,7 +68,7 @@
     },
     {
       "title": "Silnr1 透過協調 Cohesin SMC1 介導的細胞核重塑，促進多功能幹細胞誘導。",
-      "summary": "將體細胞進行表觀遺傳重編程，使其轉化為多功能幹細胞，提供了一種多功能且符合倫理的方法，能創造出病人專屬的多功能",
+      "summary": "將體細胞進行表觀遺傳重編程，使其轉化為多功能幹細胞，提供了一種多功能且符合倫理的方法，能創造出病患專",
       "source": "PubMed",
       "date": "2026-10-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42832974/",
@@ -131,24 +131,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "少即是多：低強度第一型干擾素訊號能增強嵌合抗原受體T細胞療法（CAR-T）效果。",
-      "summary": "最新研究發現，低強度的第一型干擾素訊號，反而能有效提升嵌合抗原受體T細胞療法（CAR-T）的治療效果",
+      "title": "少即是多：低強度第一型干擾素訊號能強化CAR-T細胞療法",
+      "summary": "最新研究發現，低強度的第一型干擾素訊號，反而能有效提升嵌合抗原受體T細胞療法（CAR-T）的治療效果。",
       "source": "PubMed",
       "date": "2026-10-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42903593/",
       "lang": "zh-TW"
     },
     {
-      "title": "AAV載體介導",
-      "summary": "琥珀半醛脫氫酶（SSADH）缺乏症是一種嚴重的神經代謝紊亂，其特徵是γ-氨基丁酸（GABA）和γ-羥基丁酸（GHB）積累，導致網絡過度興奮、進行性神經膠質病理學和過早死亡。目前，尚無根治性療法...",
+      "title": "AAV",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-10-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42960281/",
       "lang": "zh-TW"
     },
     {
-      "title": "Seeing the invisible: How RNA extraction and library prep shape viral read recovery in RNA-seq.",
-      "summary": "Next-generation sequencing (NGS) is emerging as a powerful tool for detecting adventitious viral agents in biologics, aligning with recommendations from ICH Q5A(R2). However, the performance of RNA-seq-based detection assays is highly dependent on upstream sample preparation steps and data analysis....",
+      "title": "看到不可見的東西：RNA 萃取和文庫製備如何影響 RNA-seq 中的病毒讀取恢復。",
+      "summary": "新一代定序 (NGS) 正成為檢測生物製劑中外來病毒的強大工具，符合 ICH Q5A(R2) 的建議。然而，基於 RNA-seq 的檢測分析的性能高度依賴於上游樣品製備步驟和數據分析...",
       "source": "PubMed",
       "date": "2026-10-31",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42960235/",
@@ -163,7 +163,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1] Fully Human Bispecific Anti-CD20, Anti-CD19 CAR-T細胞療法 Cells for Patients With Relapsed and/or Refractory B Cell Malignancies",
+      "title": "[第一階段] 全人源雙特異性抗 CD20、抗 CD19 CAR-T細胞療法 細胞用於治療復發和/或難治性 B 細胞惡性腫瘤患者",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：威斯康辛醫學院｜這是一項 1 期介入性、單臂、開放標籤治療研究，旨在評估 h20.19 CAR-T細胞療法 細胞在先前治療失敗的 B 細胞惡性腫瘤患者中的安全性。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-10-31",
@@ -181,21 +181,21 @@
     {
       "title": "[第 3 階段] 一項研究，比較 BMS-986353（Zolacabtagene-Autoleucel / Zola-cel）、CD19-CAR-T細胞療法 細胞與活動性系統性硬化症參與者的護理標準的療效和安全性",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Juno Therapeutics, Inc., a Bristol-Myers Squibb Company｜本研究的目的是比較 BMS-986353 與標準護理對活動性系統性硬化症參與者的療效和安全性",
-      "source": "ClinicalTrials.gov｜Spain, Switzerland, Germany",
+      "source": "ClinicalTrials.gov｜Germany, Switzerland, United States",
       "date": "2026-10-31",
       "url": "https://clinicaltrials.gov/study/NCT07335562",
       "lang": "zh-TW"
     },
     {
       "title": "[不適用] 評估接受同種異體幹細胞移植 (SCT) 的成年患者移植相關血栓性微血管病變 (TA-TMA) 的發生率",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Manuel Ricardo Espinoza-Gutarra｜The goal of this observational study is to learn about the incidence of Transplant Associated Thrombotich Microangiopathy (TA-TMA), which is a known but underreported complication of 異體（取自捐贈者） 幹細胞 Transplant (SCT). The main question it aims to",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Manuel Ricardo Espinoza-Gutarra｜這項觀察性研究的目的是了解移植相關血栓性微血管病變（TA-TMA）的發生率，這是同種異體幹細胞移植（SCT）的已知但未充分報告的併發症。它旨在解決的主要問題",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-10-31",
       "url": "https://clinicaltrials.gov/study/NCT07381205",
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1, PHASE2] DLL3 CAR-T細胞療法 Therapy Targeting Brain Tumors",
+      "title": "[第1階段，第2階段]針對腦腫瘤的DLL3 CAR-T療法",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：深圳基因免疫醫學研究院｜本研究的目的是評估 Delta 樣配體 3 (DLL3) 特異性 CAR-T細胞療法 細胞治療 DLL3 陽性腦腫瘤（包括膠質母細胞瘤和瀰漫性腦橋或中線膠質瘤）患者的可行性、安全性和有效性",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-10-31",
@@ -213,7 +213,7 @@
     {
       "title": "[第 2 期] 一項評估早期非小細胞肺癌受試者手術前基於普米米格的治療的安全性和耐受性的研究 (ROSETTA Lung-220)",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：百時美施貴寶｜本研究的目的是評估術前基於 Pumitamig 的治療和其他分子治療可切除的早期非小細胞肺癌的安全性、耐受性和手術可行性",
-      "source": "ClinicalTrials.gov｜Spain, Poland, Australia",
+      "source": "ClinicalTrials.gov｜Romania, Germany, South Korea",
       "date": "2026-10-31",
       "url": "https://clinicaltrials.gov/study/NCT07871214",
       "lang": "zh-TW"
@@ -227,8 +227,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[二期臨床] 氟達拉濱與800 cGy全身放射線照射預處理後，異體幹細胞移植用於骨髓增生不良症候群（MDS）的研究",
-      "summary": "狀態：尚未開始招募｜主辦單位：Ronald Paquette｜這是一項單一中心二期臨床試",
+      "title": "[二期] 異體幹細胞移植治療骨髓增生不良症候群（MDS），前置治療採用氟達拉濱與800 cGy全身放射線照射",
+      "summary": "狀態：尚未招募｜主辦：Ronald Paquette｜這是一項針對預期療效不佳的骨",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-10-31",
       "url": "https://clinicaltrials.gov/study/NCT07896928",
@@ -244,7 +244,7 @@
     },
     {
       "title": "[PHASE1] HS-20093注射液合併治療非小細胞肺癌的I期研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Hansoh BioMedical R&D Company｜This is a multicenter, open-label, 第一期試驗 clinical study to evaluate the efficacy and safety of HS-20093 combination therapy in subjects with advanced or metastatic non-small cell lung cancer without actionable genomic alterations.",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：豪森生物醫學研發公司｜這是一項多中心、開放標籤、1 期臨床研究，旨在評估 HS-20093 聯合療法在無可操作基因組改變的晚期或轉移性非小細胞肺癌受試者中的有效性和安全性。",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-10-31",
       "url": "https://clinicaltrials.gov/study/NCT07899086",
@@ -267,7 +267,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "臨床試驗: New 信使RNA（mRNA） cancer vaccine plus Keytruda sharply improves melanoma survival",
+      "title": "臨床試驗：新型 信使RNA（mRNA） 癌症疫苗合併 Keytruda 顯著提升黑色素瘤存活率",
       "summary": "加 Keytruda 顯著提高黑色素瘤存活率 UCHealth",
       "source": "UCHealth",
       "date": "2026-10-28",
@@ -284,18 +284,18 @@
     },
     {
       "title": "安進將在 2026 年 ACR 大會上展示罕見和其他嚴重自體免疫疾病的新數據",
-      "summary": "D 2026 年 ACR 大會上的其他嚴重自體免疫疾病 安進 (Amgen)",
+      "summary": "D 2026 年 ACR CONVERGENCE 安進大會上的其他嚴重自體免疫疾病",
       "source": "Amgen",
       "date": "2026-10-27",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTkVBVG5ZeHE2bUJnRmtZbDRCSEZBNDhLNVo0aWxpUWh4aklXdzM5MFRIWWRsNmJvR19pVjBZRzhEUDBQN3hVTE41SnJiR0pvcW9BRVpxY3phaVZtdVFBYWROYlAyeG1Wa0s3N2wxTHhxTTNqbTZTZ0Q1MVJTWHBvVk96OGpQYkY4SjJaeEs3cUVWam1vQS1vbkk4anF3R1BIQ09hTU9LWC1memYyZGVndy1xeS1SSlUwM0ppd0c0SlcwVE5XTDA0ODdIbWpGLVEzY1VqdGRMbUZ0ZXVCTktxeDJfTHZBbHRY?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Fate Therapeutics公布其嵌合抗原受體T細胞療法（CAR-T）FT819治療活動性狼瘡腎炎的更新臨床一期數據",
-      "summary": "關於嵌合抗原受體T細胞療法（CAR-T）FT819治療活動性狼瘡腎炎的數據。",
-      "source": "Lupus Foundation of America",
+      "title": "嵌合抗原受體T細胞療法（CAR-T）在進展型多發性硬化症（MS）中展現令人鼓舞的早期成果",
+      "summary": "嵌合抗原受體T細胞療法（CAR-T）在治療進展型多發性硬化症（MS）上，",
+      "source": "Multiple Sclerosis News Today",
       "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTk1RZHZWZmFDaWVzTHNGeXdhNU5ZcTltZHIyck5vUDh3Z2lMLTFOdF9kODBxWHpsM0hpdFpTVzNRc05xOTVtMmQxaGFIQkdfdVBrNDdNcjQ4Rk1iWWJmZ01WM0hzWi05NHphS2QxYkZYek9CVENnNUt1cU4zVm9jWC12U3VfdVltMGlUaS1EYlZxdnVRLV9PbTVXTmFBUzBZdkZDVG1KU3VaMG5IeTNxWmd6SGxxWFU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ050T0FQUlRQNVA1V0xzeDRuYjFPcWZ2dE1nTFJoUWc2MUJHOWpwalZJWTQyVmg4SS11c1BFMG15Vk5OQXZwOHNXZ2xueE9qSUdPQThKSktuLXlxMkx6S3RYVTBGSzBnRWdmTmpIdTRvdC1HeVJLZTdGZUp1XzdJRUxuVHM3WmI3WkVuZy0tUDdNa0FSMG1CZGRmazczaUtCWDE1cHByMjBsODQ5Y25Ba3prNTEzTEtxZm9DcUd3?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -307,6 +307,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "Fate Therapeutics 分享 CAR-T細胞療法 細胞療法 FT819 治療活動性狼瘡腎炎的最新 1 期數據",
+      "summary": "活動性狼瘡性腎炎中 CAR-T細胞療法 細胞療法 FT819 的資料 美國狼瘡基金會",
+      "source": "Lupus Foundation of America",
+      "date": "2026-10-27",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTk1RZHZWZmFDaWVzTHNGeXdhNU5ZcTltZHIyck5vUDh3Z2lMLTFOdF9kODBxWHpsM0hpdFpTVzNRc05xOTVtMmQxaGFIQkdfdVBrNDdNcjQ4Rk1iWWJmZ01WM0hzWi05NHphS2QxYkZYek9CVENnNUt1cU4zVm9jWC12U3VfdVltMGlUaS1EYlZxdnVRLV9PbTVXTmFBUzBZdkZDVG1KU3VaMG5IeTNxWmd6SGxxWFU?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "Zola-Cel CAR-T細胞療法 細胞療法在多發性硬化症方面顯示出有希望的初步結果",
       "summary": "克利夫蘭診所多發性硬化症的初步結果",
       "source": "Cleveland Clinic",
@@ -315,8 +323,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "二期臨床試驗：非共價BTK抑制劑Nemtabrutinib合併CD20單株抗體Rituximab治療邊緣區淋巴瘤",
-      "summary": "狀態：收案中｜主辦：希望之城醫學中心｜這項二期臨床試驗旨在評估Nemtabrutinib合併Rit",
+      "title": "二期臨床試驗：非共價布魯頓氏酪胺酸激酶（BTK）抑制劑Nemtabrutinib結合CD20（一種細胞表面蛋白）單株抗體Rituximab治療邊緣區淋巴瘤",
+      "summary": "狀態：收案中｜主辦：希望之城醫學中心｜",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-10-23",
       "url": "https://clinicaltrials.gov/study/NCT07583810",
@@ -332,18 +340,10 @@
     },
     {
       "title": "專員國家優先券 (CNPV) 試點計劃",
-      "summary": "(CNPV) Pilot Program U.S. Food and Drug Administration (.gov)",
+      "summary": "(CNPV) 試點計畫美國食品藥物管理局 (.gov)",
       "source": "U.S. Food and Drug Administration (.gov)",
       "date": "2026-10-19",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "技巧、款待和試驗結果：2026 年生物技術最可怕的高潮和低谷",
-      "summary": "2026 年 ch 最可怕的高點和低點 BioProcess International",
-      "source": "BioProcess International",
-      "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYjh2RzdNcGxIMnNCUDVpSWhxemZRX3ZXdC1URWtMdVlMWmNUQ2VRSHhyaHBzV1JqQzlZeXVua2ZGZDlkX0JSeVFaV0xmdnlkRUxpTlhYQUJxdlNteDBMZHNpN21FdGFpNE5COXBRSUZBTzdxZWtGQUU4emw4MWlRWkhwNjhMZ3hILUpOblV5OXN1N3pYb2ZtUVZrRTZMR1hUYVlVaDlZbEc2TDJYVG84TlJOZHY4cFVGeTZQckVQWmp2VW9FVTZGZmtmRUJnOVNDdW9Z?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -356,7 +356,7 @@
     },
     {
       "title": "[NA] 微囊丙酸鈉在 IBD 微生物群調節中的作用",
-      "summary": "狀態：RECRUITING｜主辦：University of Padova｜The goal of this 臨床試驗 is to evaluate whether microencapsulated sodium propionate can modulate the gut microbiota and improve inflammatory and immunological parameters in adult patients with inflammatory bowel disease (IBD) in remission or w",
+      "summary": "狀態：招募中｜主辦：帕多瓦大學｜本次臨床試驗的目的是評估微膠囊丙酸鈉是否可以調節腸道微生物群並改善發炎性腸道疾病（IBD）緩解或已痊癒的成年患者的發炎和免疫參數。",
       "source": "ClinicalTrials.gov｜Italy",
       "date": "2026-10-01",
       "url": "https://clinicaltrials.gov/study/NCT07883044",

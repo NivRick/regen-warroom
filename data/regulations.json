@@ -1,10 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-10-31T01:58:45.255124+00:00",
+  "updated": "2026-10-31T15:57:46.736735+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "核准上市的細胞與基因療法產品",
+      "summary": "美國食品藥物管理局（FDA）旗下的治療產品辦公室（OTP）公布了已獲許可及核准上市的細胞與基因療法產品清單。",
+      "source": "FDA Biologics",
+      "date": "2026-10-30",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物",
       "source": "FDA Biologics",
       "date": "2026-10-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -17,6 +25,13 @@
       "date": "2026-10-30",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis",
       "lang": "zh-TW"
+    },
+    {
+      "title": "白袍部長5 八仙塵爆催生台灣再生醫療新頁",
+      "summary": "",
+      "source": "短新聞SHOTNEWS",
+      "date": "2026-10-30",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWUY3S0RuOUZjRjQ0LTRDeWgtcTh2SGZoZHgwSENiNmpZWW9xZjg2TFdfSS1UWVdUQzdZNmVxZjB3STRDWWNCVEt0SUJQVndoNG1mdQ?oc=5"
     },
     {
       "title": "沒有任何廢話：David Liu 讚揚 ESGCT 在疾病不可知基因編輯方面取得的進展",
@@ -44,10 +59,18 @@
     },
     {
       "title": "生物相似藥產品訊息",
-      "summary": "This page includes a chart of the approved biosimilar and interchangeable products. The approval of biosimilar products can improve access to care for patients by increasing the number of medication options and potentially lower costs.",
+      "summary": "此頁麵包含已批准的生物相似藥和可互換產品的圖表。生物相似藥產品的批准可以透過增加藥物選擇的數量並潛在地降低成本來改善患者獲得護理的機會。",
       "source": "FDA Biologics",
       "date": "2026-10-28",
       "url": "http://www.fda.gov/drugs/biosimilars/biosimilar-product-information",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "台灣生技代表團在 BioJapan 2026 展示 CDMO、細胞治療和生物製劑領域的區域創新",
+      "summary": "BioJapan 2026 台灣在 CDMO、細胞治療和生物製劑方面的創新新聞",
+      "source": "Taiwan News",
+      "date": "2026-10-06",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwanZZWWIzQjVOUlZXdnJPcXRYTWp2QndRYW9iSWRLR3FwQWxDYV9iLXVPTVRDcXMxNVFtRUxtNlpuRW5iZzRXNmxzNkFmMF9iTDJqZA?oc=5",
       "lang": "zh-TW"
     }
   ]
