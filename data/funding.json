@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-10-31T15:57:59.831350+00:00",
+  "updated": "2026-11-01T01:39:35.519036+00:00",
   "items": [
     {
-      "title": "STAT+：藥業小新聞：阿斯特捷利康啟動成本削減、太陽製藥面臨廠房問題等消息",
-      "summary": "阿斯特捷利康（AstraZeneca）已啟動一項為期三年的成本削減計畫，目標是每年節省15億美元，這些省下的資金將再",
+      "title": "STAT+: 藥廠小道消息：我們正在關注阿斯特捷利康（AstraZeneca）的成本削減、太陽製藥（Sun Pharma）的廠房問題等",
+      "summary": "阿斯特捷利康（AstraZeneca）啟動了一項為期三年的成本削減計畫，目標是每年省下15億美元",
       "source": "STAT News",
       "date": "2026-10-30",
       "url": "https://www.statnews.com/pharmalot/2026/10/30/astrazeneca-cost-cutting-sun-pharma-facility-problems/?utm_campaign=rss",
@@ -40,6 +40,14 @@
       "source": "Labiotech.eu",
       "date": "2026-10-13",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "專注於帕金森氏症的 Aspen 和雙特異性生物技術 Bambusa 計劃首次公開募股",
+      "summary": "生物技術 Bambusa 計劃首次公開發行 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFVvbkNxMkU0NzhNeC04eFBEekV5Q1RzQXdsSFJCVmNFWklrdHV4YUJQbjY3Rkh3X2hQUDB4ZW1ZYkV4blZzakpWaTQzUHJDNmtpbGc3LWE4bm42RU43ZURvcjVNMV8tNXpWSnlaSXlWd1pfNVhhR3IyWUtDSEU2eTN3eDd1RkJtTVE0dzFNNGpfX2tRSVo3T3YwQjV3bGFRWXJF?oc=5",
       "lang": "zh-TW"
     }
   ]
