@@ -1,18 +1,26 @@
 {
   "module": "research",
-  "updated": "2026-11-01T01:38:44.500364+00:00",
+  "updated": "2026-11-01T16:59:13.560521+00:00",
   "items": [
     {
-      "title": "功能化電紡奈米纖維在生醫與治療應用上的最新進展：一篇全面性回顧",
-      "summary": "電紡奈米纖維（ESNFs）因其可適應的結構、廣泛的介面和獨特的特性，已成為現代研究的重點。",
+      "title": "突破退化性疾病困境：微環境重塑生醫材料助椎間盤再生",
+      "summary": "椎間盤退化（IVDD）是全球慢性下背痛的主要原因，對公共衛生和社會經濟造成巨大負擔。",
+      "source": "PubMed",
+      "date": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42964622/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "功能化電紡奈米纖維在生醫",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42960302/",
       "lang": "zh-TW"
     },
     {
-      "title": "多",
-      "summary": "",
+      "title": "Spatial mechanopriming of multicellular interfaces drives cytoskeletal-to-nuclear remodeling to boost therapeutic efficacy of 幹細胞.",
+      "summary": "透過生物物理線索工程化多細胞結構，獨立於可溶性生化因子，是增強幹細胞再生醫學治療潛力的一個有前途的策略。然而，空間組織的細胞-細胞和細胞-基質界面的機制...",
       "source": "PubMed",
       "date": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42960265/",
@@ -44,7 +52,7 @@
     },
     {
       "title": "先進的細胞指導生物墨水：為功能組織形成設計多尺度生態位。",
-      "summary": "三維生物印刷透過將活細胞和生物材料精確的空間組織轉化為仿生組織結構，改變了組織製造。然而，製造業的進步已經超過了能夠主動指導組織形成的生物墨水的發展…",
+      "summary": "三維生物印刷透過將活細胞和生物材料精確的空間組織轉化為仿生組織結構，改變了組織製造。然而，製造的進步已經超過了能夠主動指導組織形成的生物墨水的發展…",
       "source": "PubMed",
       "date": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42898451/",
@@ -59,24 +67,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "從被動填充物到主動植入物：3D 列印的三層壓電支架再現了天然骨骼的層次結構。",
-      "summary": "每年有超過 1000 萬名患者受到臨界大小的齒槽骨缺損的影響，但目前的合成骨替代品充當被動骨傳導填充劑，其結果不可預測。相較之下，天然骨透過鬆質骨、皮質骨和…的三層結構實現了強勁的再生。",
+      "title": "從被動填充物到主動植入物：3D列印三層壓電支架重現天然骨骼層次結構",
+      "summary": "每年有超過1,000萬名患者受「關鍵尺寸齒槽骨缺損」所苦，然而，目前的人工骨替代品多半只是被",
       "source": "PubMed",
       "date": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42894822/",
       "lang": "zh-TW"
     },
     {
-      "title": "組織工程高分子配方促進淋巴管新生，有望修復心肌損傷",
-      "summary": "最新研究指出，缺血性心臟損傷後，心臟淋巴系統的活化至關重要，透過誘導淋巴管新生，有助於心肌修復。",
+      "title": "組織工程聚合物配方能夠促進心肌修復的淋巴管生成。",
+      "summary": "新的證據強調了缺血性心臟損傷後心臟淋巴活化的關鍵貢獻，誘導的淋巴管生成驅動水腫消退和發炎細胞清除。本研究的目的是鑑定具有促淋巴管生成作用的生物活性小分子...",
       "source": "PubMed",
       "date": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42908871/",
       "lang": "zh-TW"
     },
     {
-      "title": "CD7",
-      "summary": "",
+      "title": "CD70 標靶 CAR-T細胞療法 細胞治療後膠質母細胞瘤免疫景觀重塑。",
+      "summary": "嵌合抗原受體 (CAR)-T 細胞療法在膠質母細胞瘤 (GB) 中的療效有限，很大程度上是由於免疫抑制性腫瘤微環境 (TME)。我們先前已經證明，基於配體的 mCD70 定向構建體 mCAR27 特異性消除 CD70⁺ GB 細胞",
       "source": "PubMed",
       "date": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42894313/",
@@ -123,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "少即是多：低強度 I 型乾擾素訊號傳導可增強 CAR-T細胞療法 細胞治療。",
-      "summary": "",
+      "title": "少即是多：低強度第一型干擾素訊號能增強嵌合抗原受體T細胞療法（CAR-T）效果。",
+      "summary": "研究發現，適度降低第一型干擾素訊號，反而能有效提升嵌合抗原受體T細胞療法（CAR-T）的治療效果。",
       "source": "PubMed",
       "date": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42903593/",
@@ -132,15 +140,15 @@
     },
     {
       "title": "AAV載體介導",
-      "summary": "琥珀酸半醛脫氫酶（SSADH）缺乏症是一種嚴重的神經代謝疾病，其特徵是γ-胺基丁酸（GABA）和γ-羥基丁酸異常累積。",
+      "summary": "琥珀半醛脫氫酶（SSADH）缺乏症是一種嚴重的神經代謝紊亂，其特徵是γ-氨基丁酸（GABA）和γ-羥基丁酸（GHB）積累，導致網絡過度興奮、進行性神經膠質病理學和過早死亡。目前，尚無根治性療法...",
       "source": "PubMed",
       "date": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42960281/",
       "lang": "zh-TW"
     },
     {
-      "title": "看見看不見的：RNA萃取",
-      "summary": "",
+      "title": "看到不可見的東西：RNA 萃取和文庫製備如何影響 RNA-seq 中的病毒讀取恢復。",
+      "summary": "新一代定序 (NGS) 正成為檢測生物製劑中外來病毒的強大工具，符合 ICH Q5A(R2) 的建議。然而，基於 RNA-seq 的檢測分析的性能高度依賴上游樣品製備步驟和數據分析...",
       "source": "PubMed",
       "date": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42960235/",
@@ -152,14 +160,6 @@
       "source": "PubMed",
       "date": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42960151/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "工程過氧化物酶體和患者來源的 誘導型多能幹細胞（iPSC） 模型作為潛在的生物材料平台，可在氧化壓力驅動的中樞神經系統疾病中進行精確的神經保護。",
-      "summary": "過氧化物酶體將過氧化氫代謝與脂質穩態結合，使其功能與神經系統疾病和細胞內催化生物材料的設計有關。然而，疾病特異性證據的強度和當前材料再現的功能存在很大差異...",
-      "source": "PubMed",
-      "date": "2026-11-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42959522/",
       "lang": "zh-TW"
     },
     {
@@ -181,7 +181,7 @@
     {
       "title": "[第 3 階段] 一項研究，比較 BMS-986353（Zolacabtagene-Autoleucel / Zola-cel）、CD19-CAR-T細胞療法 細胞與活動性系統性硬化症參與者的護理標準的療效和安全性",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Juno Therapeutics, Inc., a Bristol-Myers Squibb Company｜本研究的目的是比較 BMS-986353 與標準護理對活動性系統性硬化症參與者的療效和安全性",
-      "source": "ClinicalTrials.gov｜Canada, Spain, Japan",
+      "source": "ClinicalTrials.gov｜United States, Belgium, Switzerland",
       "date": "2026-11-01",
       "url": "https://clinicaltrials.gov/study/NCT07335562",
       "lang": "zh-TW"
@@ -203,7 +203,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1] Safety and Tolerability Study of Mesenchymal 幹細胞, HeXell-2020, in Elderly Subjects With Mild to Moderate Frailty Syndrome",
+      "title": "[第一階段] 間質幹細胞 HeXell-2020 在患有輕度至中度衰弱症候群的老年受試者中的安全性和耐受性研究",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：和訊生物科技有限公司｜這是一項I期研究，旨在調查HeXell-2020在患有輕中度衰弱綜合徵的老年受試者中的安全性和耐受性。\n\nHeXell-2020是一種研究藥物產品，由同種異體臍帶間質幹細胞組成",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-11-01",
@@ -213,7 +213,7 @@
     {
       "title": "[第 2 期] 一項評估早期非小細胞肺癌受試者手術前基於普米米格的治療的安全性和耐受性的研究 (ROSETTA Lung-220)",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：百時美施貴寶｜本研究的目的是評估術前基於 Pumitamig 的治療和其他分子治療可切除的早期非小細胞肺癌的安全性、耐受性和手術可行性",
-      "source": "ClinicalTrials.gov｜Canada, Poland, Spain",
+      "source": "ClinicalTrials.gov｜United States, Poland, Romania",
       "date": "2026-11-01",
       "url": "https://clinicaltrials.gov/study/NCT07871214",
       "lang": "zh-TW"
@@ -227,8 +227,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第 2 期] 氟達拉濱和 800 cGy 全身照射後骨髓增生異常症候群同種異體幹細胞移植的研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Ronald Paquette｜這是一項單中心 II 期研究，針對不太可能從常規治療中獲益的 MDS 患者進行同種異體幹細胞移植。患者將依照標準 Flu/TBI 800 條件接受標準同種異體幹細胞移植方案",
+      "title": "臨床二期：氟達拉濱與全身放射線治療800 cGy前置處理後，異體幹細胞移植治療骨髓增生不良症候群之研究",
+      "summary": "這項單一中心臨床二期試驗，針對預期效益不佳的骨髓增生不良症候群（",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-11-01",
       "url": "https://clinicaltrials.gov/study/NCT07896928",
@@ -283,15 +283,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "打造腺相關病毒（AAV）基因療法的未來",
-      "summary": "這本電子書匯集了腺相關病毒（AAV）從開發到生產的各方觀點，探討早期商業規劃如何協助。",
+      "title": "打造腺相關病毒（AAV）基因療法未來",
+      "summary": "這本電子書匯集了腺相關病毒（AAV）基因療法從開發到製造的各方觀點，探討早期商業規劃如何有助於...",
       "source": "GEN News",
       "date": "2026-10-29",
       "url": "https://www.genengnews.com/resources/ebooks/building-the-future-of-aav-gene-therapy/",
       "lang": "zh-TW"
     },
     {
-      "title": "漢堡將主辦2026年歐洲基因療法大",
+      "title": "漢堡將主辦2026年歐洲",
       "summary": "",
       "source": "GEN News",
       "date": "2026-10-29",
@@ -300,7 +300,7 @@
     },
     {
       "title": "[NA] 奈米脂肪注射和點陣 CO2 雷射治療創傷後萎縮性疤痕",
-      "summary": "状态：ENROLLING_BY_INVITATION｜主办：坦塔大学｜创伤后萎缩性疤痕的特点是胶原蛋白流失引起的皮肤凹陷，可能导致美容和心理问题。已經提出了幾種治療方案，包括二氧化碳 (CO2) 雷射換膚",
+      "summary": "狀態：ENROLLING_BY_INVITATION｜主辦：坦塔大學｜創傷後萎縮性疤痕的特徵是膠原蛋白流失引起的皮膚凹陷，可能導緻美容和心理問題。已經提出了幾種治療方案，包括二氧化碳 (CO2) 雷射換膚",
       "source": "ClinicalTrials.gov｜Egypt",
       "date": "2026-10-28",
       "url": "https://clinicaltrials.gov/study/NCT07679217",
@@ -315,14 +315,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "安進將在 2026 年 ACR 大會上展示罕見和其他嚴重自體免疫疾病的新數據",
-      "summary": "D 2026 年 ACR 大會上的其他嚴重自體免疫疾病 安進 (Amgen)",
-      "source": "Amgen",
-      "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTkVBVG5ZeHE2bUJnRmtZbDRCSEZBNDhLNVo0aWxpUWh4aklXdzM5MFRIWWRsNmJvR19pVjBZRzhEUDBQN3hVTE41SnJiR0pvcW9BRVpxY3phaVZtdVFBYWROYlAyeG1Wa0s3N2wxTHhxTTNqbTZTZ0Q1MVJTWHBvVk96OGpQYkY4SjJaeEs3cUVWam1vQS1vbkk4anF3R1BIQ09hTU9LWC1memYyZGVndy1xeS1SSlUwM0ppd0c0SlcwVE5XTDA0ODdIbWpGLVEzY1VqdGRMbUZ0ZXVCTktxeDJfTHZBbHRY?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "與克勞德一起加速藥物開發的早期進展",
       "summary": "與 Claude Anthropic 合作",
       "source": "Anthropic",
@@ -331,35 +323,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "CAR-T細胞療法 細胞療法在進展性多發性硬化症中顯示出令人鼓舞的早期結果",
-      "summary": "ly導致進行性多發性硬化症 今日新聞",
-      "source": "Multiple Sclerosis News Today",
-      "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ050T0FQUlRQNVA1V0xzeDRuYjFPcWZ2dE1nTFJoUWc2MUJHOWpwalZJWTQyVmg4SS11c1BFMG15Vk5OQXZwOHNXZ2xueE9qSUdPQThKSktuLXlxMkx6S3RYVTBGSzBnRWdmTmpIdTRvdC1HeVJLZTdGZUp1XzdJRUxuVHM3WmI3WkVuZy0tUDdNa0FSMG1CZGRmazczaUtCWDE1cHByMjBsODQ5Y25Ba3prNTEzTEtxZm9DcUd3?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fate Therapeutics 分享 CAR-T細胞療法 細胞療法 FT819 治療活動性狼瘡腎炎的最新 1 期數據",
-      "summary": "活動性狼瘡性腎炎中 CAR-T細胞療法 細胞療法 FT819 的資料 美國狼瘡基金會",
-      "source": "Lupus Foundation of America",
-      "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTk1RZHZWZmFDaWVzTHNGeXdhNU5ZcTltZHIyck5vUDh3Z2lMLTFOdF9kODBxWHpsM0hpdFpTVzNRc05xOTVtMmQxaGFIQkdfdVBrNDdNcjQ4Rk1iWWJmZ01WM0hzWi05NHphS2QxYkZYek9CVENnNUt1cU4zVm9jWC12U3VfdVltMGlUaS1EYlZxdnVRLV9PbTVXTmFBUzBZdkZDVG1KU3VaMG5IeTNxWmd6SGxxWFU?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Zola-Cel CAR-T細胞療法 細胞療法在多發性硬化症方面顯示出有希望的初步結果",
-      "summary": "克利夫蘭診所多發性硬化症的初步結果",
-      "source": "Cleveland Clinic",
-      "date": "2026-10-26",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUm9QZHM4ajBudTV2czI0aV9GMkxtREpnOXlrajdaU3FCbDBHbWhfeDZtX0x3dnVWRzVSQWV4SnRTMkRxSTQydU40cDIyanRBQlBiX1hlVTZIcjViUGpzdlctMzhuRC1OZDZQZEZqcktwUTJuSkYxTVdjQzZySDJqUldTZmo5RWR5N282TE1Mbzc1RDlwb3Bwb3N3?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "非共價布魯頓氏酪胺酸激酶抑制劑（BTK抑制劑）Nemtabrutinib結合CD20單株抗體Rituximab治療邊緣區淋巴瘤的二期臨床試驗",
-      "summary": "狀態：招募中｜主辦：希望之城醫學中心（City of Hope Medical",
+      "title": "第二期臨床試驗：非共價BTK抑制劑Nemtabrutinib併用CD20單株抗體Rituximab治療邊緣區淋巴瘤",
+      "summary": "狀態：收案中｜主辦單位：希望之城醫學中心｜這項第二期臨床試驗旨在評估Nemtabrutinib併用Rit",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-10-23",
       "url": "https://clinicaltrials.gov/study/NCT07583810",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "臨床試驗中精準 T 細胞療法可阻止抗藥性癌症",
+      "summary": "美國國立衛生研究院 (NIH) | 臨床試驗中的抗藥性癌症(.gov)",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "date": "2026-10-23",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZV82ZmlFUXNCUHc3eUJGR24wc25GOTJESmQ3TUd6NzZsMzBETkM0Vk5DOHpqZTc5UHVLQ1BPSnkxakVBUllYV2RqUHRFTFRVbVJpZXFrV2FPRE0tdmY0c1A2YXFGNG1SenFtcjRTTVVkUkpBSjEtSm9fcFR0MW5nTTlGaEE4dS1GR0haVnVKZUJldnk5VjlOdnZCZzh3Q0dLWjBCWHRJNG1aMGZJRHVUa1pUMWlrbWR1d3dPdg?oc=5",
       "lang": "zh-TW"
     },
     {

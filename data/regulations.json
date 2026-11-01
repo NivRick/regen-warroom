@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-11-01T01:39:13.025599+00:00",
+  "updated": "2026-11-01T16:59:47.541516+00:00",
   "items": [
     {
       "title": "已核准的細胞與基因療法產品",
-      "summary": "治療產品辦公室（OTP）已核准上市的產品清單。",
+      "summary": "治療產品辦公室（OTP）公布已獲許可及核准的細胞與基因療法產品清單。",
       "source": "FDA Biologics",
       "date": "2026-10-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
@@ -12,15 +12,15 @@
     },
     {
       "title": "生物製劑最新動態",
-      "summary": "生物製劑評估與研究中心（CBER）的最新消息。",
+      "summary": "生物製劑評估與研究中心（CBER）發布的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-10-30",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA核准首款質體DNA免疫療法，用於治療成人復發性呼吸道乳突瘤",
-      "summary": "美國食品藥物管理局（FDA）今日加速核准Voceryq（doruxapapogene ralaplasmid and lalikinogene sifuplasmid-gxfd），用於治療...",
+      "title": "美國食藥局（FDA） 批准首個基於質粒 DNA 的免疫療法治療成人復發性呼吸道乳頭狀瘤病",
+      "summary": "美國食品藥物管理局今天加速批准 Voceryq（doruxapapogene ralaplasmid 和 lalikinogene sifuplasmid-gxfd）用於治療成人復發性呼吸道乳頭狀瘤病 (RRP)。",
       "source": "FDA Biologics",
       "date": "2026-10-30",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis",
@@ -42,8 +42,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "PRO",
-      "summary": "",
+      "title": "PROCLEIX WNV 檢測",
+      "summary": "產品核准資訊用於定性檢測人類捐贈者（包括全血和血液成分志願者捐贈者以及其他活體捐贈者）血漿樣本中的西尼羅河病毒 (WNV) RNA。",
       "source": "FDA Biologics",
       "date": "2026-10-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/procleix-wnv-assay",
@@ -63,14 +63,6 @@
       "source": "FDA Biologics",
       "date": "2026-10-28",
       "url": "http://www.fda.gov/drugs/biosimilars/biosimilar-product-information",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "台灣生技代表團在 BioJapan 2026 展示 CDMO、細胞治療和生物製劑領域的區域創新",
-      "summary": "BioJapan 2026 台灣在 CDMO、細胞治療和生物製劑方面的創新新聞",
-      "source": "Taiwan News",
-      "date": "2026-10-06",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwanZZWWIzQjVOUlZXdnJPcXRYTWp2QndRYW9iSWRLR3FwQWxDYV9iLXVPTVRDcXMxNVFtRUxtNlpuRW5iZzRXNmxzNkFmMF9iTDJqZA?oc=5",
       "lang": "zh-TW"
     }
   ]
