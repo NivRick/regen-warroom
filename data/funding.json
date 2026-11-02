@@ -1,10 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-11-02T02:01:06.443636+00:00",
+  "updated": "2026-11-02T20:37:55.668752+00:00",
   "items": [
     {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關阿斯特捷利康成本削減、Sun Pharma 設施問題等的信息",
-      "summary": "阿斯特捷利康啟動了一項為期三年的成本削減計劃，旨在每年削減 15 億美元，並將節省下來的資金重新投資於研發。",
+      "title": "STAT+ Pharmalittle：藥廠疑付俄羅斯中間商數千萬美元，Dupixent潛在競爭者浮現",
+      "summary": "據稱，四大藥廠向中間商支付數千萬美元，以供應救命藥物給俄羅斯政府實體。",
+      "source": "STAT News",
+      "date": "2026-11-02",
+      "url": "https://www.statnews.com/pharmalot/2026/11/02/drugmaker-payments-to-russian-middlemen-possible-dupixent-rival/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Karyopharm 負債累累，準備破產出售",
+      "summary": "細胞療法製造商 Gamida Cell 的母公司將成為法院監督的 Karyopharm 拍賣的主要競標者，該公司最近達成了一項延期償付協議，以推遲債務償還。",
+      "source": "BioPharma Dive",
+      "date": "2026-11-02",
+      "url": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+ Pharmal",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-10-30",
       "url": "https://www.statnews.com/pharmalot/2026/10/30/astrazeneca-cost-cutting-sun-pharma-facility-problems/?utm_campaign=rss",

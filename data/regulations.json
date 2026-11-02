@@ -1,7 +1,63 @@
 {
   "module": "regulation",
-  "updated": "2026-11-02T02:00:51.834913+00:00",
+  "updated": "2026-11-02T20:37:33.627387+00:00",
   "items": [
+    {
+      "title": "生物製劑最新動態",
+      "summary": "來自美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "source": "FDA Biologics",
+      "date": "2026-11-02",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "細胞與基因療法相關指引",
+      "summary": "本頁面彙整了細胞與基因療法相關的指引文件。",
+      "source": "FDA Biologics",
+      "date": "2026-11-02",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 明確支持細胞和基因療法的開發和品質",
+      "summary": "美國食品藥物管理局今天發布了細胞和基因療法 (CGT) 產品製造商的最終指南，以實施基於科學和風險的全面計劃，以確保其產品符合功效標準。",
+      "source": "FDA Biologics",
+      "date": "2026-11-02",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "最近發布的生物製品指導文件",
+      "summary": "本頁列出了最近發布的 CBER 和跨中心指導文件。",
+      "source": "FDA Biologics",
+      "date": "2026-11-02",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "產業指南：細胞和基因治療產品的效力保證",
+      "summary": "本指南提供了製定基於科學和風險的策略的建議，以幫助確保人類細胞療法或基因療法 (CGT) 產品的效力。",
+      "source": "FDA Biologics",
+      "date": "2026-11-02",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-potency-assurance-cellular-and-gene-therapy-products",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 為 uniQure 亨廷頓氏症基因療法設定 PDUFA 行動日期 5 月 1 日",
+      "summary": "uniQure 已與 美國食藥局（FDA） 就該公司所謂的驗證性研究設計的關鍵要素達成一致：該研究被設計為一項隨機、標準護理試驗，以 2:1 的 ifezuntirgene inilpar 比例招募約 200 名患者",
+      "source": "GEN News",
+      "date": "2026-11-02",
+      "url": "https://www.genengnews.com/topics/genome-editing/fda-sets-may-1-pdufa-action-date-for-uniqures-huntingtons-disease-gene-therapy/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 延遲對 Agios 治療 SCD 的 Mitapivat sNDA 採取 PDUFA 行動",
+      "summary": "美國食藥局（FDA） 已將 Agios Pharmaceuticals 尋求額外批准 mitapivat 治療鐮狀細胞疾病 (SCD) 的補充新藥申請 (sNDA) 的決定推遲到明年。 美國食藥局（FDA） 推遲了針對 SCD 的 Agios Mitapivat sNDA 的 PDUFA 行動",
+      "source": "GEN News",
+      "date": "2026-11-02",
+      "url": "https://www.genengnews.com/topics/translational-medicine/fda-delays-pdufa-action-on-agios-mitapivat-snda-for-scd/",
+      "lang": "zh-TW"
+    },
     {
       "title": "StockWatch：基因編輯股價因 ESGCT 數據和 美國食藥局（FDA） 指南草案而上漲",
       "summary": "過去一周，基因編輯治療公司的股價大多在兩個成長催化劑的推動下飆升：歐洲基因和細胞治療學會第 33 屆 ESGCT 年度大會的數據公佈，以及 美國食藥局（FDA） 個性化基因治療的新指南草案",
@@ -19,27 +75,12 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-10-30",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
       "title": "美國食藥局（FDA） 批准首個基於質粒 DNA 的免疫療法治療成人復發性呼吸道乳頭狀瘤病",
       "summary": "美國食品藥物管理局今天加速批准 Voceryq（doruxapapogene ralaplasmid 和 lalikinogene sifuplasmid-gxfd）用於治療成人復發性呼吸道乳頭狀瘤病 (RRP)。",
       "source": "FDA Biologics",
       "date": "2026-10-30",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis",
       "lang": "zh-TW"
-    },
-    {
-      "title": "白袍部長5 八仙塵爆催生台灣再生醫療新頁",
-      "summary": "",
-      "source": "短新聞SHOTNEWS",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWUY3S0RuOUZjRjQ0LTRDeWgtcTh2SGZoZHgwSENiNmpZWW9xZjg2TFdfSS1UWVdUQzdZNmVxZjB3STRDWWNCVEt0SUJQVndoNG1mdQ?oc=5"
     },
     {
       "title": "沒有任何廢話：David Liu 讚揚 ESGCT 在疾病不可知基因編輯方面取得的進展",
@@ -55,22 +96,6 @@
       "source": "FDA Biologics",
       "date": "2026-10-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/procleix-wnv-assay",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "各年份的生物批准情況",
-      "summary": "按年份和監管機構整理的生物審批資訊集合。",
-      "source": "FDA Biologics",
-      "date": "2026-10-29",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/biological-approvals-year",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物相似藥產品訊息",
-      "summary": "此頁麵包含已批准的生物相似藥和可互換產品的圖表。生物相似藥產品的批准可以透過增加藥物選擇的數量並潛在地降低成本來改善患者獲得護理的機會。",
-      "source": "FDA Biologics",
-      "date": "2026-10-28",
-      "url": "http://www.fda.gov/drugs/biosimilars/biosimilar-product-information",
       "lang": "zh-TW"
     },
     {
