@@ -1,10 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-11-03T03:49:09.621797+00:00",
+  "updated": "2026-11-03T18:13:50.873243+00:00",
   "items": [
     {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
+      "title": "最新發布的生物製劑指導文件",
+      "summary": "本頁列出美國食品藥物管理局生物製劑評估與研究中心（CBER）及跨中心最新發布的指導文件。",
+      "source": "FDA Biologics",
+      "date": "2026-11-03",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "找回遺失的記憶？秀麗隱桿線蟲中發現遺忘的神經路徑",
+      "summary": "科學家在秀麗隱桿線蟲中，找到了導致其主動遺忘特定氣味的關鍵分子與神經路徑。",
+      "source": "GEN News",
+      "date": "2026-11-03",
+      "url": "https://www.genengnews.com/topics/translational-medicine/lost-and-found-neural-pathway-for-forgetting-found-in-c-elegans/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑最新動態",
+      "summary": "來自美國食品藥物管理局生物製劑評估",
       "source": "FDA Biologics",
       "date": "2026-11-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -27,14 +43,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "最近發布的生物製品指導文件",
-      "summary": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
-      "source": "FDA Biologics",
-      "date": "2026-11-02",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
-      "lang": "zh-TW"
-    },
-    {
       "title": "產業指南：細胞和基因治療產品的效力保證",
       "summary": "本指南提供了製定基於科學和風險的策略的建議，以幫助確保人類細胞療法或基因療法 (CGT) 產品的效力。",
       "source": "FDA Biologics",
@@ -43,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 為 uniQure 亨廷頓氏症基因療法設定 PDUFA 行動日期 5 月 1 日",
-      "summary": "uniQure 已與 美國食藥局（FDA） 就該公司所謂的驗證性研究設計的關鍵要素達成一致：該研究被設計為一項隨機、標準護理試驗，以 2:1 的 ifezuntirgene inilpar 比例招募約 200 名患者",
+      "title": "美國FDA將uniQure亨丁頓舞蹈症",
+      "summary": "",
       "source": "GEN News",
       "date": "2026-11-02",
       "url": "https://www.genengnews.com/topics/genome-editing/fda-sets-may-1-pdufa-action-date-for-uniqures-huntingtons-disease-gene-therapy/",
@@ -52,7 +60,7 @@
     },
     {
       "title": "美國食藥局（FDA） 延遲對 Agios 治療 SCD 的 Mitapivat sNDA 採取 PDUFA 行動",
-      "summary": "美國食藥局（FDA） 已將 Agios Pharmaceuticals 尋求額外批准 mitapivat 治療鐮狀細胞疾病 (SCD) 的補充新藥申請 (sNDA) 的決定推遲到明年。 美國食藥局（FDA） 推迟了针对 SCD 的 Agios Mitapivat sNDA 的 PDUFA 行动",
+      "summary": "美國食藥局（FDA） 已將 Agios Pharmaceuticals 尋求額外批准 mitapivat 治療鐮狀細胞疾病 (SCD) 的補充新藥申請 (sNDA) 的決定推遲到明年。 美國食藥局（FDA） 推遲了針對 SCD 的 Agios Mitapivat sNDA 的 PDUFA 行動",
       "source": "GEN News",
       "date": "2026-11-02",
       "url": "https://www.genengnews.com/topics/translational-medicine/fda-delays-pdufa-action-on-agios-mitapivat-snda-for-scd/",
@@ -83,15 +91,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "白袍部長5 八仙塵爆催生台灣再生醫療新頁",
-      "summary": "",
-      "source": "www.shotnews.tw",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWUY3S0RuOUZjRjQ0LTRDeWgtcTh2SGZoZHgwSENiNmpZWW9xZjg2TFdfSS1UWVdUQzdZNmVxZjB3STRDWWNCVEt0SUJQVndoNG1mdQ?oc=5"
-    },
-    {
       "title": "沒有任何廢話：David Liu 讚揚 ESGCT 在疾病不可知基因編輯方面取得的進展",
-      "summary": "Liu ensured that his return visit to ESGCT (having spoken at the congress in Barcelona in 2019) would be one of the highlights of the conference. The “meta lesson” of the past few years in therapeutic genome editing is that different scientific appro",
+      "summary": "劉確保他對 ESGCT 的回訪（曾在 2019 年巴塞隆納大會上發言）將成為會議的亮點之一。過去幾年治療性基因組編輯的「元教訓」是，不同的科學方法",
       "source": "GEN News",
       "date": "2026-10-30",
       "url": "https://www.genengnews.com/topics/genome-editing/no-nonsense-david-liu-lauds-progress-in-disease-agnostic-gene-editing-at-esgct/",
@@ -103,14 +104,6 @@
       "source": "FDA Biologics",
       "date": "2026-10-29",
       "url": "http://www.fda.gov/vaccines-blood-biologics/procleix-wnv-assay",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "台灣生技代表團在 BioJapan 2026 展示 CDMO、細胞治療和生物製劑領域的區域創新",
-      "summary": "BioJapan 2026 台灣在 CDMO、細胞治療和生物製劑方面的創新新聞",
-      "source": "Taiwan News",
-      "date": "2026-10-06",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwanZZWWIzQjVOUlZXdnJPcXRYTWp2QndRYW9iSWRLR3FwQWxDYV9iLXVPTVRDcXMxNVFtRUxtNlpuRW5iZzRXNmxzNkFmMF9iTDJqZA?oc=5",
       "lang": "zh-TW"
     }
   ]
