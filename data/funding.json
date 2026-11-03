@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-11-02T20:37:55.668752+00:00",
+  "updated": "2026-11-03T03:49:36.035040+00:00",
   "items": [
     {
-      "title": "STAT+ Pharmalittle：藥廠疑付俄羅斯中間商數千萬美元，Dupixent潛在競爭者浮現",
-      "summary": "據稱，四大藥廠向中間商支付數千萬美元，以供應救命藥物給俄羅斯政府實體。",
+      "title": "STAT+ 生醫快訊：俄羅斯中間人款項、Dupixent潛在競爭者等最新消息",
+      "summary": "據傳有四家大型藥廠支付數千萬美元給中間人，以供應救命藥物給俄羅斯政府機構。",
       "source": "STAT News",
       "date": "2026-11-02",
       "url": "https://www.statnews.com/pharmalot/2026/11/02/drugmaker-payments-to-russian-middlemen-possible-dupixent-rival/?utm_campaign=rss",
@@ -19,7 +19,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+ Pharmal",
+      "title": "STAT+ 生醫快",
       "summary": "",
       "source": "STAT News",
       "date": "2026-10-30",
@@ -43,11 +43,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "癌症藥物在關鍵試驗中取得成功後 Genmab 飆升至歷史新高",
-      "summary": "該製藥商的市值膨脹了超過 70 億美元，因為研究結果表明最近獲得的一種藥物可能成為一種頭頸癌的新治療標準。",
+      "title": "Genmab soars to record highs after cancer drug succeeds in key trial",
+      "summary": "The drugmaker&rsquo;s market value swelled by more than $7 billion on findings suggesting a recently-acquired medicine could become a new treatment standard for a form of head and neck cancer.",
       "source": "BioPharma Dive",
       "date": "2026-10-29",
       "url": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "These 18 french biotech startups could shape tomorrow’s medicine",
+      "summary": "hape tomorrow’s medicine Labiotech.eu",
+      "source": "Labiotech.eu",
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
       "lang": "zh-TW"
     },
     {

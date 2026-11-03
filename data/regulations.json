@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-11-02T20:37:33.627387+00:00",
+  "updated": "2026-11-03T03:49:09.621797+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "來自美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-11-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞與基因療法相關指引",
-      "summary": "本頁面彙整了細胞與基因療法相關的指引文件。",
+      "title": "細胞和基因治療指南",
+      "summary": "此頁麵包含細胞和基因治療指南的清單。",
       "source": "FDA Biologics",
       "date": "2026-11-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
@@ -28,7 +28,7 @@
     },
     {
       "title": "最近發布的生物製品指導文件",
-      "summary": "本頁列出了最近發布的 CBER 和跨中心指導文件。",
+      "summary": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
       "source": "FDA Biologics",
       "date": "2026-11-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
@@ -52,7 +52,7 @@
     },
     {
       "title": "美國食藥局（FDA） 延遲對 Agios 治療 SCD 的 Mitapivat sNDA 採取 PDUFA 行動",
-      "summary": "美國食藥局（FDA） 已將 Agios Pharmaceuticals 尋求額外批准 mitapivat 治療鐮狀細胞疾病 (SCD) 的補充新藥申請 (sNDA) 的決定推遲到明年。 美國食藥局（FDA） 推遲了針對 SCD 的 Agios Mitapivat sNDA 的 PDUFA 行動",
+      "summary": "美國食藥局（FDA） 已將 Agios Pharmaceuticals 尋求額外批准 mitapivat 治療鐮狀細胞疾病 (SCD) 的補充新藥申請 (sNDA) 的決定推遲到明年。 美國食藥局（FDA） 推迟了针对 SCD 的 Agios Mitapivat sNDA 的 PDUFA 行动",
       "source": "GEN News",
       "date": "2026-11-02",
       "url": "https://www.genengnews.com/topics/translational-medicine/fda-delays-pdufa-action-on-agios-mitapivat-snda-for-scd/",
@@ -83,8 +83,15 @@
       "lang": "zh-TW"
     },
     {
+      "title": "白袍部長5 八仙塵爆催生台灣再生醫療新頁",
+      "summary": "",
+      "source": "www.shotnews.tw",
+      "date": "2026-10-30",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWUY3S0RuOUZjRjQ0LTRDeWgtcTh2SGZoZHgwSENiNmpZWW9xZjg2TFdfSS1UWVdUQzdZNmVxZjB3STRDWWNCVEt0SUJQVndoNG1mdQ?oc=5"
+    },
+    {
       "title": "沒有任何廢話：David Liu 讚揚 ESGCT 在疾病不可知基因編輯方面取得的進展",
-      "summary": "劉確保他對 ESGCT 的回訪（曾在 2019 年巴塞隆納大會上發言）將成為會議的亮點之一。過去幾年治療性基因組編輯的「元教訓」是，不同的科學方法",
+      "summary": "Liu ensured that his return visit to ESGCT (having spoken at the congress in Barcelona in 2019) would be one of the highlights of the conference. The “meta lesson” of the past few years in therapeutic genome editing is that different scientific appro",
       "source": "GEN News",
       "date": "2026-10-30",
       "url": "https://www.genengnews.com/topics/genome-editing/no-nonsense-david-liu-lauds-progress-in-disease-agnostic-gene-editing-at-esgct/",
