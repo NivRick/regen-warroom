@@ -1,9 +1,17 @@
 {
   "module": "funding",
-  "updated": "2026-11-03T18:14:14.073304+00:00",
+  "updated": "2026-11-04T02:51:53.769581+00:00",
   "items": [
     {
-      "title": "UniQure gets an 美國食藥局（FDA） decision date; Teva scraps brain drug study",
+      "title": "STAT+：施維雅價值 15.5 億美元的肌肉營養不良症藥物未能通過首次重大測試",
+      "summary": "施維雅報告稱，一種用於治療缺乏治療的肌肉萎縮症的藥物在測試中遭遇意外挫折。",
+      "source": "STAT News",
+      "date": "2026-11-03",
+      "url": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "UniQure 獲得 美國食藥局（FDA） 決定日期；梯瓦製藥 (Teva) 放棄腦部藥物研究",
       "summary": "美國食藥局（FDA） 似乎可能會為 UniQure 密切關注的亨廷頓病基因療法組成一個諮詢委員會。在其他地方，一家生技公司的股價因監管挫折而下跌了一半。",
       "source": "BioPharma Dive",
       "date": "2026-11-03",
@@ -11,8 +19,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：藥業小道消息：我們正在關注支付給俄羅斯中間商的款項、Dupixent的潛在競爭對手等等",
-      "summary": "四家大型藥廠涉嫌支付數千萬美元給中間商，以供應救命藥物給俄羅斯政府實體。",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關向俄羅斯中間商付款、可能的 Dupixent 競爭對手等的信息",
+      "summary": "據稱，四家大型製藥商向中間商支付了數千萬美元，以便向俄羅斯政府實體提供救命藥物",
       "source": "STAT News",
       "date": "2026-11-02",
       "url": "https://www.statnews.com/pharmalot/2026/11/02/drugmaker-payments-to-russian-middlemen-possible-dupixent-rival/?utm_campaign=rss",
@@ -32,22 +40,6 @@
       "source": "BioPharma Dive",
       "date": "2026-10-30",
       "url": "https://www.biopharmadive.com/news/setara-actio-charcot-marie-tooth-ion-channel-drugs/873227/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "這 18 家法國生物技術新創公司可能會塑造明天的醫學",
-      "summary": "希望明天的醫學 Labiotech.eu",
-      "source": "Labiotech.eu",
-      "date": "2026-10-13",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "專注於帕金森氏症的 Aspen 和雙特異性生物技術 Bambusa 計劃首次公開募股",
-      "summary": "生物技術 Bambusa 計劃首次公開發行 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFVvbkNxMkU0NzhNeC04eFBEekV5Q1RzQXdsSFJCVmNFWklrdHV4YUJQbjY3Rkh3X2hQUDB4ZW1ZYkV4blZzakpWaTQzUHJDNmtpbGc3LWE4bm42RU43ZURvcjVNMV8tNXpWSnlaSXlWd1pfNVhhR3IyWUtDSEU2eTN3eDd1RkJtTVE0dzFNNGpfX2tRSVo3T3YwQjV3bGFRWXJF?oc=5",
       "lang": "zh-TW"
     }
   ]

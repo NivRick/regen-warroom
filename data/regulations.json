@@ -1,26 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-11-03T18:13:50.873243+00:00",
+  "updated": "2026-11-04T02:51:40.106486+00:00",
   "items": [
     {
-      "title": "最新發布的生物製劑指導文件",
-      "summary": "本頁列出美國食品藥物管理局生物製劑評估與研究中心（CBER）及跨中心最新發布的指導文件。",
+      "title": "最新發布的生物製劑指引文件",
+      "summary": "這頁面列出了美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）及跨中心最新發布的指引文件。",
       "source": "FDA Biologics",
       "date": "2026-11-03",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
       "lang": "zh-TW"
     },
     {
-      "title": "找回遺失的記憶？秀麗隱桿線蟲中發現遺忘的神經路徑",
-      "summary": "科學家在秀麗隱桿線蟲中，找到了導致其主動遺忘特定氣味的關鍵分子與神經路徑。",
+      "title": "失物招領：秀麗隱桿線蟲中發現的遺忘神經通路",
+      "summary": "研究人員確定了導致線蟲主動忘記先前記住的特定氣味的關鍵分子和神經通路，為理解特定記憶如何差異提供了一個框架",
       "source": "GEN News",
       "date": "2026-11-03",
       "url": "https://www.genengnews.com/topics/translational-medicine/lost-and-found-neural-pathway-for-forgetting-found-in-c-elegans/",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "來自美國食品藥物管理局生物製劑評估",
+      "title": "生物製劑新訊",
+      "summary": "來自美國食品藥物管理局",
       "source": "FDA Biologics",
       "date": "2026-11-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -51,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國FDA將uniQure亨丁頓舞蹈症",
-      "summary": "",
+      "title": "美國食藥局（FDA） 為 uniQure 亨廷頓氏症基因療法設定 PDUFA 行動日期 5 月 1 日",
+      "summary": "uniQure 已與 美國食藥局（FDA） 就該公司所謂的驗證性研究設計的關鍵要素達成一致：該研究被設計為一項隨機、標準護理試驗，以 2:1 的 ifezuntirgene inilpar 比例招募約 200 名患者",
       "source": "GEN News",
       "date": "2026-11-02",
       "url": "https://www.genengnews.com/topics/genome-editing/fda-sets-may-1-pdufa-action-date-for-uniqures-huntingtons-disease-gene-therapy/",
@@ -91,20 +91,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "沒有任何廢話：David Liu 讚揚 ESGCT 在疾病不可知基因編輯方面取得的進展",
-      "summary": "劉確保他對 ESGCT 的回訪（曾在 2019 年巴塞隆納大會上發言）將成為會議的亮點之一。過去幾年治療性基因組編輯的「元教訓」是，不同的科學方法",
-      "source": "GEN News",
+      "title": "白袍部長5 八仙塵爆催生台灣再生醫療新頁",
+      "summary": "",
+      "source": "shotnews.tw",
       "date": "2026-10-30",
-      "url": "https://www.genengnews.com/topics/genome-editing/no-nonsense-david-liu-lauds-progress-in-disease-agnostic-gene-editing-at-esgct/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "PROCLEIX WNV 檢測",
-      "summary": "產品核准資訊用於定性檢測人類捐贈者（包括全血和血液成分志願者捐贈者以及其他活體捐贈者）血漿樣本中的西尼羅河病毒 (WNV) RNA。",
-      "source": "FDA Biologics",
-      "date": "2026-10-29",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/procleix-wnv-assay",
-      "lang": "zh-TW"
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWUY3S0RuOUZjRjQ0LTRDeWgtcTh2SGZoZHgwSENiNmpZWW9xZjg2TFdfSS1UWVdUQzdZNmVxZjB3STRDWWNCVEt0SUJQVndoNG1mdQ?oc=5"
     }
   ]
 }
