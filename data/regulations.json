@@ -1,26 +1,42 @@
 {
   "module": "regulation",
-  "updated": "2026-11-04T02:51:40.106486+00:00",
+  "updated": "2026-11-04T18:24:08.642258+00:00",
   "items": [
     {
-      "title": "最新發布的生物製劑指引文件",
-      "summary": "這頁面列出了美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）及跨中心最新發布的指引文件。",
+      "title": "基因療法整合性病毒載體長期追蹤之整合位點分析研討會",
+      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）的治療產品辦公室（OTP）將舉辦一場線上科學公開研討會，主題為...",
+      "source": "11/14/2024",
+      "date": "2026-11-04",
+      "url": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/workshop-integration-site-analysis-during-long-term-follow-gene-therapies-integrating-viral-vectors",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Kamau Therapeutics在美國血液學會（ASH）年會前夕公布令人振奮的鐮刀型貧血臨床數據",
+      "summary": "這些研究成果是下個月美國血液學會（ASH）年會將發表的大量摘要之一，顯示精確的修正...",
+      "source": "GEN News",
+      "date": "2026-11-04",
+      "url": "https://www.genengnews.com/topics/genome-editing/kamau-therapeutics-releases-encouraging-sickle-cell-clinical-data-ahead-of-ash-meeting/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "最近發布的生物製品指導文件",
+      "summary": "本頁列出了最近發布的 CBER 和跨中心指導文件。",
       "source": "FDA Biologics",
       "date": "2026-11-03",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
       "lang": "zh-TW"
     },
     {
-      "title": "失物招領：秀麗隱桿線蟲中發現的遺忘神經通路",
-      "summary": "研究人員確定了導致線蟲主動忘記先前記住的特定氣味的關鍵分子和神經通路，為理解特定記憶如何差異提供了一個框架",
+      "title": "迷失與尋回：秀麗隱桿線蟲（C. elegans）中發現遺忘的神經通路",
+      "summary": "研究人員發現了導致秀麗隱桿線蟲（Caenorhabditis elegans）主動遺忘先前特定氣味的關鍵分子與神經通路...",
       "source": "GEN News",
       "date": "2026-11-03",
       "url": "https://www.genengnews.com/topics/translational-medicine/lost-and-found-neural-pathway-for-forgetting-found-in-c-elegans/",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑新訊",
-      "summary": "來自美國食品藥物管理局",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-11-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
@@ -51,30 +67,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 為 uniQure 亨廷頓氏症基因療法設定 PDUFA 行動日期 5 月 1 日",
-      "summary": "uniQure 已與 美國食藥局（FDA） 就該公司所謂的驗證性研究設計的關鍵要素達成一致：該研究被設計為一項隨機、標準護理試驗，以 2:1 的 ifezuntirgene inilpar 比例招募約 200 名患者",
-      "source": "GEN News",
-      "date": "2026-11-02",
-      "url": "https://www.genengnews.com/topics/genome-editing/fda-sets-may-1-pdufa-action-date-for-uniqures-huntingtons-disease-gene-therapy/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 延遲對 Agios 治療 SCD 的 Mitapivat sNDA 採取 PDUFA 行動",
-      "summary": "美國食藥局（FDA） 已將 Agios Pharmaceuticals 尋求額外批准 mitapivat 治療鐮狀細胞疾病 (SCD) 的補充新藥申請 (sNDA) 的決定推遲到明年。 美國食藥局（FDA） 推遲了針對 SCD 的 Agios Mitapivat sNDA 的 PDUFA 行動",
-      "source": "GEN News",
-      "date": "2026-11-02",
-      "url": "https://www.genengnews.com/topics/translational-medicine/fda-delays-pdufa-action-on-agios-mitapivat-snda-for-scd/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "StockWatch：基因編輯股價因 ESGCT 數據和 美國食藥局（FDA） 指南草案而上漲",
-      "summary": "過去一周，基因編輯治療公司的股價大多在兩個成長催化劑的推動下飆升：歐洲基因和細胞治療學會第 33 屆 ESGCT 年度大會的數據公佈，以及 美國食藥局（FDA） 個性化基因治療的新指南草案",
-      "source": "GEN News",
-      "date": "2026-11-01",
-      "url": "https://www.genengnews.com/topics/genome-editing/stockwatch-gene-editing-shares-jump-on-esgct-data-fda-draft-guidance/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "核准的細胞和基因治療產品",
       "summary": "治療產品辦公室 (OTP) 許可和批准的產品清單。",
       "source": "FDA Biologics",
@@ -91,11 +83,12 @@
       "lang": "zh-TW"
     },
     {
-      "title": "白袍部長5 八仙塵爆催生台灣再生醫療新頁",
-      "summary": "",
-      "source": "shotnews.tw",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWUY3S0RuOUZjRjQ0LTRDeWgtcTh2SGZoZHgwSENiNmpZWW9xZjg2TFdfSS1UWVdUQzdZNmVxZjB3STRDWWNCVEt0SUJQVndoNG1mdQ?oc=5"
+      "title": "台灣生技代表團在BioJapan 2026展現CDMO、細胞治療與生物製劑的區域創新實力",
+      "summary": "台灣生技代表團將在BioJapan 2026大展身手，向國際展示我國在生物製藥委託開發製造服務（CDMO）、細胞治療及生物製劑領域的區域創新實力。這次參與旨在促進國際合作，拓展台灣生技產業的全球影響力。",
+      "source": "Taiwan News",
+      "date": "2026-10-06",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwanZZWWIzQjVOUlZXdnJPcXRYTWp2QndRYW9iSWRLR3FwQWxDYV9iLXVPTVRDcXMxNVFtRUxtNlpuRW5iZzRXNmxzNkFmMF9iTDJqZA?oc=5",
+      "lang": "zh-TW"
     }
   ]
 }

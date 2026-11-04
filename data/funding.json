@@ -1,10 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-11-04T02:51:53.769581+00:00",
+  "updated": "2026-11-04T18:24:22.492289+00:00",
   "items": [
     {
-      "title": "STAT+：施維雅價值 15.5 億美元的肌肉營養不良症藥物未能通過首次重大測試",
-      "summary": "施維雅報告稱，一種用於治療缺乏治療的肌肉萎縮症的藥物在測試中遭遇意外挫折。",
+      "title": "CVS Health將分拆，逆轉多年來整合藥局與保險的策略",
+      "summary": "CVS Health決定分拆，是因應聯邦與各州政府對其垂直整合模式的嚴格審查。",
+      "source": "STAT News",
+      "date": "2026-11-04",
+      "url": "https://www.statnews.com/2026/11/04/cvs-splits-pharmacy-from-insurance/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Servier斥資15.5億美元開發的肌肉",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-11-03",
       "url": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss",
@@ -19,14 +27,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關向俄羅斯中間商付款、可能的 Dupixent 競爭對手等的信息",
-      "summary": "據稱，四家大型製藥商向中間商支付了數千萬美元，以便向俄羅斯政府實體提供救命藥物",
-      "source": "STAT News",
-      "date": "2026-11-02",
-      "url": "https://www.statnews.com/pharmalot/2026/11/02/drugmaker-payments-to-russian-middlemen-possible-dupixent-rival/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Karyopharm 負債累累，準備破產出售",
       "summary": "細胞療法製造商 Gamida Cell 的母公司將成為法院監督的 Karyopharm 拍賣的主要競標者，該公司最近達成了一項延期償付協議，以推遲債務償還。",
       "source": "BioPharma Dive",
@@ -35,11 +35,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Actio 背後的團隊透過 Setara 開啟了第二幕",
-      "summary": "這家羽翼未豐的新創公司擁有 9000 萬美元的資金來開發一系列藥物，其中以一種腓骨肌萎縮症藥物為主導，當 Jazz Pharmauticals 收購其領先的癲癇項目時，Actio 正在開發該藥物。",
-      "source": "BioPharma Dive",
-      "date": "2026-10-30",
-      "url": "https://www.biopharmadive.com/news/setara-actio-charcot-marie-tooth-ion-channel-drugs/873227/",
+      "title": "專注於帕金森氏症的 Aspen 和雙特異性生物技術 Bambusa 計劃首次公開募股",
+      "summary": "生物技術 Bambusa 計劃首次公開發行 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFVvbkNxMkU0NzhNeC04eFBEekV5Q1RzQXdsSFJCVmNFWklrdHV4YUJQbjY3Rkh3X2hQUDB4ZW1ZYkV4blZzakpWaTQzUHJDNmtpbGc3LWE4bm42RU43ZURvcjVNMV8tNXpWSnlaSXlWd1pfNVhhR3IyWUtDSEU2eTN3eDd1RkJtTVE0dzFNNGpfX2tRSVo3T3YwQjV3bGFRWXJF?oc=5",
       "lang": "zh-TW"
     }
   ]
