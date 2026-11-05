@@ -1,45 +1,37 @@
 {
   "module": "funding",
-  "updated": "2026-11-05T03:00:00.457820+00:00",
+  "updated": "2026-11-05T18:27:12.215523+00:00",
   "items": [
     {
-      "title": "STAT+：製藥評論家伯尼桑德斯將對 美國食藥局（FDA） 資助法案產生重大影響",
-      "summary": "桑德斯可以利用他在製定 美國食藥局（FDA） 資助法案中的作用來推動改革。",
+      "title": "STAT+: 鐮狀細胞基因療法敗部復活有望？",
+      "summary": "三年前，一項耗時十年研發的鐮狀細胞基因編輯療法臨床試驗，因首位病患出現嚴重不良反應而突然中止。",
+      "source": "STAT News",
+      "date": "2026-11-05",
+      "url": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Alethio募資9千萬美元，鎖定罕見血癌治療",
+      "summary": "這家新創公司正在研發一款藥物，其投資人聲稱，這款藥物在治療一系列已知病症上，可能比其他已核准藥物有更廣泛的應用。",
+      "source": "BioPharma Dive",
+      "date": "2026-11-05",
+      "url": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: 藥廠批評者桑德斯，將對美國食品藥物管理局（FDA）預算案握有重大影響力",
+      "summary": "桑德斯可能利用他在制定美國食品藥物管理局（FDA）預算案的職權，推動藥品相關改革。",
       "source": "STAT News",
       "date": "2026-11-04",
       "url": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：CVS Health 將分拆，扭轉多年來合併藥局和保險的交易",
-      "summary": "CVS Health’s decision to split comes amid federal and state scrutiny over vertical integration.",
+      "title": "STAT+: CVS Health將分拆，逆轉多年來整合藥局與保險的策略",
+      "summary": "CVS Health的分拆決定，是在聯邦與州政府對其垂直整合模式加強審查的背景下做出。",
       "source": "STAT News",
       "date": "2026-11-04",
       "url": "https://www.statnews.com/2026/11/04/cvs-splits-pharmacy-from-insurance/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：施維雅價值 15.5 億美元的肌肉營養不良藥物未能通過首次重大測試",
-      "summary": "施維雅報告稱，一種用於治療缺乏治療的肌肉萎縮症的藥物在測試中遭遇意外挫折。",
-      "source": "STAT News",
-      "date": "2026-11-03",
-      "url": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "UniQure 獲得 美國食藥局（FDA） 決定日期；梯瓦製藥 (Teva) 放棄腦部藥物研究",
-      "summary": "美國食藥局（FDA） 似乎可能會為 UniQure 密切關注的亨廷頓病基因療法組成一個諮詢委員會。在其他地方，一家生技公司的股價因監管挫折而下跌了一半。",
-      "source": "BioPharma Dive",
-      "date": "2026-11-03",
-      "url": "https://www.biopharmadive.com/news/uniqure-fda-bright-minds-specific-teva-cinrock/873455/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Karyopharm 負債累累，準備破產出售",
-      "summary": "細胞療法製造商 Gamida Cell 的母公司將成為法院監督的 Karyopharm 拍賣的主要競標者，該公司最近達成了一項延期償付協議，以推遲債務償還。",
-      "source": "BioPharma Dive",
-      "date": "2026-11-02",
-      "url": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
       "lang": "zh-TW"
     }
   ]

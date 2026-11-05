@@ -1,7 +1,23 @@
 {
   "module": "regulation",
-  "updated": "2026-11-05T02:59:48.102132+00:00",
+  "updated": "2026-11-05T18:27:02.307925+00:00",
   "items": [
+    {
+      "title": "生物製劑電子閱覽室（eFOIA）",
+      "summary": "這個生物製劑eFOI閱覽室，讓大家可以查閱「疫苗、血液與生物製劑」及其他相關中心發布的文件。",
+      "source": "FDA Biologics",
+      "date": "2026-11-05",
+      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "OTP指導網路研討會：細胞與基因治療產品的效力確保",
+      "summary": "",
+      "source": "12/10/2026",
+      "date": "2026-11-05",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/otp-guidance-webinar-potency-assurance-cellular-and-gene-therapy-products-12102026",
+      "lang": "zh-TW"
+    },
     {
       "title": "整合病毒載體基因治療長期追蹤期間整合位點分析研討會",
       "summary": "美國食藥局（FDA） 的生物製品評估和研究中心 (CBER) 治療產品辦公室 (OTP) 正在舉辦一場虛擬科學公共研討會，討論整合位點分析 (ISA) 在給藥後長期追蹤期間的臨床應用。",
@@ -11,8 +27,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "超越外包：建立更好的 CDMO 合作夥伴關係",
-      "summary": "Rose BioSolutions 執行長 David Enloe 認為，先進療法需要更深入的科學合作、更早解決問題和共同承擔責任\n合作夥伴關係一文首先出現在 GEN - 基因工程和生物技術新聞。",
+      "title": "幹細胞低溫保存設備市場規模、市佔率與2036年預測報告",
+      "summary": "這份報告深入分析了全球幹細胞低溫保存設備的市場現況，包括其規模、各廠商的市佔率，並對未來發展趨勢進行預測，展望至2036年，揭示該領域的龐大商機與成長潛力。",
+      "source": "Fact.MR",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUHJoMXRvZjdsang1YWk4Vjh6azBNMWdRYlNUYTlsbEExczk0UVROS1R2RFZlYkpzUUZGcHV4cnI3Y0FuSFZrQm9iX3k5c01kTkY4cmxRZHdpSUpXaVF3anl5Y1dqa2VENGo1bmlFcmVsR3dHMnUtdDg1Y3BzcjRSRDdISQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "超越傳統委外代工：建立更優質的CDMO合作夥伴關係",
+      "summary": "Rose BioSolutions執行長David Enloe指出，面對先進療法（Advanced Therapies）的發展趨勢，CDMO合作模式必須超越傳統委外代工，轉向更深入的科學協作、提早解決問題，並建立共同承擔責任的夥伴關係。",
       "source": "GEN News",
       "date": "2026-11-04",
       "url": "https://www.genengnews.com/sponsored/beyond-outsourcing-building-better-cdmo-partnerships/",
@@ -59,24 +83,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "核准的細胞和基因治療產品",
-      "summary": "治療產品辦公室 (OTP) 許可和批准的產品清單。",
-      "source": "FDA Biologics",
-      "date": "2026-10-30",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 批准首個基於質粒 DNA 的免疫療法治療成人復發性呼吸道乳頭狀瘤病",
-      "summary": "美國食品藥物管理局今天加速批准 Voceryq（doruxapapogene ralaplasmid 和 lalikinogene sifuplasmid-gxfd）用於治療成人復發性呼吸道乳頭狀瘤病 (RRP)。",
-      "source": "FDA Biologics",
-      "date": "2026-10-30",
-      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "台灣生技代表團在 BioJapan 2026 展示 CDMO、細胞治療和生物製劑領域的區域創新",
-      "summary": "BioJapan 2026 台灣在 CDMO、細胞治療和生物製劑方面的創新新聞",
+      "title": "台灣生技代表團將在日本生技展（BioJapan 2026）展現CDMO、細胞治療與生物製劑的區域創新實力",
+      "summary": "台灣生技代表團將在2026年日本生技展上，向國際展示台灣在生物製藥委託開發製造服務（CDMO）、細胞治療及生物製劑領域的最新區域創新成果與技術實力，搶攻全球生技商機。",
       "source": "Taiwan News",
       "date": "2026-10-06",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwanZZWWIzQjVOUlZXdnJPcXRYTWp2QndRYW9iSWRLR3FwQWxDYV9iLXVPTVRDcXMxNVFtRUxtNlpuRW5iZzRXNmxzNkFmMF9iTDJqZA?oc=5",
