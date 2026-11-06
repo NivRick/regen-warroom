@@ -1,34 +1,42 @@
 {
   "module": "regulation",
-  "updated": "2026-11-06T03:00:19.335410+00:00",
+  "updated": "2026-11-06T17:49:04.953110+00:00",
   "items": [
     {
-      "title": "Biologics Electronic Reading Room (eFOIA)",
-      "summary": "生物製劑 eFOI 閱覽室提供對 美國食藥局（FDA）.gov 網站上「疫苗、血液和生物製劑」以及與生物製劑評估和研究中心相關的其他部分發布的文件的存取。",
+      "title": "BioCardia 與日本 日本藥品局（PMDA） 完成 CardiAMP 細胞治療系統的臨床諮詢流程，推進提交上市批准申請",
+      "summary": "n 與日本 日本藥品局（PMDA） 合作開發 CardiAMP 細胞治療系統，推動提交上市申請 澳門業務",
+      "source": "Macau Business",
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUUpWZzBXTVZDS1FtS0hIYk9OdWFtOUwwUmVVSW4tSERFa01hR1ViQ0tpTHQxYXlVZ0c2ZXk4YXNLVDZEQnhuZTF0enp6Vkk1X3F4RUtGTkZZZm5KREQxX3Z0YU9QWHVzWmJScmlscWZ1UnNzTjFYeTd0ekV6bGhjQkxrRXlvQy1pbjNzeWlyS0pQcUhmYVF2QU1GODVIR2pGbV9oRW9reWFGek0yUllTX2NTOEx3VDhtT1l6VUIyMGx5NW9pOEh6V0V0R24xSUd2MlJQczlENmRZbUJRZVdjb3JpckY0bTU4VGhYTUs4dmI5YjY5Y0NZVUd5UkZQQzA2cU1LZ29qb1BhWFk1T2RQemFLa01kd1E?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑電子閱覽室（eFOIA）",
+      "summary": "生物製劑電子閱覽室（eFOIA）提供「疫苗、血液與生物製劑」及其他相關文件查閱。",
       "source": "FDA Biologics",
       "date": "2026-11-05",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
       "lang": "zh-TW"
     },
     {
-      "title": "OTP Guidance Webinar: Potency Assurance for Cellular and 基因療法 Products",
-      "summary": "美國食藥局（FDA） 生物制品评估和研究中心 (CBER) 治疗产品办公室 (OTP) 将于 2026 年 12 月 3 日星期四下午 1:00 举办虚拟公共网络研讨会。 ET 討論最近定稿的指導文件「效力保證",
+      "title": "治療產品辦公室（OTP）指導網路研討會：細胞與基因治療產品的效力保證",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的治療產品辦公室（OTP）將舉辦一場線上公開研討會。",
       "source": "12/10/2026",
       "date": "2026-11-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/otp-guidance-webinar-potency-assurance-cellular-and-gene-therapy-products-12102026",
       "lang": "zh-TW"
     },
     {
-      "title": "使用人工智慧開發的禽流感疫苗在臨床前測試中優於目前庫存的疫苗",
-      "summary": "研究人员使用人工智能引导的工程方法创建了一种具有广泛保护性的禽流感疫苗，该疫苗旨在对现有和未来的多种 H5Nx 变种保持有效。該帖子顯示了 Preclini 目前庫存的疫苗",
+      "title": "運用AI開發的禽流感疫苗在臨床前試驗中表現優於現有儲備疫苗",
+      "summary": "研究人員運用AI開發出廣效型禽流感疫苗，在臨床前試驗中表現超越現有儲備疫苗。",
       "source": "GEN News",
       "date": "2026-11-05",
       "url": "https://www.genengnews.com/topics/infectious-diseases/bird-flu-vaccine-developed-using-ai-outperforms-current-stockpiled-vaccines-in-preclinical-tests/",
       "lang": "zh-TW"
     },
     {
-      "title": "整合病毒載體基因治療長期追蹤期間整合位點分析研討會",
-      "summary": "美國食藥局（FDA） 的生物製品評估和研究中心 (CBER) 治療產品辦公室 (OTP) 正在舉辦一場虛擬科學公共研討會，討論整合位點分析 (ISA) 在給藥後長期追蹤期間的臨床應用。",
+      "title": "基因療法整合性病毒載體長期追蹤之整合位點分析研討會",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的治療產品辦公室（",
       "source": "11/14/2024",
       "date": "2026-11-04",
       "url": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/workshop-integration-site-analysis-during-long-term-follow-gene-therapies-integrating-viral-vectors",
@@ -51,7 +59,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Cellular & 基因療法 Guidances",
+      "title": "細胞和基因治療指南",
       "summary": "此頁麵包含細胞和基因治療指南的清單。",
       "source": "FDA Biologics",
       "date": "2026-11-02",

@@ -1,7 +1,47 @@
 {
   "module": "funding",
-  "updated": "2026-11-06T03:00:34.906260+00:00",
+  "updated": "2026-11-06T17:49:46.698971+00:00",
   "items": [
+    {
+      "title": "STAT+：新腫瘤案例顯示，常見的基因療法工具可能伴隨風險",
+      "summary": "新案例顯示，像Zolgensma這類腺相關病毒（AAV）基因療法帶有腫瘤風險，引發脊髓性肌肉萎縮症（SMA）病患和基因療法研究人員的普遍擔憂。",
+      "source": "STAT News",
+      "date": "2026-11-06",
+      "url": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：安轉的 Repatha 與減少心臟病發作有關",
+      "summary": "關於生物製藥環境的簡潔介紹文字。 Zolgensma 諾華揭露了 7 例先前未報告的接受 Zolgensma 基因治療的兒童腫瘤病例，諾華引用了更多腫瘤報告",
+      "source": "STAT News",
+      "date": "2026-11-06",
+      "url": "https://www.statnews.com/2026/11/06/biotech-news-amgen-repatha-linked-to-fewer-heart-attacks/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關諾華基因療法、更快的英國藥物審查等等的信息",
+      "summary": "諾華承認在接受 Zolgensma 治療脊髓性肌肉萎縮症的兒童中發現了 7 例腫瘤",
+      "source": "STAT News",
+      "date": "2026-11-06",
+      "url": "https://www.statnews.com/pharmalot/2026/11/06/novartis-gene-therapy-tumors-found-faster-uk-drug-reviews/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "諾華揭示癌症病例可能與基因療法 Zolgensma 有關",
+      "summary": "九名接受者患有癌症——其中兩人涉及病毒傳遞工具整合到患者 DNA 中的證據——可能會為基因治療領域提出新的問題。",
+      "source": "BioPharma Dive",
+      "date": "2026-11-06",
+      "url": "https://www.biopharmadive.com/news/zolgensma-tumor-report-novartis-sma-spinal-muscular-atrophy/873990/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "禮來 (Lilly) 與 Hims 達成 GLP-1 協議； Alnylam 銷售主管辭職",
+      "summary": "這筆交易是 Hims 策略轉變的一部分，該公司先前曾銷售仿冒 GLP-1 藥物。在其他地方，施維雅最近收購的一種藥物在一項關鍵試驗中失敗，Ultragenyx 宣布裁員。",
+      "source": "BioPharma Dive",
+      "date": "2026-11-06",
+      "url": "https://www.biopharmadive.com/news/lilly-hims-alnylam-boehringer-ultragenyx-sevasemten-ani-egetis/873843/",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：製藥公司的貿易集團在搜尋廣告上投入巨資影響公眾輿論",
       "summary": "最近七年裡，PhRMA 估計花費了 5,900 萬美元搜尋廣告，以影響美國人對處方藥成本的看法。",
@@ -11,15 +51,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA 基因療法",
-      "summary": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma.",
+      "title": "STAT+：諾華引用了先前未知的腫瘤病例，可能與其 SMA 基因治療有關",
+      "summary": "諾華公司承認有七起先前未知的病例，在接受脊髓性肌肉萎縮症療法 Zolgensma 治療的兒童中發現了腫瘤。",
       "source": "STAT News",
       "date": "2026-11-05",
       "url": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: A possible comeback for a failed sickle cell 基因療法",
+      "title": "STAT+：鐮狀細胞基因治療失敗可能捲土重來",
       "summary": "三年前，一項為期十年的鐮狀細胞基因編輯療法試驗在第一位患者遭受嚴重不良事件後突然結束。现在，治疗",
       "source": "STAT News",
       "date": "2026-11-05",
@@ -27,27 +67,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "醫療保險將從 340B 削減數十億美元，並在 2027 年擴大現場中立支付",
-      "summary": "Regulators finalized a rule Wednesday that would slash payments for drugs in the controversial 340B program and equalize some payments between care sites. Hospitals railed against the rule.",
+      "title": "聯邦醫療保險將從340B計畫削減數十億美元，並在2027年擴大「同地同酬」支付",
+      "summary": "監管機構週三敲定一項規定，將大幅削減具爭議的340B藥品計畫的支付款項，並讓部分醫療服務的支付標準趨於一致。",
       "source": "BioPharma Dive",
       "date": "2026-11-05",
       "url": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
       "lang": "zh-TW"
     },
     {
-      "title": "Alethio 籌集 9000 萬美元用於治療罕見血癌",
-      "summary": "The startup is working on a medicine one of its investors claimed could have a broader reach than other approved drugs for a group of conditions known as myeloproliferative neoplasms.",
+      "title": "Alethio募資9000萬美元，鎖定罕見血癌治療",
+      "summary": "新創公司Alethio成功募資9000萬美元，將用於開發治療罕見血癌的藥物。",
       "source": "BioPharma Dive",
       "date": "2026-11-05",
       "url": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over 美國食藥局（FDA） funding bill",
-      "summary": "桑德斯可以利用他在製定 美國食藥局（FDA） 資助法案中的作用來推動改革。",
-      "source": "STAT News",
-      "date": "2026-11-04",
-      "url": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
       "lang": "zh-TW"
     }
   ]
