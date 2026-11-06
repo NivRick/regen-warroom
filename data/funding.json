@@ -1,37 +1,53 @@
 {
   "module": "funding",
-  "updated": "2026-11-05T18:27:12.215523+00:00",
+  "updated": "2026-11-06T03:00:34.906260+00:00",
   "items": [
     {
-      "title": "STAT+: 鐮狀細胞基因療法敗部復活有望？",
-      "summary": "三年前，一項耗時十年研發的鐮狀細胞基因編輯療法臨床試驗，因首位病患出現嚴重不良反應而突然中止。",
+      "title": "STAT+：製藥公司的貿易集團在搜尋廣告上投入巨資影響公眾輿論",
+      "summary": "最近七年裡，PhRMA 估計花費了 5,900 萬美元搜尋廣告，以影響美國人對處方藥成本的看法。",
+      "source": "STAT News",
+      "date": "2026-11-05",
+      "url": "https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA 基因療法",
+      "summary": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma.",
+      "source": "STAT News",
+      "date": "2026-11-05",
+      "url": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: A possible comeback for a failed sickle cell 基因療法",
+      "summary": "三年前，一項為期十年的鐮狀細胞基因編輯療法試驗在第一位患者遭受嚴重不良事件後突然結束。现在，治疗",
       "source": "STAT News",
       "date": "2026-11-05",
       "url": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Alethio募資9千萬美元，鎖定罕見血癌治療",
-      "summary": "這家新創公司正在研發一款藥物，其投資人聲稱，這款藥物在治療一系列已知病症上，可能比其他已核准藥物有更廣泛的應用。",
+      "title": "醫療保險將從 340B 削減數十億美元，並在 2027 年擴大現場中立支付",
+      "summary": "Regulators finalized a rule Wednesday that would slash payments for drugs in the controversial 340B program and equalize some payments between care sites. Hospitals railed against the rule.",
+      "source": "BioPharma Dive",
+      "date": "2026-11-05",
+      "url": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Alethio 籌集 9000 萬美元用於治療罕見血癌",
+      "summary": "The startup is working on a medicine one of its investors claimed could have a broader reach than other approved drugs for a group of conditions known as myeloproliferative neoplasms.",
       "source": "BioPharma Dive",
       "date": "2026-11-05",
       "url": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 藥廠批評者桑德斯，將對美國食品藥物管理局（FDA）預算案握有重大影響力",
-      "summary": "桑德斯可能利用他在制定美國食品藥物管理局（FDA）預算案的職權，推動藥品相關改革。",
+      "title": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over 美國食藥局（FDA） funding bill",
+      "summary": "桑德斯可以利用他在製定 美國食藥局（FDA） 資助法案中的作用來推動改革。",
       "source": "STAT News",
       "date": "2026-11-04",
       "url": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: CVS Health將分拆，逆轉多年來整合藥局與保險的策略",
-      "summary": "CVS Health的分拆決定，是在聯邦與州政府對其垂直整合模式加強審查的背景下做出。",
-      "source": "STAT News",
-      "date": "2026-11-04",
-      "url": "https://www.statnews.com/2026/11/04/cvs-splits-pharmacy-from-insurance/?utm_campaign=rss",
       "lang": "zh-TW"
     }
   ]
