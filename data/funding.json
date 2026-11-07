@@ -1,7 +1,15 @@
 {
   "module": "funding",
-  "updated": "2026-11-07T02:29:52.715965+00:00",
+  "updated": "2026-11-07T16:43:27.408625+00:00",
   "items": [
+    {
+      "title": "諾華（Novartis）Lp(a) 藥物失利，心血管策略引發質疑",
+      "summary": "諾華一款藥物在美國心臟協會（AHA）會議上揭露，雖能降低心血管疾病風險標記，卻未能減少心臟病發或中風機率，",
+      "source": "STAT News",
+      "date": "2026-11-07",
+      "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：新的腫瘤病例顯示常見的基因治療工具可能會帶來風險",
       "summary": "新病例顯示 Zolgensma 等 AAV 基因療法具有腫瘤風險，引起 SMA 患者和基因治療研究人員的普遍關注。",
@@ -35,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Lilly, Hims reach GLP-1 deal; Alnylam sales chief to step down",
+      "title": "禮來 (Lilly) 與 Hims 達成 GLP-1 協議； Alnylam 銷售主管辭職",
       "summary": "這筆交易是 Hims 策略轉變的一部分，該公司先前曾銷售仿冒 GLP-1 藥物。在其他地方，施維雅最近收購的一種藥物在一項關鍵試驗中失敗，Ultragenyx 宣布裁員。",
       "source": "BioPharma Dive",
       "date": "2026-11-06",
@@ -59,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "醫療保險將從 340B 削減數十億美元，並在 2027 年擴大現場中立支付",
-      "summary": "監管機構週三敲定了一項規則，將大幅削減備受爭議的 340B 計劃中的藥品付款，並平衡護理機構之間的部分付款。醫院強烈反對這項規定。",
+      "title": "聯邦醫療保險計畫2027年將大砍340B藥品給付數十億美元，並擴大「地點中立」支付",
+      "summary": "監管機構週三敲定一項規定，將大幅削減具爭議的340B計畫藥品給付，並平衡不同醫療場所",
       "source": "BioPharma Dive",
       "date": "2026-11-05",
       "url": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
@@ -72,6 +80,14 @@
       "source": "BioPharma Dive",
       "date": "2026-11-05",
       "url": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Fierce Biotech 籌款追蹤 '26：Alethio 罕見血癌藥物 A 輪融資金額達 9,000 萬美元",
+      "summary": "Alethio 罕見血癌藥物獲得 9,000 萬美元 A 輪融資 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     }
   ]

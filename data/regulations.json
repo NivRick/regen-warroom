@@ -1,7 +1,31 @@
 {
   "module": "regulation",
-  "updated": "2026-11-07T02:29:25.012215+00:00",
+  "updated": "2026-11-07T16:42:56.504091+00:00",
   "items": [
+    {
+      "title": "ZOLGENSMA",
+      "summary": "ZOLGENSMA（歐那西明基因阿貝帕沃維克）是一種腺相關病毒載體基因療法，核准用於治療兩歲以下的兒童患者。",
+      "source": "FDA Biologics",
+      "date": "2026-11-06",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/zolgensma",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑最新動態",
+      "summary": "來自美國FDA生物製劑評估與",
+      "source": "FDA Biologics",
+      "date": "2026-11-06",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 正在調查與 Zolgensma 基因治療相關的嚴重惡性腫瘤風險",
+      "summary": "美國食藥局（FDA） 已收到接受 Zolgensma 治療脊髓性肌肉萎縮症 (SMA) 患者的上市後不良事件報告，Zolgensma 是一種基於腺相關病毒 (AAV) 載體的基因療法",
+      "source": "FDA Biologics",
+      "date": "2026-11-06",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-investigating-serious-risk-malignancy-linked-zolgensma-gene-therapy",
+      "lang": "zh-TW"
+    },
     {
       "title": "BioCardia 與日本 日本藥品局（PMDA） 完成 CardiAMP 細胞治療系統的臨床諮詢流程，推進提交上市批准申請",
       "summary": "n 與日本 日本藥品局（PMDA） 合作開發 CardiAMP 細胞治療系統，推動提交上市申請 澳門業務",
@@ -40,22 +64,6 @@
       "source": "11/14/2024",
       "date": "2026-11-04",
       "url": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/workshop-integration-site-analysis-during-long-term-follow-gene-therapies-integrating-viral-vectors",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "最近發布的生物製品指導文件",
-      "summary": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
-      "source": "FDA Biologics",
-      "date": "2026-11-03",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品的新動態",
-      "summary": "生物製品評估與研究中心的最新消息",
-      "source": "FDA Biologics",
-      "date": "2026-11-02",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     }
   ]
