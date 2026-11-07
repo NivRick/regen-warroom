@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-11-06T17:49:46.698971+00:00",
+  "updated": "2026-11-07T02:29:52.715965+00:00",
   "items": [
     {
-      "title": "STAT+：新腫瘤案例顯示，常見的基因療法工具可能伴隨風險",
-      "summary": "新案例顯示，像Zolgensma這類腺相關病毒（AAV）基因療法帶有腫瘤風險，引發脊髓性肌肉萎縮症（SMA）病患和基因療法研究人員的普遍擔憂。",
+      "title": "STAT+：新的腫瘤病例顯示常見的基因治療工具可能會帶來風險",
+      "summary": "新病例顯示 Zolgensma 等 AAV 基因療法具有腫瘤風險，引起 SMA 患者和基因治療研究人員的普遍關注。",
       "source": "STAT News",
       "date": "2026-11-06",
       "url": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
@@ -19,7 +19,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關諾華基因療法、更快的英國藥物審查等等的信息",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關諾華基因療法、更快的英國藥物審查等的信息",
       "summary": "諾華承認在接受 Zolgensma 治療脊髓性肌肉萎縮症的兒童中發現了 7 例腫瘤",
       "source": "STAT News",
       "date": "2026-11-06",
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "禮來 (Lilly) 與 Hims 達成 GLP-1 協議； Alnylam 銷售主管辭職",
+      "title": "Lilly, Hims reach GLP-1 deal; Alnylam sales chief to step down",
       "summary": "這筆交易是 Hims 策略轉變的一部分，該公司先前曾銷售仿冒 GLP-1 藥物。在其他地方，施維雅最近收購的一種藥物在一項關鍵試驗中失敗，Ultragenyx 宣布裁員。",
       "source": "BioPharma Dive",
       "date": "2026-11-06",
@@ -59,24 +59,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：鐮狀細胞基因治療失敗可能捲土重來",
-      "summary": "三年前，一項為期十年的鐮狀細胞基因編輯療法試驗在第一位患者遭受嚴重不良事件後突然結束。现在，治疗",
-      "source": "STAT News",
-      "date": "2026-11-05",
-      "url": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "聯邦醫療保險將從340B計畫削減數十億美元，並在2027年擴大「同地同酬」支付",
-      "summary": "監管機構週三敲定一項規定，將大幅削減具爭議的340B藥品計畫的支付款項，並讓部分醫療服務的支付標準趨於一致。",
+      "title": "醫療保險將從 340B 削減數十億美元，並在 2027 年擴大現場中立支付",
+      "summary": "監管機構週三敲定了一項規則，將大幅削減備受爭議的 340B 計劃中的藥品付款，並平衡護理機構之間的部分付款。醫院強烈反對這項規定。",
       "source": "BioPharma Dive",
       "date": "2026-11-05",
       "url": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
       "lang": "zh-TW"
     },
     {
-      "title": "Alethio募資9000萬美元，鎖定罕見血癌治療",
-      "summary": "新創公司Alethio成功募資9000萬美元，將用於開發治療罕見血癌的藥物。",
+      "title": "Alethio 籌集 9000 萬美元用於治療罕見血癌",
+      "summary": "該新創公司正在開發一種藥物，其一位投資者聲稱該藥物可能比其他已批准的藥物更廣泛地治療一組稱為骨髓增殖性腫瘤的疾病。",
       "source": "BioPharma Dive",
       "date": "2026-11-05",
       "url": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",

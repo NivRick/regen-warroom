@@ -1,6 +1,6 @@
 {
   "module": "regulation",
-  "updated": "2026-11-06T17:49:04.953110+00:00",
+  "updated": "2026-11-07T02:29:25.012215+00:00",
   "items": [
     {
       "title": "BioCardia 與日本 日本藥品局（PMDA） 完成 CardiAMP 細胞治療系統的臨床諮詢流程，推進提交上市批准申請",
@@ -11,32 +11,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑電子閱覽室（eFOIA）",
-      "summary": "生物製劑電子閱覽室（eFOIA）提供「疫苗、血液與生物製劑」及其他相關文件查閱。",
+      "title": "生物製品電子閱覽室（eFOIA）",
+      "summary": "生物製劑 eFOI 閱覽室提供對 美國食藥局（FDA）.gov 網站上「疫苗、血液和生物製劑」以及與生物製劑評估和研究中心相關的其他部分發布的文件的存取。",
       "source": "FDA Biologics",
       "date": "2026-11-05",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
       "lang": "zh-TW"
     },
     {
-      "title": "治療產品辦公室（OTP）指導網路研討會：細胞與基因治療產品的效力保證",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的治療產品辦公室（OTP）將舉辦一場線上公開研討會。",
+      "title": "OTP 指導網路研討會：細胞和基因治療產品的效力保證",
+      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 12 月 3 日星期四下午 1:00 舉辦虛擬公共網路研討會。 ET 討論最近定稿的指導文件「效力保證",
       "source": "12/10/2026",
       "date": "2026-11-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/otp-guidance-webinar-potency-assurance-cellular-and-gene-therapy-products-12102026",
       "lang": "zh-TW"
     },
     {
-      "title": "運用AI開發的禽流感疫苗在臨床前試驗中表現優於現有儲備疫苗",
-      "summary": "研究人員運用AI開發出廣效型禽流感疫苗，在臨床前試驗中表現超越現有儲備疫苗。",
+      "title": "使用人工智慧開發的禽流感疫苗在臨床前測試中優於目前庫存的疫苗",
+      "summary": "研究人員使用人工智慧引導的工程方法創建了一種具有廣泛保護性的禽流感疫苗，該疫苗旨在對現有和未來的多種 H5Nx 變種保持有效。該帖子顯示了 Preclini 目前庫存的疫苗",
       "source": "GEN News",
       "date": "2026-11-05",
       "url": "https://www.genengnews.com/topics/infectious-diseases/bird-flu-vaccine-developed-using-ai-outperforms-current-stockpiled-vaccines-in-preclinical-tests/",
       "lang": "zh-TW"
     },
     {
-      "title": "基因療法整合性病毒載體長期追蹤之整合位點分析研討會",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的治療產品辦公室（",
+      "title": "整合病毒載體基因治療長期追蹤期間整合位點分析研討會",
+      "summary": "美國食藥局（FDA） 的生物製品評估和研究中心 (CBER) 治療產品辦公室 (OTP) 正在舉辦一場虛擬科學公共研討會，討論整合位點分析 (ISA) 在給藥後長期追蹤期間的臨床應用。",
       "source": "11/14/2024",
       "date": "2026-11-04",
       "url": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/workshop-integration-site-analysis-during-long-term-follow-gene-therapies-integrating-viral-vectors",
@@ -44,7 +44,7 @@
     },
     {
       "title": "最近發布的生物製品指導文件",
-      "summary": "本頁列出了最近發布的 CBER 和跨中心指導文件。",
+      "summary": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
       "source": "FDA Biologics",
       "date": "2026-11-03",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
@@ -56,22 +56,6 @@
       "source": "FDA Biologics",
       "date": "2026-11-02",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "細胞和基因治療指南",
-      "summary": "此頁麵包含細胞和基因治療指南的清單。",
-      "source": "FDA Biologics",
-      "date": "2026-11-02",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） 明確支持細胞和基因療法的開發和品質",
-      "summary": "美國食品藥物管理局今天發布了細胞和基因療法 (CGT) 產品製造商的最終指南，以實施基於科學和風險的全面計劃，以確保其產品符合功效標準。",
-      "source": "FDA Biologics",
-      "date": "2026-11-02",
-      "url": "http://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality",
       "lang": "zh-TW"
     }
   ]
