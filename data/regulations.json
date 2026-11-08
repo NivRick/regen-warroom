@@ -1,6 +1,6 @@
 {
   "module": "regulation",
-  "updated": "2026-11-08T01:58:10.734708+00:00",
+  "updated": "2026-11-08T16:53:47.724336+00:00",
   "items": [
     {
       "title": "ZOLGENSMA",
@@ -11,48 +11,56 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新消息",
-      "summary": "美國食品藥物管理局生物製劑評估與",
+      "title": "生物製劑最新動態",
+      "summary": "來自美國食品藥物管理局（FDA",
       "source": "FDA Biologics",
       "date": "2026-11-06",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） Investigating Serious Risk of Malignancy Linked to Zolgensma 基因療法",
-      "summary": "美國食藥局（FDA） has received postmarketing adverse event reports of malignancies in patients treated with Zolgensma, an adeno-associated virus (AAV) vector-based 基因療法, for spinal muscular atrophy (SMA)",
+      "title": "美國食藥局（FDA） 正在調查與 Zolgensma 基因治療相關的嚴重惡性腫瘤風險",
+      "summary": "美國食藥局（FDA） 已收到接受 Zolgensma 治療脊髓性肌肉萎縮症 (SMA) 患者的上市後不良事件報告，Zolgensma 是一種基於腺相關病毒 (AAV) 載體的基因療法",
       "source": "FDA Biologics",
       "date": "2026-11-06",
       "url": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-investigating-serious-risk-malignancy-linked-zolgensma-gene-therapy",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia Completes Clinical Consultation Process with Japan's 日本藥品局（PMDA） for CardiAMP 細胞治療 System, Advancing Toward Submission of Marketing Approval Application",
-      "summary": "n Process with Japan's 日本藥品局（PMDA） for CardiAMP 細胞治療 System, Advancing Toward Submission of Marketing Approval Application Macau Business",
-      "source": "Macau Business",
+      "title": "BioCardia 的 CardiAMP 完成日本上市前諮詢，這是第一個心臟細胞療法",
+      "summary": "市場諮詢，第一個心肌細胞療法這樣做 Tech Times",
+      "source": "Tech Times",
       "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUUpWZzBXTVZDS1FtS0hIYk9OdWFtOUwwUmVVSW4tSERFa01hR1ViQ0tpTHQxYXlVZ0c2ZXk4YXNLVDZEQnhuZTF0enp6Vkk1X3F4RUtGTkZZZm5KREQxX3Z0YU9QWHVzWmJScmlscWZ1UnNzTjFYeTd0ekV6bGhjQkxrRXlvQy1pbjNzeWlyS0pQcUhmYVF2QU1GODVIR2pGbV9oRW9reWFGek0yUllTX2NTOEx3VDhtT1l6VUIyMGx5NW9pOEh6V0V0R24xSUd2MlJQczlENmRZbUJRZVdjb3JpckY0bTU4VGhYTUs4dmI5YjY5Y0NZVUd5UkZQQzA2cU1LZ29qb1BhWFk1T2RQemFLa01kd1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Biologics Electronic Reading Room (eFOIA)",
-      "summary": "The Biologics eFOI Reading Room provides access to documents posted throughout the \"Vaccines, Blood & Biologics\" and other sections related to the Center for Biologics Evaluation and Research on the 美國食藥局（FDA）.gov Web site.",
+      "title": "BioCardia 完成 CardiAMP 療法的 日本藥品局（PMDA） 諮詢",
+      "summary": "或 CardiAMP 治療提示排名",
+      "source": "TipRanks",
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYmRBRkpTajA5eE1hNWY5U0pIT2YtaDBxeVhlQlZEYXh3VmRzTE5BQWZudkR6d2tXbTAyd2NVaTJESG05cWhsaTlpSmhFV1BYc1NYekVCSTU3eTU5SzMwZDFLOW5LbEI4RDhYdERjdk1XSVlUZ194NTVvWWJkWkd3U3J4STRBVXNqZkJoYmstRXh4U2hmbmQzMHhqTkdueGFvemQ4REd5NVVpOTRmVjJJZg?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品電子閱覽室（eFOIA）",
+      "summary": "生物製劑 eFOI 閱覽室提供對 美國食藥局（FDA）.gov 網站上「疫苗、血液和生物製劑」以及與生物製劑評估和研究中心相關的其他部分發布的文件的存取。",
       "source": "FDA Biologics",
       "date": "2026-11-05",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
       "lang": "zh-TW"
     },
     {
-      "title": "OTP Guidance Webinar: Potency Assurance for Cellular and 基因療法 Products",
-      "summary": "The 美國食藥局（FDA） Center for Biologics Evaluation and Research (CBER), Office of Therapeutic Products (OTP) will host a virtual public webinar on Thursday, December 3, 2026 at 1:00 p.m. ET to discuss the recently finalized guidance document, “Potency Assurance",
+      "title": "OTP 指導網路研討會：細胞和基因治療產品的效力保證",
+      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 12 月 3 日星期四下午 1:00 舉辦虛擬公共網路研討會。專家小組將討論最近定稿的指導文件“效力保證”",
       "source": "12/10/2026",
       "date": "2026-11-05",
       "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/otp-guidance-webinar-potency-assurance-cellular-and-gene-therapy-products-12102026",
       "lang": "zh-TW"
     },
     {
-      "title": "Bird Flu Vaccine Developed Using AI Outperforms Current Stockpiled Vaccines in Preclinical Tests",
-      "summary": "Researchers used an AI-guided engineering approach to create a broadly protective bird flu vaccine that is designed to remain effective across a wide range of existing and future H5Nx variants. The post erforms Current Stockpiled Vaccines in Preclini",
+      "title": "運用人工智慧（AI）開發的禽流感疫苗，在臨床前試驗中表現優於現有儲備疫苗",
+      "summary": "運用AI開發的禽流感疫苗，在臨床前試驗中展現比現有儲備疫苗更優異的保護力。",
       "source": "GEN News",
       "date": "2026-11-05",
       "url": "https://www.genengnews.com/topics/infectious-diseases/bird-flu-vaccine-developed-using-ai-outperforms-current-stockpiled-vaccines-in-preclinical-tests/",
