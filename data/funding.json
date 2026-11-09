@@ -1,9 +1,33 @@
 {
   "module": "funding",
-  "updated": "2026-11-09T02:15:12.816540+00:00",
+  "updated": "2026-11-09T21:16:11.473502+00:00",
   "items": [
     {
-      "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+      "title": "STAT+: Bill Ackman 的大膽計畫：革新腦部研究",
+      "summary": "億萬富翁 Bill Ackman 因一段悲劇過往，提出一項大膽計畫，旨在徹底改變腦部研究。",
+      "source": "STAT News",
+      "date": "2026-11-09",
+      "url": "https://www.statnews.com/2026/11/09/bill-ackman-launches-new-brain-research-institute/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: 基因療法長期爭議的致癌風險成真",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-11-09",
+      "url": "https://www.statnews.com/2026/11/09/biotech-news-gene-therapy-long-debated-cancer-risk-materializes/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Argenx 將收購勝肽平台，交易金額可能達數十億美元",
+      "summary": "For $550 million up front, Argenx will take control of Unnatural Products&rsquo; &ldquo;macrocyclic peptide&rdquo; technology and direct it to develop oral, durable medicines for serious immune-mediated diseases.",
+      "source": "BioPharma Dive",
+      "date": "2026-11-09",
+      "url": "https://www.biopharmadive.com/news/argenx-unnatural-products-acquisition-deal-peptides-protein-macrocyclic-immune/874119/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：諾華 Lp(a) 藥物的失敗引發了對心血管策略的質疑",
       "summary": "美國心臟協會會議上的醫學謎團：諾華公司的一種藥物降低了心血管疾病的風險標誌，但並沒有降低心臟病發作或中風的風險。",
       "source": "STAT News",
       "date": "2026-11-07",
@@ -11,32 +35,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：新的腫瘤病例顯示常見的基因治療工具可能會帶來風險",
-      "summary": "新病例顯示 Zolgensma 等 AAV 基因療法具有腫瘤風險，引起 SMA 患者和基因治療研究人員的普遍關注。",
-      "source": "STAT News",
-      "date": "2026-11-06",
-      "url": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：安轉的 Repatha 與減少心臟病發作有關",
-      "summary": "關於生物製藥環境的簡潔介紹文字。 Zolgensma 諾華揭露了 7 例先前未報告的接受 Zolgensma 基因治療的兒童腫瘤病例，諾華引用了更多腫瘤報告",
-      "source": "STAT News",
-      "date": "2026-11-06",
-      "url": "https://www.statnews.com/2026/11/06/biotech-news-amgen-repatha-linked-to-fewer-heart-attacks/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關諾華基因療法、更快的英國藥物審查等等的信息",
-      "summary": "Novartis acknowledged seven instances of tumors being found in children who were treated with Zolgensma for spinal muscular atrophy",
-      "source": "STAT News",
-      "date": "2026-11-06",
-      "url": "https://www.statnews.com/pharmalot/2026/11/06/novartis-gene-therapy-tumors-found-faster-uk-drug-reviews/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "諾華揭示癌症病例可能與基因療法 Zolgensma 有關",
-      "summary": "九名接受者患有癌症——其中兩人涉及病毒傳遞工具整合到患者 DNA 中的證據——可能會為基因治療領域提出新的問題。",
+      "summary": "美國食藥局（FDA） 目前正在調查與 Zolgensma 相關的惡性腫瘤風險，並「評估監管行動是否適當」。",
       "source": "BioPharma Dive",
       "date": "2026-11-06",
       "url": "https://www.biopharmadive.com/news/zolgensma-tumor-report-novartis-sma-spinal-muscular-atrophy/873990/",
@@ -51,7 +51,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Medicare will cut billions from 340B, expand site-neutral payments in 2027",
+      "title": "醫療保險將從 340B 削減數十億美元，並在 2027 年擴大現場中立支付",
       "summary": "監管機構週三敲定了一項規則，將大幅削減備受爭議的 340B 計劃中的藥品付款，並平衡護理機構之間的部分付款。醫院強烈反對這項規定。",
       "source": "BioPharma Dive",
       "date": "2026-11-05",
@@ -59,15 +59,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Alethio 籌集 9000 萬美元用於治療罕見血癌",
-      "summary": "該新創公司正在開發一種藥物，其一位投資者聲稱該藥物可能比其他已批准的藥物更廣泛地治療一組稱為骨髓增殖性腫瘤的疾病。",
-      "source": "BioPharma Dive",
-      "date": "2026-11-05",
-      "url": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 籌款追蹤 '26：Alethio 罕見血癌藥物 A 輪融資金額達 9,000 萬美元",
+      "title": "Fierce Biotech 籌款追蹤器 '26：Alethio 罕見血癌藥物 A 輪融資金額達 9,000 萬美元",
       "summary": "Alethio 罕見血癌藥物獲得 9,000 萬美元 A 輪融資 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-11-05",
