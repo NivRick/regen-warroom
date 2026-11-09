@@ -1,29 +1,45 @@
 {
   "module": "regulation",
-  "updated": "2026-11-08T16:53:47.724336+00:00",
+  "updated": "2026-11-09T02:14:33.882522+00:00",
   "items": [
     {
-      "title": "ZOLGENSMA",
-      "summary": "ZOLGENSMA（onasemnogene abeparvovec-xioi）是一種腺相關病毒載體基因療法，核准用於治療兩歲以下小兒患者。",
+      "title": "生物製品電子閱覽室（eFOIA）",
+      "summary": "生物製劑 eFOI 閱覽室提供對 美國食藥局（FDA）.gov 網站上「疫苗、血液和生物製劑」以及與生物製劑評估和研究中心相關的其他部分發布的文件的存取。",
       "source": "FDA Biologics",
-      "date": "2026-11-06",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/zolgensma",
+      "date": "2026-11-08",
+      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新動態",
-      "summary": "來自美國食品藥物管理局（FDA",
-      "source": "FDA Biologics",
-      "date": "2026-11-06",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "title": "OTP 指導網路研討會：細胞和基因治療產品的效力保證",
+      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 12 月 3 日星期四下午 1:00 舉辦虛擬公共網路研討會。 ET 讨论最近定稿的指导文件“效力保证",
+      "source": "12/10/2026",
+      "date": "2026-11-08",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/otp-guidance-webinar-potency-assurance-cellular-and-gene-therapy-products-12102026",
       "lang": "zh-TW"
     },
     {
       "title": "美國食藥局（FDA） 正在調查與 Zolgensma 基因治療相關的嚴重惡性腫瘤風險",
       "summary": "美國食藥局（FDA） 已收到接受 Zolgensma 治療脊髓性肌肉萎縮症 (SMA) 患者的上市後不良事件報告，Zolgensma 是一種基於腺相關病毒 (AAV) 載體的基因療法",
       "source": "FDA Biologics",
-      "date": "2026-11-06",
+      "date": "2026-11-08",
       "url": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-investigating-serious-risk-malignancy-linked-zolgensma-gene-therapy",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "佐爾根斯瑪",
+      "summary": "（onasemnogene abeparvovec-xioi）是一種基於腺相關病毒載體的基因療法，適用於治療 2 歲以下患有脊髓性肌肉萎縮症（SMA）且運動神經存活中存在雙等位基因突變的兒科患者",
+      "source": "FDA Biologics",
+      "date": "2026-11-06",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/zolgensma",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
+      "source": "FDA Biologics",
+      "date": "2026-11-06",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
@@ -35,40 +51,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 完成 CardiAMP 療法的 日本藥品局（PMDA） 諮詢",
-      "summary": "或 CardiAMP 治療提示排名",
-      "source": "TipRanks",
-      "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYmRBRkpTajA5eE1hNWY5U0pIT2YtaDBxeVhlQlZEYXh3VmRzTE5BQWZudkR6d2tXbTAyd2NVaTJESG05cWhsaTlpSmhFV1BYc1NYekVCSTU3eTU5SzMwZDFLOW5LbEI4RDhYdERjdk1XSVlUZ194NTVvWWJkWkd3U3J4STRBVXNqZkJoYmstRXh4U2hmbmQzMHhqTkdueGFvemQ4REd5NVVpOTRmVjJJZg?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品電子閱覽室（eFOIA）",
-      "summary": "生物製劑 eFOI 閱覽室提供對 美國食藥局（FDA）.gov 網站上「疫苗、血液和生物製劑」以及與生物製劑評估和研究中心相關的其他部分發布的文件的存取。",
-      "source": "FDA Biologics",
-      "date": "2026-11-05",
-      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "OTP 指導網路研討會：細胞和基因治療產品的效力保證",
-      "summary": "美國食藥局（FDA） 生物製品評估與研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2026 年 12 月 3 日星期四下午 1:00 舉辦虛擬公共網路研討會。專家小組將討論最近定稿的指導文件“效力保證”",
-      "source": "12/10/2026",
-      "date": "2026-11-05",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/office-therapeutic-products-otp-events-meetings-and-workshops/otp-guidance-webinar-potency-assurance-cellular-and-gene-therapy-products-12102026",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "運用人工智慧（AI）開發的禽流感疫苗，在臨床前試驗中表現優於現有儲備疫苗",
-      "summary": "運用AI開發的禽流感疫苗，在臨床前試驗中展現比現有儲備疫苗更優異的保護力。",
+      "title": "使用人工智慧開發的禽流感疫苗在臨床前測試中優於目前庫存的疫苗",
+      "summary": "研究人員使用人工智慧引導的工程方法創建了一種具有廣泛保護性的禽流感疫苗，該疫苗旨在對現有和未來的多種 H5Nx 變種保持有效。該帖子顯示了 Preclini 目前庫存的疫苗",
       "source": "GEN News",
       "date": "2026-11-05",
       "url": "https://www.genengnews.com/topics/infectious-diseases/bird-flu-vaccine-developed-using-ai-outperforms-current-stockpiled-vaccines-in-preclinical-tests/",
       "lang": "zh-TW"
     },
     {
-      "title": "Workshop on Integration Site Analysis During Long Term Follow-Up for Gene Therapies with Integrating Viral Vectors",
-      "summary": "The 美國食藥局（FDA）’s Center for Biologics Evaluation and Research (CBER) Office of Therapeutic Products (OTP) is hosting a virtual scientific public workshop on the clinical use of integration site analysis (ISA) during long term follow-up following administrat",
+      "title": "整合病毒載體基因治療長期追蹤期間整合位點分析研討會",
+      "summary": "美國食藥局（FDA） 的生物製品評估和研究中心 (CBER) 治療產品辦公室 (OTP) 正在舉辦一場虛擬科學公共研討會，討論整合位點分析 (ISA) 在給藥後長期追蹤期間的臨床應用。",
       "source": "11/14/2024",
       "date": "2026-11-04",
       "url": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/workshop-integration-site-analysis-during-long-term-follow-gene-therapies-integrating-viral-vectors",
