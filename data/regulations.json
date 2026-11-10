@@ -1,21 +1,37 @@
 {
   "module": "regulation",
-  "updated": "2026-11-10T04:27:04.254464+00:00",
+  "updated": "2026-11-10T18:25:02.742731+00:00",
   "items": [
+    {
+      "title": "CBER傾聽會議：病患與照護夥伴對罕見疾病基因療法臨床試驗早期參與的看法",
+      "summary": "基因療法臨床試驗能提供風險與效益資訊，協助病患做出知情決定；長期追蹤對評估安全性與療效持久性也至關重要。",
+      "source": "FDA Biologics",
+      "date": "2026-11-10",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/cber-listening-meeting-patient-and-care-partner-perspectives-early-enrollment-gene-therapy-clinical",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品電子閱覽室（eFOIA）",
+      "summary": "生物製劑 eFOI 閱覽室提供對 美國食藥局（FDA）.gov 網站上「疫苗、血液和生物製劑」以及與生物製劑評估和研究中心相關的其他部分發布的文件的存取。",
+      "source": "FDA Biologics",
+      "date": "2026-11-10",
+      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "CBER 2026 孤兒批准（新 BLA）",
+      "summary": "",
+      "source": "FDA Biologics",
+      "date": "2026-11-10",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
+      "lang": "zh-TW"
+    },
     {
       "title": "核准的細胞和基因治療產品",
       "summary": "治療產品辦公室 (OTP) 許可和批准的產品清單。",
       "source": "FDA Biologics",
       "date": "2026-11-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "MedWatch 警報：美國食藥局（FDA） 正在調查與 Zolgensma 基因治療相關的嚴重惡性腫瘤風險",
-      "summary": "美國食藥局（FDA） 調查與 Zolgensma 基因治療相關的嚴重惡性腫瘤風險：美國食藥局（FDA） 安全通訊",
-      "source": "FDA Biologics",
-      "date": "2026-11-09",
-      "url": "http://www.fda.gov/safety/medical-product-safety-information/medwatch-alert-fda-investigating-serious-risk-malignancy-linked-zolgensma-gene-therapy",
       "lang": "zh-TW"
     },
     {

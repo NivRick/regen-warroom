@@ -1,18 +1,42 @@
 {
   "module": "funding",
-  "updated": "2026-11-10T04:27:28.296733+00:00",
+  "updated": "2026-11-10T18:25:18.344517+00:00",
   "items": [
     {
-      "title": "Ionis Pharmaceuticals 股價暴跌，因其降三酸甘油酯藥物上市緩慢",
-      "summary": "Ionis Pharmaceuticals 週一市值蒸發超過 10 億美元，原因是該公司大幅下修了其降三酸甘油酯藥物的銷售預期。",
+      "title": "STAT+: Oura斥資6.25億美元收購Counsel Health，大舉押注AI醫療照護",
+      "summary": "智慧戒指製造商Oura近期延後上市計畫，宣布將斥資6.25億美元收購臨床AI新創公司Counsel Health。",
+      "source": "STAT News",
+      "date": "2026-11-10",
+      "url": "https://www.statnews.com/2026/11/10/oura-acquires-counsel-health-big-bet-ai-care/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "為何今年流",
+      "summary": "",
+      "source": "STAT News",
+      "date": "2026-11-10",
+      "url": "https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：州民主黨的勝利使醫療補助擴大成為超過一百萬人的可能",
+      "summary": "當民主黨掌權後，德州、喬治亞州和威斯康辛州可能會擴大其醫療補助計劃。",
+      "source": "STAT News",
+      "date": "2026-11-10",
+      "url": "https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：生技公司的降三酸甘油酯藥物緩慢推出後，Ionis Pharmaceuticals 股價暴跌",
+      "summary": "Ionis Pharmaceuticals 大幅削減了一種降甘油三酯藥物的銷售預期，週一該公司市值損失超過 10 億美元。",
       "source": "STAT News",
       "date": "2026-11-10",
       "url": "https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "億",
-      "summary": "",
+      "title": "STAT+：比爾·阿克曼改變大腦研究的大膽計劃",
+      "summary": "億萬富翁比爾·阿克曼在悲慘的背景故事的推動下提出了一項改變大腦研究的大膽計劃。",
       "source": "STAT News",
       "date": "2026-11-09",
       "url": "https://www.statnews.com/2026/11/09/bill-ackman-launches-new-brain-research-institute/?utm_campaign=rss",
@@ -32,38 +56,6 @@
       "source": "BioPharma Dive",
       "date": "2026-11-09",
       "url": "https://www.biopharmadive.com/news/argenx-unnatural-products-acquisition-deal-peptides-protein-macrocyclic-immune/874119/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：諾華 Lp(a) 藥物的失敗引發了對心血管策略的質疑",
-      "summary": "美國心臟協會會議上的醫學謎團：諾華公司的一種藥物降低了心血管疾病的風險標誌，但並沒有降低心臟病發作或中風的風險。",
-      "source": "STAT News",
-      "date": "2026-11-07",
-      "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "諾華揭示癌症病例可能與基因療法 Zolgensma 有關",
-      "summary": "美國食藥局（FDA） 目前正在調查與 Zolgensma 相關的惡性腫瘤風險，並「評估監管行動是否適當」。",
-      "source": "BioPharma Dive",
-      "date": "2026-11-06",
-      "url": "https://www.biopharmadive.com/news/zolgensma-tumor-report-novartis-sma-spinal-muscular-atrophy/873990/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "禮來 (Lilly) 與 Hims 達成 GLP-1 協議； Alnylam 銷售主管辭職",
-      "summary": "這筆交易是 Hims 策略轉變的一部分，該公司先前曾銷售仿冒 GLP-1 藥物。在其他地方，施維雅最近收購的一種藥物在一項關鍵試驗中失敗，Ultragenyx 宣布裁員。",
-      "source": "BioPharma Dive",
-      "date": "2026-11-06",
-      "url": "https://www.biopharmadive.com/news/lilly-hims-alnylam-boehringer-ultragenyx-sevasemten-ani-egetis/873843/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 籌款追蹤 '26：Alethio 罕見血癌藥物 A 輪融資金額達 9,000 萬美元",
-      "summary": "Alethio 罕見血癌藥物獲得 9,000 萬美元 A 輪融資 Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     },
     {
