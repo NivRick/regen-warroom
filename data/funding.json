@@ -1,18 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-11-09T21:16:11.473502+00:00",
+  "updated": "2026-11-10T04:27:28.296733+00:00",
   "items": [
     {
-      "title": "STAT+: Bill Ackman 的大膽計畫：革新腦部研究",
-      "summary": "億萬富翁 Bill Ackman 因一段悲劇過往，提出一項大膽計畫，旨在徹底改變腦部研究。",
+      "title": "Ionis Pharmaceuticals 股價暴跌，因其降三酸甘油酯藥物上市緩慢",
+      "summary": "Ionis Pharmaceuticals 週一市值蒸發超過 10 億美元，原因是該公司大幅下修了其降三酸甘油酯藥物的銷售預期。",
+      "source": "STAT News",
+      "date": "2026-11-10",
+      "url": "https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "億",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-11-09",
       "url": "https://www.statnews.com/2026/11/09/bill-ackman-launches-new-brain-research-institute/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: 基因療法長期爭議的致癌風險成真",
-      "summary": "",
+      "title": "STAT+：基因療法長期爭論的癌症風險成為現實",
+      "summary": "多年來，基因療法研究人員一直在爭論他們用來將替代基因運送到細胞中的病毒是否會導致腫瘤。現在，少數案例提供了強有力的證據：",
       "source": "STAT News",
       "date": "2026-11-09",
       "url": "https://www.statnews.com/2026/11/09/biotech-news-gene-therapy-long-debated-cancer-risk-materializes/?utm_campaign=rss",
@@ -20,7 +28,7 @@
     },
     {
       "title": "Argenx 將收購勝肽平台，交易金額可能達數十億美元",
-      "summary": "For $550 million up front, Argenx will take control of Unnatural Products&rsquo; &ldquo;macrocyclic peptide&rdquo; technology and direct it to develop oral, durable medicines for serious immune-mediated diseases.",
+      "summary": "Argenx 將先期支付 5.5 億美元，控制 Unnatural Products 的「大環肽」技術，並指導其開發針對嚴重免疫介導疾病的口服耐用藥物。",
       "source": "BioPharma Dive",
       "date": "2026-11-09",
       "url": "https://www.biopharmadive.com/news/argenx-unnatural-products-acquisition-deal-peptides-protein-macrocyclic-immune/874119/",
@@ -51,15 +59,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "醫療保險將從 340B 削減數十億美元，並在 2027 年擴大現場中立支付",
-      "summary": "監管機構週三敲定了一項規則，將大幅削減備受爭議的 340B 計劃中的藥品付款，並平衡護理機構之間的部分付款。醫院強烈反對這項規定。",
-      "source": "BioPharma Dive",
-      "date": "2026-11-05",
-      "url": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech 籌款追蹤器 '26：Alethio 罕見血癌藥物 A 輪融資金額達 9,000 萬美元",
+      "title": "Fierce Biotech 籌款追蹤 '26：Alethio 罕見血癌藥物 A 輪融資金額達 9,000 萬美元",
       "summary": "Alethio 罕見血癌藥物獲得 9,000 萬美元 A 輪融資 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-11-05",

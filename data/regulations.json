@@ -1,29 +1,37 @@
 {
   "module": "regulation",
-  "updated": "2026-11-09T21:15:33.912723+00:00",
+  "updated": "2026-11-10T04:27:04.254464+00:00",
   "items": [
     {
-      "title": "已核准的細胞與基因治療產品",
-      "summary": "這份清單列出了美國治療產品辦公室（OTP）已核發許可並核准上市的細胞與基因治療產品。",
+      "title": "核准的細胞和基因治療產品",
+      "summary": "治療產品辦公室 (OTP) 許可和批准的產品清單。",
       "source": "FDA Biologics",
       "date": "2026-11-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "MedWatch警訊：美國FDA正調查Zolgensma基因療法恐導致惡性腫瘤的嚴重風險",
-      "summary": "美國FDA發布安全通報，正針對Zolgensma基因療法可能引發惡性腫瘤的嚴重風險進行調查。",
+      "title": "MedWatch 警報：美國食藥局（FDA） 正在調查與 Zolgensma 基因治療相關的嚴重惡性腫瘤風險",
+      "summary": "美國食藥局（FDA） 調查與 Zolgensma 基因治療相關的嚴重惡性腫瘤風險：美國食藥局（FDA） 安全通訊",
       "source": "FDA Biologics",
       "date": "2026-11-09",
       "url": "http://www.fda.gov/safety/medical-product-safety-information/medwatch-alert-fda-investigating-serious-risk-malignancy-linked-zolgensma-gene-therapy",
       "lang": "zh-TW"
     },
     {
-      "title": "癌相關基因如何在不解開基因組的情況下觸發細胞分裂",
-      "summary": "",
+      "title": "癌症相關基因如何在不解開基因組的情況下觸發細胞分裂",
+      "summary": "一項研究顯示 E2F1 如何在不解開細胞遺傳物質的情況下觸發細胞分裂。相反，它採取了一條捷徑，直接與緊密包裹在細胞內的一小部分 DNA 結合。\n郵政科",
       "source": "GEN News",
       "date": "2026-11-09",
       "url": "https://www.genengnews.com/topics/cancer/how-cancer-associated-gene-triggers-cell-division-without-unpacking-the-genome/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BioCardia 在日本完成 CardiAMP 的 日本藥品局（PMDA） 流程",
+      "summary": "diAMP 在日本 scanx.trade",
+      "source": "scanx.trade",
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1JTb0gxUVd5eEhwUUI3OFloZFFKMTM3X2dhV1VQbzhDSm5FRzBnM0hWSWtEd0ZpekNZVHAzLVM3YXMtSE02ZV9Ca2lERXRIa2R6ZmdINUhfdTRRRUxqMklTX2gtWlllRmhxWEZpTHR2QnNCaF9RLS1ZNHp3b0ZkUG1LQ183c05hY1lMbFZNZGI4YmRTOWhSWEVKaFBlbDZVcDhhOG5lOA?oc=5",
       "lang": "zh-TW"
     }
   ]
