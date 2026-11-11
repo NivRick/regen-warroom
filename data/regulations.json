@@ -1,25 +1,25 @@
 {
   "module": "regulation",
-  "updated": "2026-11-10T18:25:02.742731+00:00",
+  "updated": "2026-11-11T02:22:46.459841+00:00",
   "items": [
     {
-      "title": "CBER傾聽會議：病患與照護夥伴對罕見疾病基因療法臨床試驗早期參與的看法",
-      "summary": "基因療法臨床試驗能提供風險與效益資訊，協助病患做出知情決定；長期追蹤對評估安全性與療效持久性也至關重要。",
+      "title": "CBER Listening Meeting: Patient and Care Partner Perspectives on Early Enrollment into 基因療法 臨床試驗 for Rare Diseases",
+      "summary": "基因療法 trials inform risks & benefits for informed decisions. Long-term follow-up crucial for safety & durability assessment.",
       "source": "FDA Biologics",
       "date": "2026-11-10",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/cber-listening-meeting-patient-and-care-partner-perspectives-early-enrollment-gene-therapy-clinical",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品電子閱覽室（eFOIA）",
-      "summary": "生物製劑 eFOI 閱覽室提供對 美國食藥局（FDA）.gov 網站上「疫苗、血液和生物製劑」以及與生物製劑評估和研究中心相關的其他部分發布的文件的存取。",
+      "title": "Biologics Electronic Reading Room (eFOIA)",
+      "summary": "The Biologics eFOI Reading Room provides access to documents posted throughout the \"Vaccines, Blood & Biologics\" and other sections related to the Center for Biologics Evaluation and Research on the 美國食藥局（FDA）.gov Web site.",
       "source": "FDA Biologics",
       "date": "2026-11-10",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 2026 孤兒批准（新 BLA）",
+      "title": "CBER 2026 Orphan Approvals (new BLAs)",
       "summary": "",
       "source": "FDA Biologics",
       "date": "2026-11-10",
@@ -27,24 +27,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "核准的細胞和基因治療產品",
-      "summary": "治療產品辦公室 (OTP) 許可和批准的產品清單。",
+      "title": "Approved Cellular and 基因療法 Products",
+      "summary": "Listing of licensed and approved products from the Office of Therapeutic Products (OTP).",
       "source": "FDA Biologics",
       "date": "2026-11-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "癌症相關基因如何在不解開基因組的情況下觸發細胞分裂",
-      "summary": "一項研究顯示 E2F1 如何在不解開細胞遺傳物質的情況下觸發細胞分裂。相反，它採取了一條捷徑，直接與緊密包裹在細胞內的一小部分 DNA 結合。\n郵政科",
+      "title": "How Cancer-Associated Gene Triggers Cell Division Without Unpacking the Genome",
+      "summary": "A study showed how E2F1 can trigger cell division without having to unpack the cell’s genetic material. Instead, it takes a shortcut path by binding directly to a small area of the DNA that remains tightly packaged inside the cell.\nThe post  Division",
       "source": "GEN News",
       "date": "2026-11-09",
       "url": "https://www.genengnews.com/topics/cancer/how-cancer-associated-gene-triggers-cell-division-without-unpacking-the-genome/",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 在日本完成 CardiAMP 的 日本藥品局（PMDA） 流程",
-      "summary": "diAMP 在日本 scanx.trade",
+      "title": "BioCardia completes 日本藥品局（PMDA） process for CardiAMP in Japan",
+      "summary": "diAMP in Japan scanx.trade",
       "source": "scanx.trade",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1JTb0gxUVd5eEhwUUI3OFloZFFKMTM3X2dhV1VQbzhDSm5FRzBnM0hWSWtEd0ZpekNZVHAzLVM3YXMtSE02ZV9Ca2lERXRIa2R6ZmdINUhfdTRRRUxqMklTX2gtWlllRmhxWEZpTHR2QnNCaF9RLS1ZNHp3b0ZkUG1LQ183c05hY1lMbFZNZGI4YmRTOWhSWEVKaFBlbDZVcDhhOG5lOA?oc=5",

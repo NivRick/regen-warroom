@@ -1,66 +1,74 @@
 {
   "module": "funding",
-  "updated": "2026-11-10T18:25:18.344517+00:00",
+  "updated": "2026-11-11T02:23:11.182602+00:00",
   "items": [
     {
-      "title": "STAT+: Oura斥資6.25億美元收購Counsel Health，大舉押注AI醫療照護",
-      "summary": "智慧戒指製造商Oura近期延後上市計畫，宣布將斥資6.25億美元收購臨床AI新創公司Counsel Health。",
+      "title": "STAT+：民主黨新動作，劍指川普政府藥價協議",
+      "summary": "關鍵委員會的民主黨新任主席們，已著手調查藥廠與川普政府之間的最惠國待遇（MFN）藥價協議。",
+      "source": "STAT News",
+      "date": "2026-11-10",
+      "url": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Oura豪擲6.2",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-11-10",
       "url": "https://www.statnews.com/2026/11/10/oura-acquires-counsel-health-big-bet-ai-care/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "為何今年流",
-      "summary": "",
+      "title": "Why this year’s flu season could be hitting teens and young adults hard",
+      "summary": "At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:",
       "source": "STAT News",
       "date": "2026-11-10",
       "url": "https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：州民主黨的勝利使醫療補助擴大成為超過一百萬人的可能",
-      "summary": "當民主黨掌權後，德州、喬治亞州和威斯康辛州可能會擴大其醫療補助計劃。",
+      "title": "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people",
+      "summary": "Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats take power.",
       "source": "STAT News",
       "date": "2026-11-10",
       "url": "https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：生技公司的降三酸甘油酯藥物緩慢推出後，Ionis Pharmaceuticals 股價暴跌",
-      "summary": "Ionis Pharmaceuticals 大幅削減了一種降甘油三酯藥物的銷售預期，週一該公司市值損失超過 10 億美元。",
+      "title": "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug",
+      "summary": "Ionis Pharmaceuticals lost more than $1 billion in market value on Monday after the company slashed sales projections for a triglyceride-lowering drug.",
       "source": "STAT News",
       "date": "2026-11-10",
       "url": "https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：比爾·阿克曼改變大腦研究的大膽計劃",
-      "summary": "億萬富翁比爾·阿克曼在悲慘的背景故事的推動下提出了一項改變大腦研究的大膽計劃。",
+      "title": "France Remains One of Europe’s Leading Biotech Funding Hubs",
+      "summary": "iotech Funding Hubs PharmTech.com",
+      "source": "PharmTech.com",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0N4ZEM3M2p5WTNNbm9xcVNWaW9JdEYtZkFjZmtiNFRDbWdyMlZZYnZacWg4blNUZDFtSW1USmp0bGRTVE5NVlktRXN6Z1N3VGZkNDU0XzctbjdGX3JldlktY2h1SkNnaHIzZXpTU2VJdHgyRE5HNXctbktfQ29tb2w5MmFLeW4xSXB3QlRWNUtuX2Rx?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Bill Ackman’s bold plan to transform brain research",
+      "summary": "Billionaire Bill Ackman as a bold plan to transform brain research, spurred by a tragic backstory.",
       "source": "STAT News",
       "date": "2026-11-09",
       "url": "https://www.statnews.com/2026/11/09/bill-ackman-launches-new-brain-research-institute/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：基因療法長期爭論的癌症風險成為現實",
-      "summary": "多年來，基因療法研究人員一直在爭論他們用來將替代基因運送到細胞中的病毒是否會導致腫瘤。現在，少數案例提供了強有力的證據：",
-      "source": "STAT News",
-      "date": "2026-11-09",
-      "url": "https://www.statnews.com/2026/11/09/biotech-news-gene-therapy-long-debated-cancer-risk-materializes/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Argenx 將收購勝肽平台，交易金額可能達數十億美元",
-      "summary": "Argenx 將先期支付 5.5 億美元，控制 Unnatural Products 的「大環肽」技術，並指導其開發針對嚴重免疫介導疾病的口服耐用藥物。",
+      "title": "Argenx to buy peptide platform in potentially billion-dollar deal",
+      "summary": "For $550 million up front, Argenx will take control of Unnatural Products&rsquo; &ldquo;macrocyclic peptide&rdquo; technology and direct it to develop oral, durable medicines for serious immune-mediated diseases.",
       "source": "BioPharma Dive",
       "date": "2026-11-09",
       "url": "https://www.biopharmadive.com/news/argenx-unnatural-products-acquisition-deal-peptides-protein-macrocyclic-immune/874119/",
       "lang": "zh-TW"
     },
     {
-      "title": "專注於帕金森氏症的 Aspen 和雙特異性生物技術 Bambusa 計劃首次公開募股",
-      "summary": "生物技術 Bambusa 計劃首次公開發行 Fierce Biotech",
+      "title": "Parkinson’s-focused Aspen and bispecific biotech Bambusa plan IPOs",
+      "summary": "biotech Bambusa plan IPOs Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-10-12",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFVvbkNxMkU0NzhNeC04eFBEekV5Q1RzQXdsSFJCVmNFWklrdHV4YUJQbjY3Rkh3X2hQUDB4ZW1ZYkV4blZzakpWaTQzUHJDNmtpbGc3LWE4bm42RU43ZURvcjVNMV8tNXpWSnlaSXlWd1pfNVhhR3IyWUtDSEU2eTN3eDd1RkJtTVE0dzFNNGpfX2tRSVo3T3YwQjV3bGFRWXJF?oc=5",
