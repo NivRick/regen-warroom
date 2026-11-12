@@ -1,18 +1,42 @@
 {
   "module": "funding",
-  "updated": "2026-11-12T03:31:58.554480+00:00",
+  "updated": "2026-11-12T18:42:47.239652+00:00",
   "items": [
     {
-      "title": "STAT+：研究發現BMI替代方案可能顛覆數百萬人的肥胖診斷",
-      "summary": "一項新提出的肥胖診斷方法，可能改變數百萬人的診斷結果，支持者認為這將帶來更精準的醫療照護。",
+      "title": "輝瑞（Pfizer）押寶每月一次減肥藥，黑石（Blackstone）出手相挺",
+      "summary": "輝瑞去年斥資高達100億美元收購Metsera，如今引進私募股權巨頭黑石集團，共同分擔這筆交易的資金。",
+      "source": "STAT News",
+      "date": "2026-11-12",
+      "url": "https://www.statnews.com/2026/11/12/biotech-news-blackstone-backs-pfizer-bet-on-monthly-obesity-treatment/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Alnylam 曾經致力於成為一家價值 1000 億美元的生物技術公司，現在需要解決其心臟藥物問題",
+      "summary": "Alnylam 的成長嚴重依賴其心臟藥物 Amvuttra，而且銷售額一直在放緩。",
+      "source": "STAT News",
+      "date": "2026-11-12",
+      "url": "https://www.statnews.com/2026/11/12/alnylam-amvuttra-heart-drug-growth/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Blackstone 在輝瑞的肥胖藥物上押注 $1.5B",
+      "summary": "該交易將支持輝瑞公司通過贏得該藥物前所有者 Metsera 的競購戰而獲得的每月一次 GLP-1 注射的龐大第三階段計劃。",
+      "source": "BioPharma Dive",
+      "date": "2026-11-12",
+      "url": "https://www.biopharmadive.com/news/blackstone-pfizer-berobenatide-deal/874483/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：研究發現，BMI替代方案將改變數百萬人的肥胖診斷",
+      "summary": "一種新提出的識別肥胖的方法可能會改變數百萬人的診斷。支持者認為這可以帶來更精確的照護。",
       "source": "STAT News",
       "date": "2026-11-11",
       "url": "https://www.statnews.com/2026/11/11/obesity-diagnosis-bmi-lancet-commission-proposal-impact/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Pharmalittle",
-      "summary": "",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關民主黨關注川普最惠國待遇、歐洲藥品上市減少等的報道",
+      "summary": "國會主要委員會的即將上任的民主黨主席在調查最惠國藥品定價協議方面邁出了新的一步",
       "source": "STAT News",
       "date": "2026-11-11",
       "url": "https://www.statnews.com/pharmalot/2026/11/11/dems-eye-trump-mfn-deals-fewer-drug-launches-in-europe/?utm_campaign=rss",
@@ -35,35 +59,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Democrats take new step toward investigating Trump’s drug pricing deals",
-      "summary": "即將上任的關鍵委員會民主黨主席已採取措施調查製藥商與川普政府之間的最惠國藥品定價協議。",
-      "source": "STAT News",
-      "date": "2026-11-10",
-      "url": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Oura 以 6.25 億美元收購 Counsel Health，押注人工智慧醫療",
-      "summary": "最近推遲上市計畫的智慧戒指製造商 Oura 表示，將斥資 6.25 億美元收購臨床人工智慧新創公司 Counsel Health。",
-      "source": "STAT News",
-      "date": "2026-11-10",
-      "url": "https://www.statnews.com/2026/11/10/oura-acquires-counsel-health-big-bet-ai-care/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
       "title": "法國仍然是歐洲領先的生物技術融資中心之一",
       "summary": "iotech 融資中心 PharmTech.com",
       "source": "PharmTech.com",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0N4ZEM3M2p5WTNNbm9xcVNWaW9JdEYtZkFjZmtiNFRDbWdyMlZZYnZacWg4blNUZDFtSW1USmp0bGRTVE5NVlktRXN6Z1N3VGZkNDU0XzctbjdGX3JldlktY2h1SkNnaHIzZXpTU2VJdHgyRE5HNXctbktfQ29tb2w5MmFLeW4xSXB3QlRWNUtuX2Rx?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Argenx 將收購勝肽平台，交易金額可能達數十億美元",
-      "summary": "Argenx 將預付 5.5 億美元，控制 Unnatural Products 的「大環肽」技術，並指導其開發治療嚴重免疫介導疾病的口服耐用藥物。",
-      "source": "BioPharma Dive",
-      "date": "2026-11-09",
-      "url": "https://www.biopharmadive.com/news/argenx-unnatural-products-acquisition-deal-peptides-protein-macrocyclic-immune/874119/",
       "lang": "zh-TW"
     }
   ]
