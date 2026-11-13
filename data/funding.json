@@ -1,21 +1,53 @@
 {
   "module": "funding",
-  "updated": "2026-11-13T03:06:01.466300+00:00",
+  "updated": "2026-11-13T18:20:13.406381+00:00",
   "items": [
+    {
+      "title": "HHS（美國衛生及公共服務部）計畫資助伊博格鹼（ibogaine）用於創傷後壓力症候群（PTSD）的研究",
+      "summary": "美國衛生及公共服務部（HHS）將撥款高達490萬美元，支持迷幻藥伊博格鹼（ib",
+      "source": "STAT News",
+      "date": "2026-11-13",
+      "url": "https://www.statnews.com/2026/11/13/biotech-news-hhs-funding-for-research-into-ibogaine-for-ptsd/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關禮來（Lilly）衝突的問題，DEA 批准嗜睡症藥物，等等",
+      "summary": "智慧戒指製造商 Oura 收購遠距醫療公司的交易為禮來公司帶來了利益衝突問題",
+      "source": "STAT News",
+      "date": "2026-11-13",
+      "url": "https://www.statnews.com/pharmalot/2026/11/13/lilly-conflict-questions-dea-okays-takeda-narcolepsy-pill/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：專家表示，Oura 收購健康科技新創公司為禮來公司帶來了利益衝突問題",
+      "summary": "隨著本周宣布的一項新交易，禮來公司與一家銷售 GLP-1 的遠距醫療公司之間的關係預計將變得更加複雜。",
+      "source": "STAT News",
+      "date": "2026-11-13",
+      "url": "https://www.statnews.com/2026/11/13/oura-acquisition-counsel-health-eli-lilly/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Novo 提交鐮狀細胞藥物；旗艦店與蓋茲基金會加深聯繫",
+      "summary": "Novo 將這款以十億美元交易收購的藥物視為未來的重磅炸彈。同時，兩家新創公司達成了一項 RNA 編輯協議，安斯泰來也安排了兩項針對胰臟癌的新試驗。",
+      "source": "BioPharma Dive",
+      "date": "2026-11-13",
+      "url": "https://www.biopharmadive.com/news/novo-etavopivat-flagship-gates-ascidian-immuneering-neurosterix/874120/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "本週圖表：腦藥物重新回到創投家的考慮中",
+      "summary": "過去幾週，五家專注於神經病學的新創公司總共籌集了約 4.5 億美元。在其他地方，投資者對最新的細胞療法研究反應冷淡。",
+      "source": "BioPharma Dive",
+      "date": "2026-11-13",
+      "url": "https://www.biopharmadive.com/news/charts-venture-neuroscience-oyster-vectory-acr-cell-therapy/874570/",
+      "lang": "zh-TW"
+    },
     {
       "title": "STAT+：黑石支持輝瑞每月進行肥胖治療的賭注",
       "summary": "輝瑞去年斥資100億美元收購了Metsera。現在，它正在引入私募股權巨頭黑石來幫助支付這筆交易。",
       "source": "STAT News",
       "date": "2026-11-12",
       "url": "https://www.statnews.com/2026/11/12/biotech-news-blackstone-backs-pfizer-bet-on-monthly-obesity-treatment/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Alnylam 曾經致力於成為一家價值 1000 億美元的生物技術公司，現在需要解決其心臟藥物問題",
-      "summary": "Alnylam is heavily dependent on its heart drug Amvuttra for growth — and sales have been slowing.",
-      "source": "STAT News",
-      "date": "2026-11-12",
-      "url": "https://www.statnews.com/2026/11/12/alnylam-amvuttra-heart-drug-growth/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
@@ -35,40 +67,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：研究發現，BMI替代方案將改變數百萬人的肥胖診斷",
-      "summary": "一種新提出的識別肥胖的方法可能會改變數百萬人的診斷。支持者認為這可以帶來更精確的照護。",
-      "source": "STAT News",
-      "date": "2026-11-11",
-      "url": "https://www.statnews.com/2026/11/11/obesity-diagnosis-bmi-lancet-commission-proposal-impact/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關民主黨關注川普最惠國待遇、歐洲藥品上市減少等的報道",
-      "summary": "國會主要委員會的即將上任的民主黨主席在調查最惠國藥品定價協議方面邁出了新的一步",
-      "source": "STAT News",
-      "date": "2026-11-11",
-      "url": "https://www.statnews.com/pharmalot/2026/11/11/dems-eye-trump-mfn-deals-fewer-drug-launches-in-europe/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "研究稱德國藥品價格上漲可能推高美國成本",
-      "summary": "該報告發布之際，美國和德國之間的藥品價格緊張局勢不斷升級，多家大型製藥公司透過縮減在該國的投資來應對。",
+      "title": "研究：德國藥價上漲恐推高美國藥品費用",
+      "summary": "最新研究警告，德國藥價調漲恐引發骨牌效應，進一步推升美國藥品費用。此報告正值美德兩國在藥價議題上關係日趨緊張之際。",
       "source": "BioPharma Dive",
       "date": "2026-11-11",
       "url": "https://www.biopharmadive.com/news/germany-us-drug-price-study-healthcare-costs/874360/",
       "lang": "zh-TW"
     },
     {
-      "title": "阿斯特捷利康收購疫苗新創公司； FDA發布GLP-1安全警告",
-      "summary": "該交易為阿斯特捷利康提供了一種更簡單的方法來製造結合疫苗。在其他地方，一種迷幻憂鬱症藥物被提交給 美國食藥局（FDA），一家專注於自體免疫疾病的生物技術公司的股價暴跌。",
+      "title": "阿斯特捷利康收購疫苗新創公司；美國FDA發布GLP-1安全警示",
+      "summary": "阿斯特捷利康（AstraZeneca）收購一家疫苗新創公司，盼簡化結合型疫苗生產。同時，美國食品藥物管理局（FDA）針對GLP-1藥物發布安全警示，提醒潛在風險。",
       "source": "BioPharma Dive",
       "date": "2026-11-11",
       "url": "https://www.biopharmadive.com/news/glp1-naion-compass-zura-abeona/874076/",
       "lang": "zh-TW"
     },
     {
-      "title": "法國仍然是歐洲領先的生物技術融資中心之一",
-      "summary": "iotech 融資中心 PharmTech.com",
+      "title": "法國仍是歐洲領先的生技募資中心之一",
+      "summary": "報告指出，法國持續在歐洲生技產業的募資領域扮演重要角色，是該地區主要的資金樞紐之一。",
       "source": "PharmTech.com",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0N4ZEM3M2p5WTNNbm9xcVNWaW9JdEYtZkFjZmtiNFRDbWdyMlZZYnZacWg4blNUZDFtSW1USmp0bGRTVE5NVlktRXN6Z1N3VGZkNDU0XzctbjdGX3JldlktY2h1SkNnaHIzZXpTU2VJdHgyRE5HNXctbktfQ29tb2w5MmFLeW4xSXB3QlRWNUtuX2Rx?oc=5",
