@@ -1,10 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-11-12T18:42:22.546202+00:00",
+  "updated": "2026-11-13T03:05:35.072045+00:00",
   "items": [
     {
-      "title": "CBER舉辦傾聽會議：病患與照護夥伴對罕見疾病基因療法臨床試驗早期參與的看法",
-      "summary": "基因療法試驗能提供風險與效益資訊，協助病患做出知情決定。長期追蹤對評估安全性與療效持久性至關重要。",
+      "title": "產業指引：細胞與基因治療產品的效力確保",
+      "summary": "這份指引提供建議，協助業界建立一套以科學和風險為基礎的策略，確保人類細胞治療或基因治療產品的效力。",
+      "source": "FDA Biologics",
+      "date": "2026-11-12",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-potency-assurance-cellular-and-gene-therapy-products",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BioCardia 報告 2026 財年第三季虧損 190 萬美元，推進日本 日本藥品局（PMDA） 之路",
+      "summary": "llion, advances Japan 日本藥品局（PMDA） path scanx.trade",
+      "source": "scanx.trade",
+      "date": "2026-11-12",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFRqekpOQ1dDckkxTHJNai1UOVJVbE5zNmlhdGp4OEwxeXZlTTdkSWk3Q1FmVlA3OERmNUo3aEVMMnV6b3IxQjdBUEFqWUdxYmRIdDN4eGVPLUdiR1ZEdGhsYzFsUjNjRnNsdDktTHI1QW83WkRNWFFndmVuRmoxOXlvanJEVUpCSFJET1Q3a2FqdmtyMmtESHdxQUtDc05QNTJMSHRn?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "CBER傾聽會議：罕見疾病基因療法臨床試驗",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-11-10",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/cber-listening-meeting-patient-and-care-partner-perspectives-early-enrollment-gene-therapy-clinical",
@@ -35,19 +51,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "癌症相關基因如何在不解開基因組的情況下觸發細胞分裂",
-      "summary": "一項研究顯示 E2F1 如何在不解開細胞遺傳物質的情況下觸發細胞分裂。相反，它採取了一條捷徑，直接與緊密包裹在細胞內的一小部分 DNA 結合。\n郵政科",
-      "source": "GEN News",
-      "date": "2026-11-09",
-      "url": "https://www.genengnews.com/topics/cancer/how-cancer-associated-gene-triggers-cell-division-without-unpacking-the-genome/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BioCardia 在日本完成 CardiAMP 的 日本藥品局（PMDA） 流程",
-      "summary": "diAMP 在日本 scanx.trade",
-      "source": "scanx.trade",
+      "title": "BioCardia 的 CardiAMP 完成日本上市前諮詢，這是第一個心臟細胞療法",
+      "summary": "市場諮詢，第一個心肌細胞療法這樣做 Tech Times",
+      "source": "Tech Times",
       "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1JTb0gxUVd5eEhwUUI3OFloZFFKMTM3X2dhV1VQbzhDSm5FRzBnM0hWSWtEd0ZpekNZVHAzLVM3YXMtSE02ZV9Ca2lERXRIa2R6ZmdINUhfdTRRRUxqMklTX2gtWlllRmhxWEZpTHR2QnNCaF9RLS1ZNHp3b0ZkUG1LQ183c05hY1lMbFZNZGI4YmRTOWhSWEVKaFBlbDZVcDhhOG5lOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
       "lang": "zh-TW"
     }
   ]

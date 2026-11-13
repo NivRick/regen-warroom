@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-11-12T18:42:47.239652+00:00",
+  "updated": "2026-11-13T03:06:01.466300+00:00",
   "items": [
     {
-      "title": "輝瑞（Pfizer）押寶每月一次減肥藥，黑石（Blackstone）出手相挺",
-      "summary": "輝瑞去年斥資高達100億美元收購Metsera，如今引進私募股權巨頭黑石集團，共同分擔這筆交易的資金。",
+      "title": "STAT+：黑石支持輝瑞每月進行肥胖治療的賭注",
+      "summary": "輝瑞去年斥資100億美元收購了Metsera。現在，它正在引入私募股權巨頭黑石來幫助支付這筆交易。",
       "source": "STAT News",
       "date": "2026-11-12",
       "url": "https://www.statnews.com/2026/11/12/biotech-news-blackstone-backs-pfizer-bet-on-monthly-obesity-treatment/?utm_campaign=rss",
@@ -12,10 +12,18 @@
     },
     {
       "title": "STAT+：Alnylam 曾經致力於成為一家價值 1000 億美元的生物技術公司，現在需要解決其心臟藥物問題",
-      "summary": "Alnylam 的成長嚴重依賴其心臟藥物 Amvuttra，而且銷售額一直在放緩。",
+      "summary": "Alnylam is heavily dependent on its heart drug Amvuttra for growth — and sales have been slowing.",
       "source": "STAT News",
       "date": "2026-11-12",
       "url": "https://www.statnews.com/2026/11/12/alnylam-amvuttra-heart-drug-growth/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Windward定價1.75億美元IPO以推進中國許可的肺部藥物",
+      "summary": "這家瑞士生技公司同時向賽諾菲出售私人股票的方式又賺了 5,000 萬美元，該公司正在開發一種與氣喘治療藥物 Tezspire 相媲美的潛在競爭對手。",
+      "source": "BioPharma Dive",
+      "date": "2026-11-12",
+      "url": "https://www.biopharmadive.com/news/windward-ipo-pricing-immune-drugs-china-deals-tezspire/874533/",
       "lang": "zh-TW"
     },
     {
