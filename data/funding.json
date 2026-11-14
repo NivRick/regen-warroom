@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-11-13T18:20:13.406381+00:00",
+  "updated": "2026-11-14T02:49:57.350187+00:00",
   "items": [
     {
-      "title": "HHS（美國衛生及公共服務部）計畫資助伊博格鹼（ibogaine）用於創傷後壓力症候群（PTSD）的研究",
-      "summary": "美國衛生及公共服務部（HHS）將撥款高達490萬美元，支持迷幻藥伊博格鹼（ib",
+      "title": "STAT+：HHS 計畫資助伊博加因治療 PTSD 的研究",
+      "summary": "川普政府將撥款 490 萬美元支持伊博加因的研究，伊博加因是一種致幻劑，作為治療創傷後壓力症候群 (PTSD) 和成癮的潛在療法而引起人們的興趣。",
       "source": "STAT News",
       "date": "2026-11-13",
       "url": "https://www.statnews.com/2026/11/13/biotech-news-hhs-funding-for-research-into-ibogaine-for-ptsd/?utm_campaign=rss",
@@ -43,8 +43,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：黑石支持輝瑞每月進行肥胖治療的賭注",
-      "summary": "輝瑞去年斥資100億美元收購了Metsera。現在，它正在引入私募股權巨頭黑石來幫助支付這筆交易。",
+      "title": "STAT+: Blackstone backs Pfizer’s bet on monthly obesity treatment",
+      "summary": "輝瑞去年斥資100億美元收購了Metsera。現在，它正在引入私募股權巨頭黑石來幫助支付這筆交易的費用。",
       "source": "STAT News",
       "date": "2026-11-12",
       "url": "https://www.statnews.com/2026/11/12/biotech-news-blackstone-backs-pfizer-bet-on-monthly-obesity-treatment/?utm_campaign=rss",
@@ -67,24 +67,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "研究：德國藥價上漲恐推高美國藥品費用",
-      "summary": "最新研究警告，德國藥價調漲恐引發骨牌效應，進一步推升美國藥品費用。此報告正值美德兩國在藥價議題上關係日趨緊張之際。",
+      "title": "德國藥價調漲，恐推升美國藥品成本，研究示警",
+      "summary": "一項研究指出，德國藥價上漲恐將推升美國藥品成本。此報告提醒各界關注國際藥價波動對美國市場的潛在影響。",
       "source": "BioPharma Dive",
       "date": "2026-11-11",
       "url": "https://www.biopharmadive.com/news/germany-us-drug-price-study-healthcare-costs/874360/",
       "lang": "zh-TW"
     },
     {
-      "title": "阿斯特捷利康收購疫苗新創公司；美國FDA發布GLP-1安全警示",
-      "summary": "阿斯特捷利康（AstraZeneca）收購一家疫苗新創公司，盼簡化結合型疫苗生產。同時，美國食品藥物管理局（FDA）針對GLP-1藥物發布安全警示，提醒潛在風險。",
+      "title": "阿斯特捷利康收購疫苗新創；美國食藥署（FDA）發布GLP-1安全警示",
+      "summary": "阿斯特捷利康（AstraZeneca）收購一家疫苗新創公司，以簡化結合型疫苗的生產方式。同時，美國食藥署（FDA）也針對GLP-1藥物發布了安全警示。",
       "source": "BioPharma Dive",
       "date": "2026-11-11",
       "url": "https://www.biopharmadive.com/news/glp1-naion-compass-zura-abeona/874076/",
       "lang": "zh-TW"
     },
     {
-      "title": "法國仍是歐洲領先的生技募資中心之一",
-      "summary": "報告指出，法國持續在歐洲生技產業的募資領域扮演重要角色，是該地區主要的資金樞紐之一。",
+      "title": "法國仍是歐洲主要生技募資中心之一",
+      "summary": "法國持續在歐洲生技產業募資領域扮演關鍵角色，穩居歐洲主要生技資金樞紐之一。",
       "source": "PharmTech.com",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0N4ZEM3M2p5WTNNbm9xcVNWaW9JdEYtZkFjZmtiNFRDbWdyMlZZYnZacWg4blNUZDFtSW1USmp0bGRTVE5NVlktRXN6Z1N3VGZkNDU0XzctbjdGX3JldlktY2h1SkNnaHIzZXpTU2VJdHgyRE5HNXctbktfQ29tb2w5MmFLeW4xSXB3QlRWNUtuX2Rx?oc=5",

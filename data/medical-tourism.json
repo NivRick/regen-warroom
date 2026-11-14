@@ -1,13 +1,21 @@
 {
   "module": "tourism",
-  "updated": "2026-11-13T18:20:18.841175+00:00",
+  "updated": "2026-11-14T02:49:59.154731+00:00",
   "items": [
     {
-      "title": "從疫苗到癌症療法：mRNA無限潛力，翻轉未來醫療新篇章",
-      "summary": "mRNA技術潛力無窮，從疫苗到癌症療法，正引領醫療產業邁向新紀元。",
+      "title": "從疫苗到癌症治療：利用 信使RNA（mRNA） 的無限潛力改變醫學的未來",
+      "summary": "用 信使RNA（mRNA） 的無限潛力塑造醫學的未來 GeneOnline",
       "source": "GeneOnline",
       "date": "2026-11-09",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRXJjRFFlVnh4bDI4QWpqaVJiWXF4NTJMd2pFb1p1WmZ1MmhTbmtRcFpnVENiLUNkRGN3TjU5ZlJrdUFWaU96U2JQR1FSQWdHSVM4YndqdkM0XzBQbjBsLWo0aVU0OTcwZ1FFYk8zQm5SdmRDdkxidW5XdXotZTVydjcxSENhQ09mNkN4REFjWVQwekdQbmoyRUhlNUJFTkZBdU9NWWxVNjA2dmp6T2U5U3FDOEE0cnpSa2k4TjlURC1raDJyUV9PS1REUXU?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "從癡呆到抗衰老，韓國人湧向日本接受幹細胞治療，費用超過 74,000 美元",
+      "summary": "前往日本進行幹細胞治療，費用超過 74,000 美元 KED Global",
+      "source": "KED Global",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MTTF6V3l2SjZ1TVVET0J0UzlCelJpby1VS1JpcHhUZjdiSXBZVDBlbWdxNnZGbWFMNjNQQWVzaG85enlZcUVXQ2s0WFFrc0dmYWxYeFNscDFXVHAtRVRoeGQxQnc4blhzaWlxSWVwSW5CT3lBcnc?oc=5",
       "lang": "zh-TW"
     }
   ]
