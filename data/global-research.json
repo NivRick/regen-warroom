@@ -1,10 +1,10 @@
 {
   "module": "research",
-  "updated": "2026-11-14T02:48:58.882973+00:00",
+  "updated": "2026-11-14T16:50:13.274061+00:00",
   "items": [
     {
-      "title": "3D生物列印幹細胞來源小細胞外囊泡的持續遞送，透過CREB1/PGC-1α/FNDC5軸線促進創傷性腦損傷後的神經再生。",
-      "summary": "幹細胞來源的小細胞外囊泡（sEVs）在創傷性腦損傷（TBI）",
+      "title": "3D生物列印幹細胞衍生的微小細胞外囊泡（sEVs）持續遞送，透過CREB1/PGC-1α/FNDC5軸線促進創傷性腦損傷後的神經再生",
+      "summary": "幹細胞衍生的微小細胞外囊泡（sEVs）用於創傷",
       "source": "PubMed",
       "date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42999541/",
@@ -12,7 +12,7 @@
     },
     {
       "title": "打破退化性三聯徵：用於椎間盤再生的微環境重編程生物材料。",
-      "summary": "椎間盤退化（IVDD）是全世界慢性下背痛的主要原因，對公眾健康和社會經濟帶來了相當大的負擔。目前的臨床幹預措施在很大程度上仍然是姑息性的，無法逆轉進行性病理級聯反應。該級聯驅動...",
+      "summary": "椎間盤退化（IVDD）是全世界慢性下背痛的主要原因，對公眾健康和社會經濟帶來了相當大的負擔。目前的臨床幹預措施在很大程度上仍然是姑息性的，無法逆轉進行性病理級聯反應。這個級聯是驅動...",
       "source": "PubMed",
       "date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42964622/",
@@ -35,7 +35,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "殼聚醣明膠水凝膠中磁性奈米顆粒的空間組織能夠增強動態刺激下的磁驅動和細胞反應。",
+      "title": "殼聚醣-明膠水凝膠中磁性奈米顆粒的空間組織能夠增強動態刺激下的磁驅動和細胞反應。",
       "summary": "磁響應水凝膠已成為透過動態機械刺激遠端調節 HFF-1 成纖維細胞行為的有前景的平台；然而，磁性奈米顆粒空間組織對磁驅動和細胞反應的影響仍未被探索。在此，我們...",
       "source": "PubMed",
       "date": "2026-11-14",
@@ -67,16 +67,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "微生物代謝物與MAMPs：腸道幹細胞功能的關鍵調控者",
-      "summary": "腸道幹細胞（ISCs）對於維持和再生腸道上皮組織至關重要。最新研究強調了其關鍵作用。",
+      "title": "電腦模擬引導假設生成，優化組織工程生物混合植入物的設計與培養",
+      "summary": "生物混合植入物利用支架為組織工程心臟瓣膜、血管移植物等提供機械支撐。",
+      "source": "PubMed",
+      "date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962354/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "沃羅諾伊骨骼支架的孔徑與孔隙率",
+      "summary": "",
+      "source": "PubMed",
+      "date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950508/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "微生物代謝物和 MAMP：腸道幹細胞功能的協調者。",
+      "summary": "腸幹細胞（ISC）對於腸上皮的維持和再生至關重要。最近的研究強調了腸道微生物群透過不同的分子訊號，特別是微生物代謝物和微生物相關分子訊號，在調節 ISC 功能中的關鍵作用。",
       "source": "PubMed",
       "date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42978537/",
       "lang": "zh-TW"
     },
     {
-      "title": "適應性激酶訊號傳導讓膠質母",
-      "summary": "",
+      "title": "Adaptive kinase signaling enables escape from small molecule inhibition in glioblastoma.",
+      "summary": "儘管透過手術切除、放療和化療進行強化治療，膠質母細胞瘤 (GB) 患者的中位存活期為 15 個月。克服治療抗藥性的一個主要挑戰是腫瘤內異質性，其特徵是分子、表型和臨床多樣性...",
       "source": "PubMed",
       "date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975206/",
@@ -115,15 +131,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "從雙重標靶到動態標靶：重新思考胰臟癌的 CAR-NK 細胞療法。",
-      "summary": "",
+      "title": "從雙重靶向到動態靶向：重新思考胰臟癌的嵌合抗原受體自然殺手細胞療法（CAR-NK）",
+      "summary": "這篇研究探討如何將嵌合抗原受體自然殺手細胞療法（CAR-NK）應用於胰臟癌治療。文章重新思考",
       "source": "PubMed",
       "date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42921225/",
       "lang": "zh-TW"
     },
     {
-      "title": "AAV-mediated genome targeting of the",
+      "title": "AAV 介導的基因組靶向",
       "summary": "法布瑞氏症 (FD) 是一種 X 連鎖溶小體貯積症，由基因突變引起",
       "source": "PubMed",
       "date": "2026-11-14",
@@ -131,8 +147,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "越長越好？優化裘馨氏肌肉失養症心臟基因療法中的肌縮蛋白建構體",
-      "summary": "這篇研究探討如何優化裘馨氏肌肉失養症（DMD）的心臟基因療法，特別是肌縮蛋白建構體的長度，以期達到更好的治療效果。",
+      "title": "越長越好？優化抗肌肉營養不良蛋白構建體用於杜氏肌肉營養不良症的心臟基因治療。",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-11-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43022057/",
@@ -147,24 +163,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BDNF/TrkB 訊號傳導的恢復可挽救 GM1 神經節苷脂沉積症 誘導型多能幹細胞（iPSC） 衍生神經元的突觸前功能障礙。",
-      "summary": "GM1神經節苷脂貯積症是一種溶小體貯積症，其特徵是進行性神經退化和嚴重的中樞神經系統（CNS）功能障礙。儘管 GM1 神經節苷脂的異常細胞內累積被認為是主要的病理特徵，但背後的分子機制...",
-      "source": "PubMed",
-      "date": "2026-11-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43002876/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "無支架的自組裝細胞環類器官可實現高效的腫瘤建模，具有高植入率、卓越的腫瘤均勻性和減少的動物消耗。",
-      "summary": "傳統的腫瘤細胞懸浮異種移植有著床效率低、潛伏期長、腫瘤均勻性差等問題，且動物消耗量大，與3R原則（替換、減少、細化）相衝突。本研究旨在開發一種無支架自組裝細胞...",
-      "source": "PubMed",
-      "date": "2026-11-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43022431/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "[第 3 階段] 單獨使用 PD-1 阻斷與聯合化療作為晚期 NSCLC 和 PD-L1 表達 ≥ 50% 女性的第一線治療",
-      "summary": "状态：NOT_YET_RECRUITING｜主办方：德国癌症研究中心｜虽然药物疗效和安全性方面存在性别差异，但由于缺乏针对性别的临床试验和批准，男性和女性往往受到平等对待。免疫檢查點封鎖用於增強免疫系統的能力",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：德國癌症研究中心｜雖然藥物療效和安全性方面存在性別差異，但由於缺乏針對性別的臨床試驗和批准，男性和女性往往受到平等對待。免疫檢查點封鎖用於增強免疫系統的能力",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-11-14",
       "url": "https://clinicaltrials.gov/study/NCT07877584",
@@ -172,7 +172,7 @@
     },
     {
       "title": "[PHASE2] 托沃拉非尼治療高惡性度膠質瘤和瀰漫性內源性腦橋膠質瘤 (DIPG) 的研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：全國兒童醫院｜本研究的目的是確定研究藥物托沃拉非尼治療新診斷為高級別膠質瘤（HGG）（包括 DIPG）的兒童和年輕成人患者的療效，這些患者的通路（MAPK）發生遺傳改變",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Nationwide Children's Hospital｜The goal of this study is to determine the efficacy of the study drugs tovorafenib to treat pediatric and young adult patients newly diagnosed with a high-grade glioma (HGG), including DIPG, that have genetic changes in pathways (MAPK) that this drug",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-11-14",
       "url": "https://clinicaltrials.gov/study/NCT07206849",
@@ -187,8 +187,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Ficerafusp Alfa、Pembrolizumab 與立體定位放射治療（SBRT）聯用，治療頭頸部鱗狀細胞癌（HNSCC）的一/二期臨床試驗",
-      "summary": "華盛頓大學醫學院將啟動一/二期臨床試驗，評估Ficerafusp Alfa",
+      "title": "Ficerafusp Alfa、Pembrolizumab 與立體定位放射治療（SBRT）用於頭頸部鱗狀細胞癌（HNSCC）的臨床一/二期試驗",
+      "summary": "狀態：尚未招募｜主辦：華盛頓大學醫學院｜這項研究是一項開放標籤的臨床一",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-11-14",
       "url": "https://clinicaltrials.gov/study/NCT07552558",
@@ -227,8 +227,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "癌症病患住院瑜伽療法計畫的療效評估",
-      "summary": "這項研究旨在評估住院瑜伽療法計畫是否能有效改善癌症病患的生活品質。目前此計畫尚未開始招募受試者，由M.D. Anderson癌症中心主辦。",
+      "title": "住院瑜伽療法計畫對癌症病患的療效",
+      "summary": "狀態：尚未招募｜主辦：德州大學安德森癌症中心｜這項研究旨在探討瑜伽療法計畫是否能改善癌症病患的生活品質。",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-11-14",
       "url": "https://clinicaltrials.gov/study/NCT07776587",
@@ -252,7 +252,7 @@
     },
     {
       "title": "[NA]扶正解毒化瘀青療法合併化療和免疫療法提高廣泛期小細胞肺癌存活率的臨床研究",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：李鋒｜小細胞肺癌（SCLC）是一種高度侵襲性的神經內分泌惡性腫瘤。大約 70% 的患者被診斷為廣泛期疾病，只有一小部分患者從免疫治療中受益。在苏院士的带领下",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：LI FENG｜小細胞肺癌（SCLC）是一種高度侵襲性的神經內分泌惡性腫瘤。大約 70% 的患者被診斷為廣泛期疾病，只有一小部分患者從免疫治療中受益。在蘇院士的帶領下",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-11-14",
       "url": "https://clinicaltrials.gov/study/NCT07928882",
@@ -268,7 +268,7 @@
     },
     {
       "title": "[NA] X-ALD 的 IT 和 IV 慢病毒基因治療",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：深圳市基因免疫醫學研究院｜這是一項利用高安全、高效、自失活的慢病毒載體（LV）TYF-ABCD1對缺陷基因進行功能性糾正，治療X連鎖腎上腺腦白質營養不良症的I/II期基因治療臨床試驗。目標是",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：深圳市基因免疫醫學研究院｜這是一項利用高安全、高效、自失活的慢病毒載體（LV）TYF-ABCD1對缺陷基因進行功能性糾正，治療X連鎖腎上腺腦白質營養不良的I/II期基因治療臨床試驗。目标是",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-11-14",
       "url": "https://clinicaltrials.gov/study/NCT03727555",
@@ -283,19 +283,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Capricor在Deramiocel獲美國FDA核准前，公布2026",
+      "title": "Capricor在美國",
       "summary": "",
       "source": "The Clinical Trial Vanguard",
       "date": "2026-11-12",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmQyX19iVVNJZTZDb3hPNGpUQkhLRXlTR1daYm1aNGlBTnBjUGVsYkdZTnY3N3Juc0s4NFdZSHJJZGFfaEE0d1JJNXhlUW9kZTlELTZTeDQ5UkNfNm52bUk3S24yRUgtQWdsNEtDT0hkUzdoZWlnS3NTSk1lRGlYVEpsT2lpZUJUb2w1WUNrWFJGNHFfSGhqelU1YXFENWxYbXlFenFmRzg?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "AbelZeta 分享肝癌 CAR-T細胞療法 療法 C 的最新臨床結果",
-      "summary": "肝癌 CAR-T細胞療法 療法 C BioBuzz",
-      "source": "BioBuzz",
-      "date": "2026-11-12",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcGFHS2gzajZ4WV9nYW5YYkxCWjFlcDlzNkJHeEoxVzV5UjMwUHZXc0l2VWZfYjdGbTFzdXctb3pqdFpsOW93VWhVeVVOaWFLanlBZGZ1OF9WWkIxS2VuX0VQNldyLWhHZHRya1JMeFowYmgxc25zd3laZ1YtMUJRZ3VqM0FabnN0U19Uay1fMFJiVGQzYll0SzRBVm1CWDg?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -316,14 +308,14 @@
     },
     {
       "title": "[第 4 期] 多發性骨髓瘤患者自行皮下注射 Daratumumab",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：歐登塞大學醫院｜這項開放標籤、第四階段、前瞻性、非隨機、申辦者發起的多中心可行性研究的主要目標是評估多發性骨髓瘤患者皮下（SC）達雷妥尤單抗自我給藥的可行性和安全性",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：歐登塞大學醫院｜這項開放標籤、第四階段、前瞻性、非隨機、申辦方發起的多中心可行性研究的主要目標是評估多發性骨髓瘤患者皮下（SC）達雷妥尤單抗自我給藥的可行性和安全性",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-11-01",
       "url": "https://clinicaltrials.gov/study/NCT07191379",
       "lang": "zh-TW"
     },
     {
-      "title": "異體細胞",
+      "title": "[第二期臨床試驗] 異體細胞",
       "summary": "",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-11",
@@ -348,26 +340,26 @@
     },
     {
       "title": "[不適用] I-II 期未切除 NSCLC 患者的治療模式和患者結果",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：阿斯特捷利康｜iTERESA 研究是一項回顧性、橫斷面、非干預性、多國觀察性 H​​CP 調查，旨在描述 I-II 期未切除 NSCLC 成年患者的真實治療情況。",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：AstraZeneca｜The iTERESA study is a retrospective, cross-sectional, non interventional, multi-country observational HCPs survey designed to characterize real-world management of adult patients with stage I-II unresected NSCLC.",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-10-30",
       "url": "https://clinicaltrials.gov/study/NCT07914972",
       "lang": "zh-TW"
     },
     {
-      "title": "精準T細胞療法在臨床試驗中，成功阻斷難治型癌症進展",
-      "summary": "精準T細胞療法在臨床試驗中，對難治型癌症展現潛力。",
-      "source": "National Institutes of Health (NIH) | (.gov)",
-      "date": "2026-10-23",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZV82ZmlFUXNCUHc3eUJGR24wc25GOTJESmQ3TUd6NzZsMzBETkM0Vk5DOHpqZTc5UHVLQ1BPSnkxakVBUllYV2RqUHRFTFRVbVJpZXFrV2FPRE0tdmY0c1A2YXFGNG1SenFtcjRTTVVkUkpBSjEtSm9fcFR0MW5nTTlGaEE4dS1GR0haVnVKZUJldnk5VjlOdnZCZzh3Q0dLWjBCWHRJNG1aMGZJRHVUa1pUMWlrbWR1d3dPdg?oc=5",
+      "title": "Zola-Cel CAR-T細胞療法 細胞療法在多發性硬化症方面顯示出有希望的初步結果",
+      "summary": "克利夫蘭診所多發性硬化症的初步結果",
+      "source": "Cleveland Clinic",
+      "date": "2026-10-26",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUm9QZHM4ajBudTV2czI0aV9GMkxtREpnOXlrajdaU3FCbDBHbWhfeDZtX0x3dnVWRzVSQWV4SnRTMkRxSTQydU40cDIyanRBQlBiX1hlVTZIcjViUGpzdlctMzhuRC1OZDZQZEZqcktwUTJuSkYxTVdjQzZySDJqUldTZmo5RWR5N282TE1Mbzc1RDlwb3Bwb3N3?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "專員國家優先券 (CNPV) 試點計劃",
-      "summary": "(CNPV) 試點計畫美國食品藥物管理局 (.gov)",
-      "source": "U.S. Food and Drug Administration (.gov)",
-      "date": "2026-10-19",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWk0TnM5QUY4aEM2SlItbjczWDRQRGQ0c1dMTmNRdnZxSGdmZk9oRk9DRG9TQkx0d3lzZWQtbngzWGlTcnRYbDZQeS0tSXFieHhFQzZ5LVRzN2xiMFV5akl4Ymh5aVpMWmQxbTRXVE5Lbk1nd0d5QS1KTEtTQlN2YWl6Tk1oeEtuSVRSM0lCLUY?oc=5",
+      "title": "精準T細胞療法在臨床試驗中成功抑制對治療有抗性的癌症",
+      "summary": "美國國家衛生院（NIH）的精準T細胞療法在臨床試驗中展現潛力，有效控制難治型癌症，為病患帶來新希望。",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "date": "2026-10-23",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZV82ZmlFUXNCUHc3eUJGR24wc25GOTJESmQ3TUd6NzZsMzBETkM0Vk5DOHpqZTc5UHVLQ1BPSnkxakVBUllYV2RqUHRFTFRVbVJpZXFrV2FPRE0tdmY0c1A2YXFGNG1SenFtcjRTTVVkUkpBSjEtSm9fcFR0MW5nTTlGaEE4dS1GR0haVnVKZUJldnk5VjlOdnZCZzh3Q0dLWjBCWHRJNG1aMGZJRHVUa1pUMWlrbWR1d3dPdg?oc=5",
       "lang": "zh-TW"
     }
   ]
