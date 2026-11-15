@@ -1,58 +1,58 @@
 {
   "module": "regulation",
-  "updated": "2026-11-14T16:50:58.756439+00:00",
+  "updated": "2026-11-15T02:15:36.838175+00:00",
   "items": [
     {
-      "title": "BioCardia 報告 2026 財年第三季虧損 190 萬美元，推進日本 日本藥品局（PMDA） 之路",
-      "summary": "llion，推進日本PMDA路徑 scanx.trade",
+      "title": "CBER 2026 Orphan Approvals (new BLAs)",
+      "summary": "",
+      "source": "FDA Biologics",
+      "date": "2026-11-14",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Biologics Electronic Reading Room (eFOIA)",
+      "summary": "The Biologics eFOI Reading Room provides access to documents posted throughout the \"Vaccines, Blood & Biologics\" and other sections related to the Center for Biologics Evaluation and Research on the 美國食藥局（FDA）.gov Web site.",
+      "source": "FDA Biologics",
+      "date": "2026-11-14",
+      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BioCardia reports Q3FY26 loss of $1.9 million, advances Japan 日本藥品局（PMDA） path",
+      "summary": "llion, advances Japan 日本藥品局（PMDA） path scanx.trade",
       "source": "scanx.trade",
       "date": "2026-11-13",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFRqekpOQ1dDckkxTHJNai1UOVJVbE5zNmlhdGp4OEwxeXZlTTdkSWk3Q1FmVlA3OERmNUo3aEVMMnV6b3IxQjdBUEFqWUdxYmRIdDN4eGVPLUdiR1ZEdGhsYzFsUjNjRnNsdDktTHI1QW83WkRNWFFndmVuRmoxOXlvanJEVUpCSFJET1Q3a2FqdmtyMmtESHdxQUtDc05QNTJMSHRn?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "產業指引：細胞與基因治療產品的效力確保",
-      "summary": "這份指引提供建議，協助業界發展一套以科學和風險為基礎的策略，確保人體細胞治療或基因產品的效力。",
+      "title": "Guidance for Industry: Potency Assurance for Cellular and 基因療法 Products",
+      "summary": "This guidance provides recommendations for developing a science- and risk-based strategy to help assure the potency of a human cellular therapy or 基因療法 (CGT) product.",
       "source": "FDA Biologics",
       "date": "2026-11-12",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-potency-assurance-cellular-and-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER意見交流會：罕見疾病基因療法臨床試",
-      "summary": "",
+      "title": "CBER Listening Meeting: Patient and Care Partner Perspectives on Early Enrollment into 基因療法 臨床試驗 for Rare Diseases",
+      "summary": "基因療法 trials inform risks & benefits for informed decisions. Long-term follow-up crucial for safety & durability assessment.",
       "source": "FDA Biologics",
       "date": "2026-11-10",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/cber-listening-meeting-patient-and-care-partner-perspectives-early-enrollment-gene-therapy-clinical",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製品電子閱覽室（eFOIA）",
-      "summary": "生物製劑 eFOI 閱覽室提供對 美國食藥局（FDA）.gov 網站上「疫苗、血液和生物製劑」以及與生物製劑評估和研究中心相關的其他部分發布的文件的存取。",
-      "source": "FDA Biologics",
-      "date": "2026-11-10",
-      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CBER 2026 孤兒批准（新 BLA）",
-      "summary": "",
-      "source": "FDA Biologics",
-      "date": "2026-11-10",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "核准的細胞和基因治療產品",
-      "summary": "治療產品辦公室 (OTP) 許可和批准的產品清單。",
+      "title": "Approved Cellular and 基因療法 Products",
+      "summary": "Listing of licensed and approved products from the Office of Therapeutic Products (OTP).",
       "source": "FDA Biologics",
       "date": "2026-11-09",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 的 CardiAMP 完成日本上市前諮詢，這是第一個心臟細胞療法",
-      "summary": "市場諮詢，第一個心肌細胞療法這樣做 Tech Times",
+      "title": "BioCardia's CardiAMP Completes Japan Pre-Market Consultation, First Cardiac 細胞治療 to Do So",
+      "summary": "Market Consultation, First Cardiac 細胞治療 to Do So Tech Times",
       "source": "Tech Times",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
