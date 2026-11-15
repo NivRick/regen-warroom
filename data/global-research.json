@@ -1,10 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-11-15T02:15:18.172633+00:00",
+  "updated": "2026-11-15T17:31:29.517433+00:00",
   "items": [
     {
-      "title": "3D生物列印幹細胞來源小型細胞外囊泡的持續遞送，透過CREB1/PGC-1α/FNDC5軸線促進創傷性腦損傷後的神經再生。",
-      "summary": "幹細胞來源的小型細胞外囊泡（sEVs）用於創傷性腦損傷（TBI）的",
+      "title": "類器官運算的評估框架",
+      "summary": "類器官運算利用實驗室培養的神經類器官所形成的功能性神經網路，重現人類大腦資訊處理的關鍵面向。",
+      "source": "PubMed",
+      "date": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034668/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "3D生物列印幹細胞來源小型細胞外囊泡的持續遞送，透過CREB1/",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-11-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42999541/",
@@ -43,6 +51,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "Spectroscopic and structural characterization of human amniotic membrane after washing with plasma-activated water.",
+      "summary": "The human amniotic membrane (AM) is widely used in 再生醫療; however, tissue processing and sterilization procedures may compromise its structural integrity. Plasma-activated water (PAW) has emerged as a potential alternative for tissue decontamination. This study evaluated the effects ...",
+      "source": "PubMed",
+      "date": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945633/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "From lignin to living systems: Carbon dots modulate early cytoskeletal organization and phenotypic marker expression in undifferentiated mesenchymal 幹細胞.",
       "summary": "Carbon dots (CDs) are emerging bioactive nanomaterials for 組織工程 applications. This study aimed to reproduce softwood lignin-derived carbon dots (LCDs) and nitrogen-doped LCDs (N@LCDs) and evaluate their effects on early human adipose-derived mesenchymal 幹細胞 (hMSC) behavior in 2D ...",
       "source": "PubMed",
@@ -51,32 +67,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "基因療法 for epilepsy: From",
-      "summary": "Genetic epilepsy, for which the molecular mechanisms are relatively well defined in numerous monogenic forms, represents an attractive model for the transition from symptomatic seizure control to mechanism‑driven correction. However, 基因療法 strategies differ in their mechanisms of action, adap...",
+      "title": "癲癇的基因療法：從單基因形式到多基因複雜性",
+      "summary": "遺傳性癲癇的分子機制在許多單基因形式中相對明確，這使其成為基因療法很有潛力的模型。",
       "source": "PubMed",
       "date": "2026-11-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42992560/",
       "lang": "zh-TW"
     },
     {
-      "title": "Lifecycle 組織工程: An AI-enabled multimodal sensing and digital twin roadmap.",
-      "summary": "The clinical translation of 組織工程 (TE) is critically hampered by the absence of real-time, non-invasive monitoring throughout the entire lifecycle of tissue fabrication and repair. Current reliance on end-point assessments obscures dynamic biological events, making early detection of de...",
+      "title": "全生命週期組織工程：結合人工智慧（AI）的多模態感測與數位",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-11-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42992015/",
       "lang": "zh-TW"
     },
     {
-      "title": "透過電腦模擬引導的假設生成，用於設計與培養組織工程生物混合植入物",
-      "summary": "生物混合植入物中，支架為組織工程心臟瓣膜、血管移植物及相關結構提供機械強化，",
+      "title": "In silico-guided hypothesis generation for design and cultivation of tissue-engineered biohybrid implants.",
+      "summary": "Biohybrid implants, in which 生物支架 provide mechanical reinforcement for tissue-engineered heart valves, vascular grafts, and related constructs, represent a promising strategy in 再生醫療. Their mid- to long-term performance, however, is critically governed by the growth and remodel...",
       "source": "PubMed",
       "date": "2026-11-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42962354/",
       "lang": "zh-TW"
     },
     {
-      "title": "在沃羅諾伊骨骼支架中解",
-      "summary": "",
+      "title": "Decoupling pore size and porosity in Voronoi bone 生物支架: A multiphysics framework for early osteogenic evaluation.",
+      "summary": "The irregular, trabecular-like morphology of Voronoi-tessellated 生物支架 makes them attractive for bone 組織工程. However, most existing Voronoi modelling methods cannot independently control pore size and porosity, restricting systematic evaluation of 生物支架 structure-function relatio...",
       "source": "PubMed",
       "date": "2026-11-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42950508/",
@@ -115,51 +131,35 @@
       "lang": "zh-TW"
     },
     {
-      "title": "From dual targeting to dynamic targeting: Rethinking CAR-NK 細胞治療 for pancreatic cancer.",
-      "summary": "",
+      "title": "從雙靶點到動態靶點：重新思考用於胰臟癌的嵌合抗原受體自然殺手細胞療法（CAR-NK）",
+      "summary": "這篇研究探討如何從雙靶點進展到動態靶點，重新思考嵌合抗原受體自然殺手細胞療法（CAR-NK",
       "source": "PubMed",
       "date": "2026-11-15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42921225/",
       "lang": "zh-TW"
     },
     {
-      "title": "The longer, the better? Optimizing dystrophin constructs for cardiac 基因療法 in Duchenne muscular dystrophy.",
-      "summary": "",
+      "title": "AAV-delivered TNF-α inhibitors for the treatment of non-infectious uveitis.",
+      "summary": "Non-infectious uveitis (NIU) is a vision-threatening inflammatory disease of the eye, which can require long-term systemic immunosuppression associated with significant side effects. Inhibitors of tumor necrosis factor α (TNF-α) have emerged as effective agents for increasing the time between flares...",
       "source": "PubMed",
       "date": "2026-11-15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43022057/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034806/",
       "lang": "zh-TW"
     },
     {
-      "title": "囊狀纖維化基因療法出現新競爭者。",
-      "summary": "囊狀纖維化基因療法市場競爭激烈，現在又有一家新公司加入戰局，未來發展值得關注。",
+      "title": "Optimized GENE TARGET framework characterizes barriers to therapeutic development for monogenic neurodevelopmental disorders.",
+      "summary": "GENE TARGET is a previously published framework designed to quantitatively assess the suitability of a specific monogenic neurodevelopment disorder (NDD) for development of genetic therapies, addressing the need for a systematic and rigorous approach to research prioritization and resource allocatio...",
       "source": "PubMed",
       "date": "2026-11-15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43023052/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034642/",
       "lang": "zh-TW"
     },
     {
-      "title": "恢復BDNF/TrkB訊號傳導，可改善GM1神經節苷脂貯積",
-      "summary": "",
+      "title": "Long-read genome sequencing reveals complex variability in lentiviral provirus insertions in clonal CD19 CAR-T細胞療法 VCN reference cell lines.",
+      "summary": "Characterizing proviral insertions in 嵌合抗原受體 (CAR)-T cells is critical for 細胞治療 product safety and efficacy. We generated clonal CD19 CAR-T細胞療法 cell lines designated VCN1-VCN5 based on RRE copies per cell measured by droplet digital PCR (ddPCR). Some clones also contained addi...",
       "source": "PubMed",
       "date": "2026-11-15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43002876/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物支架-free self-assembled cell ring 類器官 enable efficient tumor modeling with high engraftment rates, superior tumor uniformity, and reduced animal consumption.",
-      "summary": "Conventional tumor cell suspension xenografts suffer from low engraftment efficiency, prolonged latency, and poor tumor uniformity, with high animal consumption conflicting with the 3R principles (Replacement, Reduction, Refinement). This study aimed to develop a 生物支架-free self-assembled cell ri...",
-      "source": "PubMed",
-      "date": "2026-11-15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43022431/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Brief exposure to pulsed magnetic fields supports dental pulp 組織工程: 體外實驗 evaluation and 體內實驗 proof of concept.",
-      "summary": "Dental pulp 組織工程 requires preservation of dental pulp 幹細胞 (DPSCs) function under adverse conditions while supporting differentiation and tissue formation. Pulsed electromagnetic fields (PEMFs) are non-invasive modulators of cellular function, but their effects on DPSCs cytoprotec...",
-      "source": "PubMed",
-      "date": "2026-11-15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43022335/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034636/",
       "lang": "zh-TW"
     },
     {
@@ -187,8 +187,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Ficerafusp Alfa、Pembrolizumab 與立體定位放射治療（SBRT）聯用，治療頭頸部鱗狀細胞癌（HNSCC）",
-      "summary": "華盛頓大學醫學院主辦的這項一/二期開放標籤臨床試驗，將評估Ficeraf",
+      "title": "Ficerafusp Alfa、Pembrolizumab 與立體定位放射治療（SBRT）用於頭頸部鱗狀細胞癌（HNSCC）的臨床一/二期試驗",
+      "summary": "這項由華盛頓大學醫學院主辦的開放標籤臨床一/二期試驗，目前尚未開始",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-11-15",
       "url": "https://clinicaltrials.gov/study/NCT07552558",
@@ -221,14 +221,14 @@
     {
       "title": "[PHASE2] The METAMAX Study: MT027 異體（取自捐贈者） CAR-T細胞療法 for Brain Metastases From Advanced Solid Tumors",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：T-MAXIMUM Pharmaceutical Inc｜This is a prospective, open-label, multicenter, single arm 第二期試驗 trial to evaluate the safety, tolerability, intracranial efficacy, pharmacokinetics, and pharmacodynamics of MT027 administered ICV in patients with B7-H3-positive brain metastases f",
-      "source": "ClinicalTrials.gov｜Taiwan, United States",
+      "source": "ClinicalTrials.gov｜United States, Taiwan",
       "date": "2026-11-15",
       "url": "https://clinicaltrials.gov/study/NCT07897799",
       "lang": "zh-TW"
     },
     {
-      "title": "住院瑜伽療法對癌症病患的療效",
-      "summary": "狀態：尚未招募｜主辦：安德森癌症中心｜這項研究旨在探討瑜伽療法計畫是否能改善癌症病患的生活品質。",
+      "title": "[NA] Efficacy Of An Inpatient Yoga Therapy Program For Cancer Patients",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：M.D. Anderson Cancer Center｜The purpose of this study is to learn whether a yoga therapy program can improve quality of life and reduce symptoms in people undergoing 幹細胞 transplantation compared with an enhanced standard care physical activity program.",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-11-15",
       "url": "https://clinicaltrials.gov/study/NCT07776587",
@@ -283,27 +283,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "EHDN 2026 Part 2: What’s the latest news for Huntington’s disease 臨床試驗?",
-      "summary": "for Huntington’s disease 臨床試驗? HDBuzz",
-      "source": "HDBuzz",
-      "date": "2026-11-12",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTktcnJHLVd6QUFlTWdJUlJQOUZ3UUhiQ0xMSGNFdUdud2RkY2pVVTBObTlJc2tEMXBEdUE2Vkx3cFFUbGp6U3hud3FxLWltTUpzX2VNQXJQRXFSN3hBcXg4RW9Ic0NEXzhmTVJDdEpKTXNXdW1Mbm1GR3ozd2puWlNvd3duVUdRb0NKQVRWbE9hR2F5S2xfeWlwaEZmTEVuWVlqcFhxOFQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Capricor Files Q3 2026 Results Before Deramiocel 美國食藥局（FDA） Decision",
-      "summary": "ramiocel 美國食藥局（FDA） Decision The 臨床試驗 Vanguard",
+      "title": "Capricor在Deramiocel藥物獲得美國食品藥物管理局（FDA）核准前",
+      "summary": "",
       "source": "The Clinical Trial Vanguard",
       "date": "2026-11-12",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmQyX19iVVNJZTZDb3hPNGpUQkhLRXlTR1daYm1aNGlBTnBjUGVsYkdZTnY3N3Juc0s4NFdZSHJJZGFfaEE0d1JJNXhlUW9kZTlELTZTeDQ5UkNfNm52bUk3S24yRUgtQWdsNEtDT0hkUzdoZWlnS3NTSk1lRGlYVEpsT2lpZUJUb2w1WUNrWFJGNHFfSGhqelU1YXFENWxYbXlFenFmRzg?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） Reportedly Shelves Commissioner's National Priority Voucher Program",
-      "summary": "tional Priority Voucher Program Pharmacy Times",
-      "source": "Pharmacy Times",
-      "date": "2026-11-12",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMS1XaGZhdFdETGNKbWNzMG1OMjdXSFZJVzdoMUNLem9UZXNyOWsyblFBUnAtaHZpLUgyWi1JbG8zbGszazJCQTNlckxreTREeWl2Rmpld1UzVS1EYXQ0QVdSUG03ZWI4SWRmS0wtU05FaE83enBHRGZDQlQzeHI5b3pndXkzbEhRLWhnWnppcVBNNVRRc0ZlUy1oc2w4RnViZWF2eTFFdFl1Zw?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -331,8 +315,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "第二期異體細胞療法治療頑固型T細胞淋巴瘤",
-      "summary": "",
+      "title": "[PHASE2] 異體（取自捐贈者） 細胞治療 in Refractory T-Cell Lymphoma",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：University Medical Center Goettingen｜The REACT study is for people with a rare type of cancer called T-cell lymphoma. T-cell lymphoma affects cells that are part of the body's immune system.\n\nMost lymphomas develop from B cells. Lymphomas that develop from T cells are much rarer. There ",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-11",
       "url": "https://clinicaltrials.gov/study/NCT07920393",
@@ -363,8 +347,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "A precision T-細胞治療 stalls treatment-resistant cancers in 臨床試驗",
-      "summary": "ent-resistant cancers in 臨床試驗 National Institutes of Health (NIH) | (.gov)",
+      "title": "Zola-Cel CAR-T細胞療法-細胞治療 Shows Promising Initial Results in Multiple Sclerosis",
+      "summary": "ing Initial Results in Multiple Sclerosis Cleveland Clinic",
+      "source": "Cleveland Clinic",
+      "date": "2026-10-26",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUm9QZHM4ajBudTV2czI0aV9GMkxtREpnOXlrajdaU3FCbDBHbWhfeDZtX0x3dnVWRzVSQWV4SnRTMkRxSTQydU40cDIyanRBQlBiX1hlVTZIcjViUGpzdlctMzhuRC1OZDZQZEZqcktwUTJuSkYxTVdjQzZySDJqUldTZmo5RWR5N282TE1Mbzc1RDlwb3Bwb3N3?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "精準T細胞療法在臨床試驗中，成功抑制頑固型癌症",
+      "summary": "精準T細胞療法在臨床試驗中，對治療頑固型癌症展現潛力。",
       "source": "National Institutes of Health (NIH) | (.gov)",
       "date": "2026-10-23",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZV82ZmlFUXNCUHc3eUJGR24wc25GOTJESmQ3TUd6NzZsMzBETkM0Vk5DOHpqZTc5UHVLQ1BPSnkxakVBUllYV2RqUHRFTFRVbVJpZXFrV2FPRE0tdmY0c1A2YXFGNG1SenFtcjRTTVVkUkpBSjEtSm9fcFR0MW5nTTlGaEE4dS1GR0haVnVKZUJldnk5VjlOdnZCZzh3Q0dLWjBCWHRJNG1aMGZJRHVUa1pUMWlrbWR1d3dPdg?oc=5",
