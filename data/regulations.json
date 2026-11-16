@@ -1,10 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-11-16T02:28:55.276040+00:00",
+  "updated": "2026-11-16T20:46:15.195279+00:00",
   "items": [
     {
+      "title": "生物製劑最新動態",
+      "summary": "這是美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）發布的最新消息。",
+      "source": "FDA Biologics",
+      "date": "2026-11-16",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "CBER傾聽會議：已核准罕見疾病基因療法之病患與照護者對安全性的看法",
+      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）舉辦病患傾聽會議，聚焦已核准用於罕見疾病的基因療法，聽取病患與照護者對治療安全性的觀點。",
+      "source": "09/20/2024",
+      "date": "2026-11-16",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/cber-listening-meeting-patient-and-care-partner-perspectives-safety-considerations-approved-gene",
+      "lang": "zh-TW"
+    },
+    {
       "title": "CBER 2026年孤兒藥核准（新生物製劑許可申請）",
-      "summary": "美國CBER中心預計在2026年核准的孤兒藥，特別是新的生物製劑許可申請案，值得業界關注。",
+      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）預計在2026年核准的孤兒藥清單，主要針對新的生物製劑許可申請（BLA），值得業界關注。",
       "source": "FDA Biologics",
       "date": "2026-11-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
@@ -12,39 +28,31 @@
     },
     {
       "title": "生物製劑電子閱覽室（eFOIA）",
-      "summary": "這個生物製劑電子閱覽室（eFOIA）提供疫苗、血液與生物製劑等相關文件，方便大眾查閱。",
+      "summary": "這個生物製劑電子資訊自由法（eFOIA）閱覽室，提供美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）在「疫苗、血液與生物製劑」等相關領域公開的文件。",
       "source": "FDA Biologics",
       "date": "2026-11-14",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
       "lang": "zh-TW"
     },
     {
-      "title": "產業指引：細胞與基因治療產品的效力確保",
-      "summary": "這份指引提供科學化與風險導向的策略建議，協助確保人類細胞治療或基因治療產品的效力。",
+      "title": "產業指引：細胞與基因療法產品的效價確保",
+      "summary": "這份指引為業界提供了建議，旨在建立一套基於科學與風險的策略，以確保人類細胞療法或基因療法產品的效價（potency）。",
       "source": "FDA Biologics",
       "date": "2026-11-12",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-potency-assurance-cellular-and-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER傾聽會議：病患與照護夥伴對罕見疾病基因療法臨床試驗早期入組的觀點",
-      "summary": "基因療法臨床試驗能提供風險與效益資訊，協助做出知情決定；長期追蹤對評估安全性與持久性至關重要。",
-      "source": "FDA Biologics",
+      "title": "BioCardia公布2026財年第三季虧損190萬美元，並推進日本PMDA審查進度",
+      "summary": "BioCardia公司公布2026財年第三季虧損190萬美元，但同時也宣布其產品在日本醫藥品醫療機器綜合機構（PMDA）的審查進度有所推進。",
+      "source": "scanx.trade",
       "date": "2026-11-10",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/cber-listening-meeting-patient-and-care-partner-perspectives-early-enrollment-gene-therapy-clinical",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "已核准的細胞與基因治療產品",
-      "summary": "這份清單列出了治療產品辦公室（OTP）已獲許可與核准的細胞與基因治療產品。",
-      "source": "FDA Biologics",
-      "date": "2026-11-09",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFRqekpOQ1dDckkxTHJNai1UOVJVbE5zNmlhdGp4OEwxeXZlTTdkSWk3Q1FmVlA3OERmNUo3aEVMMnV6b3IxQjdBUEFqWUdxYmRIdDN4eGVPLUdiR1ZEdGhsYzFsUjNjRnNsdDktTHI1QW83WkRNWFFndmVuRmoxOXlvanJEVUpCSFJET1Q3a2FqdmtyMmtESHdxQUtDc05QNTJMSHRn?oc=5",
       "lang": "zh-TW"
     },
     {
       "title": "BioCardia的CardiAMP完成日本上市前諮詢，成為首個心臟細胞療法",
-      "summary": "BioCardia公司的CardiAMP心臟細胞療法，已完成日本上市前諮詢，創下該領域首例，為進入日本市場鋪路。",
+      "summary": "BioCardia公司旗下的",
       "source": "Tech Times",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
