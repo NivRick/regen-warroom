@@ -1,18 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-11-16T20:46:43.103960+00:00",
+  "updated": "2026-11-17T04:53:14.595101+00:00",
   "items": [
     {
-      "title": "STAT+：告水電工喬和微軟，以及縮水的加薪",
-      "summary": "醫療服務提供者訴諸法律追討款項，以及保險費用如何侵蝕你的薪水。",
+      "title": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises",
+      "summary": "Health care providers turn to the courts to get paid, and how insurance costs are eating your paycheck.",
       "source": "STAT News",
       "date": "2026-11-16",
       "url": "https://www.statnews.com/2026/11/16/providers-sue-employers-to-collect-payment-health-insurance-costs-climb/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：藥業小新聞：我們正在關注GLP-1藥物使用、新冠",
-      "summary": "",
+      "title": "STAT+: Pharmalittle: We’re reading about GLP-1 use, Covid-19 vaccine investment returns, and more",
+      "summary": "During July and August 2025, approximately 1 in 10 U.S. adults reported taking a GLP-1 medication during the previous year",
       "source": "STAT News",
       "date": "2026-11-16",
       "url": "https://www.statnews.com/pharmalot/2026/11/16/glp1-use-covid-19-vaccines-return-on-investment/?utm_campaign=rss",
@@ -67,16 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "本週數據觀察：腦部疾病藥物重回創投業者關注焦點",
-      "summary": "近幾週內，五家專注神經學領域的新創公司合計募資約4.5億美元。其他方面，投資人對最新消息反應平淡。",
-      "source": "BioPharma Dive",
-      "date": "2026-11-13",
-      "url": "https://www.biopharmadive.com/news/charts-venture-neuroscience-oyster-vectory-acr-cell-therapy/874570/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech募資追蹤報告 '26：中國Eli Radiopharma募得6,000萬美元；Neurosterix則募得1.05億美元",
-      "summary": "中國Eli Radiopharma募得6,000萬美元，Neurosterix募得1.05億美元。",
+      "title": "Fierce Biotech Fundraising Tracker '26: China's Eli Radiopharma raises $60M; Neurosterix notches $105M",
+      "summary": "China's Eli Radiopharma raises $60M; Neurosterix notches $105M Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-11-12",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
