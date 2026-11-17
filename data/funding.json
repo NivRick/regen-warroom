@@ -1,37 +1,45 @@
 {
   "module": "funding",
-  "updated": "2026-11-17T04:53:14.595101+00:00",
+  "updated": "2026-11-17T19:31:19.391890+00:00",
   "items": [
     {
-      "title": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises",
-      "summary": "Health care providers turn to the courts to get paid, and how insurance costs are eating your paycheck.",
+      "title": "Flagship在英國設立生技新創據點",
+      "summary": "Flagship將投入1億英鎊，在英國成立專注於人類與地球健康的「AI原生平台公司」。",
       "source": "STAT News",
-      "date": "2026-11-16",
-      "url": "https://www.statnews.com/2026/11/16/providers-sue-employers-to-collect-payment-health-insurance-costs-climb/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "url": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Pharmalittle: We’re reading about GLP-1 use, Covid-19 vaccine investment returns, and more",
-      "summary": "During July and August 2025, approximately 1 in 10 U.S. adults reported taking a GLP-1 medication during the previous year",
+      "title": "新創公司募資1.73億美元，鎖定鐮狀細胞疾病治療",
+      "summary": "針對鐮",
       "source": "STAT News",
-      "date": "2026-11-16",
-      "url": "https://www.statnews.com/pharmalot/2026/11/16/glp1-use-covid-19-vaccines-return-on-investment/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "url": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Venture capitalist John Doerr says AI company, named for his late brother, could help fix primary care",
-      "summary": "Venture capitalist John Doerr on Tom Health, a new AI tool for primary care: \"I think this is one of the best possible uses of AI.\"",
+      "title": "STAT+: After death in 基因療法 trial for a brain disease, progress is reported",
+      "summary": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
       "source": "STAT News",
-      "date": "2026-11-16",
-      "url": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "url": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Versant, Lilly put $100 million behind new startup aimed at solving one of 基因療法’s thorniest issues",
-      "summary": "Versant Ventures, Eli Lilly, and a handful of other investors will pour $100 million into a new startup devoted to solving a thorny 基因療法 challenge.",
+      "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
+      "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
       "source": "STAT News",
-      "date": "2026-11-16",
-      "url": "https://www.statnews.com/2026/11/16/versant-lilly-put-100-million-behind-new-startup-aimed-at-solving-one-of-gene-therapys-thorniest-issues/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
+      "summary": "Armed with $173 million in venture funding, the startup is developing what it&rsquo;s positioning as a more accessible alternative to 基因療法 and gene editing treatments for sickle cell and beta thalassemia.",
+      "source": "BioPharma Dive",
+      "date": "2026-11-17",
+      "url": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
       "lang": "zh-TW"
     },
     {
@@ -44,7 +52,7 @@
     },
     {
       "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
-      "summary": "Lilly&rsquo;s 15th announced company acquisition this year &mdash; by far the most in the biopharmaceutical sector &mdash; centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms.",
+      "summary": "Lilly&rsquo;s 15th announced acquisition this year &mdash; by far the most in the biopharmaceutical sector &mdash; centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms.",
       "source": "BioPharma Dive",
       "date": "2026-11-16",
       "url": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
@@ -56,22 +64,6 @@
       "source": "BioPharma Dive",
       "date": "2026-11-16",
       "url": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Novo submits sickle cell drug; Flagship, Gates Foundation deepen ties",
-      "summary": "Novo views the medicine, acquired in a billion-dollar deal, as a future blockbuster. Meanwhile, a pair of startups forged an RNA editing pact and Astellas lined up two new trials in pancreatic cancer.",
-      "source": "BioPharma Dive",
-      "date": "2026-11-13",
-      "url": "https://www.biopharmadive.com/news/novo-etavopivat-flagship-gates-ascidian-immuneering-neurosterix/874120/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Fierce Biotech Fundraising Tracker '26: China's Eli Radiopharma raises $60M; Neurosterix notches $105M",
-      "summary": "China's Eli Radiopharma raises $60M; Neurosterix notches $105M Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "2026-11-12",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     }
   ]

@@ -1,34 +1,50 @@
 {
   "module": "regulation",
-  "updated": "2026-11-17T04:52:58.576755+00:00",
+  "updated": "2026-11-17T19:31:02.470328+00:00",
   "items": [
     {
-      "title": "生物製劑新知",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "title": "生物製劑最新消息",
+      "summary": "生物製劑評估與研究中心（CBER）的最新動態。",
       "source": "FDA Biologics",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER意見交流會：病患與照護夥伴對已核准罕見疾病基因療法安全性的看法",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）舉辦的病患意見交流會，聚焦病患與照護夥伴對已核准罕見疾病基因療法安全性的看法。",
+      "title": "AGC Biologics Welcomes Multiple 細胞治療 Projects to New Yokohama Site",
+      "summary": "rapy Projects to New Yokohama Site GlobeNewswire",
+      "source": "GlobeNewswire",
+      "date": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVRrQUxyTUlDYm9MNVRSdVExOHJGNU9jNmVDWVFycThtdXRPcVYyRWwyQjNVcFA4cGd0TkQyUUVZRWpaZjZSeUhpeF82Z3M5QTlHR2NsZEFmRUpIdzFwMDh6SkpBV3NJakVRVUM4SHNnNGc3NU9leE9pLURXc2ZXM3Q5b05XQzV1WjVDSzVCVzlWVWoyMngyeUlaN0ZfQ0lDT1RVa2ZiOWNJVGN2WW4tblFJVUt2R2pkMG5tQUNCVmtYWmlBdThwNFdHV1BPVVRqRXFBdEthcnhPdWhqZ0FZ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "AGC Biologics 橫濱新廠啟用，喜迎多項細胞治療專案",
+      "summary": "生物製藥CDMO大廠AGC Biologics宣布，其日本橫濱新廠已正式啟用，並成功承接多項細胞治療專案。此舉大幅強化公司在細胞治療領域的生產與服務能量，積極搶攻全球市場商機。",
+      "source": "Market.us",
+      "date": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUFDc2VfU2FHME5mSW53MXc0LWpkN05XSnlwUy1neDJCNnFXMHdVTVhnR0NZZFFYSXQwVnEweWp0RXFXa0l5cHJUSkdkdkdqa2k0dnRsOU1XVnZsMkt0ald6SmdrY1IyM2ZydWRUMTRVdGlnZUpTQUdmMTltZTdVUGRyODh5Qmo3cFFyVnBsMU44RlBPaVJWNDBNV2h0YmxSWVlndUl1TEE5QXQ3aDlIajdRWmhvQQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "CBER傾聽會議：已核准罕見疾病基因療法之病患與照護夥伴安全觀點",
+      "summary": "美國食品藥物管理局（FDA）生物製劑",
       "source": "09/20/2024",
       "date": "2026-11-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/cber-listening-meeting-patient-and-care-partner-perspectives-safety-considerations-approved-gene",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 2026年孤兒藥核准（新生物製劑許可申請）",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）預計在2026年核准的孤兒藥清單，主要針對新的生物製劑許可申請（BLA）。",
+      "title": "CBER 2026 Orphan Approvals (new BLAs)",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-11-14",
       "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑電子閱覽室（e",
-      "summary": "",
+      "title": "Biologics Electronic Reading Room (eFOIA)",
+      "summary": "The Biologics eFOI Reading Room provides access to documents posted throughout the \"Vaccines, Blood & Biologics\" and other sections related to the Center for Biologics Evaluation and Research on the 美國食藥局（FDA）.gov Web site.",
       "source": "FDA Biologics",
       "date": "2026-11-14",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
@@ -40,6 +56,22 @@
       "source": "FDA Biologics",
       "date": "2026-11-12",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-potency-assurance-cellular-and-gene-therapy-products",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BioCardia reports Q3FY26 loss of $1.9 million, advances Japan 日本藥品局（PMDA） path",
+      "summary": "llion, advances Japan 日本藥品局（PMDA） path scanx.trade",
+      "source": "scanx.trade",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFRqekpOQ1dDckkxTHJNai1UOVJVbE5zNmlhdGp4OEwxeXZlTTdkSWk3Q1FmVlA3OERmNUo3aEVMMnV6b3IxQjdBUEFqWUdxYmRIdDN4eGVPLUdiR1ZEdGhsYzFsUjNjRnNsdDktTHI1QW83WkRNWFFndmVuRmoxOXlvanJEVUpCSFJET1Q3a2FqdmtyMmtESHdxQUtDc05QNTJMSHRn?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BioCardia's CardiAMP Completes Japan Pre-Market Consultation, First Cardiac 細胞治療 to Do So",
+      "summary": "Market Consultation, First Cardiac 細胞治療 to Do So Tech Times",
+      "source": "Tech Times",
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
       "lang": "zh-TW"
     }
   ]
