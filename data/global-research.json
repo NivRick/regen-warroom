@@ -1,10 +1,10 @@
 {
   "module": "research",
-  "updated": "2026-11-18T03:57:39.072839+00:00",
+  "updated": "2026-11-18T19:12:41.932474+00:00",
   "items": [
     {
       "title": "類器官運算的基準評估框架",
-      "summary": "類器官運算利用實驗室培養的神經類器官功能性神經網路，重現人腦資訊處理的關鍵面向。",
+      "summary": "類器官運算利用實驗室培養的神經類器官功能性神經網路，重現人類大腦資訊處理的關鍵面向。",
       "source": "PubMed",
       "date": "2026-11-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43034668/",
@@ -59,24 +59,40 @@
       "lang": "zh-TW"
     },
     {
-      "title": "From lignin to living systems: Carbon dots modulate early cytoskeletal organization and phenotypic marker expression in undifferentiated mesenchymal 幹細胞.",
-      "summary": "Carbon dots (CDs) are emerging bioactive nanomaterials for 組織工程 applications. This study aimed to reproduce softwood lignin-derived carbon dots (LCDs) and nitrogen-doped LCDs (N@LCDs) and evaluate their effects on early human adipose-derived mesenchymal 幹細胞 (hMSC) behavior in 2D ...",
+      "title": "Stromal Cells and Sjögren's Disease.",
+      "summary": "Sjögren's disease (SjD) is a systemic autoimmune disease traditionally attributed to lymphocytic infiltration and epithelial dysfunction and destruction. Growing evidence indicates that stromal cells might also contribute to local glandular pathology. This article focuses on stromal cell biology and...",
+      "source": "PubMed",
+      "date": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045334/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "基因療法治療遺傳性血小板疾病：從概念驗證到臨床應用",
+      "summary": "遺傳性血小板疾病（IPDs）是一組異質性的罕見遺傳疾病，影響血小板的生成和/或功能，臨床表現多樣。",
+      "source": "PubMed",
+      "date": "2026-11-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42926161/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "從木質素",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-11-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42913155/",
       "lang": "zh-TW"
     },
     {
-      "title": "癲癇的基因療法：從基礎到臨床",
-      "summary": "遺傳性癲癇的分子機制相對明確，是基因療法極具吸引力的目標。這類疾病的單基因形式眾多，為開發精準治療提供了良好模型。",
+      "title": "基因療法 for epilepsy: From",
+      "summary": "Genetic epilepsy, for which the molecular mechanisms are relatively well defined in numerous monogenic forms, represents an attractive model for the transition from symptomatic seizure control to mechanism‑driven correction. However, 基因療法 strategies differ in their mechanisms of action, adap...",
       "source": "PubMed",
       "date": "2026-11-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42992560/",
       "lang": "zh-TW"
     },
     {
-      "title": "組織工程的生命週期：人工智慧多模態",
-      "summary": "",
+      "title": "Lifecycle 組織工程: An AI-enabled multimodal sensing and digital twin roadmap.",
+      "summary": "The clinical translation of 組織工程 (TE) is critically hampered by the absence of real-time, non-invasive monitoring throughout the entire lifecycle of tissue fabrication and repair. Current reliance on end-point assessments obscures dynamic biological events, making early detection of de...",
       "source": "PubMed",
       "date": "2026-11-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42992015/",
@@ -115,8 +131,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Adaptive kinase signaling enables escape from small molecule inhibition in glioblastoma.",
-      "summary": "Patients with glioblastoma (GB) have a median survival of 15 months, despite intensive treatment with surgical resection, radiotherapy, and chemotherapy. A major challenge in overcoming treatment resistance is intratumoral heterogeneity, characterized by molecular, phenotypic, and clinical diversity...",
+      "title": "膠質母細胞瘤如何透過適應性激酶訊號，逃脫小分子抑制劑的抑制作用",
+      "summary": "膠質母細胞瘤（GB）患者，即使接受了手術切除、放射治療和化學治療等密集治療，中位數存活期仍僅有15個月。",
       "source": "PubMed",
       "date": "2026-11-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975206/",
@@ -131,8 +147,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "實體腫瘤過繼性細胞治療新策略：擺脫抗原依賴，提升訊號1增強劑的治療效益",
-      "summary": "這項研究探討如何讓實體腫瘤的過繼性細胞治療更有效，透過擺脫對抗原的依賴，並擴大強化第一訊號",
+      "title": "Beyond antigen dependence: Improving the therapeutic window of a signal 1 booster for adoptive 細胞治療 in solid tumors.",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-11-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42991664/",
@@ -147,139 +163,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Subcutaneous administration of adipose-tropic leptin 基因療法 for congenital generalized lipodystrophy.",
-      "summary": "AAV-based 基因療法 targeting adipose tissue has been limited by the absence of vectors with strong adipose tropism and high transduction efficiency. We previously developed an engineered capsid, V7, which demonstrated selective adipose tropism and absence of liver transduction after intraperiton...",
-      "source": "PubMed",
-      "date": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43041909/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Baculovirus helper functions during recombinant adeno-associated virus production in insect cells for 基因療法 applications.",
-      "summary": "Adeno-associated virus (AAV) can only replicate when additional functions are supplied via a co-infection with a helper virus (typically an adenovirus or herpesvirus) or co-transfection with helper virus genes. Use of the baculovirus expression system for recombinant (r)AAV 基因療法 vector produ...",
-      "source": "PubMed",
-      "date": "2026-11-18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43036788/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE3] Delayed Application of Immune Checkpoint Inhibitors in Advanced Non-Small Cell Lung Cancer",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Goethe University｜This study is a multicenter, randomized, open-label 第三期試驗 trial of delayed administration of 免疫療法 in patients who are planned to receive chemoimmunotherapy for newly diagnosed, advanced or metastatic, PD-L1 positive NSCLC without sensitizi",
-      "source": "ClinicalTrials.gov｜Germany",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT07943325",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE1, PHASE2] CD19 CAR-T細胞療法 細胞治療 in Adults With Relapsed or Refractory B-Cell Acute Lymphoblastic Leukemia: A 第一期試驗/II Study",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Hospital Universitario Dr. Jose E. Gonzalez｜This is a 第一期試驗/II study to evaluate the safety and efficacy of 自體（取自患者本人） T cells engineered with a 嵌合抗原受體 (CAR) targeting CD19 in adult patients with relapsed or refractory (r/r) B-cell acute lymphoblastic leukemia (ALL).",
-      "source": "ClinicalTrials.gov｜Mexico",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT07890025",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[NA] CD34+ Enriched Transplants to Treat Myelodysplastic Syndrome",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Guenther Koehne｜This study will evaluate whether processing blood 幹細胞 transplants using an investigational device (the CliniMACS system) results in fewer complications for patients who undergo transplant to treat myelodysplastic syndrome (MDS).\n\nThe CliniMACS ",
+      "title": "[PHASE1] Placental Cells for Diabetic Foot Ulcers",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Wake Forest University Health Sciences｜The purpose of this research study is to test the safety of placental 幹細胞 to treat non-healing diabetic foot ulcers.",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT05617625",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[NA] Mechanisms Within the Autonomic Nervous SysTEm undeRlying MusIc Therapy's aNalgesic Effects in Sickle Cell Disease (MASTERMIND)",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：University Hospitals Cleveland Medical Center｜Sickle cell disease causes very painful episodes that can happen without warning. Pain is one of the biggest problems for people with SCD. Medicines like opioids can help, but they have serious side effects. Doctors are looking for other ways to trea",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT07928089",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE1] N-803 in Combination With Pembrolizumab and Enfortumab Vedotin for Treatment of Urothelial Cancer",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：ImmunityBio, Inc.｜This phase Ib trial will investigate the effect of N-803 in combination with pembrolizumab and enfortumab vedotin in treating participants with urothelial cancer that has spread to nearby tissue or lymph nodes (locally advanced) or that has spread fr",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT07217496",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE1] Universal 4SCAR7U Targeting CD7-positive Malignancies",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Shenzhen Geno-Immune Medical Institute｜The purpose of this 臨床試驗 is to assess the feasibility, safety and efficacy of universal CAR-T細胞療法 cells based on 4SCAR7U design against CD7-positive hematological malignancies using CD7 specific universal CAR-T細胞療法 cells. The study also aims to lea",
-      "source": "ClinicalTrials.gov｜China",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT05995028",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE2] 幹細胞 Transplantation for Participants With Germline RUNX1 Associated Blood Cancers",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：National Cancer Institute (NCI)｜Background:\n\nSome blood cancers can be caused by germline variants (changes) in a person s RUNX1 gene. Germline variants are genetic inherited changes a person is born with. 幹細胞 transplants are used to treat many diseases including blood cancer",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT07524530",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE1, PHASE2] CD30 CAR-T細胞療法-cells Post AutoHSCT for Poor-risk Hodgkin Lymphoma",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：New York Medical College｜Patients with poor risk classical Hodgkin Lymphoma (cHL) will undergo myeloablative chemotherapy (MAC) with 自體（取自患者本人） 幹細胞 transplantation (AutoHSCT) and subsequently receive 自體（取自患者本人） CD30+ CAR-T細胞療法-cells.",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT06617286",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE1, PHASE2] A Study of SRN-101 基因療法 in Adults With Recurrent High-Grade Glioma (ALERT-1)",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Siren Biotechnology｜ALERT-1 is a 第一期試驗/2 study evaluating the safety and preliminary anti-tumor activity of SRN-101, an investigational 基因療法, in adults with recurrent high-grade glioma. High-grade glioma is a type of brain cancer. This study is for adults whos",
-      "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT07902037",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE1, PHASE2] A Phase 1b/2a Study of Velinotamig in Adults With Relapsed/Refractory ITP and wAIHA",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Cullinan Therapeutics Inc.｜A Phase 1b/2a, open-label dose escalation and dose expansion study of subcutaneously (SC) administered velinotamig for the treatment of adults with relapsing and refractory immune thrombocytopenia (ITP) and warm autoimmune hemolytic anemia (wAIHA) to",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT07738822",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE1, PHASE2] Research for Human Umbilical Cord Mesenchymal 幹細胞 (19#iSCLife®-MDS) in the Treatment of Myelodysplastic Syndrome (MDS)",
-      "summary": "狀態：SUSPENDED｜主辦：Sclnow Biotechnology Co., Ltd.｜The purposes of the study is to determine the safety and efficacy of human umbilical cord mesenchymal 幹細胞 (hUC-MSC) in treating Myelodysplastic Syndrome patients.",
-      "source": "ClinicalTrials.gov｜China",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT03184935",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[二/三期臨床試驗] 評估HLX37合併化學療法作為局部晚期或轉移性非小細胞肺癌成年患者一線治療的安全性與療效研究",
-      "summary": "狀態：尚未開始招募｜主辦：上海復宏漢霖生物技術｜這是一項隨機、雙",
-      "source": "ClinicalTrials.gov｜China",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT07865910",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE2] Low Dose, Reduced Frequency Nivolumab for the Treatment of Unresectable or Metastatic Cancer, AFFORD IO Trial",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Fred Hutchinson Cancer Center｜This 第二期試驗 trial studies how well low dose, reduced frequency nivolumab works in treating patients with cancer that cannot be removed by surgery (unresectable) or that has spread from where it first started (primary site) to other places in the bo",
-      "source": "ClinicalTrials.gov｜Uganda",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT07576725",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[PHASE3] To Evaluate Safety and Efficacy of Anitocabtagene Autoleucel Versus 自體（取自患者本人） 幹細胞 Transplant in Newly Diagnosed Multiple Myeloma",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Kite, A Gilead Company｜The goal of this clinical study iMMagine-6 is to compare and assess the safety and effectiveness of anitocabtagene autoleucel versus 自體（取自患者本人） 幹細胞 transplant in participants with newly diagnosed multiple myeloma (NDMM).\n\nThe primary objective ",
-      "source": "ClinicalTrials.gov｜Global",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT07903506",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "[NA] Red Blood Cell Exchange Transfusion as a Novel Treatment for GLUT1 Deficiency Syndrome",
-      "summary": "狀態：SUSPENDED｜主辦：Weill Medical College of Cornell University｜Pathogenic mutations of the brain glucose transporter type I lead to glucose transporter deficiency syndrome (G1D), which is most often associated with medication-refractory epilepsy and movement dysfunction. At present, G1D is only alleviated by int",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-11-18",
-      "url": "https://clinicaltrials.gov/study/NCT04137692",
+      "url": "https://clinicaltrials.gov/study/NCT07686094",
       "lang": "zh-TW"
     },
     {
@@ -291,27 +179,139 @@
       "lang": "zh-TW"
     },
     {
-      "title": "New 臨床試驗 Results Advance Treatment Strategies for Waldenström Macroglobulinemia",
-      "summary": "ment Strategies for Waldenström Macroglobulinemia Bioengineer.org",
-      "source": "Bioengineer.org",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFlVamF5bXJQdXBBb2ZKcVN2V3VCMU92SElpWi1KWGRjVFdEZGVIci10Z1FOelZSTXlWT1dnSGlHUEljUXRYVUJmMnloa3l1VHNwUlJzX1g2R0xDOElKeWhxTEdKSkxaaDkwcWtRTzVMNGJkZFFqbEZxSllzVXhVTEtmS0ZsZ1I4RUZZSVhENTdIZ3RXT0FwQ2gwWlRWWmdidFByZThNakR5OTBYVW9yRnZpY0M?oc=5",
+      "title": "[NA] A Home-Based Exercise Intervention (CAREFit-BMT) in Improving Heart Function Among Patients With High Risk Acute Myeloid Leukemia Undergoing 幹細胞 Transplant",
+      "summary": "狀態：RECRUITING｜主辦：University of Washington｜This 臨床試驗 studies how well a home-based exercise intervention called Cardiorespiratory Fitness in Bone Marrow Transplant Program (CAREFit-BMT) works in improving heart function among patients with high risk acute myeloid leukemia (AML) unde",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-11-18",
+      "url": "https://clinicaltrials.gov/study/NCT07616921",
       "lang": "zh-TW"
     },
     {
-      "title": "鎖定增強子（Enhancer）的CRISPR技術，在自閉症類器官模型中成功「開啟」健康基因",
-      "summary": "研究人員利用基因編輯技術CRISPR，在帶有CHD8或SCN2A突變的實驗室培養人類神經元及類器官中，成功減少類器官過",
+      "title": "第二期臨床試驗：Tovorafenib治療高度惡性神經膠質瘤與瀰漫性內因性橋腦神經膠質瘤（DIPG）",
+      "summary": "這項研究旨在評估Tovorafenib藥物治療高度惡性神經膠質瘤與DIPG的療效，目前",
+      "source": "ClinicalTrials.gov｜Global",
+      "date": "2026-11-18",
+      "url": "https://clinicaltrials.gov/study/NCT07206849",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[NA] STAGE-MTC Trial Thyroid Lobectomy With Ipsilateral Central Neck Dissection",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Jonsson Comprehensive Cancer Center｜This 臨床試驗 studies how well thyroid lobectomy with ipsilateral central neck dissection works to treat medullary thyroid cancer (MTC) in patients without a germline RET mutation (sporadic). Currently, sporadic and germline RET (rearranged dur",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-11-18",
+      "url": "https://clinicaltrials.gov/study/NCT07612293",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE1] Immune Modulatory DC Vaccine Against Brain Tumor",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Shenzhen Geno-Immune Medical Institute｜This study is designed to treat patients who have been diagnosed with brain cancer, including glioblastoma (GBM) and diffuse intrinsic pontine glioma (DIPG). The treatment uses immunomodulatory vaccine generated by 自體（取自患者本人） dendritic cells (DCs) pu",
+      "source": "ClinicalTrials.gov｜China",
+      "date": "2026-11-18",
+      "url": "https://clinicaltrials.gov/study/NCT03914768",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE1, PHASE2] GD2/CD70 Bi-specific CAR-T細胞療法 細胞治療",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Shenzhen Geno-Immune Medical Institute｜The purpose of this study is to assess the feasibility, safety and efficacy of GD2/CD70 bi-specific CAR-T細胞療法 細胞治療 in patients with GD2 and/or CD70 positive tumor. Another goal of the study is to learn more about the function of the GD2/CD70 bi-s",
+      "source": "ClinicalTrials.gov｜China",
+      "date": "2026-11-18",
+      "url": "https://clinicaltrials.gov/study/NCT05438368",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[第一/二期] 人類臍帶間質幹細胞（19#iSCLife®-MDS）治療骨髓增生不良症候群（MDS）的研究",
+      "summary": "狀態：暫停｜主辦：Sclnow Biotechnology Co., Ltd.｜這項研究旨在評估人類臍帶間質",
+      "source": "ClinicalTrials.gov｜China",
+      "date": "2026-11-18",
+      "url": "https://clinicaltrials.gov/study/NCT03184935",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[NA] GENES AND AUTISM - Induced Pluripotent 幹細胞",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Institut National de la Santé Et de la Recherche Médicale, France｜Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by deficits in social interaction and verbal and non-verbal communication (DSM-5, 2013), affecting approximately 2% of the general population. In 5 to 40% of cases, genetic",
+      "source": "ClinicalTrials.gov｜France",
+      "date": "2026-11-18",
+      "url": "https://clinicaltrials.gov/study/NCT07311213",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE2] Fianlimab&Cemiplimab as TotalNeoadj The (TNT) ForMelanoma",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：University of California, Irvine｜This is a 第二期試驗, open label 臨床試驗 determining efficacy of Fianlimab in combination with Cemiplimab in subjects with Melanoma. These are subjects who will have surgery to remove their cancer.",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-11-18",
+      "url": "https://clinicaltrials.gov/study/NCT07527325",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE3] To Evaluate the Safety and Potential Therapeutic Activity of JadiCell™, an Investigational Umbilical Cord-Derived Mesenchymal 幹細胞 Therapy, in Patients Diagnosed With Acute Respiratory Distress Syndrome (ARDS).",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Breathe Biologics, Inc.｜This study evaluates the safety and potential therapeutic activity of JadiCell™, an investigational umbilical cord-derived mesenchymal 幹細胞 therapy, in patients diagnosed with Acute Respiratory Distress Syndrome (ARDS). JadiCells are administere",
+      "source": "ClinicalTrials.gov｜Global",
+      "date": "2026-11-18",
+      "url": "https://clinicaltrials.gov/study/NCT07479043",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE2] Restrictive Versus Standard Antibiotic Treatment During CAR-T細胞療法 Therapy",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Zealand University Hospital｜The purpose of the CARMic study is to investigate whether a restrictive, microbiome-sparing antibiotic strategy can better preserve the gut microbiota in patients undergoing 嵌合抗原受體 T-cell (CAR-T細胞療法) therapy without compromising infect",
+      "source": "ClinicalTrials.gov｜Denmark",
+      "date": "2026-11-18",
+      "url": "https://clinicaltrials.gov/study/NCT07842198",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE1, PHASE2] A Multicenter Study of Belantamab Mafodotin and Mezigdomide in Patients With Relapsed Multiple Myeloma",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Centre Hospitalier Universitaire de Saint Etienne｜The BELAMI trial is an open label, multicenter, 第二期試驗 study for patients with MM who relapsed following BCMA-directed CAR-T細胞療法 cells or bispecific antibodies with a Phase Ib Safety run-in.\n\nThe primary hypothesis of this study is that a combination of",
+      "source": "ClinicalTrials.gov｜France",
+      "date": "2026-11-18",
+      "url": "https://clinicaltrials.gov/study/NCT07612787",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "細胞治療需求大不同：傳統無菌性檢測的替代方案",
+      "summary": "傳統生技製藥的培養基無菌性檢測，對細胞治療產業來說速度太慢，已不敷使用。目前正開發新的平行檢測途徑與快速方法。",
+      "source": "GEN News",
+      "date": "2026-11-18",
+      "url": "https://www.genengnews.com/topics/bioprocessing/growing-apart-culture-based-sterility-test-alternatives/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Novel Direct-to-Brain Intracerebroventricular 幹細胞 第一期試驗 Trial Shows Safety and Exciting Results in Alzheimer’s",
+      "summary": "cular 幹細胞 第一期試驗 Trial Shows Safety and Exciting Results in Alzheimer’s The Des Moines Register",
+      "source": "The Des Moines Register",
+      "date": "2026-11-18",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNHFpUUpJNk53dUUtd3dHNWxpMGZOYThvdXlWd1FJQWlKbk1lQ1JlbzVQNGtXVzJ1R3RobDQ1bFBtVUJ0Mnd1U21DSFFLNWZrMGp2QzJmRlpyOWNieU9xRzBHUWFXaXlLUFBiV2pDbENEZ2V5aHEtZjdoSDJtZndUWExScEc0RVVxa1JWNy1COVIydVg3Rk1yckNFTi1aUmhpcHd6eFpjSzIzOVgtQTlZaUF4cG1Zd1hNa2E5ZzRxcW1wa0tOT0p6UFFNbFNlSGpIMW1Sd1ZlRzF3dHA3d21wZEJnRzF0Z29sWEFVc1U3azFaWDdtZGI3bGVfXy1oWVBCSzdfaWl2Q3BpT1k?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） Approves Breakthrough Treatment That Helps Children With Type 1 Diabetes Keep Producing Insulin",
+      "summary": "Helps Children With Type 1 Diabetes Keep Producing Insulin SciTechDaily",
+      "source": "SciTechDaily",
+      "date": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzZkaEVNM0padGdaMGhBcVkyN05vWXg4WkRhZnkwOGFDNWJsc1lqaTMzblRUR1BRd0lwWjVGcDh2ZHJmbEpoVjJnM3N2ZXFPSGVRcHdWdDhSaFdlV212Sy1CX1FnbVZBODBjMzVScUZvelJnSFJBNHlMVnJtR1VueTdtWDVLWVFBNnc0SjdYNTV2SUVxbDdDVGJWM0lUdTc2d1dsY1dBZVQ1dE9yQVhYcldnZmV0SkVRa2VGNzEyc3loOWM?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "鎖定增強",
+      "summary": "",
       "source": "GEN News",
       "date": "2026-11-16",
       "url": "https://www.genengnews.com/topics/translational-medicine/enhancer-targeted-crispr-turns-up-healthy-gene-copy-in-autism-organoid-model/",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） Reportedly Shelves Commissioner's National Priority Voucher Program",
-      "summary": "tional Priority Voucher Program Pharmacy Times",
-      "source": "Pharmacy Times",
-      "date": "2026-11-12",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMS1XaGZhdFdETGNKbWNzMG1OMjdXSFZJVzdoMUNLem9UZXNyOWsyblFBUnAtaHZpLUgyWi1JbG8zbGszazJCQTNlckxreTREeWl2Rmpld1UzVS1EYXQ0QVdSUG03ZWI4SWRmS0wtU05FaE83enBHRGZDQlQzeHI5b3pndXkzbEhRLWhnWnppcVBNNVRRc0ZlUy1oc2w4RnViZWF2eTFFdFl1Zw?oc=5",
+      "title": "[PHASE3] Advanced Imaging-Guided Standard Versus Dose-Intensified Radiation Therapy for the Treatment of Newly Diagnosed Glioblastoma, SAGA 2.0 Trial",
+      "summary": "狀態：RECRUITING｜主辦：Mayo Clinic｜This 臨床試驗 studies how well advanced imaging-guided standard dose versus (vs.) dose-intensified radiation therapy (RT) and dose-intensified accelerated RT works in treating patients with newly diagnosed glioblastoma. Radiation therapy uses h",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-11-13",
+      "url": "https://clinicaltrials.gov/study/NCT07935889",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE2] Toripalimab and Lenvatinib With or Without SBRT Before Surgery for Non-Clear Cell Kidney Cancer",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Sun Yat-sen University｜This single-center, nonrandomized, two-cohort 第二期試驗 study will evaluate neoadjuvant toripalimab and lenvatinib with or without stereotactic body radiotherapy (SBRT) in patients with resectable, nonmetastatic locally advanced non-clear cell renal c",
+      "source": "ClinicalTrials.gov｜Global",
+      "date": "2026-11-10",
+      "url": "https://clinicaltrials.gov/study/NCT07922928",
       "lang": "zh-TW"
     },
     {
@@ -323,27 +323,27 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[NA] Busulfan-Based Versus TBI-Based Conditioning for Adult ALL-CR2 Allo-HSCT",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Peking University People's Hospital｜This is an multicenter, non-inferiority randomized controlled trial. Adult patients (14-65 years) with acute lymphoblastic leukemia in second complete remission (CR2) scheduled for 異體（取自捐贈者） hematopoietic stem-cell transplantation (allo-HSCT) will b",
-      "source": "ClinicalTrials.gov｜China",
-      "date": "2026-11-01",
-      "url": "https://clinicaltrials.gov/study/NCT07919470",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "鐮刀型細胞貧血症患者的經顱光生物調節治療",
-      "summary": "狀態：尚未招募｜主辦：聖猶達兒童研究醫院｜這項臨床試驗正在招募受試者，旨在研究經顱光生物調節治療對鐮刀型細胞貧血症患者的潛在效益。",
+      "title": "[N/A] BTK Inhibitor-Containing Bridging Therapy and CAR-T細胞療法 Outcomes in R/R LBCL",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：The First Affiliated Hospital of Soochow University｜This observational study will examine outcomes of CAR-T細胞療法 細胞治療 in adults with large B-cell lymphoma that has returned or has not responded to prior treatment. Participants will already have received bridging therapy that includes a BTK inhibito",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-11",
-      "url": "https://clinicaltrials.gov/study/NCT06797583",
+      "url": "https://clinicaltrials.gov/study/NCT07941180",
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE2] Molecularly Stratified Trial for Newly Diagnosed Infant-Type Hemispheric Glioma",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：St. Jude Children's Research Hospital｜The purpose of this study is to test whether giving treatment before surgery helps babies who are newly diagnosed with Infant-Type Hemispheric Glioma (IHG) have safer and better surgery results.",
-      "source": "ClinicalTrials.gov｜United States",
-      "date": "2026-11",
-      "url": "https://clinicaltrials.gov/study/NCT07916389",
+      "title": "[PHASE2] An Open, Multicenter 第二期試驗 臨床試驗 of SHR-A2009 Combined With Other Anti-tumor Therapies for Perioperative Treatment of Resectable Non-small Cell Lung Cancer.",
+      "summary": "狀態：RECRUITING｜主辦：Suzhou Suncadia Biopharmaceuticals Co., Ltd.｜The study is being conducted to evaluate the efficacy, and safety of SHR-A2009 combined with other anti-tumor therapies for perioperative treatment of resectable non-small cell lung cancer in adults.",
+      "source": "ClinicalTrials.gov｜China",
+      "date": "2026-10-30",
+      "url": "https://clinicaltrials.gov/study/NCT07863167",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[N/A] Real-world Clinical Effectiveness & Safety LV009, an 體內實驗 CAR-T細胞療法 for the Treatment of Hematologic Cancers, Auto-immune Diseases & HLA/ AAV Sensitization.",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Healthy Malaysia Association｜The study objective is to determine the real-world safety and effectiveness of LV009 therapy for 3 potential indications: (1) refractory or relapsed hematologic cancers (acute lymphoblastic Leukemia, B cell Lymphomas, multiple myeloma), (2) auto-immu",
+      "source": "ClinicalTrials.gov｜Indonesia",
+      "date": "2026-10-28",
+      "url": "https://clinicaltrials.gov/study/NCT07873476",
       "lang": "zh-TW"
     },
     {
@@ -356,8 +356,8 @@
     },
     {
       "title": "Zola-Cel CAR-T細胞療法-細胞治療 Shows Promising Initial Results in Multiple Sclerosis",
-      "summary": "ing Initial Results in Multiple Sclerosis Consult QD",
-      "source": "Consult QD",
+      "summary": "ing Initial Results in Multiple Sclerosis Cleveland Clinic",
+      "source": "Cleveland Clinic",
       "date": "2026-10-26",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUm9QZHM4ajBudTV2czI0aV9GMkxtREpnOXlrajdaU3FCbDBHbWhfeDZtX0x3dnVWRzVSQWV4SnRTMkRxSTQydU40cDIyanRBQlBiX1hlVTZIcjViUGpzdlctMzhuRC1OZDZQZEZqcktwUTJuSkYxTVdjQzZySDJqUldTZmo5RWR5N282TE1Mbzc1RDlwb3Bwb3N3?oc=5",
       "lang": "zh-TW"
@@ -368,6 +368,14 @@
       "source": "National Institutes of Health (NIH) | (.gov)",
       "date": "2026-10-23",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZV82ZmlFUXNCUHc3eUJGR24wc25GOTJESmQ3TUd6NzZsMzBETkM0Vk5DOHpqZTc5UHVLQ1BPSnkxakVBUllYV2RqUHRFTFRVbVJpZXFrV2FPRE0tdmY0c1A2YXFGNG1SenFtcjRTTVVkUkpBSjEtSm9fcFR0MW5nTTlGaEE4dS1GR0haVnVKZUJldnk5VjlOdnZCZzh3Q0dLWjBCWHRJNG1aMGZJRHVUa1pUMWlrbWR1d3dPdg?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "[PHASE2] A Single Arm 第二期試驗 Trial in p16-positive Oropharynx Cancer of Selective Dose De-escalation of nodAl VolumEs at Minimal Risk and Primary Site Disease (SAVED)",
+      "summary": "狀態：RECRUITING｜主辦：University of Maryland, Baltimore｜Patients with human papillomavirus (HPV)-related oropharyngeal cancer generally have very good outcomes. Patients' treatment responses depend more on their individual cancer characteristics and personal risk factors than on the specific type of treat",
+      "source": "ClinicalTrials.gov｜United States",
+      "date": "2026-10-19",
+      "url": "https://clinicaltrials.gov/study/NCT07418034",
       "lang": "zh-TW"
     }
   ]
