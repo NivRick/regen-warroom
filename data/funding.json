@@ -1,18 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-11-17T19:31:19.391890+00:00",
+  "updated": "2026-11-18T03:58:40.093712+00:00",
   "items": [
     {
-      "title": "Flagship在英國設立生技新創據點",
-      "summary": "Flagship將投入1億英鎊，在英國成立專注於人類與地球健康的「AI原生平台公司」。",
+      "title": "STAT+: Flagship opens biotech-creation outpost in the U.K.",
+      "summary": "Flagship is putting up 100 million pounds to start “AI-native platform companies\" focused on human and planetary health in the U.K.:",
       "source": "STAT News",
       "date": "2026-11-17",
       "url": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "新創公司募資1.73億美元，鎖定鐮狀細胞疾病治療",
-      "summary": "針對鐮",
+      "title": "STAT+: With $173 million, new startup takes aim at sickle cell",
+      "summary": "Researchers are seeking a sickle cell treatment as effective as 基因療法, without the drawbacks. This entrepreneur thinks he might have one.",
       "source": "STAT News",
       "date": "2026-11-17",
       "url": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss",
@@ -64,6 +64,22 @@
       "source": "BioPharma Dive",
       "date": "2026-11-16",
       "url": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Fierce Biotech 2026年募資追蹤：哥本哈根 Commit 募得 6000 萬美元；Marrow 完成 1.2 億美元 B 輪募資",
+      "summary": "哥本哈根的 Commit 公司成功募得 6000 萬美元；Marrow 公司則完成 1.2 億美元的 B 輪募資。",
+      "source": "Fierce Biotech",
+      "date": "2026-11-12",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "法國仍是歐洲重要的生技資金樞紐之一",
+      "summary": "法國在歐洲生技產業的募資表現持續強勁，證明其仍是歐洲重要的生技資金樞紐之一，吸引眾多投資與創新。",
+      "source": "PharmTech.com",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0N4ZEM3M2p5WTNNbm9xcVNWaW9JdEYtZkFjZmtiNFRDbWdyMlZZYnZacWg4blNUZDFtSW1USmp0bGRTVE5NVlktRXN6Z1N3VGZkNDU0XzctbjdGX3JldlktY2h1SkNnaHIzZXpTU2VJdHgyRE5HNXctbktfQ29tb2w5MmFLeW4xSXB3QlRWNUtuX2Rx?oc=5",
       "lang": "zh-TW"
     }
   ]
