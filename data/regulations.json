@@ -1,21 +1,45 @@
 {
   "module": "regulation",
-  "updated": "2026-11-19T03:57:52.007834+00:00",
+  "updated": "2026-11-19T19:18:26.519005+00:00",
   "items": [
     {
-      "title": "標靶葉酸受體可逆轉小鼠大腸直腸癌對免疫治療的抗藥性",
-      "summary": "Targeting FOLR1 with an approved antibody-drug conjugate restored anti-tumor immunity and enhanced anti-PD-1 effectiveness in colorectal cancer, overcoming immune evasion in mouse models.\nThe post ectal Cancer’s Resistance to 免疫療法 in Mice ap",
-      "source": "GEN News",
-      "date": "2026-11-18",
-      "url": "https://www.genengnews.com/topics/cancer/targeting-folate-receptor-reverses-colorectal-cancers-resistance-to-immunotherapy-in-mice/",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）發布的最新消息。",
+      "source": "FDA Biologics",
+      "date": "2026-11-19",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新消息",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
+      "title": "生物製劑相關程序（SOPPs）",
+      "summary": "這些標準作業程序與政策（SOPPs）是美國",
       "source": "FDA Biologics",
-      "date": "2026-11-17",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "date": "2026-11-19",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "轉讓上市前通知 (510(k)) 許可 – 問題與解答",
+      "summary": "本指南提供了有關將所有權從一個 510(k) 持有人轉讓給另一個持有人的最常見問題的資訊。",
+      "source": "FDA Biologics",
+      "date": "2026-11-19",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/transfer-premarket-notification-510k-clearance-questions-and-answers",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "正在進行中 |傳染病疫苗加速審批",
+      "summary": "基於替代終點的生物加速審批",
+      "source": "FDA Biologics",
+      "date": "2026-11-19",
+      "url": "http://www.fda.gov/drugs/accelerated-approval-program/ongoing-infectious-disease-accelerated-approvals-vaccines",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "標靶葉酸受體可逆轉小鼠大腸直腸癌對免疫治療的抗藥性",
+      "summary": "使用經核准的抗體藥物綴合物標靶 FOLR1 可恢復抗腫瘤免疫力並增強大腸直腸癌中的抗 PD-1 功效，克服小鼠模型中的免疫逃脫。\n小鼠結腸癌對免疫治療的抗藥性",
+      "source": "GEN News",
+      "date": "2026-11-18",
+      "url": "https://www.genengnews.com/topics/cancer/targeting-folate-receptor-reverses-colorectal-cancers-resistance-to-immunotherapy-in-mice/",
       "lang": "zh-TW"
     },
     {
@@ -27,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "CBER傾聽會議：已核准罕見疾病基因療法之病患與照護夥伴安全考量觀點",
-      "summary": "美國",
+      "title": "CBER 聆聽會議：病人和護理夥伴對已批准的罕見疾病基因療法的安全考慮因素的看法",
+      "summary": "美國食藥局（FDA） CBER 患者聆聽會議：患者和護理合作夥伴對批准的罕見疾病基因治療的安全考慮因素的看法",
       "source": "09/20/2024",
       "date": "2026-11-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/cber-listening-meeting-patient-and-care-partner-perspectives-safety-considerations-approved-gene",
@@ -44,7 +68,7 @@
     },
     {
       "title": "生物製品電子閱覽室（eFOIA）",
-      "summary": "The Biologics eFOI Reading Room provides access to documents posted throughout the \"Vaccines, Blood & Biologics\" and other sections related to the Center for Biologics Evaluation and Research on the 美國食藥局（FDA）.gov Web site.",
+      "summary": "生物製劑 eFOI 閱覽室提供對 美國食藥局（FDA）.gov 網站上「疫苗、血液和生物製劑」以及與生物製劑評估和研究中心相關的其他部分發布的文件的存取。",
       "source": "FDA Biologics",
       "date": "2026-11-14",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
@@ -59,8 +83,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 報告 2026 財年第三季虧損 190 萬美元，推進日本 日本藥品局（PMDA） 之路",
-      "summary": "llion，推進日本PMDA路徑 scanx.trade",
+      "title": "BioCardia公布2026財年第三季虧損190萬美元，並推進日本PMDA審查進程",
+      "summary": "BioCardia公布2026財年第三季虧損190萬美元，同時宣布在日本PMDA（醫藥品醫療器材綜合機構）的審查進程有所",
       "source": "scanx.trade",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFRqekpOQ1dDckkxTHJNai1UOVJVbE5zNmlhdGp4OEwxeXZlTTdkSWk3Q1FmVlA3OERmNUo3aEVMMnV6b3IxQjdBUEFqWUdxYmRIdDN4eGVPLUdiR1ZEdGhsYzFsUjNjRnNsdDktTHI1QW83WkRNWFFndmVuRmoxOXlvanJEVUpCSFJET1Q3a2FqdmtyMmtESHdxQUtDc05QNTJMSHRn?oc=5",
