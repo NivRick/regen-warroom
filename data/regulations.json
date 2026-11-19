@@ -1,41 +1,41 @@
 {
   "module": "regulation",
-  "updated": "2026-11-18T19:13:42.429584+00:00",
+  "updated": "2026-11-19T03:57:52.007834+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "title": "標靶葉酸受體可逆轉小鼠大腸直腸癌對免疫治療的抗藥性",
+      "summary": "Targeting FOLR1 with an approved antibody-drug conjugate restored anti-tumor immunity and enhanced anti-PD-1 effectiveness in colorectal cancer, overcoming immune evasion in mouse models.\nThe post ectal Cancer’s Resistance to 免疫療法 in Mice ap",
+      "source": "GEN News",
+      "date": "2026-11-18",
+      "url": "https://www.genengnews.com/topics/cancer/targeting-folate-receptor-reverses-colorectal-cancers-resistance-to-immunotherapy-in-mice/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製劑最新消息",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
       "source": "FDA Biologics",
       "date": "2026-11-17",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "AGC Biologics Welcomes Multiple 細胞治療 Projects to New Yokohama Site",
-      "summary": "rapy Projects to New Yokohama Site GlobeNewswire",
+      "title": "AGC Biologics 歡迎多個細胞治療計畫落腳新橫濱工廠",
+      "summary": "新橫濱工廠的 rapy 項目 GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVRrQUxyTUlDYm9MNVRSdVExOHJGNU9jNmVDWVFycThtdXRPcVYyRWwyQjNVcFA4cGd0TkQyUUVZRWpaZjZSeUhpeF82Z3M5QTlHR2NsZEFmRUpIdzFwMDh6SkpBV3NJakVRVUM4SHNnNGc3NU9leE9pLURXc2ZXM3Q5b05XQzV1WjVDSzVCVzlWVWoyMngyeUlaN0ZfQ0lDT1RVa2ZiOWNJVGN2WW4tblFJVUt2R2pkMG5tQUNCVmtYWmlBdThwNFdHV1BPVVRqRXFBdEthcnhPdWhqZ0FZ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "AGC Biologics 橫濱新廠啟用，喜迎多項細胞治療專案",
-      "summary": "AGC Biologics 位於日本橫濱的全新廠房正式啟用，將承接多項細胞治療（Cell Therapy）專案。此舉展現公司在生醫代工領域的積極佈局，強化其在全球細胞治療生產的服務能量，以滿足市場日益增長的需求。",
-      "source": "Market.us",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUFDc2VfU2FHME5mSW53MXc0LWpkN05XSnlwUy1neDJCNnFXMHdVTVhnR0NZZFFYSXQwVnEweWp0RXFXa0l5cHJUSkdkdkdqa2k0dnRsOU1XVnZsMkt0ald6SmdrY1IyM2ZydWRUMTRVdGlnZUpTQUdmMTltZTdVUGRyODh5Qmo3cFFyVnBsMU44RlBPaVJWNDBNV2h0YmxSWVlndUl1TEE5QXQ3aDlIajdRWmhvQQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製劑評估與研究中心（CBER）意見交流會：已核准罕見疾病基因療法之病患與照",
-      "summary": "",
+      "title": "CBER傾聽會議：已核准罕見疾病基因療法之病患與照護夥伴安全考量觀點",
+      "summary": "美國",
       "source": "09/20/2024",
       "date": "2026-11-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/cber-listening-meeting-patient-and-care-partner-perspectives-safety-considerations-approved-gene",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 2026 Orphan Approvals (new BLAs)",
+      "title": "CBER 2026 孤兒批准（新 BLA）",
       "summary": "",
       "source": "FDA Biologics",
       "date": "2026-11-14",
@@ -43,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Biologics Electronic Reading Room (eFOIA)",
+      "title": "生物製品電子閱覽室（eFOIA）",
       "summary": "The Biologics eFOI Reading Room provides access to documents posted throughout the \"Vaccines, Blood & Biologics\" and other sections related to the Center for Biologics Evaluation and Research on the 美國食藥局（FDA）.gov Web site.",
       "source": "FDA Biologics",
       "date": "2026-11-14",
@@ -51,24 +51,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Guidance for Industry: Potency Assurance for Cellular and 基因療法 Products",
-      "summary": "This guidance provides recommendations for developing a science- and risk-based strategy to help assure the potency of a human cellular therapy or 基因療法 (CGT) product.",
+      "title": "產業指南：細胞和基因治療產品的效力保證",
+      "summary": "本指南提供了製定基於科學和風險的策略的建議，以幫助確保人類細胞療法或基因療法 (CGT) 產品的效力。",
       "source": "FDA Biologics",
       "date": "2026-11-12",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-potency-assurance-cellular-and-gene-therapy-products",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia reports Q3FY26 loss of $1.9 million, advances Japan 日本藥品局（PMDA） path",
-      "summary": "llion, advances Japan 日本藥品局（PMDA） path scanx.trade",
+      "title": "BioCardia 報告 2026 財年第三季虧損 190 萬美元，推進日本 日本藥品局（PMDA） 之路",
+      "summary": "llion，推進日本PMDA路徑 scanx.trade",
       "source": "scanx.trade",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFRqekpOQ1dDckkxTHJNai1UOVJVbE5zNmlhdGp4OEwxeXZlTTdkSWk3Q1FmVlA3OERmNUo3aEVMMnV6b3IxQjdBUEFqWUdxYmRIdDN4eGVPLUdiR1ZEdGhsYzFsUjNjRnNsdDktTHI1QW83WkRNWFFndmVuRmoxOXlvanJEVUpCSFJET1Q3a2FqdmtyMmtESHdxQUtDc05QNTJMSHRn?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia's CardiAMP Completes Japan Pre-Market Consultation, First Cardiac 細胞治療 to Do So",
-      "summary": "Market Consultation, First Cardiac 細胞治療 to Do So Tech Times",
+      "title": "BioCardia 的 CardiAMP 完成日本上市前諮詢，這是第一個心臟細胞療法",
+      "summary": "市場諮詢，第一個心肌細胞療法這樣做 Tech Times",
       "source": "Tech Times",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
