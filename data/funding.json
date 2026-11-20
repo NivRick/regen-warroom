@@ -1,34 +1,42 @@
 {
   "module": "funding",
-  "updated": "2026-11-19T19:18:40.079058+00:00",
+  "updated": "2026-11-20T03:51:13.968582+00:00",
   "items": [
     {
-      "title": "STAT+: 藥業小道消息：默克的人工智慧（AI）交易、中國與藥品供應鏈等最新動態",
-      "summary": "默克（Merck）將與Isomorphic Labs展開研究合作，這家人工智慧（AI）藥物設計公司是基於諾貝爾獎技術所創立。",
+      "title": "研究：疫苗與單株抗體併用恐影響瘧疾預防效果",
+      "summary": "單株抗體在預防瘧疾上具潛力，但研究發現，用於嬰兒時會干擾新疫苗作用。",
+      "source": "STAT News",
+      "date": "2026-11-19",
+      "url": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：藥業小新聞：默克AI交易、中國與藥品供應鏈等",
+      "summary": "默克（Merck）將與Isomorphic Labs展開研究合作，該公司是基於諾貝爾獎技術的AI藥物設計商。",
       "source": "STAT News",
       "date": "2026-11-19",
       "url": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "輝瑞（Pfizer）透過最新中國合作案，搶進體內嵌合抗原受體T細胞療法（in vivo CAR-T）領域",
-      "summary": "這項潛在價值26億美元的合作案，讓輝瑞（Pfizer）大舉投入體內細胞重編程技術，搶進治療",
+      "title": "輝瑞（Pfizer）透過最新中國合作案，搶進「體內」嵌合抗原受體T細胞療法（CAR-T）領域",
+      "summary": "這項潛在價值26億美元的合作案，讓輝瑞投入競爭，透過體內細胞重編程治療自體免疫疾病。",
       "source": "BioPharma Dive",
       "date": "2026-11-18",
       "url": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
       "lang": "zh-TW"
     },
     {
-      "title": "骨髓開始挑戰治療嚴重血液疾病的基因藥物",
-      "summary": "該新創公司獲得了 1.73 億美元的風險投資，正在開發一種更容易獲得的基因療法和基因編輯療法替代品，用於治療鐮狀細胞和β地中海貧血。",
+      "title": "Marrow挑戰重症血液疾病的基因療法",
+      "summary": "這家新創公司獲得1.73億美元創投資金，正開發一種比基因療法更易取得的替代方案。",
       "source": "BioPharma Dive",
       "date": "2026-11-17",
       "url": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
       "lang": "zh-TW"
     },
     {
-      "title": "TreeFrog Therapeutics 任命 James Sterling 為財務長",
-      "summary": "rling 擔任財務長 Via Ritzau",
+      "title": "TreeFrog Therapeutics任命James Sterling為財務長",
+      "summary": "TreeFrog Therapeutics宣布任命James Sterling擔任公司財務長一職。",
       "source": "Via Ritzau",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObDJOTmJlalBaN1F1anpxYUh4MmxOVVVSN0w3TVFoWDl4RHFLb1AyelJTdy1RM1BlN2l6b0Nnakx6ODh2NzREUVhTRmhjcHp3bFFJVHJpMXdMZHJ6TlVVNGQxVjhlTkprakdHR1gxWGZ6d3ZYanlMNVlYeE03cElBOVlJVURQSUZxZ0trQWNUZkExNE9MNUdyTm12SzJtdXBqbXhNdzRUbXZQRS05UXVOOUtEa0xPRzAxRWhmUms0Rk9pbmJmQUFEU0RaWWphbURJMFdtMWRnMGNFOW55WExv?oc=5",

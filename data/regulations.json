@@ -1,18 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-11-19T19:18:26.519005+00:00",
+  "updated": "2026-11-20T03:51:03.071719+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）發布的最新消息。",
+      "title": "Cellular & 基因療法 Guidances",
+      "summary": "此頁麵包含細胞和基因治療指南的清單。",
+      "source": "FDA Biologics",
+      "date": "2026-11-19",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）是美國",
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
@@ -28,23 +36,23 @@
     },
     {
       "title": "正在進行中 |傳染病疫苗加速審批",
-      "summary": "基於替代終點的生物加速審批",
+      "summary": "Biologic Accelerated Approvals Based on a Surrogate Endpoint",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/drugs/accelerated-approval-program/ongoing-infectious-disease-accelerated-approvals-vaccines",
       "lang": "zh-TW"
     },
     {
-      "title": "標靶葉酸受體可逆轉小鼠大腸直腸癌對免疫治療的抗藥性",
-      "summary": "使用經核准的抗體藥物綴合物標靶 FOLR1 可恢復抗腫瘤免疫力並增強大腸直腸癌中的抗 PD-1 功效，克服小鼠模型中的免疫逃脫。\n小鼠結腸癌對免疫治療的抗藥性",
+      "title": "鎖定葉酸受體可逆轉小鼠結直腸癌對免疫療法的抗藥性",
+      "summary": "透過已核准的抗體藥物複合體（ADC）鎖定葉酸受體 1（FOLR1），能恢復結直腸癌的抗腫瘤免疫力，並增強抗 PD-1 療法的效果，克服其抗藥性。",
       "source": "GEN News",
       "date": "2026-11-18",
       "url": "https://www.genengnews.com/topics/cancer/targeting-folate-receptor-reverses-colorectal-cancers-resistance-to-immunotherapy-in-mice/",
       "lang": "zh-TW"
     },
     {
-      "title": "AGC Biologics 歡迎多個細胞治療計畫落腳新橫濱工廠",
-      "summary": "新橫濱工廠的 rapy 項目 GlobeNewswire",
+      "title": "AGC Biologics 橫濱新廠區迎來多項細胞治療專案",
+      "summary": "AGC Biologics 橫濱新廠區啟用，將承接多個細胞治療專案，擴大產能與服務。",
       "source": "GlobeNewswire",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVRrQUxyTUlDYm9MNVRSdVExOHJGNU9jNmVDWVFycThtdXRPcVYyRWwyQjNVcFA4cGd0TkQyUUVZRWpaZjZSeUhpeF82Z3M5QTlHR2NsZEFmRUpIdzFwMDh6SkpBV3NJakVRVUM4SHNnNGc3NU9leE9pLURXc2ZXM3Q5b05XQzV1WjVDSzVCVzlWVWoyMngyeUlaN0ZfQ0lDT1RVa2ZiOWNJVGN2WW4tblFJVUt2R2pkMG5tQUNCVmtYWmlBdThwNFdHV1BPVVRqRXFBdEthcnhPdWhqZ0FZ?oc=5",
@@ -75,24 +83,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "產業指南：細胞和基因治療產品的效力保證",
-      "summary": "本指南提供了製定基於科學和風險的策略的建議，以幫助確保人類細胞療法或基因療法 (CGT) 產品的效力。",
-      "source": "FDA Biologics",
-      "date": "2026-11-12",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-potency-assurance-cellular-and-gene-therapy-products",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BioCardia公布2026財年第三季虧損190萬美元，並推進日本PMDA審查進程",
-      "summary": "BioCardia公布2026財年第三季虧損190萬美元，同時宣布在日本PMDA（醫藥品醫療器材綜合機構）的審查進程有所",
+      "title": "BioCardia 公布 2026 會計年度第三季虧損 190 萬美元，並推進日本 PMDA 申請進度",
+      "summary": "BioCardia 公布虧損，但其在日本醫藥品醫療機器綜合機構（PMDA）的申請有進展，顯示市場拓展潛力。",
       "source": "scanx.trade",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFRqekpOQ1dDckkxTHJNai1UOVJVbE5zNmlhdGp4OEwxeXZlTTdkSWk3Q1FmVlA3OERmNUo3aEVMMnV6b3IxQjdBUEFqWUdxYmRIdDN4eGVPLUdiR1ZEdGhsYzFsUjNjRnNsdDktTHI1QW83WkRNWFFndmVuRmoxOXlvanJEVUpCSFJET1Q3a2FqdmtyMmtESHdxQUtDc05QNTJMSHRn?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 的 CardiAMP 完成日本上市前諮詢，這是第一個心臟細胞療法",
-      "summary": "市場諮詢，第一個心肌細胞療法這樣做 Tech Times",
+      "title": "BioCardia 的 CardiAMP 完成日本上市前諮詢，成為首個心臟細胞療法達成此里程碑",
+      "summary": "BioCardia 的 CardiAMP 心臟細胞療法在日本上市前諮詢取得突破，為市場核准鋪路。",
       "source": "Tech Times",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
