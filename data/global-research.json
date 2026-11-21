@@ -1,10 +1,10 @@
 {
   "module": "research",
-  "updated": "2026-11-21T03:38:41.075541+00:00",
+  "updated": "2026-11-21T17:51:27.283795+00:00",
   "items": [
     {
-      "title": "現代生醫研究的細胞分析技術：從傳統方法到AI驅動的高內涵分析",
-      "summary": "體外細胞分析技術是生醫研究的基礎工具，支援細胞生理學、疾病機制與藥物開發等領域的探索。",
+      "title": "現代生醫研究的細胞分析方法：從傳統技術到AI驅動的高通量分析",
+      "summary": "體外細胞分析是生醫研究的基礎工具，能協助探索細胞生理、疾病機制與藥物開發。",
       "source": "PubMed",
       "date": "2026-11-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43061281/",
@@ -12,7 +12,7 @@
     },
     {
       "title": "類器官運算的基準評估框架",
-      "summary": "",
+      "summary": "類器官",
       "source": "PubMed",
       "date": "2026-11-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43034668/",
@@ -67,16 +67,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "電漿活化水清洗後人類羊膜的光譜與結構特性分析",
-      "summary": "人類羊膜（AM）在再生醫學領域應用廣泛，然而，組織處理與滅菌程序可能會影響其特性。",
+      "title": "經電漿活化水清洗後的人類羊膜之光譜與結構特性分析",
+      "summary": "人類羊膜（AM）在再生醫學領域應用廣泛；然而，組織處理與滅菌程序可能會影響其特性。",
       "source": "PubMed",
       "date": "2026-11-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42945633/",
       "lang": "zh-TW"
     },
     {
-      "title": "基質細胞與薛格連氏症（乾燥症）",
-      "summary": "",
+      "title": "基質細胞與乾燥症",
+      "summary": "乾燥症",
       "source": "PubMed",
       "date": "2026-11-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43045334/",
@@ -131,15 +131,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "工程化胰臟β細胞微環境：胰島素分泌細胞存活與治療應用的關鍵策略",
-      "summary": "從人類多功能幹細胞（hPSCs）分化而來的胰島素分泌細胞（IPCs），是胰臟β細胞替代療法極具潛力的細胞來源。",
+      "title": "工程化β細胞微環境：胰島素分泌細胞存活與治療應用的關鍵策略",
+      "summary": "由人類多功能幹細胞（hPSCs）產生的胰島素分泌細胞（IPCs），是胰臟β細胞替代療法極具潛力的細胞來源。",
       "source": "PubMed",
       "date": "2026-11-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43038095/",
       "lang": "zh-TW"
     },
     {
-      "title": "微生物",
+      "title": "微生物代謝物與",
       "summary": "",
       "source": "PubMed",
       "date": "2026-11-21",
@@ -165,7 +165,7 @@
     {
       "title": "[PHASE3] iSCIB1+ in Combination With Ipilimumab and Nivolumab as First-Line Treatment for Advanced Unresectable Melanoma",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：Scancell Ltd｜This 第三期試驗 臨床試驗 is evaluating whether adding iSCIB1+, an investigational DNA-based cancer vaccine, to standard 免疫療法 with nivolumab and ipilimumab can improve outcomes for people with advanced unresectable melanoma.\n\nParticipants ",
-      "source": "ClinicalTrials.gov｜United States, United Kingdom",
+      "source": "ClinicalTrials.gov｜United Kingdom, United States",
       "date": "2026-11-21",
       "url": "https://clinicaltrials.gov/study/NCT07815574",
       "lang": "zh-TW"
@@ -187,8 +187,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "磁振導引聚焦超音波結合T細胞輸注，突破血腦屏障治療新確診患者",
-      "summary": "美國國家兒童研究中心啟動一項開放標籤一期臨床試驗，評估利用磁振導引低強度聚焦超音波與微氣泡，結合T細胞輸注，突破",
+      "title": "磁振導引低強度聚焦超音波搭配微氣泡，結合T細胞輸注治療新診斷病患之血腦屏障破壞一期臨床試驗",
+      "summary": "這項開放標籤一期臨床試驗，由Children's National Research Institute主辦，正在招募新診斷病患，",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-11-21",
       "url": "https://clinicaltrials.gov/study/NCT07796061",
@@ -227,8 +227,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第一期臨床試驗] 基因剔除CD33造血幹細胞，以擴大CD33靶向免疫療法在急性骨髓性白血病患者的治療指數",
-      "summary": "狀態：尚未招募｜主辦：德國癌症研究中心｜這項名為「GALAXY33」的研究，是一",
+      "title": "[PHASE1] Genetic Ablation of CD33 in HSC to Broaden the Therapeutic Index of CD33-directed 免疫療法 in Patients with AML",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：German Cancer Research Center｜The study \"GALAXY33\" is an open-label, prospective, nonrandomized, one arm 第一期試驗 臨床試驗 in which patients with relapsed AML after 異體（取自捐贈者） hematopoietic 幹細胞 transplantation will be transplanted with CD33-deleted CD34+ HSC derived fr",
       "source": "ClinicalTrials.gov｜Germany",
       "date": "2026-11-21",
       "url": "https://clinicaltrials.gov/study/NCT05662904",
@@ -259,19 +259,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "必治妥施貴寶將",
-      "summary": "",
-      "source": "Oncodaily",
-      "date": "2026-11-20",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rb1BYQ0FiZXE3dVNSVWdvRW4wLU9La3Rta1pVVXZQU1hFazl6ZVFNSTNWMDZmQ3FFZXd1ai1EbmtBNXlna1RxQWlhUVNiakdKWVZEa3l6WldwWlNjcjgwbEY1OGtnNUVBeC1QUQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "Capricor's Duchenne treatment fails to get 美國食藥局（FDA） approval, shares sink",
       "summary": "et 美國食藥局（FDA） approval, shares sink Reuters",
       "source": "Reuters",
       "date": "2026-11-20",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUJ5QjBndGJPNTFwMHRqRzZVNHRqd0JpaW1oc2UxeGd0RXpYNDNWQlE2Yl9vLVBfbUxZS3ZqeG1iTnh3Um1vZXJRWU5aenBiaFlYRmRBVy00eFpYRVJFNHN0NTk2TVdWOXNfbHZKckxpRi05WDNJM2VaLWRjR1l0c3JrYkYyZEU0UFItS2NQR19Pb1cwWG1BNW43Y19mZE9EajUwZHA4RUJTOVFoOWdnbG5tT1pzdDhvVlI3MEZlcU50YWd0a2c?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Bristol Myers Squibb to Present New Multiple Myeloma and Lymphoma Data at ASH 2026",
+      "summary": "iple Myeloma and Lymphoma Data at ASH 2026 Oncodaily",
+      "source": "Oncodaily",
+      "date": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rb1BYQ0FiZXE3dVNSVWdvRW4wLU9La3Rta1pVVXZQU1hFazl6ZVFNSTNWMDZmQ3FFZXd1ai1EbmtBNXlna1RxQWlhUVNiakdKWVZEa3l6WldwWlNjcjgwbEY1OGtnNUVBeC1QUQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -283,8 +283,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "基因編輯技術（CRISPR）篩選，揭示基因變異如何影響神經退化性疾病風險",
-      "summary": "研究利用基因編輯技術（CRISPR）篩選，揭示基因變異如何影響神經退化性疾病風險。",
+      "title": "CRISPR篩選揭示基因變異如何驅動神經退化性疾病風險",
+      "summary": "研究發現基因變異影響人類誘導型多功能幹細胞（iPSC）衍生的類小膠質細胞行為，並透過CRISPR篩選揭示神經退化風險。",
       "source": "GEN News",
       "date": "2026-11-18",
       "url": "https://www.genengnews.com/topics/translational-medicine/crispr-screening-reveals-how-genetic-variants-drive-neurodegenerative-risk/",

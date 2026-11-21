@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-11-21T03:39:31.612991+00:00",
+  "updated": "2026-11-21T17:52:38.660886+00:00",
   "items": [
     {
-      "title": "STAT+: 美國食藥局（FDA） rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
-      "summary": "The 美國食藥局（FDA） said it had rejected a 細胞治療 intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+      "title": "美國食藥署（FDA）駁回Capricor Therapeutics治療杜氏肌肉失養症的細胞療法，這項決定早有預兆",
+      "summary": "美國食藥署（FDA）宣布駁回Capricor Therapeutics開發、用於治療杜氏肌肉失養症患者的細胞療法。",
       "source": "STAT News",
       "date": "2026-11-20",
       "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
@@ -51,6 +51,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "Fierce Biotech Fundraising Tracker '26: VitriVax scores $87M; Ansa adds $71.5M C輪融資",
+      "summary": "VitriVax scores $87M; Ansa adds $71.5M C輪融資 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "Pfizer leaps into ‘體內實驗’ CAR-T細胞療法 with latest China deal",
       "summary": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body.",
       "source": "BioPharma Dive",
@@ -59,11 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "TreeFrog Therapeutics Appoints James Sterling as Chief Financial Officer",
-      "summary": "rling as Chief Financial Officer Via Ritzau",
-      "source": "Via Ritzau",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObDJOTmJlalBaN1F1anpxYUh4MmxOVVVSN0w3TVFoWDl4RHFLb1AyelJTdy1RM1BlN2l6b0Nnakx6ODh2NzREUVhTRmhjcHp3bFFJVHJpMXdMZHJ6TlVVNGQxVjhlTkprakdHR1gxWGZ6d3ZYanlMNVlYeE03cElBOVlJVURQSUZxZ0trQWNUZkExNE9MNUdyTm12SzJtdXBqbXhNdzRUbXZQRS05UXVOOUtEa0xPRzAxRWhmUms0Rk9pbmJmQUFEU0RaWWphbURJMFdtMWRnMGNFOW55WExv?oc=5",
+      "title": "Aspen Neuroscience 申請 1.345 億美元首次公開募股 (IPO)",
+      "summary": "生技公司 Aspen Neuroscience 申請首次公開募股 (IPO)，目標募資 1.345 億美元，將投入神經退化性疾病的細胞療法開發。",
+      "source": "GenomeWeb",
+      "date": "2026-10-27",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUF8xWlNVeHpYd25VOEVwdU5JekI0NlQ3Znh5d05TLXRONlQwOHVXeEp3dmxLd3hoLWplUERWN3A2V09POVB0VG9zOUpRd3NQZnJfYnNaX29DQ25iYms4akVHbHI4TnhYaEt0anNBTHIwUU1nMHJLSGRvRm01cFF4MmZja05JQkEyY2I5OC1PSThkaG1mcU53MVoxLWhZeGVYRmJ6M1lrVWkyTGtWcGc?oc=5",
       "lang": "zh-TW"
     }
   ]

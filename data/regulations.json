@@ -1,26 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-11-21T03:39:23.185304+00:00",
+  "updated": "2026-11-21T17:52:09.926064+00:00",
   "items": [
     {
-      "title": "What’s New for Biologics",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "title": "生物製劑最新動態",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-11-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "Statement on Deramiocel BLA for Duchenne Muscular Dystrophy",
-      "summary": "美國食藥局（FDA） determined that the available evidence does not meet the evidentiary standard required for approval",
+      "title": "關於Deramiocel生物製劑許可申請（BLA）用於杜興氏肌肉失養症的聲明",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-11-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy",
       "lang": "zh-TW"
     },
     {
-      "title": "Immune Aging Study in Mice Reveals Clues to T Cell Dysfunction and Cancer Development",
-      "summary": "Age-related changes in CD8+ T cells may hold important clues to understanding cancer immunity, with new findings revealing distinct chromatin signatures of dysfunction and the emergence of a unique regulatory population. The post  to T Cell Dysfuncti",
+      "title": "小鼠免疫",
+      "summary": "",
       "source": "GEN News",
       "date": "2026-11-20",
       "url": "https://www.genengnews.com/topics/cancer/immune-aging-study-in-mice-reveals-clues-to-t-cell-dysfunction-and-cancer-development/",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "AGC Biologics Welcomes Multiple 細胞治療 Projects to New Yokohama Site",
-      "summary": "rapy Projects to New Yokohama Site GlobeNewswire",
+      "title": "AGC Biologics橫濱新廠迎來多項細胞治療專案",
+      "summary": "AGC Biologics宣布其橫濱新廠將承接多項細胞治療專案。",
       "source": "GlobeNewswire",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVRrQUxyTUlDYm9MNVRSdVExOHJGNU9jNmVDWVFycThtdXRPcVYyRWwyQjNVcFA4cGd0TkQyUUVZRWpaZjZSeUhpeF82Z3M5QTlHR2NsZEFmRUpIdzFwMDh6SkpBV3NJakVRVUM4SHNnNGc3NU9leE9pLURXc2ZXM3Q5b05XQzV1WjVDSzVCVzlWVWoyMngyeUlaN0ZfQ0lDT1RVa2ZiOWNJVGN2WW4tblFJVUt2R2pkMG5tQUNCVmtYWmlBdThwNFdHV1BPVVRqRXFBdEthcnhPdWhqZ0FZ?oc=5",
@@ -83,20 +83,43 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia reports Q3FY26 loss of $1.9 million, advances Japan 日本藥品局（PMDA） path",
-      "summary": "llion, advances Japan 日本藥品局（PMDA） path scanx.trade",
+      "title": "Every First Approval in APAC, 2026: The Full List",
+      "summary": "",
+      "source": "BioPharma APAC",
+      "date": "2026-11-14",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1ltc3VBRGl0ODljazdpWDVhSnl6dEJrUldGOF9JMURpaUZjejJ3eXRmcnpEY2JDU2Vjb1YweVVhSldEWGl6QlRxSEdVdmNMeVYxeWNiV1hzZnFzSXBNVkU4MkF0a0liTkVtcVoyR3prUllwVjRTQTFWYlBOeTBSRm1fQWFfUTBCV0NXSnFmbkZqSF9kU3Y2aF9Qbw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BioCardia公布2026財年第三季虧損190萬美元，並推進日本PMDA進程",
+      "summary": "BioCardia公布第三季虧損190萬美元，同時在日本PMDA的進程有新進展。",
       "source": "scanx.trade",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFRqekpOQ1dDckkxTHJNai1UOVJVbE5zNmlhdGp4OEwxeXZlTTdkSWk3Q1FmVlA3OERmNUo3aEVMMnV6b3IxQjdBUEFqWUdxYmRIdDN4eGVPLUdiR1ZEdGhsYzFsUjNjRnNsdDktTHI1QW83WkRNWFFndmVuRmoxOXlvanJEVUpCSFJET1Q3a2FqdmtyMmtESHdxQUtDc05QNTJMSHRn?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia's CardiAMP Completes Japan Pre-Market Consultation, First Cardiac 細胞治療 to Do So",
-      "summary": "Market Consultation, First Cardiac 細胞治療 to Do So Tech Times",
+      "title": "BioCardia的CardiAMP完成日本上市前諮詢，成為首個心臟細胞療法",
+      "summary": "BioCardia的CardiAMP心臟細胞療法，在日本完成上市前諮詢，創下首例。",
       "source": "Tech Times",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
       "lang": "zh-TW"
+    },
+    {
+      "title": "BioCardia在日本完成CardiAMP的PMDA程序",
+      "summary": "BioCardia宣布其CardiAMP在日本已完成PMDA的審查程序。",
+      "source": "scanx.trade",
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1JTb0gxUVd5eEhwUUI3OFloZFFKMTM3X2dhV1VQbzhDSm5FRzBnM0hWSWtEd0ZpekNZVHAzLVM3YXMtSE02ZV9Ca2lERXRIa2R6ZmdINUhfdTRRRUxqMklTX2gtWlllRmhxWEZpTHR2QnNCaF9RLS1ZNHp3b0ZkUG1LQ183c05hY1lMbFZNZGI4YmRTOWhSWEVKaFBlbDZVcDhhOG5lOA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "白袍部長5 八仙塵爆催生台灣再生醫療新頁",
+      "summary": "",
+      "source": "短新聞SHOTNEWS",
+      "date": "2026-10-30",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWUY3S0RuOUZjRjQ0LTRDeWgtcTh2SGZoZHgwSENiNmpZWW9xZjg2TFdfSS1UWVdUQzdZNmVxZjB3STRDWWNCVEt0SUJQVndoNG1mdQ?oc=5"
     }
   ]
 }
