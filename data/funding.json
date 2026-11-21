@@ -1,10 +1,26 @@
 {
   "module": "funding",
-  "updated": "2026-11-20T18:58:39.813576+00:00",
+  "updated": "2026-11-21T03:39:31.612991+00:00",
   "items": [
     {
-      "title": "STAT+: UnitedHealth 提告要求撤銷遭降級的聯邦醫療保險優勢計畫品質評分",
-      "summary": "UnitedHealth 集團加入其他保險公司行列，針對被調降的聯邦醫療保險優勢計畫評級提告聯邦政府，此案牽涉數十億美元的龐大利",
+      "title": "STAT+: 美國食藥局（FDA） rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
+      "summary": "The 美國食藥局（FDA） said it had rejected a 細胞治療 intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+      "source": "STAT News",
+      "date": "2026-11-20",
+      "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
+      "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
+      "source": "STAT News",
+      "date": "2026-11-20",
+      "url": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
+      "summary": "UnitedHealth Group joined the ranks of insurers that have sued the federal government over lowered Medicare Advantage ratings, with billions at stake.",
       "source": "STAT News",
       "date": "2026-11-20",
       "url": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/?utm_campaign=rss",
@@ -19,32 +35,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "本週圖表：生技投資者對中國的押注已經得到回報",
-      "summary": "今年，圍繞中國藥品建立的公司紛紛加速收購或首次公開募股。同時，Summit 不再像 2024 年那樣是華爾街的寵兒。",
+      "title": "This week in charts: Biotech investors’ China bets are already paying off",
+      "summary": "This year, companies built around medicines from China have sped toward acquisitions or IPOs. Meanwhile, Summit is no longer the Wall Street darling it was in 2024.",
       "source": "BioPharma Dive",
       "date": "2026-11-20",
       "url": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
       "lang": "zh-TW"
     },
     {
-      "title": "研究對聯合疫苗和單株抗體預防瘧疾提出質疑",
-      "summary": "一種單株抗體有望預防瘧疾，但研究人員發現它在嬰兒身上使用時會幹擾新疫苗。",
+      "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
+      "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies.",
       "source": "STAT News",
       "date": "2026-11-19",
       "url": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：Pharmalittle：我們正在閱讀有關默克人工智慧交易、中國和製藥供應鏈等的信息",
-      "summary": "Merck is entering a research collaboration with Isomorphic Labs, the AI drug designer built on a Nobel-winning technology",
-      "source": "STAT News",
-      "date": "2026-11-19",
-      "url": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "輝瑞與中國達成最新協議，進軍「體內實驗」CAR-T領域",
-      "summary": "這項潛在價值 26 億美元的合作使輝瑞陷入了一場透過重新編程體內細胞來治療自體免疫疾病的競賽。",
+      "title": "Pfizer leaps into ‘體內實驗’ CAR-T細胞療法 with latest China deal",
+      "summary": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body.",
       "source": "BioPharma Dive",
       "date": "2026-11-18",
       "url": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
@@ -52,7 +60,7 @@
     },
     {
       "title": "TreeFrog Therapeutics Appoints James Sterling as Chief Financial Officer",
-      "summary": "rling 擔任財務長 Via Ritzau",
+      "summary": "rling as Chief Financial Officer Via Ritzau",
       "source": "Via Ritzau",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObDJOTmJlalBaN1F1anpxYUh4MmxOVVVSN0w3TVFoWDl4RHFLb1AyelJTdy1RM1BlN2l6b0Nnakx6ODh2NzREUVhTRmhjcHp3bFFJVHJpMXdMZHJ6TlVVNGQxVjhlTkprakdHR1gxWGZ6d3ZYanlMNVlYeE03cElBOVlJVURQSUZxZ0trQWNUZkExNE9MNUdyTm12SzJtdXBqbXhNdzRUbXZQRS05UXVOOUtEa0xPRzAxRWhmUms0Rk9pbmJmQUFEU0RaWWphbURJMFdtMWRnMGNFOW55WExv?oc=5",

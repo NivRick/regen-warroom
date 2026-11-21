@@ -1,41 +1,57 @@
 {
   "module": "regulation",
-  "updated": "2026-11-20T18:58:15.179331+00:00",
+  "updated": "2026-11-21T03:39:23.185304+00:00",
   "items": [
     {
-      "title": "細胞與基因療法指引",
-      "summary": "本頁面彙整了細胞與基因療法相關的指引文件。",
+      "title": "What’s New for Biologics",
+      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "source": "FDA Biologics",
+      "date": "2026-11-20",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Statement on Deramiocel BLA for Duchenne Muscular Dystrophy",
+      "summary": "美國食藥局（FDA） determined that the available evidence does not meet the evidentiary standard required for approval",
+      "source": "FDA Biologics",
+      "date": "2026-11-20",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Immune Aging Study in Mice Reveals Clues to T Cell Dysfunction and Cancer Development",
+      "summary": "Age-related changes in CD8+ T cells may hold important clues to understanding cancer immunity, with new findings revealing distinct chromatin signatures of dysfunction and the emergence of a unique regulatory population. The post  to T Cell Dysfuncti",
+      "source": "GEN News",
+      "date": "2026-11-20",
+      "url": "https://www.genengnews.com/topics/cancer/immune-aging-study-in-mice-reveals-clues-to-t-cell-dysfunction-and-cancer-development/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Cellular & 基因療法 Guidances",
+      "summary": "This page contains a listing of cellular and 基因療法 guidances.",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑最新消息",
-      "summary": "來自生物製劑評估與研究中心（CBER）的最新動態。",
-      "source": "FDA Biologics",
-      "date": "2026-11-19",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製劑相關程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）員工執行業務時所依循的規範。",
+      "title": "Biologics Procedures (SOPPs)",
+      "summary": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in 美國食藥局（FDA）'s Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as t",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "510(k)上市前通知核准轉讓問答集",
-      "summary": "這份指引針對510(k)核准",
+      "title": "Transfer of a Premarket Notification (510(k)) Clearance – Questions and Answers",
+      "summary": "This guidance provides information on the most frequently asked questions regarding transfer of ownership from one 510(k) holder to another.",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/transfer-premarket-notification-510k-clearance-questions-and-answers",
       "lang": "zh-TW"
     },
     {
-      "title": "正在進行中 |傳染病疫苗加速審批",
+      "title": "Ongoing | Infectious Disease Accelerated Approvals Vaccines",
       "summary": "Biologic Accelerated Approvals Based on a Surrogate Endpoint",
       "source": "FDA Biologics",
       "date": "2026-11-19",
@@ -43,56 +59,40 @@
       "lang": "zh-TW"
     },
     {
-      "title": "鎖定葉酸受體在小鼠實驗中逆轉大腸直腸癌對免疫療法的抗藥性",
-      "summary": "鎖定葉酸受體在小鼠實驗中逆轉大腸直腸癌對免疫療法的抗藥性。",
+      "title": "Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to 免疫療法 in Mice",
+      "summary": "Targeting FOLR1 with an approved antibody-drug conjugate restored anti-tumor immunity and enhanced anti-PD-1 effectiveness in colorectal cancer, overcoming immune evasion in mouse models.\nThe post ectal Cancer’s Resistance to 免疫療法 in Mice ap",
       "source": "GEN News",
       "date": "2026-11-18",
       "url": "https://www.genengnews.com/topics/cancer/targeting-folate-receptor-reverses-colorectal-cancers-resistance-to-immunotherapy-in-mice/",
       "lang": "zh-TW"
     },
     {
-      "title": "AGC Biologics 迎接多個細胞治療專案進駐橫濱新廠",
-      "summary": "AGC Biologics 橫濱新廠迎來多個細胞治療專案。",
+      "title": "AGC Biologics Welcomes Multiple 細胞治療 Projects to New Yokohama Site",
+      "summary": "rapy Projects to New Yokohama Site GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVRrQUxyTUlDYm9MNVRSdVExOHJGNU9jNmVDWVFycThtdXRPcVYyRWwyQjNVcFA4cGd0TkQyUUVZRWpaZjZSeUhpeF82Z3M5QTlHR2NsZEFmRUpIdzFwMDh6SkpBV3NJakVRVUM4SHNnNGc3NU9leE9pLURXc2ZXM3Q5b05XQzV1WjVDSzVCVzlWVWoyMngyeUlaN0ZfQ0lDT1RVa2ZiOWNJVGN2WW4tblFJVUt2R2pkMG5tQUNCVmtYWmlBdThwNFdHV1BPVVRqRXFBdEthcnhPdWhqZ0FZ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 聆聽會議：病人和護理夥伴對已批准的罕見疾病基因療法的安全考慮因素的看法",
-      "summary": "美國食藥局（FDA） CBER 患者聆聽會議：患者和護理合作夥伴對批准的罕見疾病基因治療的安全考慮因素的看法",
+      "title": "CBER Listening Meeting: Patient and Care Partner Perspectives on Safety Considerations for Approved 基因療法 Treatments for Rare Diseases",
+      "summary": "美國食藥局（FDA） CBER Patient Listening Meeting: Patient and Care Partner Perspectives on Safety Considerations for Approved 基因療法 Treatments for Rare Diseases",
       "source": "09/20/2024",
       "date": "2026-11-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/cber-listening-meeting-patient-and-care-partner-perspectives-safety-considerations-approved-gene",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER 2026 孤兒批准（新 BLA）",
-      "summary": "",
-      "source": "FDA Biologics",
-      "date": "2026-11-14",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "生物製品電子閱覽室（eFOIA）",
-      "summary": "生物製劑 eFOI 閱覽室提供對 美國食藥局（FDA）.gov 網站上「疫苗、血液和生物製劑」以及與生物製劑評估和研究中心相關的其他部分發布的文件的存取。",
-      "source": "FDA Biologics",
-      "date": "2026-11-14",
-      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-electronic-reading-room-efoia",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BioCardia 公布 2026 會計年度第三季虧損 190 萬美元，並推進日本 PMDA 審查進度",
-      "summary": "BioCardia 第三季虧損190萬美元，日本PMDA審查有進展。",
+      "title": "BioCardia reports Q3FY26 loss of $1.9 million, advances Japan 日本藥品局（PMDA） path",
+      "summary": "llion, advances Japan 日本藥品局（PMDA） path scanx.trade",
       "source": "scanx.trade",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFRqekpOQ1dDckkxTHJNai1UOVJVbE5zNmlhdGp4OEwxeXZlTTdkSWk3Q1FmVlA3OERmNUo3aEVMMnV6b3IxQjdBUEFqWUdxYmRIdDN4eGVPLUdiR1ZEdGhsYzFsUjNjRnNsdDktTHI1QW83WkRNWFFndmVuRmoxOXlvanJEVUpCSFJET1Q3a2FqdmtyMmtESHdxQUtDc05QNTJMSHRn?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 的 CardiAMP 完成日本上市前諮詢，成為首個完成此程序的心臟細胞療法",
-      "summary": "BioCardia 的 CardiAMP 完成日本上市前諮詢，是首個心臟細胞療法。",
+      "title": "BioCardia's CardiAMP Completes Japan Pre-Market Consultation, First Cardiac 細胞治療 to Do So",
+      "summary": "Market Consultation, First Cardiac 細胞治療 to Do So Tech Times",
       "source": "Tech Times",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
