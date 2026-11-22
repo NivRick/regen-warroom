@@ -1,17 +1,17 @@
 {
   "module": "research",
-  "updated": "2026-11-22T02:45:12.018347+00:00",
+  "updated": "2026-11-22T18:09:55.791870+00:00",
   "items": [
     {
-      "title": "生醫研究新利器：從傳統方法到AI驅動高內涵分析的現代細胞檢測技術",
-      "summary": "體外細胞檢測是生醫研究的基礎工具，有助於探索細胞生理學、疾病機制及藥物開發。",
+      "title": "現代生醫研究的細胞分析技術：從傳統方法到AI驅動的高通量分析",
+      "summary": "體外細胞分析是生醫研究的基礎工具，支援細胞生理學、疾病機制及藥物開發等領域的探索。",
       "source": "PubMed",
       "date": "2026-11-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43061281/",
       "lang": "zh-TW"
     },
     {
-      "title": "類器官運算的效能",
+      "title": "類器官運算的基準測試框架",
       "summary": "",
       "source": "PubMed",
       "date": "2026-11-22",
@@ -27,8 +27,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "用於靶向腫瘤成像和協同化學基因治療的 pH/miR-21 雙響應多功能 DNA 四面體。",
-      "summary": "小幹擾RNA（siRNA）作為治療劑具有廣泛的前景；其臨床應用受到低效率遞送和脫靶效應等挑戰的限制。本研究開發了一個多功能 DNA 四面體 (MDT) 平台，用於協同遞送 siRNA 和...",
+      "title": "A pH/miR-21 dual-responsive multifunctional DNA tetrahedron for targeted tumor imaging and synergistic chemo-基因療法.",
+      "summary": "小幹擾RNA（siRNA）作為治療劑具有廣泛的前景；其臨床應用受到低效率遞送和脫靶效應等挑戰的限制。這項研究開發了一個多功能 DNA 四面體 (MDT) 平台，用於協同遞送 siRNA 和...",
       "source": "PubMed",
       "date": "2026-11-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42967392/",
@@ -51,6 +51,14 @@
       "lang": "zh-TW"
     },
     {
+      "title": "SU9516 促進人類誘導多能幹細胞的生肌分化。",
+      "summary": "人類誘導多能幹細胞 (hiPSC) 已成為藥物篩選和疾病建模的一個有前景的平台，為動物模型提供了與人類相關的替代方案。然而，hiPSC 有效分化为骨骼肌管仍然是一个重大挑战。在這項研究中，我們...",
+      "source": "PubMed",
+      "date": "2026-11-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065762/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "基質細胞和乾燥症。",
       "summary": "乾燥症 (SjD) 是一種系統性自體免疫疾病，傳統上歸因於淋巴細胞浸潤以及上皮功能障礙和破壞。越來越多的證據顯示基質細胞也可能導致局部腺體病理。本文重點介紹基質細胞生物學和...",
       "source": "PubMed",
@@ -59,24 +67,32 @@
       "lang": "zh-TW"
     },
     {
-      "title": "遺傳性血小板疾病的基因治療：從概念驗證到臨床轉化。",
-      "summary": "遺傳性血小板疾病 (IPD) 包括一組影響血小板生成和/或功能的罕見遺傳疾病，其臨床表現包括輕度皮膚黏膜出血、嚴重出血、多系統疾病和血液惡性腫瘤傾向。特...",
+      "title": "遺傳性血小板疾病的基因療法：從概念驗證到臨床應用",
+      "summary": "遺傳性血小板疾病（IPDs）是一群罕見的遺傳性疾病，病因多樣，主要影響血小板的生成或功能。",
       "source": "PubMed",
       "date": "2026-11-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42926161/",
       "lang": "zh-TW"
     },
     {
-      "title": "癲癇的基因療法：從",
-      "summary": "遺傳性癲癇，其分子機制在許多單基因形式中相對清楚，是基因療法開發的理想模型。",
+      "title": "異體脂肪間質幹細胞",
+      "summary": "",
+      "source": "PubMed",
+      "date": "2026-11-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068322/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "癲癇基因治療：來自",
+      "summary": "遺傳性癲癇的分子機制在許多單基因形式中都得到了相對明確的定義，它代表了從症狀性癲癇控製到機制驅動的糾正轉變的一個有吸引力的模型。然而，基因治疗策略的作用机制不同，适应...",
       "source": "PubMed",
       "date": "2026-11-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42992560/",
       "lang": "zh-TW"
     },
     {
-      "title": "全生命週期組織工程：結合人工智慧（AI）的多模態感測與數位分身發展藍圖。",
-      "summary": "",
+      "title": "生命週期組織工程：人工智慧支援的多模式感測和數位孿生路線圖。",
+      "summary": "由於在組織製造和修復的整個生命週期中缺乏即時、非侵入性監測，組織工程 (TE) 的臨床轉化受到嚴重阻礙。目前對終點評估的依賴掩蓋了動態生物事件，使得早期檢測...",
       "source": "PubMed",
       "date": "2026-11-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42992015/",
@@ -100,7 +116,7 @@
     },
     {
       "title": "Voronoi 骨支架中孔徑和孔隙率的解耦：早期成骨評估的多物理框架。",
-      "summary": "Voronoi 棋盤狀支架的不規則、類似小樑的形狀使其對骨組織工程具有吸引力。然而，大多數現有的Voronoi建模方法不能獨立控制孔徑和孔隙率，限制了支架結構-功能關係的系統評估...",
+      "summary": "Voronoi 鑲嵌支架的不規則、類似小樑的形態使其對骨組織工程具有吸引力。然而，大多數現有的Voronoi建模方法不能獨立控制孔徑和孔隙率，限制了支架結構-功能關係的系統評估...",
       "source": "PubMed",
       "date": "2026-11-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42950508/",
@@ -115,43 +131,27 @@
       "lang": "zh-TW"
     },
     {
-      "title": "微生物代謝物和 MAMP：腸道幹細胞功能的協調者。",
-      "summary": "肠干细胞（ISC）对于肠上皮的维持和再生至关重要。最近的研究強調了腸道微生物群透過不同的分子訊號，特別是微生物代謝物和微生物相關分子訊號，在調節 ISC 功能中的關鍵作用。",
+      "title": "微生物代謝物與MAMPs：腸道幹細胞功能的關鍵調控者",
+      "summary": "腸道幹細胞（ISCs）對於維持和再生腸道上皮組織至關重要。近期研究強調了...",
       "source": "PubMed",
       "date": "2026-11-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42978537/",
       "lang": "zh-TW"
     },
     {
-      "title": "適應性激酶訊號傳導能夠逃避膠質母細胞瘤中的小分子抑制。",
-      "summary": "儘管透過手術切除、放療和化療進行強化治療，膠質母細胞瘤 (GB) 患者的中位存活期為 15 個月。克服治療抗藥性的一個主要挑戰是腫瘤內異質性，其特徵是分子、表型和臨床多樣性...",
+      "title": "適應性激酶訊號傳導機制，讓膠質母細胞瘤能",
+      "summary": "",
       "source": "PubMed",
       "date": "2026-11-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975206/",
       "lang": "zh-TW"
     },
     {
-      "title": "細胞形態的形成：多基因與轉錄變異的影響",
-      "summary": "身高和疾病風險都是典型的多基因性狀，但細胞的形態特徵是否也由類似的基因架構決定，目前還不清楚。這項研究指出...",
+      "title": "共活化的 FcRγ-BAI1/FcRγ-MERTK 雙 CAR 單核細胞增強的吞噬作用和細胞毒性可驅動有效的抗實體瘤活性。",
+      "summary": "與用於實體腫瘤治療的 CAR-T細胞療法 細胞相比，嵌合抗原受體巨噬細胞 (CAR-M) 顯示出更好的腫瘤浸潤性，但有限的抗腫瘤效力和抗原異質性阻礙了其應用。嵌合抗原受體單核細胞 (CAR-Mo) 的直接工程提供了一種簡化的...",
       "source": "PubMed",
       "date": "2026-11-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43061283/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "癌症治療領域的先進療法藥品",
-      "summary": "",
-      "source": "PubMed",
-      "date": "2026-11-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43061481/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "連續的",
-      "summary": "CAR T細胞治療實體腫瘤的臨床試驗提出了許多問題，包括高親和力CAR T細胞引起的嚴重自體免疫反應、CAR T細胞耗竭的發展、靜脈注射CAR T細胞後運輸到腫瘤部位的能力差以及成本高昂。為了解決...",
-      "source": "PubMed",
-      "date": "2026-11-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43041962/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43066174/",
       "lang": "zh-TW"
     },
     {
@@ -165,7 +165,7 @@
     {
       "title": "[第 3 期] iSCIB1+ 合併 Ipilimumab 和 Nivolumab 作為晚期不可切除黑色素瘤的第一線治療",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦單位：Scancell Ltd｜這項 3 期臨床試驗正在評估將 iSCIB1+（一種在研的基於 DNA 的癌症疫苗）添加到納武單抗和伊匹單抗的標準免疫療法中是否可以改善晚期不可切除黑色素瘤患者的預後。\n\n參加者",
-      "source": "ClinicalTrials.gov｜United States, United Kingdom",
+      "source": "ClinicalTrials.gov｜United Kingdom, United States",
       "date": "2026-11-22",
       "url": "https://clinicaltrials.gov/study/NCT07815574",
       "lang": "zh-TW"
@@ -187,8 +187,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Exablate磁振導引低強度聚焦超音波搭配微氣泡破壞血腦屏障，結合T細胞輸注治療新確診病患的一期臨床試驗",
-      "summary": "Children's National Research Institute正在招募新確診病患，進行一期開放性臨床試驗，評估Exab",
+      "title": "[第 1 階段] 使用 Exablate 磁振造影引導的微泡低強度聚焦超音波結合 T 細胞輸注對新診斷的瀰漫性中線膠質瘤 (LIFT) 患者進行血腦障壁破壞",
+      "summary": "狀態：招募中｜主辦單位：國家兒童研究所｜這是一項開放標籤的 1 期安全性和可行性研究，評估瀰漫性中線膠質瘤 (DMG) 的新型聯合療法，這是一種侵襲性腦腫瘤，預後非常差 - 平均一年總生存期。這項研究結合了血液",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-11-22",
       "url": "https://clinicaltrials.gov/study/NCT07796061",
@@ -227,8 +227,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[第一期臨床試驗] 透過基因剔除CD33造血幹細胞，擴大CD33靶向免疫療法在急性骨髓性白血病（AML）患者的治療指數",
-      "summary": "狀態：尚未招募｜主辦：德國癌症研究中心｜這項名為「GALAXY33」",
+      "title": "[第一期] 透過基因剔除CD33造血幹細胞，擴大CD33導向免疫療法在急性骨髓性白血病（AML）患者的治療指數",
+      "summary": "狀態：尚未招募｜主辦：德國癌症研究中心｜這項名為「GALAXY33」的研究",
       "source": "ClinicalTrials.gov｜Germany",
       "date": "2026-11-22",
       "url": "https://clinicaltrials.gov/study/NCT05662904",
@@ -236,7 +236,7 @@
     },
     {
       "title": "[第一階段] 自體間質幹細胞培養物衍生的信號分子作為骨移植中骨形成的增強劑",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Pontificia Universidade Católica do Rio Grande do Sul｜主辦：Pontificia Universidade Católica do Rio Grande do Sul｜主辦：Pontificia Universidade Católica do Rio Grande do Sul｜本研究旨在從質量（密度）、數量（體積）和成熟度方面評估移植物中的骨形成，這些骨形成是通過應用含有濃縮自體細胞培養基的組織工程骨移植化合物獲得的組織工程骨移植化合物獲得的",
+      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Pontificia Universidade Católica do Rio Grande do Sul｜主辦：Pontificia Universidade Católica do Rio Grande do Sul｜本研究旨在從質量（密度）、數量（體積）和成熟度方面評估移植物中的骨形成，這些骨形成是通過應用含有濃縮自體細胞培養基的組織工程骨移植化合物獲得的組織工程骨移植化合物獲得的",
       "source": "ClinicalTrials.gov｜Brazil",
       "date": "2026-11-22",
       "url": "https://clinicaltrials.gov/study/NCT04998058",
@@ -259,16 +259,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "必治妥施貴寶將於2026年美國血液學會年會發表多發性骨髓瘤和淋巴瘤最新數據",
-      "summary": "必治妥施貴寶（Bristol Myers Squibb）宣布，將在2026年美國血液學會（ASH）年會上，發表其在多發性骨髓瘤和淋巴瘤治療領域的最新臨床數據。",
+      "title": "美國食藥局（FDA） 批准 Daraxonrasib 治療胰腺癌：患者需要了解的信息",
+      "summary": "癌症：病人需要了解什麼 紀念斯隆凱特琳癌症中心",
+      "source": "Memorial Sloan Kettering Cancer Center",
+      "date": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVW44aHFtT0xweVk4WjItWElHNnA4RU1EbFBUUmZhTGEyakJFRGtpdVlLQmprQVFzeTNlZ2hURzFMV2ZNZjkzd25PRGk3MWdLdXhxaXRWRDdoM2VLTS1VWm1FQjRpSDRPQ2NuM2dkRklaQnY5N1RKQTZtNjF2Y0ZxVXE1T0E4bHZoamZuSmc3dWxhcWVDMlJQMUxoOWZMVXNrUFQ1QXBB?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "百時美施貴寶將在 ASH 2026 上展示新的多發性骨髓瘤和淋巴瘤數據",
+      "summary": "ASH 2026 上的 iple 骨髓瘤和淋巴瘤數據 Oncodaily",
       "source": "Oncodaily",
       "date": "2026-11-20",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rb1BYQ0FiZXE3dVNSVWdvRW4wLU9La3Rta1pVVXZQU1hFazl6ZVFNSTNWMDZmQ3FFZXd1ai1EbmtBNXlna1RxQWlhUVNiakdKWVZEa3l6WldwWlNjcjgwbEY1OGtnNUVBeC1QUQ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Capricor的杜氏肌肉失養症療法未能獲美國FDA核准，股價應聲下跌",
-      "summary": "Capricor公司針對杜氏肌肉失養症（Duchenne）的療法，未能獲得美國食品藥物管理局（FDA）的核准，導致公司股價在消息公布後應聲重挫。",
+      "title": "Capricor 的 Duchenne 療法未能獲得 美國食藥局（FDA） 批准，股價下跌",
+      "summary": "美國食藥局（FDA） 核准，股價下跌 路透",
       "source": "Reuters",
       "date": "2026-11-20",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUJ5QjBndGJPNTFwMHRqRzZVNHRqd0JpaW1oc2UxeGd0RXpYNDNWQlE2Yl9vLVBfbUxZS3ZqeG1iTnh3Um1vZXJRWU5aenBiaFlYRmRBVy00eFpYRVJFNHN0NTk2TVdWOXNfbHZKckxpRi05WDNJM2VaLWRjR1l0c3JrYkYyZEU0UFItS2NQR19Pb1cwWG1BNW43Y19mZE9EajUwZHA4RUJTOVFoOWdnbG5tT1pzdDhvVlI3MEZlcU50YWd0a2c?oc=5",
@@ -284,10 +292,18 @@
     },
     {
       "title": "CRISPR篩選揭示基因變異如何驅動神經退化性疾病風險",
-      "summary": "研究人員利用人類誘導型多功能幹細胞（iPSC）分化出的類小膠質細胞，透過CRISPR篩選技術，揭示了基因變異如何影響細胞行為，進而增加神經退化性疾病的風險。",
+      "summary": "研究人員利用人類誘導型多功能幹細胞（iPSC）衍生的類小膠質細胞，揭示基因變異如何影響細胞行為，並運用CRISPR技術進行深入探討。",
       "source": "GEN News",
       "date": "2026-11-18",
       "url": "https://www.genengnews.com/topics/translational-medicine/crispr-screening-reveals-how-genetic-variants-drive-neurodegenerative-risk/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "新的細胞療法在自體免疫疾病中顯示出令人鼓舞的安全性",
+      "summary": "y 與自體免疫疾病有關 ANCA 血管炎 新聞",
+      "source": "ANCA Vasculitis News",
+      "date": "2026-11-16",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0E5dGhQeUY0bzFUdW0xRlE2Nm1ZMmNBMmxDQjVsQVRWbkFEZzA5aHZfQVAxTG9yeXJLTGVaZHZjU0JPUFRuYlowZUdSVjU3WmJLbEJacTZ6cThVYmRqZG5GSExQcDgxSnV2YlN3TzNYWjdKRE5tWVN6b00wZFRfeUlRcjNWMzcyUGhYRm42SmMtU0dKXzltMHptRk1odw?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -299,19 +315,19 @@
       "lang": "zh-TW"
     },
     {
+      "title": "What’s the Latest on ALS Research and 臨床試驗?",
+      "summary": "典型的試驗？麻省布里格姆將軍",
+      "source": "Mass General Brigham",
+      "date": "2026-11-11",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOEJ6NlNTcjl6d3hCM19OTkpNb0t6RDhTTUJsejkyWXFNOVBuVWw4NXBTNGZTQm9tMWlZazFON1RZSDJQcGx5d09YQktZOUk1OWNXall4R29FWDRDZHMxNzJxTXlpdzRPS3JybXR2azNGd1k2ZWFFVjNHQXdHSTMwdEpZUzQ4NEpndG5NUVoxbWd5X0NXRzE4VUhIQWFYTXloS3N3MUQ3Qk5zdw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
       "title": "[第 2 期] Pucotenlimab、樂伐替尼和 SBRT 治療局部透明細胞腎細胞癌術前",
       "summary": "狀態：NOT_YET_RECRUITING｜主辦：中山大學｜這項單組II期研究將評估新輔助pucotenlimab、樂伐替尼和立體定位全身放射治療（SBRT）對適合接受部分腎切除術的成人局限性透明細胞腎細胞癌的療效和安全性",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-11-10",
       "url": "https://clinicaltrials.gov/study/NCT07922915",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "2027年誘導型多功能幹細胞（iPSC）衍生細胞療法的研發管線展望",
-      "summary": "這份報告探討了2027年誘導型多功能幹細胞（iPSC）衍生細胞療法的研發管線現況與未來展望，分析其在生醫產業的發展潛力。",
-      "source": "BioInformant",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWGt0aHk5LV9Ra2l3Z2FqQXB5am1RODZZaVIydHJvM2ZMX2R6bFJ4R0VGWjAwU25CdkYzY1VocnAwcGpTcnJTNXhYVU9zanB6Sk5pbE9NVk1OMURLeHM3VEdkWGRlcnPSAWxBVV95cUxOV05WRWNUVmU1Zy1QRzNXQlBwQjlUb2xieU91ekx1SmNQcXEwQ2dxVkxtaThLd21uUzFiaE1pWEVZVVJ3dUQ1RjNTelpyb3hyLVlHa3ZyT3Y5c0ZTQUM2MFRaTFNEYkp2X2E0N3c?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -355,16 +371,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Zola-Cel嵌合抗原受體T細胞療法（CAR-T）在多發性硬化症展現初步良好成果",
-      "summary": "",
-      "source": "Cleveland Clinic",
-      "date": "2026-10-26",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUm9QZHM4ajBudTV2czI0aV9GMkxtREpnOXlrajdaU3FCbDBHbWhfeDZtX0x3dnVWRzVSQWV4SnRTMkRxSTQydU40cDIyanRBQlBiX1hlVTZIcjViUGpzdlctMzhuRC1OZDZQZEZqcktwUTJuSkYxTVdjQzZySDJqUldTZmo5RWR5N282TE1Mbzc1RDlwb3Bwb3N3?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "精準T細胞療法在臨床試驗中成功抑制難治型癌症",
-      "summary": "一項精準T細胞療法在臨床試驗中展現突破性成果，成功抑制了對傳統治療產生抗藥性的難治型癌症，為病患帶來新希望。",
+      "title": "臨床試驗中精準 T 細胞療法可阻止抗藥性癌症",
+      "summary": "美國國立衛生研究院 (NIH) | 臨床試驗中的抗藥性癌症(.gov)",
       "source": "National Institutes of Health (NIH) | (.gov)",
       "date": "2026-10-23",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZV82ZmlFUXNCUHc3eUJGR24wc25GOTJESmQ3TUd6NzZsMzBETkM0Vk5DOHpqZTc5UHVLQ1BPSnkxakVBUllYV2RqUHRFTFRVbVJpZXFrV2FPRE0tdmY0c1A2YXFGNG1SenFtcjRTTVVkUkpBSjEtSm9fcFR0MW5nTTlGaEE4dS1GR0haVnVKZUJldnk5VjlOdnZCZzh3Q0dLWjBCWHRJNG1aMGZJRHVUa1pUMWlrbWR1d3dPdg?oc=5",

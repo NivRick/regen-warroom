@@ -1,18 +1,18 @@
 {
   "module": "regulation",
-  "updated": "2026-11-22T02:46:11.488055+00:00",
+  "updated": "2026-11-22T18:11:04.718564+00:00",
   "items": [
     {
       "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
+      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）的最新消息。",
       "source": "FDA Biologics",
       "date": "2026-11-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "關於Deramiocel治療裘馨氏肌肉失養症（DMD）的生物製劑許可申請（BLA）聲明",
-      "summary": "美國食品藥物管理局（FDA）認定，現有證據未能達到核准所需的證明標準。",
+      "title": "美國FDA針對Deramiocel治療裘馨氏肌肉失養症的生物製劑許可申請（BLA）發布聲明",
+      "summary": "",
       "source": "FDA Biologics",
       "date": "2026-11-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy",
@@ -27,24 +27,24 @@
       "lang": "zh-TW"
     },
     {
-      "title": "細胞與基因療法指引",
-      "summary": "本頁面彙整了細胞與基因療法相關的指引文件。",
+      "title": "細胞和基因治療指南",
+      "summary": "此頁麵包含細胞和基因治療指南的清單。",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
       "lang": "zh-TW"
     },
     {
-      "title": "生物製劑相關程序（SOPPs）",
-      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）員工執行業務時所使用的規範。",
+      "title": "生物製品程序 (SOPP)",
+      "summary": "美國食藥局（FDA） 生物製品研究和審查中心 (CBER) 的工作人員在履行職責時使用這些標準作業程序和政策 (SOPP)。它們在這裡向公眾開放，因為 CBER 致力於成為",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "上市前通知（510(k)）核准轉讓：常見問答",
-      "summary": "這份指引針對510(k)許可證持有者之間",
+      "title": "轉讓上市前通知 (510(k)) 許可 – 問題與解答",
+      "summary": "本指南提供了有關將所有權從一個 510(k) 持有人轉讓給另一個持有人的最常見問題的資訊。",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/transfer-premarket-notification-510k-clearance-questions-and-answers",
@@ -52,31 +52,23 @@
     },
     {
       "title": "正在進行中 |傳染病疫苗加速審批",
-      "summary": "Biologic Accelerated Approvals Based on a Surrogate Endpoint",
+      "summary": "基於替代終點的生物加速審批",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/drugs/accelerated-approval-program/ongoing-infectious-disease-accelerated-approvals-vaccines",
       "lang": "zh-TW"
     },
     {
-      "title": "Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to 免疫療法 in Mice",
-      "summary": "使用经批准的抗体药物缀合物靶向 FOLR1 可恢复抗肿瘤免疫力并增强结直肠癌中的抗 PD-1 功效，克服小鼠模型中的免疫逃避。\n小鼠結腸癌對免疫治療的抗藥性",
+      "title": "標靶葉酸受體可逆轉小鼠大腸直腸癌對免疫治療的抗藥性",
+      "summary": "使用經核准的抗體藥物綴合物標靶 FOLR1 可恢復抗腫瘤免疫力並增強大腸直腸癌中的抗 PD-1 功效，克服小鼠模型中的免疫逃脫。\n小鼠結腸癌對免疫治療的抗藥性",
       "source": "GEN News",
       "date": "2026-11-18",
       "url": "https://www.genengnews.com/topics/cancer/targeting-folate-receptor-reverses-colorectal-cancers-resistance-to-immunotherapy-in-mice/",
       "lang": "zh-TW"
     },
     {
-      "title": "AGC Biologics 在其橫濱新工廠迎來多個細胞治療項目",
-      "summary": "橫濱新廠的 rapy 專案 Market.us",
-      "source": "Market.us",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUFDc2VfU2FHME5mSW53MXc0LWpkN05XSnlwUy1neDJCNnFXMHdVTVhnR0NZZFFYSXQwVnEweWp0RXFXa0l5cHJUSkdkdkdqa2k0dnRsOU1XVnZsMkt0ald6SmdrY1IyM2ZydWRUMTRVdGlnZUpTQUdmMTltZTdVUGRyODh5Qmo3cFFyVnBsMU44RlBPaVJWNDBNV2h0YmxSWVlndUl1TEE5QXQ3aDlIajdRWmhvQQ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "AGC Biologics 歡迎多個細胞治療計畫落腳新橫濱工廠",
-      "summary": "新橫濱工廠的 rapy 項目 GlobeNewswire",
+      "title": "AGC Biologics橫濱新廠區迎來多項細胞",
+      "summary": "",
       "source": "GlobeNewswire",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVRrQUxyTUlDYm9MNVRSdVExOHJGNU9jNmVDWVFycThtdXRPcVYyRWwyQjNVcFA4cGd0TkQyUUVZRWpaZjZSeUhpeF82Z3M5QTlHR2NsZEFmRUpIdzFwMDh6SkpBV3NJakVRVUM4SHNnNGc3NU9leE9pLURXc2ZXM3Q5b05XQzV1WjVDSzVCVzlWVWoyMngyeUlaN0ZfQ0lDT1RVa2ZiOWNJVGN2WW4tblFJVUt2R2pkMG5tQUNCVmtYWmlBdThwNFdHV1BPVVRqRXFBdEthcnhPdWhqZ0FZ?oc=5",
@@ -91,7 +83,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Every First Approval in APAC, 2026: The Full List",
+      "title": "2026 年亞太地區首次獲準：完整列表",
       "summary": "",
       "source": "BioPharma APAC",
       "date": "2026-11-14",
@@ -99,7 +91,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia reports Q3FY26 loss of $1.9 million, advances Japan 日本藥品局（PMDA） path",
+      "title": "BioCardia 報告 2026 財年第三季虧損 190 萬美元，推進日本 日本藥品局（PMDA） 之路",
       "summary": "llion，推進日本PMDA路徑 scanx.trade",
       "source": "scanx.trade",
       "date": "2026-11-10",
@@ -107,11 +99,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia's CardiAMP Completes Japan Pre-Market Consultation, First Cardiac 細胞治療 to Do So",
-      "summary": "市場諮詢，第一個心肌細胞療法這樣做 Tech Times",
+      "title": "BioCardia的CardiAMP完成日本上市前諮詢，成為首個心臟細胞療法",
+      "summary": "BioCardia的心臟細胞療法CardiAMP，在日本完成上市前諮詢，創下首例。",
       "source": "Tech Times",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "BioCardia 在日本完成 CardiAMP 的 日本藥品局（PMDA） 流程",
+      "summary": "diAMP 在日本 scanx.trade",
+      "source": "scanx.trade",
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1JTb0gxUVd5eEhwUUI3OFloZFFKMTM3X2dhV1VQbzhDSm5FRzBnM0hWSWtEd0ZpekNZVHAzLVM3YXMtSE02ZV9Ca2lERXRIa2R6ZmdINUhfdTRRRUxqMklTX2gtWlllRmhxWEZpTHR2QnNCaF9RLS1ZNHp3b0ZkUG1LQ183c05hY1lMbFZNZGI4YmRTOWhSWEVKaFBlbDZVcDhhOG5lOA?oc=5",
       "lang": "zh-TW"
     }
   ]
