@@ -1,50 +1,58 @@
 {
   "module": "funding",
-  "updated": "2026-11-21T17:52:38.660886+00:00",
+  "updated": "2026-11-22T02:46:36.482197+00:00",
   "items": [
     {
-      "title": "美國食藥署（FDA）駁回Capricor Therapeutics治療杜氏肌肉失養症的細胞療法，這項決定早有預兆",
-      "summary": "美國食藥署（FDA）宣布駁回Capricor Therapeutics開發、用於治療杜氏肌肉失養症患者的細胞療法。",
+      "title": "美國食藥局（FDA） 再次拒絕 Capricor Duchenne 細胞療法",
+      "summary": "美國食藥局（FDA） 在一份不同尋常的聲明中指責 Capricor “嚴重違反資料完整性”，損害了其研究結果，並導致 deramiocel 自 2025 年以來第二次被拒絕。",
+      "source": "BioPharma Dive",
+      "date": "2026-11-21",
+      "url": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：美國食藥局（FDA） 拒絕了 Capricor Therapeutics 的 Duchenne 療法，這是一個經過很長時間才做出的決定",
+      "summary": "美國食藥局（FDA） 表示，已拒絕 Capricor Therapeutics 開發的杜氏肌肉營養不良症患者的細胞療法。",
       "source": "STAT News",
       "date": "2026-11-20",
       "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
-      "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
+      "title": "STAT+：MAHA的智囊團在坦克裡嗎？稅務申報顯示儲備金較低",
+      "summary": "稅務申報顯示，MAHA 研究所在 2025 年花費了超過 100 萬美元，第一年結束時，由於活動和管理費用耗盡了現金，其支出僅為 171,000 美元。",
       "source": "STAT News",
       "date": "2026-11-20",
       "url": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
-      "summary": "UnitedHealth Group joined the ranks of insurers that have sued the federal government over lowered Medicare Advantage ratings, with billions at stake.",
+      "title": "STAT+：聯合健康保險提起訴訟，要求扭轉 Medicare Advantage 品質評分的降級",
+      "summary": "聯合健康集團加入了因降低醫療保險優勢評級而起訴聯邦政府的保險公司行列，損失數十億美元。",
       "source": "STAT News",
       "date": "2026-11-20",
       "url": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
-      "summary": "Wall Street analysts rushed to Celldex&rsquo;s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva&rsquo;s research chief accepted a new job.",
+      "title": "Celldex 藥物在治療濕疹方面表現不佳；表觀遺傳學編輯新創公司裁員",
+      "summary": "Celldex 遭遇挫折後，華爾街分析師紛紛為此辯護。在其他地方，Isomorphic Labs 與默克公司達成了一項以癌症為重點的協議，而 Teva 的研究主管接受了一份新工作。",
       "source": "BioPharma Dive",
       "date": "2026-11-20",
       "url": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
       "lang": "zh-TW"
     },
     {
-      "title": "This week in charts: Biotech investors’ China bets are already paying off",
-      "summary": "This year, companies built around medicines from China have sped toward acquisitions or IPOs. Meanwhile, Summit is no longer the Wall Street darling it was in 2024.",
+      "title": "本週圖表：生技投資者對中國的押注已經得到回報",
+      "summary": "今年，圍繞中國藥品建立的公司紛紛加速收購或首次公開募股。同時，Summit 不再像 2024 年那樣是華爾街的寵兒。",
       "source": "BioPharma Dive",
       "date": "2026-11-20",
       "url": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
       "lang": "zh-TW"
     },
     {
-      "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
-      "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies.",
+      "title": "研究對聯合疫苗和單株抗體預防瘧疾提出質疑",
+      "summary": "一種單株抗體有望預防瘧疾，但研究人員發現它在嬰兒身上使用時會幹擾新疫苗。",
       "source": "STAT News",
       "date": "2026-11-19",
       "url": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
@@ -59,19 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Pfizer leaps into ‘體內實驗’ CAR-T細胞療法 with latest China deal",
-      "summary": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body.",
-      "source": "BioPharma Dive",
-      "date": "2026-11-18",
-      "url": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Aspen Neuroscience 申請 1.345 億美元首次公開募股 (IPO)",
-      "summary": "生技公司 Aspen Neuroscience 申請首次公開募股 (IPO)，目標募資 1.345 億美元，將投入神經退化性疾病的細胞療法開發。",
-      "source": "GenomeWeb",
-      "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUF8xWlNVeHpYd25VOEVwdU5JekI0NlQ3Znh5d05TLXRONlQwOHVXeEp3dmxLd3hoLWplUERWN3A2V09POVB0VG9zOUpRd3NQZnJfYnNaX29DQ25iYms4akVHbHI4TnhYaEt0anNBTHIwUU1nMHJLSGRvRm01cFF4MmZja05JQkEyY2I5OC1PSThkaG1mcU53MVoxLWhZeGVYRmJ6M1lrVWkyTGtWcGc?oc=5",
+      "title": "TreeFrog Therapeutics Appoints James Sterling as Chief Financial Officer",
+      "summary": "rling 擔任財務長 Via Ritzau",
+      "source": "Via Ritzau",
+      "date": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObDJOTmJlalBaN1F1anpxYUh4MmxOVVVSN0w3TVFoWDl4RHFLb1AyelJTdy1RM1BlN2l6b0Nnakx6ODh2NzREUVhTRmhjcHp3bFFJVHJpMXdMZHJ6TlVVNGQxVjhlTkprakdHR1gxWGZ6d3ZYanlMNVlYeE03cElBOVlJVURQSUZxZ0trQWNUZkExNE9MNUdyTm12SzJtdXBqbXhNdzRUbXZQRS05UXVOOUtEa0xPRzAxRWhmUms0Rk9pbmJmQUFEU0RaWWphbURJMFdtMWRnMGNFOW55WExv?oc=5",
       "lang": "zh-TW"
     }
   ]

@@ -1,57 +1,57 @@
 {
   "module": "regulation",
-  "updated": "2026-11-21T17:52:09.926064+00:00",
+  "updated": "2026-11-22T02:46:11.488055+00:00",
   "items": [
     {
       "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新消息。",
+      "summary": "美國食品藥物管理局（FDA）生物製劑評估與研究中心（CBER）的最新動態。",
       "source": "FDA Biologics",
       "date": "2026-11-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "關於Deramiocel生物製劑許可申請（BLA）用於杜興氏肌肉失養症的聲明",
-      "summary": "",
+      "title": "關於Deramiocel治療裘馨氏肌肉失養症（DMD）的生物製劑許可申請（BLA）聲明",
+      "summary": "美國食品藥物管理局（FDA）認定，現有證據未能達到核准所需的證明標準。",
       "source": "FDA Biologics",
       "date": "2026-11-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy",
       "lang": "zh-TW"
     },
     {
-      "title": "小鼠免疫",
-      "summary": "",
+      "title": "小鼠免疫老化研究揭示 T 細胞功能障礙和癌症發展的線索",
+      "summary": "CD8+ T 細胞與年齡相關的變化可能為理解癌症免疫提供重要線索，新的發現揭示了功能障礙的獨特染色質特徵以及獨特調節群體的出現。 T 細胞功能障礙的貼文",
       "source": "GEN News",
       "date": "2026-11-20",
       "url": "https://www.genengnews.com/topics/cancer/immune-aging-study-in-mice-reveals-clues-to-t-cell-dysfunction-and-cancer-development/",
       "lang": "zh-TW"
     },
     {
-      "title": "Cellular & 基因療法 Guidances",
-      "summary": "This page contains a listing of cellular and 基因療法 guidances.",
+      "title": "細胞與基因療法指引",
+      "summary": "本頁面彙整了細胞與基因療法相關的指引文件。",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
       "lang": "zh-TW"
     },
     {
-      "title": "Biologics Procedures (SOPPs)",
-      "summary": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in 美國食藥局（FDA）'s Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as t",
+      "title": "生物製劑相關程序（SOPPs）",
+      "summary": "這些標準作業程序與政策（SOPPs）是美國食品藥物管理局（FDA）生物製劑研究與審查中心（CBER）員工執行業務時所使用的規範。",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
       "lang": "zh-TW"
     },
     {
-      "title": "Transfer of a Premarket Notification (510(k)) Clearance – Questions and Answers",
-      "summary": "This guidance provides information on the most frequently asked questions regarding transfer of ownership from one 510(k) holder to another.",
+      "title": "上市前通知（510(k)）核准轉讓：常見問答",
+      "summary": "這份指引針對510(k)許可證持有者之間",
       "source": "FDA Biologics",
       "date": "2026-11-19",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/transfer-premarket-notification-510k-clearance-questions-and-answers",
       "lang": "zh-TW"
     },
     {
-      "title": "Ongoing | Infectious Disease Accelerated Approvals Vaccines",
+      "title": "正在進行中 |傳染病疫苗加速審批",
       "summary": "Biologic Accelerated Approvals Based on a Surrogate Endpoint",
       "source": "FDA Biologics",
       "date": "2026-11-19",
@@ -60,23 +60,31 @@
     },
     {
       "title": "Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to 免疫療法 in Mice",
-      "summary": "Targeting FOLR1 with an approved antibody-drug conjugate restored anti-tumor immunity and enhanced anti-PD-1 effectiveness in colorectal cancer, overcoming immune evasion in mouse models.\nThe post ectal Cancer’s Resistance to 免疫療法 in Mice ap",
+      "summary": "使用经批准的抗体药物缀合物靶向 FOLR1 可恢复抗肿瘤免疫力并增强结直肠癌中的抗 PD-1 功效，克服小鼠模型中的免疫逃避。\n小鼠結腸癌對免疫治療的抗藥性",
       "source": "GEN News",
       "date": "2026-11-18",
       "url": "https://www.genengnews.com/topics/cancer/targeting-folate-receptor-reverses-colorectal-cancers-resistance-to-immunotherapy-in-mice/",
       "lang": "zh-TW"
     },
     {
-      "title": "AGC Biologics橫濱新廠迎來多項細胞治療專案",
-      "summary": "AGC Biologics宣布其橫濱新廠將承接多項細胞治療專案。",
+      "title": "AGC Biologics 在其橫濱新工廠迎來多個細胞治療項目",
+      "summary": "橫濱新廠的 rapy 專案 Market.us",
+      "source": "Market.us",
+      "date": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUFDc2VfU2FHME5mSW53MXc0LWpkN05XSnlwUy1neDJCNnFXMHdVTVhnR0NZZFFYSXQwVnEweWp0RXFXa0l5cHJUSkdkdkdqa2k0dnRsOU1XVnZsMkt0ald6SmdrY1IyM2ZydWRUMTRVdGlnZUpTQUdmMTltZTdVUGRyODh5Qmo3cFFyVnBsMU44RlBPaVJWNDBNV2h0YmxSWVlndUl1TEE5QXQ3aDlIajdRWmhvQQ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "AGC Biologics 歡迎多個細胞治療計畫落腳新橫濱工廠",
+      "summary": "新橫濱工廠的 rapy 項目 GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVRrQUxyTUlDYm9MNVRSdVExOHJGNU9jNmVDWVFycThtdXRPcVYyRWwyQjNVcFA4cGd0TkQyUUVZRWpaZjZSeUhpeF82Z3M5QTlHR2NsZEFmRUpIdzFwMDh6SkpBV3NJakVRVUM4SHNnNGc3NU9leE9pLURXc2ZXM3Q5b05XQzV1WjVDSzVCVzlWVWoyMngyeUlaN0ZfQ0lDT1RVa2ZiOWNJVGN2WW4tblFJVUt2R2pkMG5tQUNCVmtYWmlBdThwNFdHV1BPVVRqRXFBdEthcnhPdWhqZ0FZ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "CBER Listening Meeting: Patient and Care Partner Perspectives on Safety Considerations for Approved 基因療法 Treatments for Rare Diseases",
-      "summary": "美國食藥局（FDA） CBER Patient Listening Meeting: Patient and Care Partner Perspectives on Safety Considerations for Approved 基因療法 Treatments for Rare Diseases",
+      "title": "CBER 聆聽會議：病人和護理夥伴對已批准的罕見疾病基因療法的安全考慮因素的看法",
+      "summary": "美國食藥局（FDA） CBER 患者聆聽會議：患者和護理合作夥伴對批准的罕見疾病基因治療的安全考慮因素的看法",
       "source": "09/20/2024",
       "date": "2026-11-16",
       "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/cber-listening-meeting-patient-and-care-partner-perspectives-safety-considerations-approved-gene",
@@ -91,35 +99,20 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia公布2026財年第三季虧損190萬美元，並推進日本PMDA進程",
-      "summary": "BioCardia公布第三季虧損190萬美元，同時在日本PMDA的進程有新進展。",
+      "title": "BioCardia reports Q3FY26 loss of $1.9 million, advances Japan 日本藥品局（PMDA） path",
+      "summary": "llion，推進日本PMDA路徑 scanx.trade",
       "source": "scanx.trade",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFRqekpOQ1dDckkxTHJNai1UOVJVbE5zNmlhdGp4OEwxeXZlTTdkSWk3Q1FmVlA3OERmNUo3aEVMMnV6b3IxQjdBUEFqWUdxYmRIdDN4eGVPLUdiR1ZEdGhsYzFsUjNjRnNsdDktTHI1QW83WkRNWFFndmVuRmoxOXlvanJEVUpCSFJET1Q3a2FqdmtyMmtESHdxQUtDc05QNTJMSHRn?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia的CardiAMP完成日本上市前諮詢，成為首個心臟細胞療法",
-      "summary": "BioCardia的CardiAMP心臟細胞療法，在日本完成上市前諮詢，創下首例。",
+      "title": "BioCardia's CardiAMP Completes Japan Pre-Market Consultation, First Cardiac 細胞治療 to Do So",
+      "summary": "市場諮詢，第一個心肌細胞療法這樣做 Tech Times",
       "source": "Tech Times",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
       "lang": "zh-TW"
-    },
-    {
-      "title": "BioCardia在日本完成CardiAMP的PMDA程序",
-      "summary": "BioCardia宣布其CardiAMP在日本已完成PMDA的審查程序。",
-      "source": "scanx.trade",
-      "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1JTb0gxUVd5eEhwUUI3OFloZFFKMTM3X2dhV1VQbzhDSm5FRzBnM0hWSWtEd0ZpekNZVHAzLVM3YXMtSE02ZV9Ca2lERXRIa2R6ZmdINUhfdTRRRUxqMklTX2gtWlllRmhxWEZpTHR2QnNCaF9RLS1ZNHp3b0ZkUG1LQ183c05hY1lMbFZNZGI4YmRTOWhSWEVKaFBlbDZVcDhhOG5lOA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "白袍部長5 八仙塵爆催生台灣再生醫療新頁",
-      "summary": "",
-      "source": "短新聞SHOTNEWS",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWUY3S0RuOUZjRjQ0LTRDeWgtcTh2SGZoZHgwSENiNmpZWW9xZjg2TFdfSS1UWVdUQzdZNmVxZjB3STRDWWNCVEt0SUJQVndoNG1mdQ?oc=5"
     }
   ]
 }
