@@ -1,18 +1,26 @@
 {
   "module": "regulation",
-  "updated": "2026-11-23T03:23:28.486595+00:00",
+  "updated": "2026-11-23T22:22:45.161440+00:00",
   "items": [
     {
-      "title": "生物製劑最新動態",
-      "summary": "美國食品藥物管理局生物製劑評估與研究中心（CBER）發布的最新消息。",
+      "title": "生物製劑的PREA審查與標示變更",
+      "summary": "針對依據聯邦食品、藥品和化妝品法案第505B條執行的兒科研究，進行PREA（兒童用藥研究公平法案）相關的標示變更，以及醫學、統計與臨床藥",
+      "source": "FDA Biologics",
+      "date": "2026-11-23",
+      "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-11-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "關於Deramiocel生物製劑許可申請（BLA）用於杜興氏肌肉失養症的聲明",
-      "summary": "美國食品",
+      "title": "關於 Deramiocel BLA 治療杜氏肌肉營養不良症的聲明",
+      "summary": "美國食藥局（FDA） 確定現有證據不符合核准所需的證據標準",
       "source": "FDA Biologics",
       "date": "2026-11-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy",
@@ -20,7 +28,7 @@
     },
     {
       "title": "小鼠免疫老化研究揭示 T 細胞功能障礙和癌症發展的線索",
-      "summary": "Age-related changes in CD8+ T cells may hold important clues to understanding cancer immunity, with new findings revealing distinct chromatin signatures of dysfunction and the emergence of a unique regulatory population. The post  to T Cell Dysfuncti",
+      "summary": "CD8+ T 細胞與年齡相關的變化可能為理解癌症免疫提供重要線索，新的發現揭示了功能障礙的獨特染色質特徵以及獨特調節群體的出現。 T 細胞功能障礙的貼文",
       "source": "GEN News",
       "date": "2026-11-20",
       "url": "https://www.genengnews.com/topics/cancer/immune-aging-study-in-mice-reveals-clues-to-t-cell-dysfunction-and-cancer-development/",
@@ -59,27 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "標靶葉酸受體可逆轉小鼠大腸直腸癌對免疫治療的抗藥性",
-      "summary": "使用經批准的抗體藥物綴合物靶向 FOLR1 可恢復抗腫瘤免疫力並增強大腸直腸癌中的抗 PD-1 功效，克服小鼠模型中的免疫逃脫。\n小鼠結腸癌對免疫治療的抗藥性",
-      "source": "GEN News",
-      "date": "2026-11-18",
-      "url": "https://www.genengnews.com/topics/cancer/targeting-folate-receptor-reverses-colorectal-cancers-resistance-to-immunotherapy-in-mice/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "AGC Biologics 歡迎多個細胞治療計畫落腳新橫濱工廠",
       "summary": "新橫濱工廠的 rapy 項目 GlobeNewswire",
       "source": "GlobeNewswire",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVRrQUxyTUlDYm9MNVRSdVExOHJGNU9jNmVDWVFycThtdXRPcVYyRWwyQjNVcFA4cGd0TkQyUUVZRWpaZjZSeUhpeF82Z3M5QTlHR2NsZEFmRUpIdzFwMDh6SkpBV3NJakVRVUM4SHNnNGc3NU9leE9pLURXc2ZXM3Q5b05XQzV1WjVDSzVCVzlWVWoyMngyeUlaN0ZfQ0lDT1RVa2ZiOWNJVGN2WW4tblFJVUt2R2pkMG5tQUNCVmtYWmlBdThwNFdHV1BPVVRqRXFBdEthcnhPdWhqZ0FZ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "CBER 聆聽會議：病人和護理夥伴對已批准的罕見疾病基因療法的安全考慮因素的看法",
-      "summary": "美國食藥局（FDA） CBER Patient Listening Meeting: Patient and Care Partner Perspectives on Safety Considerations for Approved 基因療法 Treatments for Rare Diseases",
-      "source": "09/20/2024",
       "date": "2026-11-16",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/cber-listening-meeting-patient-and-care-partner-perspectives-safety-considerations-approved-gene",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaDAxbUJ4TXhiR0I2YjNFZXgwSG9Ha3hvc3BSMG04ajlKcnI3eDgycE5pLVpKUWFLUzROaS12alNxVm5PZDg3X1lEeVhUS1B1eklLWndtVkE1TkdSeC13b0wweG11TmVQRl9QVFQ4eGV2M1B0QlFESXF4WnBRQlFwbjdGNG1LQUJLSlJwRWZOeUhyZWI3Tk1tTlNFS0piNGdmZ0xhc3lTUlRjWVJ2cDJNMHQ1TFZVbVB0Y3l5Umc2YVdKNEpCbTdOck1uN01GZlFmSTRjY3IzaFZmd09RZEJPYlBUWQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -91,7 +83,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 報告 2026 財年第三季虧損 190 萬美元，推進日本 日本藥品局（PMDA） 之路",
+      "title": "BioCardia reports Q3FY26 loss of $1.9 million, advances Japan 日本藥品局（PMDA） path",
       "summary": "llion，推進日本PMDA路徑 scanx.trade",
       "source": "scanx.trade",
       "date": "2026-11-10",
@@ -99,15 +91,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 的 CardiAMP 完成日本上市前諮詢，這是第一個心臟細胞療法",
-      "summary": "市場諮詢，第一個心肌細胞療法這樣做 Tech Times",
+      "title": "BioCardia的CardiAMP完成日本上市前諮詢，成為首個心臟細胞療法達成此里程碑",
+      "summary": "BioCardia的心臟細胞療法CardiAMP在日本完成上市前諮詢，創下業界首例，為其產品在日本市場的核准與商業化鋪路，意義重大。",
       "source": "Tech Times",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia 在日本完成 CardiAMP 的 日本藥品局（PMDA） 流程",
+      "title": "BioCardia completes 日本藥品局（PMDA） process for CardiAMP in Japan",
       "summary": "diAMP 在日本 scanx.trade",
       "source": "scanx.trade",
       "date": "2026-11-06",
