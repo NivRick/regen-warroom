@@ -1,41 +1,49 @@
 {
   "module": "funding",
-  "updated": "2026-11-23T22:23:21.036585+00:00",
+  "updated": "2026-11-24T06:35:48.618433+00:00",
   "items": [
     {
-      "title": "肢帶型肌肉失養症首款藥物獲美國FDA核准，由BridgeBio開發",
-      "summary": "一種長期被忽視的肢帶型肌肉失養症，終於迎來首款藥物，每年有望為BridgeBio帶來10億美元營收。",
+      "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
+      "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
+      "source": "STAT News",
+      "date": "2026-11-24",
+      "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+: Limb-girdle muscular dystrophy gets its first 美國食藥局（FDA）-approved drug, from BridgeBio",
+      "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
       "source": "STAT News",
       "date": "2026-11-23",
       "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "藥業小道消息",
-      "summary": "",
+      "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
+      "summary": "The 美國食藥局（FDA） again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics",
       "source": "STAT News",
       "date": "2026-11-23",
       "url": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：新生物技術旨在開發下一代 CAR-T細胞療法 治療多發性骨髓瘤",
-      "summary": "多发性骨髓瘤复发很常见。一種新型的 CAR-T細胞療法 旨在透過添加逃避腫瘤的標靶來避免這種情況。",
+      "title": "STAT+: New biotech aims to develop next generation CAR-T細胞療法 for multiple myeloma",
+      "summary": "Relapse in multiple myeloma is common. A new type of CAR-T細胞療法 aims to avoid that by adding a target to evade the tumor.",
       "source": "STAT News",
       "date": "2026-11-23",
       "url": "https://www.statnews.com/2026/11/23/caronilex-dual-targeting-car-t-overcomes-myeloma-resistance/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "禮來公司以 7.25 億美元收購亨廷頓藥物開發商 LoQus23",
-      "summary": "此次收購為禮來公司提供了一種首創的治療方法，旨在抑制蛋白質“MSH3”，這種蛋白質可以加劇亨廷頓舞蹈症等疾病的遺傳異常。",
+      "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
+      "summary": "The acquisition hands Lilly what could become a first-of-its-kind treatment designed to inhibit a protein, &ldquo;MSH3,&rdquo; that can exacerbate the genetic abnormalities underlying diseases like Huntington's.",
       "source": "BioPharma Dive",
       "date": "2026-11-23",
       "url": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） 再次拒絕 Capricor Duchenne 細胞療法",
+      "title": "美國食藥局（FDA） again turns back Capricor Duchenne 細胞治療",
       "summary": "In an unusual statement, the 美國食藥局（FDA） accused Capricor of &ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
       "source": "BioPharma Dive",
       "date": "2026-11-21",
@@ -43,8 +51,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+：美國食藥局（FDA） 拒絕了 Capricor Therapeutics 的 Duchenne 療法，這是一個經過很長時間才做出的決定",
-      "summary": "美國食藥局（FDA） 表示，已拒絕 Capricor Therapeutics 開發的杜氏肌肉營養不良症患者的細胞療法。",
+      "title": "STAT+: 美國食藥局（FDA） rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
+      "summary": "The 美國食藥局（FDA） said it had rejected a 細胞治療 intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
       "source": "STAT News",
       "date": "2026-11-20",
       "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
@@ -52,42 +60,34 @@
     },
     {
       "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
-      "summary": "稅務申報顯示，MAHA 研究所在 2025 年花費了超過 100 萬美元，第一年結束時，由於活動和管理費用耗盡了現金，其支出僅為 171,000 美元。",
+      "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
       "source": "STAT News",
       "date": "2026-11-20",
       "url": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Celldex 藥物在治療濕疹方面表現不佳；表觀遺傳學編輯新創公司裁員",
-      "summary": "受挫後，華爾街分析師紛紛為 Celldex 辯護。在其他地方，Isomorphic Labs 與默克 (Merck) 達成了一項以癌症為重點的協議，梯瓦 (Teva) 的研究主管接受了一份新工作。",
+      "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
+      "summary": "Wall Street analysts rushed to Celldex&rsquo;s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva&rsquo;s research chief accepted a new job.",
       "source": "BioPharma Dive",
       "date": "2026-11-20",
       "url": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
       "lang": "zh-TW"
     },
     {
-      "title": "本週圖表觀察：生技投資人押寶中國市場，已開始看到回報",
-      "summary": "今年，以中國藥物為核心的公司加速走向併購或首次公開募股（IPO）。同時，Summit Therapeutics 不再是華爾街的寵兒。",
+      "title": "This week in charts: Biotech investors’ China bets are already paying off",
+      "summary": "This year, companies built around medicines from China have sped toward acquisitions or IPOs. Meanwhile, Summit is no longer the Wall Street darling it was in 2024.",
       "source": "BioPharma Dive",
       "date": "2026-11-20",
       "url": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech 募資追蹤報告 '26：VitriVax 募得 8,700 萬美元；Ansa 完成 7,150 萬美元 C 輪募資",
-      "summary": "VitriVax 募得 8,700 萬美元，Ansa 完成 7,150 萬美元 C 輪募資。",
+      "title": "Fierce Biotech Fundraising Tracker '26: VitriVax scores $87M; Ansa adds $71.5M C輪融資",
+      "summary": "VitriVax scores $87M; Ansa adds $71.5M C輪融資 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-11-19",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "TreeFrog Therapeutics 任命 James Sterling 為財務長",
-      "summary": "TreeFrog Therapeutics 宣布 James Sterling 出任公司財務長。",
-      "source": "Via Ritzau",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObDJOTmJlalBaN1F1anpxYUh4MmxOVVVSN0w3TVFoWDl4RHFLb1AyelJTdy1RM1BlN2l6b0Nnakx6ODh2NzREUVhTRmhjcHp3bFFJVHJpMXdMZHJ6TlVVNGQxVjhlTkprakdHR1gxWGZ6d3ZYanlMNVlYeE03cElBOVlJVURQSUZxZ0trQWNUZkExNE9MNUdyTm12SzJtdXBqbXhNdzRUbXZQRS05UXVOOUtEa0xPRzAxRWhmUms0Rk9pbmJmQUFEU0RaWWphbURJMFdtMWRnMGNFOW55WExv?oc=5",
       "lang": "zh-TW"
     }
   ]
