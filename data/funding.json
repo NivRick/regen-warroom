@@ -1,93 +1,109 @@
 {
   "module": "funding",
-  "updated": "2026-11-25T05:10:21.024264+00:00",
+  "updated": "2026-11-25T20:23:02.449469+00:00",
   "items": [
     {
-      "title": "STAT+: Pharmalittle: 我們正在關注賽諾菲收購Insmed、羅氏推銷乳癌藥物等新聞",
-      "summary": "法國藥廠賽諾菲（Sanofi）以410億美元大手筆收購生技公司Insmed，這項近年來最大的生醫併購案，將為賽諾",
+      "title": "BioNTech創辦人的癌症新創公司、葛蘭素史克（GSK）長效藥物等最新消息",
+      "summary": "BioNTech的共同創辦人正在洽談為一家新的癌症公司募資約10億美元。",
+      "source": "STAT News",
+      "date": "2026-11-25",
+      "url": "https://www.statnews.com/pharmalot/2026/11/25/biontech-founders-oncology-startup-gsk-egpa-drug-exdensur/?utm_campaign=rss",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "賽諾菲（Sanofi）收購Insmed",
+      "summary": "",
       "source": "STAT News",
       "date": "2026-11-24",
       "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
-      "summary": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
+      "title": "STAT+：賽諾菲以 41B 美元收購 Insmed，取得兩種肺部疾病藥物",
+      "summary": "賽諾菲 (Sanofi) 將以 410 億美元收購美國生物技術公司 Insmed，這筆巨額交易將為這家法國製藥公司帶來兩種新的核准藥物。",
       "source": "STAT News",
       "date": "2026-11-24",
       "url": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
-      "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
+      "title": "STAT+：醫療保險估計第三輪藥價談判可省 92 億美元",
+      "summary": "川普政府表示，透過價格談判，聯邦政府明年透過醫療保險購買的藥品將節省92億美元。",
       "source": "STAT News",
       "date": "2026-11-24",
       "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） approves BridgeBio muscular dystrophy drug",
-      "summary": "Wall Street analysts say a price of nearly $1 million a year should drive blockbuster sales for a medicine that helped patients walk and breathe better.",
+      "title": "美國食藥局（FDA） 批准 BridgeBio 肌肉營養​​不良症藥物",
+      "summary": "華爾街分析師表示，每年近 100 萬美元的價格應該會推動這種幫助患者更好地行走和呼吸的藥物的暢銷。",
       "source": "BioPharma Dive",
       "date": "2026-11-24",
       "url": "https://www.biopharmadive.com/news/fda-bridgebio-welgemda-limb-girdle-muscle-disorder-approval/875610/",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Limb-girdle muscular dystrophy gets its first 美國食藥局（FDA）-approved drug, from BridgeBio",
-      "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
+      "title": "美國食藥局（FDA） 核准羅氏口服 SERD 用於治療早期乳癌",
+      "summary": "最新的批准代表了羅氏這款藥物的巨大市場機會，該藥物已被羅氏吹捧為最暢銷的數十億美元產品。",
+      "source": "BioPharma Dive",
+      "date": "2026-11-24",
+      "url": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "賽諾菲砸410億美元收購Insmed，簽下今年最大生技製藥併購案",
+      "summary": "賽諾菲看好Insmed的產品線和兩款已上市藥物，表示這筆交易將具「轉型」意義，並能補足其現有業務。",
+      "source": "BioPharma Dive",
+      "date": "2026-11-24",
+      "url": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "STAT+：肢帶型肌肉營養不良症獲得 美國食藥局（FDA） 批准的第一種藥物，來自 BridgeBio",
+      "summary": "一種長期被忽視的肌肉營養不良症終於找到了第一種藥物，每年為 BridgeBio 帶來 10 億美元的收入。",
       "source": "STAT News",
       "date": "2026-11-23",
       "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
-      "summary": "The 美國食藥局（FDA） again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關 Capricor 的 Duchenne 藥物、禮來公司 2026 年第 15 次收購等信息",
+      "summary": "美國食藥局（FDA） 再次拒絕了 Capricor Therapeutics 備受爭議的實驗性杜氏肌肉營養不良症藥物",
       "source": "STAT News",
       "date": "2026-11-23",
       "url": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
-      "summary": "The acquisition hands Lilly what could become a first-of-its-kind treatment designed to inhibit a protein, &ldquo;MSH3,&rdquo; that can exacerbate the genetic abnormalities underlying diseases like Huntington's.",
+      "title": "禮來公司以 7.25 億美元收購亨廷頓藥物開發商 LoQus23",
+      "summary": "此次收購為禮來公司提供了一種首創的治療方法，旨在抑制蛋白質“MSH3”，這種蛋白質可以加劇亨廷頓舞蹈症等疾病的遺傳異常。",
       "source": "BioPharma Dive",
       "date": "2026-11-23",
       "url": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） again turns back Capricor Duchenne 細胞治療",
-      "summary": "In an unusual statement, the 美國食藥局（FDA） accused Capricor of &ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
+      "title": "Fierce Biotech 籌款追蹤 '26：Ritzey 透露 1.125 億美元； VitriVax 營收 8,700 萬美元",
+      "summary": "Ritzey 透露 1.125 億美元； VitriVax 獲得 8,700 萬美元的資金 Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "2026-11-23",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 再次拒絕 Capricor Duchenne 細胞療法",
+      "summary": "美國食藥局（FDA） 在一份不同尋常的聲明中指責 Capricor “嚴重違反資料完整性”，損害了其研究結果，並導致 deramiocel 自 2025 年以來第二次被拒絕。",
       "source": "BioPharma Dive",
       "date": "2026-11-21",
       "url": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
       "lang": "zh-TW"
     },
     {
-      "title": "Celldex 濕疹藥物踢到鐵板；表觀遺傳編輯新創公司裁員",
-      "summary": "Celldex 的濕疹藥物遭遇挫折後，華爾街分析師紛紛出面力挺。同時，Isomorphic Labs 也與默克（Merck）和梯瓦（Teva）達成一項專注於癌症的合作協議。",
-      "source": "BioPharma Dive",
-      "date": "2026-11-20",
-      "url": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "本週圖表觀察：生技投資人對中國的押注已開始見效",
-      "summary": "今年，以中國藥物為核心的公司正加速進行併購或首次公開募股（IPO）。與此同時，Summit 已不再是華爾街的寵兒。",
-      "source": "BioPharma Dive",
-      "date": "2026-11-20",
-      "url": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "TreeFrog Therapeutics 任命 James Sterling 為財務長",
-      "summary": "生技公司 TreeFrog Therapeutics 宣布，已任命 James Sterling 擔任公司財務長（CFO），負責掌管財務營運與策略規劃。",
-      "source": "Via Ritzau",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObDJOTmJlalBaN1F1anpxYUh4MmxOVVVSN0w3TVFoWDl4RHFLb1AyelJTdy1RM1BlN2l6b0Nnakx6ODh2NzREUVhTRmhjcHp3bFFJVHJpMXdMZHJ6TlVVNGQxVjhlTkprakdHR1gxWGZ6d3ZYanlMNVlYeE03cElBOVlJVURQSUZxZ0trQWNUZkExNE9MNUdyTm12SzJtdXBqbXhNdzRUbXZQRS05UXVOOUtEa0xPRzAxRWhmUms0Rk9pbmJmQUFEU0RaWWphbURJMFdtMWRnMGNFOW55WExv?oc=5",
+      "title": "Aspen Neuroscience 申請 1.345 億美元 首次公開上市（IPO）",
+      "summary": "",
+      "source": "GenomeWeb",
+      "date": "2026-10-27",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUF8xWlNVeHpYd25VOEVwdU5JekI0NlQ3Znh5d05TLXRONlQwOHVXeEp3dmxLd3hoLWplUERWN3A2V09POVB0VG9zOUpRd3NQZnJfYnNaX29DQ25iYms4akVHbHI4TnhYaEt0anNBTHIwUU1nMHJLSGRvRm01cFF4MmZja05JQkEyY2I5OC1PSThkaG1mcU53MVoxLWhZeGVYRmJ6M1lrVWkyTGtWcGc?oc=5",
       "lang": "zh-TW"
     }
   ]

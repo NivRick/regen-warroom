@@ -1,109 +1,101 @@
 {
   "module": "regulation",
-  "updated": "2026-11-25T05:09:49.081860+00:00",
+  "updated": "2026-11-25T20:22:12.187992+00:00",
   "items": [
     {
-      "title": "Finding Your Support Team While Participating in a 臨床試驗",
-      "summary": "The 美國食藥局（FDA）’s Center for Biologics Evaluation and Research (CBER), Office of Therapeutic Products (OTP) is hosting a public virtual webinar on Wednesday, October 30th from 12:00 p.m. – 1:15 p.m. ET.",
+      "title": "FDA CBER 網路研討會：納入人類基因組編輯的人類基因療法產品",
+      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）的治療產品辦公室（OTP）將於週四舉辦一場線上公開網路研討會。",
+      "source": "02/29/2024",
+      "date": "2026-11-25",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-cber-webinar-human-gene-therapy-products-incorporating-human-genome-editing-02292024",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） CBER 網路研討會：開發 CAR-T細胞療法 細胞產品的注意事項",
+      "summary": "美國食藥局（FDA） 生物製品評估和研究中心 (CBER) 治療產品辦公室 (OTP) 將於 3 月 7 日星期四下午 1:00 舉辦虛擬公共網路研討會。",
+      "source": "03/07/2024",
+      "date": "2026-11-25",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-cber-webinar-considerations-development-car-t-cell-products-03072024",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "美國食藥局（FDA） 藥房學生體驗計劃",
+      "summary": "該課程提供了了解 美國食藥局（FDA） 解決涉及藥物、生物製劑和醫療器材的公共衛生問題的多學科流程的機會。參加 m 的藥學學生獲得 k",
+      "source": "FDA Biologics",
+      "date": "2026-11-25",
+      "url": "http://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "亞洲細胞與基因療法（CGT）製造成功關鍵：標準化與彈性",
+      "summary": "亞洲的細胞與基因療法（CGT）研發管線快速擴張，但該地區法規、製造和供應鏈分散，帶來獨特挑戰。",
+      "source": "GEN News",
+      "date": "2026-11-25",
+      "url": "https://www.genengnews.com/topics/bioprocessing/cgt-manufacturing-success-in-asia-requires-standardization-and-flexibility/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "參與臨床試驗時尋找您的支援團隊",
+      "summary": "美國食藥局（FDA） 生物製品評估和研究中心 (CBER) 治療產品辦公室 (OTP) 將於 10 月 30 日星期三中午 12:00 舉辦公共虛擬網路研討會。 – 下午 1:15等。",
       "source": "10/30/2024",
       "date": "2026-11-24",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/finding-your-support-team-while-participating-clinical-trial-10302024",
       "lang": "zh-TW"
     },
     {
-      "title": "Biologics PREA Reviews and Labeling Changes",
-      "summary": "PREA Labeling Changes, Medical, Statistical, and Clinical Pharmacology Reviews of Pediatric Studies Conducted under Section 505B of the Federal Food, Drug, and Cosmetic Act (the Act), as amended by the 美國食藥局（FDA） Amendments Act of 2007 (FDAAA). These assess",
+      "title": "生物製品 PREA 審查和標籤變更",
+      "summary": "PREA 標籤變更以及兒科研究的醫學、統計和臨床藥理學審查根據《聯邦食品、藥品和化妝品法案》（《法案》）第 505B 條（經 2007 年 美國食藥局（FDA） 修正案法案 (FDAAAA) 修訂）進行。這些評估",
       "source": "FDA Biologics",
       "date": "2026-11-23",
       "url": "http://www.fda.gov/about-fda/center-biologics-evaluation-and-research-cber/biologics-prea-reviews-and-labeling-changes",
       "lang": "zh-TW"
     },
     {
-      "title": "What’s New for Biologics",
-      "summary": "Latest news from the Center for Biologics Evaluation and Research",
+      "title": "生物製品的新動態",
+      "summary": "生物製品評估與研究中心的最新消息",
       "source": "FDA Biologics",
       "date": "2026-11-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
       "lang": "zh-TW"
     },
     {
-      "title": "Statement on Deramiocel BLA for Duchenne Muscular Dystrophy",
-      "summary": "美國食藥局（FDA） determined that the available evidence does not meet the evidentiary standard required for approval",
+      "title": "關於 Deramiocel BLA 治療杜氏肌肉營養不良症的聲明",
+      "summary": "美國食藥局（FDA） 確定現有證據不符合核准所需的證據標準",
       "source": "FDA Biologics",
       "date": "2026-11-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy",
       "lang": "zh-TW"
     },
     {
-      "title": "Immune Aging Study in Mice Reveals Clues to T Cell Dysfunction and Cancer Development",
-      "summary": "Age-related changes in CD8+ T cells may hold important clues to understanding cancer immunity, with new findings revealing distinct chromatin signatures of dysfunction and the emergence of a unique regulatory population. The post  to T Cell Dysfuncti",
-      "source": "GEN News",
-      "date": "2026-11-20",
-      "url": "https://www.genengnews.com/topics/cancer/immune-aging-study-in-mice-reveals-clues-to-t-cell-dysfunction-and-cancer-development/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Cellular & 基因療法 Guidances",
-      "summary": "This page contains a listing of cellular and 基因療法 guidances.",
-      "source": "FDA Biologics",
-      "date": "2026-11-19",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Biologics Procedures (SOPPs)",
-      "summary": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in 美國食藥局（FDA）'s Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as t",
-      "source": "FDA Biologics",
-      "date": "2026-11-19",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Transfer of a Premarket Notification (510(k)) Clearance – Questions and Answers",
-      "summary": "This guidance provides information on the most frequently asked questions regarding transfer of ownership from one 510(k) holder to another.",
-      "source": "FDA Biologics",
-      "date": "2026-11-19",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/transfer-premarket-notification-510k-clearance-questions-and-answers",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "AGC Biologics Welcomes Multiple 細胞治療 Projects to New Yokohama Site",
-      "summary": "rapy Projects to New Yokohama Site GlobeNewswire",
+      "title": "AGC Biologics橫濱新廠迎來多個細胞治療專案",
+      "summary": "AGC Biologics橫濱新廠啟用，將承接多項細胞治療專案。",
       "source": "GlobeNewswire",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVRrQUxyTUlDYm9MNVRSdVExOHJGNU9jNmVDWVFycThtdXRPcVYyRWwyQjNVcFA4cGd0TkQyUUVZRWpaZjZSeUhpeF82Z3M5QTlHR2NsZEFmRUpIdzFwMDh6SkpBV3NJakVRVUM4SHNnNGc3NU9leE9pLURXc2ZXM3Q5b05XQzV1WjVDSzVCVzlWVWoyMngyeUlaN0ZfQ0lDT1RVa2ZiOWNJVGN2WW4tblFJVUt2R2pkMG5tQUNCVmtYWmlBdThwNFdHV1BPVVRqRXFBdEthcnhPdWhqZ0FZ?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "AGC Biologics Welcomes Multiple 細胞治療 Projects at Its New Yokohama Facility",
-      "summary": "rapy Projects at Its New Yokohama Facility Market.us",
-      "source": "Market.us",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUFDc2VfU2FHME5mSW53MXc0LWpkN05XSnlwUy1neDJCNnFXMHdVTVhnR0NZZFFYSXQwVnEweWp0RXFXa0l5cHJUSkdkdkdqa2k0dnRsOU1XVnZsMkt0ald6SmdrY1IyM2ZydWRUMTRVdGlnZUpTQUdmMTltZTdVUGRyODh5Qmo3cFFyVnBsMU44RlBPaVJWNDBNV2h0YmxSWVlndUl1TEE5QXQ3aDlIajdRWmhvQQ?oc=5",
+      "title": "2026 年亞太地區首次獲準：完整列表",
+      "summary": "",
+      "source": "BioPharma APAC",
+      "date": "2026-11-14",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1ltc3VBRGl0ODljazdpWDVhSnl6dEJrUldGOF9JMURpaUZjejJ3eXRmcnpEY2JDU2Vjb1YweVVhSldEWGl6QlRxSEdVdmNMeVYxeWNiV1hzZnFzSXBNVkU4MkF0a0liTkVtcVoyR3prUllwVjRTQTFWYlBOeTBSRm1fQWFfUTBCV0NXSnFmbkZqSF9kU3Y2aF9Qbw?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia reports Q3FY26 loss of $1.9 million, advances Japan 日本藥品局（PMDA） path",
-      "summary": "llion, advances Japan 日本藥品局（PMDA） path scanx.trade",
+      "title": "BioCardia公布2026財年第三季虧損190萬美元，日本PMDA進度持續推進",
+      "summary": "BioCardia雖虧損190萬美元，但在日本醫藥品醫療機器綜合機構（PMDA）的進度仍有斬獲。",
       "source": "scanx.trade",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFRqekpOQ1dDckkxTHJNai1UOVJVbE5zNmlhdGp4OEwxeXZlTTdkSWk3Q1FmVlA3OERmNUo3aEVMMnV6b3IxQjdBUEFqWUdxYmRIdDN4eGVPLUdiR1ZEdGhsYzFsUjNjRnNsdDktTHI1QW83WkRNWFFndmVuRmoxOXlvanJEVUpCSFJET1Q3a2FqdmtyMmtESHdxQUtDc05QNTJMSHRn?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia's CardiAMP Completes Japan Pre-Market Consultation, First Cardiac 細胞治療 to Do So",
-      "summary": "Market Consultation, First Cardiac 細胞治療 to Do So Tech Times",
+      "title": "BioCardia的CardiAMP完成日本上市前諮詢，成為首個心臟細胞療法",
+      "summary": "BioCardia的心臟細胞療法CardiAMP在日本完成上市前諮詢，創下首例。",
       "source": "Tech Times",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "BioCardia completes 日本藥品局（PMDA） process for CardiAMP in Japan",
-      "summary": "diAMP in Japan scanx.trade",
-      "source": "scanx.trade",
-      "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1JTb0gxUVd5eEhwUUI3OFloZFFKMTM3X2dhV1VQbzhDSm5FRzBnM0hWSWtEd0ZpekNZVHAzLVM3YXMtSE02ZV9Ca2lERXRIa2R6ZmdINUhfdTRRRUxqMklTX2gtWlllRmhxWEZpTHR2QnNCaF9RLS1ZNHp3b0ZkUG1LQ183c05hY1lMbFZNZGI4YmRTOWhSWEVKaFBlbDZVcDhhOG5lOA?oc=5",
       "lang": "zh-TW"
     }
   ]
