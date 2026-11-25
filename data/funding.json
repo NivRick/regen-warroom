@@ -1,10 +1,10 @@
 {
   "module": "funding",
-  "updated": "2026-11-24T20:59:30.868189+00:00",
+  "updated": "2026-11-25T05:10:21.024264+00:00",
   "items": [
     {
-      "title": "STAT+：藥業小道消息：賽諾菲收購Insmed、羅氏力推乳癌口服藥等",
-      "summary": "賽諾菲（Sanofi）以410億美元收購生技公司Insmed，這是近年來生技製藥業最大規模的併購案，將為這家法國藥",
+      "title": "STAT+: Pharmalittle: 我們正在關注賽諾菲收購Insmed、羅氏推銷乳癌藥物等新聞",
+      "summary": "法國藥廠賽諾菲（Sanofi）以410億美元大手筆收購生技公司Insmed，這項近年來最大的生醫併購案，將為賽諾",
       "source": "STAT News",
       "date": "2026-11-24",
       "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
@@ -35,22 +35,6 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） clears Roche’s oral SERD as treatment in early-stage breast cancer",
-      "summary": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product.",
-      "source": "BioPharma Dive",
-      "date": "2026-11-24",
-      "url": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
-      "summary": "Pointing to Insmed&rsquo;s pipeline and two commercial drugs, Sanofi said the deal will be &ldquo;transformative&rdquo; as well as complementary to its immunology and rare disease products.",
-      "source": "BioPharma Dive",
-      "date": "2026-11-24",
-      "url": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
-      "lang": "zh-TW"
-    },
-    {
       "title": "STAT+: Limb-girdle muscular dystrophy gets its first 美國食藥局（FDA）-approved drug, from BridgeBio",
       "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
       "source": "STAT News",
@@ -67,51 +51,43 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Lilly 斥資最高 7.25 億美元收購亨丁頓氏症藥物開發商 LoQus23",
-      "summary": "這項收購讓禮來（Lilly）獲得一種潛在的創新療法，旨在抑制可能加劇亨丁頓氏症的 MSH3 蛋白。",
+      "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
+      "summary": "The acquisition hands Lilly what could become a first-of-its-kind treatment designed to inhibit a protein, &ldquo;MSH3,&rdquo; that can exacerbate the genetic abnormalities underlying diseases like Huntington's.",
       "source": "BioPharma Dive",
       "date": "2026-11-23",
       "url": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
       "lang": "zh-TW"
     },
     {
-      "title": "美國 FDA 再度駁回 Capricor 杜氏肌肉失養症細胞療法",
-      "summary": "美國 FDA 發布罕見聲明，指控 Capricor 存在「嚴重數據完整性違規」，損害了其研究結果，並導致藥證申請被拒。",
+      "title": "美國食藥局（FDA） again turns back Capricor Duchenne 細胞治療",
+      "summary": "In an unusual statement, the 美國食藥局（FDA） accused Capricor of &ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
       "source": "BioPharma Dive",
       "date": "2026-11-21",
       "url": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
       "lang": "zh-TW"
     },
     {
-      "title": "Celldex 濕疹藥物臨床失利；表觀遺傳編輯新創公司裁員",
-      "summary": "儘管 Celldex 遭遇挫折，華爾街分析師仍力挺該公司。同時，Isomorphic Labs 與默克（Merck）和梯瓦（Teva）達成癌症藥物合作協議。",
+      "title": "Celldex 濕疹藥物踢到鐵板；表觀遺傳編輯新創公司裁員",
+      "summary": "Celldex 的濕疹藥物遭遇挫折後，華爾街分析師紛紛出面力挺。同時，Isomorphic Labs 也與默克（Merck）和梯瓦（Teva）達成一項專注於癌症的合作協議。",
       "source": "BioPharma Dive",
       "date": "2026-11-20",
       "url": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
       "lang": "zh-TW"
     },
     {
+      "title": "本週圖表觀察：生技投資人對中國的押注已開始見效",
+      "summary": "今年，以中國藥物為核心的公司正加速進行併購或首次公開募股（IPO）。與此同時，Summit 已不再是華爾街的寵兒。",
+      "source": "BioPharma Dive",
+      "date": "2026-11-20",
+      "url": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
+      "lang": "zh-TW"
+    },
+    {
       "title": "TreeFrog Therapeutics 任命 James Sterling 為財務長",
-      "summary": "TreeFrog Therapeutics 宣布 James Sterling 出任公司財務長，負責財務策略與營運。",
+      "summary": "生技公司 TreeFrog Therapeutics 宣布，已任命 James Sterling 擔任公司財務長（CFO），負責掌管財務營運與策略規劃。",
       "source": "Via Ritzau",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObDJOTmJlalBaN1F1anpxYUh4MmxOVVVSN0w3TVFoWDl4RHFLb1AyelJTdy1RM1BlN2l6b0Nnakx6ODh2NzREUVhTRmhjcHp3bFFJVHJpMXdMZHJ6TlVVNGQxVjhlTkprakdHR1gxWGZ6d3ZYanlMNVlYeE03cElBOVlJVURQSUZxZ0trQWNUZkExNE9MNUdyTm12SzJtdXBqbXhNdzRUbXZQRS05UXVOOUtEa0xPRzAxRWhmUms0Rk9pbmJmQUFEU0RaWWphbURJMFdtMWRnMGNFOW55WExv?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "法國仍是歐洲領先的生技募資中心之一",
-      "summary": "法國在歐洲生技產業的募資表現亮眼，持續扮演關鍵角色。",
-      "source": "PharmTech.com",
-      "date": "2026-11-10",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0N4ZEM3M2p5WTNNbm9xcVNWaW9JdEYtZkFjZmtiNFRDbWdyMlZZYnZacWg4blNUZDFtSW1USmp0bGRTVE5NVlktRXN6Z1N3VGZkNDU0XzctbjdGX3JldlktY2h1SkNnaHIzZXpTU2VJdHgyRE5HNXctbktfQ29tb2w5MmFLeW4xSXB3QlRWNUtuX2Rx?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "這 10 家法國生技新創公司有望形塑未來醫學",
-      "summary": "法國有 10 家生技新創公司，其創新技術與產品潛力，將對未來醫療發展產生深遠影響。",
-      "source": "Labiotech.eu",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
       "lang": "zh-TW"
     }
   ]
