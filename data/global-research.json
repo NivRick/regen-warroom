@@ -1,18 +1,18 @@
 {
   "module": "research",
-  "updated": "2026-11-26T04:35:24.902987+00:00",
+  "updated": "2026-11-26T19:56:50.498815+00:00",
   "items": [
     {
-      "title": "現代生醫研究的細胞分析：從傳統方法到AI驅動的高內涵分析",
-      "summary": "體外細胞分析是生醫研究的基礎工具，能協助探討細胞生理學、疾病機制及藥物開發。",
+      "title": "生醫研究的現代細胞分析技術：從傳統方法到AI驅動的高內涵分析",
+      "summary": "體外細胞分析技術是生醫研究的基礎工具，協助探索細胞生理學、疾病機制與藥物開發。",
       "source": "PubMed",
       "date": "2026-11-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43061281/",
       "lang": "zh-TW"
     },
     {
-      "title": "類器官運算的基準測試框架",
-      "summary": "類器官運算",
+      "title": "類器官運算的基準評估框架",
+      "summary": "類",
       "source": "PubMed",
       "date": "2026-11-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43034668/",
@@ -67,15 +67,15 @@
       "lang": "zh-TW"
     },
     {
-      "title": "生命週期組織工程：AI賦能多模態感測與數位分身發展藍圖",
-      "summary": "組織工程（TE）的臨床應用，因缺乏全程即時、非侵入性的監測技術，而受到嚴重阻礙。",
+      "title": "全生命週期組織工程：結合AI多模態感測與數位分身的發展藍圖",
+      "summary": "組織工程（TE）的臨床應用，目前嚴重受限於缺乏全程即時、非侵入性的監測技術。",
       "source": "PubMed",
       "date": "2026-11-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42992015/",
       "lang": "zh-TW"
     },
     {
-      "title": "長鏈單股DNA的生產、純化與",
+      "title": "長鏈單股DNA的生產、純化與應用研究",
       "summary": "",
       "source": "PubMed",
       "date": "2026-11-26",
@@ -96,6 +96,14 @@
       "source": "PubMed",
       "date": "2026-11-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42962354/",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Rebooting immunity: how 幹細胞 therapy is rewriting the future of autoimmune thyroid disease.",
+      "summary": "Autoimmune thyroid diseases (AITDs), including Hashimoto's thyroiditis and Graves' disease, are the most prevalent organ-specific autoimmune disorders worldwide. Current management remains symptomatic rather than curative, often necessitating lifelong therapy. This narrative review integrates AITD-s...",
+      "source": "PubMed",
+      "date": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43095746/",
       "lang": "zh-TW"
     },
     {
@@ -123,16 +131,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Microbial metabolites and MAMPs: orchestrators of intestinal 幹細胞 function.",
-      "summary": "Intestinal 幹細胞 (ISCs) are essential for maintaining and regenerating the intestinal epithelium. Recent studies have highlighted the critical role of the gut microbiota in regulating ISC function through diverse molecular signals, particularly microbial metabolites and microbe-associated molec...",
+      "title": "微生物代謝物與MAMPs：腸道幹細胞功能的關鍵調控者。",
+      "summary": "腸道幹細胞（ISCs）對維持與再生腸道上皮至關重要。最新研究指出，微生物代謝物與MAMPs在調控腸道幹細胞功能上扮演關鍵角色。",
       "source": "PubMed",
       "date": "2026-11-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42978537/",
       "lang": "zh-TW"
     },
     {
-      "title": "膠質母細胞瘤（GB）中，適應性激酶訊號傳導如何讓癌細胞逃脫小分子抑制劑治療",
-      "summary": "儘管膠質母細胞瘤（GB）患者接受了手術切除、放射治療和化學治療等密集治療，但其中位數存活期仍僅有",
+      "title": "Adaptive kinase signaling enables escape from small molecule inhibition in glioblastoma.",
+      "summary": "Patients with glioblastoma (GB) have a median survival of 15 months, despite intensive treatment with surgical resection, radiotherapy, and chemotherapy. A major challenge in overcoming treatment resistance is intratumoral heterogeneity, characterized by molecular, phenotypic, and clinical diversity...",
       "source": "PubMed",
       "date": "2026-11-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975206/",
@@ -144,14 +152,6 @@
       "source": "PubMed",
       "date": "2026-11-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43066174/",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "Cellular morphology emerges from polygenic, distributed transcriptional variation.",
-      "summary": "Height and disease risk are canonical polygenic traits, but whether an analogous architecture governs cellular phenotypes remains unclear. Here, we show that cellular morphology behaves as a polygenic systems phenotype by integrating cross-modal modeling, perturbation profiling, and human genetic va...",
-      "source": "PubMed",
-      "date": "2026-11-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43061283/",
       "lang": "zh-TW"
     },
     {
@@ -171,8 +171,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[NA] Monitoring for CardioToxicity Using WeArable deVices While Undergoing cancEr Treatments (MCT-WAVE)",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：University of Minnesota｜This pilot study will evaluate the validity and feasibility of ambulatory cardiac monitoring to identify markers of cardiotoxicity in adults undergoing cancer treatment.\n\nParticipants with breast cancer, hematologic malignancy, or multiple myeloma wi",
+      "title": "癌症治療期間使用穿戴式裝置監測心臟毒性（MCT-WAVE）",
+      "summary": "這項先導性研究將評估在癌症治療期間，使用穿戴式裝置進行動態心臟監測，以早期發現心臟毒性的有效性與可行性。目標是提升病患安全，並",
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-11-26",
       "url": "https://clinicaltrials.gov/study/NCT07776964",
@@ -235,8 +235,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[PHASE1] Locoregional or Systemic Administration of 自體（取自患者本人） Tumor Infiltrating Lymphocytes in Patients With Metastatic Melanoma",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Vastra Gotaland Region｜The purpose of this study is to evaluate the feasibility, safety and tolerability of locoregional or systemic administration of 自體（取自患者本人） tumor infiltrating lymphocytes in patients with metastatic melanoma",
+      "title": "第一",
+      "summary": "",
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-11-26",
       "url": "https://clinicaltrials.gov/study/NCT07183852",
@@ -267,24 +267,40 @@
       "lang": "zh-TW"
     },
     {
-      "title": "LeukO 2026：Khaoula Mazouzi談B細胞急性淋巴性白血病（B-ALL）的嵌合抗原受體T細胞療法（CAR-T）與關鍵移植議題",
-      "summary": "LeukO 2026會議探討B細胞急性淋巴性白血病（B-ALL）的CAR-T療法，並聚焦移植的關鍵挑戰。",
+      "title": "ESMO 2026 Trials Demonstrate Major Survival Gains Across Diverse Solid Tumours",
+      "summary": "val Gains Across Diverse Solid Tumours Bioengineer.org",
+      "source": "Bioengineer.org",
+      "date": "2026-11-26",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmd6Umx2bXRZaVZwUExiRE91VjFiWmVBTFpjNG0wX0ZCdHR2QXV4RzhMVEVQX2xxcWRfXzQwNmNDaU1feVJPT1Y3NG1Obi1YaHllV3BmZVNEUEN5bTZTcTlpdmQwYm5SaFBWTmFmQkRpYWFQeDliT3NLVmpaUzV1ZjBtVVhDV09KRFMxYWpjenBhSTducTVYZVA1WXBaM1BNY3BTY0FB?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Investigating Interneuron 細胞治療 Rezanecel for Drug-Resistant Mesial Temporal Lobe Epilepsy: The 第三期試驗 EPIC Trial",
+      "summary": "ezanecel for Drug-Resistant Mesial Temporal Lobe Epilepsy: The 第三期試驗 EPIC Trial NeurologyLive",
+      "source": "NeurologyLive",
+      "date": "2026-11-25",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUktGR3FjWF90NVgtQmNRYVpLV0hpZVd3UzB4bTBWVFhVRHp6NmhGSU5pQXh3d3ZXTjMzQ2t2VDg1dVZ5VWxmZU9oY3lXWExMQ0hwZDZxZWg4TTRtTG9LNk9rejV0ck9GRklNUXE1akJyZkl2M3FkclVzUTM3NzJpMWRBVEdqd1RobkdibW44eGt1M0NTTVpXRXpjdFFhc2o3TmJGaU9fVGl0VnpaemdzVDJubnNld0N2RzIwbEZhVDFvUVpxT201X0hhLTRoLVQ0Y2pFeW1TN3JoTXJ4TDlLaw?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "Khaoula Mazouzi at LeukO 2026: CAR-T細胞療法 Therapy in B-ALL and the Critical Transplant Question",
+      "summary": "rapy in B-ALL and the Critical Transplant Question Oncodaily",
       "source": "Oncodaily",
       "date": "2026-11-25",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ic1h0QUR3Q2xqWV9VRUNDZEhWb1hsbWtJWlpFSlVPbDdMaXVGdHYwY01vc0lmeTg0SzBnNFBNd0o1dGtZUWhRNUR6WWZHMUlwbFZVSDFpdTJxdUxNRGtJczBXUk4?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "Daraxonrasib for Pancreatic Cancer: What Patients Need to Know About 美國食藥局（FDA） Approval and Latest 臨床試驗",
-      "summary": "Patients Need to Know About 美國食藥局（FDA） Approval and Latest 臨床試驗 Memorial Sloan Kettering Cancer Center",
+      "title": "Daraxonrasib 治療胰臟癌：病患應了解的美國食品藥物管理局（FDA）核准與最新臨床試驗進展",
+      "summary": "紀念斯隆凱特林癌症中心（MSK）指出，病患應了解美國食品藥物管理局（FDA）的核准狀況與最新的臨床試驗進",
       "source": "Memorial Sloan Kettering Cancer Center",
       "date": "2026-11-23",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVW44aHFtT0xweVk4WjItWElHNnA4RU1EbFBUUmZhTGEyakJFRGtpdVlLQmprQVFzeTNlZ2hURzFMV2ZNZjkzd25PRGk3MWdLdXhxaXRWRDdoM2VLTS1VWm1FQjRpSDRPQ2NuM2dkRklaQnY5N1RKQTZtNjF2Y0ZxVXE1T0E4bHZoamZuSmc3dWxhcWVDMlJQMUxoOWZMVXNrUFQ1QXBB?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "新型細胞治療在自體免疫疾病展現令人鼓舞的安全性",
-      "summary": "一項新型細胞治療在自體免疫疾病的臨床試驗中，展現了令人振奮的安全性數據。",
+      "title": "New 細胞治療 shows encouraging safety in autoimmune diseases",
+      "summary": "y in autoimmune diseases ANCA Vasculitis News",
       "source": "ANCA Vasculitis News",
       "date": "2026-11-16",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0E5dGhQeUY0bzFUdW0xRlE2Nm1ZMmNBMmxDQjVsQVRWbkFEZzA5aHZfQVAxTG9yeXJLTGVaZHZjU0JPUFRuYlowZUdSVjU3WmJLbEJacTZ6cThVYmRqZG5GSExQcDgxSnV2YlN3TzNYWjdKRE5tWVN6b00wZFRfeUlRcjNWMzcyUGhYRm42SmMtU0dKXzltMHptRk1odw?oc=5",
@@ -296,14 +312,6 @@
       "source": "ClinicalTrials.gov｜United States",
       "date": "2026-11-13",
       "url": "https://clinicaltrials.gov/study/NCT07935889",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "漸凍症（ALS）研究與臨床試驗的最新進展是什麼？",
-      "summary": "本文將深入探討漸凍症（ALS）的最新研究成果與臨床試驗進展，提供全面更新。",
-      "source": "Mass General Brigham",
-      "date": "2026-11-11",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOEJ6NlNTcjl6d3hCM19OTkpNb0t6RDhTTUJsejkyWXFNOVBuVWw4NXBTNGZTQm9tMWlZazFON1RZSDJQcGx5d09YQktZOUk1OWNXall4R29FWDRDZHMxNzJxTXlpdzRPS3JybXR2azNGd1k2ZWFFVjNHQXdHSTMwdEpZUzQ4NEpndG5NUVoxbWd5X0NXRzE4VUhIQWFYTXloS3N3MUQ3Qk5zdw?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -331,8 +339,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "[N/A] 異體（取自捐贈者） iNKT Cells in AS: Immune Remodeling Study",
-      "summary": "狀態：NOT_YET_RECRUITING｜主辦：Chinese PLA General Hospital｜This study observes patients with ankylosing spondylitis (AS) who are receiving, or have received, multiple infusions of 異體（取自捐贈者） invariant natural killer T (iNKT) cells as a treatment. 異體（取自捐贈者） iNKT cells are immune cells taken from a healthy do",
+      "title": "異體iNKT細胞治療僵直性脊椎炎：免疫重塑研究",
+      "summary": "中國人民解放軍總醫院啟動一項異體iNKT細胞治療僵直性脊椎炎（AS）的免疫重塑研究，目前尚未開始招募受試者。",
       "source": "ClinicalTrials.gov｜China",
       "date": "2026-11",
       "url": "https://clinicaltrials.gov/study/NCT07951632",
@@ -344,6 +352,14 @@
       "source": "ClinicalTrials.gov｜Global",
       "date": "2026-11",
       "url": "https://clinicaltrials.gov/study/NCT06797583",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "New Colorectal Cancer Treatments at MSK Aim To Reduce Deaths and Preserve Quality of Life",
+      "summary": "Aim To Reduce Deaths and Preserve Quality of Life Memorial Sloan Kettering Cancer Center",
+      "source": "Memorial Sloan Kettering Cancer Center",
+      "date": "2026-10-29",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYm44bWNwbDFFMlJJX0FmV0NpSndsZW5jMmRUOF9JMWQ2MnVHUkF0dEdDRGZIU0FqZUR4TkpUbFBGQTN5NFBfUTRIZV8zellfVTJaVjRRcmdkU1dHTVdjR0NyTklmMVNMTktYN0ttOExKUWZndXFNS1FXZUVuNjd2RVJ6ZDRScnB3QmxtRmEzNTBIVHdDbWtYaUgyWEFiVXNkY2hHRTdYZGk3QQ?oc=5",
       "lang": "zh-TW"
     }
   ]

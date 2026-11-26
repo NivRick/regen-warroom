@@ -1,17 +1,17 @@
 {
   "module": "funding",
-  "updated": "2026-11-26T04:36:34.909522+00:00",
+  "updated": "2026-11-26T19:58:05.313703+00:00",
   "items": [
     {
-      "title": "STAT+: 我們正在關注BioNTech創辦人的癌症新創公司、葛蘭素史克（GSK）的長效藥物等消息",
-      "summary": "BioNTech共同創辦人正洽談為一家新的癌症公司募資約10億美元。",
+      "title": "BioNTech創辦人新創腫瘤公司、葛蘭素史克（GSK）長效藥物等最新消息",
+      "summary": "BioNTech的共同創辦人正洽談為其新的腫瘤學公司募資約10億美元。",
       "source": "STAT News",
       "date": "2026-11-25",
       "url": "https://www.statnews.com/pharmalot/2026/11/25/biontech-founders-oncology-startup-gsk-egpa-drug-exdensur/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Pharmalittle",
+      "title": "賽諾菲（Sanofi",
       "summary": "",
       "source": "STAT News",
       "date": "2026-11-24",
@@ -59,24 +59,16 @@
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Limb-girdle muscular dystrophy gets its first 美國食藥局（FDA）-approved drug, from BridgeBio",
-      "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
-      "source": "STAT News",
-      "date": "2026-11-23",
-      "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "禮來收購亨丁頓氏症藥物開發商LoQus23，潛在交易金額達7.25億美元",
-      "summary": "這次收購讓禮來獲得一款可能成為首創的療法，旨在抑制一種名為「MSH3」的蛋白質，該蛋白質可能加劇疾病惡化。",
+      "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
+      "summary": "The acquisition hands Lilly what could become a first-of-its-kind treatment designed to inhibit a protein, &ldquo;MSH3,&rdquo; that can exacerbate the genetic abnormalities underlying diseases like Huntington's.",
       "source": "BioPharma Dive",
       "date": "2026-11-23",
       "url": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech Fundraising Tracker '26: Ritzey reveals $112.5M; VitriVax scores $87M",
-      "summary": "Ritzey reveals $112.5M; VitriVax scores $87M Fierce Biotech",
+      "title": "Fierce Biotech募資追",
+      "summary": "",
       "source": "Fierce Biotech",
       "date": "2026-11-23",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
@@ -91,8 +83,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） again turns back Capricor Duchenne 細胞治療",
-      "summary": "In an unusual statement, the 美國食藥局（FDA） accused Capricor of &ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
+      "title": "Capricor杜氏肌肉失養症細胞療法，FDA再次說不",
+      "summary": "美國食品藥物管理局（FDA）罕見地指控Capricor公司在杜氏肌肉失養症細胞療法的臨床試驗中，存在「嚴重數據完整性違規」，導致研究結果受到質疑，並再次駁回其藥物申請。",
       "source": "BioPharma Dive",
       "date": "2026-11-21",
       "url": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",

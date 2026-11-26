@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-11-26T04:35:58.534205+00:00",
+  "updated": "2026-11-26T19:57:30.746183+00:00",
   "items": [
     {
-      "title": "美國食藥局（FDA） CBER Webinar: Human 基因療法 Products Incorporating Human Genome Editing",
-      "summary": "The 美國食藥局（FDA） Center for Biologics Evaluation and Research (CBER) Office of Therapeutic Products (OTP) is hosting a virtual public webinar on Thursday, February 29 at 1:00 pm.",
+      "title": "美國FDA CBER網路研討會：納入人類基因編輯的基因療法產品",
+      "summary": "美國FDA生物製品評估與研究中心（CBER）的治療產品辦公室（OTP）將舉辦一場線上公開研討會，討論納入人類基因編輯的基因療法產品。",
       "source": "02/29/2024",
       "date": "2026-11-25",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-cber-webinar-human-gene-therapy-products-incorporating-human-genome-editing-02292024",
@@ -27,8 +27,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "CGT Manufacturing Success in Asia Requires Standardization and Flexibility",
-      "summary": "Asia's CGT therapy pipeline is expanding rapidly, but the region's fragmented regulatory, manufacturing, and supply-chain landscape creates a distinctive challenge: how to build processes that are standardized enough to be reproducible. The post es S",
+      "title": "亞洲細胞與基因療法（CGT）製造成功關鍵：標準化與彈性",
+      "summary": "亞洲的細胞與基因療法（CGT）研發管線正快速擴張，但該地區分散的法規、製造和供應鏈環境，帶來了獨特的挑戰。",
       "source": "GEN News",
       "date": "2026-11-25",
       "url": "https://www.genengnews.com/topics/bioprocessing/cgt-manufacturing-success-in-asia-requires-standardization-and-flexibility/",
@@ -67,26 +67,11 @@
       "lang": "zh-TW"
     },
     {
-      "title": "再生醫療雙法上路近一年 公會嘆施行細則「荊棘密布」",
-      "summary": "",
-      "source": "民報",
-      "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93YVAwRjhwek40UkpwejVVbXM5WFVYbDljdGFJdUxCMjRocmlSTFQ0YnlsVmI0VDRFY0IxZXliQnFFY0VqUjRLczVYZHVEZHI4T05yNnpkRksyb3pBeXh6aENDWGY?oc=5"
-    },
-    {
-      "title": "AGC Biologics橫濱新廠迎來多項細胞治療專案",
-      "summary": "",
+      "title": "AGC Biologics橫濱新廠迎來多個細胞治療專案",
+      "summary": "AGC Biologics橫濱新廠啟用，將承接多項細胞治療專案，擴大產能。",
       "source": "GlobeNewswire",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVRrQUxyTUlDYm9MNVRSdVExOHJGNU9jNmVDWVFycThtdXRPcVYyRWwyQjNVcFA4cGd0TkQyUUVZRWpaZjZSeUhpeF82Z3M5QTlHR2NsZEFmRUpIdzFwMDh6SkpBV3NJakVRVUM4SHNnNGc3NU9leE9pLURXc2ZXM3Q5b05XQzV1WjVDSzVCVzlWVWoyMngyeUlaN0ZfQ0lDT1RVa2ZiOWNJVGN2WW4tblFJVUt2R2pkMG5tQUNCVmtYWmlBdThwNFdHV1BPVVRqRXFBdEthcnhPdWhqZ0FZ?oc=5",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "AGC Biologics Welcomes Multiple 細胞治療 Projects at Its New Yokohama Facility",
-      "summary": "rapy Projects at Its New Yokohama Facility Market.us",
-      "source": "Market.us",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUFDc2VfU2FHME5mSW53MXc0LWpkN05XSnlwUy1neDJCNnFXMHdVTVhnR0NZZFFYSXQwVnEweWp0RXFXa0l5cHJUSkdkdkdqa2k0dnRsOU1XVnZsMkt0ald6SmdrY1IyM2ZydWRUMTRVdGlnZUpTQUdmMTltZTdVUGRyODh5Qmo3cFFyVnBsMU44RlBPaVJWNDBNV2h0YmxSWVlndUl1TEE5QXQ3aDlIajdRWmhvQQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -98,27 +83,20 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia reports Q3FY26 loss of $1.9 million, advances Japan 日本藥品局（PMDA） path",
-      "summary": "llion, advances Japan 日本藥品局（PMDA） path scanx.trade",
-      "source": "scanx.trade",
-      "date": "2026-11-10",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFRqekpOQ1dDckkxTHJNai1UOVJVbE5zNmlhdGp4OEwxeXZlTTdkSWk3Q1FmVlA3OERmNUo3aEVMMnV6b3IxQjdBUEFqWUdxYmRIdDN4eGVPLUdiR1ZEdGhsYzFsUjNjRnNsdDktTHI1QW83WkRNWFFndmVuRmoxOXlvanJEVUpCSFJET1Q3a2FqdmtyMmtESHdxQUtDc05QNTJMSHRn?oc=5",
-      "lang": "zh-TW"
-    },
-    {
       "title": "BioCardia的CardiAMP完成日本上市前諮詢，成為首個心臟細胞療法",
-      "summary": "BioCardia的心臟細胞療法CardiAMP在日本完成上市前諮詢，創下首例。",
+      "summary": "BioCardia的心臟細胞療法CardiAMP在日本完成上市前諮詢，創下業界首例。",
       "source": "Tech Times",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "白袍部長5 八仙塵爆催生台灣再生醫療新頁",
-      "summary": "",
-      "source": "短新聞SHOTNEWS",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWUY3S0RuOUZjRjQ0LTRDeWgtcTh2SGZoZHgwSENiNmpZWW9xZjg2TFdfSS1UWVdUQzdZNmVxZjB3STRDWWNCVEt0SUJQVndoNG1mdQ?oc=5"
+      "title": "BioCardia在日本完成CardiAMP的醫藥品醫療機器綜合機構（PMDA）流程",
+      "summary": "BioCardia的心臟細胞療法CardiAMP在日本完成PMDA流程，為上市鋪路。",
+      "source": "scanx.trade",
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1JTb0gxUVd5eEhwUUI3OFloZFFKMTM3X2dhV1VQbzhDSm5FRzBnM0hWSWtEd0ZpekNZVHAzLVM3YXMtSE02ZV9Ca2lERXRIa2R6ZmdINUhfdTRRRUxqMklTX2gtWlllRmhxWEZpTHR2QnNCaF9RLS1ZNHp3b0ZkUG1LQ183c05hY1lMbFZNZGI4YmRTOWhSWEVKaFBlbDZVcDhhOG5lOA?oc=5",
+      "lang": "zh-TW"
     }
   ]
 }
