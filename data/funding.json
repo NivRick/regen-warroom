@@ -1,106 +1,90 @@
 {
   "module": "funding",
-  "updated": "2026-11-27T04:41:01.505721+00:00",
+  "updated": "2026-11-27T19:49:33.958152+00:00",
   "items": [
     {
-      "title": "STAT+: We’re reading about BioNTech founders’ oncology startup, a long-acting GSK drug, and more",
-      "summary": "The cofounders of BioNTech are in talks to raise about $1 billion for a new oncology company",
+      "title": "BioNTech創辦人成立癌症新創公司，葛蘭素史克（GSK）長效藥物等最新消息",
+      "summary": "據傳，德國生技公司BioNTech的共同創辦人正洽談為他們新成立的癌症公司募資，目標金額約10億美元。",
       "source": "STAT News",
       "date": "2026-11-25",
       "url": "https://www.statnews.com/pharmalot/2026/11/25/biontech-founders-oncology-startup-gsk-egpa-drug-exdensur/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
-      "summary": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
+      "title": "STAT+：Pharmalittle：我們正在閱讀有關賽諾菲收購 Insmed、羅氏推銷其乳腺癌藥物等的信息",
+      "summary": "賽諾菲 (Sanofi) 以 410 億美元收購生物技術公司 Insmed，這是多年來最大的生物製藥收購，將為這家法國公司帶來兩種新的批准藥物",
       "source": "STAT News",
       "date": "2026-11-24",
       "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
-      "summary": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
-      "source": "STAT News",
-      "date": "2026-11-24",
-      "url": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
-      "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
-      "source": "STAT News",
-      "date": "2026-11-24",
-      "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
-      "lang": "zh-TW"
-    },
-    {
-      "title": "美國食藥局（FDA） approves BridgeBio muscular dystrophy drug",
-      "summary": "Wall Street analysts say a price of nearly $1 million a year should drive blockbuster sales for a medicine that helped patients walk and breathe better.",
+      "title": "美國食藥局（FDA） 批准 BridgeBio 肌肉營養​​不良症藥物",
+      "summary": "華爾街分析師表示，每年近 100 萬美元的價格應該會推動這種幫助患者更好地行走和呼吸的藥物的暢銷。",
       "source": "BioPharma Dive",
       "date": "2026-11-24",
       "url": "https://www.biopharmadive.com/news/fda-bridgebio-welgemda-limb-girdle-muscle-disorder-approval/875610/",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） clears Roche’s oral SERD as treatment in early-stage breast cancer",
-      "summary": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product.",
+      "title": "美國食藥局（FDA） 核准羅氏口服 SERD 用於治療早期乳癌",
+      "summary": "最新的批准代表了羅氏這款藥物的巨大市場機會，該藥物已被羅氏吹捧為最暢銷的數十億美元產品。",
       "source": "BioPharma Dive",
       "date": "2026-11-24",
       "url": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
       "lang": "zh-TW"
     },
     {
-      "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
-      "summary": "Pointing to Insmed&rsquo;s pipeline and two commercial drugs, Sanofi said the deal will be &ldquo;transformative&rdquo; as well as complementary to its immunology and rare disease products.",
+      "title": "賽諾菲斥資 41B 美元收購 Insmed，完成今年最大的生物製藥收購",
+      "summary": "賽諾菲在談到 Insmed 的管道和兩種商業藥物時表示，這筆交易將是“變革性的”，並將對其免疫學和罕見疾病產品起到補充作用。",
       "source": "BioPharma Dive",
       "date": "2026-11-24",
       "url": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
       "lang": "zh-TW"
     },
     {
-      "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
-      "summary": "The acquisition hands Lilly what could become a first-of-its-kind treatment designed to inhibit a protein, &ldquo;MSH3,&rdquo; that can exacerbate the genetic abnormalities underlying diseases like Huntington's.",
+      "title": "禮來公司以 7.25 億美元收購亨廷頓藥物開發商 LoQus23",
+      "summary": "此次收購為禮來公司提供了一種首創的治療方法，旨在抑制蛋白質“MSH3”，這種蛋白質可以加劇亨廷頓舞蹈症等疾病的遺傳異常。",
       "source": "BioPharma Dive",
       "date": "2026-11-23",
       "url": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech Fundraising Tracker '26: Ritzey reveals $112.5M; VitriVax scores $87M",
-      "summary": "Ritzey reveals $112.5M; VitriVax scores $87M Fierce Biotech",
+      "title": "Fierce Biotech 籌款追蹤 '26：Ritzey 透露 1.125 億美元； VitriVax 營收 8,700 萬美元",
+      "summary": "Ritzey 透露 1.125 億美元； VitriVax 獲得 8,700 萬美元的資金 Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-11-23",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "These 10 french biotech startups could shape tomorrow’s medicine",
-      "summary": "hape tomorrow’s medicine Labiotech.eu",
+      "title": "這10家法國生技新創，將形塑明日醫療樣貌",
+      "summary": "這篇報導點名10家法國生技新創，看好它們在未來醫療領域的潛力與影響力。",
       "source": "Labiotech.eu",
       "date": "2026-11-23",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EX2VmNEtESGljbW9pZkkzT3c5XzVZV1F6ZXlwZ0QwWjFTZ2pXRWgtUV8wZldxbXhuOHB0WmhDVm5uQ2F6aXVxWUl3Y2hMSFA2T0VsdU5QRmZWT3lmRXpPYk5vdFd6WG8tQ2FqY2VB?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "美國食藥局（FDA） again turns back Capricor Duchenne 細胞治療",
-      "summary": "In an unusual statement, the 美國食藥局（FDA） accused Capricor of &ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
+      "title": "美國食藥局（FDA） 再次拒絕 Capricor Duchenne 細胞療法",
+      "summary": "美國食藥局（FDA） 在一份不同尋常的聲明中指責 Capricor “嚴重違反資料完整性”，損害了其研究結果，並導致 deramiocel 自 2025 年以來第二次被拒絕。",
       "source": "BioPharma Dive",
       "date": "2026-11-21",
       "url": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
       "lang": "zh-TW"
     },
     {
-      "title": "TreeFrog Therapeutics Appoints James Sterling as Chief Financial Officer",
-      "summary": "rling as Chief Financial Officer Via Ritzau",
+      "title": "TreeFrog Therapeutics 任命 James Sterling 為財務長",
+      "summary": "生技公司TreeFrog Therapeutics宣布，延攬James Sterling擔任新任財務長。",
       "source": "Via Ritzau",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObDJOTmJlalBaN1F1anpxYUh4MmxOVVVSN0w3TVFoWDl4RHFLb1AyelJTdy1RM1BlN2l6b0Nnakx6ODh2NzREUVhTRmhjcHp3bFFJVHJpMXdMZHJ6TlVVNGQxVjhlTkprakdHR1gxWGZ6d3ZYanlMNVlYeE03cElBOVlJVURQSUZxZ0trQWNUZkExNE9MNUdyTm12SzJtdXBqbXhNdzRUbXZQRS05UXVOOUtEa0xPRzAxRWhmUms0Rk9pbmJmQUFEU0RaWWphbURJMFdtMWRnMGNFOW55WExv?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "France Remains One of Europe’s Leading Biotech Funding Hubs",
-      "summary": "iotech Funding Hubs PharmTech.com",
+      "title": "法國仍是歐洲領先生技募資樞紐之一",
+      "summary": "報導指出，法國持續在歐洲生技產業募資方面扮演關鍵角色，穩居領先地位。",
       "source": "PharmTech.com",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0N4ZEM3M2p5WTNNbm9xcVNWaW9JdEYtZkFjZmtiNFRDbWdyMlZZYnZacWg4blNUZDFtSW1USmp0bGRTVE5NVlktRXN6Z1N3VGZkNDU0XzctbjdGX3JldlktY2h1SkNnaHIzZXpTU2VJdHgyRE5HNXctbktfQ29tb2w5MmFLeW4xSXB3QlRWNUtuX2Rx?oc=5",
