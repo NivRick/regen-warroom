@@ -1,18 +1,18 @@
 {
   "module": "funding",
-  "updated": "2026-11-26T19:58:05.313703+00:00",
+  "updated": "2026-11-27T04:41:01.505721+00:00",
   "items": [
     {
-      "title": "BioNTech創辦人新創腫瘤公司、葛蘭素史克（GSK）長效藥物等最新消息",
-      "summary": "BioNTech的共同創辦人正洽談為其新的腫瘤學公司募資約10億美元。",
+      "title": "STAT+: We’re reading about BioNTech founders’ oncology startup, a long-acting GSK drug, and more",
+      "summary": "The cofounders of BioNTech are in talks to raise about $1 billion for a new oncology company",
       "source": "STAT News",
       "date": "2026-11-25",
       "url": "https://www.statnews.com/pharmalot/2026/11/25/biontech-founders-oncology-startup-gsk-egpa-drug-exdensur/?utm_campaign=rss",
       "lang": "zh-TW"
     },
     {
-      "title": "賽諾菲（Sanofi",
-      "summary": "",
+      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
+      "summary": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
       "source": "STAT News",
       "date": "2026-11-24",
       "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
@@ -67,8 +67,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Fierce Biotech募資追",
-      "summary": "",
+      "title": "Fierce Biotech Fundraising Tracker '26: Ritzey reveals $112.5M; VitriVax scores $87M",
+      "summary": "Ritzey reveals $112.5M; VitriVax scores $87M Fierce Biotech",
       "source": "Fierce Biotech",
       "date": "2026-11-23",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
@@ -83,8 +83,8 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Capricor杜氏肌肉失養症細胞療法，FDA再次說不",
-      "summary": "美國食品藥物管理局（FDA）罕見地指控Capricor公司在杜氏肌肉失養症細胞療法的臨床試驗中，存在「嚴重數據完整性違規」，導致研究結果受到質疑，並再次駁回其藥物申請。",
+      "title": "美國食藥局（FDA） again turns back Capricor Duchenne 細胞治療",
+      "summary": "In an unusual statement, the 美國食藥局（FDA） accused Capricor of &ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
       "source": "BioPharma Dive",
       "date": "2026-11-21",
       "url": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
