@@ -1,10 +1,10 @@
 {
   "module": "regulation",
-  "updated": "2026-11-27T19:48:46.598203+00:00",
+  "updated": "2026-11-28T04:24:50.138128+00:00",
   "items": [
     {
-      "title": "FDA CBER網路研討會：納入人類基因體編輯的人類基因療法產品",
-      "summary": "美國食品藥物管理局（FDA）生物製品評估與研究中心（CBER）旗下的治療產品辦公室（OTP），將在2月某個週四舉辦一場線上公開網路研討會。",
+      "title": "美國食藥局（FDA） CBER 網路研討會：結合人類基因組編輯的人類基因療法產品",
+      "summary": "美國食藥局（FDA） 生物製品評估和研究中心 (CBER) 治療產品辦公室 (OTP) 將於 2 月 29 日星期四下午 1:00 舉辦虛擬公共網路研討會。",
       "source": "02/29/2024",
       "date": "2026-11-25",
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-cber-webinar-human-gene-therapy-products-incorporating-human-genome-editing-02292024",
@@ -20,15 +20,15 @@
     },
     {
       "title": "美國食藥局（FDA） 藥房學生體驗計劃",
-      "summary": "該課程提供了了解 美國食藥局（FDA） 解決涉及藥物、生物製劑和醫療器材的公共衛生問題的多學科流程的機會。参加 m 的药学学生获得 k",
+      "summary": "該課程提供了了解 美國食藥局（FDA） 解決涉及藥物、生物製劑和醫療器材的公共衛生問題的多學科流程的機會。參加 m 的藥學學生獲得 k",
       "source": "FDA Biologics",
       "date": "2026-11-25",
       "url": "http://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program",
       "lang": "zh-TW"
     },
     {
-      "title": "亞洲細胞與基因治療（CGT）製造成功關鍵：標準化與彈性",
-      "summary": "亞洲CGT產業快速發展，但法規、製造與供應鏈分散，需標準化與彈性應對。",
+      "title": "CGT Manufacturing Success in Asia Requires Standardization and Flexibility",
+      "summary": "亚洲的 CGT 治疗管道正在迅速扩张，但该地区分散的监管、制造和供应链格局带来了一个独特的挑战：如何建立足够标准化、可重复的流程。貼文 es S",
       "source": "GEN News",
       "date": "2026-11-25",
       "url": "https://www.genengnews.com/topics/bioprocessing/cgt-manufacturing-success-in-asia-requires-standardization-and-flexibility/",
@@ -43,7 +43,7 @@
       "lang": "zh-TW"
     },
     {
-      "title": "Biologics PREA Reviews and Labeling Changes",
+      "title": "生物製品 PREA 審查和標籤變更",
       "summary": "PREA 標籤變更以及兒科研究的醫學、統計和臨床藥理學審查根據《聯邦食品、藥品和化妝品法案》（《法案》）第 505B 條（經 2007 年 美國食藥局（FDA） 修正案法案 (FDAAAA) 修訂）進行。這些評估",
       "source": "FDA Biologics",
       "date": "2026-11-23",
@@ -60,18 +60,33 @@
     },
     {
       "title": "關於 Deramiocel BLA 治療杜氏肌肉營養不良症的聲明",
-      "summary": "美國食藥局（FDA） determined that the available evidence does not meet the evidentiary standard required for approval",
+      "summary": "美國食藥局（FDA） 確定現有證據不符合核准所需的證據標準",
       "source": "FDA Biologics",
       "date": "2026-11-20",
       "url": "http://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy",
       "lang": "zh-TW"
     },
     {
-      "title": "AGC Biologics橫濱新廠迎接多項細胞治療專案進駐",
-      "summary": "AGC Biologics宣布其橫濱新廠將承接多個細胞治療專案。",
+      "title": "再生醫療雙法上路近一年 公會嘆施行細則「荊棘密布」",
+      "summary": "",
+      "source": "民報",
+      "date": "2026-11-18",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93YVAwRjhwek40UkpwejVVbXM5WFVYbDljdGFJdUxCMjRocmlSTFQ0YnlsVmI0VDRFY0IxZXliQnFFY0VqUjRLczVYZHVEZHI4T05yNnpkRksyb3pBeXh6aENDWGY?oc=5"
+    },
+    {
+      "title": "AGC Biologics 歡迎多個細胞治療計畫落腳新橫濱工廠",
+      "summary": "新橫濱工廠的 rapy 項目 GlobeNewswire",
       "source": "GlobeNewswire",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVRrQUxyTUlDYm9MNVRSdVExOHJGNU9jNmVDWVFycThtdXRPcVYyRWwyQjNVcFA4cGd0TkQyUUVZRWpaZjZSeUhpeF82Z3M5QTlHR2NsZEFmRUpIdzFwMDh6SkpBV3NJakVRVUM4SHNnNGc3NU9leE9pLURXc2ZXM3Q5b05XQzV1WjVDSzVCVzlWVWoyMngyeUlaN0ZfQ0lDT1RVa2ZiOWNJVGN2WW4tblFJVUt2R2pkMG5tQUNCVmtYWmlBdThwNFdHV1BPVVRqRXFBdEthcnhPdWhqZ0FZ?oc=5",
+      "lang": "zh-TW"
+    },
+    {
+      "title": "AGC Biologics 在其橫濱新工廠迎來多個細胞治療項目",
+      "summary": "橫濱新廠的 rapy 專案 Market.us",
+      "source": "Market.us",
+      "date": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUFDc2VfU2FHME5mSW53MXc0LWpkN05XSnlwUy1neDJCNnFXMHdVTVhnR0NZZFFYSXQwVnEweWp0RXFXa0l5cHJUSkdkdkdqa2k0dnRsOU1XVnZsMkt0ald6SmdrY1IyM2ZydWRUMTRVdGlnZUpTQUdmMTltZTdVUGRyODh5Qmo3cFFyVnBsMU44RlBPaVJWNDBNV2h0YmxSWVlndUl1TEE5QXQ3aDlIajdRWmhvQQ?oc=5",
       "lang": "zh-TW"
     },
     {
@@ -83,20 +98,19 @@
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia的CardiAMP完成日本上市前諮詢，為首個心臟細胞療法達成此里程碑",
-      "summary": "BioCardia的心臟細胞療法CardiAMP在日本完成上市前諮詢，創下首例。",
+      "title": "BioCardia 的 CardiAMP 完成日本上市前諮詢，這是第一個心臟細胞療法",
+      "summary": "Market Consultation, First Cardiac 細胞治療 to Do So Tech Times",
       "source": "Tech Times",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNi1lNThjSGdMWFRVSUhEOGdjMlN5dUxpVlp0RmxHbmI0TE4tZ3RrU0lIR1QyQVdhTktzT2xfakxoWmZBcHRFNkpSbmt0Ymt3ck9RLVR0ZlBlVWNRYnB0RHhCbEFSOTBuenFTNFRWNTluUmZhU1Y2S25aWGRkWWs5TXFKRWJGNTJSRHI0dGxNRlNhSl9nUlBEcGRDVWNFYUpVRDZsTmtGTHNNcF9hYjVmejJZNWZrTDY2QlJuRnVqNVRrai1SYmt3Y2dqRnU0a3VXaVdYQWt1S3lISlM1MXFKdg?oc=5",
       "lang": "zh-TW"
     },
     {
-      "title": "BioCardia的CardiAMP完成日本醫藥品醫療機器綜合機構（PMDA）程序",
-      "summary": "BioCardia的心臟細胞療法CardiAMP已完成日本PMDA的審查程序。",
-      "source": "scanx.trade",
-      "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1JTb0gxUVd5eEhwUUI3OFloZFFKMTM3X2dhV1VQbzhDSm5FRzBnM0hWSWtEd0ZpekNZVHAzLVM3YXMtSE02ZV9Ca2lERXRIa2R6ZmdINUhfdTRRRUxqMklTX2gtWlllRmhxWEZpTHR2QnNCaF9RLS1ZNHp3b0ZkUG1LQ183c05hY1lMbFZNZGI4YmRTOWhSWEVKaFBlbDZVcDhhOG5lOA?oc=5",
-      "lang": "zh-TW"
+      "title": "白袍部長5 八仙塵爆催生台灣再生醫療新頁",
+      "summary": "",
+      "source": "短新聞SHOTNEWS",
+      "date": "2026-10-30",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWUY3S0RuOUZjRjQ0LTRDeWgtcTh2SGZoZHgwSENiNmpZWW9xZjg2TFdfSS1UWVdUQzdZNmVxZjB3STRDWWNCVEt0SUJQVndoNG1mdQ?oc=5"
     }
   ]
 }
